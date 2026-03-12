@@ -41,6 +41,6 @@ coverage/
 server/node_modules/
 server/.env
 
-# Keep data files for deployment
-!server/data/news.json
-!server/data/metadata.json
+# Data files - these are now tracked for deployment
+# !server/data/news.json
+# !server/data/metadata.json

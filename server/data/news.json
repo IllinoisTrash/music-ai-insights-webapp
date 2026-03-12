@@ -1,0 +1,248 @@
+[
+  {
+    "id": "news-001",
+    "title": "Spotify Reports Strong Q4 2024: AI-Powered Personalization Drives Growth",
+    "summary": "Spotify announced its Q4 2024 earnings, revealing that AI-powered features like AI DJ and personalized recommendations have significantly contributed to user engagement and retention. The company reported 602 million monthly active users, with premium subscribers reaching 236 million. AI-driven features have increased user session time by an average of 15%.",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Tim Ingham",
+    "publishedAt": "2024-02-06T10:00:00Z",
+    "url": "https://www.musicbusinessworldwide.com/",
+    "imageUrl": null,
+    "tags": [
+      "Spotify",
+      "AI",
+      "Earnings",
+      "Streaming"
+    ],
+    "readTime": 5,
+    "fetchedAt": "2026-03-12T08:34:10.774Z"
+  },
+  {
+    "id": "news-003",
+    "title": "Universal Music Partners with AI Company for Ethical Music Generation",
+    "summary": "Universal Music Group has announced a strategic partnership with an AI technology company to develop ethical AI music generation tools that respect artist rights and copyrights. The collaboration aims to create AI systems trained on licensed music only.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Glenn Peoples",
+    "publishedAt": "2024-02-28T09:15:00Z",
+    "url": "https://www.billboard.com/",
+    "imageUrl": null,
+    "tags": [
+      "Universal Music",
+      "AI",
+      "Partnership",
+      "Copyright"
+    ],
+    "readTime": 7,
+    "fetchedAt": "2026-03-12T08:34:10.774Z"
+  },
+  {
+    "id": "fresh-2026-03-12",
+    "title": "Market Analysis: AI Music Tools Adoption Accelerates",
+    "summary": "New market research shows rapid adoption of AI music production tools among professional and amateur musicians.",
+    "category": "trends-analysis",
+    "source": "Industry Analytics",
+    "tags": [
+      "Market Analysis",
+      "AI Tools",
+      "Trends"
+    ],
+    "author": "Automated News Bot",
+    "publishedAt": "2026-03-12T08:34:10.772Z",
+    "url": "https://music-ai-insights-webapp.vercel.app/",
+    "imageUrl": null,
+    "readTime": 5,
+    "fetchedAt": "2026-03-12T08:34:10.774Z"
+  },
+  {
+    "id": "news-005",
+    "title": "Google DeepMind Unveils Lyria 2: Next-Gen Music Generation Model",
+    "summary": "Google DeepMind has released Lyria 2, an advanced music generation model capable of creating high-fidelity audio with improved instrument separation and vocal clarity. The new model can generate music up to 5 minutes long.",
+    "category": "ai-research",
+    "source": "Google AI Blog",
+    "author": "DeepMind Team",
+    "publishedAt": "2024-03-05T08:00:00Z",
+    "url": "https://deepmind.google/",
+    "imageUrl": null,
+    "tags": [
+      "Google",
+      "DeepMind",
+      "Lyria",
+      "AI Research"
+    ],
+    "readTime": 9,
+    "fetchedAt": "2026-03-12T08:34:10.774Z"
+  },
+  {
+    "id": "news-010",
+    "title": "Global Music Streaming Revenue Hits $19.3 Billion in 2023",
+    "summary": "The latest IFPI Global Music Report shows streaming revenue continues to dominate the music industry, growing 10.3% year-over-year to reach $19.3 billion.",
+    "category": "trends-analysis",
+    "source": "IFPI",
+    "author": "IFPI Research Team",
+    "publishedAt": "2024-03-01T09:00:00Z",
+    "url": "https://www.ifpi.org/",
+    "imageUrl": null,
+    "tags": [
+      "IFPI",
+      "Streaming",
+      "Revenue",
+      "Industry Report"
+    ],
+    "readTime": 11,
+    "fetchedAt": "2026-03-12T08:34:10.774Z"
+  },
+  {
+    "id": "news-006",
+    "title": "Apple Music Introduces AI-Curated Spatial Audio Playlists",
+    "summary": "Apple Music is rolling out new AI-powered playlists optimized for Spatial Audio, using machine learning to enhance the immersive listening experience for subscribers.",
+    "category": "tech-innovation",
+    "source": "The Verge",
+    "author": "Chris Welch",
+    "publishedAt": "2024-02-15T16:45:00Z",
+    "url": "https://www.theverge.com/",
+    "imageUrl": null,
+    "tags": [
+      "Apple Music",
+      "Spatial Audio",
+      "AI",
+      "Playlists"
+    ],
+    "readTime": 5,
+    "fetchedAt": "2026-03-12T08:34:10.774Z"
+  },
+  {
+    "id": "news-008",
+    "title": "Meta's AudioCraft Open Source: Community Response and Impact",
+    "summary": "Since open-sourcing AudioCraft, Meta has seen significant community adoption with over 10,000 developers contributing to the project. New research papers and applications are emerging rapidly.",
+    "category": "ai-research",
+    "source": "Meta AI Blog",
+    "author": "AudioCraft Team",
+    "publishedAt": "2024-02-25T13:00:00Z",
+    "url": "https://ai.meta.com/",
+    "imageUrl": null,
+    "tags": [
+      "Meta",
+      "AudioCraft",
+      "Open Source",
+      "AI Music"
+    ],
+    "readTime": 7,
+    "fetchedAt": "2026-03-12T08:34:10.774Z"
+  },
+  {
+    "id": "news-002",
+    "title": "Suno AI Raises $125M Series B to Revolutionize Music Creation",
+    "summary": "AI music generation startup Suno has raised $125 million in Series B funding led by Lightspeed Venture Partners. The company's technology allows users to create full songs from text prompts. The new funding will be used to expand the team, improve model quality, and explore licensing partnerships with major labels.",
+    "category": "ai-research",
+    "source": "TechCrunch",
+    "author": "Sarah Perez",
+    "publishedAt": "2024-03-01T14:30:00Z",
+    "url": "https://techcrunch.com/",
+    "imageUrl": null,
+    "tags": [
+      "Suno",
+      "AI Music",
+      "Funding",
+      "Startup"
+    ],
+    "readTime": 6,
+    "fetchedAt": "2026-03-12T08:34:10.774Z"
+  },
+  {
+    "id": "news-012",
+    "title": "Sony Music Launches AI Innovation Lab for Artists",
+    "summary": "Sony Music Entertainment has launched a dedicated AI Innovation Lab to help artists explore creative applications of artificial intelligence.",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Murray Stassen",
+    "publishedAt": "2024-03-03T09:30:00Z",
+    "url": "https://www.musicbusinessworldwide.com/",
+    "imageUrl": null,
+    "tags": [
+      "Sony Music",
+      "AI Lab",
+      "Innovation",
+      "Artists"
+    ],
+    "readTime": 6,
+    "fetchedAt": "2026-03-12T08:34:10.774Z"
+  },
+  {
+    "id": "news-004",
+    "title": "New Study Reveals 67% of Music Producers Now Use AI Tools",
+    "summary": "A comprehensive survey of over 2,000 music producers reveals that AI-assisted tools are becoming standard in modern music production workflows. The study found that 67% of producers now use AI for at least one stage of production.",
+    "category": "trends-analysis",
+    "source": "MusicTech",
+    "author": "MusicTech Team",
+    "publishedAt": "2024-02-20T11:00:00Z",
+    "url": "https://musictech.com/",
+    "imageUrl": null,
+    "tags": [
+      "AI Tools",
+      "Music Production",
+      "Study",
+      "Trends"
+    ],
+    "readTime": 8,
+    "fetchedAt": "2026-03-12T08:34:10.774Z"
+  },
+  {
+    "id": "news-011",
+    "title": "AI-Powered Mastering Services Disrupt Traditional Studios",
+    "summary": "Automated AI mastering services like LANDR, eMastered, and CloudBounce are gaining market share, with independent artists increasingly choosing AI over human engineers.",
+    "category": "trends-analysis",
+    "source": "Hypebot",
+    "author": "Bruce Houghton",
+    "publishedAt": "2024-02-18T14:00:00Z",
+    "url": "https://hypebot.com/",
+    "imageUrl": null,
+    "tags": [
+      "AI Mastering",
+      "LANDR",
+      "Music Production",
+      "Trends"
+    ],
+    "readTime": 8,
+    "fetchedAt": "2026-03-12T08:34:10.774Z"
+  },
+  {
+    "id": "news-009",
+    "title": "TikTok Expands AI Music Features for Creators",
+    "summary": "TikTok is expanding its AI music creation tools, allowing creators to generate custom soundtracks for their videos directly within the app. The new feature uses a lightweight AI model optimized for mobile devices.",
+    "category": "tech-innovation",
+    "source": "TechCrunch",
+    "author": "Amanda Silberling",
+    "publishedAt": "2024-03-10T11:20:00Z",
+    "url": "https://techcrunch.com/",
+    "imageUrl": null,
+    "tags": [
+      "TikTok",
+      "AI Music",
+      "Creators",
+      "Social Media"
+    ],
+    "readTime": 6,
+    "fetchedAt": "2026-03-12T08:34:10.774Z"
+  },
+  {
+    "id": "news-007",
+    "title": "EU AI Act: What It Means for Music Industry",
+    "summary": "The European Union's AI Act has been finalized, with specific provisions affecting AI-generated music and content. The legislation requires transparency when AI is used to generate music.",
+    "category": "industry-news",
+    "source": "Music Ally",
+    "author": "Stuart Dredge",
+    "publishedAt": "2024-03-08T10:30:00Z",
+    "url": "https://musically.com/",
+    "imageUrl": null,
+    "tags": [
+      "EU AI Act",
+      "Regulation",
+      "Copyright",
+      "Policy"
+    ],
+    "readTime": 10,
+    "fetchedAt": "2026-03-12T08:34:10.774Z"
+  }
+]
