@@ -6,14 +6,15 @@ import { fileURLToPath } from 'url';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 
-let newsData = [];
-
-try {
-  const newsPath = join(__dirname, '..', 'server', 'data', 'news.json');
-  newsData = JSON.parse(readFileSync(newsPath, 'utf-8'));
-} catch (error) {
-  console.error('Error loading news data:', error);
-  newsData = [];
+// Function to load data dynamically (called on each request)
+function loadNewsData() {
+  try {
+    const newsPath = join(__dirname, '..', 'server', 'data', 'news.json');
+    return JSON.parse(readFileSync(newsPath, 'utf-8'));
+  } catch (error) {
+    console.error('Error loading news data:', error);
+    return [];
+  }
 }
 
 export default function handler(req, res) {
@@ -31,6 +32,9 @@ export default function handler(req, res) {
   }
 
   try {
+    // Load fresh data on each request
+    const newsData = loadNewsData();
+    
     const categories = newsData.reduce((acc, article) => {
       acc[article.category] = (acc[article.category] || 0) + 1;
       return acc;

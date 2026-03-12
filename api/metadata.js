@@ -6,14 +6,15 @@ import { fileURLToPath } from 'url';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 
-let metadata = {};
-
-try {
-  const metadataPath = join(__dirname, '..', 'server', 'data', 'metadata.json');
-  metadata = JSON.parse(readFileSync(metadataPath, 'utf-8'));
-} catch (error) {
-  console.error('Error loading metadata:', error);
-  metadata = { lastUpdated: new Date().toISOString(), totalArticles: 0 };
+// Function to load metadata dynamically (called on each request)
+function loadMetadata() {
+  try {
+    const metadataPath = join(__dirname, '..', 'server', 'data', 'metadata.json');
+    return JSON.parse(readFileSync(metadataPath, 'utf-8'));
+  } catch (error) {
+    console.error('Error loading metadata:', error);
+    return { lastUpdated: new Date().toISOString(), totalArticles: 0 };
+  }
 }
 
 export default function handler(req, res) {
@@ -31,6 +32,9 @@ export default function handler(req, res) {
   }
 
   try {
+    // Load fresh metadata on each request
+    const metadata = loadMetadata();
+    
     return res.status(200).json({
       success: true,
       data: metadata

@@ -7,21 +7,24 @@ import { fileURLToPath } from 'url';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 
-// Load data files
-let newsData = [];
-let metadata = {};
-
-try {
-  const newsPath = join(__dirname, '..', 'server', 'data', 'news.json');
-  const metadataPath = join(__dirname, '..', 'server', 'data', 'metadata.json');
-  
-  newsData = JSON.parse(readFileSync(newsPath, 'utf-8'));
-  metadata = JSON.parse(readFileSync(metadataPath, 'utf-8'));
-} catch (error) {
-  console.error('Error loading data files:', error);
-  // Use empty data as fallback
-  newsData = [];
-  metadata = { lastUpdated: new Date().toISOString(), totalArticles: 0 };
+// Function to load data files dynamically (called on each request)
+function loadData() {
+  try {
+    const newsPath = join(__dirname, '..', 'server', 'data', 'news.json');
+    const metadataPath = join(__dirname, '..', 'server', 'data', 'metadata.json');
+    
+    const newsData = JSON.parse(readFileSync(newsPath, 'utf-8'));
+    const metadata = JSON.parse(readFileSync(metadataPath, 'utf-8'));
+    
+    return { newsData, metadata };
+  } catch (error) {
+    console.error('Error loading data files:', error);
+    // Use empty data as fallback
+    return {
+      newsData: [],
+      metadata: { lastUpdated: new Date().toISOString(), totalArticles: 0 }
+    };
+  }
 }
 
 export default function handler(req, res) {
@@ -51,6 +54,9 @@ export default function handler(req, res) {
 }
 
 function handleGetNews(query, res) {
+  // Load fresh data on each request
+  const { newsData, metadata } = loadData();
+  
   const { category, search, limit = 50, offset = 0, id } = query;
 
   // If ID is provided, return single article
@@ -101,11 +107,18 @@ function handleGetNews(query, res) {
       limit: parseInt(limit) || 50,
       offset: start,
       hasMore: end < total
+    },
+    meta: {
+      lastUpdated: metadata.lastUpdated,
+      totalArticles: metadata.totalArticles || newsData.length
     }
   });
 }
 
 function handlePostNews(req, res) {
+  // Load fresh data
+  const { newsData, metadata } = loadData();
+  
   return res.status(200).json({
     success: true,
     message: 'News refresh triggered',
