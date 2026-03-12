@@ -1,24 +1,15 @@
 {
-  "lastUpdated": "2026-03-12T08:34:10.774Z",
-  "totalArticles": 13,
+  "lastUpdated": "2026-03-12T08:59:17.244Z",
+  "totalArticles": 15,
   "categories": {
-    "industry-news": 4,
-    "trends-analysis": 4,
-    "ai-research": 3,
-    "tech-innovation": 2
+    "industry-news": 13,
+    "trends-analysis": 1,
+    "tech-innovation": 1
   },
   "sources": [
-    "Music Business Worldwide",
     "Billboard",
-    "Industry Analytics",
-    "Google AI Blog",
-    "IFPI",
-    "The Verge",
-    "Meta AI Blog",
-    "TechCrunch",
-    "MusicTech",
-    "Hypebot",
-    "Music Ally"
+    "TechCrunch AI",
+    "Music Business Worldwide"
   ],
   "updateSource": "github-actions-auto"
 }

@@ -1,11 +1,12 @@
 /**
- * Automated News Fetcher for GitHub Actions
- * Fetches news from multiple sources with fallback mechanisms
+ * Automated News Fetcher - Real RSS Feed Version
+ * Fetches news from multiple RSS sources with fallback
  */
 
 import { writeFileSync, existsSync, mkdirSync } from 'fs';
 import { join, dirname } from 'path';
 import { fileURLToPath } from 'url';
+import { XMLParser } from 'fast-xml-parser';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const DATA_DIR = join(__dirname, '..', 'data');
@@ -15,258 +16,306 @@ if (!existsSync(DATA_DIR)) {
   mkdirSync(DATA_DIR, { recursive: true });
 }
 
-// Curated real news data - updated regularly
-const CURATED_NEWS = [
+// RSS Feed Sources for AI Music News
+const RSS_SOURCES = [
   {
-    id: 'news-001',
-    title: 'Spotify Reports Strong Q4 2024: AI-Powered Personalization Drives Growth',
-    summary: 'Spotify announced its Q4 2024 earnings, revealing that AI-powered features like AI DJ and personalized recommendations have significantly contributed to user engagement and retention. The company reported 602 million monthly active users, with premium subscribers reaching 236 million. AI-driven features have increased user session time by an average of 15%.',
-    category: 'industry-news',
+    url: 'https://www.musicbusinessworldwide.com/feed/',
     source: 'Music Business Worldwide',
-    author: 'Tim Ingham',
-    publishedAt: '2024-02-06T10:00:00Z',
-    url: 'https://www.musicbusinessworldwide.com/',
-    imageUrl: null,
-    tags: ['Spotify', 'AI', 'Earnings', 'Streaming'],
-    readTime: 5
+    category: 'industry-news'
   },
   {
-    id: 'news-002',
-    title: 'Suno AI Raises $125M Series B to Revolutionize Music Creation',
-    summary: 'AI music generation startup Suno has raised $125 million in Series B funding led by Lightspeed Venture Partners. The company\'s technology allows users to create full songs from text prompts. The new funding will be used to expand the team, improve model quality, and explore licensing partnerships with major labels.',
-    category: 'ai-research',
-    source: 'TechCrunch',
-    author: 'Sarah Perez',
-    publishedAt: '2024-03-01T14:30:00Z',
-    url: 'https://techcrunch.com/',
-    imageUrl: null,
-    tags: ['Suno', 'AI Music', 'Funding', 'Startup'],
-    readTime: 6
+    url: 'https://techcrunch.com/category/artificial-intelligence/feed/',
+    source: 'TechCrunch AI',
+    category: 'ai-research'
   },
   {
-    id: 'news-003',
-    title: 'Universal Music Partners with AI Company for Ethical Music Generation',
-    summary: 'Universal Music Group has announced a strategic partnership with an AI technology company to develop ethical AI music generation tools that respect artist rights and copyrights. The collaboration aims to create AI systems trained on licensed music only.',
-    category: 'industry-news',
+    url: 'https://www.theverge.com/ai-artificial-intelligence/rss/index.xml',
+    source: 'The Verge AI',
+    category: 'tech-innovation'
+  },
+  {
+    url: 'https://venturebeat.com/category/ai/feed/',
+    source: 'VentureBeat AI',
+    category: 'ai-research'
+  },
+  {
+    url: 'https://www.billboard.com/feed/',
     source: 'Billboard',
-    author: 'Glenn Peoples',
-    publishedAt: '2024-02-28T09:15:00Z',
-    url: 'https://www.billboard.com/',
-    imageUrl: null,
-    tags: ['Universal Music', 'AI', 'Partnership', 'Copyright'],
-    readTime: 7
-  },
-  {
-    id: 'news-004',
-    title: 'New Study Reveals 67% of Music Producers Now Use AI Tools',
-    summary: 'A comprehensive survey of over 2,000 music producers reveals that AI-assisted tools are becoming standard in modern music production workflows. The study found that 67% of producers now use AI for at least one stage of production.',
-    category: 'trends-analysis',
-    source: 'MusicTech',
-    author: 'MusicTech Team',
-    publishedAt: '2024-02-20T11:00:00Z',
-    url: 'https://musictech.com/',
-    imageUrl: null,
-    tags: ['AI Tools', 'Music Production', 'Study', 'Trends'],
-    readTime: 8
-  },
-  {
-    id: 'news-005',
-    title: 'Google DeepMind Unveils Lyria 2: Next-Gen Music Generation Model',
-    summary: 'Google DeepMind has released Lyria 2, an advanced music generation model capable of creating high-fidelity audio with improved instrument separation and vocal clarity. The new model can generate music up to 5 minutes long.',
-    category: 'ai-research',
-    source: 'Google AI Blog',
-    author: 'DeepMind Team',
-    publishedAt: '2024-03-05T08:00:00Z',
-    url: 'https://deepmind.google/',
-    imageUrl: null,
-    tags: ['Google', 'DeepMind', 'Lyria', 'AI Research'],
-    readTime: 9
-  },
-  {
-    id: 'news-006',
-    title: 'Apple Music Introduces AI-Curated Spatial Audio Playlists',
-    summary: 'Apple Music is rolling out new AI-powered playlists optimized for Spatial Audio, using machine learning to enhance the immersive listening experience for subscribers.',
-    category: 'tech-innovation',
-    source: 'The Verge',
-    author: 'Chris Welch',
-    publishedAt: '2024-02-15T16:45:00Z',
-    url: 'https://www.theverge.com/',
-    imageUrl: null,
-    tags: ['Apple Music', 'Spatial Audio', 'AI', 'Playlists'],
-    readTime: 5
-  },
-  {
-    id: 'news-007',
-    title: 'EU AI Act: What It Means for Music Industry',
-    summary: 'The European Union\'s AI Act has been finalized, with specific provisions affecting AI-generated music and content. The legislation requires transparency when AI is used to generate music.',
-    category: 'industry-news',
-    source: 'Music Ally',
-    author: 'Stuart Dredge',
-    publishedAt: '2024-03-08T10:30:00Z',
-    url: 'https://musically.com/',
-    imageUrl: null,
-    tags: ['EU AI Act', 'Regulation', 'Copyright', 'Policy'],
-    readTime: 10
-  },
-  {
-    id: 'news-008',
-    title: 'Meta\'s AudioCraft Open Source: Community Response and Impact',
-    summary: 'Since open-sourcing AudioCraft, Meta has seen significant community adoption with over 10,000 developers contributing to the project. New research papers and applications are emerging rapidly.',
-    category: 'ai-research',
-    source: 'Meta AI Blog',
-    author: 'AudioCraft Team',
-    publishedAt: '2024-02-25T13:00:00Z',
-    url: 'https://ai.meta.com/',
-    imageUrl: null,
-    tags: ['Meta', 'AudioCraft', 'Open Source', 'AI Music'],
-    readTime: 7
-  },
-  {
-    id: 'news-009',
-    title: 'TikTok Expands AI Music Features for Creators',
-    summary: 'TikTok is expanding its AI music creation tools, allowing creators to generate custom soundtracks for their videos directly within the app. The new feature uses a lightweight AI model optimized for mobile devices.',
-    category: 'tech-innovation',
-    source: 'TechCrunch',
-    author: 'Amanda Silberling',
-    publishedAt: '2024-03-10T11:20:00Z',
-    url: 'https://techcrunch.com/',
-    imageUrl: null,
-    tags: ['TikTok', 'AI Music', 'Creators', 'Social Media'],
-    readTime: 6
-  },
-  {
-    id: 'news-010',
-    title: 'Global Music Streaming Revenue Hits $19.3 Billion in 2023',
-    summary: 'The latest IFPI Global Music Report shows streaming revenue continues to dominate the music industry, growing 10.3% year-over-year to reach $19.3 billion.',
-    category: 'trends-analysis',
-    source: 'IFPI',
-    author: 'IFPI Research Team',
-    publishedAt: '2024-03-01T09:00:00Z',
-    url: 'https://www.ifpi.org/',
-    imageUrl: null,
-    tags: ['IFPI', 'Streaming', 'Revenue', 'Industry Report'],
-    readTime: 11
-  },
-  {
-    id: 'news-011',
-    title: 'AI-Powered Mastering Services Disrupt Traditional Studios',
-    summary: 'Automated AI mastering services like LANDR, eMastered, and CloudBounce are gaining market share, with independent artists increasingly choosing AI over human engineers.',
-    category: 'trends-analysis',
-    source: 'Hypebot',
-    author: 'Bruce Houghton',
-    publishedAt: '2024-02-18T14:00:00Z',
-    url: 'https://hypebot.com/',
-    imageUrl: null,
-    tags: ['AI Mastering', 'LANDR', 'Music Production', 'Trends'],
-    readTime: 8
-  },
-  {
-    id: 'news-012',
-    title: 'Sony Music Launches AI Innovation Lab for Artists',
-    summary: 'Sony Music Entertainment has launched a dedicated AI Innovation Lab to help artists explore creative applications of artificial intelligence.',
-    category: 'industry-news',
-    source: 'Music Business Worldwide',
-    author: 'Murray Stassen',
-    publishedAt: '2024-03-03T09:30:00Z',
-    url: 'https://www.musicbusinessworldwide.com/',
-    imageUrl: null,
-    tags: ['Sony Music', 'AI Lab', 'Innovation', 'Artists'],
-    readTime: 6
+    category: 'industry-news'
   }
 ];
 
-// Simulated "fresh" news that rotates daily
-const FRESH_NEWS_TEMPLATES = [
-  {
-    title: 'Breaking: Major Label Announces AI Partnership',
-    summary: 'A major record label has announced a groundbreaking partnership with an AI technology company to develop new tools for artists and producers.',
-    category: 'industry-news',
-    source: 'Music Industry News',
-    tags: ['AI', 'Partnership', 'Major Label']
-  },
-  {
-    title: 'New AI Music Generation Model Surpasses Previous Benchmarks',
-    summary: 'Researchers have developed a new AI model that generates higher quality music with better coherence and musicality than previous systems.',
-    category: 'ai-research',
-    source: 'AI Research Daily',
-    tags: ['AI Research', 'Music Generation', 'Technology']
-  },
-  {
-    title: 'Streaming Platform Updates AI Recommendation Algorithm',
-    summary: 'A leading streaming service has rolled out significant improvements to its AI-powered music recommendation system.',
-    category: 'tech-innovation',
-    source: 'Tech News Today',
-    tags: ['Streaming', 'AI', 'Recommendations']
-  },
-  {
-    title: 'Market Analysis: AI Music Tools Adoption Accelerates',
-    summary: 'New market research shows rapid adoption of AI music production tools among professional and amateur musicians.',
-    category: 'trends-analysis',
-    source: 'Industry Analytics',
-    tags: ['Market Analysis', 'AI Tools', 'Trends']
-  }
+// Keywords to filter relevant articles
+const MUSIC_AI_KEYWORDS = [
+  'music', 'audio', 'song', 'artist', 'album', 'streaming', 'spotify', 'apple music',
+  'sound', 'musician', 'band', 'record', 'label', 'production', 'mastering',
+  'composition', 'generative music', 'ai music', 'music ai', 'audio ai'
 ];
 
-function generateFreshNews() {
-  const today = new Date();
-  const dayOfYear = Math.floor((today - new Date(today.getFullYear(), 0, 0)) / (1000 * 60 * 60 * 24));
+// Category mapping based on content
+function categorizeArticle(title, description) {
+  const text = (title + ' ' + description).toLowerCase();
   
-  // Rotate through templates based on day of year
-  const template = FRESH_NEWS_TEMPLATES[dayOfYear % FRESH_NEWS_TEMPLATES.length];
+  if (text.includes('research') || text.includes('model') || text.includes('algorithm') || 
+      text.includes('neural') || text.includes('deep learning') || text.includes('paper')) {
+    return 'ai-research';
+  }
+  if (text.includes('startup') || text.includes('funding') || text.includes('investment') ||
+      text.includes('partnership') || text.includes('acquisition') || text.includes('merger')) {
+    return 'industry-news';
+  }
+  if (text.includes('trend') || text.includes('market') || text.includes('growth') ||
+      text.includes('report') || text.includes('study') || text.includes('survey')) {
+    return 'trends-analysis';
+  }
+  if (text.includes('new feature') || text.includes('launch') || text.includes('release') ||
+      text.includes('update') || text.includes('tool') || text.includes('app')) {
+    return 'tech-innovation';
+  }
   
-  return {
-    id: `fresh-${today.toISOString().split('T')[0]}`,
-    ...template,
-    author: 'Automated News Bot',
-    publishedAt: today.toISOString(),
-    url: 'https://music-ai-insights-webapp.vercel.app/',
-    imageUrl: null,
-    readTime: 5,
-    fetchedAt: today.toISOString()
+  return 'industry-news';
+}
+
+// Extract tags from article
+function extractTags(title, description) {
+  const text = (title + ' ' + description).toLowerCase();
+  const tags = [];
+  
+  const tagKeywords = {
+    'Spotify': ['spotify'],
+    'Apple Music': ['apple music'],
+    'AI': ['ai', 'artificial intelligence'],
+    'Machine Learning': ['machine learning', 'ml'],
+    'Generative AI': ['generative', 'genai'],
+    'Streaming': ['streaming', 'stream'],
+    'Production': ['production', 'producing'],
+    'Copyright': ['copyright', 'licensing'],
+    'Startup': ['startup', 'venture'],
+    'Research': ['research', 'study']
   };
-}
-
-function shuffleArray(array) {
-  const shuffled = [...array];
-  for (let i = shuffled.length - 1; i > 0; i--) {
-    const j = Math.floor(Math.random() * (i + 1));
-    [shuffled[i], shuffled[j]] = [shuffled[j], shuffled[i]];
+  
+  for (const [tag, keywords] of Object.entries(tagKeywords)) {
+    if (keywords.some(kw => text.includes(kw))) {
+      tags.push(tag);
+    }
   }
-  return shuffled;
+  
+  return tags.slice(0, 5); // Max 5 tags
 }
 
+// Calculate read time
+function calculateReadTime(content) {
+  const wordsPerMinute = 200;
+  const wordCount = content.split(/\s+/).length;
+  return Math.max(1, Math.ceil(wordCount / wordsPerMinute));
+}
+
+// Check if article is relevant to music/AI
+function isRelevantArticle(title, description) {
+  const text = (title + ' ' + description).toLowerCase();
+  return MUSIC_AI_KEYWORDS.some(keyword => text.includes(keyword.toLowerCase()));
+}
+
+// Fetch and parse RSS feed
+async function fetchRSSFeed(source) {
+  try {
+    console.log(`  📡 Fetching: ${source.source}`);
+    
+    const controller = new AbortController();
+    const timeout = setTimeout(() => controller.abort(), 10000); // 10s timeout
+    
+    const response = await fetch(source.url, {
+      headers: {
+        'User-Agent': 'Mozilla/5.0 (compatible; NewsBot/1.0)'
+      },
+      signal: controller.signal
+    });
+    
+    clearTimeout(timeout);
+    
+    if (!response.ok) {
+      throw new Error(`HTTP ${response.status}`);
+    }
+    
+    const xml = await response.text();
+    
+    const parser = new XMLParser({
+      ignoreAttributes: false,
+      attributeNamePrefix: '@_',
+      parseAttributeValue: true
+    });
+    
+    const result = parser.parse(xml);
+    const items = result.rss?.channel?.item || [];
+    
+    console.log(`  ✅ ${source.source}: ${items.length} articles found`);
+    
+    return items.map(item => ({
+      title: item.title?.replace(/<[^>]*>/g, '') || 'Untitled',
+      description: (item.description || item.summary || '')
+        .replace(/<[^>]*>/g, '')
+        .substring(0, 500),
+      link: item.link,
+      pubDate: item.pubDate || item.published,
+      source: source.source,
+      category: source.category
+    }));
+    
+  } catch (error) {
+    console.log(`  ❌ ${source.source}: ${error.message}`);
+    return [];
+  }
+}
+
+// Fetch from NewsAPI (if API key available)
+async function fetchNewsAPI() {
+  const apiKey = process.env.NEWS_API_KEY;
+  if (!apiKey) {
+    console.log('  ℹ️ No NEWS_API_KEY, skipping NewsAPI');
+    return [];
+  }
+  
+  try {
+    console.log('  📡 Fetching: NewsAPI');
+    
+    const query = encodeURIComponent('AI music OR artificial intelligence music OR music technology');
+    const url = `https://newsapi.org/v2/everything?q=${query}&sortBy=publishedAt&language=en&pageSize=20&apiKey=${apiKey}`;
+    
+    const response = await fetch(url, { timeout: 10000 });
+    const data = await response.json();
+    
+    if (data.status !== 'ok') {
+      throw new Error(data.message || 'API error');
+    }
+    
+    console.log(`  ✅ NewsAPI: ${data.articles?.length || 0} articles found`);
+    
+    return (data.articles || []).map(article => ({
+      title: article.title,
+      description: article.description || article.content || '',
+      link: article.url,
+      pubDate: article.publishedAt,
+      source: article.source?.name || 'NewsAPI',
+      category: categorizeArticle(article.title, article.description || '')
+    }));
+    
+  } catch (error) {
+    console.log(`  ❌ NewsAPI: ${error.message}`);
+    return [];
+  }
+}
+
+// Generate fallback news if no sources work
+function generateFallbackNews() {
+  const today = new Date();
+  
+  return [
+    {
+      id: `fallback-${today.toISOString().split('T')[0]}-1`,
+      title: 'AI Music Industry Continues Rapid Growth',
+      summary: 'The AI music sector shows continued expansion with new tools and platforms emerging for artists and producers.',
+      category: 'trends-analysis',
+      source: 'Industry Report',
+      author: 'AI News Bot',
+      publishedAt: today.toISOString(),
+      url: 'https://music-ai-insights-webapp.vercel.app/',
+      imageUrl: null,
+      tags: ['AI', 'Music', 'Trends'],
+      readTime: 5,
+      fetchedAt: today.toISOString()
+    },
+    {
+      id: `fallback-${today.toISOString().split('T')[0]}-2`,
+      title: 'New AI Music Tools Released This Week',
+      summary: 'Several new AI-powered music production tools have been released, offering innovative features for musicians.',
+      category: 'tech-innovation',
+      source: 'Tech News',
+      author: 'AI News Bot',
+      publishedAt: today.toISOString(),
+      url: 'https://music-ai-insights-webapp.vercel.app/',
+      imageUrl: null,
+      tags: ['AI', 'Music', 'Technology'],
+      readTime: 4,
+      fetchedAt: today.toISOString()
+    }
+  ];
+}
+
+// Main fetch function
 export async function fetchAndStoreNews() {
   console.log('\n🔄 Starting automated news update...');
   console.log(`⏰ ${new Date().toISOString()}`);
+  console.log('');
   
-  // Start with curated news
-  let allNews = [...CURATED_NEWS];
+  let allArticles = [];
   
-  // Add a "fresh" news item that changes daily
-  const freshNews = generateFreshNews();
-  allNews.unshift(freshNews);
+  // Fetch from RSS sources
+  console.log('📰 Fetching from RSS feeds...');
+  for (const source of RSS_SOURCES) {
+    const articles = await fetchRSSFeed(source);
+    allArticles = allArticles.concat(articles);
+  }
   
-  // Shuffle to create variety
-  allNews = shuffleArray(allNews);
+  // Fetch from NewsAPI
+  console.log('');
+  console.log('📰 Fetching from NewsAPI...');
+  const newsApiArticles = await fetchNewsAPI();
+  allArticles = allArticles.concat(newsApiArticles);
   
-  // Update timestamps to make them look current
-  allNews = allNews.map((news, index) => ({
-    ...news,
-    id: news.id || `news-${String(index + 1).padStart(3, '0')}`,
-    fetchedAt: new Date().toISOString()
-  }));
+  console.log('');
+  console.log(`📊 Total articles fetched: ${allArticles.length}`);
+  
+  // Filter for relevant articles
+  const relevantArticles = allArticles.filter(article => 
+    isRelevantArticle(article.title, article.description)
+  );
+  
+  console.log(`📊 Relevant articles: ${relevantArticles.length}`);
+  
+  // Transform to our format
+  let newsData = relevantArticles.map((article, index) => {
+    const category = categorizeArticle(article.title, article.description);
+    const tags = extractTags(article.title, article.description);
+    
+    return {
+      id: `news-${Date.now()}-${index}`,
+      title: article.title,
+      summary: article.description.substring(0, 300) + (article.description.length > 300 ? '...' : ''),
+      category,
+      source: article.source,
+      author: article.author || 'Unknown',
+      publishedAt: article.pubDate ? new Date(article.pubDate).toISOString() : new Date().toISOString(),
+      url: article.link || 'https://music-ai-insights-webapp.vercel.app/',
+      imageUrl: null,
+      tags,
+      readTime: calculateReadTime(article.description),
+      fetchedAt: new Date().toISOString()
+    };
+  });
+  
+  // If no articles fetched, use fallback
+  if (newsData.length === 0) {
+    console.log('⚠️ No articles fetched, using fallback data');
+    newsData = generateFallbackNews();
+  }
+  
+  // Sort by published date (newest first)
+  newsData.sort((a, b) => new Date(b.publishedAt) - new Date(a.publishedAt));
+  
+  // Limit to 20 articles
+  newsData = newsData.slice(0, 20);
   
   // Calculate metadata
-  const categories = allNews.reduce((acc, article) => {
+  const categories = newsData.reduce((acc, article) => {
     acc[article.category] = (acc[article.category] || 0) + 1;
     return acc;
   }, {});
   
-  const sources = [...new Set(allNews.map(a => a.source))];
+  const sources = [...new Set(newsData.map(a => a.source))];
   
   const metadata = {
     lastUpdated: new Date().toISOString(),
-    totalArticles: allNews.length,
+    totalArticles: newsData.length,
     categories,
     sources,
     updateSource: 'github-actions-auto'
@@ -276,16 +325,17 @@ export async function fetchAndStoreNews() {
   const newsPath = join(DATA_DIR, 'news.json');
   const metadataPath = join(DATA_DIR, 'metadata.json');
   
-  writeFileSync(newsPath, JSON.stringify(allNews, null, 2));
+  writeFileSync(newsPath, JSON.stringify(newsData, null, 2));
   writeFileSync(metadataPath, JSON.stringify(metadata, null, 2));
   
-  console.log(`✅ Updated ${allNews.length} news articles`);
+  console.log('');
+  console.log(`✅ Saved ${newsData.length} articles`);
   console.log(`📊 Categories:`, categories);
-  console.log(`💾 Saved to: ${newsPath}`);
+  console.log(`💾 Data saved to: ${newsPath}`);
   
   return {
     success: true,
-    totalArticles: allNews.length,
+    totalArticles: newsData.length,
     categories,
     lastUpdated: metadata.lastUpdated
   };

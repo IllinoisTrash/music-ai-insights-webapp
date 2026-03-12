@@ -1,248 +1,240 @@
 [
   {
-    "id": "news-001",
-    "title": "Spotify Reports Strong Q4 2024: AI-Powered Personalization Drives Growth",
-    "summary": "Spotify announced its Q4 2024 earnings, revealing that AI-powered features like AI DJ and personalized recommendations have significantly contributed to user engagement and retention. The company reported 602 million monthly active users, with premium subscribers reaching 236 million. AI-driven features have increased user session time by an average of 15%.",
-    "category": "industry-news",
-    "source": "Music Business Worldwide",
-    "author": "Tim Ingham",
-    "publishedAt": "2024-02-06T10:00:00Z",
-    "url": "https://www.musicbusinessworldwide.com/",
-    "imageUrl": null,
-    "tags": [
-      "Spotify",
-      "AI",
-      "Earnings",
-      "Streaming"
-    ],
-    "readTime": 5,
-    "fetchedAt": "2026-03-12T08:34:10.774Z"
-  },
-  {
-    "id": "news-003",
-    "title": "Universal Music Partners with AI Company for Ethical Music Generation",
-    "summary": "Universal Music Group has announced a strategic partnership with an AI technology company to develop ethical AI music generation tools that respect artist rights and copyrights. The collaboration aims to create AI systems trained on licensed music only.",
+    "id": "news-1773305957244-9",
+    "title": "Bruce Springsteen, Tom Waits and Others Remember Shane MacGowan With Tribute Album ‘20th Century&#160;Paddy’",
+    "summary": "Bruce Springsteen provides a reimagined cut of \"A Rainy Night in Soho,\" which is now available to stream.",
     "category": "industry-news",
     "source": "Billboard",
-    "author": "Glenn Peoples",
-    "publishedAt": "2024-02-28T09:15:00Z",
-    "url": "https://www.billboard.com/",
+    "author": "Unknown",
+    "publishedAt": "2026-03-12T06:02:31.000Z",
+    "url": "https://www.billboard.com/music/music-news/bruce-springsteen-shane-macgowan-tribute-20th-century-paddy-1236197657/",
     "imageUrl": null,
     "tags": [
-      "Universal Music",
       "AI",
-      "Partnership",
-      "Copyright"
+      "Streaming"
     ],
-    "readTime": 7,
-    "fetchedAt": "2026-03-12T08:34:10.774Z"
+    "readTime": 1,
+    "fetchedAt": "2026-03-12T08:59:17.244Z"
   },
   {
-    "id": "fresh-2026-03-12",
-    "title": "Market Analysis: AI Music Tools Adoption Accelerates",
-    "summary": "New market research shows rapid adoption of AI music production tools among professional and amateur musicians.",
-    "category": "trends-analysis",
-    "source": "Industry Analytics",
-    "tags": [
-      "Market Analysis",
-      "AI Tools",
-      "Trends"
-    ],
-    "author": "Automated News Bot",
-    "publishedAt": "2026-03-12T08:34:10.772Z",
-    "url": "https://music-ai-insights-webapp.vercel.app/",
+    "id": "news-1773305957244-10",
+    "title": "A Flock of Seagulls Fly to&#160;BMG",
+    "summary": "“We chose to partner with BMG because we believe in its vision to elevate and extend our music to new audiences and generation,” A Flock of Seagulls' Mike Score says of the new BMG deal.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-03-12T06:00:00.000Z",
+    "url": "https://www.billboard.com/pro/a-flock-of-seagulls-bmg/",
     "imageUrl": null,
-    "readTime": 5,
-    "fetchedAt": "2026-03-12T08:34:10.774Z"
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-03-12T08:59:17.244Z"
   },
   {
-    "id": "news-005",
-    "title": "Google DeepMind Unveils Lyria 2: Next-Gen Music Generation Model",
-    "summary": "Google DeepMind has released Lyria 2, an advanced music generation model capable of creating high-fidelity audio with improved instrument separation and vocal clarity. The new model can generate music up to 5 minutes long.",
-    "category": "ai-research",
-    "source": "Google AI Blog",
-    "author": "DeepMind Team",
-    "publishedAt": "2024-03-05T08:00:00Z",
-    "url": "https://deepmind.google/",
+    "id": "news-1773305957244-11",
+    "title": "‘Bridesmaids’ &#038; Marvel Reunions Set for 2026 Oscars, Plus More Highlights of Creative Team Press&#160;Conference",
+    "summary": "Music director Michael Bearden paid tribute to Quincy Jones, the Oscars’ first Black music director.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-03-12T01:32:26.000Z",
+    "url": "https://www.billboard.com/music/awards/2026-oscars-marvel-bridesmaids-reunions-interview-1236197618/",
     "imageUrl": null,
     "tags": [
-      "Google",
-      "DeepMind",
-      "Lyria",
-      "AI Research"
+      "AI"
     ],
-    "readTime": 9,
-    "fetchedAt": "2026-03-12T08:34:10.774Z"
+    "readTime": 1,
+    "fetchedAt": "2026-03-12T08:59:17.244Z"
   },
   {
-    "id": "news-010",
-    "title": "Global Music Streaming Revenue Hits $19.3 Billion in 2023",
-    "summary": "The latest IFPI Global Music Report shows streaming revenue continues to dominate the music industry, growing 10.3% year-over-year to reach $19.3 billion.",
-    "category": "trends-analysis",
-    "source": "IFPI",
-    "author": "IFPI Research Team",
-    "publishedAt": "2024-03-01T09:00:00Z",
-    "url": "https://www.ifpi.org/",
+    "id": "news-1773305957244-12",
+    "title": "Selena Quintanilla&#8217;s Sister Sues Shein Over Knockoff Merch Bearing Late Singer&#8217;s&#160;Likeness",
+    "summary": "The lawsuit alleges the e-commerce giant is infringing multiple Selena-related trademarks owned by Suzette Quintanilla and her company, Q Productions.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-03-12T01:19:19.000Z",
+    "url": "https://www.billboard.com/pro/selena-quintanilla-sister-shein-lawsuit-knockoff-merch/",
     "imageUrl": null,
     "tags": [
-      "IFPI",
+      "Production"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-03-12T08:59:17.244Z"
+  },
+  {
+    "id": "news-1773305957244-13",
+    "title": "Here Are the Lyrics to Olivia Dean&#8217;s &#8216;Man I&#160;Need&#8217;",
+    "summary": "The hit song by the 2026 Grammys best new artist winner hit No. 1 on the Pop Airplay chart.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-03-12T00:54:44.000Z",
+    "url": "https://www.billboard.com/music/lyrics/olivia-dean-man-i-need-lyrics-1236197607/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-03-12T08:59:17.244Z"
+  },
+  {
+    "id": "news-1773305957244-14",
+    "title": "Peso Pluma &#038; Tito Double P&#8217;s New Deluxe &#8216;Dinastía&#8217; Songs Hit&#160;Charts",
+    "summary": "Corridos singer LENCHO breaks through six Billboard charts thanks to the reimagined version of “chiclona.”",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-03-12T00:19:09.000Z",
+    "url": "https://www.billboard.com/music/chart-beat/peso-pluma-tito-double-p-deluxe-dinastia-songs-hit-charts-1236197412/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-03-12T08:59:17.244Z"
+  },
+  {
+    "id": "news-1773305957244-5",
+    "title": "AI &#8216;actor&#8217; Tilly Norwood put out the worst song I&#8217;ve ever heard",
+    "summary": "This song is an AI actor's rallying cry to other AI actors, urging them to keep going despite the naysayers who doubt their humanity. Literally no one can relate to this.",
+    "category": "industry-news",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-03-11T23:35:03.000Z",
+    "url": "https://techcrunch.com/2026/03/11/ai-actor-tilly-norwood-put-out-the-worst-song-ive-ever-heard/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-03-12T08:59:17.244Z"
+  },
+  {
+    "id": "news-1773305957244-6",
+    "title": "Netflix may have paid $600 million for Ben Affleck&#8217;s AI startup",
+    "summary": "This deal could rank as among the streaming giant's largest acquisitions ever. ",
+    "category": "industry-news",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-03-11T22:00:05.000Z",
+    "url": "https://techcrunch.com/2026/03/11/netflix-may-have-paid-600-million-for-ben-afflecks-ai-startup/",
+    "imageUrl": null,
+    "tags": [
+      "AI",
       "Streaming",
-      "Revenue",
-      "Industry Report"
+      "Startup"
     ],
-    "readTime": 11,
-    "fetchedAt": "2026-03-12T08:34:10.774Z"
+    "readTime": 1,
+    "fetchedAt": "2026-03-12T08:59:17.244Z"
   },
   {
-    "id": "news-006",
-    "title": "Apple Music Introduces AI-Curated Spatial Audio Playlists",
-    "summary": "Apple Music is rolling out new AI-powered playlists optimized for Spatial Audio, using machine learning to enhance the immersive listening experience for subscribers.",
-    "category": "tech-innovation",
-    "source": "The Verge",
-    "author": "Chris Welch",
-    "publishedAt": "2024-02-15T16:45:00Z",
-    "url": "https://www.theverge.com/",
+    "id": "news-1773305957243-0",
+    "title": "Warner Music Group signs new $1.645bn credit agreement with JPMorgan, refinancing existing debt",
+    "summary": "Agreement comprises a $1.295B term loan, the proceeds of which will be used to pay off WMG's existing term loan debt and related fees, and a $350M revolving credit facility\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-03-11T20:47:56.000Z",
+    "url": "https://www.musicbusinessworldwide.com/warner-music-group-signs-new-1-645bn-credit-agreement-with-jpmorgan-refinancing-existing-debt/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-03-12T08:59:17.244Z"
+  },
+  {
+    "id": "news-1773305957244-1",
+    "title": "Dionne Warwick sues rights company over alleged &#8216;pilfering of millions&#8217; in royalty income",
+    "summary": "Artists Rights Enforcement Corporation previously sued the singer, claiming it is owed \"hundreds of thousands, if not millions, of dollars.\"\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-03-11T18:51:18.000Z",
+    "url": "https://www.musicbusinessworldwide.com/dionne-warwick-sues-rights-company-over-alleged-pilfering-of-millions-in-royalty-income/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-03-12T08:59:17.244Z"
+  },
+  {
+    "id": "news-1773305957244-2",
+    "title": "80 artists generated $10M+ each from Spotify last year. Over 1,500 generated $1M+. Here&#8217;s the full breakdown.",
+    "summary": "Spotify published its annual Loud &#038; Clear report today (March 11), which includes bundles of fresh data on what artists generated from its service in 2025.\nSource",
+    "category": "trends-analysis",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-03-11T15:54:48.000Z",
+    "url": "https://www.musicbusinessworldwide.com/80-artists-generated-10m-each-from-spotify-last-year-1500-generated-1m-heres-the-full-breakdown/",
+    "imageUrl": null,
+    "tags": [
+      "Spotify"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-03-12T08:59:17.244Z"
+  },
+  {
+    "id": "news-1773305957244-3",
+    "title": "Apple Music lands exclusive TikTok partnership to bring full-song streaming into social app",
+    "summary": "The companies are also rolling out 'Listening Party,’ allowing fans to hear songs from an artist in real time and interact with each other.\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-03-11T13:07:13.000Z",
+    "url": "https://www.musicbusinessworldwide.com/apple-music-lands-exclusive-tiktok-partnership-to-bring-full-song-streaming-into-social-app/",
     "imageUrl": null,
     "tags": [
       "Apple Music",
-      "Spatial Audio",
-      "AI",
-      "Playlists"
+      "Streaming"
     ],
-    "readTime": 5,
-    "fetchedAt": "2026-03-12T08:34:10.774Z"
+    "readTime": 1,
+    "fetchedAt": "2026-03-12T08:59:17.244Z"
   },
   {
-    "id": "news-008",
-    "title": "Meta's AudioCraft Open Source: Community Response and Impact",
-    "summary": "Since open-sourcing AudioCraft, Meta has seen significant community adoption with over 10,000 developers contributing to the project. New research papers and applications are emerging rapidly.",
-    "category": "ai-research",
-    "source": "Meta AI Blog",
-    "author": "AudioCraft Team",
-    "publishedAt": "2024-02-25T13:00:00Z",
-    "url": "https://ai.meta.com/",
-    "imageUrl": null,
-    "tags": [
-      "Meta",
-      "AudioCraft",
-      "Open Source",
-      "AI Music"
-    ],
-    "readTime": 7,
-    "fetchedAt": "2026-03-12T08:34:10.774Z"
-  },
-  {
-    "id": "news-002",
-    "title": "Suno AI Raises $125M Series B to Revolutionize Music Creation",
-    "summary": "AI music generation startup Suno has raised $125 million in Series B funding led by Lightspeed Venture Partners. The company's technology allows users to create full songs from text prompts. The new funding will be used to expand the team, improve model quality, and explore licensing partnerships with major labels.",
-    "category": "ai-research",
-    "source": "TechCrunch",
-    "author": "Sarah Perez",
-    "publishedAt": "2024-03-01T14:30:00Z",
-    "url": "https://techcrunch.com/",
-    "imageUrl": null,
-    "tags": [
-      "Suno",
-      "AI Music",
-      "Funding",
-      "Startup"
-    ],
-    "readTime": 6,
-    "fetchedAt": "2026-03-12T08:34:10.774Z"
-  },
-  {
-    "id": "news-012",
-    "title": "Sony Music Launches AI Innovation Lab for Artists",
-    "summary": "Sony Music Entertainment has launched a dedicated AI Innovation Lab to help artists explore creative applications of artificial intelligence.",
+    "id": "news-1773305957244-4",
+    "title": "Hari Nair to exit as CEO of India&#8217;s Tips Music",
+    "summary": "The former Sony Music India and ByteDance veteran will exit on April 30.\nSource",
     "category": "industry-news",
     "source": "Music Business Worldwide",
-    "author": "Murray Stassen",
-    "publishedAt": "2024-03-03T09:30:00Z",
-    "url": "https://www.musicbusinessworldwide.com/",
+    "author": "Unknown",
+    "publishedAt": "2026-03-11T10:27:29.000Z",
+    "url": "https://www.musicbusinessworldwide.com/hari-nair-to-exit-as-ceo-of-indias-tips-music/",
     "imageUrl": null,
     "tags": [
-      "Sony Music",
-      "AI Lab",
-      "Innovation",
-      "Artists"
+      "AI"
     ],
-    "readTime": 6,
-    "fetchedAt": "2026-03-12T08:34:10.774Z"
+    "readTime": 1,
+    "fetchedAt": "2026-03-12T08:59:17.244Z"
   },
   {
-    "id": "news-004",
-    "title": "New Study Reveals 67% of Music Producers Now Use AI Tools",
-    "summary": "A comprehensive survey of over 2,000 music producers reveals that AI-assisted tools are becoming standard in modern music production workflows. The study found that 67% of producers now use AI for at least one stage of production.",
-    "category": "trends-analysis",
-    "source": "MusicTech",
-    "author": "MusicTech Team",
-    "publishedAt": "2024-02-20T11:00:00Z",
-    "url": "https://musictech.com/",
-    "imageUrl": null,
-    "tags": [
-      "AI Tools",
-      "Music Production",
-      "Study",
-      "Trends"
-    ],
-    "readTime": 8,
-    "fetchedAt": "2026-03-12T08:34:10.774Z"
-  },
-  {
-    "id": "news-011",
-    "title": "AI-Powered Mastering Services Disrupt Traditional Studios",
-    "summary": "Automated AI mastering services like LANDR, eMastered, and CloudBounce are gaining market share, with independent artists increasingly choosing AI over human engineers.",
-    "category": "trends-analysis",
-    "source": "Hypebot",
-    "author": "Bruce Houghton",
-    "publishedAt": "2024-02-18T14:00:00Z",
-    "url": "https://hypebot.com/",
-    "imageUrl": null,
-    "tags": [
-      "AI Mastering",
-      "LANDR",
-      "Music Production",
-      "Trends"
-    ],
-    "readTime": 8,
-    "fetchedAt": "2026-03-12T08:34:10.774Z"
-  },
-  {
-    "id": "news-009",
-    "title": "TikTok Expands AI Music Features for Creators",
-    "summary": "TikTok is expanding its AI music creation tools, allowing creators to generate custom soundtracks for their videos directly within the app. The new feature uses a lightweight AI model optimized for mobile devices.",
+    "id": "news-1773305957244-7",
+    "title": "Amazon launches its healthcare AI assistant on its website and app",
+    "summary": "Health AI can answer questions, explain health records, manage prescription renewals, book appointments, and more. ",
     "category": "tech-innovation",
-    "source": "TechCrunch",
-    "author": "Amanda Silberling",
-    "publishedAt": "2024-03-10T11:20:00Z",
-    "url": "https://techcrunch.com/",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-03-10T20:10:06.000Z",
+    "url": "https://techcrunch.com/2026/03/10/amazon-launches-its-healthcare-ai-assistant-on-its-website-and-app/",
     "imageUrl": null,
     "tags": [
-      "TikTok",
-      "AI Music",
-      "Creators",
-      "Social Media"
+      "AI"
     ],
-    "readTime": 6,
-    "fetchedAt": "2026-03-12T08:34:10.774Z"
+    "readTime": 1,
+    "fetchedAt": "2026-03-12T08:59:17.244Z"
   },
   {
-    "id": "news-007",
-    "title": "EU AI Act: What It Means for Music Industry",
-    "summary": "The European Union's AI Act has been finalized, with specific provisions affecting AI-generated music and content. The legislation requires transparency when AI is used to generate music.",
+    "id": "news-1773305957244-8",
+    "title": "AgentMail raises $6M to build an email service for AI agents",
+    "summary": "AgentMail provides an API platform that lets you give AI agents their own email inboxes, with support for two-way conversations, parsing, threading, labeling, searching, and replying. ",
     "category": "industry-news",
-    "source": "Music Ally",
-    "author": "Stuart Dredge",
-    "publishedAt": "2024-03-08T10:30:00Z",
-    "url": "https://musically.com/",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-03-10T16:00:00.000Z",
+    "url": "https://techcrunch.com/2026/03/10/agentmail-raises-6m-to-build-an-email-service-for-ai-agents/",
     "imageUrl": null,
     "tags": [
-      "EU AI Act",
-      "Regulation",
-      "Copyright",
-      "Policy"
+      "AI"
     ],
-    "readTime": 10,
-    "fetchedAt": "2026-03-12T08:34:10.774Z"
+    "readTime": 1,
+    "fetchedAt": "2026-03-12T08:59:17.244Z"
   }
 ]
