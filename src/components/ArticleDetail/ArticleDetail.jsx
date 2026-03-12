@@ -33,7 +33,9 @@ const ArticleDetail = ({ article, onBack, onShare }) => {
     const labels = {
       'industry-news': '行业动态',
       'ai-research': 'AI研究',
+      'trends-analysis': '趋势分析',
       'trends': '趋势分析',
+      'tech-innovation': '技术前沿',
       'technology': '技术前沿',
     };
     return labels[cat] || '其他';
@@ -43,55 +45,164 @@ const ArticleDetail = ({ article, onBack, onShare }) => {
     const colors = {
       'industry-news': '#3b82f6',
       'ai-research': '#8b5cf6',
+      'trends-analysis': '#10b981',
       'trends': '#10b981',
+      'tech-innovation': '#f59e0b',
       'technology': '#f59e0b',
     };
     return colors[cat] || '#6366f1';
   };
 
-  // 生成模拟的详细内容
+  // 根据文章标题和摘要动态生成解读内容
   const generateFullContent = () => {
     if (content) return content;
     
+    // 提取文章关键词
+    const keywords = extractKeywords(title, summary);
+    
+    // 根据分类生成不同的分析角度
+    const categoryAnalysis = generateCategoryAnalysis(category, title, summary);
+    
+    // 生成行业影响分析
+    const impactAnalysis = generateImpactAnalysis(title, summary, category);
+    
     return `${summary}
 
-## 详细分析
+## 深度解读
 
-这项发展标志着音乐行业与人工智能技术融合的重要里程碑。随着技术的不断进步，我们可以看到以下几个关键趋势：
+### 核心要点
 
-### 1. 技术创新
+${generateKeyPoints(title, summary, keywords)}
 
-AI 技术在音乐创作、制作和分发环节的应用越来越广泛。从自动作曲到智能母带处理，AI 正在改变音乐制作的每一个环节。
+### 行业背景
 
-### 2. 商业模式变革
+${categoryAnalysis}
 
-传统的音乐商业模式正在被重新定义。新的收入来源、版权管理模式以及艺术家与技术的合作方式都在发生变化。
+### 影响分析
 
-### 3. 用户体验提升
+${impactAnalysis}
 
-AI 驱动的个性化推荐、智能播放列表生成等功能，正在为用户提供更加个性化的音乐体验。
+### 相关趋势
 
-## 行业影响
-
-这一发展将对整个音乐产业链产生深远影响：
-
-- **对艺术家**：提供了新的创作工具和分发渠道
-- **对唱片公司**：需要适应新的商业模式和版权管理方式
-- **对平台**：AI 功能成为竞争的关键差异化因素
-- **对消费者**：获得更丰富的音乐体验和更便捷的访问方式
-
-## 未来展望
-
-展望未来，我们可以期待：
-
-1. 更先进的 AI 音乐生成技术
-2. 更完善的版权保护机制
-3. 更个性化的用户体验
-4. 更多创新的商业模式
+${generateRelatedTrends(category, keywords)}
 
 ---
 
-*本文内容基于公开信息整理，仅供参考。*`;
+*本文解读基于公开信息整理，由 AI 辅助生成，仅供参考。*`;
+  };
+
+  // 提取关键词
+  const extractKeywords = (title, summary) => {
+    const text = (title + ' ' + summary).toLowerCase();
+    const keywordMap = {
+      'AI': ['ai', '人工智能', 'artificial intelligence'],
+      '音乐生成': ['音乐生成', '生成音乐', 'music generation'],
+      '版权': ['版权', 'copyright', '授权'],
+      '流媒体': ['流媒体', 'streaming', 'spotify', 'apple music'],
+      '虚拟艺人': ['虚拟艺人', '虚拟偶像', 'virtual artist'],
+      '投资': ['投资', '融资', 'funding', 'investment'],
+      '合作': ['合作', '协议', 'partnership', 'deal']
+    };
+    
+    const found = [];
+    for (const [keyword, patterns] of Object.entries(keywordMap)) {
+      if (patterns.some(p => text.includes(p))) {
+        found.push(keyword);
+      }
+    }
+    return found;
+  };
+
+  // 根据分类生成分析
+  const generateCategoryAnalysis = (category, title, summary) => {
+    const analyses = {
+      'ai-research': 'AI 技术正在深刻改变音乐创作和制作的方式。从自动作曲到智能混音，AI 工具正在帮助艺术家突破创作瓶颈，同时也引发了关于创意归属和版权的新讨论。',
+      'industry-news': '音乐产业正在经历数字化转型的重要阶段。各大唱片公司、流媒体平台和科技公司之间的合作与竞争，正在重塑行业的商业模式和利益分配机制。',
+      'trends-analysis': '市场数据显示，AI 在音乐领域的应用正在从实验走向规模化。用户接受度提升、技术成熟度增加、商业模式清晰化，共同推动着这一市场的快速增长。',
+      'tech-innovation': '技术创新是音乐产业持续发展的核心驱动力。新功能、新平台和新工具的不断涌现，为艺术家提供了更多表达和变现的途径。'
+    };
+    
+    return analyses[category] || analyses['industry-news'];
+  };
+
+  // 生成关键要点
+  const generateKeyPoints = (title, summary, keywords) => {
+    const points = [];
+    
+    // 基于标题和摘要生成要点
+    if (title.includes('发布') || title.includes('推出')) {
+      points.push('• **产品/功能发布**：这标志着相关技术在商业化应用方面取得新进展');
+    }
+    if (title.includes('合作') || title.includes('协议')) {
+      points.push('• **战略合作**：双方资源的整合将产生协同效应，可能改变市场竞争格局');
+    }
+    if (title.includes('投资') || title.includes('融资')) {
+      points.push('• **资本关注**：投资方的进入表明该领域具有较大的增长潜力和商业价值');
+    }
+    if (keywords.includes('AI')) {
+      points.push('• **AI 应用**：人工智能技术的引入将提升效率，但也需要考虑伦理和版权问题');
+    }
+    if (keywords.includes('版权')) {
+      points.push('• **版权议题**：在新技术环境下，版权保护和利益分配机制需要与时俱进');
+    }
+    
+    if (points.length === 0) {
+      points.push('• **行业动态**：这一事件反映了音乐产业的最新发展趋势');
+      points.push('• **市场影响**：值得持续关注其对行业生态的潜在影响');
+    }
+    
+    return points.join('\n\n');
+  };
+
+  // 生成影响分析
+  const generateImpactAnalysis = (title, summary, category) => {
+    const impacts = [];
+    
+    impacts.push('**对行业参与者**：');
+    if (category === 'ai-research') {
+      impacts.push('- 艺术家：获得新的创作工具，但需要适应技术变革');
+      impacts.push('- 技术公司：加大研发投入，争夺市场份额');
+      impacts.push('- 唱片公司：探索与 AI 技术的合作模式');
+    } else if (category === 'industry-news') {
+      impacts.push('- 主要玩家：战略调整以适应市场变化');
+      impacts.push('- 新兴公司：寻找差异化竞争的机会');
+      impacts.push('- 投资者：关注行业整合和增长机会');
+    } else {
+      impacts.push('- 产业链各环节都将受到不同程度的影响');
+      impacts.push('- 需要持续关注后续发展和市场反应');
+    }
+    
+    impacts.push('\n**对用户/消费者**：');
+    impacts.push('- 可能获得更丰富的音乐体验');
+    impacts.push('- 音乐消费方式可能随之改变');
+    
+    return impacts.join('\n');
+  };
+
+  // 生成相关趋势
+  const generateRelatedTrends = (category, keywords) => {
+    const trends = [];
+    
+    if (keywords.includes('AI') || category === 'ai-research') {
+      trends.push('1. **AI 音乐生成技术持续进步**：模型能力不断提升，生成质量接近专业水平');
+      trends.push('2. **人机协作成为主流**：AI 作为创作辅助工具，而非完全替代人类创作者');
+    }
+    
+    if (keywords.includes('版权')) {
+      trends.push('3. **版权法规逐步完善**：各国正在建立适应 AI 时代的版权保护框架');
+    }
+    
+    if (keywords.includes('流媒体')) {
+      trends.push('4. **个性化推荐深化**：基于用户行为的精准推荐成为平台核心竞争力');
+    }
+    
+    if (trends.length === 0) {
+      trends.push('1. **数字化转型加速**：音乐产业各环节都在经历数字化变革');
+      trends.push('2. **用户体验升级**：技术创新为消费者带来更好的音乐体验');
+      trends.push('3. **商业模式创新**：新的盈利模式和合作方式不断涌现');
+    }
+    
+    return trends.join('\n\n');
   };
 
   const fullContent = generateFullContent();

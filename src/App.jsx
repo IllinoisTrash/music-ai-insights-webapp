@@ -7,7 +7,6 @@ import CategoryFilter from './components/CategoryFilter/CategoryFilter';
 import ArticleDetail from './components/ArticleDetail/ArticleDetail';
 import ShareModal from './components/ShareModal/ShareModal';
 import { fetchDailyInsights, searchInsights } from './services/dataService';
-import { generateDailyContent, scheduleDailyGeneration, getGeneratedContent } from './services/contentGenerator';
 import { Music, Sparkles, TrendingUp, RefreshCw } from 'lucide-react';
 import './styles/app.css';
 
@@ -24,8 +23,6 @@ function App() {
 
   useEffect(() => {
     loadInsights();
-    // 设置定时任务
-    scheduleDailyGeneration();
   }, []);
 
   useEffect(() => {
@@ -35,16 +32,11 @@ function App() {
   const loadInsights = async () => {
     try {
       setLoading(true);
-      // 合并生成的内容和模拟数据
-      const generatedContent = getGeneratedContent();
-      const mockData = await fetchDailyInsights();
-      const combined = [...generatedContent, ...mockData];
+      // 只从后端 API 获取新闻，不再合并本地生成的内容和静态数据
+      const newsData = await fetchDailyInsights();
       
-      // 去重并按时间排序
-      const unique = combined.filter((item, index, self) => 
-        index === self.findIndex((t) => t.title === item.title)
-      );
-      const sorted = unique.sort((a, b) => 
+      // 按时间排序（最新的在前）
+      const sorted = newsData.sort((a, b) => 
         new Date(b.publishedAt) - new Date(a.publishedAt)
       );
       
@@ -106,13 +98,12 @@ function App() {
     setShareArticle(null);
   };
 
-  const handleManualGenerate = async () => {
+  const handleManualRefresh = async () => {
     setIsGenerating(true);
     try {
-      const newContent = await generateDailyContent();
-      setInsights(prev => [...newContent, ...prev]);
+      await loadInsights();
     } catch (error) {
-      console.error('Failed to generate content:', error);
+      console.error('Failed to refresh content:', error);
     } finally {
       setIsGenerating(false);
     }
@@ -138,11 +129,11 @@ function App() {
               <h2>今日洞察</h2>
               <button 
                 className="generate-button"
-                onClick={handleManualGenerate}
+                onClick={handleManualRefresh}
                 disabled={isGenerating}
               >
                 <RefreshCw className={isGenerating ? 'spin' : ''} size={18} />
-                {isGenerating ? '生成中...' : '生成新内容'}
+                {isGenerating ? '刷新中...' : '刷新新闻'}
               </button>
             </div>
             
