@@ -1,0 +1,290 @@
+.daily-digest {
+  animation: fadeIn 0.3s ease-out;
+}
+
+.digest-header {
+  margin-bottom: 2rem;
+}
+
+.digest-date {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+
+.digest-date svg {
+  color: var(--primary-color);
+}
+
+.digest-date h2 {
+  font-size: 1.5rem;
+  font-weight: 600;
+}
+
+.digest-date p {
+  color: var(--text-secondary);
+  font-size: 0.9375rem;
+  margin-top: 0.25rem;
+}
+
+.digest-content {
+  display: grid;
+  grid-template-columns: 1fr 380px;
+  gap: 2rem;
+}
+
+/* Digest Preview */
+.digest-preview {
+  background-color: var(--bg-card);
+  border: 1px solid var(--border-color);
+  border-radius: 1rem;
+  padding: 1.5rem;
+}
+
+.digest-preview h3 {
+  font-size: 1.125rem;
+  font-weight: 600;
+  margin-bottom: 1.25rem;
+  color: var(--text-primary);
+}
+
+.highlights-list {
+  display: flex;
+  flex-direction: column;
+  gap: 1.25rem;
+}
+
+.highlight-item {
+  padding-bottom: 1.25rem;
+  border-bottom: 1px solid var(--border-color);
+}
+
+.highlight-item:last-child {
+  padding-bottom: 0;
+  border-bottom: none;
+}
+
+.highlight-badge {
+  display: inline-block;
+  padding: 0.25rem 0.625rem;
+  border-radius: 1rem;
+  font-size: 0.75rem;
+  font-weight: 600;
+  margin-bottom: 0.625rem;
+}
+
+.highlight-badge.ai-research {
+  background-color: rgba(139, 92, 246, 0.2);
+  color: #8b5cf6;
+}
+
+.highlight-badge.industry-news {
+  background-color: rgba(59, 130, 246, 0.2);
+  color: #3b82f6;
+}
+
+.highlight-badge.trends {
+  background-color: rgba(16, 185, 129, 0.2);
+  color: #10b981;
+}
+
+.highlight-item h4 {
+  font-size: 1rem;
+  font-weight: 600;
+  color: var(--text-primary);
+  margin-bottom: 0.5rem;
+}
+
+.highlight-item p {
+  color: var(--text-secondary);
+  font-size: 0.9375rem;
+  line-height: 1.5;
+}
+
+/* Subscription Section */
+.subscription-section {
+  position: sticky;
+  top: 1rem;
+}
+
+.subscription-card {
+  background: linear-gradient(135deg, var(--bg-card) 0%, var(--bg-input) 100%);
+  border: 1px solid var(--border-color);
+  border-radius: 1rem;
+  padding: 1.5rem;
+}
+
+.subscription-header {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  margin-bottom: 0.75rem;
+}
+
+.subscription-header svg {
+  color: var(--primary-color);
+}
+
+.subscription-header h3 {
+  font-size: 1.125rem;
+  font-weight: 600;
+}
+
+.subscription-desc {
+  color: var(--text-secondary);
+  font-size: 0.9375rem;
+  line-height: 1.5;
+  margin-bottom: 1.5rem;
+}
+
+/* Subscription Form */
+.subscription-form {
+  display: flex;
+  flex-direction: column;
+  gap: 1.25rem;
+}
+
+.email-input-wrapper {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  background-color: var(--bg-dark);
+  border: 1px solid var(--border-color);
+  border-radius: 0.75rem;
+  padding: 0.75rem 1rem;
+}
+
+.email-input-wrapper svg {
+  color: var(--text-muted);
+  flex-shrink: 0;
+}
+
+.email-input-wrapper input {
+  flex: 1;
+  background: transparent;
+  border: none;
+  color: var(--text-primary);
+  font-size: 0.9375rem;
+  outline: none;
+}
+
+.email-input-wrapper input::placeholder {
+  color: var(--text-muted);
+}
+
+.preferences-section {
+  padding-top: 0.5rem;
+}
+
+.preferences-title {
+  color: var(--text-secondary);
+  font-size: 0.875rem;
+  margin-bottom: 0.75rem;
+}
+
+.preferences-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 0.75rem;
+}
+
+.preference-item {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  cursor: pointer;
+  font-size: 0.875rem;
+  color: var(--text-secondary);
+}
+
+.preference-item input {
+  display: none;
+}
+
+.checkmark {
+  width: 18px;
+  height: 18px;
+  border: 2px solid var(--border-color);
+  border-radius: 0.25rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: all 0.2s ease;
+}
+
+.preference-item input:checked + .checkmark {
+  background: linear-gradient(135deg, var(--gradient-start), var(--gradient-end));
+  border-color: transparent;
+}
+
+.preference-item input:checked + .checkmark::after {
+  content: '';
+  width: 5px;
+  height: 9px;
+  border: solid white;
+  border-width: 0 2px 2px 0;
+  transform: rotate(45deg);
+}
+
+.subscribe-button {
+  background: linear-gradient(135deg, var(--gradient-start), var(--gradient-end));
+  color: white;
+  border: none;
+  padding: 0.875rem;
+  border-radius: 0.75rem;
+  font-size: 0.9375rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+.subscribe-button:hover {
+  opacity: 0.9;
+  transform: translateY(-1px);
+}
+
+/* Subscription Success */
+.subscription-success {
+  text-align: center;
+  padding: 1.5rem 0;
+}
+
+.success-icon {
+  width: 64px;
+  height: 64px;
+  background: linear-gradient(135deg, var(--success-color), #34d399);
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0 auto 1rem;
+  color: white;
+}
+
+.subscription-success h4 {
+  font-size: 1.125rem;
+  font-weight: 600;
+  color: var(--text-primary);
+  margin-bottom: 0.5rem;
+}
+
+.subscription-success p {
+  color: var(--text-secondary);
+  font-size: 0.9375rem;
+}
+
+@media (max-width: 968px) {
+  .digest-content {
+    grid-template-columns: 1fr;
+  }
+
+  .subscription-section {
+    position: static;
+  }
+}
+
+@media (max-width: 480px) {
+  .preferences-grid {
+    grid-template-columns: 1fr;
+  }
+}
