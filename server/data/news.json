@@ -1,99 +1,142 @@
 [
   {
-    "id": "news-1773305957244-9",
-    "title": "Bruce Springsteen, Tom Waits and Others Remember Shane MacGowan With Tribute Album ‘20th Century&#160;Paddy’",
-    "summary": "Bruce Springsteen provides a reimagined cut of \"A Rainy Night in Soho,\" which is now available to stream.",
+    "id": "news-1773366345310-10",
+    "title": "Watch Harry Styles &#8216;Catch Feelings&#8217; for This &#8216;SNL&#8217; Star (Even Though He &#8216;Promised&#8217; Not To) In New&#160;Promos",
+    "summary": "\"Harry, I'm at work,\" Jane Wickline scolds the pop superstar, who's pulling double duty as host and musical guest this weekend.",
     "category": "industry-news",
     "source": "Billboard",
     "author": "Unknown",
-    "publishedAt": "2026-03-12T06:02:31.000Z",
-    "url": "https://www.billboard.com/music/music-news/bruce-springsteen-shane-macgowan-tribute-20th-century-paddy-1236197657/",
+    "publishedAt": "2026-03-13T01:26:53.000Z",
+    "url": "https://www.billboard.com/music/pop/harry-styles-snl-promos-jane-wickline-chloe-fineman-1236198554/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-03-13T01:45:45.310Z"
+  },
+  {
+    "id": "news-1773366345310-11",
+    "title": "Quincy Jones Estate Sells Select Music &#038; Non-Music Assets to&#160;Harbourview",
+    "summary": "The deal includes both recorded music and publishing, along with other rights, including Jones' participation in The Fresh Prince of Bel-Air.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-03-12T22:12:06.000Z",
+    "url": "https://www.billboard.com/pro/quincy-jones-estate-sells-music-assets-harbourview/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-03-13T01:45:45.310Z"
+  },
+  {
+    "id": "news-1773366345309-0",
+    "title": "MBW just launched Music Business Worldwide Magazine. Have you subscribed yet?",
+    "summary": "To celebrate the launch, we're offering 50% off the first year of all new MBW+ subscriptions\nSource",
+    "category": "tech-innovation",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-03-12T20:21:13.000Z",
+    "url": "https://www.musicbusinessworldwide.com/mbw-just-launched-music-business-worldwide-magazine-have-you-subscribed-yet/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-03-13T01:45:45.309Z"
+  },
+  {
+    "id": "news-1773366345309-1",
+    "title": "Slipstream acquires Hollywood production music library Megatrax, adding 200,000 tracks to its catalog",
+    "summary": "The acquisition gives Slipstream direct sales operation in Latin America, where Maegatrax has maintained sales staff and regional client relationships.\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-03-12T18:30:45.000Z",
+    "url": "https://www.musicbusinessworldwide.com/slipstream-acquires-hollywood-production-music-library-megatrax-adding-200000-tracks-to-its-catalog/",
     "imageUrl": null,
     "tags": [
       "AI",
-      "Streaming"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-03-12T08:59:17.244Z"
-  },
-  {
-    "id": "news-1773305957244-10",
-    "title": "A Flock of Seagulls Fly to&#160;BMG",
-    "summary": "“We chose to partner with BMG because we believe in its vision to elevate and extend our music to new audiences and generation,” A Flock of Seagulls' Mike Score says of the new BMG deal.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-03-12T06:00:00.000Z",
-    "url": "https://www.billboard.com/pro/a-flock-of-seagulls-bmg/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-03-12T08:59:17.244Z"
-  },
-  {
-    "id": "news-1773305957244-11",
-    "title": "‘Bridesmaids’ &#038; Marvel Reunions Set for 2026 Oscars, Plus More Highlights of Creative Team Press&#160;Conference",
-    "summary": "Music director Michael Bearden paid tribute to Quincy Jones, the Oscars’ first Black music director.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-03-12T01:32:26.000Z",
-    "url": "https://www.billboard.com/music/awards/2026-oscars-marvel-bridesmaids-reunions-interview-1236197618/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-03-12T08:59:17.244Z"
-  },
-  {
-    "id": "news-1773305957244-12",
-    "title": "Selena Quintanilla&#8217;s Sister Sues Shein Over Knockoff Merch Bearing Late Singer&#8217;s&#160;Likeness",
-    "summary": "The lawsuit alleges the e-commerce giant is infringing multiple Selena-related trademarks owned by Suzette Quintanilla and her company, Q Productions.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-03-12T01:19:19.000Z",
-    "url": "https://www.billboard.com/pro/selena-quintanilla-sister-shein-lawsuit-knockoff-merch/",
-    "imageUrl": null,
-    "tags": [
+      "Streaming",
       "Production"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-03-12T08:59:17.244Z"
+    "fetchedAt": "2026-03-13T01:45:45.309Z"
   },
   {
-    "id": "news-1773305957244-13",
-    "title": "Here Are the Lyrics to Olivia Dean&#8217;s &#8216;Man I&#160;Need&#8217;",
-    "summary": "The hit song by the 2026 Grammys best new artist winner hit No. 1 on the Pop Airplay chart.",
+    "id": "news-1773366345309-2",
+    "title": "The Problem with AI Companies &#8216;Starting Fresh&#8217;.",
+    "summary": "The following MBW op/ed was written by prominent Entertainment and IP lawyer Krystle Delgado, Owner of Delgado Entertainment Law PLLC and host of the popular Top Music Attorney YouTube Podcast\nSource",
     "category": "industry-news",
-    "source": "Billboard",
+    "source": "Music Business Worldwide",
     "author": "Unknown",
-    "publishedAt": "2026-03-12T00:54:44.000Z",
-    "url": "https://www.billboard.com/music/lyrics/olivia-dean-man-i-need-lyrics-1236197607/",
+    "publishedAt": "2026-03-12T18:20:06.000Z",
+    "url": "https://www.musicbusinessworldwide.com/the-problem-with-ai-companies-starting-fresh/",
     "imageUrl": null,
     "tags": [
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-03-12T08:59:17.244Z"
+    "fetchedAt": "2026-03-13T01:45:45.309Z"
   },
   {
-    "id": "news-1773305957244-14",
-    "title": "Peso Pluma &#038; Tito Double P&#8217;s New Deluxe &#8216;Dinastía&#8217; Songs Hit&#160;Charts",
-    "summary": "Corridos singer LENCHO breaks through six Billboard charts thanks to the reimagined version of “chiclona.”",
+    "id": "news-1773366345309-3",
+    "title": "Concord acquires UK-based indie label Ninja Tune Records",
+    "summary": "The deal brings Ninja Tune’s recorded music operations and its publishing arm, Just Isn’t Music, under Concord’s umbrella.\nSource",
     "category": "industry-news",
-    "source": "Billboard",
+    "source": "Music Business Worldwide",
     "author": "Unknown",
-    "publishedAt": "2026-03-12T00:19:09.000Z",
-    "url": "https://www.billboard.com/music/chart-beat/peso-pluma-tito-double-p-deluxe-dinastia-songs-hit-charts-1236197412/",
+    "publishedAt": "2026-03-12T16:49:28.000Z",
+    "url": "https://www.musicbusinessworldwide.com/concord-acquires-uk-based-indie-label-ninja-tune-records/",
     "imageUrl": null,
     "tags": [],
     "readTime": 1,
-    "fetchedAt": "2026-03-12T08:59:17.244Z"
+    "fetchedAt": "2026-03-13T01:45:45.309Z"
   },
   {
-    "id": "news-1773305957244-5",
+    "id": "news-1773366345310-4",
+    "title": "Future Islands sign exclusive global deal with Universal Music Publishing",
+    "summary": "The signing comes as the band’s 2024 debut album People Who Aren’t There Anymore debuted in the UK Top 10. \nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-03-12T16:00:38.000Z",
+    "url": "https://www.musicbusinessworldwide.com/future-islands-sign-exclusive-global-deal-with-universal-music-publishing/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-03-13T01:45:45.310Z"
+  },
+  {
+    "id": "news-1773366345310-5",
+    "title": "Venu secures $86M in oversubscribed public offering, CEO says: &#8216;We just raised a ton of money.&#8217;",
+    "summary": "Venu's portfolio includes Ford Amphitheater, Sunset Amphitheaters, Phil Long Music Hall, and more\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-03-12T11:54:16.000Z",
+    "url": "https://www.musicbusinessworldwide.com/venu-secures-86m-in-oversubscribed-public-offering-ceo-says-we-just-raised-a-ton-of-money/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-03-13T01:45:45.310Z"
+  },
+  {
+    "id": "news-1773366345310-6",
+    "title": "BMG acquires publishing and recording catalog of UK new wave band A Flock of Seagulls",
+    "summary": "The deal covers the ownership of US publishing rights and a participation in publishing income of the band’s catalog globally.\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-03-12T10:28:36.000Z",
+    "url": "https://www.musicbusinessworldwide.com/bmg-acquires-publishing-and-recording-catalog-of-uk-new-wave-band-a-flock-of-seagulls/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-03-13T01:45:45.310Z"
+  },
+  {
+    "id": "news-1773366345310-8",
     "title": "AI &#8216;actor&#8217; Tilly Norwood put out the worst song I&#8217;ve ever heard",
     "summary": "This song is an AI actor's rallying cry to other AI actors, urging them to keep going despite the naysayers who doubt their humanity. Literally no one can relate to this.",
     "category": "industry-news",
@@ -106,10 +149,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-03-12T08:59:17.244Z"
+    "fetchedAt": "2026-03-13T01:45:45.310Z"
   },
   {
-    "id": "news-1773305957244-6",
+    "id": "news-1773366345310-9",
     "title": "Netflix may have paid $600 million for Ben Affleck&#8217;s AI startup",
     "summary": "This deal could rank as among the streaming giant's largest acquisitions ever. ",
     "category": "industry-news",
@@ -124,10 +167,10 @@
       "Startup"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-03-12T08:59:17.244Z"
+    "fetchedAt": "2026-03-13T01:45:45.310Z"
   },
   {
-    "id": "news-1773305957243-0",
+    "id": "news-1773366345310-7",
     "title": "Warner Music Group signs new $1.645bn credit agreement with JPMorgan, refinancing existing debt",
     "summary": "Agreement comprises a $1.295B term loan, the proceeds of which will be used to pay off WMG's existing term loan debt and related fees, and a $350M revolving credit facility\nSource",
     "category": "industry-news",
@@ -138,103 +181,6 @@
     "imageUrl": null,
     "tags": [],
     "readTime": 1,
-    "fetchedAt": "2026-03-12T08:59:17.244Z"
-  },
-  {
-    "id": "news-1773305957244-1",
-    "title": "Dionne Warwick sues rights company over alleged &#8216;pilfering of millions&#8217; in royalty income",
-    "summary": "Artists Rights Enforcement Corporation previously sued the singer, claiming it is owed \"hundreds of thousands, if not millions, of dollars.\"\nSource",
-    "category": "industry-news",
-    "source": "Music Business Worldwide",
-    "author": "Unknown",
-    "publishedAt": "2026-03-11T18:51:18.000Z",
-    "url": "https://www.musicbusinessworldwide.com/dionne-warwick-sues-rights-company-over-alleged-pilfering-of-millions-in-royalty-income/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-03-12T08:59:17.244Z"
-  },
-  {
-    "id": "news-1773305957244-2",
-    "title": "80 artists generated $10M+ each from Spotify last year. Over 1,500 generated $1M+. Here&#8217;s the full breakdown.",
-    "summary": "Spotify published its annual Loud &#038; Clear report today (March 11), which includes bundles of fresh data on what artists generated from its service in 2025.\nSource",
-    "category": "trends-analysis",
-    "source": "Music Business Worldwide",
-    "author": "Unknown",
-    "publishedAt": "2026-03-11T15:54:48.000Z",
-    "url": "https://www.musicbusinessworldwide.com/80-artists-generated-10m-each-from-spotify-last-year-1500-generated-1m-heres-the-full-breakdown/",
-    "imageUrl": null,
-    "tags": [
-      "Spotify"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-03-12T08:59:17.244Z"
-  },
-  {
-    "id": "news-1773305957244-3",
-    "title": "Apple Music lands exclusive TikTok partnership to bring full-song streaming into social app",
-    "summary": "The companies are also rolling out 'Listening Party,’ allowing fans to hear songs from an artist in real time and interact with each other.\nSource",
-    "category": "industry-news",
-    "source": "Music Business Worldwide",
-    "author": "Unknown",
-    "publishedAt": "2026-03-11T13:07:13.000Z",
-    "url": "https://www.musicbusinessworldwide.com/apple-music-lands-exclusive-tiktok-partnership-to-bring-full-song-streaming-into-social-app/",
-    "imageUrl": null,
-    "tags": [
-      "Apple Music",
-      "Streaming"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-03-12T08:59:17.244Z"
-  },
-  {
-    "id": "news-1773305957244-4",
-    "title": "Hari Nair to exit as CEO of India&#8217;s Tips Music",
-    "summary": "The former Sony Music India and ByteDance veteran will exit on April 30.\nSource",
-    "category": "industry-news",
-    "source": "Music Business Worldwide",
-    "author": "Unknown",
-    "publishedAt": "2026-03-11T10:27:29.000Z",
-    "url": "https://www.musicbusinessworldwide.com/hari-nair-to-exit-as-ceo-of-indias-tips-music/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-03-12T08:59:17.244Z"
-  },
-  {
-    "id": "news-1773305957244-7",
-    "title": "Amazon launches its healthcare AI assistant on its website and app",
-    "summary": "Health AI can answer questions, explain health records, manage prescription renewals, book appointments, and more. ",
-    "category": "tech-innovation",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-03-10T20:10:06.000Z",
-    "url": "https://techcrunch.com/2026/03/10/amazon-launches-its-healthcare-ai-assistant-on-its-website-and-app/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-03-12T08:59:17.244Z"
-  },
-  {
-    "id": "news-1773305957244-8",
-    "title": "AgentMail raises $6M to build an email service for AI agents",
-    "summary": "AgentMail provides an API platform that lets you give AI agents their own email inboxes, with support for two-way conversations, parsing, threading, labeling, searching, and replying. ",
-    "category": "industry-news",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-03-10T16:00:00.000Z",
-    "url": "https://techcrunch.com/2026/03/10/agentmail-raises-6m-to-build-an-email-service-for-ai-agents/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-03-12T08:59:17.244Z"
+    "fetchedAt": "2026-03-13T01:45:45.310Z"
   }
 ]
