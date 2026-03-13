@@ -1,6 +1,50 @@
 [
   {
-    "id": "news-1773369429277-44",
+    "id": "news-1773378296916-44",
+    "title": "Jack Harlow’s Birthday Present Is the New Album ‘Monica’: Stream It Now",
+    "summary": "The Louisville native returns with Monica, his fourth studio album which drops March 13, on his 28th birthday.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-03-13T04:36:23.000Z",
+    "url": "https://www.billboard.com/music/rb-hip-hop/jack-harlow-birthday-monica-stream-it-now-1236198630/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-03-13T05:04:56.916Z"
+  },
+  {
+    "id": "news-1773378296916-45",
+    "title": "BTS Is Ready For Business In New ‘Arirang’ Artwork",
+    "summary": "BigHit Entertainment has shared the album artwork, which sees RM, Jin, Suga, j-hope, Jimin, V and Jung Kook looking dapper, and rather serious, in suits.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-03-13T03:47:28.000Z",
+    "url": "https://www.billboard.com/music/pop/bts-new-arirang-artwork-1236198604/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-03-13T05:04:56.916Z"
+  },
+  {
+    "id": "news-1773378296916-46",
+    "title": "BLACKPINK Earns Fourth Top 10 on Album Sales Chart With ‘DEADLINE’",
+    "summary": "The quartet’s latest project also makes a top 10 start on the Billboard 200 and Independent Albums charts.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-03-13T02:51:42.000Z",
+    "url": "https://www.billboard.com/music/chart-beat/blackpink-deadline-billboard-top-album-sales-chart-1236198540/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-03-13T05:04:56.916Z"
+  },
+  {
+    "id": "news-1773378296916-47",
     "title": "Watch Harry Styles ‘Catch Feelings’ for This ‘SNL’ Star (Even Though He ‘Promised’ Not To) In New Promos",
     "summary": "\"Harry, I'm at work,\" Jane Wickline scolds the pop superstar, who's pulling double duty as host and musical guest this weekend.",
     "category": "industry-news",
@@ -11,10 +55,10 @@
     "imageUrl": null,
     "tags": [],
     "readTime": 1,
-    "fetchedAt": "2026-03-13T02:37:09.277Z"
+    "fetchedAt": "2026-03-13T05:04:56.916Z"
   },
   {
-    "id": "news-1773369429277-45",
+    "id": "news-1773378296916-48",
     "title": "Kx5, Above & Beyond & Eli Brown Lead Lineup for We Belong Here’s Next Brooklyn Edition",
     "summary": "The festival will happen at the Brooklyn Army Terminal for the first time on June 19-21. ",
     "category": "industry-news",
@@ -25,10 +69,10 @@
     "imageUrl": null,
     "tags": [],
     "readTime": 1,
-    "fetchedAt": "2026-03-13T02:37:09.277Z"
+    "fetchedAt": "2026-03-13T05:04:56.916Z"
   },
   {
-    "id": "news-1773369429276-20",
+    "id": "news-1773378296915-20",
     "title": "How to Build an Autonomous Machine Learning Research Loop in Google Colab Using Andrej Karpathy’s AutoResearch Framework for Hyperparameter Discovery and Experiment Tracking",
     "summary": "In this tutorial, we implement a Colab-ready version of the AutoResearch framework originally proposed by Andrej Karpathy. We build an automated experimentation pipeline that clones the AutoResearch repository, prepares a lightweight training environment, and runs a baseline experiment to establish initial performance metrics. We then create an automated research loop that programmatically edits the hyperparameters […]\nThe post How to Build an Autonomous Machine Learning Research Loop in G",
     "category": "ai-research",
@@ -43,10 +87,10 @@
       "Research"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-03-13T02:37:09.276Z"
+    "fetchedAt": "2026-03-13T05:04:56.915Z"
   },
   {
-    "id": "news-1773369429274-0",
+    "id": "news-1773378296913-0",
     "title": "Sales automation startup Rox AI hits $1.2B valuation, sources say",
     "summary": "Rox, founded in 2024 by the former chief growth officer of New Relic, offers an AI-native alternative to CRM tools.",
     "category": "ai-research",
@@ -60,26 +104,10 @@
       "Startup"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-03-13T02:37:09.275Z"
+    "fetchedAt": "2026-03-13T05:04:56.913Z"
   },
   {
-    "id": "news-1773369429277-46",
-    "title": "Quincy Jones Estate Sells Select Music & Non-Music Assets to Harbourview",
-    "summary": "The deal includes both recorded music and publishing, along with other rights, including Jones' participation in The Fresh Prince of Bel-Air.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-03-12T22:12:06.000Z",
-    "url": "https://www.billboard.com/pro/quincy-jones-estate-sells-music-assets-harbourview/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-03-13T02:37:09.277Z"
-  },
-  {
-    "id": "news-1773369429276-21",
+    "id": "news-1773378296915-21",
     "title": "Stanford Researchers Release OpenJarvis: A Local-First Framework for Building On-Device Personal AI Agents with Tools, Memory, and Learning",
     "summary": "Stanford researchers have introduced OpenJarvis, an open-source framework for building personal AI agents that run entirely on-device. The project comes from Stanford’s Scaling Intelligence Lab and is presented as both a research platform and deployment-ready infrastructure for local-first AI systems. Its focus is not only model execution, but also the broader software stack required to […]\nThe post Stanford Researchers Release OpenJarvis: A Local-First Framework for Building On-Device Per",
     "category": "ai-research",
@@ -93,10 +121,10 @@
       "Research"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-03-13T02:37:09.276Z"
+    "fetchedAt": "2026-03-13T05:04:56.915Z"
   },
   {
-    "id": "news-1773369429276-36",
+    "id": "news-1773378296916-36",
     "title": "MBW just launched Music Business Worldwide Magazine. Have you subscribed yet?",
     "summary": "To celebrate the launch, we're offering 50% off the first year of all new MBW+ subscriptions\nSource",
     "category": "industry-news",
@@ -107,10 +135,10 @@
     "imageUrl": null,
     "tags": [],
     "readTime": 1,
-    "fetchedAt": "2026-03-13T02:37:09.276Z"
+    "fetchedAt": "2026-03-13T05:04:56.916Z"
   },
   {
-    "id": "news-1773369429276-28",
+    "id": "news-1773378296915-28",
     "title": "‘Uncanny Valley’: Anthropic’s DOD Lawsuit, War Memes, and AI Coming for VC Jobs",
     "summary": "In today’s episode, we discuss how the saga between Anthropic and the Department of Defense is far from over.",
     "category": "tech-innovation",
@@ -123,10 +151,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-03-13T02:37:09.276Z"
+    "fetchedAt": "2026-03-13T05:04:56.915Z"
   },
   {
-    "id": "news-1773369429276-37",
+    "id": "news-1773378296916-37",
     "title": "Slipstream acquires Hollywood production music library Megatrax, adding 200,000 tracks to its catalog",
     "summary": "The acquisition gives Slipstream direct sales operation in Latin America, where Maegatrax has maintained sales staff and regional client relationships.\nSource",
     "category": "industry-news",
@@ -139,10 +167,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-03-13T02:37:09.276Z"
+    "fetchedAt": "2026-03-13T05:04:56.916Z"
   },
   {
-    "id": "news-1773369429275-1",
+    "id": "news-1773378296913-1",
     "title": "Facebook Marketplace now lets Meta AI respond to buyers’ messages",
     "summary": "When buyers inquire about an item’s availability, sellers can use Meta AI to automatically draft replies using information from their listing, such as the description, availability, pickup location, and price.",
     "category": "ai-research",
@@ -155,10 +183,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-03-13T02:37:09.275Z"
+    "fetchedAt": "2026-03-13T05:04:56.913Z"
   },
   {
-    "id": "news-1773369429277-38",
+    "id": "news-1773378296916-38",
     "title": "The Problem with AI Companies ‘Starting Fresh’.",
     "summary": "The following MBW op/ed was written by prominent Entertainment and IP lawyer Krystle Delgado, Owner of Delgado Entertainment Law PLLC and host of the popular Top Music Attorney YouTube Podcast\nSource",
     "category": "industry-news",
@@ -171,10 +199,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-03-13T02:37:09.277Z"
+    "fetchedAt": "2026-03-13T05:04:56.916Z"
   },
   {
-    "id": "news-1773369429276-29",
+    "id": "news-1773378296915-29",
     "title": "Google Is Not Ruling Out Ads in Gemini",
     "summary": "WIRED spoke with Nick Fox, Google’s SVP of knowledge and information, about how AI is changing the company’s advertising business.",
     "category": "tech-innovation",
@@ -187,10 +215,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-03-13T02:37:09.276Z"
+    "fetchedAt": "2026-03-13T05:04:56.915Z"
   },
   {
-    "id": "news-1773369429275-2",
+    "id": "news-1773378296913-2",
     "title": "Tinder tries to lure people back to online dating with IRL events, virtual speed dating",
     "summary": "Tinder just got a major revamp as it attempts to reengage its user base and attract younger daters. This includes in-person events, AI enhancements, and even virtual speed dating.",
     "category": "ai-research",
@@ -203,10 +231,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-03-13T02:37:09.275Z"
+    "fetchedAt": "2026-03-13T05:04:56.914Z"
   },
   {
-    "id": "news-1773369429275-3",
+    "id": "news-1773378296914-3",
     "title": "Atlassian follows Block’s footsteps and cuts staff in the name of AI",
     "summary": "Atlassian laid off 10% of its workforce, around 1,600 people, as the company looks to funnel more funds to AI. ",
     "category": "ai-research",
@@ -219,10 +247,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-03-13T02:37:09.275Z"
+    "fetchedAt": "2026-03-13T05:04:56.914Z"
   },
   {
-    "id": "news-1773369429275-4",
+    "id": "news-1773378296914-4",
     "title": "Bumble introduces an AI dating assistant, ‘Bee’",
     "summary": "Bumble's new AI assistant Bee will move the dating app beyond the swipe by matching people based on compatibility and goals. ",
     "category": "ai-research",
@@ -235,10 +263,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-03-13T02:37:09.275Z"
+    "fetchedAt": "2026-03-13T05:04:56.914Z"
   },
   {
-    "id": "news-1773369429277-39",
+    "id": "news-1773378296916-39",
     "title": "Concord acquires UK-based indie label Ninja Tune Records",
     "summary": "The deal brings Ninja Tune’s recorded music operations and its publishing arm, Just Isn’t Music, under Concord’s umbrella.\nSource",
     "category": "industry-news",
@@ -249,10 +277,10 @@
     "imageUrl": null,
     "tags": [],
     "readTime": 1,
-    "fetchedAt": "2026-03-13T02:37:09.277Z"
+    "fetchedAt": "2026-03-13T05:04:56.916Z"
   },
   {
-    "id": "news-1773369429275-5",
+    "id": "news-1773378296914-5",
     "title": "A writer is suing Grammarly for turning her and other authors into ‘AI editors’ without consent",
     "summary": "Journalist Julia Angwin is leading a class action lawsuit against Grammarly for violating her privacy and publicity rights.",
     "category": "ai-research",
@@ -265,10 +293,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-03-13T02:37:09.275Z"
+    "fetchedAt": "2026-03-13T05:04:56.914Z"
   },
   {
-    "id": "news-1773369429277-40",
+    "id": "news-1773378296916-40",
     "title": "Future Islands sign exclusive global deal with Universal Music Publishing",
     "summary": "The signing comes as the band’s 2024 debut album People Who Aren’t There Anymore debuted in the UK Top 10. \nSource",
     "category": "industry-news",
@@ -279,38 +307,6 @@
     "imageUrl": null,
     "tags": [],
     "readTime": 1,
-    "fetchedAt": "2026-03-13T02:37:09.277Z"
-  },
-  {
-    "id": "news-1773369429275-6",
-    "title": "Gumloop lands $50M from Benchmark to turn every employee into an AI agent builder",
-    "summary": "As companies race to adopt AI, Benchmark general partner Everett Randle believes the key to success lies in empowering every worker with AI superpowers, and Gumloop’s intuitive agent builder is an example of the kind of tool that will unlock that potential.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-03-12T15:30:00.000Z",
-    "url": "https://techcrunch.com/2026/03/12/gumloop-lands-50m-from-benchmark-to-turn-every-employee-into-an-ai-agent-builder/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-03-13T02:37:09.275Z"
-  },
-  {
-    "id": "news-1773369429275-7",
-    "title": "Google is using old news reports and AI to predict flash floods",
-    "summary": "A new way to solve data scarcity: Turning qualitative reports into quantitative data with an LLM.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-03-12T13:00:00.000Z",
-    "url": "https://techcrunch.com/2026/03/12/google-is-using-old-news-reports-and-ai-to-predict-flash-floods/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-03-13T02:37:09.275Z"
+    "fetchedAt": "2026-03-13T05:04:56.916Z"
   }
 ]
