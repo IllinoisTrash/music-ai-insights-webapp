@@ -1,12 +1,7 @@
 [
   {
-<<<<<<< HEAD
-    "id": "news-1773367333940-49",
+    "id": "news-1773368803953-50",
     "title": "Watch Harry Styles ‘Catch Feelings’ for This ‘SNL’ Star (Even Though He ‘Promised’ Not To) In New Promos",
-=======
-    "id": "news-1773366897672-10",
-    "title": "Watch Harry Styles &#8216;Catch Feelings&#8217; for This &#8216;SNL&#8217; Star (Even Though He &#8216;Promised&#8217; Not To) In New&#160;Promos",
->>>>>>> origin/main
     "summary": "\"Harry, I'm at work,\" Jane Wickline scolds the pop superstar, who's pulling double duty as host and musical guest this weekend.",
     "category": "tech-innovation",
     "source": "Billboard",
@@ -16,11 +11,10 @@
     "imageUrl": null,
     "tags": [],
     "readTime": 1,
-<<<<<<< HEAD
-    "fetchedAt": "2026-03-13T02:02:13.940Z"
+    "fetchedAt": "2026-03-13T02:26:43.953Z"
   },
   {
-    "id": "news-1773367333943-52",
+    "id": "news-1773368803953-53",
     "title": "Chinese Grand Prix 2026: How to Watch F1 Online for Free",
     "summary": "After a thrilling start of the F1 season in Australia, George Russell of Team Mercedes won the race gaining 25 points after 58 laps. His teammate Andrea Kimi Antonelli came in second, so it’s a very good start for Mercedes. However, the season is still young, as F1 travels from Australia to China. T...",
     "category": "ai-research",
@@ -33,10 +27,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-03-13T02:02:13.943Z"
+    "fetchedAt": "2026-03-13T02:26:43.953Z"
   },
   {
-    "id": "news-1773367333943-53",
+    "id": "news-1773368803953-54",
     "title": "Final Oscar Predictions: Adapted Screenplay — Paul Thomas Anderson Poised for His Long-Awaited Oscar-Winning Moment",
     "summary": "Variety Awards Circuit section is the home for all awards news and related content throughout the year, featuring the following: the official predictions for the upcoming Oscars, Emmys, Grammys and Tony Awards ceremonies, curated by Variety chief awards editor Clayton Davis. The prediction pages ref...",
     "category": "ai-research",
@@ -49,10 +43,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-03-13T02:02:13.943Z"
+    "fetchedAt": "2026-03-13T02:26:43.953Z"
   },
   {
-    "id": "news-1773367333943-54",
+    "id": "news-1773368803953-55",
     "title": "‘Tyler Perry’s The Oval’ Star Nick Barrotta Signs With Untitled Entertainment",
     "summary": "“Tyler Perry’s The Oval” star Nick Barrotta has signed with Untitled Entertainment.  The New York native is best known for his role as Allan on the BET drama “The Oval” where he was promoted to a series regular in 2021. He has filmed over 100 episodes and counting through the show’s six seasons.  “T...",
     "category": "ai-research",
@@ -65,10 +59,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-03-13T02:02:13.943Z"
+    "fetchedAt": "2026-03-13T02:26:43.953Z"
   },
   {
-    "id": "news-1773367333943-55",
+    "id": "news-1773368803953-56",
     "title": "Julia Fox’s Steamy Lesbian Romance ‘Perfect’ Heats Up SXSW With Pregnant Sex, Panty Sniffing and FKA Twigs Soundtrack",
     "summary": "Newly minted film star Ashley Moore had some instructions for the audience at the world premiere of her new SXSW movie. “Leave horny, people! Leave horny,” said the actor, who stars opposite Julia Fox in “Perfect,” a steamy lesbian romance directed by Millicent Hailes. “It’s just fun,” said Hailes, ...",
     "category": "ai-research",
@@ -81,20 +75,12 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-03-13T02:02:13.943Z"
+    "fetchedAt": "2026-03-13T02:26:43.953Z"
   },
   {
-    "id": "news-1773367333943-56",
+    "id": "news-1773368803953-57",
     "title": "Teamsters Union Says DOJ Must Block Paramount’s Warner Bros. Takeover Unless There Are ‘Enforceable’ Job Protections",
     "summary": "The International Brotherhood of Teamsters has urged the Justice Department to block Paramount Skydance’s $111 billion deal to acquire Warner Bros. Discovery unless Paramount agrees to “substantial and enforceable safeguards” against job cuts and supporting increased U.S. production. The union said ...",
-=======
-    "fetchedAt": "2026-03-13T01:54:57.672Z"
-  },
-  {
-    "id": "news-1773366897672-11",
-    "title": "Quincy Jones Estate Sells Select Music &#038; Non-Music Assets to&#160;Harbourview",
-    "summary": "The deal includes both recorded music and publishing, along with other rights, including Jones' participation in The Fresh Prince of Bel-Air.",
->>>>>>> origin/main
     "category": "industry-news",
     "source": "Variety",
     "author": "Unknown",
@@ -107,10 +93,27 @@
       "Partnership"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-03-13T02:02:13.943Z"
+    "fetchedAt": "2026-03-13T02:26:43.953Z"
   },
   {
-    "id": "news-1773367333933-22",
+    "id": "news-1773368803944-0",
+    "title": "How to watch Jensen Huang’s Nvidia GTC 2026 keynote",
+    "summary": "GTC — which stands for GPU Technology Conference — is Nvidia's flagship annual event, where the chipmaker typically uses the spotlight to announce new products, champion partnerships, and lay out its vision for the future of computing. Huang's keynote will focus on Nvidia's role in the future of com...",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-03-12T23:25:39.000Z",
+    "url": "https://techcrunch.com/2026/03/12/how-to-watch-jensen-huangs-nvidia-gtc-2026-keynote/",
+    "imageUrl": null,
+    "tags": [
+      "AI",
+      "Partnership"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-03-13T02:26:43.944Z"
+  },
+  {
+    "id": "news-1773368803948-23",
     "title": "How to Build an Autonomous Machine Learning Research Loop in Google Colab Using Andrej Karpathy’s AutoResearch Framework for Hyperparameter Discovery and Experiment Tracking",
     "summary": "In this tutorial, we implement a Colab-ready version of the AutoResearch framework originally proposed by Andrej Karpathy. We build an automated experimentation pipeline that clones the AutoResearch repository, prepares a lightweight training environment, and runs a baseline experiment to establish ...",
     "category": "ai-research",
@@ -125,10 +128,10 @@
       "Research"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-03-13T02:02:13.933Z"
+    "fetchedAt": "2026-03-13T02:26:43.948Z"
   },
   {
-    "id": "news-1773367333926-0",
+    "id": "news-1773368803945-1",
     "title": "Sales automation startup Rox AI hits $1.2B valuation, sources say",
     "summary": "Rox, founded in 2024 by the former chief growth officer of New Relic, offers an AI-native alternative to CRM tools.",
     "category": "ai-research",
@@ -142,10 +145,10 @@
       "Startup"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-03-13T02:02:13.926Z"
+    "fetchedAt": "2026-03-13T02:26:43.945Z"
   },
   {
-    "id": "news-1773367333942-50",
+    "id": "news-1773368803953-51",
     "title": "Quavo Stars in ‘Takeover’ Movie Inspired by Atlanta’s Underground Street Racing Scene: Watch the Trailer",
     "summary": "The film, also co-starring Billy Zane & Serayah, is set to hit theaters in May.",
     "category": "ai-research",
@@ -158,10 +161,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-03-13T02:02:13.942Z"
+    "fetchedAt": "2026-03-13T02:26:43.953Z"
   },
   {
-    "id": "news-1773367333942-51",
+    "id": "news-1773368803953-52",
     "title": "Quincy Jones Estate Sells Select Music & Non-Music Assets to Harbourview",
     "summary": "The deal includes both recorded music and publishing, along with other rights, including Jones' participation in The Fresh Prince of Bel-Air.",
     "category": "ai-research",
@@ -175,11 +178,10 @@
       "Partnership"
     ],
     "readTime": 1,
-<<<<<<< HEAD
-    "fetchedAt": "2026-03-13T02:02:13.942Z"
+    "fetchedAt": "2026-03-13T02:26:43.953Z"
   },
   {
-    "id": "news-1773367333933-23",
+    "id": "news-1773368803948-24",
     "title": "Stanford Researchers Release OpenJarvis: A Local-First Framework for Building On-Device Personal AI Agents with Tools, Memory, and Learning",
     "summary": "Stanford researchers have introduced OpenJarvis, an open-source framework for building personal AI agents that run entirely on-device. The project comes from Stanford’s Scaling Intelligence Lab and is presented as both a research platform and deployment-ready infrastructure for local-first AI system...",
     "category": "tech-innovation",
@@ -193,16 +195,10 @@
       "Research"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-03-13T02:02:13.933Z"
+    "fetchedAt": "2026-03-13T02:26:43.948Z"
   },
   {
-    "id": "news-1773367333937-41",
-=======
-    "fetchedAt": "2026-03-13T01:54:57.672Z"
-  },
-  {
-    "id": "news-1773366897671-0",
->>>>>>> origin/main
+    "id": "news-1773368803951-42",
     "title": "MBW just launched Music Business Worldwide Magazine. Have you subscribed yet?",
     "summary": "To celebrate the launch, we're offering 50% off the first year of all new MBW+ subscriptions\nSource",
     "category": "tech-innovation",
@@ -213,11 +209,10 @@
     "imageUrl": null,
     "tags": [],
     "readTime": 1,
-<<<<<<< HEAD
-    "fetchedAt": "2026-03-13T02:02:13.938Z"
+    "fetchedAt": "2026-03-13T02:26:43.951Z"
   },
   {
-    "id": "news-1773367333936-32",
+    "id": "news-1773368803951-33",
     "title": "‘Uncanny Valley’: Anthropic’s DOD Lawsuit, War Memes, and AI Coming for VC Jobs",
     "summary": "In today’s episode, we discuss how the saga between Anthropic and the Department of Defense is far from over.",
     "category": "ai-research",
@@ -230,16 +225,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-03-13T02:02:13.936Z"
+    "fetchedAt": "2026-03-13T02:26:43.951Z"
   },
   {
-    "id": "news-1773367333938-42",
-=======
-    "fetchedAt": "2026-03-13T01:54:57.671Z"
-  },
-  {
-    "id": "news-1773366897671-1",
->>>>>>> origin/main
+    "id": "news-1773368803951-43",
     "title": "Slipstream acquires Hollywood production music library Megatrax, adding 200,000 tracks to its catalog",
     "summary": "The acquisition gives Slipstream direct sales operation in Latin America, where Maegatrax has maintained sales staff and regional client relationships.\nSource",
     "category": "ai-research",
@@ -254,11 +243,10 @@
       "Production"
     ],
     "readTime": 1,
-<<<<<<< HEAD
-    "fetchedAt": "2026-03-13T02:02:13.938Z"
+    "fetchedAt": "2026-03-13T02:26:43.951Z"
   },
   {
-    "id": "news-1773367333926-1",
+    "id": "news-1773368803945-2",
     "title": "Facebook Marketplace now lets Meta AI respond to buyers’ messages",
     "summary": "When buyers inquire about an item’s availability, sellers can use Meta AI to automatically draft replies using information from their listing, such as the description, availability, pickup location, and price.",
     "category": "ai-research",
@@ -271,18 +259,11 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-03-13T02:02:13.926Z"
+    "fetchedAt": "2026-03-13T02:26:43.945Z"
   },
   {
-    "id": "news-1773367333940-43",
+    "id": "news-1773368803951-44",
     "title": "The Problem with AI Companies ‘Starting Fresh’.",
-=======
-    "fetchedAt": "2026-03-13T01:54:57.671Z"
-  },
-  {
-    "id": "news-1773366897671-2",
-    "title": "The Problem with AI Companies &#8216;Starting Fresh&#8217;.",
->>>>>>> origin/main
     "summary": "The following MBW op/ed was written by prominent Entertainment and IP lawyer Krystle Delgado, Owner of Delgado Entertainment Law PLLC and host of the popular Top Music Attorney YouTube Podcast\nSource",
     "category": "ai-research",
     "source": "Music Business Worldwide",
@@ -294,11 +275,10 @@
       "AI"
     ],
     "readTime": 1,
-<<<<<<< HEAD
-    "fetchedAt": "2026-03-13T02:02:13.940Z"
+    "fetchedAt": "2026-03-13T02:26:43.951Z"
   },
   {
-    "id": "news-1773367333936-33",
+    "id": "news-1773368803951-34",
     "title": "Google Is Not Ruling Out Ads in Gemini",
     "summary": "WIRED spoke with Nick Fox, Google’s SVP of knowledge and information, about how AI is changing the company’s advertising business.",
     "category": "ai-research",
@@ -306,83 +286,18 @@
     "author": "Unknown",
     "publishedAt": "2026-03-12T18:15:00.000Z",
     "url": "https://www.wired.com/story/google-nick-fox-advertising-search-ai-gemini/",
-=======
-    "fetchedAt": "2026-03-13T01:54:57.671Z"
-  },
-  {
-    "id": "news-1773366897671-3",
-    "title": "Concord acquires UK-based indie label Ninja Tune Records",
-    "summary": "The deal brings Ninja Tune’s recorded music operations and its publishing arm, Just Isn’t Music, under Concord’s umbrella.\nSource",
-    "category": "industry-news",
-    "source": "Music Business Worldwide",
-    "author": "Unknown",
-    "publishedAt": "2026-03-12T16:49:28.000Z",
-    "url": "https://www.musicbusinessworldwide.com/concord-acquires-uk-based-indie-label-ninja-tune-records/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-03-13T01:54:57.671Z"
-  },
-  {
-    "id": "news-1773366897671-4",
-    "title": "Future Islands sign exclusive global deal with Universal Music Publishing",
-    "summary": "The signing comes as the band’s 2024 debut album People Who Aren’t There Anymore debuted in the UK Top 10. \nSource",
-    "category": "industry-news",
-    "source": "Music Business Worldwide",
-    "author": "Unknown",
-    "publishedAt": "2026-03-12T16:00:38.000Z",
-    "url": "https://www.musicbusinessworldwide.com/future-islands-sign-exclusive-global-deal-with-universal-music-publishing/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-03-13T01:54:57.671Z"
-  },
-  {
-    "id": "news-1773366897671-5",
-    "title": "Venu secures $86M in oversubscribed public offering, CEO says: &#8216;We just raised a ton of money.&#8217;",
-    "summary": "Venu's portfolio includes Ford Amphitheater, Sunset Amphitheaters, Phil Long Music Hall, and more\nSource",
-    "category": "industry-news",
-    "source": "Music Business Worldwide",
-    "author": "Unknown",
-    "publishedAt": "2026-03-12T11:54:16.000Z",
-    "url": "https://www.musicbusinessworldwide.com/venu-secures-86m-in-oversubscribed-public-offering-ceo-says-we-just-raised-a-ton-of-money/",
->>>>>>> origin/main
     "imageUrl": null,
     "tags": [
       "AI"
     ],
     "readTime": 1,
-<<<<<<< HEAD
-    "fetchedAt": "2026-03-13T02:02:13.936Z"
+    "fetchedAt": "2026-03-13T02:26:43.951Z"
   },
   {
-    "id": "news-1773367333926-2",
+    "id": "news-1773368803945-3",
     "title": "Tinder tries to lure people back to online dating with IRL events, virtual speed dating",
     "summary": "Tinder just got a major revamp as it attempts to reengage its user base and attract younger daters. This includes in-person events, AI enhancements, and even virtual speed dating.",
     "category": "ai-research",
-=======
-    "fetchedAt": "2026-03-13T01:54:57.671Z"
-  },
-  {
-    "id": "news-1773366897671-6",
-    "title": "BMG acquires publishing and recording catalog of UK new wave band A Flock of Seagulls",
-    "summary": "The deal covers the ownership of US publishing rights and a participation in publishing income of the band’s catalog globally.\nSource",
-    "category": "industry-news",
-    "source": "Music Business Worldwide",
-    "author": "Unknown",
-    "publishedAt": "2026-03-12T10:28:36.000Z",
-    "url": "https://www.musicbusinessworldwide.com/bmg-acquires-publishing-and-recording-catalog-of-uk-new-wave-band-a-flock-of-seagulls/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-03-13T01:54:57.671Z"
-  },
-  {
-    "id": "news-1773366897671-8",
-    "title": "AI &#8216;actor&#8217; Tilly Norwood put out the worst song I&#8217;ve ever heard",
-    "summary": "This song is an AI actor's rallying cry to other AI actors, urging them to keep going despite the naysayers who doubt their humanity. Literally no one can relate to this.",
-    "category": "industry-news",
->>>>>>> origin/main
     "source": "TechCrunch AI",
     "author": "Unknown",
     "publishedAt": "2026-03-12T18:00:00.000Z",
@@ -392,23 +307,13 @@
       "AI"
     ],
     "readTime": 1,
-<<<<<<< HEAD
-    "fetchedAt": "2026-03-13T02:02:13.926Z"
+    "fetchedAt": "2026-03-13T02:26:43.945Z"
   },
   {
-    "id": "news-1773367333926-3",
+    "id": "news-1773368803945-4",
     "title": "Atlassian follows Block’s footsteps and cuts staff in the name of AI",
     "summary": "Atlassian laid off 10% of its workforce, around 1,600 people, as the company looks to funnel more funds to AI. ",
     "category": "ai-research",
-=======
-    "fetchedAt": "2026-03-13T01:54:57.671Z"
-  },
-  {
-    "id": "news-1773366897672-9",
-    "title": "Netflix may have paid $600 million for Ben Affleck&#8217;s AI startup",
-    "summary": "This deal could rank as among the streaming giant's largest acquisitions ever. ",
-    "category": "industry-news",
->>>>>>> origin/main
     "source": "TechCrunch AI",
     "author": "Unknown",
     "publishedAt": "2026-03-12T17:20:19.000Z",
@@ -418,37 +323,6 @@
       "AI"
     ],
     "readTime": 1,
-<<<<<<< HEAD
-    "fetchedAt": "2026-03-13T02:02:13.926Z"
-  },
-  {
-    "id": "news-1773367333926-4",
-    "title": "Bumble introduces an AI dating assistant, ‘Bee’",
-    "summary": "Bumble's new AI assistant Bee will move the dating app beyond the swipe by matching people based on compatibility and goals. ",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-=======
-    "fetchedAt": "2026-03-13T01:54:57.672Z"
-  },
-  {
-    "id": "news-1773366897671-7",
-    "title": "Warner Music Group signs new $1.645bn credit agreement with JPMorgan, refinancing existing debt",
-    "summary": "Agreement comprises a $1.295B term loan, the proceeds of which will be used to pay off WMG's existing term loan debt and related fees, and a $350M revolving credit facility\nSource",
-    "category": "industry-news",
-    "source": "Music Business Worldwide",
->>>>>>> origin/main
-    "author": "Unknown",
-    "publishedAt": "2026-03-12T16:52:17.000Z",
-    "url": "https://techcrunch.com/2026/03/12/bumble-introduces-an-ai-dating-assistant-bee/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-<<<<<<< HEAD
-    "fetchedAt": "2026-03-13T02:02:13.926Z"
-=======
-    "fetchedAt": "2026-03-13T01:54:57.671Z"
->>>>>>> origin/main
+    "fetchedAt": "2026-03-13T02:26:43.945Z"
   }
 ]

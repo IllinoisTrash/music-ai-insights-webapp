@@ -1,11 +1,6 @@
 {
-<<<<<<< HEAD
-  "lastUpdated": "2026-03-13T02:02:13.943Z",
+  "lastUpdated": "2026-03-13T02:26:43.954Z",
   "totalArticles": 20,
-=======
-  "lastUpdated": "2026-03-13T01:54:57.672Z",
-  "totalArticles": 12,
->>>>>>> origin/main
   "categories": {
     "tech-innovation": 3,
     "ai-research": 16,
@@ -14,8 +9,8 @@
   "sources": [
     "Billboard",
     "Variety",
-    "MarkTechPost",
     "TechCrunch AI",
+    "MarkTechPost",
     "Music Business Worldwide",
     "Wired AI"
   ],
