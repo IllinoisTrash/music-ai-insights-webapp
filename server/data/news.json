@@ -1,64 +1,128 @@
 [
   {
-    "id": "news-1773464556712-45",
-    "title": "Don Toliver Talks ‘OCTANE’ Success, Plans for Next Album & Travis Scott at Billboard House @ SXSW",
-    "summary": "Toliver notched his first No. 1 album on the Billboard 200 with OCTANE.",
-    "category": "industry-news",
-    "source": "Billboard",
+    "id": "news-1773552500031-20",
+    "title": "How to Build Type-Safe, Schema-Constrained, and Function-Driven LLM Pipelines Using Outlines and Pydantic",
+    "summary": "In this tutorial, we build a workflow using Outlines to generate structured and type-safe outputs from language models. We work with typed constraints like Literal, int, and bool, and design prompt templates using outlines.Template, and enforce strict schema validation with Pydantic models. We also implement robust JSON recovery and a function-calling style that generates validated […]\nThe post How to Build Type-Safe, Schema-Constrained, and Function-Driven LLM Pipelines Using Outlines and",
+    "category": "ai-research",
+    "source": "MarkTechPost",
     "author": "Unknown",
-    "publishedAt": "2026-03-14T01:53:53.000Z",
-    "url": "https://www.billboard.com/music/rb-hip-hop/don-toliver-billboard-house-sxsw-interview-1236199182/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-03-14T05:02:36.712Z"
-  },
-  {
-    "id": "news-1773464556712-46",
-    "title": "The All-American Rejects’ Tyson Ritter & Nick Wheeler Talk Backyard Tour, Independence & New Album at Billboard House @ SXSW",
-    "summary": "The band's Sandbox album, AAR's first since 2012, arrives on May 15. ",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-03-14T01:53:22.000Z",
-    "url": "https://www.billboard.com/music/rb-hip-hop/the-all-american-rejects-billboard-house-2026-sxsw-1236199167/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-03-14T05:02:36.712Z"
-  },
-  {
-    "id": "news-1773464556712-47",
-    "title": "The All-American Rejects on New Music, House Party Tour Success & Advice for New Artists | SXSW 2026",
-    "summary": "The All-American Rejects’ Tyson Ritter and Nick Wheeler discuss their new album, the surprising success of their House Party tour, longevity in modern rock music and how up-and-coming artists can find creative ways to amplify their voices.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-03-14T01:22:15.000Z",
-    "url": "https://www.billboard.com/video/the-all-american-rejects-on-new-music-house-party-tour/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-03-14T05:02:36.712Z"
-  },
-  {
-    "id": "news-1773464556712-48",
-    "title": "‘Access Hollywood’ Is Canceled After 30-Year Run",
-    "summary": "The show was created by a former executive producer of Entertainment Tonight.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-03-14T00:57:17.000Z",
-    "url": "https://www.billboard.com/culture/tv-film/access-hollywood-canceled-after-30-years-1236199245/",
+    "publishedAt": "2026-03-15T01:33:18.000Z",
+    "url": "https://www.marktechpost.com/2026/03/14/how-to-build-type-safe-schema-constrained-and-function-driven-llm-pipelines-using-outlines-and-pydantic/",
     "imageUrl": null,
     "tags": [
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-03-14T05:02:36.712Z"
+    "fetchedAt": "2026-03-15T05:28:20.031Z"
   },
   {
-    "id": "news-1773464556708-0",
+    "id": "news-1773552500033-46",
+    "title": "Superstar Q&A With Junior H: Breaking Regional Mexican Music Rules | SXSW 2026",
+    "summary": "Junior H sits down with Billboard’s Co-Chief Content Officer, Leila Cobo, for the Superstar Q&A at SXSW 2026 to chat about  his chart-topping album ‘DEPR</3$$ED MFKZ,’ his journey from recording music secretly in a closet to becoming the “godfather of the sad kids,” and revolutionizing regional Mexican music with vulnerability and emotion. He reflects on […]",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-03-15T01:12:40.000Z",
+    "url": "https://www.billboard.com/video/superstar-qa-with-junior-h-breaking-regional-mexican-rules/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-03-15T05:28:20.033Z"
+  },
+  {
+    "id": "news-1773552500033-47",
+    "title": "‘Saturday Night Live’: Where to Watch the Sketch Comedy Show Online for Free",
+    "summary": "Harry Styles hosts and performs as musical guest on Saturday, Mar. 14.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-03-14T16:35:13.000Z",
+    "url": "https://www.billboard.com/culture/product-recommendations/how-to-watch-saturday-night-live-online-free-9546472/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-03-15T05:28:20.033Z"
+  },
+  {
+    "id": "news-1773552500029-0",
+    "title": "Meta reportedly considering layoffs that could affect 20% of the company",
+    "summary": "These layoffs could help Facebook's parent company offset its aggressive spending on AI infrastructure, as well as AI-related acquisitions and hiring.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-03-14T16:28:42.000Z",
+    "url": "https://techcrunch.com/2026/03/14/meta-reportedly-considering-layoffs-that-could-affect-20-of-the-company/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-03-15T05:28:20.030Z"
+  },
+  {
+    "id": "news-1773552500030-1",
+    "title": "How to use the new ChatGPT app integrations, including DoorDash, Spotify, Uber, and others",
+    "summary": "Learn how to use Spotify, Canva, Figma, Expedia, and other apps directly in ChatGPT. ",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-03-14T13:00:00.000Z",
+    "url": "https://techcrunch.com/2026/03/14/how-to-use-the-new-chatgpt-app-integrations-including-doordash-spotify-uber-and-others/",
+    "imageUrl": null,
+    "tags": [
+      "Spotify"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-03-15T05:28:20.030Z"
+  },
+  {
+    "id": "news-1773552500033-48",
+    "title": "Spacey Jane Release New Single ‘Do You Really Love Her’, Announce Summer Tour",
+    "summary": "The Australian indie rock band will hit Governors Ball, Bonnaroo and Osheaga this summer, plus a run of dates supporting Rainbow Kitten Surprise.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-03-14T09:02:04.000Z",
+    "url": "https://www.billboard.com/music/music-news/spacey-jane-single-do-you-really-love-her-announce-summer-tour-1236199283/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-03-15T05:28:20.033Z"
+  },
+  {
+    "id": "news-1773552500031-21",
+    "title": "Garry Tan Releases gstack: An Open-Source Claude Code System for Planning, Code Review, QA, and Shipping",
+    "summary": "What if AI-assisted coding became more reliable by separating product planning, engineering review, release, and QA into distinct operating modes? That is the idea behind Garry Tan’s gstack, an open-source toolkit that packages Claude Code into 8 opinionated workflow skills backed by a persistent browser runtime. The tookit describes itself as ‘Eight opinionated workflow skills […]\nThe post Garry Tan Releases gstack: An Open-Source Claude Code System for Planning, Code Review, QA, an",
+    "category": "ai-research",
+    "source": "MarkTechPost",
+    "author": "Unknown",
+    "publishedAt": "2026-03-14T08:44:43.000Z",
+    "url": "https://www.marktechpost.com/2026/03/14/garry-tan-releases-gstack-an-open-source-claude-code-system-for-planning-code-review-qa-and-shipping/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-03-15T05:28:20.031Z"
+  },
+  {
+    "id": "news-1773552500033-49",
+    "title": "The Pretty Reckless Announce Fifth Album ‘DEAR GOD’, Share New Single ‘When I Wake Up’",
+    "summary": "A headlining world tour in support of the album was also announced.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-03-14T07:42:43.000Z",
+    "url": "https://www.billboard.com/music/rock/the-pretty-reckless-announce-fifth-album-dear-god-1236199275/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-03-15T05:28:20.033Z"
+  },
+  {
+    "id": "news-1773552500030-2",
     "title": "‘Not built right the first time’ — Musk’s xAI is starting over again, again",
     "summary": "The AI lab is revamping its effort to build an AI coding tool, with two new executives joining from Cursor. ",
     "category": "ai-research",
@@ -71,10 +135,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-03-14T05:02:36.708Z"
+    "fetchedAt": "2026-03-15T05:28:20.030Z"
   },
   {
-    "id": "news-1773464556708-1",
+    "id": "news-1773552500030-3",
     "title": "Lawyer behind AI psychosis cases warns of mass casualty risks",
     "summary": "AI chatbots have been linked to suicides for years. Now one lawyer says they are showing up in mass casualty cases too, and the technology is moving faster than the safeguards.",
     "category": "ai-research",
@@ -87,52 +151,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-03-14T05:02:36.709Z"
+    "fetchedAt": "2026-03-15T05:28:20.030Z"
   },
   {
-    "id": "news-1773464556712-49",
-    "title": "Superstar Q&A With Don Toliver: ‘Octane,’ Travis Scott, Y2K Pop & More | SXSW 2026",
-    "summary": "Don Toliver sits down with Billboard’s Mike Saponara for the Superstar Q&A at SXSW 2026 to chat about his chart-topping fifth album, ‘Octane.’ The Houston artist reflects on the album debuting at No. 1 with 162K units, all 18 tracks landing on the Hot 100, his evolution into producing, the story behind “Body” and sampling […]",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-03-13T23:42:52.000Z",
-    "url": "https://www.billboard.com/video/superstar-qa-with-don-toliver-oktane-travis-scott-y2k-pop/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-03-14T05:02:36.712Z"
-  },
-  {
-    "id": "news-1773464556712-50",
-    "title": "Friday Dance Music Guide: The Week’s Best New Tracks From Kenya Grace, Claude VonStroke & More",
-    "summary": "Simply the best new dance tracks of the week.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-03-13T23:35:02.000Z",
-    "url": "https://www.billboard.com/lists/best-dance-songs-of-the-week-kenya-grace-azzeca-vonstroke/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-03-14T05:02:36.712Z"
-  },
-  {
-    "id": "news-1773464556712-51",
-    "title": "Jorge Drexler Breaks Down 5 Essential Tracks From ‘Taracá’: ‘An Album of Mourning With a Clear Celebratory Nature’",
-    "summary": "For the first time in 20 years, the award-winning musician recorded in his native Uruguay.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-03-13T23:10:23.000Z",
-    "url": "https://www.billboard.com/lists/jorge-drexler-new-album-taraca-5-essential-tracks/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-03-14T05:02:36.712Z"
-  },
-  {
-    "id": "news-1773464556710-20",
+    "id": "news-1773552500031-22",
     "title": "Google DeepMind Introduces Aletheia: The AI Agent Moving from Math Competitions to Fully Autonomous Professional Research Discoveries",
     "summary": "Google DeepMind team has introduced Aletheia, a specialized AI agent designed to bridge the gap between competition-level math and professional research. While models achieved gold-medal standards at the 2025 International Mathematical Olympiad (IMO), research requires navigating vast literature and constructing long-horizon proofs. Aletheia solves this by iteratively generating, verifying, and revising solutions in natural language. […]\nThe post Google DeepMind Introduces Aletheia: The AI",
     "category": "ai-research",
@@ -146,10 +168,10 @@
       "Research"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-03-14T05:02:36.710Z"
+    "fetchedAt": "2026-03-15T05:28:20.031Z"
   },
   {
-    "id": "news-1773464556709-2",
+    "id": "news-1773552500030-4",
     "title": "Nyne, founded by a father-son duo, gives AI agents the human context they’re missing",
     "summary": "The data infrastructure startup raised $5.3 million in seed funding led by Wischoff Ventures and South Park Commons.",
     "category": "ai-research",
@@ -164,10 +186,10 @@
       "Investment"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-03-14T05:02:36.709Z"
+    "fetchedAt": "2026-03-15T05:28:20.030Z"
   },
   {
-    "id": "news-1773464556709-3",
+    "id": "news-1773552500030-5",
     "title": "Steven Spielberg says he’s ‘never used AI’ in any of his films",
     "summary": "At SXSW, Steven Spielberg said AI has uses in many fields, but not when it comes to replacing creative people in film and TV writing.",
     "category": "ai-research",
@@ -180,10 +202,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-03-14T05:02:36.709Z"
+    "fetchedAt": "2026-03-15T05:28:20.030Z"
   },
   {
-    "id": "news-1773464556709-4",
+    "id": "news-1773552500030-6",
     "title": "The biggest AI stories of the year (so far)",
     "summary": "The AI industry is constantly churning out news, like major acquisitions, indie developer successes, public outcry, and existentially dangerous contract negotiations.",
     "category": "ai-research",
@@ -196,10 +218,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-03-14T05:02:36.709Z"
+    "fetchedAt": "2026-03-15T05:28:20.030Z"
   },
   {
-    "id": "news-1773464556711-37",
+    "id": "news-1773552500032-38",
     "title": "Quincy Jones estate sells catalog and ancillary rights to HarbourView",
     "summary": "Investment firm acquires recorded music, publishing, and ancillary rights from the estate of the legendary producer.\nSource",
     "category": "industry-news",
@@ -212,10 +234,10 @@
       "Investment"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-03-14T05:02:36.711Z"
+    "fetchedAt": "2026-03-15T05:28:20.032Z"
   },
   {
-    "id": "news-1773464556711-38",
+    "id": "news-1773552500032-39",
     "title": "Robert Kyncl to receive Paley Center’s highest honor at 2026 Spring Gala in New York",
     "summary": "The Warner Music Group chief will be recognised with The Paley Honors Award at the May 14 event.\nSource",
     "category": "industry-news",
@@ -226,10 +248,10 @@
     "imageUrl": null,
     "tags": [],
     "readTime": 1,
-    "fetchedAt": "2026-03-14T05:02:36.711Z"
+    "fetchedAt": "2026-03-15T05:28:20.032Z"
   },
   {
-    "id": "news-1773464556711-28",
+    "id": "news-1773552500032-29",
     "title": "Google's AI Search Results Love to Refer You Back to Google",
     "summary": "The company's generative AI search tools increasingly cite its own services, like Google Search and YouTube, over third-party publishers.",
     "category": "ai-research",
@@ -243,10 +265,10 @@
       "Generative AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-03-14T05:02:36.711Z"
+    "fetchedAt": "2026-03-15T05:28:20.032Z"
   },
   {
-    "id": "news-1773464556711-29",
+    "id": "news-1773552500032-30",
     "title": "China’s OpenClaw Boom Is a Gold Rush for AI Companies",
     "summary": "Hype around the open source agent is driving people to rent cloud servers and buy AI subscriptions just to try it, creating a windfall for tech companies.",
     "category": "tech-innovation",
@@ -259,10 +281,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-03-14T05:02:36.711Z"
+    "fetchedAt": "2026-03-15T05:28:20.032Z"
   },
   {
-    "id": "news-1773464556711-30",
+    "id": "news-1773552500032-31",
     "title": "Gamers’ Worst Nightmares About AI Are Coming True",
     "summary": "From the global RAM shortage driving up console prices to job loss in the industry, gaming is shaping up to be one of the AI boom's biggest casualties.",
     "category": "tech-innovation",
@@ -275,10 +297,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-03-14T05:02:36.711Z"
+    "fetchedAt": "2026-03-15T05:28:20.032Z"
   },
   {
-    "id": "news-1773464556711-31",
+    "id": "news-1773552500032-32",
     "title": "Palantir Demos Show How the Military Could Use AI Chatbots to Generate War Plans",
     "summary": "Software demos and Pentagon records detail how chatbots like Anthropic’s Claude could help the Pentagon analyze intelligence and suggest next steps.",
     "category": "tech-innovation",
@@ -291,22 +313,6 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-03-14T05:02:36.711Z"
-  },
-  {
-    "id": "news-1773464556710-21",
-    "title": "Model Context Protocol (MCP) vs. AI Agent Skills: A Deep Dive into Structured Tools and Behavioral Guidance for LLMs",
-    "summary": "In recent times, many developments in the agent ecosystem have focused on enabling AI agents to interact with external tools and access domain-specific knowledge more effectively. Two common approaches that have emerged are skills and MCPs. While they may appear similar at first, they differ in how they are set up, how they execute tasks, […]\nThe post Model Context Protocol (MCP) vs. AI Agent Skills: A Deep Dive into Structured Tools and Behavioral Guidance for LLMs appeared first on MarkT",
-    "category": "ai-research",
-    "source": "MarkTechPost",
-    "author": "Unknown",
-    "publishedAt": "2026-03-13T08:32:39.000Z",
-    "url": "https://www.marktechpost.com/2026/03/13/model-context-protocol-mcp-vs-ai-agent-skills-a-deep-dive-into-structured-tools-and-behavioral-guidance-for-llms/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-03-14T05:02:36.710Z"
+    "fetchedAt": "2026-03-15T05:28:20.032Z"
   }
 ]
