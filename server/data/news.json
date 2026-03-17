@@ -1,6 +1,313 @@
 [
   {
-    "id": "news-1773640786124-18",
+    "id": "news-1773724432919-0",
+    "title": "Picsart now allows creators to ‘hire’ AI assistants through agent marketplace",
+    "summary": "Picsart's AI agent marketplace will launch with four agents, then add more agents each week.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-03-17T04:01:00.000Z",
+    "url": "https://techcrunch.com/2026/03/16/picsart-now-allows-creators-to-hire-ai-assistants-through-agent-marketplace/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-03-17T05:13:52.919Z"
+  },
+  {
+    "id": "news-1773724432922-45",
+    "title": "When ‘KPop Demon Hunters’ Speech Was Cut Short, Oscars Missed a ‘Golden’ Opportunity",
+    "summary": "On the new Billboard Pop Shop Podcast, Katie & Keith are talking about why the songwriters' speech being cut off incited such a strong reaction.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-03-17T01:51:44.000Z",
+    "url": "https://www.billboard.com/media/podcasts/kpop-demon-hunters-oscar-speech-golden-pop-shop-podcast-1236200758/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-03-17T05:13:52.922Z"
+  },
+  {
+    "id": "news-1773724432922-46",
+    "title": "Drake DMs Fan After His ‘Explaining Drake Songs to My Girlfriend’ Videos Go Viral: ‘New Breakdowns Coming’",
+    "summary": "The Toronto rapper hinted that he would have some new material to break down sooner rather than later.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-03-16T23:00:45.000Z",
+    "url": "https://www.billboard.com/music/rb-hip-hop/drake-dms-fan-explaining-drake-songs-to-my-girlfriend-1236200667/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-03-17T05:13:52.922Z"
+  },
+  {
+    "id": "news-1773724432921-20",
+    "title": "Mistral AI Releases Mistral Small 4: A 119B-Parameter MoE Model that Unifies Instruct, Reasoning, and Multimodal Workloads",
+    "summary": "Mistral AI has released Mistral Small 4, a new model in the Mistral Small family designed to consolidate several previously separate capabilities into a single deployment target. Mistral team describes Small 4 as its first model to combine the roles associated with Mistral Small for instruction following, Magistral for reasoning, Pixtral for multimodal understanding, and […]\nThe post Mistral AI Releases Mistral Small 4: A 119B-Parameter MoE Model that Unifies Instruct, Reasoning, and Multi",
+    "category": "tech-innovation",
+    "source": "MarkTechPost",
+    "author": "Unknown",
+    "publishedAt": "2026-03-16T22:48:59.000Z",
+    "url": "https://www.marktechpost.com/2026/03/16/mistral-ai-releases-mistral-small-4-a-119b-parameter-moe-model-that-unifies-instruct-reasoning-and-multimodal-workloads/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-03-17T05:13:52.921Z"
+  },
+  {
+    "id": "news-1773724432919-1",
+    "title": "Nvidia’s version of OpenClaw could solve its biggest problem: security",
+    "summary": "Nvidia announced an open enterprise AI agent platform, called NemoClaw, that is built off of viral OpenClaw. ",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-03-16T22:45:51.000Z",
+    "url": "https://techcrunch.com/2026/03/16/nvidias-version-of-openclaw-could-solve-its-biggest-problem-security/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-03-17T05:13:52.919Z"
+  },
+  {
+    "id": "news-1773724432919-2",
+    "title": "Warren presses Pentagon over decision to grant xAI access to classified networks",
+    "summary": "Sen. Elizabeth Warren noted that Grok, xAI's controversial chatbot, has created harmful outputs for users and poses a potential national security risk.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-03-16T20:58:36.000Z",
+    "url": "https://techcrunch.com/2026/03/16/warren-presses-pentagon-over-decision-to-grant-xai-access-to-classified-networks/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-03-17T05:13:52.919Z"
+  },
+  {
+    "id": "news-1773724432920-3",
+    "title": "Memories AI is building the visual memory layer for wearables and robotics",
+    "summary": "Memories.ai is building a large visual memory model that can index and retrieve video-recorded memories for physical AI. ",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-03-16T20:30:00.000Z",
+    "url": "https://techcrunch.com/2026/03/16/memories-ai-is-building-the-visual-memory-layer-for-wearables-and-robotics/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-03-17T05:13:52.920Z"
+  },
+  {
+    "id": "news-1773724432920-4",
+    "title": "Elon Musk’s xAI faces child porn lawsuit from minors Grok allegedly undressed",
+    "summary": "The three plaintiffs are seeking to represent anyone who had real images of them as a minor altered into sexual content by Grok.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-03-16T19:18:44.000Z",
+    "url": "https://techcrunch.com/2026/03/16/elon-musks-xai-faces-child-porn-lawsuit-from-minors-grok-allegedly-undressed/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-03-17T05:13:52.920Z"
+  },
+  {
+    "id": "news-1773724432920-5",
+    "title": "Nvidia’s DLSS 5 uses generative AI to boost photorealism in video games, with ambitions beyond gaming",
+    "summary": "Nvidia’s new DLSS 5 uses generative AI and structured graphics data to make video games more realistic. CEO Jensen Huang says the approach could eventually spread to other industries.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-03-16T19:12:19.000Z",
+    "url": "https://techcrunch.com/2026/03/16/nvidias-dlss-5-uses-generative-ai-to-boost-photo-realism-in-video-games-with-ambitions-beyond-gaming/",
+    "imageUrl": null,
+    "tags": [
+      "AI",
+      "Generative AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-03-17T05:13:52.920Z"
+  },
+  {
+    "id": "news-1773724432920-6",
+    "title": "The dictionary sues OpenAI",
+    "summary": "Encyclopedia Britannica and Merriam-Webster say that OpenAI violated the copyright of almost 100,000 articles by using them for LLM training.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-03-16T17:38:34.000Z",
+    "url": "https://techcrunch.com/2026/03/16/merriam-webster-openai-encyclopedia-brittanica-lawsuit/",
+    "imageUrl": null,
+    "tags": [
+      "AI",
+      "Copyright"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-03-17T05:13:52.920Z"
+  },
+  {
+    "id": "news-1773724432921-38",
+    "title": "US wholesale recorded music revenue reached $11.5B in 2025, as paid streaming subscriptions hit 106.5M — adding 6.5M accounts YoY",
+    "summary": "The US recorded music industry generated USD $11.535 billion in wholesale revenue in 2025, up 3.1% YoY.\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-03-16T17:06:12.000Z",
+    "url": "https://www.musicbusinessworldwide.com/us-paid-music-streaming-subscriptions-hit-106-5m-in-2025-adding-6-5m-accounts-yoy-the-strongest-growth-since-2022/",
+    "imageUrl": null,
+    "tags": [
+      "AI",
+      "Streaming"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-03-17T05:13:52.921Z"
+  },
+  {
+    "id": "news-1773724432921-39",
+    "title": "Universal Music acquires stake in What the Duck, a prominent indie label based in Thailand",
+    "summary": "Founder Moy Samkwan Tonsompong will join Universal Music Thailand as Managing Director\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-03-16T15:51:26.000Z",
+    "url": "https://www.musicbusinessworldwide.com/universal-music-group-makes-strategic-investment-in-what-the-duck-wtd-a-prominent-thailand-based-independent-label/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-03-17T05:13:52.921Z"
+  },
+  {
+    "id": "news-1773724432921-40",
+    "title": "Pharrell Williams legal battle with ex-Neptunes partner widens, as Chad Hugo challenges credits on Rosalía and Latto tracks",
+    "summary": "The amended filing expanded Chad Hugo’s claims, alleging that he was left off songwriter credits on several tracks he helped create.\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-03-16T14:13:07.000Z",
+    "url": "https://www.musicbusinessworldwide.com/pharrell-williams-legal-battle-with-ex-neptunes-partner-widens-as-chad-hugo-challenges-credits-on-rosalia-and-latto-tracks/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-03-17T05:13:52.921Z"
+  },
+  {
+    "id": "news-1773724432921-41",
+    "title": "UMG’s hospitality arm strikes JV with lifestyle investment group IMI to develop ‘music-led beach club concept’",
+    "summary": "UMG is partnering with the operator of O Beach to build a global network of music-driven venues.\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-03-16T13:40:13.000Z",
+    "url": "https://www.musicbusinessworldwide.com/umgs-hospitality-arm-strikes-jv-with-lifestyle-investment-group-imi-to-develop-music-led-beach-club-concept/",
+    "imageUrl": null,
+    "tags": [
+      "Investment"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-03-17T05:13:52.921Z"
+  },
+  {
+    "id": "news-1773724432921-42",
+    "title": "Spotify to let users edit the algorithm behind their personalized recommendations with ‘Taste Profile’",
+    "summary": "Taste Profile will initially be available in beta for Premium users in New Zealand in the coming weeks.\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-03-16T12:45:17.000Z",
+    "url": "https://www.musicbusinessworldwide.com/spotify-to-let-users-edit-the-algorithm-behind-their-personalized-recommendations-with-taste-profile/",
+    "imageUrl": null,
+    "tags": [
+      "Spotify",
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-03-17T05:13:52.921Z"
+  },
+  {
+    "id": "news-1773724432921-43",
+    "title": "TikTok Radio launches on iHeartRadio, as TikTok ends SiriusXM partnership",
+    "summary": "Segments include a weekly countdown of TikTok's 10 biggest songs, trending topics, new music highlights on Friday, and more.\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-03-16T12:35:24.000Z",
+    "url": "https://www.musicbusinessworldwide.com/tiktok-radio-launches-on-iheartradio-as-tiktok-ends-siriusxm-partnership/",
+    "imageUrl": null,
+    "tags": [
+      "Partnership"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-03-17T05:13:52.921Z"
+  },
+  {
+    "id": "news-1773724432921-44",
+    "title": "Too Lost strikes nine-figure investment round, led by GoldState and TA Associates",
+    "summary": "Too Lost will use funds to expand tech, invest in artist advances, and execute catalog acquisitions\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-03-16T11:12:06.000Z",
+    "url": "https://www.musicbusinessworldwide.com/too-lost-strikes-nine-figure-investment-round-led-by-goldstate-and-ta-associates/",
+    "imageUrl": null,
+    "tags": [
+      "Investment"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-03-17T05:13:52.922Z"
+  },
+  {
+    "id": "news-1773724432921-29",
+    "title": "Models Are Applying to Be the Face of AI Scams",
+    "summary": "Dozens of Telegram channels reviewed by WIRED include job listings for “AI face models.” The (mostly) women who land these gigs are likely being used to dupe victims out of their money.",
+    "category": "tech-innovation",
+    "source": "Wired AI",
+    "author": "Unknown",
+    "publishedAt": "2026-03-16T09:00:00.000Z",
+    "url": "https://www.wired.com/story/models-are-applying-to-be-the-face-of-ai-scams/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-03-17T05:13:52.921Z"
+  },
+  {
+    "id": "news-1773724432921-21",
+    "title": "Moonshot AI Releases 𝑨𝒕𝒕𝒆𝒏𝒕𝒊𝒐𝒏 𝑹𝒆𝒔𝒊𝒅𝒖𝒂𝒍𝒔 to Replace Fixed Residual Mixing with Depth-Wise Attention for Better Scaling in Transformers",
+    "summary": "Residual connections are one of the least questioned parts of modern Transformer design. In PreNorm architectures, each layer adds its output back into a running hidden state, which keeps optimization stable and allows deep models to train. Moonshot AI researchers argue that this standard mechanism also introduces a structural problem: all prior layer outputs are […]\nThe post Moonshot AI Releases 𝑨𝒕𝒕𝒆𝒏𝒕𝒊𝒐𝒏 𝑹𝒆𝒔𝒊𝒅𝒖𝒂𝒍𝒔 to Replace Fixed Residual Mixing with Depth-Wise Attenti",
+    "category": "ai-research",
+    "source": "MarkTechPost",
+    "author": "Unknown",
+    "publishedAt": "2026-03-16T06:48:39.000Z",
+    "url": "https://www.marktechpost.com/2026/03/15/moonshot-ai-releases-%f0%9d%91%a8%f0%9d%92%95%f0%9d%92%95%f0%9d%92%86%f0%9d%92%8f%f0%9d%92%95%f0%9d%92%8a%f0%9d%92%90%f0%9d%92%8f-%f0%9d%91%b9%f0%9d%92%86%f0%9d%92%94%f0%9d%92%8a%f0%9d%92%85/",
+    "imageUrl": null,
+    "tags": [
+      "AI",
+      "Research"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-03-17T05:13:52.921Z"
+  },
+  {
+    "id": "news-1773724432921-22",
     "title": "IBM AI Releases Granite 4.0 1B Speech as a Compact Multilingual Speech Model for Edge AI and Translation Pipelines",
     "summary": "IBM has released Granite 4.0 1B Speech, a compact speech-language model designed for multilingual automatic speech recognition (ASR) and bidirectional automatic speech translation (AST). The release targets enterprise and edge-style speech deployments where memory footprint, latency, and compute efficiency matter as much as raw benchmark quality. What Changed in Granite 4.0 1B Speech At the […]\nThe post IBM AI Releases Granite 4.0 1B Speech as a Compact Multilingual Speech Model for Edge A",
     "category": "tech-innovation",
@@ -13,294 +320,6 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-03-16T05:59:46.124Z"
-  },
-  {
-    "id": "news-1773640786125-45",
-    "title": "‘Golden,’ ‘Shallow,’ ‘Shaft’ & More: All 18 Best Original Song Oscar Winners to Hit No. 1 on the Hot 100",
-    "summary": "“Golden\" is one of only three Oscar-winning songs to log eight or more weeks atop the Hot 100. ",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-03-16T04:17:51.000Z",
-    "url": "https://www.billboard.com/lists/oscar-winners-best-original-song-number-one-hits-hot-100/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-03-16T05:59:46.125Z"
-  },
-  {
-    "id": "news-1773640786125-46",
-    "title": "Alex Warren Returns to Australia and New Zealand for Seven-Date Arena Run",
-    "summary": "The California singer-songwriter will play seven shows across both countries in August and September, returning less than a year after a sold-out run.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-03-16T04:11:38.000Z",
-    "url": "https://www.billboard.com/music/concerts/alex-warren-2026-australia-new-zealand-arena-tour-1236199974/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-03-16T05:59:46.125Z"
-  },
-  {
-    "id": "news-1773640786125-47",
-    "title": "Before ‘Golden,’ Here Are 25 Other Songs That Set Oscar Records",
-    "summary": "Here are Oscar records set by Barbra Streisand, Adele, Isaac Hayes, Eminem, Carly Simon and more.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-03-16T04:02:02.000Z",
-    "url": "https://www.billboard.com/lists/oscars-songs-set-records-history/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-03-16T05:59:46.125Z"
-  },
-  {
-    "id": "news-1773640786125-48",
-    "title": "Here Are All the Oscar Winners for Best Animated Feature",
-    "summary": "KPop Demon Hunter is just the fourth film to win for both best animated feature and best original song.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-03-16T04:01:47.000Z",
-    "url": "https://www.billboard.com/lists/oscar-winners-best-animated-feature-complete-list/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-03-16T05:59:46.125Z"
-  },
-  {
-    "id": "news-1773640786125-49",
-    "title": "‘Golden’ From ‘KPop Demon Hunters’ Wins Best Original Song at 2026 Oscars, But Speech Is Cut Short",
-    "summary": "EJAE spoke on behalf of the seven-person team behind the song, but when her co-writer Yu-Han Lee started speaking, his acceptance speech was played off.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-03-16T02:34:20.000Z",
-    "url": "https://www.billboard.com/music/awards/golden-kpop-demon-hunters-oscars-2026-speech-interrupted-1236199919/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-03-16T05:59:46.125Z"
-  },
-  {
-    "id": "news-1773640786125-50",
-    "title": "Here Are the 2026 Oscar Winners: Full List",
-    "summary": "\"Golden\" from KPop Demon Hunters won best original song, while Sinners took home best original score.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-03-16T02:30:00.000Z",
-    "url": "https://www.billboard.com/lists/2026-oscar-winners-list/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-03-16T05:59:46.125Z"
-  },
-  {
-    "id": "news-1773640786126-51",
-    "title": "‘I’m Not Trying to Follow What’s Popping Right Now’: Mau P Talks About Making His Debut Album at Billboard House @ SXSW",
-    "summary": "The current Billboard cover star plays a headlining set on Sunday (March 15) at The Concourse Project in Austin, Texas.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-03-16T01:52:36.000Z",
-    "url": "https://www.billboard.com/music/music-news/mau-p-sxsw-2026-dance-music-billboard-house-interview-1236199737/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-03-16T05:59:46.126Z"
-  },
-  {
-    "id": "news-1773640786126-52",
-    "title": "‘Sinners’ Wins Best Original Score at 2026 Oscars",
-    "summary": "Composer Ludwig Göransson becomes the first three-time winner in the category in the 21st century.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-03-16T01:47:35.000Z",
-    "url": "https://www.billboard.com/music/awards/sinners-wins-best-original-score-oscars-2026-1236199879/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-03-16T05:59:46.126Z"
-  },
-  {
-    "id": "news-1773640786126-53",
-    "title": "Barbra Streisand Honors Robert Redford as ‘An Intellectual Cowboy’ With ‘The Way We Were’ 2026 Oscars Tribute: Read Her Full Speech",
-    "summary": "Streisand ended her tribute by singing a snippet of her three-week Billboard Hot 100 No. 1 theme song for the 1973 romantic drama.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-03-16T01:26:44.000Z",
-    "url": "https://www.billboard.com/music/awards/barbra-streisand-robert-redford-oscars-tribute-full-speech-1236199850/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-03-16T05:59:46.126Z"
-  },
-  {
-    "id": "news-1773640786123-0",
-    "title": "Google, Accel India accelerator chooses 5 startups and none are ‘AI wrappers’",
-    "summary": "Google and Accel say about 70% of AI startup pitches tied to India were \"wrappers\" as they reviewed more than 4,000 applications for their Atoms cohort.",
-    "category": "industry-news",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-03-16T00:30:00.000Z",
-    "url": "https://techcrunch.com/2026/03/15/google-and-accel-cut-through-wrappers-in-4000-ai-startup-pitches-to-pick-five-tied-to-india/",
-    "imageUrl": null,
-    "tags": [
-      "AI",
-      "Startup"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-03-16T05:59:46.123Z"
-  },
-  {
-    "id": "news-1773640786124-19",
-    "title": "A Coding Implementation to Design an Enterprise AI Governance System Using OpenClaw Gateway Policy Engines, Approval Workflows and Auditable Agent Execution",
-    "summary": "In this tutorial, we build an enterprise-grade AI governance system using OpenClaw and Python. We start by setting up the OpenClaw runtime and launching the OpenClaw Gateway so that our Python environment can interact with a real agent through the OpenClaw API. We then design a governance layer that classifies requests based on risk, enforces […]\nThe post A Coding Implementation to Design an Enterprise AI Governance System Using OpenClaw Gateway Policy Engines, Approval Workflows and Audit",
-    "category": "ai-research",
-    "source": "MarkTechPost",
-    "author": "Unknown",
-    "publishedAt": "2026-03-15T22:12:45.000Z",
-    "url": "https://www.marktechpost.com/2026/03/15/a-coding-implementation-to-design-an-enterprise-ai-governance-system-using-openclaw-gateway-policy-engines-approval-workflows-and-auditable-agent-execution/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-03-16T05:59:46.124Z"
-  },
-  {
-    "id": "news-1773640786123-1",
-    "title": "Lawyer behind AI psychosis cases warns of mass casualty risks",
-    "summary": "AI chatbots have been linked to suicides for years. Now one lawyer says they are showing up in mass casualty cases too, and the technology is moving faster than the safeguards.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-03-15T18:49:32.000Z",
-    "url": "https://techcrunch.com/2026/03/15/lawyer-behind-ai-psychosis-cases-warns-of-mass-casualty-risks/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-03-16T05:59:46.123Z"
-  },
-  {
-    "id": "news-1773640786124-20",
-    "title": "Meet OpenViking: An Open-Source Context Database that Brings Filesystem-Based Memory and Retrieval to AI Agent Systems like OpenClaw",
-    "summary": "OpenViking is an open-source Context Database for AI Agents from Volcengine. The project is built around a simple architectural concept: agent systems should not treat context as a flat collection of text chunks. Instead, OpenViking organizes context through a file system paradigm, with the goal of making memory, resources, and skills manageable through a unified […]\nThe post Meet OpenViking: An Open-Source Context Database that Brings Filesystem-Based Memory and Retrieval to AI Agent Syst",
-    "category": "ai-research",
-    "source": "MarkTechPost",
-    "author": "Unknown",
-    "publishedAt": "2026-03-15T18:49:21.000Z",
-    "url": "https://www.marktechpost.com/2026/03/15/meet-openviking-an-open-source-context-database-that-brings-filesystem-based-memory-and-retrieval-to-ai-agent-systems-like-openclaw/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-03-16T05:59:46.124Z"
-  },
-  {
-    "id": "news-1773640786124-21",
-    "title": "LangChain Releases Deep Agents: A Structured Runtime for Planning, Memory, and Context Isolation in Multi-Step AI Agents",
-    "summary": "Most LLM agents work well for short tool-calling loops but start to break down when the task becomes multi-step, stateful, and artifact-heavy. LangChain’s Deep Agents is designed for that gap. The project is described by LangChain as an ‘agent harness‘: a standalone library built on top of LangChain’s agent building blocks and powered by the […]\nThe post LangChain Releases Deep Agents: A Structured Runtime for Planning, Memory, and Context Isolation in Multi-Step AI Agents appe",
-    "category": "ai-research",
-    "source": "MarkTechPost",
-    "author": "Unknown",
-    "publishedAt": "2026-03-15T09:07:48.000Z",
-    "url": "https://www.marktechpost.com/2026/03/15/langchain-releases-deep-agents-a-structured-runtime-for-planning-memory-and-context-isolation-in-multi-step-ai-agents/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-03-16T05:59:46.125Z"
-  },
-  {
-    "id": "news-1773640786125-22",
-    "title": "Zhipu AI Introduces GLM-OCR: A 0.9B Multimodal OCR Model for Document Parsing and Key Information Extraction (KIE)",
-    "summary": "Why Document OCR Still Remains a Hard Engineering Problem? What does it take to make OCR useful for real documents instead of clean demo images? And can a compact multimodal model handle parsing, tables, formulas, and structured extraction without turning inference into a resource bonfire? That is the problem targeted by GLM-OCR, introduced by researchers […]\nThe post Zhipu AI Introduces GLM-OCR: A 0.9B Multimodal OCR Model for Document Parsing and Key Information Extraction (KIE) appeared",
-    "category": "ai-research",
-    "source": "MarkTechPost",
-    "author": "Unknown",
-    "publishedAt": "2026-03-15T08:08:01.000Z",
-    "url": "https://www.marktechpost.com/2026/03/15/zhipu-ai-introduces-glm-ocr-a-0-9b-multimodal-ocr-model-for-document-parsing-and-key-information-extraction-kie/",
-    "imageUrl": null,
-    "tags": [
-      "AI",
-      "Research"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-03-16T05:59:46.125Z"
-  },
-  {
-    "id": "news-1773640786125-23",
-    "title": "How to Build Type-Safe, Schema-Constrained, and Function-Driven LLM Pipelines Using Outlines and Pydantic",
-    "summary": "In this tutorial, we build a workflow using Outlines to generate structured and type-safe outputs from language models. We work with typed constraints like Literal, int, and bool, and design prompt templates using outlines.Template, and enforce strict schema validation with Pydantic models. We also implement robust JSON recovery and a function-calling style that generates validated […]\nThe post How to Build Type-Safe, Schema-Constrained, and Function-Driven LLM Pipelines Using Outlines and",
-    "category": "ai-research",
-    "source": "MarkTechPost",
-    "author": "Unknown",
-    "publishedAt": "2026-03-15T01:33:18.000Z",
-    "url": "https://www.marktechpost.com/2026/03/14/how-to-build-type-safe-schema-constrained-and-function-driven-llm-pipelines-using-outlines-and-pydantic/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-03-16T05:59:46.125Z"
-  },
-  {
-    "id": "news-1773640786123-2",
-    "title": "Meta reportedly considering layoffs that could affect 20% of the company",
-    "summary": "These layoffs could help Facebook's parent company offset its aggressive spending on AI infrastructure, as well as AI-related acquisitions and hiring.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-03-14T16:28:42.000Z",
-    "url": "https://techcrunch.com/2026/03/14/meta-reportedly-considering-layoffs-that-could-affect-20-of-the-company/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-03-16T05:59:46.123Z"
-  },
-  {
-    "id": "news-1773640786124-3",
-    "title": "How to use the new ChatGPT app integrations, including DoorDash, Spotify, Uber, and others",
-    "summary": "Learn how to use Spotify, Canva, Figma, Expedia, and other apps directly in ChatGPT. ",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-03-14T13:00:00.000Z",
-    "url": "https://techcrunch.com/2026/03/14/how-to-use-the-new-chatgpt-app-integrations-including-doordash-spotify-uber-and-others/",
-    "imageUrl": null,
-    "tags": [
-      "Spotify"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-03-16T05:59:46.124Z"
-  },
-  {
-    "id": "news-1773640786125-24",
-    "title": "Garry Tan Releases gstack: An Open-Source Claude Code System for Planning, Code Review, QA, and Shipping",
-    "summary": "What if AI-assisted coding became more reliable by separating product planning, engineering review, release, and QA into distinct operating modes? That is the idea behind Garry Tan’s gstack, an open-source toolkit that packages Claude Code into 8 opinionated workflow skills backed by a persistent browser runtime. The tookit describes itself as ‘Eight opinionated workflow skills […]\nThe post Garry Tan Releases gstack: An Open-Source Claude Code System for Planning, Code Review, QA, an",
-    "category": "ai-research",
-    "source": "MarkTechPost",
-    "author": "Unknown",
-    "publishedAt": "2026-03-14T08:44:43.000Z",
-    "url": "https://www.marktechpost.com/2026/03/14/garry-tan-releases-gstack-an-open-source-claude-code-system-for-planning-code-review-qa-and-shipping/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-03-16T05:59:46.125Z"
+    "fetchedAt": "2026-03-17T05:13:52.921Z"
   }
 ]
