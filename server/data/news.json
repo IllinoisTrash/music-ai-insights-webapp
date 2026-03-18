@@ -1,325 +1,316 @@
 [
   {
-    "id": "news-1773724432919-0",
-    "title": "Picsart now allows creators to ‘hire’ AI assistants through agent marketplace",
-    "summary": "Picsart's AI agent marketplace will launch with four agents, then add more agents each week.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-03-17T04:01:00.000Z",
-    "url": "https://techcrunch.com/2026/03/16/picsart-now-allows-creators-to-hire-ai-assistants-through-agent-marketplace/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-03-17T05:13:52.919Z"
-  },
-  {
-    "id": "news-1773724432922-45",
-    "title": "When ‘KPop Demon Hunters’ Speech Was Cut Short, Oscars Missed a ‘Golden’ Opportunity",
-    "summary": "On the new Billboard Pop Shop Podcast, Katie & Keith are talking about why the songwriters' speech being cut off incited such a strong reaction.",
+    "id": "news-1773811216098-47",
+    "title": "Robbie Williams Sets Stadium Tour of Australia and New Zealand",
+    "summary": "The superstar British pop singer will perform some of his biggest Australasian concerts ever, and visit cities for the first time.",
     "category": "industry-news",
     "source": "Billboard",
     "author": "Unknown",
-    "publishedAt": "2026-03-17T01:51:44.000Z",
-    "url": "https://www.billboard.com/media/podcasts/kpop-demon-hunters-oscar-speech-golden-pop-shop-podcast-1236200758/",
+    "publishedAt": "2026-03-18T02:46:42.000Z",
+    "url": "https://www.billboard.com/music/concerts/robbie-williams-stadium-tour-australia-new-zealand-1236201708/",
     "imageUrl": null,
     "tags": [],
     "readTime": 1,
-    "fetchedAt": "2026-03-17T05:13:52.922Z"
+    "fetchedAt": "2026-03-18T05:20:16.098Z"
   },
   {
-    "id": "news-1773724432922-46",
-    "title": "Drake DMs Fan After His ‘Explaining Drake Songs to My Girlfriend’ Videos Go Viral: ‘New Breakdowns Coming’",
-    "summary": "The Toronto rapper hinted that he would have some new material to break down sooner rather than later.",
+    "id": "news-1773811216098-48",
+    "title": "KCON LA Announces 2026 Dates & Venues",
+    "summary": "The annual festival will return to Crypto.com Arena & the Los Angeles Convention Center for three days this August.",
     "category": "industry-news",
     "source": "Billboard",
     "author": "Unknown",
-    "publishedAt": "2026-03-16T23:00:45.000Z",
-    "url": "https://www.billboard.com/music/rb-hip-hop/drake-dms-fan-explaining-drake-songs-to-my-girlfriend-1236200667/",
+    "publishedAt": "2026-03-18T01:11:57.000Z",
+    "url": "https://www.billboard.com/music/music-news/kcon-la-2026-dates-venues-1236201657/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-03-18T05:20:16.098Z"
+  },
+  {
+    "id": "news-1773811216098-49",
+    "title": "Labrinth Lashes Out at Music Industry in New Post: ‘Fake Ain’t a Good Business Plan’",
+    "summary": "This is not the first time the singer & producer has aired grievances on the social media platform this week.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-03-18T00:54:14.000Z",
+    "url": "https://www.billboard.com/music/music-news/labrinth-slams-music-industry-new-post-1236201600/",
     "imageUrl": null,
     "tags": [
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-03-17T05:13:52.922Z"
+    "fetchedAt": "2026-03-18T05:20:16.098Z"
   },
   {
-    "id": "news-1773724432921-20",
-    "title": "Mistral AI Releases Mistral Small 4: A 119B-Parameter MoE Model that Unifies Instruct, Reasoning, and Multimodal Workloads",
-    "summary": "Mistral AI has released Mistral Small 4, a new model in the Mistral Small family designed to consolidate several previously separate capabilities into a single deployment target. Mistral team describes Small 4 as its first model to combine the roles associated with Mistral Small for instruction following, Magistral for reasoning, Pixtral for multimodal understanding, and […]\nThe post Mistral AI Releases Mistral Small 4: A 119B-Parameter MoE Model that Unifies Instruct, Reasoning, and Multi",
-    "category": "tech-innovation",
+    "id": "news-1773811216097-31",
+    "title": "Justice Department Says Anthropic Can’t Be Trusted With Warfighting Systems",
+    "summary": "In response to Anthropic’s lawsuit, the government said it lawfully penalized the company for trying to limit how its Claude AI models could be used by the military.",
+    "category": "ai-research",
+    "source": "Wired AI",
+    "author": "Unknown",
+    "publishedAt": "2026-03-18T00:51:14.000Z",
+    "url": "https://www.wired.com/story/department-of-defense-responds-to-anthropic-lawsuit/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-03-18T05:20:16.097Z"
+  },
+  {
+    "id": "news-1773811216098-50",
+    "title": "‘The Circle of Life’ Chant Performer Sues Comedian Over Viral ‘The Lion King’ Podcast Clip",
+    "summary": "Lebo M claims Learnmore Jonasi defamed him by saying the song's opening chant is Zulu for \"Look, there’s a lion. Oh my god.”",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-03-17T23:10:43.000Z",
+    "url": "https://www.billboard.com/pro/the-lion-king-lawsuit-comedian-sued-circle-of-life-comment/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-03-18T05:20:16.098Z"
+  },
+  {
+    "id": "news-1773811216096-22",
+    "title": "Unsloth AI Releases Unsloth Studio: A Local No-Code Interface For High-Performance LLM Fine-Tuning With 70% Less VRAM Usage",
+    "summary": "The transition from a raw dataset to a fine-tuned Large Language Model (LLM) traditionally involves significant infrastructure overhead, including CUDA environment management and high VRAM requirements. Unsloth AI, known for its high-performance training library, has released Unsloth Studio to address these friction points. The Studio is an open-source, no-code local interface designed to streamline the […]\nThe post Unsloth AI Releases Unsloth Studio: A Local No-Code Interface For High-Per",
+    "category": "ai-research",
     "source": "MarkTechPost",
     "author": "Unknown",
-    "publishedAt": "2026-03-16T22:48:59.000Z",
-    "url": "https://www.marktechpost.com/2026/03/16/mistral-ai-releases-mistral-small-4-a-119b-parameter-moe-model-that-unifies-instruct-reasoning-and-multimodal-workloads/",
+    "publishedAt": "2026-03-17T22:32:48.000Z",
+    "url": "https://www.marktechpost.com/2026/03/17/unsloth-ai-releases-studio-a-local-no-code-interface-for-high-performance-llm-fine-tuning-with-70-less-vram-usage/",
     "imageUrl": null,
     "tags": [
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-03-17T05:13:52.921Z"
+    "fetchedAt": "2026-03-18T05:20:16.096Z"
   },
   {
-    "id": "news-1773724432919-1",
-    "title": "Nvidia’s version of OpenClaw could solve its biggest problem: security",
-    "summary": "Nvidia announced an open enterprise AI agent platform, called NemoClaw, that is built off of viral OpenClaw. ",
+    "id": "news-1773811216098-51",
+    "title": "Peter Frampton Announces First Album in 16 Years With Collaborators Sheryl Crow, H.E.R. & Tom Morello",
+    "summary": "The guitarist hasn't dropped an LP of original material since 2010's Thank You Mr. Churchill.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-03-17T22:31:49.000Z",
+    "url": "https://www.billboard.com/music/music-news/peter-frampton-first-album-16-years-carry-the-light-1236201567/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-03-18T05:20:16.098Z"
+  },
+  {
+    "id": "news-1773811216094-0",
+    "title": "Mistral bets on ‘build-your-own AI’ as it takes on OpenAI, Anthropic in the enterprise",
+    "summary": "Mistral Forge lets enterprises train custom AI models from scratch on their own data, challenging rivals that rely on fine-tuning and retrieval-based approaches.",
     "category": "ai-research",
     "source": "TechCrunch AI",
     "author": "Unknown",
-    "publishedAt": "2026-03-16T22:45:51.000Z",
-    "url": "https://techcrunch.com/2026/03/16/nvidias-version-of-openclaw-could-solve-its-biggest-problem-security/",
+    "publishedAt": "2026-03-17T21:00:00.000Z",
+    "url": "https://techcrunch.com/2026/03/17/mistral-forge-nvidia-gtc-build-your-own-ai-enterprise/",
     "imageUrl": null,
     "tags": [
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-03-17T05:13:52.919Z"
+    "fetchedAt": "2026-03-18T05:20:16.094Z"
   },
   {
-    "id": "news-1773724432919-2",
-    "title": "Warren presses Pentagon over decision to grant xAI access to classified networks",
-    "summary": "Sen. Elizabeth Warren noted that Grok, xAI's controversial chatbot, has created harmful outputs for users and poses a potential national security risk.",
+    "id": "news-1773811216095-1",
+    "title": "Why Garry Tan’s Claude Code setup has gotten so much love, and hate",
+    "summary": "Thousands of people are trying Garry Tan's Claude Code setup, which was shared on GitHub. And everyone has an opinion: even Claude, ChatGPT, and Gemini.",
     "category": "ai-research",
     "source": "TechCrunch AI",
     "author": "Unknown",
-    "publishedAt": "2026-03-16T20:58:36.000Z",
-    "url": "https://techcrunch.com/2026/03/16/warren-presses-pentagon-over-decision-to-grant-xai-access-to-classified-networks/",
+    "publishedAt": "2026-03-17T20:50:04.000Z",
+    "url": "https://techcrunch.com/2026/03/17/why-garry-tans-claude-code-setup-has-gotten-so-much-love-and-hate/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-03-18T05:20:16.095Z"
+  },
+  {
+    "id": "news-1773811216097-40",
+    "title": "Tencent Music now has 20M+ ‘Super VIP’ subscribers. Here’s what that means for China’s largest music streamer.",
+    "summary": "Tencent Music Entertainment's (TME) 'Super VIP' tier has just hit a major new milestone.\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-03-17T20:03:22.000Z",
+    "url": "https://www.musicbusinessworldwide.com/tencent-music-now-has-20m-super-vip-subscribers-heres-what-that-means-for-chinas-largest-music-streamer/",
     "imageUrl": null,
     "tags": [
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-03-17T05:13:52.919Z"
+    "fetchedAt": "2026-03-18T05:20:16.097Z"
   },
   {
-    "id": "news-1773724432920-3",
-    "title": "Memories AI is building the visual memory layer for wearables and robotics",
-    "summary": "Memories.ai is building a large visual memory model that can index and retrieve video-recorded memories for physical AI. ",
+    "id": "news-1773811216095-2",
+    "title": "BuzzFeed debuts AI slop apps in bid for new revenue",
+    "summary": "BuzzFeed unveiled new AI-powered social apps at SXSW, but its demos drew muted reactions. ",
     "category": "ai-research",
     "source": "TechCrunch AI",
     "author": "Unknown",
-    "publishedAt": "2026-03-16T20:30:00.000Z",
-    "url": "https://techcrunch.com/2026/03/16/memories-ai-is-building-the-visual-memory-layer-for-wearables-and-robotics/",
+    "publishedAt": "2026-03-17T17:17:15.000Z",
+    "url": "https://techcrunch.com/2026/03/17/buzzfeed-ai-slop-apps-sxsw-bf-island-conjure/",
     "imageUrl": null,
     "tags": [
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-03-17T05:13:52.920Z"
+    "fetchedAt": "2026-03-18T05:20:16.095Z"
   },
   {
-    "id": "news-1773724432920-4",
-    "title": "Elon Musk’s xAI faces child porn lawsuit from minors Grok allegedly undressed",
-    "summary": "The three plaintiffs are seeking to represent anyone who had real images of them as a minor altered into sexual content by Grok.",
+    "id": "news-1773811216095-3",
+    "title": "Google’s Personal Intelligence feature is expanding to all US users",
+    "summary": "Personal Intelligence allows Google's AI assistant to tap into your Google ecosystem, such as Gmail and Google Photos, to provide more tailored responses.",
     "category": "ai-research",
     "source": "TechCrunch AI",
     "author": "Unknown",
-    "publishedAt": "2026-03-16T19:18:44.000Z",
-    "url": "https://techcrunch.com/2026/03/16/elon-musks-xai-faces-child-porn-lawsuit-from-minors-grok-allegedly-undressed/",
+    "publishedAt": "2026-03-17T16:00:00.000Z",
+    "url": "https://techcrunch.com/2026/03/17/googles-personal-intelligence-feature-is-expanding-to-all-us-users/",
     "imageUrl": null,
     "tags": [
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-03-17T05:13:52.920Z"
+    "fetchedAt": "2026-03-18T05:20:16.095Z"
   },
   {
-    "id": "news-1773724432920-5",
-    "title": "Nvidia’s DLSS 5 uses generative AI to boost photorealism in video games, with ambitions beyond gaming",
-    "summary": "Nvidia’s new DLSS 5 uses generative AI and structured graphics data to make video games more realistic. CEO Jensen Huang says the approach could eventually spread to other industries.",
+    "id": "news-1773811216095-4",
+    "title": "OpenAI expands government footprint with AWS deal, report says",
+    "summary": "OpenAI has reportedly signed a partnership with AWS to sell its AI systems to the U.S. government for classified and unclassified work, marking an expansion beyond its Pentagon deal last month.",
     "category": "ai-research",
     "source": "TechCrunch AI",
     "author": "Unknown",
-    "publishedAt": "2026-03-16T19:12:19.000Z",
-    "url": "https://techcrunch.com/2026/03/16/nvidias-dlss-5-uses-generative-ai-to-boost-photo-realism-in-video-games-with-ambitions-beyond-gaming/",
+    "publishedAt": "2026-03-17T15:37:03.000Z",
+    "url": "https://techcrunch.com/2026/03/17/openai-expands-government-footprint-with-aws-deal/",
     "imageUrl": null,
     "tags": [
       "AI",
-      "Generative AI"
+      "Partnership"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-03-17T05:13:52.920Z"
+    "fetchedAt": "2026-03-18T05:20:16.095Z"
   },
   {
-    "id": "news-1773724432920-6",
-    "title": "The dictionary sues OpenAI",
-    "summary": "Encyclopedia Britannica and Merriam-Webster say that OpenAI violated the copyright of almost 100,000 articles by using them for LLM training.",
-    "category": "ai-research",
+    "id": "news-1773811216095-5",
+    "title": "AI’s ‘boys’ club’ could widen the wealth gap for women, says Rana el Kaliouby",
+    "summary": "AI investor Rana el Kaliouby warns that if women are shut out of AI funding and leadership, the consequences will be grim.",
+    "category": "industry-news",
     "source": "TechCrunch AI",
     "author": "Unknown",
-    "publishedAt": "2026-03-16T17:38:34.000Z",
-    "url": "https://techcrunch.com/2026/03/16/merriam-webster-openai-encyclopedia-brittanica-lawsuit/",
+    "publishedAt": "2026-03-17T15:16:21.000Z",
+    "url": "https://techcrunch.com/2026/03/17/ais-boys-club-could-widen-the-wealth-gap-for-women-says-rana-el-kaliouby/",
     "imageUrl": null,
     "tags": [
       "AI",
-      "Copyright"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-03-17T05:13:52.920Z"
-  },
-  {
-    "id": "news-1773724432921-38",
-    "title": "US wholesale recorded music revenue reached $11.5B in 2025, as paid streaming subscriptions hit 106.5M — adding 6.5M accounts YoY",
-    "summary": "The US recorded music industry generated USD $11.535 billion in wholesale revenue in 2025, up 3.1% YoY.\nSource",
-    "category": "industry-news",
-    "source": "Music Business Worldwide",
-    "author": "Unknown",
-    "publishedAt": "2026-03-16T17:06:12.000Z",
-    "url": "https://www.musicbusinessworldwide.com/us-paid-music-streaming-subscriptions-hit-106-5m-in-2025-adding-6-5m-accounts-yoy-the-strongest-growth-since-2022/",
-    "imageUrl": null,
-    "tags": [
-      "AI",
-      "Streaming"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-03-17T05:13:52.921Z"
-  },
-  {
-    "id": "news-1773724432921-39",
-    "title": "Universal Music acquires stake in What the Duck, a prominent indie label based in Thailand",
-    "summary": "Founder Moy Samkwan Tonsompong will join Universal Music Thailand as Managing Director\nSource",
-    "category": "industry-news",
-    "source": "Music Business Worldwide",
-    "author": "Unknown",
-    "publishedAt": "2026-03-16T15:51:26.000Z",
-    "url": "https://www.musicbusinessworldwide.com/universal-music-group-makes-strategic-investment-in-what-the-duck-wtd-a-prominent-thailand-based-independent-label/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-03-17T05:13:52.921Z"
-  },
-  {
-    "id": "news-1773724432921-40",
-    "title": "Pharrell Williams legal battle with ex-Neptunes partner widens, as Chad Hugo challenges credits on Rosalía and Latto tracks",
-    "summary": "The amended filing expanded Chad Hugo’s claims, alleging that he was left off songwriter credits on several tracks he helped create.\nSource",
-    "category": "industry-news",
-    "source": "Music Business Worldwide",
-    "author": "Unknown",
-    "publishedAt": "2026-03-16T14:13:07.000Z",
-    "url": "https://www.musicbusinessworldwide.com/pharrell-williams-legal-battle-with-ex-neptunes-partner-widens-as-chad-hugo-challenges-credits-on-rosalia-and-latto-tracks/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-03-17T05:13:52.921Z"
-  },
-  {
-    "id": "news-1773724432921-41",
-    "title": "UMG’s hospitality arm strikes JV with lifestyle investment group IMI to develop ‘music-led beach club concept’",
-    "summary": "UMG is partnering with the operator of O Beach to build a global network of music-driven venues.\nSource",
-    "category": "industry-news",
-    "source": "Music Business Worldwide",
-    "author": "Unknown",
-    "publishedAt": "2026-03-16T13:40:13.000Z",
-    "url": "https://www.musicbusinessworldwide.com/umgs-hospitality-arm-strikes-jv-with-lifestyle-investment-group-imi-to-develop-music-led-beach-club-concept/",
-    "imageUrl": null,
-    "tags": [
       "Investment"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-03-17T05:13:52.921Z"
+    "fetchedAt": "2026-03-18T05:20:16.095Z"
   },
   {
-    "id": "news-1773724432921-42",
-    "title": "Spotify to let users edit the algorithm behind their personalized recommendations with ‘Taste Profile’",
-    "summary": "Taste Profile will initially be available in beta for Premium users in New Zealand in the coming weeks.\nSource",
+    "id": "news-1773811216097-41",
+    "title": "Clint Higham, John Esposito, and Kris Lamb launch Nashville label HEY NOW Records; Kenny Chesney is first signing",
+    "summary": "HEY NOW Records landed East Tennessee singer-songwriter Kenny Chesney as its first signing.\nSource",
     "category": "industry-news",
     "source": "Music Business Worldwide",
     "author": "Unknown",
-    "publishedAt": "2026-03-16T12:45:17.000Z",
-    "url": "https://www.musicbusinessworldwide.com/spotify-to-let-users-edit-the-algorithm-behind-their-personalized-recommendations-with-taste-profile/",
+    "publishedAt": "2026-03-17T15:12:27.000Z",
+    "url": "https://www.musicbusinessworldwide.com/clint-higham-john-esposito-and-kris-lamb-launch-nashville-label-hey-now-records-kenny-chesney-is-first-signing/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-03-18T05:20:16.097Z"
+  },
+  {
+    "id": "news-1773811216095-6",
+    "title": "World launches tool to verify humans behind AI shopping agents",
+    "summary": "As AI agents take the reins for online shoppers, Sam Altman's unconventional startup is looking to expand its verification offerings to support agentic commerce.  ",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-03-17T15:00:00.000Z",
+    "url": "https://techcrunch.com/2026/03/17/world-launches-tool-to-verify-humans-behind-ai-shopping-agents/",
     "imageUrl": null,
     "tags": [
-      "Spotify",
-      "AI"
+      "AI",
+      "Startup"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-03-17T05:13:52.921Z"
+    "fetchedAt": "2026-03-18T05:20:16.095Z"
   },
   {
-    "id": "news-1773724432921-43",
-    "title": "TikTok Radio launches on iHeartRadio, as TikTok ends SiriusXM partnership",
-    "summary": "Segments include a weekly countdown of TikTok's 10 biggest songs, trending topics, new music highlights on Friday, and more.\nSource",
+    "id": "news-1773811216097-42",
+    "title": "In latest move in India, Universal Music forms exclusive partnership with Albuquerque Records, the new label from singer and composer Anirudh Ravichander",
+    "summary": "Universal Music India has entered into an exclusive partnership with Albuquerque Records\nSource",
     "category": "industry-news",
     "source": "Music Business Worldwide",
     "author": "Unknown",
-    "publishedAt": "2026-03-16T12:35:24.000Z",
-    "url": "https://www.musicbusinessworldwide.com/tiktok-radio-launches-on-iheartradio-as-tiktok-ends-siriusxm-partnership/",
+    "publishedAt": "2026-03-17T14:27:29.000Z",
+    "url": "https://www.musicbusinessworldwide.com/in-latest-move-in-india-universal-music-forms-exclusive-partnership-with-albuquerque-records-the-new-label-from-singer-and-composer-anirudh-ravichander/",
     "imageUrl": null,
     "tags": [
       "Partnership"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-03-17T05:13:52.921Z"
+    "fetchedAt": "2026-03-18T05:20:16.097Z"
   },
   {
-    "id": "news-1773724432921-44",
-    "title": "Too Lost strikes nine-figure investment round, led by GoldState and TA Associates",
-    "summary": "Too Lost will use funds to expand tech, invest in artist advances, and execute catalog acquisitions\nSource",
-    "category": "industry-news",
-    "source": "Music Business Worldwide",
-    "author": "Unknown",
-    "publishedAt": "2026-03-16T11:12:06.000Z",
-    "url": "https://www.musicbusinessworldwide.com/too-lost-strikes-nine-figure-investment-round-led-by-goldstate-and-ta-associates/",
-    "imageUrl": null,
-    "tags": [
-      "Investment"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-03-17T05:13:52.922Z"
-  },
-  {
-    "id": "news-1773724432921-29",
-    "title": "Models Are Applying to Be the Face of AI Scams",
-    "summary": "Dozens of Telegram channels reviewed by WIRED include job listings for “AI face models.” The (mostly) women who land these gigs are likely being used to dupe victims out of their money.",
-    "category": "tech-innovation",
-    "source": "Wired AI",
-    "author": "Unknown",
-    "publishedAt": "2026-03-16T09:00:00.000Z",
-    "url": "https://www.wired.com/story/models-are-applying-to-be-the-face-of-ai-scams/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-03-17T05:13:52.921Z"
-  },
-  {
-    "id": "news-1773724432921-21",
-    "title": "Moonshot AI Releases 𝑨𝒕𝒕𝒆𝒏𝒕𝒊𝒐𝒏 𝑹𝒆𝒔𝒊𝒅𝒖𝒂𝒍𝒔 to Replace Fixed Residual Mixing with Depth-Wise Attention for Better Scaling in Transformers",
-    "summary": "Residual connections are one of the least questioned parts of modern Transformer design. In PreNorm architectures, each layer adds its output back into a running hidden state, which keeps optimization stable and allows deep models to train. Moonshot AI researchers argue that this standard mechanism also introduces a structural problem: all prior layer outputs are […]\nThe post Moonshot AI Releases 𝑨𝒕𝒕𝒆𝒏𝒕𝒊𝒐𝒏 𝑹𝒆𝒔𝒊𝒅𝒖𝒂𝒍𝒔 to Replace Fixed Residual Mixing with Depth-Wise Attenti",
+    "id": "news-1773811216095-7",
+    "title": "Niv-AI exits stealth to wring more power performance out of GPUs",
+    "summary": "The company raised $12 million in seed funding to measure and manage GPU power surges. ",
     "category": "ai-research",
-    "source": "MarkTechPost",
+    "source": "TechCrunch AI",
     "author": "Unknown",
-    "publishedAt": "2026-03-16T06:48:39.000Z",
-    "url": "https://www.marktechpost.com/2026/03/15/moonshot-ai-releases-%f0%9d%91%a8%f0%9d%92%95%f0%9d%92%95%f0%9d%92%86%f0%9d%92%8f%f0%9d%92%95%f0%9d%92%8a%f0%9d%92%90%f0%9d%92%8f-%f0%9d%91%b9%f0%9d%92%86%f0%9d%92%94%f0%9d%92%8a%f0%9d%92%85/",
+    "publishedAt": "2026-03-17T13:00:00.000Z",
+    "url": "https://techcrunch.com/2026/03/17/niv-ai-exits-stealth-to-wring-more-power-performance-out-of-gpus/",
     "imageUrl": null,
     "tags": [
       "AI",
-      "Research"
+      "Investment"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-03-17T05:13:52.921Z"
+    "fetchedAt": "2026-03-18T05:20:16.095Z"
   },
   {
-    "id": "news-1773724432921-22",
-    "title": "IBM AI Releases Granite 4.0 1B Speech as a Compact Multilingual Speech Model for Edge AI and Translation Pipelines",
-    "summary": "IBM has released Granite 4.0 1B Speech, a compact speech-language model designed for multilingual automatic speech recognition (ASR) and bidirectional automatic speech translation (AST). The release targets enterprise and edge-style speech deployments where memory footprint, latency, and compute efficiency matter as much as raw benchmark quality. What Changed in Granite 4.0 1B Speech At the […]\nThe post IBM AI Releases Granite 4.0 1B Speech as a Compact Multilingual Speech Model for Edge A",
-    "category": "tech-innovation",
-    "source": "MarkTechPost",
+    "id": "news-1773811216095-8",
+    "title": "Gamma adds AI image-generation tools in bid to take on Canva and Adobe",
+    "summary": "The company's new product, called Gamma Imagine, will let users employ text prompts to create brand-specific assets like interactive charts and visualizations, marketing collateral, social graphics, and infographics. ",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
     "author": "Unknown",
-    "publishedAt": "2026-03-16T04:57:26.000Z",
-    "url": "https://www.marktechpost.com/2026/03/15/ibm-ai-releases-granite-4-0-1b-speech-as-a-compact-multilingual-speech-model-for-edge-ai-and-translation-pipelines/",
+    "publishedAt": "2026-03-17T13:00:00.000Z",
+    "url": "https://techcrunch.com/2026/03/17/gamma-adds-ai-image-generation-tools-in-bid-to-take-on-canva-and-adobe/",
     "imageUrl": null,
     "tags": [
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-03-17T05:13:52.921Z"
+    "fetchedAt": "2026-03-18T05:20:16.095Z"
+  },
+  {
+    "id": "news-1773811216097-43",
+    "title": "Alibaba wants to be a global ticketing player — starting with Malaysia tour stop for Chinese rap superstar GAI",
+    "summary": "Alibaba's live entertainment arm is making its first move into international ticketing, landing a primary ticketing role for a concert in Malaysia.\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-03-17T11:42:26.000Z",
+    "url": "https://www.musicbusinessworldwide.com/alibaba-wants-to-be-a-global-ticketing-player-starting-with-malaysia-tour-stop-for-chinese-rap-superstar-gai/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-03-18T05:20:16.097Z"
   }
 ]
