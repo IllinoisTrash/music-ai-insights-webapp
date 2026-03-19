@@ -1,316 +1,327 @@
 [
   {
-    "id": "news-1773811216098-47",
-    "title": "Robbie Williams Sets Stadium Tour of Australia and New Zealand",
-    "summary": "The superstar British pop singer will perform some of his biggest Australasian concerts ever, and visit cities for the first time.",
+    "id": "news-1773897323653-48",
+    "title": "Australia’s Recorded Music Business Reports ‘Moderate’ Growth For 2025",
+    "summary": "Australia’s recorded music industry posted a gain of 1.4% to A$727 million ($512 million) in 2025, for the seventh consecutive year of growth, ARIA reports.",
     "category": "industry-news",
     "source": "Billboard",
     "author": "Unknown",
-    "publishedAt": "2026-03-18T02:46:42.000Z",
-    "url": "https://www.billboard.com/music/concerts/robbie-williams-stadium-tour-australia-new-zealand-1236201708/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-03-18T05:20:16.098Z"
-  },
-  {
-    "id": "news-1773811216098-48",
-    "title": "KCON LA Announces 2026 Dates & Venues",
-    "summary": "The annual festival will return to Crypto.com Arena & the Los Angeles Convention Center for three days this August.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-03-18T01:11:57.000Z",
-    "url": "https://www.billboard.com/music/music-news/kcon-la-2026-dates-venues-1236201657/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-03-18T05:20:16.098Z"
-  },
-  {
-    "id": "news-1773811216098-49",
-    "title": "Labrinth Lashes Out at Music Industry in New Post: ‘Fake Ain’t a Good Business Plan’",
-    "summary": "This is not the first time the singer & producer has aired grievances on the social media platform this week.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-03-18T00:54:14.000Z",
-    "url": "https://www.billboard.com/music/music-news/labrinth-slams-music-industry-new-post-1236201600/",
+    "publishedAt": "2026-03-19T04:27:18.000Z",
+    "url": "https://www.billboard.com/pro/australias-recorded-music-business-moderate-growth-2025/",
     "imageUrl": null,
     "tags": [
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-03-18T05:20:16.098Z"
+    "fetchedAt": "2026-03-19T05:15:23.653Z"
   },
   {
-    "id": "news-1773811216097-31",
-    "title": "Justice Department Says Anthropic Can’t Be Trusted With Warfighting Systems",
-    "summary": "In response to Anthropic’s lawsuit, the government said it lawfully penalized the company for trying to limit how its Claude AI models could be used by the military.",
+    "id": "news-1773897323653-49",
+    "title": "‘ABBA Voyage’ Creator Pophouse Buys Majority Stake In Tina Turner’s Music Rights",
+    "summary": "BMG remains a significant shareholder, with Pophouse buying a majority stake in a package of rights that include name, image and likeness.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-03-19T04:04:18.000Z",
+    "url": "https://www.billboard.com/pro/pophouse-buys-majority-stake-tina-turner-music-rights/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-03-19T05:15:23.653Z"
+  },
+  {
+    "id": "news-1773897323653-50",
+    "title": "Remy Ma Renames ‘The Biggest Boss’ Movie After Rick Ross Threatens Lawsuit",
+    "summary": "Ma's streaming platform plans to release a movie about a prison guard-turned-rapper — a narrative that mirrors Ross' trajectory.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-03-19T01:31:02.000Z",
+    "url": "https://www.billboard.com/pro/rick-ross-lawsuit-threat-remy-ma-rename-biggest-boss-movie/",
+    "imageUrl": null,
+    "tags": [
+      "Streaming"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-03-19T05:15:23.653Z"
+  },
+  {
+    "id": "news-1773897323653-51",
+    "title": "Country Legend Vince Gill Endorses Taylor Swift for Country Music Hall of Fame: ‘I’m Crazy About Her’",
+    "summary": "If she makes the cut in the next decade, Swift would be the youngest person ever inducted into the Hall.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-03-19T00:17:36.000Z",
+    "url": "https://www.billboard.com/music/country/vince-gill-taylor-swift-country-music-hall-of-fame-support-1236202331/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-03-19T05:15:23.654Z"
+  },
+  {
+    "id": "news-1773897323654-52",
+    "title": "Self Esteem to Launch London’s British Airways ARC Venue as Inaugural Headliner",
+    "summary": "The new 3,800-capacity concert hall is gearing up for a June kickoff.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-03-19T00:01:00.000Z",
+    "url": "https://www.billboard.com/music/music-news/self-esteem-london-british-airways-arc-venue-lineup-2026-1236201994/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-03-19T05:15:23.654Z"
+  },
+  {
+    "id": "news-1773897323650-0",
+    "title": "Meta is having trouble with rogue AI agents",
+    "summary": "A rogue AI agent inadvertently exposed Meta company and user data to engineers who didn't have permission to see it.",
     "category": "ai-research",
-    "source": "Wired AI",
+    "source": "TechCrunch AI",
     "author": "Unknown",
-    "publishedAt": "2026-03-18T00:51:14.000Z",
-    "url": "https://www.wired.com/story/department-of-defense-responds-to-anthropic-lawsuit/",
+    "publishedAt": "2026-03-18T23:42:46.000Z",
+    "url": "https://techcrunch.com/2026/03/18/meta-is-having-trouble-with-rogue-ai-agents/",
     "imageUrl": null,
     "tags": [
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-03-18T05:20:16.097Z"
+    "fetchedAt": "2026-03-19T05:15:23.651Z"
   },
   {
-    "id": "news-1773811216098-50",
-    "title": "‘The Circle of Life’ Chant Performer Sues Comedian Over Viral ‘The Lion King’ Podcast Clip",
-    "summary": "Lebo M claims Learnmore Jonasi defamed him by saying the song's opening chant is Zulu for \"Look, there’s a lion. Oh my god.”",
+    "id": "news-1773897323654-53",
+    "title": "Afroman Wins Verdict Rejecting Lawsuit Filed by Ohio Cops Over Mocking Music Videos",
+    "summary": "Police officers raided the \"Because I Got High\" rapper's Ohio home, then sued him after he ridiculed them on social media — but a jury just sided with Afroman.",
     "category": "industry-news",
     "source": "Billboard",
     "author": "Unknown",
-    "publishedAt": "2026-03-17T23:10:43.000Z",
-    "url": "https://www.billboard.com/pro/the-lion-king-lawsuit-comedian-sued-circle-of-life-comment/",
+    "publishedAt": "2026-03-18T22:53:17.000Z",
+    "url": "https://www.billboard.com/pro/afroman-trial-verdict-rapper-wins-lawsuit-cops-music-videos/",
     "imageUrl": null,
     "tags": [
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-03-18T05:20:16.098Z"
+    "fetchedAt": "2026-03-19T05:15:23.654Z"
   },
   {
-    "id": "news-1773811216096-22",
-    "title": "Unsloth AI Releases Unsloth Studio: A Local No-Code Interface For High-Performance LLM Fine-Tuning With 70% Less VRAM Usage",
-    "summary": "The transition from a raw dataset to a fine-tuned Large Language Model (LLM) traditionally involves significant infrastructure overhead, including CUDA environment management and high VRAM requirements. Unsloth AI, known for its high-performance training library, has released Unsloth Studio to address these friction points. The Studio is an open-source, no-code local interface designed to streamline the […]\nThe post Unsloth AI Releases Unsloth Studio: A Local No-Code Interface For High-Per",
+    "id": "news-1773897323654-54",
+    "title": "‘Sinners’ and ‘KPop Demon Hunters’ Soundtracks Up in Streams and Sales Following Big Oscars Wins",
+    "summary": "This week's Trending Up looks at gains experienced by two big Oscar-winning flicks and their respective soundtracks, and viral moments for a couple decades-separated dance-pop hits.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-03-18T21:26:58.000Z",
+    "url": "https://www.billboard.com/music/chart-beat/sinners-kpop-demon-hunters-soundtrack-oscars-trending-up-1236202238/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-03-19T05:15:23.654Z"
+  },
+  {
+    "id": "news-1773897323652-23",
+    "title": "Tsinghua and Ant Group Researchers Unveil a Five-Layer Lifecycle-Oriented Security Framework to Mitigate Autonomous LLM Agent Vulnerabilities in OpenClaw",
+    "summary": "Autonomous LLM agents like OpenClaw are shifting the paradigm from passive assistants to proactive entities capable of executing complex, long-horizon tasks through high-privilege system access. However, a security analysis research report from Tsinghua University and Ant Group reveals that OpenClaw’s ‘kernel-plugin’ architecture—anchored by a pi-coding-agent serving as the Minimal Trusted Computing Base (TCB)—is vulnerable to […]\nThe post Tsinghua and Ant Group Researchers Unveil a Five-L",
     "category": "ai-research",
     "source": "MarkTechPost",
     "author": "Unknown",
-    "publishedAt": "2026-03-17T22:32:48.000Z",
-    "url": "https://www.marktechpost.com/2026/03/17/unsloth-ai-releases-studio-a-local-no-code-interface-for-high-performance-llm-fine-tuning-with-70-less-vram-usage/",
+    "publishedAt": "2026-03-18T21:04:16.000Z",
+    "url": "https://www.marktechpost.com/2026/03/18/tsinghua-and-ant-group-researchers-unveil-a-five-layer-lifecycle-oriented-security-framework-to-mitigate-autonomous-llm-agent-vulnerabilities-in-openclaw/",
+    "imageUrl": null,
+    "tags": [
+      "Research"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-03-19T05:15:23.652Z"
+  },
+  {
+    "id": "news-1773897323651-1",
+    "title": "Nothing CEO Carl Pei says smartphone apps will disappear as AI agents take their place",
+    "summary": "Nothing CEO Carl Pei says AI agents will eventually replace apps, shifting smartphones toward systems that understand intent and act on a user's behalf.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-03-18T20:30:52.000Z",
+    "url": "https://techcrunch.com/2026/03/18/nothing-ceo-carl-pei-says-smartphone-apps-will-disappear-as-ai-agents-take-their-place/",
     "imageUrl": null,
     "tags": [
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-03-18T05:20:16.096Z"
+    "fetchedAt": "2026-03-19T05:15:23.651Z"
   },
   {
-    "id": "news-1773811216098-51",
-    "title": "Peter Frampton Announces First Album in 16 Years With Collaborators Sheryl Crow, H.E.R. & Tom Morello",
-    "summary": "The guitarist hasn't dropped an LP of original material since 2010's Thank You Mr. Churchill.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-03-17T22:31:49.000Z",
-    "url": "https://www.billboard.com/music/music-news/peter-frampton-first-album-16-years-carry-the-light-1236201567/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-03-18T05:20:16.098Z"
-  },
-  {
-    "id": "news-1773811216094-0",
-    "title": "Mistral bets on ‘build-your-own AI’ as it takes on OpenAI, Anthropic in the enterprise",
-    "summary": "Mistral Forge lets enterprises train custom AI models from scratch on their own data, challenging rivals that rely on fine-tuning and retrieval-based approaches.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-03-17T21:00:00.000Z",
-    "url": "https://techcrunch.com/2026/03/17/mistral-forge-nvidia-gtc-build-your-own-ai-enterprise/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-03-18T05:20:16.094Z"
-  },
-  {
-    "id": "news-1773811216095-1",
-    "title": "Why Garry Tan’s Claude Code setup has gotten so much love, and hate",
-    "summary": "Thousands of people are trying Garry Tan's Claude Code setup, which was shared on GitHub. And everyone has an opinion: even Claude, ChatGPT, and Gemini.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-03-17T20:50:04.000Z",
-    "url": "https://techcrunch.com/2026/03/17/why-garry-tans-claude-code-setup-has-gotten-so-much-love-and-hate/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-03-18T05:20:16.095Z"
-  },
-  {
-    "id": "news-1773811216097-40",
-    "title": "Tencent Music now has 20M+ ‘Super VIP’ subscribers. Here’s what that means for China’s largest music streamer.",
-    "summary": "Tencent Music Entertainment's (TME) 'Super VIP' tier has just hit a major new milestone.\nSource",
+    "id": "news-1773897323653-40",
+    "title": "A new WMG deal, an Ed Sheeran collaboration and 10M AI music production users… 3 things we learned from Tencent Music’s Q4 earnings call",
+    "summary": "Tencent Music Entertainment (TME) published its Q4 and full-year 2025 results on Tuesday (March 17). Here are three things that stood out.\nSource",
     "category": "industry-news",
     "source": "Music Business Worldwide",
     "author": "Unknown",
-    "publishedAt": "2026-03-17T20:03:22.000Z",
-    "url": "https://www.musicbusinessworldwide.com/tencent-music-now-has-20m-super-vip-subscribers-heres-what-that-means-for-chinas-largest-music-streamer/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-03-18T05:20:16.097Z"
-  },
-  {
-    "id": "news-1773811216095-2",
-    "title": "BuzzFeed debuts AI slop apps in bid for new revenue",
-    "summary": "BuzzFeed unveiled new AI-powered social apps at SXSW, but its demos drew muted reactions. ",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-03-17T17:17:15.000Z",
-    "url": "https://techcrunch.com/2026/03/17/buzzfeed-ai-slop-apps-sxsw-bf-island-conjure/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-03-18T05:20:16.095Z"
-  },
-  {
-    "id": "news-1773811216095-3",
-    "title": "Google’s Personal Intelligence feature is expanding to all US users",
-    "summary": "Personal Intelligence allows Google's AI assistant to tap into your Google ecosystem, such as Gmail and Google Photos, to provide more tailored responses.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-03-17T16:00:00.000Z",
-    "url": "https://techcrunch.com/2026/03/17/googles-personal-intelligence-feature-is-expanding-to-all-us-users/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-03-18T05:20:16.095Z"
-  },
-  {
-    "id": "news-1773811216095-4",
-    "title": "OpenAI expands government footprint with AWS deal, report says",
-    "summary": "OpenAI has reportedly signed a partnership with AWS to sell its AI systems to the U.S. government for classified and unclassified work, marking an expansion beyond its Pentagon deal last month.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-03-17T15:37:03.000Z",
-    "url": "https://techcrunch.com/2026/03/17/openai-expands-government-footprint-with-aws-deal/",
+    "publishedAt": "2026-03-18T19:18:34.000Z",
+    "url": "https://www.musicbusinessworldwide.com/a-new-warner-deal-an-ed-sheeran-collaboration-and-10m-ai-production-users-3-things-we-learned-from-tencent-musics-q4-earnings-call/",
     "imageUrl": null,
     "tags": [
       "AI",
+      "Music Production",
       "Partnership"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-03-18T05:20:16.095Z"
+    "fetchedAt": "2026-03-19T05:15:23.653Z"
   },
   {
-    "id": "news-1773811216095-5",
-    "title": "AI’s ‘boys’ club’ could widen the wealth gap for women, says Rana el Kaliouby",
-    "summary": "AI investor Rana el Kaliouby warns that if women are shut out of AI funding and leadership, the consequences will be grim.",
-    "category": "industry-news",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-03-17T15:16:21.000Z",
-    "url": "https://techcrunch.com/2026/03/17/ais-boys-club-could-widen-the-wealth-gap-for-women-says-rana-el-kaliouby/",
-    "imageUrl": null,
-    "tags": [
-      "AI",
-      "Investment"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-03-18T05:20:16.095Z"
-  },
-  {
-    "id": "news-1773811216097-41",
-    "title": "Clint Higham, John Esposito, and Kris Lamb launch Nashville label HEY NOW Records; Kenny Chesney is first signing",
-    "summary": "HEY NOW Records landed East Tennessee singer-songwriter Kenny Chesney as its first signing.\nSource",
+    "id": "news-1773897323653-41",
+    "title": "10 quick (and crucial) takeaways from IFPI’s Global Music Report 2026",
+    "summary": "10 quick takeaways from this year's report\nSource",
     "category": "industry-news",
     "source": "Music Business Worldwide",
     "author": "Unknown",
-    "publishedAt": "2026-03-17T15:12:27.000Z",
-    "url": "https://www.musicbusinessworldwide.com/clint-higham-john-esposito-and-kris-lamb-launch-nashville-label-hey-now-records-kenny-chesney-is-first-signing/",
+    "publishedAt": "2026-03-18T19:00:17.000Z",
+    "url": "https://www.musicbusinessworldwide.com/10-quick-and-crucial-takeaways-from-ifpis-global-music-report-2026/",
     "imageUrl": null,
     "tags": [],
     "readTime": 1,
-    "fetchedAt": "2026-03-18T05:20:16.097Z"
+    "fetchedAt": "2026-03-19T05:15:23.653Z"
   },
   {
-    "id": "news-1773811216095-6",
-    "title": "World launches tool to verify humans behind AI shopping agents",
-    "summary": "As AI agents take the reins for online shoppers, Sam Altman's unconventional startup is looking to expand its verification offerings to support agentic commerce.  ",
+    "id": "news-1773897323653-31",
+    "title": "Why Walmart and OpenAI Are Shaking Up Their Agentic Shopping Deal",
+    "summary": "After OpenAI’s Instant Checkout feature fell short, Walmart is instead embedding its Sparky chatbot directly into ChatGPT and Google Gemini.",
+    "category": "ai-research",
+    "source": "Wired AI",
+    "author": "Unknown",
+    "publishedAt": "2026-03-18T18:01:18.000Z",
+    "url": "https://www.wired.com/story/ai-lab-walmart-openai-shaking-up-agentic-shopping-deal/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-03-19T05:15:23.653Z"
+  },
+  {
+    "id": "news-1773897323651-2",
+    "title": "Patreon CEO calls AI companies’ fair use argument ‘bogus,’ says creators should be paid",
+    "summary": "Patreon CEO Jack Conte says AI companies should pay creators for training data, arguing their fair use defense falls apart when they license content from major publishers.",
     "category": "ai-research",
     "source": "TechCrunch AI",
     "author": "Unknown",
-    "publishedAt": "2026-03-17T15:00:00.000Z",
-    "url": "https://techcrunch.com/2026/03/17/world-launches-tool-to-verify-humans-behind-ai-shopping-agents/",
+    "publishedAt": "2026-03-18T17:54:31.000Z",
+    "url": "https://techcrunch.com/2026/03/18/patreon-ceo-calls-ai-companies-fair-use-argument-bogus-says-creators-should-be-paid/",
     "imageUrl": null,
     "tags": [
-      "AI",
-      "Startup"
+      "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-03-18T05:20:16.095Z"
+    "fetchedAt": "2026-03-19T05:15:23.651Z"
   },
   {
-    "id": "news-1773811216097-42",
-    "title": "In latest move in India, Universal Music forms exclusive partnership with Albuquerque Records, the new label from singer and composer Anirudh Ravichander",
-    "summary": "Universal Music India has entered into an exclusive partnership with Albuquerque Records\nSource",
+    "id": "news-1773897323651-3",
+    "title": "Rebel Audio is a new AI podcasting tool aimed at first-time creators",
+    "summary": "Rebel Audio is a new all-in-one podcasting tool that allows creators to record podcasts, edit, clip content for social, and publish episodes, all without ever leaving the platform. ",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-03-18T17:15:00.000Z",
+    "url": "https://techcrunch.com/2026/03/18/rebel-audio-is-a-new-ai-podcasting-tool-aimed-at-first-time-creators/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-03-19T05:15:23.651Z"
+  },
+  {
+    "id": "news-1773897323653-42",
+    "title": "Sir Lucian Grainge just became the first music exec at NVIDIA’s ‘Super Bowl of AI’. Here’s what he said.",
+    "summary": "Universal Music Group's Chairman & CEO just became the first music industry leader to take the stage at NVIDIA's GTC conference\nSource",
     "category": "industry-news",
     "source": "Music Business Worldwide",
     "author": "Unknown",
-    "publishedAt": "2026-03-17T14:27:29.000Z",
-    "url": "https://www.musicbusinessworldwide.com/in-latest-move-in-india-universal-music-forms-exclusive-partnership-with-albuquerque-records-the-new-label-from-singer-and-composer-anirudh-ravichander/",
+    "publishedAt": "2026-03-18T17:14:48.000Z",
+    "url": "https://www.musicbusinessworldwide.com/sir-lucian-grainge-just-became-the-first-music-exec-at-nvidias-super-bowl-of-ai-heres-what-he-said/",
     "imageUrl": null,
     "tags": [
-      "Partnership"
+      "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-03-18T05:20:16.097Z"
+    "fetchedAt": "2026-03-19T05:15:23.653Z"
   },
   {
-    "id": "news-1773811216095-7",
-    "title": "Niv-AI exits stealth to wring more power performance out of GPUs",
-    "summary": "The company raised $12 million in seed funding to measure and manage GPU power surges. ",
+    "id": "news-1773897323651-4",
+    "title": "The leaderboard “you can’t game,” funded by the companies it ranks",
+    "summary": "Artificial intelligence models are multiplying fast, and competition is stiff. With so many players crowding the space, which one will be the best — and who decides that? Arena, formerly LM Arena, has emerged as the de facto public leaderboard for frontier LLMs, influencing funding, launches, and PR cycles. In just seven months, the startup went from a UC Berkeley PhD research […]",
     "category": "ai-research",
     "source": "TechCrunch AI",
     "author": "Unknown",
-    "publishedAt": "2026-03-17T13:00:00.000Z",
-    "url": "https://techcrunch.com/2026/03/17/niv-ai-exits-stealth-to-wring-more-power-performance-out-of-gpus/",
+    "publishedAt": "2026-03-18T16:30:00.000Z",
+    "url": "https://techcrunch.com/video/the-leaderboard-you-cant-game-funded-by-the-companies-it-ranks/",
     "imageUrl": null,
     "tags": [
       "AI",
+      "Startup",
+      "Research",
       "Investment"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-03-18T05:20:16.095Z"
+    "fetchedAt": "2026-03-19T05:15:23.651Z"
   },
   {
-    "id": "news-1773811216095-8",
-    "title": "Gamma adds AI image-generation tools in bid to take on Canva and Adobe",
-    "summary": "The company's new product, called Gamma Imagine, will let users employ text prompts to create brand-specific assets like interactive charts and visualizations, marketing collateral, social graphics, and infographics. ",
+    "id": "news-1773897323651-5",
+    "title": "This startup wants to make enterprise software look more like a prompt",
+    "summary": "The company has raised $12 million in seed funding to build an AI operating system for enterprise. ",
     "category": "ai-research",
     "source": "TechCrunch AI",
     "author": "Unknown",
-    "publishedAt": "2026-03-17T13:00:00.000Z",
-    "url": "https://techcrunch.com/2026/03/17/gamma-adds-ai-image-generation-tools-in-bid-to-take-on-canva-and-adobe/",
+    "publishedAt": "2026-03-18T16:00:00.000Z",
+    "url": "https://techcrunch.com/2026/03/18/this-startup-wants-to-make-enterprise-software-look-more-like-a-prompt/",
     "imageUrl": null,
     "tags": [
-      "AI"
+      "AI",
+      "Startup",
+      "Investment"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-03-18T05:20:16.095Z"
+    "fetchedAt": "2026-03-19T05:15:23.651Z"
   },
   {
-    "id": "news-1773811216097-43",
-    "title": "Alibaba wants to be a global ticketing player — starting with Malaysia tour stop for Chinese rap superstar GAI",
-    "summary": "Alibaba's live entertainment arm is making its first move into international ticketing, landing a primary ticketing role for a concert in Malaysia.\nSource",
-    "category": "industry-news",
-    "source": "Music Business Worldwide",
+    "id": "news-1773897323651-6",
+    "title": "Sequen snags $16M to bring TikTok-style personalization tech to any consumer company",
+    "summary": "With its Series A, Sequen is bringing its proprietary AI ranking and personalization technology to large consumer business. ",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
     "author": "Unknown",
-    "publishedAt": "2026-03-17T11:42:26.000Z",
-    "url": "https://www.musicbusinessworldwide.com/alibaba-wants-to-be-a-global-ticketing-player-starting-with-malaysia-tour-stop-for-chinese-rap-superstar-gai/",
+    "publishedAt": "2026-03-18T15:58:50.000Z",
+    "url": "https://techcrunch.com/2026/03/18/sequen-snags-16m-to-bring-tiktok-style-personalization-tech-to-any-consumer-company/",
     "imageUrl": null,
     "tags": [
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-03-18T05:20:16.097Z"
+    "fetchedAt": "2026-03-19T05:15:23.651Z"
+  },
+  {
+    "id": "news-1773897323651-7",
+    "title": "Microsoft hires the team of Sequoia-backed AI collaboration platform, Cove",
+    "summary": "AI collaboration startup Cove is shutting down after its team joined Microsoft, with service ending April 1 and customer data set for deletion.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-03-18T15:33:49.000Z",
+    "url": "https://techcrunch.com/2026/03/18/microsoft-hires-the-team-of-sequioa-backed-ai-collaboration-platform-cove/",
+    "imageUrl": null,
+    "tags": [
+      "AI",
+      "Startup",
+      "Partnership"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-03-19T05:15:23.651Z"
   }
 ]
