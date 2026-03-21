@@ -1,314 +1,315 @@
 [
   {
-    "id": "news-1773983274952-46",
-    "title": "BTS, Niall Horan, Lizzo & More: New Music Friday Guide",
-    "summary": "Check out the must-hear releases of the week.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-03-20T04:55:55.000Z",
-    "url": "https://www.billboard.com/music/pop/bts-niall-horan-new-music-friday-guide-arirang-dinner-party-1236203189/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-03-20T05:07:54.952Z"
-  },
-  {
-    "id": "news-1773983274952-47",
-    "title": "BTS Sets Sail In ‘SWIM’ Music Video: Watch",
-    "summary": "To celebrate the release of ARIRANG, Hybe Labels drops the official music video for album cut “Swim.”  ",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-03-20T04:44:44.000Z",
-    "url": "https://www.billboard.com/music/pop/bts-swim-music-video-watch-1236203213/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-03-20T05:07:54.952Z"
-  },
-  {
-    "id": "news-1773983274952-48",
-    "title": "BTS Ties Together History & K-Pop Excellence With First Album in 6 Years: Stream ‘ARIRANG’ Now",
-    "summary": "The project features 14 tracks.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-03-20T04:00:44.000Z",
-    "url": "https://www.billboard.com/music/music-news/bts-new-album-arirang-first-lp-6-years-listen-1236203070/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-03-20T05:07:54.952Z"
-  },
-  {
-    "id": "news-1773983274952-49",
-    "title": "Fuerza Regida’s JOP, Karol G, MAG, Edgar Barrera & More Among 2026 BMI Latin Awards Top Winners",
-    "summary": "Elena Rose becomes the first Latin female artist to be honored with the BMI Impact Award & Luny Tunes receives top accolade of the night.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-03-20T04:00:00.000Z",
-    "url": "https://www.billboard.com/music/awards/2026-bmi-latin-awards-winners-karol-g-fuerza-regida-luny-tunes-1236203010/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-03-20T05:07:54.952Z"
-  },
-  {
-    "id": "news-1773983274952-50",
-    "title": "Luke Combs’ ‘The Way I Am’: All 22 Tracks Ranked",
-    "summary": "The country superstar returns with his first album since 2024's Fathers & Sons.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-03-20T04:00:00.000Z",
-    "url": "https://www.billboard.com/lists/luke-combs-the-way-i-am-album-review-tracks-ranked/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-03-20T05:07:54.952Z"
-  },
-  {
-    "id": "news-1773983274952-51",
-    "title": "ElevenLabs Users Can Now Monetize Their AI-Generated Songs With a New Music Marketplace",
-    "summary": "Users have generated 14 million songs with the company's AI music model. Now, they can get paid for them. ",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-03-20T00:43:17.000Z",
-    "url": "https://www.billboard.com/pro/elevenlabs-users-get-paid-ai-songs-music-marketplace/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-03-20T05:07:54.952Z"
-  },
-  {
-    "id": "news-1773983274952-52",
-    "title": "‘I’m in Such an Amazing Headspace’: How Feid Shifted His Perspective For ‘Feid Vs Ferxxo’ EP",
-    "summary": "The seven-track EP marks Feid's debut release under his own record label, Grabaciones Los Poderosos.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-03-20T00:00:00.000Z",
-    "url": "https://www.billboard.com/music/latin/feid-vs-ferxxo-interview-1236203013/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-03-20T05:07:54.952Z"
-  },
-  {
-    "id": "news-1773983274950-22",
-    "title": "Google Colab Now Has an Open-Source MCP (Model Context Protocol) Server: Use Colab Runtimes with GPUs from Any Local AI Agent",
-    "summary": "Google has officially released the Colab MCP Server, an implementation of the Model Context Protocol (MCP) that enables AI agents to interact directly with the Google Colab environment. This integration moves beyond simple code generation by providing agents with programmatic access to create, modify, and execute Python code within cloud-hosted Jupyter notebooks. This represents a […]\nThe post Google Colab Now Has an Open-Source MCP (Model Context Protocol) Server: Use Colab Runtimes with ",
-    "category": "ai-research",
-    "source": "MarkTechPost",
-    "author": "Unknown",
-    "publishedAt": "2026-03-19T22:45:39.000Z",
-    "url": "https://www.marktechpost.com/2026/03/19/google-colab-now-has-an-open-source-mcp-model-context-protocol-server-use-colab-runtimes-with-gpus-from-any-local-ai-agent/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-03-20T05:07:54.950Z"
-  },
-  {
-    "id": "news-1773983274948-0",
-    "title": "Jeff Bezos reportedly wants $100 billion to buy and transform old manufacturing firms with AI",
-    "summary": "The Amazon magnate has a new project centered around acquiring industrial firms and revamping them with AI technology. ",
+    "id": "news-1774068824577-0",
+    "title": "New court filing reveals Pentagon told Anthropic the two sides were nearly aligned — a week after Trump declared the relationship kaput",
+    "summary": "Anthropic submitted two sworn declarations to a California federal court late Friday afternoon, pushing back on the Pentagon's assertion that the AI company poses an \"unacceptable risk to national security\" and arguing that the government's case relies on technical misunderstandings and claims that were never actually raised during the months of negotiations.",
     "category": "ai-research",
     "source": "TechCrunch AI",
     "author": "Unknown",
-    "publishedAt": "2026-03-19T22:09:24.000Z",
-    "url": "https://techcrunch.com/2026/03/19/jeff-bezos-reportedly-wants-100-billion-to-buy-and-transform-old-manufacturing-firms-with-ai/",
+    "publishedAt": "2026-03-21T01:40:28.000Z",
+    "url": "https://techcrunch.com/2026/03/20/new-court-filing-reveals-pentagon-told-anthropic-the-two-sides-were-nearly-aligned-a-week-after-trump-declared-the-relationship-kaput/",
     "imageUrl": null,
     "tags": [
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-03-20T05:07:54.948Z"
+    "fetchedAt": "2026-03-21T04:53:44.578Z"
   },
   {
-    "id": "news-1773983274951-37",
-    "title": "Streaming fraud man who pocketed $8m using hundreds of thousands of AI songs streamed billions of times by bots pleads guilty",
-    "summary": "Smith is scheduled to be sentenced on July 29\nSource",
+    "id": "news-1774068824581-48",
+    "title": "Friday Dance Music Guide: The Week’s Best New Tracks From Zhu, Innellea & More",
+    "summary": "Simply the best new dance tracks of the week. ",
     "category": "industry-news",
-    "source": "Music Business Worldwide",
+    "source": "Billboard",
     "author": "Unknown",
-    "publishedAt": "2026-03-19T20:00:07.000Z",
-    "url": "https://www.musicbusinessworldwide.com/streaming-fraud-man-who-pocketed-8m-using-hundreds-of-thousands-of-ai-songs-streamed-billions-of-times-by-bots-pleads-guilty/",
+    "publishedAt": "2026-03-21T00:41:09.000Z",
+    "url": "https://www.billboard.com/lists/zhu-innellea-ian-snow-horsegirrl-best-new-dance-songs/",
     "imageUrl": null,
-    "tags": [
-      "AI",
-      "Streaming"
-    ],
+    "tags": [],
     "readTime": 1,
-    "fetchedAt": "2026-03-20T05:07:54.951Z"
+    "fetchedAt": "2026-03-21T04:53:44.581Z"
   },
   {
-    "id": "news-1773983274948-1",
-    "title": "Online bot traffic will exceed human traffic by 2027, Cloudflare CEO says",
-    "summary": "AI bots may outnumber humans online by 2027, says Cloudflare CEO Matthew Prince, as generative AI agents dramatically increase web traffic and infrastructure demands.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-03-19T19:09:02.000Z",
-    "url": "https://techcrunch.com/2026/03/19/online-bot-traffic-will-exceed-human-traffic-by-2027-cloudflare-ceo-says/",
-    "imageUrl": null,
-    "tags": [
-      "AI",
-      "Generative AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-03-20T05:07:54.948Z"
-  },
-  {
-    "id": "news-1773983274951-38",
-    "title": "Sony Music has targeted 135,000+ deepfakes of its artists’ music for removal from streaming platforms",
-    "summary": "The target artists include Beyoncé, Queen and Harry Styles, the BBC reported, citing Dennis Kooker, president of Sony's global digital business.\nSource",
-    "category": "industry-news",
-    "source": "Music Business Worldwide",
-    "author": "Unknown",
-    "publishedAt": "2026-03-19T18:16:05.000Z",
-    "url": "https://www.musicbusinessworldwide.com/sony-music-has-targeted-135000-deepfakes-of-its-artists-music-for-removal-from-streaming-platforms/",
-    "imageUrl": null,
-    "tags": [
-      "Streaming"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-03-20T05:07:54.951Z"
-  },
-  {
-    "id": "news-1773983274951-29",
-    "title": "Google Shakes Up Its Browser Agent Team Amid OpenClaw Craze",
-    "summary": "As Silicon Valley obsesses over a new wave of AI coding agents, Google and other AI labs are shifting their bets.",
+    "id": "news-1774068824580-31",
+    "title": "Anthropic Denies It Could Sabotage AI Tools During War",
+    "summary": "The Department of Defense alleges the AI developer could manipulate models in the middle of war. Company executives argue that’s impossible.",
     "category": "tech-innovation",
     "source": "Wired AI",
     "author": "Unknown",
-    "publishedAt": "2026-03-19T18:00:00.000Z",
-    "url": "https://www.wired.com/story/google-shakes-up-project-mariner-team-web-browsing-agents/",
+    "publishedAt": "2026-03-21T00:03:20.000Z",
+    "url": "https://www.wired.com/story/anthropic-denies-sabotage-ai-tools-war-claude/",
     "imageUrl": null,
     "tags": [
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-03-20T05:07:54.951Z"
+    "fetchedAt": "2026-03-21T04:53:44.580Z"
   },
   {
-    "id": "news-1773983274951-39",
-    "title": "Recorded music revenues in Italy grew +10.7% YoY last year; paid streaming revenues in the market jumped 14.1% YoY",
-    "summary": "Paid subscriptions, totaling EUR €234.4 million ($269 million), represented 69% of Italy’s total streaming revenues in 2025.\nSource",
+    "id": "news-1774068824581-49",
+    "title": "A Deep Dive Into BTS’ Return With ‘ARIRANG’ With Derrick Milano | Billboard News",
+    "summary": "BTS returns with their new album, ‘ARIRANG,’ and we had the chance to chat with Derrick Milano who wrote “SWIM” and more tracks for the new album. He shares his experience working with the boys and more! Tetris Kelly: You just did five, potentially six on BTS’ up and coming out. J Hope is like […]",
     "category": "industry-news",
-    "source": "Music Business Worldwide",
+    "source": "Billboard",
     "author": "Unknown",
-    "publishedAt": "2026-03-19T17:26:03.000Z",
-    "url": "https://www.musicbusinessworldwide.com/recorded-music-revenues-in-italy-grew-10-7-yoy-last-year-paid-streaming-revenues-in-the-market-jumped-14-1-yoy/",
-    "imageUrl": null,
-    "tags": [
-      "AI",
-      "Streaming"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-03-20T05:07:54.951Z"
-  },
-  {
-    "id": "news-1773983274948-2",
-    "title": "Meta rolls out new AI content enforcement systems while reducing reliance on third-party vendors",
-    "summary": "Meta believes these AI systems can detect more violations with greater accuracy, better prevent scams, respond more quickly to real-world events, and reduce over-enforcement.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-03-19T17:24:13.000Z",
-    "url": "https://techcrunch.com/2026/03/19/meta-rolls-out-new-ai-content-enforcement-systems-while-reducing-reliance-on-third-party-vendors/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-03-20T05:07:54.949Z"
-  },
-  {
-    "id": "news-1773983274951-40",
-    "title": "UK government reverses course on stance to let AI companies train on copyrighted music without permission",
-    "summary": "'We have listened. We have engaged extensively with creatives, AI firms, industry bodies, unions, academics and AI adopters, and that engagement has shaped our approach.'\nSource",
-    "category": "industry-news",
-    "source": "Music Business Worldwide",
-    "author": "Unknown",
-    "publishedAt": "2026-03-19T17:10:11.000Z",
-    "url": "https://www.musicbusinessworldwide.com/uk-government-reverses-course-on-stance-to-let-ai-companies-train-on-copyrighted-music-without-permission/",
-    "imageUrl": null,
-    "tags": [
-      "AI",
-      "Copyright"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-03-20T05:07:54.951Z"
-  },
-  {
-    "id": "news-1773983274949-3",
-    "title": "DoorDash launches a new ‘Tasks’ app that pays couriers to submit videos to train AI",
-    "summary": "Delivery couriers will be able to earn money by completing activities like filming everyday tasks or recording themselves speaking in another language. ",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-03-19T16:14:00.000Z",
-    "url": "https://techcrunch.com/2026/03/19/doordash-launches-a-new-tasks-app-that-pays-couriers-to-submit-videos-to-train-ai/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-03-20T05:07:54.949Z"
-  },
-  {
-    "id": "news-1773983274951-30",
-    "title": "ChatGPT’s ‘Adult Mode’ Could Spark a New Era of Intimate Surveillance",
-    "summary": "OpenAI plans to allow sexting with ChatGPT. A human-AI interaction expert warns of a privacy nightmare.",
-    "category": "ai-research",
-    "source": "Wired AI",
-    "author": "Unknown",
-    "publishedAt": "2026-03-19T16:06:49.000Z",
-    "url": "https://www.wired.com/story/chatgpt-adult-mode-new-era-of-intimate-surveillance/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-03-20T05:07:54.951Z"
-  },
-  {
-    "id": "news-1773983274951-41",
-    "title": "Subscription music streaming revenues rose just 2% YoY in Sweden in 2025",
-    "summary": "Subscription-based audio streaming revenue climbed 2% YoY to SEK 1.95 billion ($199m), accounting for 85% of all music sales in Sweden in 2025.\nSource",
-    "category": "industry-news",
-    "source": "Music Business Worldwide",
-    "author": "Unknown",
-    "publishedAt": "2026-03-19T16:05:21.000Z",
-    "url": "https://www.musicbusinessworldwide.com/subscription-music-streaming-revenues-rose-just-2-yoy-in-sweden-in-2025/",
-    "imageUrl": null,
-    "tags": [
-      "Streaming"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-03-20T05:07:54.951Z"
-  },
-  {
-    "id": "news-1773983274952-42",
-    "title": "Renee Brodeur promoted to General Manager of artist management firm TMWRK",
-    "summary": "Executive steps up after more than 10 years at the company, overseeing strategic growth and artist operations across its global roster.\nSource",
-    "category": "industry-news",
-    "source": "Music Business Worldwide",
-    "author": "Unknown",
-    "publishedAt": "2026-03-19T15:38:15.000Z",
-    "url": "https://www.musicbusinessworldwide.com/renee-brodeur-promoted-to-general-manager-of-artist-management-firm-tmwrk/",
+    "publishedAt": "2026-03-20T23:12:31.000Z",
+    "url": "https://www.billboard.com/video/bts-return-arirang-derrick-milano-deep-dive/",
     "imageUrl": null,
     "tags": [],
     "readTime": 1,
-    "fetchedAt": "2026-03-20T05:07:54.952Z"
+    "fetchedAt": "2026-03-21T04:53:44.581Z"
+  },
+  {
+    "id": "news-1774068824580-23",
+    "title": "NVIDIA Releases Nemotron-Cascade 2: An Open 30B MoE with 3B Active Parameters, Delivering Better Reasoning and Strong Agentic Capabilities",
+    "summary": "NVIDIA has announced the release of Nemotron-Cascade 2, an open-weight 30B Mixture-of-Experts (MoE) model with 3B activated parameters. The model focuses on maximizing ‘intelligence density,’ delivering advanced reasoning capabilities at a fraction of the parameter scale used by frontier models. Nemotron-Cascade 2 is the second open-weight LLM to achieve Gold Medal-level performance in the 2025 […]\nThe post NVIDIA Releases Nemotron-Cascade 2: An Open 30B MoE with 3B Active Para",
+    "category": "ai-research",
+    "source": "MarkTechPost",
+    "author": "Unknown",
+    "publishedAt": "2026-03-20T22:38:13.000Z",
+    "url": "https://www.marktechpost.com/2026/03/20/nvidia-releases-nemotron-cascade-2-an-open-30b-moe-with-3b-active-parameters-delivering-better-reasoning-and-strong-agentic-capabilities/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-03-21T04:53:44.580Z"
+  },
+  {
+    "id": "news-1774068824581-50",
+    "title": "Why a Netflix-HUNTR/X ‘KPop Demon Hunters’ Tour Could Be Complicated",
+    "summary": "Reports that a tour involving the Netflix film could be in the works are spreading, but many details remain unknown — and a concert run could be complex.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-03-20T21:55:08.000Z",
+    "url": "https://www.billboard.com/pro/kpop-demon-hunters-tour-huntrx-complicated/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-03-21T04:53:44.581Z"
+  },
+  {
+    "id": "news-1774068824578-1",
+    "title": "Microsoft rolls back some of its Copilot AI bloat on Windows",
+    "summary": "The company is reducing Copilot entry points on Windows, starting with Photos, Widgets, Notepad, and other apps.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-03-20T20:53:09.000Z",
+    "url": "https://techcrunch.com/2026/03/20/microsoft-rolls-back-some-of-its-copilot-ai-bloat-on-windows/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-03-21T04:53:44.578Z"
+  },
+  {
+    "id": "news-1774068824578-2",
+    "title": "What happened at Nvidia GTC: NemoClaw, Robot Olaf, and a $1 trillion bet",
+    "summary": "CEO Jensen Huang took the stage at Nvidia’s GTC conference this week in his signature leather jacket to deliver a two-and-a-half-hour keynote, projecting $1 trillion in AI chip sales through 2027, declaring that every company needs an “OpenClaw strategy,” and closing with a rambling Olaf robot that had to get its mic cut. The message was hard to miss: Nvidia […]",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-03-20T20:02:35.000Z",
+    "url": "https://techcrunch.com/video/what-happened-at-nvidia-gtc-nemoclaw-robot-olaf-and-a-1-trillion-bet/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-03-21T04:53:44.578Z"
+  },
+  {
+    "id": "news-1774068824578-3",
+    "title": "Nvidia has an OpenClaw strategy. Do you?",
+    "summary": "CEO Jensen Huang took the stage at Nvidia’s GTC conference this week in his signature leather jacket to deliver a two-and-a-half-hour keynote, projecting $1 trillion in AI chip sales through 2027, declaring that every company needs an “OpenClaw strategy,” and closing with a rambling Olaf robot that had to get its mic cut. The message was hard to miss: Nvidia […]",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-03-20T19:48:38.000Z",
+    "url": "https://techcrunch.com/podcast/nvidia-has-an-openclaw-strategy-do-you/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-03-21T04:53:44.578Z"
+  },
+  {
+    "id": "news-1774068824580-32",
+    "title": "Gamers Hate Nvidia's DLSS 5. Developers Aren’t Crazy About It, Either",
+    "summary": "Nvidia’s new AI upscaling gaming technology struck gamers as uncanny and off-putting. Developers don't seem to like it, either, but it could be “the default” in a few years.",
+    "category": "tech-innovation",
+    "source": "Wired AI",
+    "author": "Unknown",
+    "publishedAt": "2026-03-20T19:13:19.000Z",
+    "url": "https://www.wired.com/story/gamers-hate-nvidia-dlss-5-developers-arent-crazy-about-it-either/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-03-21T04:53:44.580Z"
+  },
+  {
+    "id": "news-1774068824580-24",
+    "title": "A Coding Implementation Showcasing ClawTeam’s Multi-Agent Swarm Orchestration with OpenAI Function Calling",
+    "summary": "In this comprehensive tutorial, we present the core architecture of ClawTeam, an open-source Agent Swarm Intelligence framework developed by HKUDS. We implement the fundamental concepts that make ClawTeam powerful: a leader agent that decomposes complex goals into sub-tasks, specialized worker agents that execute those tasks autonomously, a shared task board with automatic dependency resolution, and […]\nThe post A Coding Implementation Showcasing ClawTeam’s Multi-Agent Swarm Orchestr",
+    "category": "ai-research",
+    "source": "MarkTechPost",
+    "author": "Unknown",
+    "publishedAt": "2026-03-20T18:09:10.000Z",
+    "url": "https://www.marktechpost.com/2026/03/20/a-coding-implementation-showcasing-clawteams-multi-agent-swarm-orchestration-with-openai-function-calling/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-03-21T04:53:44.580Z"
+  },
+  {
+    "id": "news-1774068824581-39",
+    "title": "Warner Music Group inks exclusive Netflix deal to make artist and songwriter documentaries",
+    "summary": "The streamer will develop \"documentary series and films exploring the lives, music and legacies\" of WMG's roster.\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-03-20T17:57:03.000Z",
+    "url": "https://www.musicbusinessworldwide.com/warner-music-group-inks-exclusive-netflix-deal-to-make-artist-and-songwriter-documentaries/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-03-21T04:53:44.581Z"
+  },
+  {
+    "id": "news-1774068824578-4",
+    "title": "WordPress.com now lets AI agents write and publish posts, and more",
+    "summary": "New AI agents on WordPress.com could lower barriers to publishing while increasing machine-generated content across the web.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-03-20T16:43:09.000Z",
+    "url": "https://techcrunch.com/2026/03/20/wordpress-com-now-lets-ai-agents-write-and-publish-posts-and-more/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-03-21T04:53:44.578Z"
+  },
+  {
+    "id": "news-1774068824578-5",
+    "title": "Trump’s AI framework targets state laws, shifts child safety burden to parents",
+    "summary": "Trump’s AI framework pushes federal preemption of state laws, emphasizes innovation, and shifts responsibility for child safety toward parents while laying out lighter-touch rules for tech companies.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-03-20T16:14:04.000Z",
+    "url": "https://techcrunch.com/2026/03/20/trumps-ai-framework-targets-state-laws-shifts-child-safety-burden-to-parents/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-03-21T04:53:44.578Z"
+  },
+  {
+    "id": "news-1774068824580-33",
+    "title": "At Palantir’s Developer Conference, AI Is Built to Win Wars",
+    "summary": "As business soars, Palantir is doubling down on a vision of AI built for battlefield advantage—and attracting customers who agree.",
+    "category": "tech-innovation",
+    "source": "Wired AI",
+    "author": "Unknown",
+    "publishedAt": "2026-03-20T15:00:00.000Z",
+    "url": "https://www.wired.com/story/palantir-developer-conference-ai-war-alex-karp/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-03-21T04:53:44.580Z"
+  },
+  {
+    "id": "news-1774068824581-40",
+    "title": "As recorded music revenues hit $31.7B globally, IFPI CEO Victoria Oakley explains the opportunities – and the threats – ahead",
+    "summary": "Oakley spoke on the publication of the IFPI Global Music Report 2026, which is now available to purchase\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-03-20T12:08:14.000Z",
+    "url": "https://www.musicbusinessworldwide.com/as-recorded-music-revenues-hit-31-7b-globally-ifpi-ceo-victoria-oakley-explains-the-opportunities-and-the-threats-ahead/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-03-21T04:53:44.581Z"
+  },
+  {
+    "id": "news-1774068824578-6",
+    "title": "The best AI investment might be in energy tech",
+    "summary": "Power has become one of the biggest bottlenecks in rolling out new AI data centers. That's creating an opening for investors.",
+    "category": "industry-news",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-03-20T12:00:00.000Z",
+    "url": "https://techcrunch.com/2026/03/20/the-best-ai-investment-might-be-in-energy-tech/",
+    "imageUrl": null,
+    "tags": [
+      "AI",
+      "Investment"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-03-21T04:53:44.578Z"
+  },
+  {
+    "id": "news-1774068824578-7",
+    "title": "These AI notetaking devices can help you record and transcribe your meetings",
+    "summary": "These physical notetakers transcribe audio and give users summaries and action items of meetings using AI. Some even offer live translation.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-03-20T11:31:38.000Z",
+    "url": "https://techcrunch.com/2026/03/20/ai-notetaker-hardware-devices-pins-pendants-record-transcribe/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-03-21T04:53:44.578Z"
+  },
+  {
+    "id": "news-1774068824580-34",
+    "title": "I Learned More Than I Thought I Would From Using Food-Tracking Apps",
+    "summary": "These apps, some of which use AI and computer vision, were helpful for meeting my caloric and nutrition intake goals. But they also gave me some anxiety.",
+    "category": "tech-innovation",
+    "source": "Wired AI",
+    "author": "Unknown",
+    "publishedAt": "2026-03-20T10:30:00.000Z",
+    "url": "https://www.wired.com/story/food-tracking-apps-ai-nutrition-weight-loss/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-03-21T04:53:44.581Z"
+  },
+  {
+    "id": "news-1774068824581-35",
+    "title": "My AI Agent ‘Cofounder’ Conquered LinkedIn. Then It Got Banned",
+    "summary": "When social media is constantly pushing people to use AI, why not let AI agents participate?",
+    "category": "tech-innovation",
+    "source": "Wired AI",
+    "author": "Unknown",
+    "publishedAt": "2026-03-20T10:00:00.000Z",
+    "url": "https://www.wired.com/story/linkedin-invited-my-ai-cofounder-to-give-a-corporate-talk-then-banned-it/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-03-21T04:53:44.581Z"
   }
 ]
