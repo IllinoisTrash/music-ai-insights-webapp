@@ -1,6 +1,146 @@
 [
   {
-    "id": "news-1774068824577-0",
+    "id": "news-1774156315434-46",
+    "title": "Tokischa Shaves Her Head Live on Stage at New York’s Madison Square Garden",
+    "summary": "The Dominican artist was the supporting act ahead of FKA Twigs' set Saturday night (March 21).",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-03-22T03:13:00.000Z",
+    "url": "https://www.billboard.com/music/music-news/tokischa-shaves-head-live-stage-madison-square-garden-nyc-1236203978/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-03-22T05:11:55.434Z"
+  },
+  {
+    "id": "news-1774156315433-23",
+    "title": "Safely Deploying ML Models to Production: Four Controlled Strategies (A/B, Canary, Interleaved, Shadow Testing)",
+    "summary": "Deploying a new machine learning model to production is one of the most critical stages of the ML lifecycle. Even if a model performs well on validation and test datasets, directly replacing the existing production model can be risky. Offline evaluation rarely captures the full complexity of real-world environments—data distributions may shift, user behavior can […]\nThe post Safely Deploying ML Models to Production: Four Controlled Strategies (A/B, Canary, Interleaved, Shadow Testing) appe",
+    "category": "ai-research",
+    "source": "MarkTechPost",
+    "author": "Unknown",
+    "publishedAt": "2026-03-21T23:02:13.000Z",
+    "url": "https://www.marktechpost.com/2026/03/21/safely-deploying-ml-models-to-production-four-controlled-strategies-a-b-canary-interleaved-shadow-testing/",
+    "imageUrl": null,
+    "tags": [
+      "Machine Learning"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-03-22T05:11:55.433Z"
+  },
+  {
+    "id": "news-1774156315433-24",
+    "title": "A Coding Implementation to Build an Uncertainty-Aware LLM System with Confidence Estimation, Self-Evaluation, and Automatic Web Research",
+    "summary": "In this tutorial, we build an uncertainty-aware large language model system that not only generates answers but also estimates the confidence in those answers. We implement a three-stage reasoning pipeline in which the model first produces an answer along with a self-reported confidence score and a justification. We then introduce a self-evaluation step that allows […]\nThe post A Coding Implementation to Build an Uncertainty-Aware LLM System with Confidence Estimation, Self-Evaluation, and",
+    "category": "ai-research",
+    "source": "MarkTechPost",
+    "author": "Unknown",
+    "publishedAt": "2026-03-21T21:39:10.000Z",
+    "url": "https://www.marktechpost.com/2026/03/21/a-coding-implementation-to-build-an-uncertainty-aware-llm-system-with-confidence-estimation-self-evaluation-and-automatic-web-research/",
+    "imageUrl": null,
+    "tags": [
+      "AI",
+      "Research"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-03-22T05:11:55.433Z"
+  },
+  {
+    "id": "news-1774156315431-0",
+    "title": "Publisher pulls horror novel ‘Shy Girl’ over AI concerns",
+    "summary": "Hachette Book Group said it will not be publishing “Shy Girl” over concerns that artificial intelligence was used to generate the text.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-03-21T19:30:27.000Z",
+    "url": "https://techcrunch.com/2026/03/21/publisher-pulls-horror-novel-shy-girl-over-ai-concerns/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-03-22T05:11:55.431Z"
+  },
+  {
+    "id": "news-1774156315434-47",
+    "title": "Justin Timberlake DWI Arrest Body Cam Footage Released Following Legal Deal",
+    "summary": "The musician reached a legal settlement with police on March 20.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-03-21T19:25:07.000Z",
+    "url": "https://www.billboard.com/music/music-news/justin-timberlake-dwi-arrest-video-released-legal-deal-1236203959/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-03-22T05:11:55.434Z"
+  },
+  {
+    "id": "news-1774156315434-48",
+    "title": "BTS’ New Album ‘ARIRANG’ Breaks Multiple Spotify Records Following Release",
+    "summary": "The Korean supergroup’s long-awaited new album arrived on March 20.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-03-21T17:21:05.000Z",
+    "url": "https://www.billboard.com/music/music-news/bts-arirang-breaks-spotify-records-2026-1236203953/",
+    "imageUrl": null,
+    "tags": [
+      "Spotify",
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-03-22T05:11:55.434Z"
+  },
+  {
+    "id": "news-1774156315431-1",
+    "title": "Why Wall Street wasn’t won over by Nvidia’s big conference",
+    "summary": "Despite investor fears of an AI bubble, Nvidia's latest conference shows that most in the industry aren't concerned by that possibility. ",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-03-21T16:28:00.000Z",
+    "url": "https://techcrunch.com/2026/03/21/why-wall-street-wasnt-won-over-by-nvidias-big-conference/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-03-22T05:11:55.431Z"
+  },
+  {
+    "id": "news-1774156315433-31",
+    "title": "I Tried DoorDash’s Tasks App and Saw the Bleak Future of AI Gig Work",
+    "summary": "I recorded videos of myself doing laundry, scrambling eggs, and walking around the park in DoorDash’s new Tasks app, where gig workers are paid to train AI.",
+    "category": "tech-innovation",
+    "source": "Wired AI",
+    "author": "Unknown",
+    "publishedAt": "2026-03-21T11:00:00.000Z",
+    "url": "https://www.wired.com/story/i-tried-doordashs-tasks-app-and-saw-the-bleak-future-of-ai-gig-work/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-03-22T05:11:55.433Z"
+  },
+  {
+    "id": "news-1774156315435-49",
+    "title": "MAY-A Puts a Grunge Spin on Stevie Nicks’ ‘Edge of Seventeen’ for Triple J’s Like a Version",
+    "summary": "The Sydney singer-songwriter brought a distortion-heavy reimagining of the 1981 classic.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-03-21T06:06:48.000Z",
+    "url": "https://www.billboard.com/music/music-news/may-a-covers-stevie-nicks-edge-of-seventeen-like-a-version-1236203944/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-03-22T05:11:55.435Z"
+  },
+  {
+    "id": "news-1774156315431-2",
     "title": "New court filing reveals Pentagon told Anthropic the two sides were nearly aligned — a week after Trump declared the relationship kaput",
     "summary": "Anthropic submitted two sworn declarations to a California federal court late Friday afternoon, pushing back on the Pentagon's assertion that the AI company poses an \"unacceptable risk to national security\" and arguing that the government's case relies on technical misunderstandings and claims that were never actually raised during the months of negotiations.",
     "category": "ai-research",
@@ -13,10 +153,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-03-21T04:53:44.578Z"
+    "fetchedAt": "2026-03-22T05:11:55.431Z"
   },
   {
-    "id": "news-1774068824581-48",
+    "id": "news-1774156315435-50",
     "title": "Friday Dance Music Guide: The Week’s Best New Tracks From Zhu, Innellea & More",
     "summary": "Simply the best new dance tracks of the week. ",
     "category": "industry-news",
@@ -27,10 +167,10 @@
     "imageUrl": null,
     "tags": [],
     "readTime": 1,
-    "fetchedAt": "2026-03-21T04:53:44.581Z"
+    "fetchedAt": "2026-03-22T05:11:55.435Z"
   },
   {
-    "id": "news-1774068824580-31",
+    "id": "news-1774156315433-32",
     "title": "Anthropic Denies It Could Sabotage AI Tools During War",
     "summary": "The Department of Defense alleges the AI developer could manipulate models in the middle of war. Company executives argue that’s impossible.",
     "category": "tech-innovation",
@@ -43,24 +183,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-03-21T04:53:44.580Z"
+    "fetchedAt": "2026-03-22T05:11:55.433Z"
   },
   {
-    "id": "news-1774068824581-49",
-    "title": "A Deep Dive Into BTS’ Return With ‘ARIRANG’ With Derrick Milano | Billboard News",
-    "summary": "BTS returns with their new album, ‘ARIRANG,’ and we had the chance to chat with Derrick Milano who wrote “SWIM” and more tracks for the new album. He shares his experience working with the boys and more! Tetris Kelly: You just did five, potentially six on BTS’ up and coming out. J Hope is like […]",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-03-20T23:12:31.000Z",
-    "url": "https://www.billboard.com/video/bts-return-arirang-derrick-milano-deep-dive/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-03-21T04:53:44.581Z"
-  },
-  {
-    "id": "news-1774068824580-23",
+    "id": "news-1774156315433-25",
     "title": "NVIDIA Releases Nemotron-Cascade 2: An Open 30B MoE with 3B Active Parameters, Delivering Better Reasoning and Strong Agentic Capabilities",
     "summary": "NVIDIA has announced the release of Nemotron-Cascade 2, an open-weight 30B Mixture-of-Experts (MoE) model with 3B activated parameters. The model focuses on maximizing ‘intelligence density,’ delivering advanced reasoning capabilities at a fraction of the parameter scale used by frontier models. Nemotron-Cascade 2 is the second open-weight LLM to achieve Gold Medal-level performance in the 2025 […]\nThe post NVIDIA Releases Nemotron-Cascade 2: An Open 30B MoE with 3B Active Para",
     "category": "ai-research",
@@ -71,26 +197,10 @@
     "imageUrl": null,
     "tags": [],
     "readTime": 1,
-    "fetchedAt": "2026-03-21T04:53:44.580Z"
+    "fetchedAt": "2026-03-22T05:11:55.433Z"
   },
   {
-    "id": "news-1774068824581-50",
-    "title": "Why a Netflix-HUNTR/X ‘KPop Demon Hunters’ Tour Could Be Complicated",
-    "summary": "Reports that a tour involving the Netflix film could be in the works are spreading, but many details remain unknown — and a concert run could be complex.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-03-20T21:55:08.000Z",
-    "url": "https://www.billboard.com/pro/kpop-demon-hunters-tour-huntrx-complicated/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-03-21T04:53:44.581Z"
-  },
-  {
-    "id": "news-1774068824578-1",
+    "id": "news-1774156315431-3",
     "title": "Microsoft rolls back some of its Copilot AI bloat on Windows",
     "summary": "The company is reducing Copilot entry points on Windows, starting with Photos, Widgets, Notepad, and other apps.",
     "category": "ai-research",
@@ -103,10 +213,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-03-21T04:53:44.578Z"
+    "fetchedAt": "2026-03-22T05:11:55.431Z"
   },
   {
-    "id": "news-1774068824578-2",
+    "id": "news-1774156315431-4",
     "title": "What happened at Nvidia GTC: NemoClaw, Robot Olaf, and a $1 trillion bet",
     "summary": "CEO Jensen Huang took the stage at Nvidia’s GTC conference this week in his signature leather jacket to deliver a two-and-a-half-hour keynote, projecting $1 trillion in AI chip sales through 2027, declaring that every company needs an “OpenClaw strategy,” and closing with a rambling Olaf robot that had to get its mic cut. The message was hard to miss: Nvidia […]",
     "category": "ai-research",
@@ -119,10 +229,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-03-21T04:53:44.578Z"
+    "fetchedAt": "2026-03-22T05:11:55.431Z"
   },
   {
-    "id": "news-1774068824578-3",
+    "id": "news-1774156315432-5",
     "title": "Nvidia has an OpenClaw strategy. Do you?",
     "summary": "CEO Jensen Huang took the stage at Nvidia’s GTC conference this week in his signature leather jacket to deliver a two-and-a-half-hour keynote, projecting $1 trillion in AI chip sales through 2027, declaring that every company needs an “OpenClaw strategy,” and closing with a rambling Olaf robot that had to get its mic cut. The message was hard to miss: Nvidia […]",
     "category": "ai-research",
@@ -135,10 +245,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-03-21T04:53:44.578Z"
+    "fetchedAt": "2026-03-22T05:11:55.432Z"
   },
   {
-    "id": "news-1774068824580-32",
+    "id": "news-1774156315433-33",
     "title": "Gamers Hate Nvidia's DLSS 5. Developers Aren’t Crazy About It, Either",
     "summary": "Nvidia’s new AI upscaling gaming technology struck gamers as uncanny and off-putting. Developers don't seem to like it, either, but it could be “the default” in a few years.",
     "category": "tech-innovation",
@@ -151,10 +261,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-03-21T04:53:44.580Z"
+    "fetchedAt": "2026-03-22T05:11:55.433Z"
   },
   {
-    "id": "news-1774068824580-24",
+    "id": "news-1774156315433-26",
     "title": "A Coding Implementation Showcasing ClawTeam’s Multi-Agent Swarm Orchestration with OpenAI Function Calling",
     "summary": "In this comprehensive tutorial, we present the core architecture of ClawTeam, an open-source Agent Swarm Intelligence framework developed by HKUDS. We implement the fundamental concepts that make ClawTeam powerful: a leader agent that decomposes complex goals into sub-tasks, specialized worker agents that execute those tasks autonomously, a shared task board with automatic dependency resolution, and […]\nThe post A Coding Implementation Showcasing ClawTeam’s Multi-Agent Swarm Orchestr",
     "category": "ai-research",
@@ -167,10 +277,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-03-21T04:53:44.580Z"
+    "fetchedAt": "2026-03-22T05:11:55.433Z"
   },
   {
-    "id": "news-1774068824581-39",
+    "id": "news-1774156315433-37",
     "title": "Warner Music Group inks exclusive Netflix deal to make artist and songwriter documentaries",
     "summary": "The streamer will develop \"documentary series and films exploring the lives, music and legacies\" of WMG's roster.\nSource",
     "category": "industry-news",
@@ -181,10 +291,10 @@
     "imageUrl": null,
     "tags": [],
     "readTime": 1,
-    "fetchedAt": "2026-03-21T04:53:44.581Z"
+    "fetchedAt": "2026-03-22T05:11:55.434Z"
   },
   {
-    "id": "news-1774068824578-4",
+    "id": "news-1774156315432-6",
     "title": "WordPress.com now lets AI agents write and publish posts, and more",
     "summary": "New AI agents on WordPress.com could lower barriers to publishing while increasing machine-generated content across the web.",
     "category": "ai-research",
@@ -197,119 +307,6 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-03-21T04:53:44.578Z"
-  },
-  {
-    "id": "news-1774068824578-5",
-    "title": "Trump’s AI framework targets state laws, shifts child safety burden to parents",
-    "summary": "Trump’s AI framework pushes federal preemption of state laws, emphasizes innovation, and shifts responsibility for child safety toward parents while laying out lighter-touch rules for tech companies.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-03-20T16:14:04.000Z",
-    "url": "https://techcrunch.com/2026/03/20/trumps-ai-framework-targets-state-laws-shifts-child-safety-burden-to-parents/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-03-21T04:53:44.578Z"
-  },
-  {
-    "id": "news-1774068824580-33",
-    "title": "At Palantir’s Developer Conference, AI Is Built to Win Wars",
-    "summary": "As business soars, Palantir is doubling down on a vision of AI built for battlefield advantage—and attracting customers who agree.",
-    "category": "tech-innovation",
-    "source": "Wired AI",
-    "author": "Unknown",
-    "publishedAt": "2026-03-20T15:00:00.000Z",
-    "url": "https://www.wired.com/story/palantir-developer-conference-ai-war-alex-karp/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-03-21T04:53:44.580Z"
-  },
-  {
-    "id": "news-1774068824581-40",
-    "title": "As recorded music revenues hit $31.7B globally, IFPI CEO Victoria Oakley explains the opportunities – and the threats – ahead",
-    "summary": "Oakley spoke on the publication of the IFPI Global Music Report 2026, which is now available to purchase\nSource",
-    "category": "industry-news",
-    "source": "Music Business Worldwide",
-    "author": "Unknown",
-    "publishedAt": "2026-03-20T12:08:14.000Z",
-    "url": "https://www.musicbusinessworldwide.com/as-recorded-music-revenues-hit-31-7b-globally-ifpi-ceo-victoria-oakley-explains-the-opportunities-and-the-threats-ahead/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-03-21T04:53:44.581Z"
-  },
-  {
-    "id": "news-1774068824578-6",
-    "title": "The best AI investment might be in energy tech",
-    "summary": "Power has become one of the biggest bottlenecks in rolling out new AI data centers. That's creating an opening for investors.",
-    "category": "industry-news",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-03-20T12:00:00.000Z",
-    "url": "https://techcrunch.com/2026/03/20/the-best-ai-investment-might-be-in-energy-tech/",
-    "imageUrl": null,
-    "tags": [
-      "AI",
-      "Investment"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-03-21T04:53:44.578Z"
-  },
-  {
-    "id": "news-1774068824578-7",
-    "title": "These AI notetaking devices can help you record and transcribe your meetings",
-    "summary": "These physical notetakers transcribe audio and give users summaries and action items of meetings using AI. Some even offer live translation.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-03-20T11:31:38.000Z",
-    "url": "https://techcrunch.com/2026/03/20/ai-notetaker-hardware-devices-pins-pendants-record-transcribe/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-03-21T04:53:44.578Z"
-  },
-  {
-    "id": "news-1774068824580-34",
-    "title": "I Learned More Than I Thought I Would From Using Food-Tracking Apps",
-    "summary": "These apps, some of which use AI and computer vision, were helpful for meeting my caloric and nutrition intake goals. But they also gave me some anxiety.",
-    "category": "tech-innovation",
-    "source": "Wired AI",
-    "author": "Unknown",
-    "publishedAt": "2026-03-20T10:30:00.000Z",
-    "url": "https://www.wired.com/story/food-tracking-apps-ai-nutrition-weight-loss/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-03-21T04:53:44.581Z"
-  },
-  {
-    "id": "news-1774068824581-35",
-    "title": "My AI Agent ‘Cofounder’ Conquered LinkedIn. Then It Got Banned",
-    "summary": "When social media is constantly pushing people to use AI, why not let AI agents participate?",
-    "category": "tech-innovation",
-    "source": "Wired AI",
-    "author": "Unknown",
-    "publishedAt": "2026-03-20T10:00:00.000Z",
-    "url": "https://www.wired.com/story/linkedin-invited-my-ai-cofounder-to-give-a-corporate-talk-then-banned-it/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-03-21T04:53:44.581Z"
+    "fetchedAt": "2026-03-22T05:11:55.432Z"
   }
 ]
