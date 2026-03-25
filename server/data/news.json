@@ -1,313 +1,319 @@
 [
   {
-    "id": "news-1774329321708-40",
-    "title": "Ocean Alley Wrap Biggest Headline Tour of Their Career With Over 80,000 Tickets Sold",
-    "summary": "The Australian band closed out 11 shows across Australia and New Zealand, with a grand finale held at Adelaide’s Glenelg Beach.",
+    "id": "news-1774415775740-42",
+    "title": "Kroi & Bluey of Incognito on Encounter That Led to ‘Kinetic’ & The Trust They Built in London: Interview",
+    "summary": "The roundtable discussion shed light on the powerful bonds that developed between these artists through the process of creating music together.",
     "category": "industry-news",
     "source": "Billboard",
     "author": "Unknown",
-    "publishedAt": "2026-03-24T05:01:03.000Z",
-    "url": "https://www.billboard.com/pro/ocean-alley-80000-ticket-aus-nz-tour-love-balloon-reclaims-aria-no-1/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-03-24T05:15:21.708Z"
-  },
-  {
-    "id": "news-1774329321708-41",
-    "title": "Earl Sweatshirt and MIKE Set Australian Tour Dates Ahead of Joint Album Release",
-    "summary": "The shows follow the announcement of POMPEII // UTILITY, a collaborative album from Earl Sweatshirt, MIKE and New York collective SURF GANG.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-03-24T04:22:01.000Z",
-    "url": "https://www.billboard.com/music/rb-hip-hop/earl-sweatshirt-mike-australian-tour-dates-1236205316/",
+    "publishedAt": "2026-03-25T03:00:00.000Z",
+    "url": "https://www.billboard.com/music/music-news/kroi-bluey-incognito-interview-kinetic-1236206031/",
     "imageUrl": null,
     "tags": [],
     "readTime": 1,
-    "fetchedAt": "2026-03-24T05:15:21.708Z"
+    "fetchedAt": "2026-03-25T05:16:15.740Z"
   },
   {
-    "id": "news-1774329321707-20",
-    "title": "Luma Labs Launches Uni-1: The Autoregressive Transformer Model that Reasons through Intentions Before Generating Images",
-    "summary": "In the field of generative AI media, the industry is transitioning from purely probabilistic pixel synthesis toward models capable of structural reasoning. Luma Labs has just released Uni-1, a foundational image model designed to address the ‘intent gap” inherent in standard diffusion pipelines. By implementing a reasoning phase prior to generation, Uni-1 shifts the workflow […]\nThe post Luma Labs Launches Uni-1: The Autoregressive Transformer Model that Reasons through Intenti",
-    "category": "ai-research",
-    "source": "MarkTechPost",
-    "author": "Unknown",
-    "publishedAt": "2026-03-24T00:44:12.000Z",
-    "url": "https://www.marktechpost.com/2026/03/23/luma-labs-launches-uni-1-the-autoregressive-transformer-model-that-reasons-through-intentions-before-generating-images/",
-    "imageUrl": null,
-    "tags": [
-      "AI",
-      "Generative AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-03-24T05:15:21.707Z"
-  },
-  {
-    "id": "news-1774329321709-42",
-    "title": "Bad Bunny Wants $466,000 Legal Bill Reimbursed After Defeating ‘Un Verano Sin Ti’ Sample Lawsuit",
-    "summary": "The Puerto Rican star says an African music publisher tried to \"extract an undeserved, multimillion-dollar settlement\" from him.",
+    "id": "news-1774415775740-43",
+    "title": "Celine Dion’s Rumored Paris Concerts Have Us Debating the Pros & Cons of Non-Vegas Residencies",
+    "summary": "On the new Pop Shop Podcast, Katie & Keith are talking about the recent trend of artists like Harry Styles setting up for a string of shows in one city.",
     "category": "industry-news",
     "source": "Billboard",
     "author": "Unknown",
-    "publishedAt": "2026-03-24T00:16:50.000Z",
-    "url": "https://www.billboard.com/pro/bad-bunny-un-verano-sin-ti-lawsuit-accuser-cover-fees/",
+    "publishedAt": "2026-03-25T01:48:37.000Z",
+    "url": "https://www.billboard.com/media/podcasts/celine-dion-paris-residency-harry-styles-pop-shop-podcast-1236205900/",
     "imageUrl": null,
     "tags": [],
     "readTime": 1,
-    "fetchedAt": "2026-03-24T05:15:21.709Z"
+    "fetchedAt": "2026-03-25T05:16:15.740Z"
   },
   {
-    "id": "news-1774329321709-43",
-    "title": "Natalie Cole & Nat King Cole Foundations Duet on Charitable Causes to Promote ‘Transformative Power of Music’",
-    "summary": "Every dollar the younger Cole’s estate earns from music and other royalties goes to charity.",
+    "id": "news-1774415775740-44",
+    "title": "Chip Taylor, Songwriter Behind ‘Wild Thing’ & ‘Angel of the Morning,’ Dies at 86",
+    "summary": "He was the youngest brother of actor Jon Voight.",
     "category": "industry-news",
     "source": "Billboard",
     "author": "Unknown",
-    "publishedAt": "2026-03-23T23:42:34.000Z",
-    "url": "https://www.billboard.com/pro/natalie-cole-nat-king-cole-foundations-partner-fund-charity/",
+    "publishedAt": "2026-03-25T00:51:53.000Z",
+    "url": "https://www.billboard.com/music/music-news/chip-taylor-dead-songwriter-wild-thing-angel-of-the-morning-1236206249/",
     "imageUrl": null,
     "tags": [],
     "readTime": 1,
-    "fetchedAt": "2026-03-24T05:15:21.709Z"
+    "fetchedAt": "2026-03-25T05:16:15.740Z"
   },
   {
-    "id": "news-1774329321705-0",
-    "title": "Air Street becomes one of the largest solo VCs in Europe with $232M fund",
-    "summary": "London’s Air Street Capital has raised a large Fund III with eyes locked on backing early-stage European and North American AI companies.",
+    "id": "news-1774415775737-0",
+    "title": "With $3.5B in fresh capital, Kleiner Perkins is going all in on AI",
+    "summary": "The fundraise includes $1 billion for investing in early-stage startups, and $2.5 billion for late-stage growth businesses.",
     "category": "ai-research",
     "source": "TechCrunch AI",
     "author": "Unknown",
-    "publishedAt": "2026-03-23T22:36:39.000Z",
-    "url": "https://techcrunch.com/2026/03/23/air-street-becomes-one-of-the-largest-solo-vcs-in-europe-with-232m-fund/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-03-24T05:15:21.706Z"
-  },
-  {
-    "id": "news-1774329321709-44",
-    "title": "MUSIC AWARDS JAPAN 2026 Reveals Entries, Names Kento Nakajima & Mei Hata as Ambassadors",
-    "summary": "In its second year, MAJ has expanded further from last year, with 78 categories across the full program.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-03-23T22:12:03.000Z",
-    "url": "https://www.billboard.com/music/awards/music-awards-japan-2026-entries-ambassadors-1236205090/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-03-24T05:15:21.709Z"
-  },
-  {
-    "id": "news-1774329321706-1",
-    "title": "Bernie Sanders’ AI ‘gotcha’ video flops, but the memes are great",
-    "summary": "Sen. Bernie Sanders thinks he's tricked Claude into revealing the AI industry's secrets, but he really just exposed how agreeable chatbots can become. ",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-03-23T20:15:59.000Z",
-    "url": "https://techcrunch.com/2026/03/23/bernie-sanders-ai-gotcha-video-flops-but-the-memes-are-great/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-03-24T05:15:21.706Z"
-  },
-  {
-    "id": "news-1774329321708-33",
-    "title": "Live Nation invests in Romania’s Emagic and Slovakia’s Vivien as it expands Central and Eastern European footprint",
-    "summary": "Live Nation says it is 'strengthening the foundations' of live music in the region.\nSource",
-    "category": "industry-news",
-    "source": "Music Business Worldwide",
-    "author": "Unknown",
-    "publishedAt": "2026-03-23T19:50:16.000Z",
-    "url": "https://www.musicbusinessworldwide.com/live-nation-acquires-controlling-stakes-in-romanias-emagic-and-slovakias-vivien-as-it-expands-central-and-eastern-european-footprint/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-03-24T05:15:21.708Z"
-  },
-  {
-    "id": "news-1774329321708-34",
-    "title": "Mandopop superstar Jay Chou is about to release his new album ‘Children of the Sun’ via UMG, led by a $2.8M music video. The timing couldn’t be more significant.",
-    "summary": "The album is also the first new studio record released since Chou and his label JVR Music signed a strategic global partnership with Universal Music Greater China in December 2023,\nSource",
-    "category": "industry-news",
-    "source": "Music Business Worldwide",
-    "author": "Unknown",
-    "publishedAt": "2026-03-23T19:45:15.000Z",
-    "url": "https://www.musicbusinessworldwide.com/mandopop-superstar-jay-chou-is-about-to-release-his-new-album-children-of-the-sun-via-umg-led-by-a-2-8m-music-video-the-timing-couldnt-be-more-significant/",
-    "imageUrl": null,
-    "tags": [
-      "Partnership"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-03-24T05:15:21.708Z"
-  },
-  {
-    "id": "news-1774329321707-21",
-    "title": "How to Design a Production-Ready AI Agent That Automates Google Colab Workflows Using Colab-MCP, MCP Tools, FastMCP, and Kernel Execution",
-    "summary": "In this tutorial, we build an advanced, hands-on tutorial around Google’s newly released colab-mcp, an open-source MCP (Model Context Protocol) server that lets any AI agent programmatically control Google Colab notebooks and runtimes. Across five self-contained snippets, we go from first principles to production-ready patterns. We start by constructing a minimal MCP tool registry from […]\nThe post How to Design a Production-Ready AI Agent That Automates Google Colab Workflows Using ",
-    "category": "ai-research",
-    "source": "MarkTechPost",
-    "author": "Unknown",
-    "publishedAt": "2026-03-23T18:33:06.000Z",
-    "url": "https://www.marktechpost.com/2026/03/23/how-to-design-a-production-ready-ai-agent-that-automates-google-colab-workflows-using-colab-mcp-mcp-tools-fastmcp-and-kernel-execution/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-03-24T05:15:21.707Z"
-  },
-  {
-    "id": "news-1774329321706-2",
-    "title": "Apple sets June date for WWDC 2026, teasing ‘AI advancements’",
-    "summary": "Apple will host its next Worldwide Developers Conference the week of June 8. The company is expected to announce major updates to Siri with advanced AI capabilities.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-03-23T18:00:45.000Z",
-    "url": "https://techcrunch.com/2026/03/23/apple-wwdc-june-8-12-ai-advancements-siri-developers-conference/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-03-24T05:15:21.706Z"
-  },
-  {
-    "id": "news-1774329321708-35",
-    "title": "Having paid $11M to voice creators to date, ElevenLabs launches Music Marketplace to let its users monetize their AI-generated tracks",
-    "summary": "ElevenLabs says that 14m+ 'studio-grade tracks have been created' since the launch of its Eleven Music AI music generator last year\nSource",
-    "category": "industry-news",
-    "source": "Music Business Worldwide",
-    "author": "Unknown",
-    "publishedAt": "2026-03-23T16:49:16.000Z",
-    "url": "https://www.musicbusinessworldwide.com/having-paid-11m-to-voice-creators-to-date-elevenlabs-launches-music-marketplace-to-let-its-users-monetize-their-ai-generated-tracks/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-03-24T05:15:21.708Z"
-  },
-  {
-    "id": "news-1774329321706-3",
-    "title": "Startup Gimlet Labs is solving the AI inference bottleneck in a surprisingly elegant way",
-    "summary": "Gimlet Labs just raised an $80 million Series A for tech that lets AI run across NVIDIA, AMD, Intel, ARM, Cerebras and d-Matrix chips, simultaneously.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-03-23T16:00:00.000Z",
-    "url": "https://techcrunch.com/2026/03/23/startup-gimlet-labs-is-solving-the-ai-inference-bottleneck-in-a-surprisingly-elegant-way/",
+    "publishedAt": "2026-03-25T00:47:20.000Z",
+    "url": "https://techcrunch.com/2026/03/24/with-3-5b-in-fresh-capital-kleiner-perkins-is-going-all-in-on-ai/",
     "imageUrl": null,
     "tags": [
       "AI",
       "Startup"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-03-24T05:15:21.706Z"
+    "fetchedAt": "2026-03-25T05:16:15.737Z"
   },
   {
-    "id": "news-1774329321706-4",
-    "title": "Littlebird raises $11M for its AI-assisted ‘recall’ tool that reads your computer screen",
-    "summary": "Littlebird is building an AI that reads your screen in real time to capture context, answer questions, and automate tasks, without relying on screenshots.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-03-23T16:00:00.000Z",
-    "url": "https://techcrunch.com/2026/03/23/littlebird-raises-11m-to-capture-context-from-your-computer-so-you-can-query-your-data/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-03-24T05:15:21.706Z"
-  },
-  {
-    "id": "news-1774329321706-5",
-    "title": "Elizabeth Warren calls Pentagon’s decision to bar Anthropic ‘retaliation’",
-    "summary": "In a letter to Defense Secretary Pete Hegseth, Senator Elizabeth Warren (D-MA) equated the DOD's decision to label Anthropic a \"supply-chain risk\" as retaliation, arguing that the Pentagon could simply have terminated its contract with the AI lab.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-03-23T15:22:57.000Z",
-    "url": "https://techcrunch.com/2026/03/23/elizabeth-warren-anthropic-pentagon-defense-supply-chain-risk-retaliation/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-03-24T05:15:21.706Z"
-  },
-  {
-    "id": "news-1774329321706-6",
-    "title": "Sam Altman-backed fusion startup Helion in talks to sell power to OpenAI",
-    "summary": "OpenAI CEO Sam Altman is stepping down as board chair of Helion. His departure comes as reports that the two companies are negotiating a deal that would see Helion sell 12.5% of its power output to OpenAI.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-03-23T15:03:36.000Z",
-    "url": "https://techcrunch.com/2026/03/23/sam-altman-openai-fusion-energy-board-helion/",
-    "imageUrl": null,
-    "tags": [
-      "AI",
-      "Startup"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-03-24T05:15:21.706Z"
-  },
-  {
-    "id": "news-1774329321708-36",
-    "title": "Confirmed: Primary Wave Music to acquire Kobalt from Francisco Partners",
-    "summary": "Kobalt to continue standalone operations under current management\nSource",
+    "id": "news-1774415775741-45",
+    "title": "Korean Music Industry Groups Race to Build Blockchain Defense Against AI Exploitation",
+    "summary": "A new industry coalition aims to track every song's creation path before AI commercialization becomes irreversible.",
     "category": "industry-news",
-    "source": "Music Business Worldwide",
+    "source": "Billboard",
     "author": "Unknown",
-    "publishedAt": "2026-03-23T13:03:57.000Z",
-    "url": "https://www.musicbusinessworldwide.com/confirmed-primary-wave-music-to-acquire-kobalt-from-francisco-partners/",
+    "publishedAt": "2026-03-25T00:09:34.000Z",
+    "url": "https://www.billboard.com/pro/korean-music-groups-join-fight-ai-exploitation/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-03-25T05:16:15.741Z"
+  },
+  {
+    "id": "news-1774415775741-46",
+    "title": "Cody Johnson on Watching Kid Rock Cover ”Til You Can’t’ on Turning Point USA Halftime Show: I ‘Had Tears in My Eyes’",
+    "summary": "During a recent episode of the Rodeo Time With Dale Brisby podcast, Johnson discussed Kid Rock's new version of his hit song.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-03-24T23:47:12.000Z",
+    "url": "https://www.billboard.com/music/country/cody-johnson-talks-kid-rock-version-til-you-cant-1236205870/",
     "imageUrl": null,
     "tags": [],
     "readTime": 1,
-    "fetchedAt": "2026-03-24T05:15:21.708Z"
+    "fetchedAt": "2026-03-25T05:16:15.741Z"
   },
   {
-    "id": "news-1774329321708-37",
-    "title": "BTS smash K-Pop records with new album Arirang – but HYBE shares drop after comeback concert draws smaller crowd than expected",
-    "summary": "All 14 tracks from the album also occupied spots on the Spotify Global Top 50, with the lead single SWIM, debuting at No. 1.\nSource",
-    "category": "industry-news",
-    "source": "Music Business Worldwide",
+    "id": "news-1774415775737-1",
+    "title": "Kentucky woman rejects $26M offer to turn her farm into a data center",
+    "summary": "A \"major artificial intelligence company\" reportedly offered a Kentucky family $26 million to build a data center on their farm.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
     "author": "Unknown",
-    "publishedAt": "2026-03-23T12:29:02.000Z",
-    "url": "https://www.musicbusinessworldwide.com/bts-smash-k-pop-records-with-new-album-arirang-but-hybe-shares-drop-after-comeback-concert-draws-smaller-crowd-than-expected1/",
+    "publishedAt": "2026-03-24T22:22:57.000Z",
+    "url": "https://techcrunch.com/2026/03/24/kentucky-woman-rejects-26-million-offer-to-turn-her-farm-into-a-data-center/",
     "imageUrl": null,
     "tags": [
-      "Spotify"
+      "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-03-24T05:15:21.708Z"
+    "fetchedAt": "2026-03-25T05:16:15.737Z"
   },
   {
-    "id": "news-1774329321708-26",
-    "title": "Meet the Gods of AI Warfare",
-    "summary": "In its early days, the AI initiative known as Project Maven had its fair share of skeptics at the Pentagon. Today, many of them are true believers.",
+    "id": "news-1774415775740-29",
+    "title": "Pentagon’s ‘Attempt to Cripple’ Anthropic Is Troubling, Judge Says",
+    "summary": "During a hearing Tuesday, a district court judge questioned the Department of Defense’s motivations for labeling the Claude AI developer a supply-chain risk.",
     "category": "tech-innovation",
     "source": "Wired AI",
     "author": "Unknown",
-    "publishedAt": "2026-03-23T10:00:00.000Z",
-    "url": "https://www.wired.com/story/project-maven-katrina-manson-book-excerpt/",
+    "publishedAt": "2026-03-24T22:13:17.000Z",
+    "url": "https://www.wired.com/story/pentagons-attempt-to-cripple-anthropic-is-troublesome-judge-says/",
     "imageUrl": null,
     "tags": [
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-03-24T05:15:21.708Z"
+    "fetchedAt": "2026-03-25T05:16:15.740Z"
+  },
+  {
+    "id": "news-1774415775739-23",
+    "title": "Paged Attention in Large Language Models LLMs",
+    "summary": "When running LLMs at scale, the real limitation is GPU memory rather than compute, mainly because each request requires a KV cache to store token-level data. In traditional setups, a large fixed memory block is reserved per request based on the maximum sequence length, which leads to significant unused space and limits concurrency. Paged Attention […]\nThe post Paged Attention in Large Language Models LLMs appeared first on MarkTechPost.\n",
+    "category": "ai-research",
+    "source": "MarkTechPost",
+    "author": "Unknown",
+    "publishedAt": "2026-03-24T21:45:49.000Z",
+    "url": "https://www.marktechpost.com/2026/03/24/paged-attention-in-large-language-models-llms/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-03-25T05:16:15.739Z"
+  },
+  {
+    "id": "news-1774415775739-24",
+    "title": "A Coding Implementation to Design Self-Evolving Skill Engine with OpenSpace for Skill Learning, Token Efficiency, and Collective Intelligence",
+    "summary": "In this tutorial, we explore OpenSpace, a self-evolving skill engine developed by HKUDS that makes AI agents smarter, more cost-efficient, and capable of learning from every task they perform. We walk through the complete lifecycle of OpenSpace: from installing and configuring an OpenAI model, to executing cold-start tasks where no prior skills exist, watching the […]\nThe post A Coding Implementation to Design Self-Evolving Skill Engine with OpenSpace for Skill Learning, Token Efficiency, ",
+    "category": "ai-research",
+    "source": "MarkTechPost",
+    "author": "Unknown",
+    "publishedAt": "2026-03-24T21:31:11.000Z",
+    "url": "https://www.marktechpost.com/2026/03/24/a-coding-implementation-to-design-self-evolving-skill-engine-with-openspace-for-skill-learning-token-efficiency-and-collective-intelligence/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-03-25T05:16:15.739Z"
+  },
+  {
+    "id": "news-1774415775737-2",
+    "title": "Anthropic hands Claude Code more control, but keeps it on a leash",
+    "summary": "Anthropic’s new auto mode for Claude Code lets AI execute tasks with fewer approvals, reflecting a broader shift toward more autonomous tools that balance speed with safety through built-in safeguards.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-03-24T21:00:30.000Z",
+    "url": "https://techcrunch.com/2026/03/24/anthropic-hands-claude-code-more-control-but-keeps-it-on-a-leash/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-03-25T05:16:15.738Z"
+  },
+  {
+    "id": "news-1774415775738-3",
+    "title": "Spotify tests new tool to stop AI slop from being attributed to real artists",
+    "summary": "The idea behind the new tool is to give artists more control over which tracks are associated with their name on Spotify. ",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-03-24T20:56:25.000Z",
+    "url": "https://techcrunch.com/2026/03/24/spotify-tests-new-tool-to-stop-ai-slop-from-being-attributed-to-real-artists/",
+    "imageUrl": null,
+    "tags": [
+      "Spotify",
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-03-25T05:16:15.738Z"
+  },
+  {
+    "id": "news-1774415775738-4",
+    "title": "Databricks bought two startups to underpin its new AI security product",
+    "summary": "With an overflowing war chest from its recent $5 billion raise, Databricks is buying startups and looking for more. It acquired Antimatter and SiftD.ai.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-03-24T20:40:56.000Z",
+    "url": "https://techcrunch.com/2026/03/24/databricks-buys-two-startups-lakewatch-antimatter-siftd-ai-security/",
+    "imageUrl": null,
+    "tags": [
+      "AI",
+      "Startup"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-03-25T05:16:15.738Z"
+  },
+  {
+    "id": "news-1774415775740-35",
+    "title": "‘People want fewer layers between themselves and the thing they care about.’",
+    "summary": "First, Justin Kalifowitz saw that music publishing was changing. Then, he saw indie services were the future. Now, with Downtown sold in two parts – for a combined price of $1.2 billion – where does he see the world of entertainment heading next?\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-03-24T19:52:30.000Z",
+    "url": "https://www.musicbusinessworldwide.com/people-want-fewer-layers-between-themselves-and-the-thing-they-care-about/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-03-25T05:16:15.740Z"
+  },
+  {
+    "id": "news-1774415775740-36",
+    "title": "Seeker Music Group closes $267M asset-backed securities transaction to fuel growth, scale catalog",
+    "summary": "The company has closed its first ABS, backed by a catalog of more than 19,000 copyrights and master recordings.\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-03-24T19:51:54.000Z",
+    "url": "https://www.musicbusinessworldwide.com/seeker-music-group-closes-267m-asset-backed-securities-transaction-to-fuel-growth-scale-catalog/",
+    "imageUrl": null,
+    "tags": [
+      "Copyright"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-03-25T05:16:15.740Z"
+  },
+  {
+    "id": "news-1774415775740-37",
+    "title": "UMG, Concord, and ABKCO file new motion asking judge to rule that Anthropic infringed their copyrights and reject AI ‘fair use’ argument: ‘The evidence in this case is overwhelming.’",
+    "summary": "Publishers filed motion for partial summary judgment on Monday (March 23) in the Northern District of California\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-03-24T19:31:12.000Z",
+    "url": "https://www.musicbusinessworldwide.com/infringement-on-a-massive-scale-umg-concord-and-abkco-ask-court-to-rule-against-ai-company-anthropic-ahead-of-trial/",
+    "imageUrl": null,
+    "tags": [
+      "AI",
+      "Copyright"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-03-25T05:16:15.740Z"
+  },
+  {
+    "id": "news-1774415775738-5",
+    "title": "OpenAI’s plans to make ChatGPT more like Amazon aren’t going so well",
+    "summary": "OpenAI says it's moving away from Instant Checkout, which allowed users to buy items directly through the ChatGPT interface. ",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-03-24T19:27:56.000Z",
+    "url": "https://techcrunch.com/2026/03/24/openais-plans-to-make-chatgpt-more-like-amazon-arent-going-so-well/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-03-25T05:16:15.738Z"
+  },
+  {
+    "id": "news-1774415775739-25",
+    "title": "This AI Paper Introduces TinyLoRA, A 13-Parameter Fine-Tuning Method That Reaches 91.8 Percent GSM8K on Qwen2.5-7B",
+    "summary": "Researchers from FAIR at Meta, Cornell University, and Carnegie Mellon University have demonstrated that large language models (LLMs) can learn to reason using a remarkably small number of trained parameters. The research team introduces TinyLoRA, a parameterization that can scale down to a single trainable parameter under extreme sharing settings. Using this method on a […]\nThe post This AI Paper Introduces TinyLoRA, A 13-Parameter Fine-Tuning Method That Reaches 91.8 Percent GSM8K on Qwe",
+    "category": "ai-research",
+    "source": "MarkTechPost",
+    "author": "Unknown",
+    "publishedAt": "2026-03-24T18:49:40.000Z",
+    "url": "https://www.marktechpost.com/2026/03/24/this-ai-paper-introduces-tinylora-a-13-parameter-fine-tuning-method-that-reaches-91-8-percent-gsm8k-on-qwen2-5-7b/",
+    "imageUrl": null,
+    "tags": [
+      "AI",
+      "Research"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-03-25T05:16:15.739Z"
+  },
+  {
+    "id": "news-1774415775738-6",
+    "title": "OpenAI adds open source tools to help developers build for teen safety",
+    "summary": "Rather than working from scratch to figure out how to make AI safer for teens, developers can use these policies to fortify what they build.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-03-24T18:41:34.000Z",
+    "url": "https://techcrunch.com/2026/03/24/openai-adds-open-source-tools-to-help-developers-build-for-teen-safety/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-03-25T05:16:15.738Z"
+  },
+  {
+    "id": "news-1774415775738-7",
+    "title": "Talat’s AI meeting notes stay on your machine, not in the cloud",
+    "summary": "The subscription-free AI meeting notes app is a local-first twist on notetaking tools like Granola. ",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-03-24T18:41:33.000Z",
+    "url": "https://techcrunch.com/2026/03/24/talats-ai-meeting-notes-stay-on-your-machine-not-in-the-cloud/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-03-25T05:16:15.738Z"
   }
 ]
