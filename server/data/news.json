@@ -1,48 +1,269 @@
 [
   {
-    "id": "news-1774590680736-44",
-    "title": "Charlie Puth’s ‘Incredibly Honest’ Album ‘Whatever’s Clever!’ Has Arrived: Stream It Now",
-    "summary": "Puth’s ambition was to “make a rich, warm, and big-sounding record.”",
+    "id": "news-1774674848242-45",
+    "title": "UMG Blasts Drake Appeal in Lawsuit Over Kendrick Lamar’s ‘Not Like Us’: ‘That Is Not the Law’",
+    "summary": "The music giant says the rapper's lawsuit over Lamar's incendiary diss track shouldn't be revived by a federal appeals court.",
     "category": "industry-news",
     "source": "Billboard",
     "author": "Unknown",
-    "publishedAt": "2026-03-27T04:49:47.000Z",
-    "url": "https://www.billboard.com/music/pop/charlie-puth-whatevers-clever-stream-it-now-1236206315/",
+    "publishedAt": "2026-03-27T22:26:23.000Z",
+    "url": "https://www.billboard.com/pro/umg-responds-drake-appeal-suit-kendrick-lamar-not-like-us/",
     "imageUrl": null,
     "tags": [],
     "readTime": 1,
-    "fetchedAt": "2026-03-27T05:51:20.736Z"
+    "fetchedAt": "2026-03-28T05:14:08.242Z"
   },
   {
-    "id": "news-1774590680736-45",
-    "title": "Flea Jazzes up For Debut Solo Album ‘Honora’: Stream It Now",
-    "summary": "Flea teams up with Nick Cave, Thom Yorke and others for his debut album.",
+    "id": "news-1774674848242-46",
+    "title": "Jazz Musician Sued by Kennedy Center Over Canceled Show Asks Judge to Dismiss Lawsuit",
+    "summary": "The performing arts center sued Chuck Redd after the drummer canceled a Christmas Eve performance at the venue in protest of Donald Trump's influence.",
     "category": "industry-news",
     "source": "Billboard",
     "author": "Unknown",
-    "publishedAt": "2026-03-27T04:03:47.000Z",
-    "url": "https://www.billboard.com/music/rock/flea-debut-solo-album-honora-stream-it-now-1236208219/",
+    "publishedAt": "2026-03-27T21:51:34.000Z",
+    "url": "https://www.billboard.com/pro/musician-kennedy-center-lawsuit-canceled-show-dismissed/",
     "imageUrl": null,
     "tags": [],
     "readTime": 1,
-    "fetchedAt": "2026-03-27T05:51:20.736Z"
+    "fetchedAt": "2026-03-28T05:14:08.242Z"
   },
   {
-    "id": "news-1774590680736-46",
-    "title": "Melanie Martinez Takes us to ‘HADES’: Stream It Now",
-    "summary": "Martinez returns with her fourth studio album, \"HADES,\" the songwriter and alternative pop artist's social commentary on today’s world.",
+    "id": "news-1774674848241-30",
+    "title": "AI Research Is Getting Harder to Separate From Geopolitics",
+    "summary": "A policy change announced by NeurIPS, the world’s leading AI research conference, drew widespread backlash from Chinese researchers this week and then was quickly reversed.",
+    "category": "ai-research",
+    "source": "Wired AI",
+    "author": "Unknown",
+    "publishedAt": "2026-03-27T21:46:39.000Z",
+    "url": "https://www.wired.com/story/made-in-china-ai-research-is-starting-to-split-along-geopolitical-lines/",
+    "imageUrl": null,
+    "tags": [
+      "AI",
+      "Research"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-03-28T05:14:08.241Z"
+  },
+  {
+    "id": "news-1774674848240-0",
+    "title": "Why SoftBank’s new $40B loan points to a 2026 OpenAI IPO",
+    "summary": "Wall Street giants JPMorgan and Goldman Sachs are extending a 12-month, unsecured loan to the Japanese conglomerate. ",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-03-27T21:44:45.000Z",
+    "url": "https://techcrunch.com/2026/03/27/why-softbanks-new-40b-loan-points-to-a-2026-openai-ipo/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-03-28T05:14:08.240Z"
+  },
+  {
+    "id": "news-1774674848242-47",
+    "title": "‘This Project Feels Like My Final Form’: Slayyyter Talks About Her New Album, Which Might Be Her Last Album Too",
+    "summary": "Wor$t Girl In America is out today (March 27) via Columbia Records. ",
     "category": "industry-news",
     "source": "Billboard",
     "author": "Unknown",
-    "publishedAt": "2026-03-27T04:01:55.000Z",
-    "url": "https://www.billboard.com/music/pop/melanie-martinez-hades-stream-it-now-1236208272/",
+    "publishedAt": "2026-03-27T20:18:11.000Z",
+    "url": "https://www.billboard.com/music/pop/slayyyter-worst-girl-in-america-album-interview-1236208681/",
     "imageUrl": null,
     "tags": [],
     "readTime": 1,
-    "fetchedAt": "2026-03-27T05:51:20.736Z"
+    "fetchedAt": "2026-03-28T05:14:08.242Z"
   },
   {
-    "id": "news-1774590680734-21",
+    "id": "news-1774674848242-48",
+    "title": "Niall Horan Avoids Doing This at Shows When His Former 1D Bandmates Are Also Touring: ‘It’d Be a Bit Stupid’",
+    "summary": "The singer also revealed which One Direction songs he thinks are \"underrated.\"",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-03-27T20:08:48.000Z",
+    "url": "https://www.billboard.com/music/music-news/niall-horan-touring-same-time-harry-styles-1236208831/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-03-28T05:14:08.242Z"
+  },
+  {
+    "id": "news-1774674848241-21",
+    "title": "An Implementation of IWE’s Context Bridge as an AI-Powered Knowledge Graph with Agentic RAG, OpenAI Function Calling, and Graph Traversal",
+    "summary": "In this tutorial, we implement IWE: an open-source, Rust-powered personal knowledge management system that treats markdown notes as a navigable knowledge graph. Since IWE is a CLI/LSP tool designed for local editors. We build a realistic developer knowledge base from scratch, wire up wiki-links and markdown links into a directed graph, and then walk through […]\nThe post An Implementation of IWE’s Context Bridge as an AI-Powered Knowledge Graph with Agentic RAG, OpenAI Function Callin",
+    "category": "ai-research",
+    "source": "MarkTechPost",
+    "author": "Unknown",
+    "publishedAt": "2026-03-27T20:06:55.000Z",
+    "url": "https://www.marktechpost.com/2026/03/27/an-implementation-of-iwes-context-bridge-as-an-ai-powered-knowledge-graph-with-agentic-rag-openai-function-calling-and-graph-traversal/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-03-28T05:14:08.241Z"
+  },
+  {
+    "id": "news-1774674848241-22",
+    "title": "openJiuwen Community Releases ‘JiuwenClaw’: A Self Evolving AI Agent for Task Management",
+    "summary": "Over the past year, AI agents have evolved from merely answering questions to attempting to get real tasks done. However, a significant bottleneck has emerged: while most agents may appear intelligent during a conversation, they often ‘drop the ball’ when it comes to executing real-world tasks. Whether it’s an office workflow that breaks when requirements […]\nThe post openJiuwen Community Releases ‘JiuwenClaw’: A Self Evolving AI Agent for Task Management appeared f",
+    "category": "ai-research",
+    "source": "MarkTechPost",
+    "author": "Unknown",
+    "publishedAt": "2026-03-27T17:02:48.000Z",
+    "url": "https://www.marktechpost.com/2026/03/27/openjiuwen-community-releases-jiuwenclaw-a-self-evolving-ai-agent-for-task-management/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-03-28T05:14:08.241Z"
+  },
+  {
+    "id": "news-1774674848242-36",
+    "title": "Russ talks ownership, fan engagement and ‘making music every day’ at SXSW",
+    "summary": "About two months ago, Russ became the second-highest RIAA-certified independent rapper in history. \nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-03-27T16:33:32.000Z",
+    "url": "https://www.musicbusinessworldwide.com/russ-talks-ownership-fan-engagement-and-making-music-every-day-at-sxsw/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-03-28T05:14:08.242Z"
+  },
+  {
+    "id": "news-1774674848242-37",
+    "title": "Record labels and Spotify seek $322M default judgment from pirate group Anna’s Archive",
+    "summary": "A motion for default judgment and an accompanying memorandum of law were filed on March 25.\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-03-27T16:15:01.000Z",
+    "url": "https://www.musicbusinessworldwide.com/record-labels-and-spotify-seek-322m-default-judgment-from-pirate-group-annas-archive/",
+    "imageUrl": null,
+    "tags": [
+      "Spotify"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-03-28T05:14:08.242Z"
+  },
+  {
+    "id": "news-1774674848242-38",
+    "title": "United Talent Agency promotes seven execs to Partner within music division",
+    "summary": "Elevations span UTA LIVE, Creators, Sports and Filmed Entertainment as agency expands senior leadership ranks\n\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-03-27T15:41:45.000Z",
+    "url": "https://www.musicbusinessworldwide.com/united-talent-agency-promotes-seven-execs-to-partner-within-music-division/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-03-28T05:14:08.242Z"
+  },
+  {
+    "id": "news-1774674848240-1",
+    "title": "VCs are betting billions on AI’s next wave, so why is OpenAI killing Sora?",
+    "summary": "When an 82-year-old Kentucky woman was offered $26 million from an AI company that wanted to build a data center on her land, she said no. Sure, that same company can try to rezone 2,000 acres nearby anyway, but as AI infrastructure stretches further into the real world, the real world is starting to push back.  That tension is everywhere […]",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-03-27T15:40:19.000Z",
+    "url": "https://techcrunch.com/podcast/vcs-are-betting-billions-on-ais-next-wave-so-why-is-openai-killing-sora/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-03-28T05:14:08.240Z"
+  },
+  {
+    "id": "news-1774674848242-39",
+    "title": "Deezer licenses AI music detection technology to Hungarian rights organization EJI",
+    "summary": "CMO becomes first in Hungary to deploy Deezer's AI detection tech.\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-03-27T15:33:55.000Z",
+    "url": "https://www.musicbusinessworldwide.com/deezer-licenses-ai-music-detection-technology-to-hungarian-rights-organization-eji/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-03-28T05:14:08.242Z"
+  },
+  {
+    "id": "news-1774674848241-31",
+    "title": "Apple Still Plans to Sell iPhones When It Turns 100",
+    "summary": "As the tech giant turns 50, WIRED spoke to executives about how they plan to win in the AI era.",
+    "category": "tech-innovation",
+    "source": "Wired AI",
+    "author": "Unknown",
+    "publishedAt": "2026-03-27T15:00:00.000Z",
+    "url": "https://www.wired.com/story/apple-50-year-anniversary-artificial-intelligence-iphone/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-03-28T05:14:08.242Z"
+  },
+  {
+    "id": "news-1774674848240-2",
+    "title": "OpenAI shuts down Sora while Meta gets shut out in court",
+    "summary": "When an 82-year-old Kentucky woman was offered $26 million from an AI company that wanted to build a data center on her land, she said no. Sure, that same company can try to rezone 2,000 acres nearby anyway, but as AI infrastructure stretches further into the real world, the real world is starting to push back.  That tension is everywhere […]",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-03-27T13:30:00.000Z",
+    "url": "https://techcrunch.com/video/openai-shuts-down-sora-while-meta-gets-shut-out-in-court/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-03-28T05:14:08.240Z"
+  },
+  {
+    "id": "news-1774674848242-32",
+    "title": "The Latest AI Documentary Asks: Just How Scared Should We Be?",
+    "summary": "The AI Doc: Or How I Became an Apocaloptimist seeks the middle ground on a polarizing technology—and ends up letting tech execs like Sam Altman off the hook.",
+    "category": "tech-innovation",
+    "source": "Wired AI",
+    "author": "Unknown",
+    "publishedAt": "2026-03-27T11:00:00.000Z",
+    "url": "https://www.wired.com/story/a-new-ai-documentary-puts-ceos-in-the-hot-seat-but-goes-too-easy-on-them/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-03-28T05:14:08.242Z"
+  },
+  {
+    "id": "news-1774674848242-33",
+    "title": "I Asked ChatGPT 500 Questions. Here Are the Ads I Saw Most Often",
+    "summary": "Ads are rolling out across the US on ChatGPT’s free tier. I asked OpenAI's bot 500 questions to see what these ads were like and how they related to my prompts.",
+    "category": "ai-research",
+    "source": "Wired AI",
+    "author": "Unknown",
+    "publishedAt": "2026-03-27T10:30:00.000Z",
+    "url": "https://www.wired.com/story/i-asked-chatgpt-500-questions-here-are-the-ads-i-saw-most-often/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-03-28T05:14:08.242Z"
+  },
+  {
+    "id": "news-1774674848241-23",
     "title": "Google Releases Gemini 3.1 Flash Live: A Real-Time Multimodal Voice Model for Low-Latency Audio, Video, and Tool Use for AI Agents",
     "summary": "Google has released Gemini 3.1 Flash Live in preview for developers through the Gemini Live API in Google AI Studio. This model targets low-latency, more natural, and more reliable real-time voice interactions, serving as Google’s ‘highest-quality audio and speech model to date.’ By natively processing multimodal streams, the release provides a technical foundation for building […]\nThe post Google Releases Gemini 3.1 Flash Live: A Real-Time Multimodal Voice Model for Low-Latenc",
     "category": "ai-research",
@@ -55,82 +276,26 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-03-27T05:51:20.734Z"
+    "fetchedAt": "2026-03-28T05:14:08.241Z"
   },
   {
-    "id": "news-1774590680736-47",
-    "title": "Taylor Swift Wins Artist of the Year at 2026 iHeartRadio Music Awards, Admitting ‘I Didn’t Think I Was an Artist When I First Started’",
-    "summary": "Swift took home seven awards in total, also including Pop Album of the Year and Pop Song of the Year.",
-    "category": "industry-news",
-    "source": "Billboard",
+    "id": "news-1774674848240-3",
+    "title": "David Sacks is done as AI czar — here’s what he’s doing instead",
+    "summary": "Sacks will be much further from the power center in Washington than since the outset of this second Trump administration.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
     "author": "Unknown",
-    "publishedAt": "2026-03-27T02:20:37.000Z",
-    "url": "https://www.billboard.com/music/awards/taylor-swift-2026-iheartradio-music-award-artist-of-the-year-1236208165/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-03-27T05:51:20.736Z"
-  },
-  {
-    "id": "news-1774590680736-48",
-    "title": "Here Are the 2026 iHeartRadio Music Awards Winners: Full List",
-    "summary": "Taylor Swift extends her record as the winningest artist in iHeart history, with 41 total prizes.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-03-27T02:00:00.000Z",
-    "url": "https://www.billboard.com/lists/2026-iheartradio-music-awards-winners-list/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-03-27T05:51:20.736Z"
-  },
-  {
-    "id": "news-1774590680736-49",
-    "title": "Miley Cyrus Accepts Innovator Award at 2026 iHeartRadio Music Awards: ‘This Is the Life’",
-    "summary": "The Hannah Montana star was presented with the award for her global impact on music and culture. ",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-03-27T01:50:18.000Z",
-    "url": "https://www.billboard.com/music/awards/miley-cyrus-innovator-award-speech-2026-iheartradio-awards-1236208148/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-03-27T05:51:20.736Z"
-  },
-  {
-    "id": "news-1774590680736-50",
-    "title": "The Deals: Eartha Kitt Estate Partners With Primary Wave, UMG Expands Footprint in India & Thailand",
-    "summary": "Other recent music deals include Symphonic's acquisition of distribution and YouTube monetization platform Distro Nation and more.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-03-27T01:39:31.000Z",
-    "url": "https://www.billboard.com/lists/eartha-kitt-estate-primary-wave-music-deals/",
+    "publishedAt": "2026-03-27T01:26:40.000Z",
+    "url": "https://techcrunch.com/2026/03/26/david-sacks-is-done-as-ai-czar-heres-what-hes-doing-instead/",
     "imageUrl": null,
     "tags": [
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-03-27T05:51:20.736Z"
+    "fetchedAt": "2026-03-28T05:14:08.240Z"
   },
   {
-    "id": "news-1774590680736-51",
-    "title": "Taylor Swift & Travis Kelce Make Their Awards Show Debut at iHeartRadio Music Awards as She Shouts Out ‘My Fiancé’ in Acceptance Speech",
-    "summary": "Swift won Pop Album of the Year for The Life of a Showgirl, with Kelce looking on from the crowd.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-03-27T01:32:28.000Z",
-    "url": "https://www.billboard.com/music/awards/taylor-swift-travis-kelce-awards-show-debut-2026-iheartradio-1236208126/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-03-27T05:51:20.736Z"
-  },
-  {
-    "id": "news-1774590680732-0",
+    "id": "news-1774674848240-4",
     "title": "Anthropic wins injunction against Trump administration over Defense Department saga",
     "summary": "A federal judge has ordered that the Trump administration rescind recent restrictions it placed on the AI company. ",
     "category": "ai-research",
@@ -143,158 +308,6 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-03-27T05:51:20.733Z"
-  },
-  {
-    "id": "news-1774590680736-52",
-    "title": "Jason Aldean On New Album ‘Songs About Us’ Coming Out in April & Touring in the Summer | iHeartRadio Music Awards 2026",
-    "summary": "Jason Aldean caught up with Billboard’s Tetris Kelly on the red carpet at the iHeartRadio Music Awards 2026.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-03-27T01:13:36.000Z",
-    "url": "https://www.billboard.com/video/jason-aldean-on-new-album-songs-about-us-coming-out/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-03-27T05:51:20.736Z"
-  },
-  {
-    "id": "news-1774590680736-53",
-    "title": "Ella Langley Feels Grateful For “Choosin’ Texas” Hitting No. 1 On Hot 100, Shares Why She Thinks It Resonates With Fans | iHeartRadio Music Awards 2026",
-    "summary": "Ella Langley caught up with Billboard’s Tetris Kelly on the red carpet at the iHeartRadio Music Awards 2026.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-03-27T00:57:11.000Z",
-    "url": "https://www.billboard.com/video/ella-langley-grateful-for-choosin-texas-hitting-no-1/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-03-27T05:51:20.736Z"
-  },
-  {
-    "id": "news-1774590680734-22",
-    "title": "A Coding Implementation to Run Qwen3.5 Reasoning Models Distilled with Claude-Style Thinking Using GGUF and 4-Bit Quantization",
-    "summary": "In this tutorial, we work directly with Qwen3.5 models distilled with Claude-style reasoning and set up a Colab pipeline that lets us switch between a 27B GGUF variant and a lightweight 2B 4-bit version with a single flag. We start by validating GPU availability, then conditionally install either llama.cpp or transformers with bitsandbytes, depending on […]\nThe post A Coding Implementation to Run Qwen3.5 Reasoning Models Distilled with Claude-Style Thinking Using GGUF and 4-Bit Quantizatio",
-    "category": "ai-research",
-    "source": "MarkTechPost",
-    "author": "Unknown",
-    "publishedAt": "2026-03-26T23:04:05.000Z",
-    "url": "https://www.marktechpost.com/2026/03/26/a-coding-implementation-to-run-qwen3-5-reasoning-models-distilled-with-claude-style-thinking-using-gguf-and-4-bit-quantization/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-03-27T05:51:20.734Z"
-  },
-  {
-    "id": "news-1774590680733-1",
-    "title": "Wikipedia cracks down on the use of AI in article writing",
-    "summary": "The site, whose policies are subject to change, has struggled with the issue of AI-generated writing. ",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-03-26T21:50:10.000Z",
-    "url": "https://techcrunch.com/2026/03/26/wikipedia-cracks-down-on-the-use-of-ai-in-article-writing/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-03-27T05:51:20.733Z"
-  },
-  {
-    "id": "news-1774590680733-2",
-    "title": "OpenAI abandons yet another side quest: ChatGPT’s erotic mode",
-    "summary": "It's only the latest of several side projects that the AI startup has ditched over the past week. ",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-03-26T18:34:02.000Z",
-    "url": "https://techcrunch.com/2026/03/26/openai-abandons-yet-another-side-quest-chatgpts-erotic-mode/",
-    "imageUrl": null,
-    "tags": [
-      "AI",
-      "Startup"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-03-27T05:51:20.733Z"
-  },
-  {
-    "id": "news-1774590680735-30",
-    "title": "Meet the Tech Reporters Using AI to Help Write and Edit Their Stories",
-    "summary": "Independent writers are using AI agents all throughout their reporting process. What’s the value of a human journalist, anyway?",
-    "category": "tech-innovation",
-    "source": "Wired AI",
-    "author": "Unknown",
-    "publishedAt": "2026-03-26T18:00:00.000Z",
-    "url": "https://www.wired.com/story/tech-reporters-using-ai-write-edit-stories/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-03-27T05:51:20.735Z"
-  },
-  {
-    "id": "news-1774590680735-35",
-    "title": "Primary Wave makes strategic investment in Vietnam’s POPS Music – with plans to ramp up catalog deals in Southeast Asia",
-    "summary": "POPS claims to be 'home to the largest catalog of Vietnamese and Indonesian music'\nSource",
-    "category": "industry-news",
-    "source": "Music Business Worldwide",
-    "author": "Unknown",
-    "publishedAt": "2026-03-26T16:49:35.000Z",
-    "url": "https://www.musicbusinessworldwide.com/primary-wave-makes-strategic-investment-in-vietnams-pops-music-with-plans-to-ramp-up-catalog-deals-in-southeast-asia/",
-    "imageUrl": null,
-    "tags": [
-      "AI",
-      "Investment"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-03-27T05:51:20.735Z"
-  },
-  {
-    "id": "news-1774590680735-36",
-    "title": "Key Songs In The Life Of… Colleen Theis",
-    "summary": "Colleen Theis, President and COO of The Orchard, sits down with MBW to discuss the songs – but more importantly, the experiences – that have defined her life to date\nSource",
-    "category": "industry-news",
-    "source": "Music Business Worldwide",
-    "author": "Unknown",
-    "publishedAt": "2026-03-26T16:23:00.000Z",
-    "url": "https://www.musicbusinessworldwide.com/key-songs-in-the-life-of-colleen-theis/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-03-27T05:51:20.735Z"
-  },
-  {
-    "id": "news-1774590680735-37",
-    "title": "Australia’s GYRO Group expands into Latin America with new office in Brazil",
-    "summary": "The global music company has opened a new HQ in Santos, São Paulo, Brazil.\nSource",
-    "category": "industry-news",
-    "source": "Music Business Worldwide",
-    "author": "Unknown",
-    "publishedAt": "2026-03-26T16:17:44.000Z",
-    "url": "https://www.musicbusinessworldwide.com/australias-gyro-group-expands-into-latin-america-with-new-office-in-brazil/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-03-27T05:51:20.735Z"
-  },
-  {
-    "id": "news-1774590680735-38",
-    "title": "Symphonic acquires music distribution and YouTube monetization platform Distro Nation",
-    "summary": "Jon Baltz, CEO and Co-Founder of Distro Nation, will join Symphonic’s executive team as Head of UGC & Rights Management, along with his team.\nSource",
-    "category": "industry-news",
-    "source": "Music Business Worldwide",
-    "author": "Unknown",
-    "publishedAt": "2026-03-26T16:11:09.000Z",
-    "url": "https://www.musicbusinessworldwide.com/symphonic-acquires-music-distribution-and-youtube-monetization-platform-distro-nation/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-03-27T05:51:20.735Z"
+    "fetchedAt": "2026-03-28T05:14:08.240Z"
   }
 ]
