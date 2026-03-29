@@ -1,34 +1,242 @@
 [
   {
-    "id": "news-1774674848242-45",
-    "title": "UMG Blasts Drake Appeal in Lawsuit Over Kendrick Lamar’s ‘Not Like Us’: ‘That Is Not the Law’",
-    "summary": "The music giant says the rapper's lawsuit over Lamar's incendiary diss track shouldn't be revived by a federal appeals court.",
+    "id": "news-1774763648329-21",
+    "title": "A Coding Guide to Exploring nanobot’s Full Agent Pipeline, from Wiring Up Tools and Memory to Skills, Subagents, and Cron Scheduling",
+    "summary": "In this tutorial, we take a deep dive into nanobot, the ultra-lightweight personal AI agent framework from HKUDS that packs full agent capabilities into roughly 4,000 lines of Python. Rather than simply installing and running it out of the box, we crack open the hood and manually recreate each of its core subsystems, the agent […]\nThe post A Coding Guide to Exploring nanobot’s Full Agent Pipeline, from Wiring Up Tools and Memory to Skills, Subagents, and Cron Scheduling appeared firs",
+    "category": "ai-research",
+    "source": "MarkTechPost",
+    "author": "Unknown",
+    "publishedAt": "2026-03-29T05:40:25.000Z",
+    "url": "https://www.marktechpost.com/2026/03/28/a-coding-guide-to-exploring-nanobots-full-agent-pipeline-from-wiring-up-tools-and-memory-to-skills-subagents-and-cron-scheduling/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-03-29T05:54:08.329Z"
+  },
+  {
+    "id": "news-1774763648330-45",
+    "title": "Ye’s ‘Bully’ Album: All 18 Tracks Ranked",
+    "summary": "Yeezy season has returned. ",
     "category": "industry-news",
     "source": "Billboard",
     "author": "Unknown",
-    "publishedAt": "2026-03-27T22:26:23.000Z",
-    "url": "https://www.billboard.com/pro/umg-responds-drake-appeal-suit-kendrick-lamar-not-like-us/",
+    "publishedAt": "2026-03-29T00:18:51.000Z",
+    "url": "https://www.billboard.com/lists/kanye-west-bully-tracks-ranked-best-songs/",
     "imageUrl": null,
     "tags": [],
     "readTime": 1,
-    "fetchedAt": "2026-03-28T05:14:08.242Z"
+    "fetchedAt": "2026-03-29T05:54:08.330Z"
   },
   {
-    "id": "news-1774674848242-46",
-    "title": "Jazz Musician Sued by Kennedy Center Over Canceled Show Asks Judge to Dismiss Lawsuit",
-    "summary": "The performing arts center sued Chuck Redd after the drummer canceled a Christmas Eve performance at the venue in protest of Donald Trump's influence.",
+    "id": "news-1774763648330-46",
+    "title": "Ye Returns With ‘Father’ Video, Featuring Travis Scott and Directed by Bianca Censori",
+    "summary": "The track is from Ye's just-released Bully album, streaming now.",
     "category": "industry-news",
     "source": "Billboard",
     "author": "Unknown",
-    "publishedAt": "2026-03-27T21:51:34.000Z",
-    "url": "https://www.billboard.com/pro/musician-kennedy-center-lawsuit-canceled-show-dismissed/",
+    "publishedAt": "2026-03-28T23:31:23.000Z",
+    "url": "https://www.billboard.com/music/music-news/kanye-west-father-video-bully-album-stream-1236209300/",
+    "imageUrl": null,
+    "tags": [
+      "Streaming"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-03-29T05:54:08.330Z"
+  },
+  {
+    "id": "news-1774763648327-0",
+    "title": "Bluesky leans into AI with Attie, an app for building custom feeds",
+    "summary": "Bluesky’s new app Attie uses AI to help people build custom feeds the open social networking protocol atproto.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-03-28T23:00:00.000Z",
+    "url": "https://techcrunch.com/2026/03/28/bluesky-leans-into-ai-with-attie-an-app-for-building-custom-feeds/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-03-29T05:54:08.327Z"
+  },
+  {
+    "id": "news-1774763648329-22",
+    "title": "Mistral AI Releases Voxtral TTS: A 4B Open-Weight Streaming Speech Model for Low-Latency Multilingual Voice Generation",
+    "summary": "Mistral AI has released Voxtral TTS, an open-weight text-to-speech model that marks the company’s first major move into audio generation. Following the release of its transcription and language models, Mistral is now providing the final ‘output layer’ of the audio stack, positioning itself as a direct competitor to proprietary voice APIs in the developer ecosystem. […]\nThe post Mistral AI Releases Voxtral TTS: A 4B Open-Weight Streaming Speech Model for Low-Latency Multilingual",
+    "category": "tech-innovation",
+    "source": "MarkTechPost",
+    "author": "Unknown",
+    "publishedAt": "2026-03-28T20:58:21.000Z",
+    "url": "https://www.marktechpost.com/2026/03/28/mistral-ai-releases-voxtral-tts-a-4b-open-weight-streaming-speech-model-for-low-latency-multilingual-voice-generation/",
+    "imageUrl": null,
+    "tags": [
+      "AI",
+      "Streaming"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-03-29T05:54:08.329Z"
+  },
+  {
+    "id": "news-1774763648330-47",
+    "title": "Watch Fred again.. & Thomas Bangalter’s Complete Set From London’s Alexandra Palace: ‘This Has Been the Greatest Show of My Life’",
+    "summary": "The historic February performance is now streaming on YouTube. ",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-03-28T20:57:42.000Z",
+    "url": "https://www.billboard.com/music/music-news/fred-again-thomas-bangalter-daft-punk-ally-pally-stream-1236209268/",
+    "imageUrl": null,
+    "tags": [
+      "AI",
+      "Streaming"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-03-29T05:54:08.330Z"
+  },
+  {
+    "id": "news-1774763648330-48",
+    "title": "Tyler, The Creator, Deftones & Jackson Wang Among Best of Day 1 of Tecate Pa’l Norte 2026",
+    "summary": "Interpol and Morat also shone on the first day of the massive festival in Monterrey, Mexico.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-03-28T20:51:10.000Z",
+    "url": "https://www.billboard.com/lists/tecate-pal-norte-2026-day-1-best-tyler-the-creator-deftones/",
     "imageUrl": null,
     "tags": [],
     "readTime": 1,
-    "fetchedAt": "2026-03-28T05:14:08.242Z"
+    "fetchedAt": "2026-03-29T05:54:08.330Z"
   },
   {
-    "id": "news-1774674848241-30",
+    "id": "news-1774763648327-1",
+    "title": "Stanford study outlines dangers of asking AI chatbots for personal advice",
+    "summary": "While there’s been plenty of debate about AI sycophancy, a new study by Stanford computer scientists attempts to measure how harmful that tendency might be.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-03-28T20:45:54.000Z",
+    "url": "https://techcrunch.com/2026/03/28/stanford-study-outlines-dangers-of-asking-ai-chatbots-for-personal-advice/",
+    "imageUrl": null,
+    "tags": [
+      "AI",
+      "Research"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-03-29T05:54:08.327Z"
+  },
+  {
+    "id": "news-1774763648330-49",
+    "title": "‘Saturday Night Live UK’: Where to Watch the British Version of the Sketch Comedy Show Online for Free",
+    "summary": "SNL UK has Jamie Dornan as host and Wolf Alice as musical guest.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-03-28T17:00:07.000Z",
+    "url": "https://www.billboard.com/culture/product-recommendations/how-to-watch-saturday-night-live-uk-online-free-1236203547/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-03-29T05:54:08.330Z"
+  },
+  {
+    "id": "news-1774763648327-2",
+    "title": "Elon Musk’s last co-founder reportedly leaves xAI",
+    "summary": "All but two of Musk's 11 xAI co-founders departed before this week.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-03-28T16:11:16.000Z",
+    "url": "https://techcrunch.com/2026/03/28/elon-musks-last-co-founder-reportedly-leaves-xai/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-03-29T05:54:08.327Z"
+  },
+  {
+    "id": "news-1774763648330-50",
+    "title": "CA7RIEL & Paco Amoroso Bring ‘Free Spirits’ to Life at NYC Spotify Show & More Uplifting Moments in Latin Music",
+    "summary": "Plus, Karol G lives a full-circle moment, singing a duet with Alicia Keys on the same song she covered 16 years ago.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-03-28T15:07:07.000Z",
+    "url": "https://www.billboard.com/music/latin/ca7riel-paco-amoroso-free-spirits-nyc-uplifting-moments-1236209160/",
+    "imageUrl": null,
+    "tags": [
+      "Spotify"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-03-29T05:54:08.330Z"
+  },
+  {
+    "id": "news-1774763648330-51",
+    "title": "‘Amen’ Again: Shaboozey & Jelly Roll Earn a Rare Multi-Week No. 1 Collab",
+    "summary": "The song tops Country Airplay for a second week.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-03-28T15:00:13.000Z",
+    "url": "https://www.billboard.com/music/chart-beat/shaboozey-jelly-roll-multi-week-number-one-collab-1236208789/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-03-29T05:54:08.330Z"
+  },
+  {
+    "id": "news-1774763648328-3",
+    "title": "Anthropic’s Claude popularity with paying consumers is skyrocketing",
+    "summary": "Estimates for total Claude consumer users are all over the map (we've seen figures ranging from 18 million to 30 million). Anthropic hasn't disclosed this data, but a spokesperson did tell TechCrunch that Claude paid subscriptions have more than doubled this year.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-03-28T14:15:00.000Z",
+    "url": "https://techcrunch.com/2026/03/28/anthropics-claude-popularity-with-paying-consumers-is-skyrocketing/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-03-29T05:54:08.328Z"
+  },
+  {
+    "id": "news-1774763648330-52",
+    "title": "Paul McCartney’s Fonda Setlist: Every Song From the First Night of His Two-Night Hollywood Stand",
+    "summary": "A captivating McCartney joyously soared through 21 songs before an adoring audience.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-03-28T13:04:52.000Z",
+    "url": "https://www.billboard.com/lists/paul-mccartney-fonda-setlist-recap/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-03-29T05:54:08.330Z"
+  },
+  {
+    "id": "news-1774763648329-23",
+    "title": "NVIDIA AI Unveils ProRL Agent: A Decoupled Rollout-as-a-Service Infrastructure for Reinforcement Learning of Multi-Turn LLM Agents at Scale",
+    "summary": "NVIDIA researchers introduced ProRL AGENT, a scalable infrastructure designed for reinforcement learning (RL) training of multi-turn LLM agents. By adopting a ‘Rollout-as-a-Service’ philosophy, the system decouples agentic rollout orchestration from the training loop. This architectural shift addresses the inherent resource conflicts between I/O-intensive environment interactions and GPU-intensive policy updates that currently bottleneck agent development. The […]\nThe post NVID",
+    "category": "ai-research",
+    "source": "MarkTechPost",
+    "author": "Unknown",
+    "publishedAt": "2026-03-28T05:38:49.000Z",
+    "url": "https://www.marktechpost.com/2026/03/27/nvidia-ai-unveils-prorl-agent-a-decoupled-rollout-as-a-service-infrastructure-for-reinforcement-learning-of-multi-turn-llm-agents-at-scale/",
+    "imageUrl": null,
+    "tags": [
+      "AI",
+      "Research"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-03-29T05:54:08.329Z"
+  },
+  {
+    "id": "news-1774763648330-30",
     "title": "AI Research Is Getting Harder to Separate From Geopolitics",
     "summary": "A policy change announced by NeurIPS, the world’s leading AI research conference, drew widespread backlash from Chinese researchers this week and then was quickly reversed.",
     "category": "ai-research",
@@ -42,10 +250,10 @@
       "Research"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-03-28T05:14:08.241Z"
+    "fetchedAt": "2026-03-29T05:54:08.330Z"
   },
   {
-    "id": "news-1774674848240-0",
+    "id": "news-1774763648328-4",
     "title": "Why SoftBank’s new $40B loan points to a 2026 OpenAI IPO",
     "summary": "Wall Street giants JPMorgan and Goldman Sachs are extending a 12-month, unsecured loan to the Japanese conglomerate. ",
     "category": "ai-research",
@@ -58,38 +266,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-03-28T05:14:08.240Z"
+    "fetchedAt": "2026-03-29T05:54:08.328Z"
   },
   {
-    "id": "news-1774674848242-47",
-    "title": "‘This Project Feels Like My Final Form’: Slayyyter Talks About Her New Album, Which Might Be Her Last Album Too",
-    "summary": "Wor$t Girl In America is out today (March 27) via Columbia Records. ",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-03-27T20:18:11.000Z",
-    "url": "https://www.billboard.com/music/pop/slayyyter-worst-girl-in-america-album-interview-1236208681/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-03-28T05:14:08.242Z"
-  },
-  {
-    "id": "news-1774674848242-48",
-    "title": "Niall Horan Avoids Doing This at Shows When His Former 1D Bandmates Are Also Touring: ‘It’d Be a Bit Stupid’",
-    "summary": "The singer also revealed which One Direction songs he thinks are \"underrated.\"",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-03-27T20:08:48.000Z",
-    "url": "https://www.billboard.com/music/music-news/niall-horan-touring-same-time-harry-styles-1236208831/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-03-28T05:14:08.242Z"
-  },
-  {
-    "id": "news-1774674848241-21",
+    "id": "news-1774763648329-24",
     "title": "An Implementation of IWE’s Context Bridge as an AI-Powered Knowledge Graph with Agentic RAG, OpenAI Function Calling, and Graph Traversal",
     "summary": "In this tutorial, we implement IWE: an open-source, Rust-powered personal knowledge management system that treats markdown notes as a navigable knowledge graph. Since IWE is a CLI/LSP tool designed for local editors. We build a realistic developer knowledge base from scratch, wire up wiki-links and markdown links into a directed graph, and then walk through […]\nThe post An Implementation of IWE’s Context Bridge as an AI-Powered Knowledge Graph with Agentic RAG, OpenAI Function Callin",
     "category": "ai-research",
@@ -102,12 +282,12 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-03-28T05:14:08.241Z"
+    "fetchedAt": "2026-03-29T05:54:08.329Z"
   },
   {
-    "id": "news-1774674848241-22",
-    "title": "openJiuwen Community Releases ‘JiuwenClaw’: A Self Evolving AI Agent for Task Management",
-    "summary": "Over the past year, AI agents have evolved from merely answering questions to attempting to get real tasks done. However, a significant bottleneck has emerged: while most agents may appear intelligent during a conversation, they often ‘drop the ball’ when it comes to executing real-world tasks. Whether it’s an office workflow that breaks when requirements […]\nThe post openJiuwen Community Releases ‘JiuwenClaw’: A Self Evolving AI Agent for Task Management appeared f",
+    "id": "news-1774763648329-25",
+    "title": "Not Just Understanding, But Evolving: The All-New Self-Evolving JiuwenClaw Makes Its Debut",
+    "summary": "Over the past year, AI agents have evolved from merely answering questions to attempting to get real tasks done. However, a significant bottleneck has emerged: while most agents may appear intelligent during a conversation, they often ‘drop the ball’ when it comes to executing real-world tasks. Whether it’s an office workflow that breaks when requirements […]\nThe post Not Just Understanding, But Evolving: The All-New Self-Evolving JiuwenClaw Makes Its Debut appeared first on Ma",
     "category": "ai-research",
     "source": "MarkTechPost",
     "author": "Unknown",
@@ -118,10 +298,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-03-28T05:14:08.241Z"
+    "fetchedAt": "2026-03-29T05:54:08.329Z"
   },
   {
-    "id": "news-1774674848242-36",
+    "id": "news-1774763648330-36",
     "title": "Russ talks ownership, fan engagement and ‘making music every day’ at SXSW",
     "summary": "About two months ago, Russ became the second-highest RIAA-certified independent rapper in history. \nSource",
     "category": "industry-news",
@@ -132,182 +312,6 @@
     "imageUrl": null,
     "tags": [],
     "readTime": 1,
-    "fetchedAt": "2026-03-28T05:14:08.242Z"
-  },
-  {
-    "id": "news-1774674848242-37",
-    "title": "Record labels and Spotify seek $322M default judgment from pirate group Anna’s Archive",
-    "summary": "A motion for default judgment and an accompanying memorandum of law were filed on March 25.\nSource",
-    "category": "industry-news",
-    "source": "Music Business Worldwide",
-    "author": "Unknown",
-    "publishedAt": "2026-03-27T16:15:01.000Z",
-    "url": "https://www.musicbusinessworldwide.com/record-labels-and-spotify-seek-322m-default-judgment-from-pirate-group-annas-archive/",
-    "imageUrl": null,
-    "tags": [
-      "Spotify"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-03-28T05:14:08.242Z"
-  },
-  {
-    "id": "news-1774674848242-38",
-    "title": "United Talent Agency promotes seven execs to Partner within music division",
-    "summary": "Elevations span UTA LIVE, Creators, Sports and Filmed Entertainment as agency expands senior leadership ranks\n\nSource",
-    "category": "industry-news",
-    "source": "Music Business Worldwide",
-    "author": "Unknown",
-    "publishedAt": "2026-03-27T15:41:45.000Z",
-    "url": "https://www.musicbusinessworldwide.com/united-talent-agency-promotes-seven-execs-to-partner-within-music-division/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-03-28T05:14:08.242Z"
-  },
-  {
-    "id": "news-1774674848240-1",
-    "title": "VCs are betting billions on AI’s next wave, so why is OpenAI killing Sora?",
-    "summary": "When an 82-year-old Kentucky woman was offered $26 million from an AI company that wanted to build a data center on her land, she said no. Sure, that same company can try to rezone 2,000 acres nearby anyway, but as AI infrastructure stretches further into the real world, the real world is starting to push back.  That tension is everywhere […]",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-03-27T15:40:19.000Z",
-    "url": "https://techcrunch.com/podcast/vcs-are-betting-billions-on-ais-next-wave-so-why-is-openai-killing-sora/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-03-28T05:14:08.240Z"
-  },
-  {
-    "id": "news-1774674848242-39",
-    "title": "Deezer licenses AI music detection technology to Hungarian rights organization EJI",
-    "summary": "CMO becomes first in Hungary to deploy Deezer's AI detection tech.\nSource",
-    "category": "industry-news",
-    "source": "Music Business Worldwide",
-    "author": "Unknown",
-    "publishedAt": "2026-03-27T15:33:55.000Z",
-    "url": "https://www.musicbusinessworldwide.com/deezer-licenses-ai-music-detection-technology-to-hungarian-rights-organization-eji/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-03-28T05:14:08.242Z"
-  },
-  {
-    "id": "news-1774674848241-31",
-    "title": "Apple Still Plans to Sell iPhones When It Turns 100",
-    "summary": "As the tech giant turns 50, WIRED spoke to executives about how they plan to win in the AI era.",
-    "category": "tech-innovation",
-    "source": "Wired AI",
-    "author": "Unknown",
-    "publishedAt": "2026-03-27T15:00:00.000Z",
-    "url": "https://www.wired.com/story/apple-50-year-anniversary-artificial-intelligence-iphone/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-03-28T05:14:08.242Z"
-  },
-  {
-    "id": "news-1774674848240-2",
-    "title": "OpenAI shuts down Sora while Meta gets shut out in court",
-    "summary": "When an 82-year-old Kentucky woman was offered $26 million from an AI company that wanted to build a data center on her land, she said no. Sure, that same company can try to rezone 2,000 acres nearby anyway, but as AI infrastructure stretches further into the real world, the real world is starting to push back.  That tension is everywhere […]",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-03-27T13:30:00.000Z",
-    "url": "https://techcrunch.com/video/openai-shuts-down-sora-while-meta-gets-shut-out-in-court/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-03-28T05:14:08.240Z"
-  },
-  {
-    "id": "news-1774674848242-32",
-    "title": "The Latest AI Documentary Asks: Just How Scared Should We Be?",
-    "summary": "The AI Doc: Or How I Became an Apocaloptimist seeks the middle ground on a polarizing technology—and ends up letting tech execs like Sam Altman off the hook.",
-    "category": "tech-innovation",
-    "source": "Wired AI",
-    "author": "Unknown",
-    "publishedAt": "2026-03-27T11:00:00.000Z",
-    "url": "https://www.wired.com/story/a-new-ai-documentary-puts-ceos-in-the-hot-seat-but-goes-too-easy-on-them/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-03-28T05:14:08.242Z"
-  },
-  {
-    "id": "news-1774674848242-33",
-    "title": "I Asked ChatGPT 500 Questions. Here Are the Ads I Saw Most Often",
-    "summary": "Ads are rolling out across the US on ChatGPT’s free tier. I asked OpenAI's bot 500 questions to see what these ads were like and how they related to my prompts.",
-    "category": "ai-research",
-    "source": "Wired AI",
-    "author": "Unknown",
-    "publishedAt": "2026-03-27T10:30:00.000Z",
-    "url": "https://www.wired.com/story/i-asked-chatgpt-500-questions-here-are-the-ads-i-saw-most-often/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-03-28T05:14:08.242Z"
-  },
-  {
-    "id": "news-1774674848241-23",
-    "title": "Google Releases Gemini 3.1 Flash Live: A Real-Time Multimodal Voice Model for Low-Latency Audio, Video, and Tool Use for AI Agents",
-    "summary": "Google has released Gemini 3.1 Flash Live in preview for developers through the Gemini Live API in Google AI Studio. This model targets low-latency, more natural, and more reliable real-time voice interactions, serving as Google’s ‘highest-quality audio and speech model to date.’ By natively processing multimodal streams, the release provides a technical foundation for building […]\nThe post Google Releases Gemini 3.1 Flash Live: A Real-Time Multimodal Voice Model for Low-Latenc",
-    "category": "ai-research",
-    "source": "MarkTechPost",
-    "author": "Unknown",
-    "publishedAt": "2026-03-27T02:38:45.000Z",
-    "url": "https://www.marktechpost.com/2026/03/26/google-releases-gemini-3-1-flash-live-a-real-time-multimodal-voice-model-for-low-latency-audio-video-and-tool-use-for-ai-agents/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-03-28T05:14:08.241Z"
-  },
-  {
-    "id": "news-1774674848240-3",
-    "title": "David Sacks is done as AI czar — here’s what he’s doing instead",
-    "summary": "Sacks will be much further from the power center in Washington than since the outset of this second Trump administration.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-03-27T01:26:40.000Z",
-    "url": "https://techcrunch.com/2026/03/26/david-sacks-is-done-as-ai-czar-heres-what-hes-doing-instead/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-03-28T05:14:08.240Z"
-  },
-  {
-    "id": "news-1774674848240-4",
-    "title": "Anthropic wins injunction against Trump administration over Defense Department saga",
-    "summary": "A federal judge has ordered that the Trump administration rescind recent restrictions it placed on the AI company. ",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-03-27T01:18:38.000Z",
-    "url": "https://techcrunch.com/2026/03/26/anthropic-wins-injunction-against-trump-administration-over-defense-department-saga/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-03-28T05:14:08.240Z"
+    "fetchedAt": "2026-03-29T05:54:08.330Z"
   }
 ]
