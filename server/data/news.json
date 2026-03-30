@@ -1,6 +1,217 @@
 [
   {
-    "id": "news-1774763648329-21",
+    "id": "news-1774851435799-0",
+    "title": "Why OpenAI really shut down Sora",
+    "summary": "OpenAI's decision last week to shut down Sora, its AI video-generation tool, just six months after releasing it to the public raised immediate suspicions. The app had invited users to upload their own faces — so was this some kind of elaborate data grab? ",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-03-30T03:09:38.000Z",
+    "url": "https://techcrunch.com/2026/03/29/why-openai-really-shut-down-sora/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-03-30T06:17:15.799Z"
+  },
+  {
+    "id": "news-1774851435801-23",
+    "title": "Agent-Infra Releases AIO Sandbox: An All-in-One Runtime for AI Agents with Browser, Shell, Shared Filesystem, and MCP",
+    "summary": "In the development of autonomous agents, the technical bottleneck is shifting from model reasoning to the execution environment. While Large Language Models (LLMs) can generate code and multi-step plans, providing a functional and isolated environment for that code to run remains a significant infrastructure challenge. Agent-Infra’s Sandbox, an open-source project, addresses this by providing an […]\nThe post Agent-Infra Releases AIO Sandbox: An All-in-One Runtime for AI Agents with Browser",
+    "category": "ai-research",
+    "source": "MarkTechPost",
+    "author": "Unknown",
+    "publishedAt": "2026-03-30T00:04:53.000Z",
+    "url": "https://www.marktechpost.com/2026/03/29/agent-infra-releases-aio-sandbox-an-all-in-one-runtime-for-ai-agents-with-browser-shell-shared-filesystem-and-mcp/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-03-30T06:17:15.801Z"
+  },
+  {
+    "id": "news-1774851435801-24",
+    "title": "How to Build Advanced Cybersecurity AI Agents with CAI Using Tools, Guardrails, Handoffs, and Multi-Agent Workflows",
+    "summary": "In this tutorial, we build and explore the CAI Cybersecurity AI Framework step by step in Colab using an OpenAI-compatible model. We begin by setting up the environment, securely loading the API key, and creating a base agent. We gradually move into more advanced capabilities such as custom function tools, multi-agent handoffs, agent orchestration, input […]\nThe post How to Build Advanced Cybersecurity AI Agents with CAI Using Tools, Guardrails, Handoffs, and Multi-Agent Workflows appeared",
+    "category": "ai-research",
+    "source": "MarkTechPost",
+    "author": "Unknown",
+    "publishedAt": "2026-03-29T23:28:57.000Z",
+    "url": "https://www.marktechpost.com/2026/03/29/how-to-build-advanced-cybersecurity-ai-agents-with-cai-using-tools-guardrails-handoffs-and-multi-agent-workflows/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-03-30T06:17:15.801Z"
+  },
+  {
+    "id": "news-1774851435803-48",
+    "title": "Grupo Frontera, Guns N’ Roses & Turnstile Among Best of Day 2 of Tecate Pa’l Norte 2026",
+    "summary": "Los Fabulosos Cadillacs and The Warning were also among the highlights on the second day of the festival in Monterrey, Mexico.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-03-29T23:05:08.000Z",
+    "url": "https://www.billboard.com/lists/tecate-pal-norte-2026-grupo-frontera-among-best-of-day-2/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-03-30T06:17:15.803Z"
+  },
+  {
+    "id": "news-1774851435803-49",
+    "title": "DJ Dan, Legendary West Coast House Producer, Confirmed Dead",
+    "summary": "A cause of death has not yet been revealed. ",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-03-29T22:15:35.000Z",
+    "url": "https://www.billboard.com/music/music-news/dj-dan-death-1236209595/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-03-30T06:17:15.803Z"
+  },
+  {
+    "id": "news-1774851435803-50",
+    "title": "Fans Choose Melanie Martinez’s ‘HADES’ as This Week’s Favorite New Music",
+    "summary": "Her new album brought in more than 67% of the vote.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-03-29T21:43:03.000Z",
+    "url": "https://www.billboard.com/music/music-news/melanie-martinez-hades-favorite-new-music-poll-results-1236209608/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-03-30T06:17:15.803Z"
+  },
+  {
+    "id": "news-1774851435803-51",
+    "title": "BTS Earns 7th No. 1 Album on Billboard 200 With ‘ARIRANG’",
+    "summary": "Plus, Luke Combs captures his seventh top 10 album with The Way I Am.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-03-29T19:00:10.000Z",
+    "url": "https://www.billboard.com/music/chart-beat/bts-arirang-no1-billboard-200-albums-chart-1236209566/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-03-30T06:17:15.803Z"
+  },
+  {
+    "id": "news-1774851435803-52",
+    "title": "Every Song Played During the Eric Prydz & Swedish House Mafia Reunion at Ultra Music Festival 2026",
+    "summary": "The 17-minute set marked the first time that the Swedish House Mafia founding members played together in 20 years. ",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-03-29T18:44:05.000Z",
+    "url": "https://www.billboard.com/lists/eric-prydz-swedish-house-mafia-ultra-miami-2026-setlist/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-03-30T06:17:15.803Z"
+  },
+  {
+    "id": "news-1774851435801-25",
+    "title": "Meet A-Evolve: The PyTorch Moment For Agentic AI Systems Replacing Manual Tuning With Automated State Mutation And Self-Correction",
+    "summary": "A team of researchers associated with Amazon has released A-Evolve, a universal infrastructure designed to automate the development of autonomous AI agents. The framework aims to replace the ‘manual harness engineering’ that currently defines agent development with a systematic, automated evolution process. The project is being described as a potential ‘PyTorch moment’ for agentic AI. […]\nThe post Meet A-Evolve: The PyTorch Moment For Agentic AI Systems Replacing Ma",
+    "category": "ai-research",
+    "source": "MarkTechPost",
+    "author": "Unknown",
+    "publishedAt": "2026-03-29T18:17:23.000Z",
+    "url": "https://www.marktechpost.com/2026/03/29/meet-a-evolve-the-pytorch-moment-for-agentic-ai-systems-replacing-manual-tuning-with-automated-state-mutation-and-self-correction/",
+    "imageUrl": null,
+    "tags": [
+      "AI",
+      "Research"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-03-30T06:17:15.801Z"
+  },
+  {
+    "id": "news-1774851435803-53",
+    "title": "Guns N’ Roses Kick Off 2026 World Tour in Mexico: Here Is the Complete Setlist",
+    "summary": "The trek started on March 28 at the Tecate Pa’l Norte festival in Monterrey.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-03-29T17:28:42.000Z",
+    "url": "https://www.billboard.com/lists/guns-n-roses-2026-tour-setlist-mexico/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-03-30T06:17:15.803Z"
+  },
+  {
+    "id": "news-1774851435799-1",
+    "title": "Sora’s shutdown could be a reality check moment for AI video",
+    "summary": "Is this just normal corporate strategy, or are we about to see a broader pullback on AI-generated video?",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-03-29T16:30:00.000Z",
+    "url": "https://techcrunch.com/2026/03/29/soras-shutdown-could-be-a-reality-check-moment-for-ai-video/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-03-30T06:17:15.799Z"
+  },
+  {
+    "id": "news-1774851435801-26",
+    "title": "Chroma Releases Context-1: A 20B Agentic Search Model for Multi-Hop Retrieval, Context Management, and Scalable Synthetic Task Generation",
+    "summary": "In the current AI landscape, the ‘context window’ has become a blunt instrument. We’ve been told that if we simply expand the memory of a frontier model, the retrieval problem disappears. But as any AI professionals building RAG (Retrieval-Augmented Generation) systems knows, stuffing a million tokens into a prompt often leads to higher latency, astronomical […]\nThe post Chroma Releases Context-1: A 20B Agentic Search Model for Multi-Hop Retrieval, Context Management, and Scala",
+    "category": "ai-research",
+    "source": "MarkTechPost",
+    "author": "Unknown",
+    "publishedAt": "2026-03-29T08:25:09.000Z",
+    "url": "https://www.marktechpost.com/2026/03/29/chroma-releases-context-1-a-20b-agentic-search-model-for-multi-hop-retrieval-context-management-and-scalable-synthetic-task-generation/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-03-30T06:17:15.801Z"
+  },
+  {
+    "id": "news-1774851435803-54",
+    "title": "Weezer Play Acoustic Rooftop Set in Venice Beach Following Tour Announcement",
+    "summary": "The rooftop performance was part of a broader run of Los Angeles-area activations the band dubbed \"Weezer: The Gathering – Initiation Week.\"",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-03-29T07:16:24.000Z",
+    "url": "https://www.billboard.com/music/music-news/weezer-rooftop-set-venice-beach-1236209386/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-03-30T06:17:15.803Z"
+  },
+  {
+    "id": "news-1774851435801-27",
+    "title": "Google-Agent vs Googlebot: Google Defines the Technical Boundary Between User Triggered AI Access and Search Crawling Systems Today",
+    "summary": "As Google integrates AI capabilities across its product suite, a new technical entity has surfaced in server logs: Google-Agent. For software devs, understanding this entity is critical for distinguishing between automated indexers and real-time, user-initiated requests. Unlike the autonomous crawlers that have defined the web for decades, Google-Agent operates under a different set of rules […]\nThe post Google-Agent vs Googlebot: Google Defines the Technical Boundary Between User Triggere",
+    "category": "ai-research",
+    "source": "MarkTechPost",
+    "author": "Unknown",
+    "publishedAt": "2026-03-29T06:03:27.000Z",
+    "url": "https://www.marktechpost.com/2026/03/28/google-agent-vs-googlebot-google-defines-the-technical-boundary-between-user-triggered-ai-access-and-search-crawling-systems-today/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-03-30T06:17:15.801Z"
+  },
+  {
+    "id": "news-1774851435801-28",
     "title": "A Coding Guide to Exploring nanobot’s Full Agent Pipeline, from Wiring Up Tools and Memory to Skills, Subagents, and Cron Scheduling",
     "summary": "In this tutorial, we take a deep dive into nanobot, the ultra-lightweight personal AI agent framework from HKUDS that packs full agent capabilities into roughly 4,000 lines of Python. Rather than simply installing and running it out of the box, we crack open the hood and manually recreate each of its core subsystems, the agent […]\nThe post A Coding Guide to Exploring nanobot’s Full Agent Pipeline, from Wiring Up Tools and Memory to Skills, Subagents, and Cron Scheduling appeared firs",
     "category": "ai-research",
@@ -13,40 +224,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-03-29T05:54:08.329Z"
+    "fetchedAt": "2026-03-30T06:17:15.801Z"
   },
   {
-    "id": "news-1774763648330-45",
-    "title": "Ye’s ‘Bully’ Album: All 18 Tracks Ranked",
-    "summary": "Yeezy season has returned. ",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-03-29T00:18:51.000Z",
-    "url": "https://www.billboard.com/lists/kanye-west-bully-tracks-ranked-best-songs/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-03-29T05:54:08.330Z"
-  },
-  {
-    "id": "news-1774763648330-46",
-    "title": "Ye Returns With ‘Father’ Video, Featuring Travis Scott and Directed by Bianca Censori",
-    "summary": "The track is from Ye's just-released Bully album, streaming now.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-03-28T23:31:23.000Z",
-    "url": "https://www.billboard.com/music/music-news/kanye-west-father-video-bully-album-stream-1236209300/",
-    "imageUrl": null,
-    "tags": [
-      "Streaming"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-03-29T05:54:08.330Z"
-  },
-  {
-    "id": "news-1774763648327-0",
+    "id": "news-1774851435799-2",
     "title": "Bluesky leans into AI with Attie, an app for building custom feeds",
     "summary": "Bluesky’s new app Attie uses AI to help people build custom feeds the open social networking protocol atproto.",
     "category": "ai-research",
@@ -59,10 +240,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-03-29T05:54:08.327Z"
+    "fetchedAt": "2026-03-30T06:17:15.799Z"
   },
   {
-    "id": "news-1774763648329-22",
+    "id": "news-1774851435801-29",
     "title": "Mistral AI Releases Voxtral TTS: A 4B Open-Weight Streaming Speech Model for Low-Latency Multilingual Voice Generation",
     "summary": "Mistral AI has released Voxtral TTS, an open-weight text-to-speech model that marks the company’s first major move into audio generation. Following the release of its transcription and language models, Mistral is now providing the final ‘output layer’ of the audio stack, positioning itself as a direct competitor to proprietary voice APIs in the developer ecosystem. […]\nThe post Mistral AI Releases Voxtral TTS: A 4B Open-Weight Streaming Speech Model for Low-Latency Multilingual",
     "category": "tech-innovation",
@@ -76,41 +257,10 @@
       "Streaming"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-03-29T05:54:08.329Z"
+    "fetchedAt": "2026-03-30T06:17:15.801Z"
   },
   {
-    "id": "news-1774763648330-47",
-    "title": "Watch Fred again.. & Thomas Bangalter’s Complete Set From London’s Alexandra Palace: ‘This Has Been the Greatest Show of My Life’",
-    "summary": "The historic February performance is now streaming on YouTube. ",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-03-28T20:57:42.000Z",
-    "url": "https://www.billboard.com/music/music-news/fred-again-thomas-bangalter-daft-punk-ally-pally-stream-1236209268/",
-    "imageUrl": null,
-    "tags": [
-      "AI",
-      "Streaming"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-03-29T05:54:08.330Z"
-  },
-  {
-    "id": "news-1774763648330-48",
-    "title": "Tyler, The Creator, Deftones & Jackson Wang Among Best of Day 1 of Tecate Pa’l Norte 2026",
-    "summary": "Interpol and Morat also shone on the first day of the massive festival in Monterrey, Mexico.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-03-28T20:51:10.000Z",
-    "url": "https://www.billboard.com/lists/tecate-pal-norte-2026-day-1-best-tyler-the-creator-deftones/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-03-29T05:54:08.330Z"
-  },
-  {
-    "id": "news-1774763648327-1",
+    "id": "news-1774851435799-3",
     "title": "Stanford study outlines dangers of asking AI chatbots for personal advice",
     "summary": "While there’s been plenty of debate about AI sycophancy, a new study by Stanford computer scientists attempts to measure how harmful that tendency might be.",
     "category": "ai-research",
@@ -124,24 +274,10 @@
       "Research"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-03-29T05:54:08.327Z"
+    "fetchedAt": "2026-03-30T06:17:15.799Z"
   },
   {
-    "id": "news-1774763648330-49",
-    "title": "‘Saturday Night Live UK’: Where to Watch the British Version of the Sketch Comedy Show Online for Free",
-    "summary": "SNL UK has Jamie Dornan as host and Wolf Alice as musical guest.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-03-28T17:00:07.000Z",
-    "url": "https://www.billboard.com/culture/product-recommendations/how-to-watch-saturday-night-live-uk-online-free-1236203547/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-03-29T05:54:08.330Z"
-  },
-  {
-    "id": "news-1774763648327-2",
+    "id": "news-1774851435799-4",
     "title": "Elon Musk’s last co-founder reportedly leaves xAI",
     "summary": "All but two of Musk's 11 xAI co-founders departed before this week.",
     "category": "ai-research",
@@ -154,42 +290,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-03-29T05:54:08.327Z"
+    "fetchedAt": "2026-03-30T06:17:15.799Z"
   },
   {
-    "id": "news-1774763648330-50",
-    "title": "CA7RIEL & Paco Amoroso Bring ‘Free Spirits’ to Life at NYC Spotify Show & More Uplifting Moments in Latin Music",
-    "summary": "Plus, Karol G lives a full-circle moment, singing a duet with Alicia Keys on the same song she covered 16 years ago.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-03-28T15:07:07.000Z",
-    "url": "https://www.billboard.com/music/latin/ca7riel-paco-amoroso-free-spirits-nyc-uplifting-moments-1236209160/",
-    "imageUrl": null,
-    "tags": [
-      "Spotify"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-03-29T05:54:08.330Z"
-  },
-  {
-    "id": "news-1774763648330-51",
-    "title": "‘Amen’ Again: Shaboozey & Jelly Roll Earn a Rare Multi-Week No. 1 Collab",
-    "summary": "The song tops Country Airplay for a second week.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-03-28T15:00:13.000Z",
-    "url": "https://www.billboard.com/music/chart-beat/shaboozey-jelly-roll-multi-week-number-one-collab-1236208789/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-03-29T05:54:08.330Z"
-  },
-  {
-    "id": "news-1774763648328-3",
+    "id": "news-1774851435799-5",
     "title": "Anthropic’s Claude popularity with paying consumers is skyrocketing",
     "summary": "Estimates for total Claude consumer users are all over the map (we've seen figures ranging from 18 million to 30 million). Anthropic hasn't disclosed this data, but a spokesperson did tell TechCrunch that Claude paid subscriptions have more than doubled this year.",
     "category": "ai-research",
@@ -202,116 +306,6 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-03-29T05:54:08.328Z"
-  },
-  {
-    "id": "news-1774763648330-52",
-    "title": "Paul McCartney’s Fonda Setlist: Every Song From the First Night of His Two-Night Hollywood Stand",
-    "summary": "A captivating McCartney joyously soared through 21 songs before an adoring audience.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-03-28T13:04:52.000Z",
-    "url": "https://www.billboard.com/lists/paul-mccartney-fonda-setlist-recap/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-03-29T05:54:08.330Z"
-  },
-  {
-    "id": "news-1774763648329-23",
-    "title": "NVIDIA AI Unveils ProRL Agent: A Decoupled Rollout-as-a-Service Infrastructure for Reinforcement Learning of Multi-Turn LLM Agents at Scale",
-    "summary": "NVIDIA researchers introduced ProRL AGENT, a scalable infrastructure designed for reinforcement learning (RL) training of multi-turn LLM agents. By adopting a ‘Rollout-as-a-Service’ philosophy, the system decouples agentic rollout orchestration from the training loop. This architectural shift addresses the inherent resource conflicts between I/O-intensive environment interactions and GPU-intensive policy updates that currently bottleneck agent development. The […]\nThe post NVID",
-    "category": "ai-research",
-    "source": "MarkTechPost",
-    "author": "Unknown",
-    "publishedAt": "2026-03-28T05:38:49.000Z",
-    "url": "https://www.marktechpost.com/2026/03/27/nvidia-ai-unveils-prorl-agent-a-decoupled-rollout-as-a-service-infrastructure-for-reinforcement-learning-of-multi-turn-llm-agents-at-scale/",
-    "imageUrl": null,
-    "tags": [
-      "AI",
-      "Research"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-03-29T05:54:08.329Z"
-  },
-  {
-    "id": "news-1774763648330-30",
-    "title": "AI Research Is Getting Harder to Separate From Geopolitics",
-    "summary": "A policy change announced by NeurIPS, the world’s leading AI research conference, drew widespread backlash from Chinese researchers this week and then was quickly reversed.",
-    "category": "ai-research",
-    "source": "Wired AI",
-    "author": "Unknown",
-    "publishedAt": "2026-03-27T21:46:39.000Z",
-    "url": "https://www.wired.com/story/made-in-china-ai-research-is-starting-to-split-along-geopolitical-lines/",
-    "imageUrl": null,
-    "tags": [
-      "AI",
-      "Research"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-03-29T05:54:08.330Z"
-  },
-  {
-    "id": "news-1774763648328-4",
-    "title": "Why SoftBank’s new $40B loan points to a 2026 OpenAI IPO",
-    "summary": "Wall Street giants JPMorgan and Goldman Sachs are extending a 12-month, unsecured loan to the Japanese conglomerate. ",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-03-27T21:44:45.000Z",
-    "url": "https://techcrunch.com/2026/03/27/why-softbanks-new-40b-loan-points-to-a-2026-openai-ipo/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-03-29T05:54:08.328Z"
-  },
-  {
-    "id": "news-1774763648329-24",
-    "title": "An Implementation of IWE’s Context Bridge as an AI-Powered Knowledge Graph with Agentic RAG, OpenAI Function Calling, and Graph Traversal",
-    "summary": "In this tutorial, we implement IWE: an open-source, Rust-powered personal knowledge management system that treats markdown notes as a navigable knowledge graph. Since IWE is a CLI/LSP tool designed for local editors. We build a realistic developer knowledge base from scratch, wire up wiki-links and markdown links into a directed graph, and then walk through […]\nThe post An Implementation of IWE’s Context Bridge as an AI-Powered Knowledge Graph with Agentic RAG, OpenAI Function Callin",
-    "category": "ai-research",
-    "source": "MarkTechPost",
-    "author": "Unknown",
-    "publishedAt": "2026-03-27T20:06:55.000Z",
-    "url": "https://www.marktechpost.com/2026/03/27/an-implementation-of-iwes-context-bridge-as-an-ai-powered-knowledge-graph-with-agentic-rag-openai-function-calling-and-graph-traversal/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-03-29T05:54:08.329Z"
-  },
-  {
-    "id": "news-1774763648329-25",
-    "title": "Not Just Understanding, But Evolving: The All-New Self-Evolving JiuwenClaw Makes Its Debut",
-    "summary": "Over the past year, AI agents have evolved from merely answering questions to attempting to get real tasks done. However, a significant bottleneck has emerged: while most agents may appear intelligent during a conversation, they often ‘drop the ball’ when it comes to executing real-world tasks. Whether it’s an office workflow that breaks when requirements […]\nThe post Not Just Understanding, But Evolving: The All-New Self-Evolving JiuwenClaw Makes Its Debut appeared first on Ma",
-    "category": "ai-research",
-    "source": "MarkTechPost",
-    "author": "Unknown",
-    "publishedAt": "2026-03-27T17:02:48.000Z",
-    "url": "https://www.marktechpost.com/2026/03/27/openjiuwen-community-releases-jiuwenclaw-a-self-evolving-ai-agent-for-task-management/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-03-29T05:54:08.329Z"
-  },
-  {
-    "id": "news-1774763648330-36",
-    "title": "Russ talks ownership, fan engagement and ‘making music every day’ at SXSW",
-    "summary": "About two months ago, Russ became the second-highest RIAA-certified independent rapper in history. \nSource",
-    "category": "industry-news",
-    "source": "Music Business Worldwide",
-    "author": "Unknown",
-    "publishedAt": "2026-03-27T16:33:32.000Z",
-    "url": "https://www.musicbusinessworldwide.com/russ-talks-ownership-fan-engagement-and-making-music-every-day-at-sxsw/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-03-29T05:54:08.330Z"
+    "fetchedAt": "2026-03-30T06:17:15.799Z"
   }
 ]
