@@ -1,6 +1,309 @@
 [
   {
-    "id": "news-1774936561326-24",
+    "id": "news-1775023952649-44",
+    "title": "Bruce Springsteen Opens 2026 Tour in Minneapolis: Every Song He Played at the First Show",
+    "summary": "The Boss kicked off his Land of Hopes and Dreams American Tour at the Target Center in Minneapolis. ",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-04-01T05:02:45.000Z",
+    "url": "https://www.billboard.com/lists/bruce-springsteen-tour-minneapolis-setlist/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-04-01T06:12:32.649Z"
+  },
+  {
+    "id": "news-1775023952647-22",
+    "title": "Liquid AI Released LFM2.5-350M: A Compact 350M Parameter Model Trained on 28T Tokens with Scaled Reinforcement Learning",
+    "summary": "In the current landscape of generative AI, the ‘scaling laws’ have generally dictated that more parameters equal more intelligence. However, Liquid AI is challenging this convention with the release of LFM2.5-350M. This model is actually a technical case study in intelligence density with additional pre-training (from 10T to 28T tokens) and large-scale reinforcement learning The […]\nThe post Liquid AI Released LFM2.5-350M: A Compact 350M Parameter Model Trained on 28T Tokens wi",
+    "category": "ai-research",
+    "source": "MarkTechPost",
+    "author": "Unknown",
+    "publishedAt": "2026-04-01T05:01:59.000Z",
+    "url": "https://www.marktechpost.com/2026/03/31/liquid-ai-released-lfm2-5-350m-a-compact-350m-parameter-model-trained-on-28t-tokens-with-scaled-reinforcement-learning/",
+    "imageUrl": null,
+    "tags": [
+      "AI",
+      "Generative AI",
+      "Research"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-04-01T06:12:32.648Z"
+  },
+  {
+    "id": "news-1775023952649-45",
+    "title": "2026 APRA Music Awards Nominations: Full List",
+    "summary": "Amyl And The Sniffers, Kevin Parker, Ninajirachi lead the 2026 APRA Music Awards nominations.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-04-01T02:59:17.000Z",
+    "url": "https://www.billboard.com/music/awards/2026-apra-music-awards-nominations-list-1236212152/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-04-01T06:12:32.649Z"
+  },
+  {
+    "id": "news-1775023952646-0",
+    "title": "Mercor says it was hit by cyberattack tied to compromise of open-source LiteLLM project",
+    "summary": "The AI recruiting startup confirmed a security incident after an extortion hacking crew took credit for stealing data from the company's systems.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-04-01T01:42:59.000Z",
+    "url": "https://techcrunch.com/2026/03/31/mercor-says-it-was-hit-by-cyberattack-tied-to-compromise-of-open-source-litellm-project/",
+    "imageUrl": null,
+    "tags": [
+      "AI",
+      "Startup"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-04-01T06:12:32.646Z"
+  },
+  {
+    "id": "news-1775023952649-46",
+    "title": "Our Picks for the Best Handheld & Clip-On Fans for Concerts & Festivals",
+    "summary": "Festival season is right around the corner, and concerts are always ongoing. Here's where you can get a fan that'll make your experience more enjoyable.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-04-01T01:36:15.000Z",
+    "url": "https://www.billboard.com/culture/product-recommendations/best-fans-for-concerts-festivals-1236211646/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-04-01T06:12:32.649Z"
+  },
+  {
+    "id": "news-1775023952649-47",
+    "title": "Taylor Swift’s Epic L.A. Weekend, From iHeartRadio Music Awards to Paul McCartney’s Star-Studded Concert",
+    "summary": "On the new Billboard Pop Shop Podcast, Katie & Keith are talking about Swift's seven iHeart wins and McCartney's Fonda Theater underplay.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-04-01T01:17:03.000Z",
+    "url": "https://www.billboard.com/media/podcasts/taylor-swift-paul-mccartney-iheart-fonda-pop-shop-podcast-1236211895/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-04-01T06:12:32.649Z"
+  },
+  {
+    "id": "news-1775023952649-48",
+    "title": "Salt-N-Pepa Music Ownership Appeal: Rappers Say UMG Unfairly Keeping ‘Lion’s Share’ of Royalties",
+    "summary": "The iconic hip-hop duo is hoping to revive its copyright termination lawsuit against the world's biggest music company.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-03-31T23:59:59.000Z",
+    "url": "https://www.billboard.com/pro/salt-n-pepa-appeal-revive-umg-music-ownership-lawsuit/",
+    "imageUrl": null,
+    "tags": [
+      "AI",
+      "Copyright"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-04-01T06:12:32.649Z"
+  },
+  {
+    "id": "news-1775023952646-1",
+    "title": "OpenAI, not yet public, raises $3B from retail investors in monster $122B fund raise",
+    "summary": "OpenAI's latest funding round, led by Amazon, Nvidia, and SoftBank, values the AI lab at $852 billion as it nears an IPO.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-03-31T21:25:04.000Z",
+    "url": "https://techcrunch.com/2026/03/31/openai-not-yet-public-raises-3b-from-retail-investors-in-monster-122b-fund-raise/",
+    "imageUrl": null,
+    "tags": [
+      "AI",
+      "Investment"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-04-01T06:12:32.646Z"
+  },
+  {
+    "id": "news-1775023952646-2",
+    "title": "Yupp shuts down after raising $33M from a16z crypto’s Chris Dixon",
+    "summary": "Less than a year after launching, with checks from some of the biggest names in Silicon Valley, crowdsourced AI model feedback startup Yupp is closing its business, the company said Tuesday.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-03-31T20:01:07.000Z",
+    "url": "https://techcrunch.com/2026/03/31/yupp-ai-shuts-down-33m-a16z-crypto-chris-dixon/",
+    "imageUrl": null,
+    "tags": [
+      "AI",
+      "Startup"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-04-01T06:12:32.646Z"
+  },
+  {
+    "id": "news-1775023952649-38",
+    "title": "Universal Music bolsters Latin America leadership with three strategic appointments",
+    "summary": "Alfredo Delgadillo has been promoted to CEO & President of Universal Music Latin Entertainment (UMLE)\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-03-31T18:40:23.000Z",
+    "url": "https://www.musicbusinessworldwide.com/universal-music-shakes-up-latin-america-leadership-with-three-strategic-appointments/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-04-01T06:12:32.649Z"
+  },
+  {
+    "id": "news-1775023952648-23",
+    "title": "How to Build and Evolve a Custom OpenAI Agent with A-Evolve Using Benchmarks, Skills, Memory, and Workspace Mutations",
+    "summary": "In this tutorial, we work directly with the A-Evolve framework in Colab and build a complete evolutionary agent pipeline from the ground up. We set up the repository, configure an OpenAI-powered agent, define a custom benchmark, and build our own evolution engine to see how A-Evolve actually improves an agent through iterative workspace mutations. Through […]\nThe post How to Build and Evolve a Custom OpenAI Agent with A-Evolve Using Benchmarks, Skills, Memory, and Workspace Mutations appea",
+    "category": "ai-research",
+    "source": "MarkTechPost",
+    "author": "Unknown",
+    "publishedAt": "2026-03-31T18:24:44.000Z",
+    "url": "https://www.marktechpost.com/2026/03/31/how-to-build-and-evolve-a-custom-openai-agent-with-a-evolve-using-benchmarks-skills-memory-and-workspace-mutations/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-04-01T06:12:32.648Z"
+  },
+  {
+    "id": "news-1775023952649-39",
+    "title": "Sony Music and University of Southern California settle copyright lawsuit over music used in social media posts",
+    "summary": "USC's athletics social media accounts allegedly featured 170 Sony-owned songs without permission.\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-03-31T17:51:24.000Z",
+    "url": "https://www.musicbusinessworldwide.com/sony-music-and-university-of-southern-california-settle-copyright-lawsuit-over-music-used-in-social-media-posts/",
+    "imageUrl": null,
+    "tags": [
+      "Copyright"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-04-01T06:12:32.649Z"
+  },
+  {
+    "id": "news-1775023952646-3",
+    "title": "Nomadic raises $8.4 million to wrangle the data pouring off autonomous vehicles",
+    "summary": "The company turns footage from robots into structured, searchable datasets with a deep learning model.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-03-31T15:00:00.000Z",
+    "url": "https://techcrunch.com/2026/03/31/nomadic-raises-8-4-million-to-wrangle-the-data-pouring-off-avs/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-04-01T06:12:32.646Z"
+  },
+  {
+    "id": "news-1775023952649-40",
+    "title": "Epidemic Sound rival Artlist now lets its users generate 3-minute AI tracks using Google’s Lyria 3 Pro music model",
+    "summary": "The integration expands Artlist's AI Toolkit, allowing it to offer AI video, image, voiceover, and now music generation into a single platform.\nSource",
+    "category": "tech-innovation",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-03-31T14:13:14.000Z",
+    "url": "https://www.musicbusinessworldwide.com/epidemic-sound-rival-artlist-integrates-googles-new-lyria-3-pro-ai-music-model-that-can-generate-3-minute-tracks/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-04-01T06:12:32.649Z"
+  },
+  {
+    "id": "news-1775023952646-4",
+    "title": "Exclusive: Runway launches $10M fund, Builders program to support early-stage AI startups",
+    "summary": "Runway is launching a $10 million fund and startup program to back companies building with its AI video models, as it pushes toward interactive, real-time “video intelligence” applications.",
+    "category": "industry-news",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-03-31T14:00:00.000Z",
+    "url": "https://techcrunch.com/2026/03/31/exclusive-runway-launches-10m-fund-builders-program-to-support-early-stage-ai-startups/",
+    "imageUrl": null,
+    "tags": [
+      "AI",
+      "Startup"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-04-01T06:12:32.646Z"
+  },
+  {
+    "id": "news-1775023952649-41",
+    "title": "SoundCloud launches superfan feature that lets artists release music exclusively to followers before wider release",
+    "summary": "Artists can use the new feature to share early demos, surprise drops, or previews ahead of a wider release.\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-03-31T13:51:53.000Z",
+    "url": "https://www.musicbusinessworldwide.com/soundcloud-launches-superfan-feature-that-lets-artists-release-music-exclusively-to-followers-before-wider-release/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-04-01T06:12:32.649Z"
+  },
+  {
+    "id": "news-1775023952646-5",
+    "title": "With its new app store, Ring bets on AI to go beyond home security",
+    "summary": "Ring's app store will allow the company to target broader use cases beyond security, like elder care or business needs.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-03-31T13:00:00.000Z",
+    "url": "https://techcrunch.com/2026/03/31/ring-app-store-bets-on-ai-to-go-beyond-home-security/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-04-01T06:12:32.646Z"
+  },
+  {
+    "id": "news-1775023952648-32",
+    "title": "AI Has Flooded All the Weather Apps",
+    "summary": "Weather forecasting has gotten a big boost from machine learning. How that translates into what users see can vary.",
+    "category": "ai-research",
+    "source": "Wired AI",
+    "author": "Unknown",
+    "publishedAt": "2026-03-31T13:00:00.000Z",
+    "url": "https://www.wired.com/story/ai-has-flooded-all-the-weather-apps/",
+    "imageUrl": null,
+    "tags": [
+      "AI",
+      "Machine Learning"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-04-01T06:12:32.648Z"
+  },
+  {
+    "id": "news-1775023952649-42",
+    "title": "Cardi B wins dismissal of copyright lawsuit over ‘Enough (Miami)’",
+    "summary": "A Texas judge found that the plaintiffs sued in the wrong place, and that the plaintiffs didn't have a copyright registered for their song when they filed the case. \nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-03-31T10:58:47.000Z",
+    "url": "https://www.musicbusinessworldwide.com/cardi-b-wins-dismissal-of-copyright-lawsuit-over-enough-miami/",
+    "imageUrl": null,
+    "tags": [
+      "AI",
+      "Copyright"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-04-01T06:12:32.649Z"
+  },
+  {
+    "id": "news-1775023952648-24",
     "title": "Alibaba Qwen Team Releases Qwen3.5 Omni: A Native Multimodal Model for Text, Audio, Video, and Realtime Interaction",
     "summary": "The landscape of multimodal large language models (MLLMs) has shifted from experimental ‘wrappers’—where separate vision or audio encoders are stitched onto a text-based backbone—to native, end-to-end ‘omnimodal’ architectures. Alibaba Qwen team latest release, Qwen3.5-Omni, represents a significant milestone in this evolution. Designed as a direct competitor to flagship models like Gemini 3.1 Pro, the Qwen3.5-Omni […]\nThe post Alibaba Qwen Team Releases Qwen3.5 Omn",
     "category": "ai-research",
@@ -11,308 +314,6 @@
     "imageUrl": null,
     "tags": [],
     "readTime": 1,
-    "fetchedAt": "2026-03-31T05:56:01.326Z"
-  },
-  {
-    "id": "news-1774936561327-45",
-    "title": "RM Expresses ‘Luv and Gratitude’ as BTS Tops the Billboard 200 & Hot 100 Charts",
-    "summary": "The band's new album ARIRANG and lead single \"SWIM\" debuted at No. 1 on the respective charts.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-03-31T00:11:56.000Z",
-    "url": "https://www.billboard.com/music/chart-beat/rm-bts-number-one-billboard-200-hot-100-charts-instagram-1236210711/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-03-31T05:56:01.327Z"
-  },
-  {
-    "id": "news-1774936561324-0",
-    "title": "15% of Americans say they’d be willing to work for an AI boss, according to new poll",
-    "summary": "According to a Quinnipiac University poll, 15% of Americans say they'd be willing to have a job where their direct supervisor was an AI program that assigned tasks and set schedules. ",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-03-30T23:41:48.000Z",
-    "url": "https://techcrunch.com/2026/03/30/ai-work-boss-supervisor-us-quinnipiac-poll/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-03-31T05:56:01.324Z"
-  },
-  {
-    "id": "news-1774936561327-46",
-    "title": "Cardi B Defeats ‘Enough (Miami)’ Song Copying Lawsuit: ‘No Factual Support’",
-    "summary": "A federal judge threw out litigation over the 2024 hit single, which Cardi has been performing on her ongoing Little Miss Drama Tour. ",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-03-30T23:28:29.000Z",
-    "url": "https://www.billboard.com/pro/cardi-b-beats-lawsuit-enough-miami-copied-song/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-03-31T05:56:01.327Z"
-  },
-  {
-    "id": "news-1774936561324-1",
-    "title": "Popular AI gateway startup LiteLLM ditches controversial startup Delve",
-    "summary": "LiteLLM had obtained two security compliance certifications via Delve and fell victim to some horrific credential-stealing malware last week.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-03-30T23:08:12.000Z",
-    "url": "https://techcrunch.com/2026/03/30/popular-ai-gateway-startup-litellm-ditches-controversial-startup-delve/",
-    "imageUrl": null,
-    "tags": [
-      "AI",
-      "Startup"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-03-31T05:56:01.324Z"
-  },
-  {
-    "id": "news-1774936561326-25",
-    "title": "Microsoft AI Releases Harrier-OSS-v1: A New Family of Multilingual Embedding Models Hitting SOTA on Multilingual MTEB v2",
-    "summary": "Microsoft has announced the release of Harrier-OSS-v1, a family of three multilingual text embedding models designed to provide high-quality semantic representations across a wide range of languages. The release includes three distinct scales: a 270M parameter model, a 0.6B model, and a 27B model. The Harrier-OSS-v1 models achieved state-of-the-art (SOTA) results on the Multilingual MTEB […]\nThe post Microsoft AI Releases Harrier-OSS-v1: A New Family of Multilingual Embedding Models Hittin",
-    "category": "tech-innovation",
-    "source": "MarkTechPost",
-    "author": "Unknown",
-    "publishedAt": "2026-03-30T22:22:49.000Z",
-    "url": "https://www.marktechpost.com/2026/03/30/microsoft-ai-releases-harrier-oss-v1-a-new-family-of-multilingual-embedding-models-hitting-sota-on-multilingual-mteb-v2/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-03-31T05:56:01.326Z"
-  },
-  {
-    "id": "news-1774936561327-47",
-    "title": "Taylor Swift Sued: Performer Says ‘The Life of a Showgirl’ Infringes ‘Confessions of a Showgirl’",
-    "summary": "Las Vegas entertainer Maren Wade claims Swift's latest album has \"overtaken\" her brand recognition. ",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-03-30T21:33:55.000Z",
-    "url": "https://www.billboard.com/pro/taylor-swift-life-of-a-showgirl-trademark-lawsuit/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-03-31T05:56:01.327Z"
-  },
-  {
-    "id": "news-1774936561327-40",
-    "title": "Suno launches v5.5 AI model with voice capture and personalization features",
-    "summary": "The voice capture feature lets users record or upload audio of themselves singing and incorporating that vocal identity into tracks generated by Suno.\nSource",
-    "category": "ai-research",
-    "source": "Music Business Worldwide",
-    "author": "Unknown",
-    "publishedAt": "2026-03-30T20:57:26.000Z",
-    "url": "https://www.musicbusinessworldwide.com/suno-launches-v5-5-ai-model-with-voice-capture-and-personalization-features/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-03-31T05:56:01.327Z"
-  },
-  {
-    "id": "news-1774936561324-2",
-    "title": "As more Americans adopt AI tools, fewer say they can trust the results",
-    "summary": "AI adoption is rising in the U.S., but trust remains low, with most Americans concerned about transparency, regulation, and the technology’s broader societal impact, according to a new Quinnipiac poll.",
-    "category": "tech-innovation",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-03-30T20:24:53.000Z",
-    "url": "https://techcrunch.com/2026/03/30/ai-trust-adoption-poll-more-americans-adopt-tools-fewer-say-they-can-trust-the-results/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-03-31T05:56:01.324Z"
-  },
-  {
-    "id": "news-1774936561324-3",
-    "title": "ScaleOps raises $130M to improve computing efficiency amid AI demand",
-    "summary": "ScaleOps just raised $130M to tackle GPU shortages and soaring AI cloud costs by automating infrastructure in real time.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-03-30T13:52:02.000Z",
-    "url": "https://techcrunch.com/2026/03/30/scaleops-130m-series-c-kubernetes-efficiency-ai-demand-funding/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-03-31T05:56:01.325Z"
-  },
-  {
-    "id": "news-1774936561325-4",
-    "title": "AI chip startup Rebellions raises $400 million at $2.3B valuation in pre-IPO round",
-    "summary": "The startup, which is planning to go public later this year, designs chips specifically for AI inference, another challenger to Nvidia's dominance.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-03-30T13:00:00.000Z",
-    "url": "https://techcrunch.com/2026/03/30/ai-chip-startup-rebellions-raises-400-million-at-2-3b-valuation-in-pre-ipo-round/",
-    "imageUrl": null,
-    "tags": [
-      "AI",
-      "Startup"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-03-31T05:56:01.325Z"
-  },
-  {
-    "id": "news-1774936561325-5",
-    "title": "Mistral AI raises $830M in debt to set up a data center near Paris",
-    "summary": "Mistral aims to start operating the data center by the second quarter of 2026.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-03-30T12:49:51.000Z",
-    "url": "https://techcrunch.com/2026/03/30/mistral-ai-raises-830m-in-debt-to-set-up-a-data-center-near-paris/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-03-31T05:56:01.325Z"
-  },
-  {
-    "id": "news-1774936561325-6",
-    "title": "Qodo raises $70M for code verification as AI coding scales",
-    "summary": "As AI floods software development with code, Qodo is betting the real challenge is making sure it actually works.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-03-30T12:30:00.000Z",
-    "url": "https://techcrunch.com/2026/03/30/qodo-bets-on-code-verification-as-ai-coding-scales-raises-70m/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-03-31T05:56:01.325Z"
-  },
-  {
-    "id": "news-1774936561327-41",
-    "title": "Publishers acquire stake in rock song at center of landmark termination rights case as they plan to pursue Supreme Court challenge",
-    "summary": "The publishers said they acquired Robert Resnik's stake as they seek to ask the Supreme Court to review the Fifth Circuit's January ruling. \nSource",
-    "category": "industry-news",
-    "source": "Music Business Worldwide",
-    "author": "Unknown",
-    "publishedAt": "2026-03-30T12:14:16.000Z",
-    "url": "https://www.musicbusinessworldwide.com/publishers-acquire-stake-in-rock-song-at-center-of-landmark-termination-rights-case-as-they-plan-to-pursue-supreme-court-challenge/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-03-31T05:56:01.327Z"
-  },
-  {
-    "id": "news-1774936561326-26",
-    "title": "Salesforce AI Research Releases VoiceAgentRAG: A Dual-Agent Memory Router that Cuts Voice RAG Retrieval Latency by 316x",
-    "summary": "In the world of voice AI, the difference between a helpful assistant and an awkward interaction is measured in milliseconds. While text-based Retrieval-Augmented Generation (RAG) systems can afford a few seconds of ‘thinking’ time, voice agents must respond within a 200ms budget to maintain a natural conversational flow. Standard production vector database queries typically add […]\nThe post Salesforce AI Research Releases VoiceAgentRAG: A Dual-Agent Memory Router that Cuts Voic",
-    "category": "ai-research",
-    "source": "MarkTechPost",
-    "author": "Unknown",
-    "publishedAt": "2026-03-30T09:56:14.000Z",
-    "url": "https://www.marktechpost.com/2026/03/30/salesforce-ai-research-releases-voiceagentrag-a-dual-agent-memory-router-that-cuts-voice-rag-retrieval-latency-by-316x/",
-    "imageUrl": null,
-    "tags": [
-      "AI",
-      "Research"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-03-31T05:56:01.326Z"
-  },
-  {
-    "id": "news-1774936561327-42",
-    "title": "Universal Music Group to launch €500 million share buyback program",
-    "summary": "UMG's plan to repurchase EUR €500M (USD $575m) worth of its own shares marks the company's first-ever share buyback program\nSource",
-    "category": "industry-news",
-    "source": "Music Business Worldwide",
-    "author": "Unknown",
-    "publishedAt": "2026-03-30T08:06:54.000Z",
-    "url": "https://www.musicbusinessworldwide.com/universal-music-group-announces-e500-million-share-buyback-program/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-03-31T05:56:01.327Z"
-  },
-  {
-    "id": "news-1774936561325-7",
-    "title": "Why OpenAI really shut down Sora",
-    "summary": "OpenAI's decision last week to shut down Sora, its AI video-generation tool, just six months after releasing it to the public, raised immediate suspicions. The app had invited users to upload their own faces — so was this some kind of elaborate data grab? ",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-03-30T03:09:38.000Z",
-    "url": "https://techcrunch.com/2026/03/29/why-openai-really-shut-down-sora/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-03-31T05:56:01.325Z"
-  },
-  {
-    "id": "news-1774936561326-27",
-    "title": "Agent-Infra Releases AIO Sandbox: An All-in-One Runtime for AI Agents with Browser, Shell, Shared Filesystem, and MCP",
-    "summary": "In the development of autonomous agents, the technical bottleneck is shifting from model reasoning to the execution environment. While Large Language Models (LLMs) can generate code and multi-step plans, providing a functional and isolated environment for that code to run remains a significant infrastructure challenge. Agent-Infra’s Sandbox, an open-source project, addresses this by providing an […]\nThe post Agent-Infra Releases AIO Sandbox: An All-in-One Runtime for AI Agents with Browser",
-    "category": "ai-research",
-    "source": "MarkTechPost",
-    "author": "Unknown",
-    "publishedAt": "2026-03-30T00:04:53.000Z",
-    "url": "https://www.marktechpost.com/2026/03/29/agent-infra-releases-aio-sandbox-an-all-in-one-runtime-for-ai-agents-with-browser-shell-shared-filesystem-and-mcp/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-03-31T05:56:01.326Z"
-  },
-  {
-    "id": "news-1774936561326-28",
-    "title": "How to Build Advanced Cybersecurity AI Agents with CAI Using Tools, Guardrails, Handoffs, and Multi-Agent Workflows",
-    "summary": "In this tutorial, we build and explore the CAI Cybersecurity AI Framework step by step in Colab using an OpenAI-compatible model. We begin by setting up the environment, securely loading the API key, and creating a base agent. We gradually move into more advanced capabilities such as custom function tools, multi-agent handoffs, agent orchestration, input […]\nThe post How to Build Advanced Cybersecurity AI Agents with CAI Using Tools, Guardrails, Handoffs, and Multi-Agent Workflows appeared",
-    "category": "ai-research",
-    "source": "MarkTechPost",
-    "author": "Unknown",
-    "publishedAt": "2026-03-29T23:28:57.000Z",
-    "url": "https://www.marktechpost.com/2026/03/29/how-to-build-advanced-cybersecurity-ai-agents-with-cai-using-tools-guardrails-handoffs-and-multi-agent-workflows/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-03-31T05:56:01.326Z"
-  },
-  {
-    "id": "news-1774936561326-29",
-    "title": "Meet A-Evolve: The PyTorch Moment For Agentic AI Systems Replacing Manual Tuning With Automated State Mutation And Self-Correction",
-    "summary": "A team of researchers associated with Amazon has released A-Evolve, a universal infrastructure designed to automate the development of autonomous AI agents. The framework aims to replace the ‘manual harness engineering’ that currently defines agent development with a systematic, automated evolution process. The project is being described as a potential ‘PyTorch moment’ for agentic AI. […]\nThe post Meet A-Evolve: The PyTorch Moment For Agentic AI Systems Replacing Ma",
-    "category": "ai-research",
-    "source": "MarkTechPost",
-    "author": "Unknown",
-    "publishedAt": "2026-03-29T18:17:23.000Z",
-    "url": "https://www.marktechpost.com/2026/03/29/meet-a-evolve-the-pytorch-moment-for-agentic-ai-systems-replacing-manual-tuning-with-automated-state-mutation-and-self-correction/",
-    "imageUrl": null,
-    "tags": [
-      "AI",
-      "Research"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-03-31T05:56:01.326Z"
+    "fetchedAt": "2026-04-01T06:12:32.648Z"
   }
 ]
