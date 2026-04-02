@@ -1,319 +1,310 @@
 [
   {
-    "id": "news-1775023952649-44",
-    "title": "Bruce Springsteen Opens 2026 Tour in Minneapolis: Every Song He Played at the First Show",
-    "summary": "The Boss kicked off his Land of Hopes and Dreams American Tour at the Target Center in Minneapolis. ",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-04-01T05:02:45.000Z",
-    "url": "https://www.billboard.com/lists/bruce-springsteen-tour-minneapolis-setlist/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-04-01T06:12:32.649Z"
-  },
-  {
-    "id": "news-1775023952647-22",
-    "title": "Liquid AI Released LFM2.5-350M: A Compact 350M Parameter Model Trained on 28T Tokens with Scaled Reinforcement Learning",
-    "summary": "In the current landscape of generative AI, the ‘scaling laws’ have generally dictated that more parameters equal more intelligence. However, Liquid AI is challenging this convention with the release of LFM2.5-350M. This model is actually a technical case study in intelligence density with additional pre-training (from 10T to 28T tokens) and large-scale reinforcement learning The […]\nThe post Liquid AI Released LFM2.5-350M: A Compact 350M Parameter Model Trained on 28T Tokens wi",
+    "id": "news-1775108999856-21",
+    "title": "How to Build Production Ready AgentScope Workflows with ReAct Agents, Custom Tools, Multi-Agent Debate, Structured Output and Concurrent Pipelines",
+    "summary": "In this tutorial, we build a complete AgentScope workflow from the ground up and run everything in Colab. We start by wiring OpenAI through AgentScope and validating a basic model call to understand how messages and responses are handled. From there, we define custom tool functions, register them in a toolkit, and inspect the auto-generated […]\nThe post How to Build Production Ready AgentScope Workflows with ReAct Agents, Custom Tools, Multi-Agent Debate, Structured Output and Concurrent P",
     "category": "ai-research",
     "source": "MarkTechPost",
     "author": "Unknown",
-    "publishedAt": "2026-04-01T05:01:59.000Z",
-    "url": "https://www.marktechpost.com/2026/03/31/liquid-ai-released-lfm2-5-350m-a-compact-350m-parameter-model-trained-on-28t-tokens-with-scaled-reinforcement-learning/",
-    "imageUrl": null,
-    "tags": [
-      "AI",
-      "Generative AI",
-      "Research"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-04-01T06:12:32.648Z"
-  },
-  {
-    "id": "news-1775023952649-45",
-    "title": "2026 APRA Music Awards Nominations: Full List",
-    "summary": "Amyl And The Sniffers, Kevin Parker, Ninajirachi lead the 2026 APRA Music Awards nominations.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-04-01T02:59:17.000Z",
-    "url": "https://www.billboard.com/music/awards/2026-apra-music-awards-nominations-list-1236212152/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-04-01T06:12:32.649Z"
-  },
-  {
-    "id": "news-1775023952646-0",
-    "title": "Mercor says it was hit by cyberattack tied to compromise of open-source LiteLLM project",
-    "summary": "The AI recruiting startup confirmed a security incident after an extortion hacking crew took credit for stealing data from the company's systems.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-04-01T01:42:59.000Z",
-    "url": "https://techcrunch.com/2026/03/31/mercor-says-it-was-hit-by-cyberattack-tied-to-compromise-of-open-source-litellm-project/",
-    "imageUrl": null,
-    "tags": [
-      "AI",
-      "Startup"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-04-01T06:12:32.646Z"
-  },
-  {
-    "id": "news-1775023952649-46",
-    "title": "Our Picks for the Best Handheld & Clip-On Fans for Concerts & Festivals",
-    "summary": "Festival season is right around the corner, and concerts are always ongoing. Here's where you can get a fan that'll make your experience more enjoyable.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-04-01T01:36:15.000Z",
-    "url": "https://www.billboard.com/culture/product-recommendations/best-fans-for-concerts-festivals-1236211646/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-04-01T06:12:32.649Z"
-  },
-  {
-    "id": "news-1775023952649-47",
-    "title": "Taylor Swift’s Epic L.A. Weekend, From iHeartRadio Music Awards to Paul McCartney’s Star-Studded Concert",
-    "summary": "On the new Billboard Pop Shop Podcast, Katie & Keith are talking about Swift's seven iHeart wins and McCartney's Fonda Theater underplay.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-04-01T01:17:03.000Z",
-    "url": "https://www.billboard.com/media/podcasts/taylor-swift-paul-mccartney-iheart-fonda-pop-shop-podcast-1236211895/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-04-01T06:12:32.649Z"
-  },
-  {
-    "id": "news-1775023952649-48",
-    "title": "Salt-N-Pepa Music Ownership Appeal: Rappers Say UMG Unfairly Keeping ‘Lion’s Share’ of Royalties",
-    "summary": "The iconic hip-hop duo is hoping to revive its copyright termination lawsuit against the world's biggest music company.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-03-31T23:59:59.000Z",
-    "url": "https://www.billboard.com/pro/salt-n-pepa-appeal-revive-umg-music-ownership-lawsuit/",
-    "imageUrl": null,
-    "tags": [
-      "AI",
-      "Copyright"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-04-01T06:12:32.649Z"
-  },
-  {
-    "id": "news-1775023952646-1",
-    "title": "OpenAI, not yet public, raises $3B from retail investors in monster $122B fund raise",
-    "summary": "OpenAI's latest funding round, led by Amazon, Nvidia, and SoftBank, values the AI lab at $852 billion as it nears an IPO.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-03-31T21:25:04.000Z",
-    "url": "https://techcrunch.com/2026/03/31/openai-not-yet-public-raises-3b-from-retail-investors-in-monster-122b-fund-raise/",
-    "imageUrl": null,
-    "tags": [
-      "AI",
-      "Investment"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-04-01T06:12:32.646Z"
-  },
-  {
-    "id": "news-1775023952646-2",
-    "title": "Yupp shuts down after raising $33M from a16z crypto’s Chris Dixon",
-    "summary": "Less than a year after launching, with checks from some of the biggest names in Silicon Valley, crowdsourced AI model feedback startup Yupp is closing its business, the company said Tuesday.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-03-31T20:01:07.000Z",
-    "url": "https://techcrunch.com/2026/03/31/yupp-ai-shuts-down-33m-a16z-crypto-chris-dixon/",
-    "imageUrl": null,
-    "tags": [
-      "AI",
-      "Startup"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-04-01T06:12:32.646Z"
-  },
-  {
-    "id": "news-1775023952649-38",
-    "title": "Universal Music bolsters Latin America leadership with three strategic appointments",
-    "summary": "Alfredo Delgadillo has been promoted to CEO & President of Universal Music Latin Entertainment (UMLE)\nSource",
-    "category": "industry-news",
-    "source": "Music Business Worldwide",
-    "author": "Unknown",
-    "publishedAt": "2026-03-31T18:40:23.000Z",
-    "url": "https://www.musicbusinessworldwide.com/universal-music-shakes-up-latin-america-leadership-with-three-strategic-appointments/",
+    "publishedAt": "2026-04-02T05:34:13.000Z",
+    "url": "https://www.marktechpost.com/2026/04/01/how-to-build-production-ready-agentscope-workflows-with-react-agents-custom-tools-multi-agent-debate-structured-output-and-concurrent-pipelines/",
     "imageUrl": null,
     "tags": [
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-04-01T06:12:32.649Z"
+    "fetchedAt": "2026-04-02T05:49:59.856Z"
   },
   {
-    "id": "news-1775023952648-23",
-    "title": "How to Build and Evolve a Custom OpenAI Agent with A-Evolve Using Benchmarks, Skills, Memory, and Workspace Mutations",
-    "summary": "In this tutorial, we work directly with the A-Evolve framework in Colab and build a complete evolutionary agent pipeline from the ground up. We set up the repository, configure an OpenAI-powered agent, define a custom benchmark, and build our own evolution engine to see how A-Evolve actually improves an agent through iterative workspace mutations. Through […]\nThe post How to Build and Evolve a Custom OpenAI Agent with A-Evolve Using Benchmarks, Skills, Memory, and Workspace Mutations appea",
-    "category": "ai-research",
-    "source": "MarkTechPost",
-    "author": "Unknown",
-    "publishedAt": "2026-03-31T18:24:44.000Z",
-    "url": "https://www.marktechpost.com/2026/03/31/how-to-build-and-evolve-a-custom-openai-agent-with-a-evolve-using-benchmarks-skills-memory-and-workspace-mutations/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-04-01T06:12:32.648Z"
-  },
-  {
-    "id": "news-1775023952649-39",
-    "title": "Sony Music and University of Southern California settle copyright lawsuit over music used in social media posts",
-    "summary": "USC's athletics social media accounts allegedly featured 170 Sony-owned songs without permission.\nSource",
+    "id": "news-1775108999858-47",
+    "title": "BTS Dominates YouTube’s Global, U.S. Charts",
+    "summary": "The K-pop superstars crash the streaming giant’s Global Top Songs chart with 11 titles impacting the top 100, including the No. 1 with “Swim.”",
     "category": "industry-news",
-    "source": "Music Business Worldwide",
+    "source": "Billboard",
     "author": "Unknown",
-    "publishedAt": "2026-03-31T17:51:24.000Z",
-    "url": "https://www.musicbusinessworldwide.com/sony-music-and-university-of-southern-california-settle-copyright-lawsuit-over-music-used-in-social-media-posts/",
+    "publishedAt": "2026-04-02T04:53:07.000Z",
+    "url": "https://www.billboard.com/music/chart-beat/bts-youtube-global-us-charts-1236213071/",
     "imageUrl": null,
     "tags": [
-      "Copyright"
+      "Streaming"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-04-01T06:12:32.649Z"
+    "fetchedAt": "2026-04-02T05:49:59.858Z"
   },
   {
-    "id": "news-1775023952646-3",
-    "title": "Nomadic raises $8.4 million to wrangle the data pouring off autonomous vehicles",
-    "summary": "The company turns footage from robots into structured, searchable datasets with a deep learning model.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
+    "id": "news-1775108999858-48",
+    "title": "QMusic CEO Kris Stewart Steps Down After Five Years",
+    "summary": "The search for the organization’s next CEO has begun.",
+    "category": "industry-news",
+    "source": "Billboard",
     "author": "Unknown",
-    "publishedAt": "2026-03-31T15:00:00.000Z",
-    "url": "https://techcrunch.com/2026/03/31/nomadic-raises-8-4-million-to-wrangle-the-data-pouring-off-avs/",
+    "publishedAt": "2026-04-02T03:35:32.000Z",
+    "url": "https://www.billboard.com/pro/qmusic-ceo-kris-stewart-steps-down/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-04-02T05:49:59.858Z"
+  },
+  {
+    "id": "news-1775108999858-49",
+    "title": "Johnny Blue Skies & the Dark Clouds Set Fall Arena Tour",
+    "summary": "The band, led by Sturgill Simpson's new persona, will hit nearly 30 markets.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-04-02T01:22:57.000Z",
+    "url": "https://www.billboard.com/music/rock/johnny-blue-skies-dark-clouds-tour-dates-sturgill-simpson-1236213023/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-04-02T05:49:59.858Z"
+  },
+  {
+    "id": "news-1775108999858-50",
+    "title": "Tiffany Young Signs 360 Deal With Pacific Music Group Ahead of New Music",
+    "summary": "The Girls' Generation star joins the Pan-Asian global entertainment company founded by Ne-Yo, MC Jin, Sonu Nigam and Jonathan Serbin.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-04-02T01:00:00.000Z",
+    "url": "https://www.billboard.com/pro/tiffany-young-new-music-pacific-music-group/",
     "imageUrl": null,
     "tags": [
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-04-01T06:12:32.646Z"
+    "fetchedAt": "2026-04-02T05:49:59.858Z"
   },
   {
-    "id": "news-1775023952649-40",
-    "title": "Epidemic Sound rival Artlist now lets its users generate 3-minute AI tracks using Google’s Lyria 3 Pro music model",
-    "summary": "The integration expands Artlist's AI Toolkit, allowing it to offer AI video, image, voiceover, and now music generation into a single platform.\nSource",
+    "id": "news-1775108999858-51",
+    "title": "Jack Black Calls Jack White His ‘Brother From Another Color’ in TikTok-Inspired ‘SNL’ Promo",
+    "summary": "The pair of Jacks will appear on this weekend's episode as host & musical guest.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-04-02T00:59:40.000Z",
+    "url": "https://www.billboard.com/culture/tv-film/jack-black-snl-promo-jack-white-brother-from-another-color-1236213008/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-04-02T05:49:59.858Z"
+  },
+  {
+    "id": "news-1775108999858-52",
+    "title": "Sabrina Carpenter Recruits Madelyn Cline & Margaret Qualley for ‘House Tour’ Video: Watch a Teaser",
+    "summary": "The full music video will drop Monday.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-04-01T23:32:48.000Z",
+    "url": "https://www.billboard.com/music/music-news/sabrina-carpenter-house-tour-video-teaser-margaret-madelyn-1236212977/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-04-02T05:49:59.858Z"
+  },
+  {
+    "id": "news-1775108999856-22",
+    "title": "Z.ai Launches GLM-5V-Turbo: A Native Multimodal Vision Coding Model Optimized for OpenClaw and High-Capacity Agentic Engineering Workflows Everywhere",
+    "summary": "In the field of vision-language models (VLMs), the ability to bridge the gap between visual perception and logical code execution has traditionally faced a performance trade-off. Many models excel at describing an image but struggle to translate that visual information into the rigorous syntax required for software engineering. Zhipu AI’s (Z.ai) GLM-5V-Turbo is a vision […]\nThe post Z.ai Launches GLM-5V-Turbo: A Native Multimodal Vision Coding Model Optimized for OpenClaw and High-Ca",
     "category": "tech-innovation",
-    "source": "Music Business Worldwide",
+    "source": "MarkTechPost",
     "author": "Unknown",
-    "publishedAt": "2026-03-31T14:13:14.000Z",
-    "url": "https://www.musicbusinessworldwide.com/epidemic-sound-rival-artlist-integrates-googles-new-lyria-3-pro-ai-music-model-that-can-generate-3-minute-tracks/",
+    "publishedAt": "2026-04-01T23:04:22.000Z",
+    "url": "https://www.marktechpost.com/2026/04/01/z-ai-launches-glm-5v-turbo-a-native-multimodal-vision-coding-model-optimized-for-openclaw-and-high-capacity-agentic-engineering-workflows-everywhere/",
     "imageUrl": null,
     "tags": [
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-04-01T06:12:32.649Z"
+    "fetchedAt": "2026-04-02T05:49:59.856Z"
   },
   {
-    "id": "news-1775023952646-4",
-    "title": "Exclusive: Runway launches $10M fund, Builders program to support early-stage AI startups",
-    "summary": "Runway is launching a $10 million fund and startup program to back companies building with its AI video models, as it pushes toward interactive, real-time “video intelligence” applications.",
+    "id": "news-1775108999858-53",
+    "title": "Where to Shop Last-Minute Alabama Shakes’ Tickets Online",
+    "summary": "The Brittany Howard-led band will kick off their 2026 tour on April 16.",
     "category": "industry-news",
-    "source": "TechCrunch AI",
+    "source": "Billboard",
     "author": "Unknown",
-    "publishedAt": "2026-03-31T14:00:00.000Z",
-    "url": "https://techcrunch.com/2026/03/31/exclusive-runway-launches-10m-fund-builders-program-to-support-early-stage-ai-startups/",
-    "imageUrl": null,
-    "tags": [
-      "AI",
-      "Startup"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-04-01T06:12:32.646Z"
-  },
-  {
-    "id": "news-1775023952649-41",
-    "title": "SoundCloud launches superfan feature that lets artists release music exclusively to followers before wider release",
-    "summary": "Artists can use the new feature to share early demos, surprise drops, or previews ahead of a wider release.\nSource",
-    "category": "industry-news",
-    "source": "Music Business Worldwide",
-    "author": "Unknown",
-    "publishedAt": "2026-03-31T13:51:53.000Z",
-    "url": "https://www.musicbusinessworldwide.com/soundcloud-launches-superfan-feature-that-lets-artists-release-music-exclusively-to-followers-before-wider-release/",
+    "publishedAt": "2026-04-01T22:15:49.000Z",
+    "url": "https://www.billboard.com/culture/product-recommendations/alabama-shakes-tour-where-to-buy-tickets-online-1236212868/",
     "imageUrl": null,
     "tags": [],
     "readTime": 1,
-    "fetchedAt": "2026-04-01T06:12:32.649Z"
+    "fetchedAt": "2026-04-02T05:49:59.858Z"
   },
   {
-    "id": "news-1775023952646-5",
-    "title": "With its new app store, Ring bets on AI to go beyond home security",
-    "summary": "Ring's app store will allow the company to target broader use cases beyond security, like elder care or business needs.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
+    "id": "news-1775108999858-54",
+    "title": "Where to Buy Affordable Stagecoach 2026 Tickets Online",
+    "summary": "The country music festival's headliners include Cody Johnson, Lainey Wilson and Post Malone.",
+    "category": "industry-news",
+    "source": "Billboard",
     "author": "Unknown",
-    "publishedAt": "2026-03-31T13:00:00.000Z",
-    "url": "https://techcrunch.com/2026/03/31/ring-app-store-bets-on-ai-to-go-beyond-home-security/",
+    "publishedAt": "2026-04-01T21:19:00.000Z",
+    "url": "https://www.billboard.com/culture/product-recommendations/where-to-buy-affordable-stagecoach-2026-tickets-online-1236212650/",
     "imageUrl": null,
     "tags": [
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-04-01T06:12:32.646Z"
+    "fetchedAt": "2026-04-02T05:49:59.858Z"
   },
   {
-    "id": "news-1775023952648-32",
-    "title": "AI Has Flooded All the Weather Apps",
-    "summary": "Weather forecasting has gotten a big boost from machine learning. How that translates into what users see can vary.",
+    "id": "news-1775108999854-0",
+    "title": "Meta’s natural gas binge could power South Dakota",
+    "summary": "Meta's upcoming Hyperion AI data center will be powered by 10 new natural gas plants. ",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-04-01T18:35:36.000Z",
+    "url": "https://techcrunch.com/2026/04/01/metas-natural-gas-binge-could-power-south-dakota/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-04-02T05:49:59.855Z"
+  },
+  {
+    "id": "news-1775108999857-31",
+    "title": "AI Models Lie, Cheat, and Steal to Protect Other Models From Being Deleted",
+    "summary": "A new study from researchers at UC Berkeley and UC Santa Cruz suggests models will disobey human commands to protect their own kind.",
     "category": "ai-research",
     "source": "Wired AI",
     "author": "Unknown",
-    "publishedAt": "2026-03-31T13:00:00.000Z",
-    "url": "https://www.wired.com/story/ai-has-flooded-all-the-weather-apps/",
+    "publishedAt": "2026-04-01T18:30:00.000Z",
+    "url": "https://www.wired.com/story/ai-models-lie-cheat-steal-protect-other-models-research/",
     "imageUrl": null,
     "tags": [
       "AI",
-      "Machine Learning"
+      "Research"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-04-01T06:12:32.648Z"
+    "fetchedAt": "2026-04-02T05:49:59.857Z"
   },
   {
-    "id": "news-1775023952649-42",
-    "title": "Cardi B wins dismissal of copyright lawsuit over ‘Enough (Miami)’",
-    "summary": "A Texas judge found that the plaintiffs sued in the wrong place, and that the plaintiffs didn't have a copyright registered for their song when they filed the case. \nSource",
+    "id": "news-1775108999857-32",
+    "title": "‘Thank You for Generating With Us!’ Hollywood's AI Acolytes Stay on the Hype Train",
+    "summary": "Star Wars producer Kathleen Kennedy was one of the few skeptics at the Runway AI Summit, where AI was compared to fire and the printing press just a week after Sora’s death.",
+    "category": "tech-innovation",
+    "source": "Wired AI",
+    "author": "Unknown",
+    "publishedAt": "2026-04-01T18:13:34.000Z",
+    "url": "https://www.wired.com/story/thank-you-for-generating-with-us-hollywoods-ai-acolytes-stay-on-the-hype-train/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-04-02T05:49:59.857Z"
+  },
+  {
+    "id": "news-1775108999857-39",
+    "title": "Elon Musk’s X seizes on Supreme Court’s landmark Cox ruling in bid to derail music publishers’ copyright case",
+    "summary": "X Corp has told a Nashville federal court that last week's ruling renders the publishers' surviving claims defunct.\nSource",
     "category": "industry-news",
     "source": "Music Business Worldwide",
     "author": "Unknown",
-    "publishedAt": "2026-03-31T10:58:47.000Z",
-    "url": "https://www.musicbusinessworldwide.com/cardi-b-wins-dismissal-of-copyright-lawsuit-over-enough-miami/",
+    "publishedAt": "2026-04-01T17:57:35.000Z",
+    "url": "https://www.musicbusinessworldwide.com/elon-musks-x-seizes-on-supreme-courts-landmark-cox-ruling-in-bid-to-derail-music-publishers-copyright-case/",
     "imageUrl": null,
     "tags": [
       "AI",
       "Copyright"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-04-01T06:12:32.649Z"
+    "fetchedAt": "2026-04-02T05:49:59.858Z"
   },
   {
-    "id": "news-1775023952648-24",
-    "title": "Alibaba Qwen Team Releases Qwen3.5 Omni: A Native Multimodal Model for Text, Audio, Video, and Realtime Interaction",
-    "summary": "The landscape of multimodal large language models (MLLMs) has shifted from experimental ‘wrappers’—where separate vision or audio encoders are stitched onto a text-based backbone—to native, end-to-end ‘omnimodal’ architectures. Alibaba Qwen team latest release, Qwen3.5-Omni, represents a significant milestone in this evolution. Designed as a direct competitor to flagship models like Gemini 3.1 Pro, the Qwen3.5-Omni […]\nThe post Alibaba Qwen Team Releases Qwen3.5 Omn",
+    "id": "news-1775108999856-23",
+    "title": "How to Build a Production-Ready Gemma 3 1B Instruct Generation AI Pipeline with Hugging Face Transformers, Chat Templates, and Colab Inference",
+    "summary": "In this tutorial, we build and run a Colab workflow for Gemma 3 1B Instruct using Hugging Face Transformers and HF Token, in a practical, reproducible, and easy-to-follow step-by-step manner. We begin by installing the required libraries, securely authenticating with our Hugging Face token, and loading the tokenizer and model onto the available device with […]\nThe post How to Build a Production-Ready Gemma 3 1B Instruct Generation AI Pipeline with Hugging Face Transformers, Chat Templates,",
     "category": "ai-research",
     "source": "MarkTechPost",
     "author": "Unknown",
-    "publishedAt": "2026-03-31T05:17:07.000Z",
-    "url": "https://www.marktechpost.com/2026/03/30/alibaba-qwen-team-releases-qwen3-5-omni-a-native-multimodal-model-for-text-audio-video-and-realtime-interaction/",
+    "publishedAt": "2026-04-01T16:59:36.000Z",
+    "url": "https://www.marktechpost.com/2026/04/01/how-to-build-a-production-ready-gemma-3-1b-instruct-generation-ai-pipeline-with-hugging-face-transformers-chat-templates-and-colab-inference/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-04-02T05:49:59.857Z"
+  },
+  {
+    "id": "news-1775108999858-40",
+    "title": "Larry Mestel: How it started…",
+    "summary": "MBW’s new series delves into the stories behind the music industry’s most notable founder-led companies. \nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-04-01T16:58:10.000Z",
+    "url": "https://www.musicbusinessworldwide.com/larry-mestel-how-it-started/",
     "imageUrl": null,
     "tags": [],
     "readTime": 1,
-    "fetchedAt": "2026-04-01T06:12:32.648Z"
+    "fetchedAt": "2026-04-02T05:49:59.858Z"
+  },
+  {
+    "id": "news-1775108999858-41",
+    "title": "RIAA, NMPA, and more file amicus brief backing UMG, Concord and ABKCO in original Anthropic case, arguing AI firm’s unlicensed copying is ‘inexcusable’",
+    "summary": "Brief urges court to reject Anthropic's fair use defense in case brought by UMPG, Concord Music Group, and ABKCO\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-04-01T16:30:51.000Z",
+    "url": "https://www.musicbusinessworldwide.com/riaa-nmpa-and-more-file-amicus-brief-backing-music-publishers-against-anthropic-arguing-ai-companys-unlicensed-copying-is-inexcusable/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-04-02T05:49:59.858Z"
+  },
+  {
+    "id": "news-1775108999855-1",
+    "title": "Cognichip wants AI to design the chips that power AI, and just raised $60M to try",
+    "summary": "The firm says it can reduce the cost of chip development by more than 75% and cut the timeline by more than half. ",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-04-01T16:00:00.000Z",
+    "url": "https://techcrunch.com/2026/04/01/cognichip-wants-ai-to-design-the-chips-that-power-ai-and-just-raised-60m-to-try/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-04-02T05:49:59.855Z"
+  },
+  {
+    "id": "news-1775108999858-42",
+    "title": "CTM Outlander acquires masters catalog of US singer-songwriter Matt Simons",
+    "summary": "Led by CEO André de Raaff, CTM Outlander is a JV between Netherlands-based CTM and US-based Outlander Capital\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-04-01T14:48:01.000Z",
+    "url": "https://www.musicbusinessworldwide.com/ctm-outlander-acquires-master-recording-catalog-of-singer-songwriter-matt-simons/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-04-02T05:49:59.858Z"
+  },
+  {
+    "id": "news-1775108999858-43",
+    "title": "Warner Music Group to acquire Revelator; says indie music platform will add ‘firepower’ to WMG’s global operations",
+    "summary": "WMG has entered into a definitive agreement to acquire independent music platform Revelator\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-04-01T12:14:17.000Z",
+    "url": "https://www.musicbusinessworldwide.com/warner-music-group-to-acquire-revelator/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-04-02T05:49:59.858Z"
   }
 ]
