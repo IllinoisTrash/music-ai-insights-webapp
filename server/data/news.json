@@ -1,108 +1,273 @@
 [
   {
-    "id": "news-1775195437863-42",
-    "title": "‘I Was Trying Not to Write Songs’: How Bruce Hornsby Recovered From Burnout to Record ‘Indigo Park’",
-    "summary": "The new album features guest appearances from Bonnie Raitt, Vampire Weekend's Ezra Koenig and Blake Mills, and one of the last recordings by Bob Weir.",
-    "category": "industry-news",
-    "source": "Billboard",
+    "id": "news-1775279642421-20",
+    "title": "How to Build Production-Ready Agentic Systems with Z.AI GLM-5 Using Thinking Mode, Tool Calling, Streaming, and Multi-Turn Workflows",
+    "summary": "In this tutorial, we explore the full capabilities of Z.AI’s GLM-5 model and build a complete understanding of how to use it for real-world, agentic applications. We start from the fundamentals by setting up the environment using the Z.AI SDK and its OpenAI-compatible interface, and then progressively move on to advanced features such as streaming […]\nThe post How to Build Production-Ready Agentic Systems with Z.AI GLM-5 Using Thinking Mode, Tool Calling, Streaming, and Multi-Turn Workflow",
+    "category": "ai-research",
+    "source": "MarkTechPost",
     "author": "Unknown",
-    "publishedAt": "2026-04-03T05:45:34.000Z",
-    "url": "https://www.billboard.com/music/pop/bruce-hornsby-indigo-park-interview-1236214697/",
+    "publishedAt": "2026-04-04T03:06:56.000Z",
+    "url": "https://www.marktechpost.com/2026/04/03/how-to-build-production-ready-agentic-systems-with-z-ai-glm-5-using-thinking-mode-tool-calling-streaming-and-multi-turn-workflows/",
+    "imageUrl": null,
+    "tags": [
+      "AI",
+      "Streaming"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-04-04T05:14:02.421Z"
+  },
+  {
+    "id": "news-1775279642420-0",
+    "title": "Anthropic is having a moment in the private markets; SpaceX could spoil the party",
+    "summary": "Glen Anderson, president of Rainmaker Securities, says the secondary market for private shares has never been more active — with Anthropic the hottest trade around, OpenAI losing ground, and SpaceX's looming IPO poised to reshape the landscape for everyone.\n",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-04-04T01:31:00.000Z",
+    "url": "https://techcrunch.com/2026/04/03/anthropic-is-having-a-moment-in-the-private-markets-spacex-could-spoil-the-party/",
     "imageUrl": null,
     "tags": [
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-04-03T05:50:37.863Z"
+    "fetchedAt": "2026-04-04T05:14:02.420Z"
   },
   {
-    "id": "news-1775195437863-43",
-    "title": "Jack White, Arlo Parks, Anne Hathaway & More: New Music Friday Guide",
-    "summary": "Check out the must-hear releases of the week.",
+    "id": "news-1775279642423-40",
+    "title": "YouTube’s Tuma Basa to Exit as Director of Black Music & Culture",
+    "summary": "After eight years at the streaming giant, the executive announced he was \"stepping into my next chapter.\"",
     "category": "industry-news",
     "source": "Billboard",
     "author": "Unknown",
-    "publishedAt": "2026-04-03T05:22:19.000Z",
-    "url": "https://www.billboard.com/music/pop/jack-white-arlo-parks-anne-hathaway-new-music-friday-guide-1236213934/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-04-03T05:50:37.863Z"
-  },
-  {
-    "id": "news-1775195437863-44",
-    "title": "Pussy Riot’s Nadya Indicted, Added to Russia’s ‘Wanted List’",
-    "summary": "Russia's Investigative Committee this week indicted the punk artist and activist for violating the “foreign agent law.\"",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-04-03T05:18:45.000Z",
-    "url": "https://www.billboard.com/music/rock/pussy-riot-nadya-indicted-added-russia-wanted-list-1236214681/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-04-03T05:50:37.863Z"
-  },
-  {
-    "id": "news-1775195437863-45",
-    "title": "SB19’s ‘Wakas At Simula’ Album: All 24 Tracks Ranked",
-    "summary": "From breakout singles like \"GENTO\" and \"DAM\" to new collaborations with top Asian talent, the Filipino boy group's LP is a musical marker of their last five years.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-04-03T04:01:59.000Z",
-    "url": "https://www.billboard.com/lists/sb19-wakas-at-simula-album-review-tracks-ranked/",
+    "publishedAt": "2026-04-03T23:27:03.000Z",
+    "url": "https://www.billboard.com/pro/youtube-director-black-music-culture-tuma-basa-exit/",
     "imageUrl": null,
     "tags": [
-      "Partnership"
+      "Streaming"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-04-03T05:50:37.864Z"
+    "fetchedAt": "2026-04-04T05:14:02.423Z"
   },
   {
-    "id": "news-1775195437864-46",
-    "title": "U2 Unwraps ‘Easter Lily’ EP: Stream It Now",
-    "summary": "\"We are in the studio, still working towards a noisy, messy, 'unreasonably colourful’ album to play LIVE… which is where U2 lives,\" Bono insists.",
+    "id": "news-1775279642423-41",
+    "title": "‘Time’s Ticking,’ Indeed: Every Song That’s Taken More Than a Year to Reach No. 1 on Billboard’s Country Airplay Chart",
+    "summary": "Justin Moore's \"Time's Ticking\" set a record for the longest climb to hit the peak this week, but it's hardly alone.",
     "category": "industry-news",
     "source": "Billboard",
     "author": "Unknown",
-    "publishedAt": "2026-04-03T04:00:55.000Z",
-    "url": "https://www.billboard.com/music/rock/u2-easter-lily-ep-stream-it-now-1236214638/",
+    "publishedAt": "2026-04-03T23:26:15.000Z",
+    "url": "https://www.billboard.com/lists/country-songs-took-year-number-one-country-airplay-chart/",
     "imageUrl": null,
-    "tags": [],
+    "tags": [
+      "AI"
+    ],
     "readTime": 1,
-    "fetchedAt": "2026-04-03T05:50:37.864Z"
+    "fetchedAt": "2026-04-04T05:14:02.423Z"
   },
   {
-    "id": "news-1775195437864-47",
-    "title": "John Legend’s ‘An Evening of Songs & Stories’ Tour: Where to Buy Tickets Online",
-    "summary": "The Grammy-winning artist and his piano are touching down in a venue near you this spring.",
+    "id": "news-1775279642423-42",
+    "title": "Watch A$AP Rocky Perform ‘Don’t Be Dumb’ Tracks for Amazon Music’s ‘Songline’ Series: ‘Live From New York’",
+    "summary": "The film was first livestreamed on Yams Day in January.",
     "category": "industry-news",
     "source": "Billboard",
     "author": "Unknown",
-    "publishedAt": "2026-04-03T00:56:33.000Z",
-    "url": "https://www.billboard.com/culture/product-recommendations/where-to-buy-john-legend-tour-tickets-shop-online-1236214518/",
+    "publishedAt": "2026-04-03T22:39:46.000Z",
+    "url": "https://www.billboard.com/music/rb-hip-hop/asap-rocky-live-from-new-york-songline-film-1236215056/",
     "imageUrl": null,
     "tags": [],
     "readTime": 1,
-    "fetchedAt": "2026-04-03T05:50:37.864Z"
+    "fetchedAt": "2026-04-04T05:14:02.423Z"
   },
   {
-    "id": "news-1775195437864-48",
-    "title": "Billboard’s Music Industry Events Calendar",
-    "summary": "A complete rundown of the most important events across the music business.",
+    "id": "news-1775279642421-21",
+    "title": "Google DeepMind’s Research Lets an LLM Rewrite Its Own Game Theory Algorithms — And It Outperformed the Experts",
+    "summary": "Designing algorithms for Multi-Agent Reinforcement Learning (MARL) in imperfect-information games — scenarios where players act sequentially and cannot see each other’s private information, like poker — has historically relied on manual iteration. Researchers identify weighting schemes, discounting rules, and equilibrium solvers through intuition and trial-and-error. Google DeepMind researchers proposes AlphaEvolve, an LLM-powered evolutionary coding agent […]\nThe post Google DeepMin",
+    "category": "ai-research",
+    "source": "MarkTechPost",
+    "author": "Unknown",
+    "publishedAt": "2026-04-03T22:26:00.000Z",
+    "url": "https://www.marktechpost.com/2026/04/03/google-deepminds-research-lets-an-llm-rewrite-its-own-game-theory-algorithms-and-it-outperformed-the-experts/",
+    "imageUrl": null,
+    "tags": [
+      "Research"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-04-04T05:14:02.422Z"
+  },
+  {
+    "id": "news-1775279642423-43",
+    "title": "Morgan Wallen Says He’ll Start Sharing ‘Sneak Peeks’ of New Music Soon: ‘I’m Still in the Early Stages’",
+    "summary": "Morgan Wallen performed a special show in Nashville to celebrate his upcoming SiriusXM channel Morgan Wallen Radio.",
     "category": "industry-news",
     "source": "Billboard",
     "author": "Unknown",
-    "publishedAt": "2026-04-02T23:57:00.000Z",
-    "url": "https://www.billboard.com/pro/music-industry-events-calendar-festivals-awards-conferences/",
+    "publishedAt": "2026-04-03T22:08:59.000Z",
+    "url": "https://www.billboard.com/music/country/morgan-wallen-sharing-sneak-peeks-new-music-soon-1236215239/",
     "imageUrl": null,
     "tags": [],
     "readTime": 1,
-    "fetchedAt": "2026-04-03T05:50:37.864Z"
+    "fetchedAt": "2026-04-04T05:14:02.423Z"
   },
   {
-    "id": "news-1775195437862-20",
+    "id": "news-1775279642422-28",
+    "title": "Meta Pauses Work With Mercor After Data Breach Puts AI Industry Secrets at Risk",
+    "summary": "Major AI labs are investigating a security incident that impacted Mercor, a leading data vendor. The incident could have exposed key data about how they train AI models.",
+    "category": "ai-research",
+    "source": "Wired AI",
+    "author": "Unknown",
+    "publishedAt": "2026-04-03T21:28:14.000Z",
+    "url": "https://www.wired.com/story/meta-pauses-work-with-mercor-after-data-breach-puts-ai-industry-secrets-at-risk/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-04-04T05:14:02.422Z"
+  },
+  {
+    "id": "news-1775279642423-44",
+    "title": "Zach Bryan Cancels Tulsa Concert Due to Extreme Weather: ‘I’ve Never Canceled a Show in My Life’",
+    "summary": "His second show in Tulsa is scheduled to continue as planned.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-04-03T21:14:14.000Z",
+    "url": "https://www.billboard.com/music/music-news/zach-bryan-cancels-tulsa-show-extreme-weather-1236215269/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-04-04T05:14:02.423Z"
+  },
+  {
+    "id": "news-1775279642423-45",
+    "title": "Morgan Wallen’s SiriusXM Concert in Nashville: 5 Top Moments",
+    "summary": "Morgan Wallen celebrated his new SiriusXM channel Morgan Wallen Radio by doing an underplay in Nashville for 4,000 SiriusXM subscribers.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-04-03T20:48:24.000Z",
+    "url": "https://www.billboard.com/lists/morgan-wallens-siriusxm-concert-nashville-5-top-moments/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-04-04T05:14:02.423Z"
+  },
+  {
+    "id": "news-1775279642420-1",
+    "title": "OpenAI executive shuffle includes new role for COO Brad Lightcap to lead ‘special projects’",
+    "summary": "In addition to Lightcap's new role, OpenAI CMO Kate Rouch will be stepping away from the company to focus on cancer recovery, with a plan to return when her health allows.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-04-03T20:35:34.000Z",
+    "url": "https://techcrunch.com/2026/04/03/openai-executive-shuffle-new-roles-coo-brad-lightcap-fidji-simo-kate-rouch/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-04-04T05:14:02.420Z"
+  },
+  {
+    "id": "news-1775279642420-2",
+    "title": "Anthropic buys biotech startup Coefficient Bio in $400M deal: Reports",
+    "summary": "Anthropic has purchased the stealth biotech AI startup Coefficient Bio in a $400 million stock deal, according to The Information and Eric Newcomer.",
+    "category": "industry-news",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-04-03T20:28:40.000Z",
+    "url": "https://techcrunch.com/2026/04/03/anthropic-buys-biotech-startup-coefficient-bio-in-400m-deal-reports/",
+    "imageUrl": null,
+    "tags": [
+      "AI",
+      "Startup"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-04-04T05:14:02.420Z"
+  },
+  {
+    "id": "news-1775279642420-3",
+    "title": "Anthropic ramps up its political activities with a new PAC",
+    "summary": "With the midterms right around the corner, the new group is positioned to back candidates who support the AI company's policy agenda. ",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-04-03T20:22:18.000Z",
+    "url": "https://techcrunch.com/2026/04/03/anthropic-ramps-up-its-political-activities-with-a-new-pac/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-04-04T05:14:02.420Z"
+  },
+  {
+    "id": "news-1775279642420-4",
+    "title": "AI companies are building huge natural gas plants to power data centers. What could go wrong?",
+    "summary": "Meta, Microsoft, and Google are all betting big on new natural gas power plants to run their AI data centers. They may regret it.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-04-03T19:48:22.000Z",
+    "url": "https://techcrunch.com/2026/04/03/ai-companies-are-building-huge-natural-gas-plants-to-power-data-centers-what-could-go-wrong/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-04-04T05:14:02.420Z"
+  },
+  {
+    "id": "news-1775279642422-34",
+    "title": "UMG and Believe settle lawsuit that alleged ‘industrial-scale’ copyright infringement of Universal’s music",
+    "summary": "Universal Music Group and Believe have settled the copyright infringement lawsuit filed against the Paris-headquartered music company and its distribution platform TuneCore in late 2024. A Joint Stipulation of Dismissal With Prejudice was filed today (April 3) in the US District Court for the Southern District of New York, confirming that all claims in the … Continued\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-04-03T16:47:27.000Z",
+    "url": "https://www.musicbusinessworldwide.com/umg-and-believe-settle-lawsuit-that-alleged-industrial-scale-copyright-infringement-of-universals-music/",
+    "imageUrl": null,
+    "tags": [
+      "AI",
+      "Copyright"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-04-04T05:14:02.422Z"
+  },
+  {
+    "id": "news-1775279642420-5",
+    "title": "The Facebook insider building content moderation for the AI era",
+    "summary": "Moonbounce has raised $12 million to grow its AI control engine that converts content moderation policies into consistent, predictable AI behavior. ",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-04-03T14:00:15.000Z",
+    "url": "https://techcrunch.com/2026/04/03/moonbounce-fundraise-content-moderation-for-the-ai-era/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-04-04T05:14:02.420Z"
+  },
+  {
+    "id": "news-1775279642422-22",
+    "title": "Step by Step Guide to Build an End-to-End Model Optimization Pipeline with NVIDIA Model Optimizer Using FastNAS Pruning and Fine-Tuning",
+    "summary": "In this tutorial, we build a complete end-to-end pipeline using NVIDIA Model Optimizer to train, prune, and fine-tune a deep learning model directly in Google Colab. We start by setting up the environment and preparing the CIFAR-10 dataset, then define a ResNet architecture and train it to establish a strong baseline. From there, we apply […]\nThe post Step by Step Guide to Build an End-to-End Model Optimization Pipeline with NVIDIA Model Optimizer Using FastNAS Pruning and Fine-Tuning appe",
+    "category": "ai-research",
+    "source": "MarkTechPost",
+    "author": "Unknown",
+    "publishedAt": "2026-04-03T07:48:18.000Z",
+    "url": "https://www.marktechpost.com/2026/04/03/step-by-step-guide-to-build-an-end-to-end-model-optimization-pipeline-with-nvidia-model-optimizer-using-fastnas-pruning-and-fine-tuning/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-04-04T05:14:02.422Z"
+  },
+  {
+    "id": "news-1775279642422-23",
     "title": "Arcee AI Releases Trinity Large Thinking: An Apache 2.0 Open Reasoning Model for Long-Horizon Agents and Tool Use",
     "summary": "The landscape of open-source artificial intelligence has shifted from purely generative models toward systems capable of complex, multi-step reasoning. While proprietary ‘reasoning’ models have dominated the conversation, Arcee AI has released Trinity Large Thinking. This release is an open-weight reasoning model distributed under the Apache 2.0 license, positioning it as a transparent alternative for developers […]\nThe post Arcee AI Releases Trinity Large Thinking: An Apache 2",
     "category": "ai-research",
@@ -115,10 +280,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-04-03T05:50:37.862Z"
+    "fetchedAt": "2026-04-04T05:14:02.422Z"
   },
   {
-    "id": "news-1775195437862-21",
+    "id": "news-1775279642422-24",
     "title": "Defeating the ‘Token Tax’: How Google Gemma 4, NVIDIA, and OpenClaw are Revolutionizing Local Agentic AI: From RTX Desktops to DGX Spark",
     "summary": "Run Google’s latest omni-capable open models faster on NVIDIA RTX AI PCs, from NVIDIA Jetson Orin Nano, GeForce RTX desktops to the new DGX Spark, to build personalized, always-on AI assistants like OpenClaw without paying a massive “token tax” for every action. The landscape of modern AI is shifting rapidly. We are moving away from […]\nThe post Defeating the ‘Token Tax’: How Google Gemma 4, NVIDIA, and OpenClaw are Revolutionizing Local Agentic AI: From RTX Desktops to DGX Spa",
     "category": "ai-research",
@@ -131,10 +296,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-04-03T05:50:37.862Z"
+    "fetchedAt": "2026-04-04T05:14:02.422Z"
   },
   {
-    "id": "news-1775195437863-29",
+    "id": "news-1775279642422-29",
     "title": "OpenAI Acquires Tech Talk Show ‘TBPN’—and Buys Itself Some Positive News",
     "summary": "OpenAI is acquiring TBPN, a business talk show that’s popular among Silicon Valley elites, as it continues to battle its negative public image.",
     "category": "tech-innovation",
@@ -147,165 +312,6 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-04-03T05:50:37.863Z"
-  },
-  {
-    "id": "news-1775195437860-0",
-    "title": "OpenAI acquires TBPN, the buzzy founder-led business talk show",
-    "summary": "TBPN, Silicon Valley's cult-favorite tech podcast, will operate independently, even as it's overseen by chief political operative Chris Lehane.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-04-02T19:21:00.000Z",
-    "url": "https://techcrunch.com/2026/04/02/openai-acquires-tbpn-the-buzzy-founder-led-business-talk-show/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-04-03T05:50:37.860Z"
-  },
-  {
-    "id": "news-1775195437863-36",
-    "title": "Dialled In Records launches in London focused on South Asian music in partnership with The Collective, part of Universal Music UK’s Island-EMI",
-    "summary": "Dialled In Records launches with two acts: Pakistan-born producer and DJ Ahadadream, and Excise Dept, an India-based multidisciplinary collective.\nSource",
-    "category": "industry-news",
-    "source": "Music Business Worldwide",
-    "author": "Unknown",
-    "publishedAt": "2026-04-02T17:07:37.000Z",
-    "url": "https://www.musicbusinessworldwide.com/dialled-in-records-launches-in-london-focused-on-south-asian-music-in-partnership-with-island-emis-the-collective/",
-    "imageUrl": null,
-    "tags": [
-      "Partnership"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-04-03T05:50:37.863Z"
-  },
-  {
-    "id": "news-1775195437863-37",
-    "title": "Wyclef Jean and Jaeson Ma’s D2C service OpenWav launches Snafu-backed indie artist financing platform",
-    "summary": "OpenWav says it can pay advances 'anywhere from the low five figures to the high seven figures'\nSource",
-    "category": "industry-news",
-    "source": "Music Business Worldwide",
-    "author": "Unknown",
-    "publishedAt": "2026-04-02T17:02:10.000Z",
-    "url": "https://www.musicbusinessworldwide.com/wyclef-jean-and-jaeson-mas-d2c-service-openwav-launches-snafu-backed-indie-artist-financing-platform/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-04-03T05:50:37.863Z"
-  },
-  {
-    "id": "news-1775195437863-30",
-    "title": "Cursor Launches a New AI Agent Experience to Take On Claude Code and Codex",
-    "summary": "As Cursor launches the next generation of its product, the AI coding startup has to compete with OpenAI and Anthropic more directly than ever.",
-    "category": "tech-innovation",
-    "source": "Wired AI",
-    "author": "Unknown",
-    "publishedAt": "2026-04-02T17:00:00.000Z",
-    "url": "https://www.wired.com/story/cusor-launches-coding-agent-openai-anthropic/",
-    "imageUrl": null,
-    "tags": [
-      "AI",
-      "Startup"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-04-03T05:50:37.863Z"
-  },
-  {
-    "id": "news-1775195437863-38",
-    "title": "Meta touts Instagram as music superfan hub in new Luminate study",
-    "summary": "Musicians who participate in Instagram's Activation program see their streaming numbers jump by roughly 10% in the week an activation launches.\nSource",
-    "category": "industry-news",
-    "source": "Music Business Worldwide",
-    "author": "Unknown",
-    "publishedAt": "2026-04-02T16:51:45.000Z",
-    "url": "https://www.musicbusinessworldwide.com/meta-touts-instagram-as-music-superfan-hub-in-new-luminate-study/",
-    "imageUrl": null,
-    "tags": [
-      "Streaming",
-      "Research"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-04-03T05:50:37.863Z"
-  },
-  {
-    "id": "news-1775195437860-1",
-    "title": "Microsoft takes on AI rivals with three new foundational models",
-    "summary": "MAI released models that can transcribe voice into text as well as generate audio and images after the group's formation six months ago.",
-    "category": "tech-innovation",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-04-02T16:48:16.000Z",
-    "url": "https://techcrunch.com/2026/04/02/microsoft-takes-on-ai-rivals-with-three-new-foundational-models/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-04-03T05:50:37.861Z"
-  },
-  {
-    "id": "news-1775195437863-31",
-    "title": "Anthropic Says That Claude Contains Its Own Kind of Emotions",
-    "summary": "Researchers at the company found representations inside of Claude that perform functions similar to human feelings.",
-    "category": "tech-innovation",
-    "source": "Wired AI",
-    "author": "Unknown",
-    "publishedAt": "2026-04-02T16:00:00.000Z",
-    "url": "https://www.wired.com/story/anthropic-claude-research-functional-emotions/",
-    "imageUrl": null,
-    "tags": [
-      "AI",
-      "Research"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-04-03T05:50:37.863Z"
-  },
-  {
-    "id": "news-1775195437863-39",
-    "title": "TikTok’s distro service SoundOn cracks down on manipulated audio via ACRCloud partnership to intercept unauthorized tracks",
-    "summary": "ACRCloud’s Derivative Works Detection service uses audio fingerprinting to identify modified works \nSource",
-    "category": "industry-news",
-    "source": "Music Business Worldwide",
-    "author": "Unknown",
-    "publishedAt": "2026-04-02T12:18:44.000Z",
-    "url": "https://www.musicbusinessworldwide.com/tiktoks-distro-service-soundon-cracks-down-on-manipulated-audio-via-acrcloud-partnership-to-intercept-unauthorized-tracks/",
-    "imageUrl": null,
-    "tags": [
-      "Partnership"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-04-03T05:50:37.863Z"
-  },
-  {
-    "id": "news-1775195437863-40",
-    "title": "‘In today’s world, what does the word ‘manager’ mean? You’re really just sitting at the table with the artist.’",
-    "summary": "Culture Collective founder Jonathan Azu talks about his multi-hyphenate background, working with Grammy-winning artists, and where he wants to go from here…\n\n\nSource",
-    "category": "industry-news",
-    "source": "Music Business Worldwide",
-    "author": "Unknown",
-    "publishedAt": "2026-04-02T10:44:31.000Z",
-    "url": "https://www.musicbusinessworldwide.com/in-todays-world-what-does-the-word-manager-mean-youre-really-just-sitting-at-the-table-with-the-artist/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-04-03T05:50:37.863Z"
-  },
-  {
-    "id": "news-1775195437862-22",
-    "title": "How to Build Production Ready AgentScope Workflows with ReAct Agents, Custom Tools, Multi-Agent Debate, Structured Output and Concurrent Pipelines",
-    "summary": "In this tutorial, we build a complete AgentScope workflow from the ground up and run everything in Colab. We start by wiring OpenAI through AgentScope and validating a basic model call to understand how messages and responses are handled. From there, we define custom tool functions, register them in a toolkit, and inspect the auto-generated […]\nThe post How to Build Production Ready AgentScope Workflows with ReAct Agents, Custom Tools, Multi-Agent Debate, Structured Output and Concurrent P",
-    "category": "ai-research",
-    "source": "MarkTechPost",
-    "author": "Unknown",
-    "publishedAt": "2026-04-02T05:34:13.000Z",
-    "url": "https://www.marktechpost.com/2026/04/01/how-to-build-production-ready-agentscope-workflows-with-react-agents-custom-tools-multi-agent-debate-structured-output-and-concurrent-pipelines/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-04-03T05:50:37.862Z"
+    "fetchedAt": "2026-04-04T05:14:02.422Z"
   }
 ]
