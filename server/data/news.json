@@ -1,50 +1,289 @@
 [
   {
-    "id": "news-1775456255320-43",
-    "title": "Charli xcx Management Clarifies Sky Ferreira Claims About ‘Wuthering Heights’ Credits",
-    "summary": "After Sky Ferreira alleged her old demos were used on Charli xcx's Wuthering Heights album without credit, Charli's management team is sharing a statement on the situation.",
-    "category": "industry-news",
-    "source": "Billboard",
+    "id": "news-1775541503620-0",
+    "title": "AI startup Rocket offers vibe McKinsey-style reports at a fraction of the cost",
+    "summary": "Rocket's new AI platform combines strategy, product building, and competitive intelligence, aiming to move beyond code generation.",
+    "category": "tech-innovation",
+    "source": "TechCrunch AI",
     "author": "Unknown",
-    "publishedAt": "2026-04-06T01:31:21.000Z",
-    "url": "https://www.billboard.com/music/music-news/charli-xcx-sky-ferreira-wuthering-heights-credit-statement-1236215575/",
+    "publishedAt": "2026-04-07T05:30:00.000Z",
+    "url": "https://techcrunch.com/2026/04/06/indian-startup-rocket-wants-its-ai-to-do-mckinsey-style-consulting-at-a-fraction-of-the-cost/",
+    "imageUrl": null,
+    "tags": [
+      "AI",
+      "Startup"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-04-07T05:58:23.621Z"
+  },
+  {
+    "id": "news-1775541503622-22",
+    "title": "Meta AI Releases EUPE: A Compact Vision Encoder Family Under 100M Parameters That Rivals Specialist Models Across Image Understanding, Dense Prediction, and VLM Tasks",
+    "summary": "Running powerful AI on your smartphone isn’t just a hardware problem — it’s a model architecture problem. Most state-of-the-art vision encoders are enormous, and when you trim them down to fit on an edge device, they lose the capabilities that made them useful in the first place. Worse, specialized models tend to excel at one […]\nThe post Meta AI Releases EUPE: A Compact Vision Encoder Family Under 100M Parameters That Rivals Specialist Models Across Image Understanding, Dense ",
+    "category": "tech-innovation",
+    "source": "MarkTechPost",
+    "author": "Unknown",
+    "publishedAt": "2026-04-07T04:41:59.000Z",
+    "url": "https://www.marktechpost.com/2026/04/06/meta-ai-releases-eupe-a-compact-vision-encoder-family-under-100m-parameters-that-rivals-specialist-models-across-image-understanding-dense-prediction-and-vlm-tasks/",
     "imageUrl": null,
     "tags": [
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-04-06T06:17:35.320Z"
+    "fetchedAt": "2026-04-07T05:58:23.622Z"
   },
   {
-    "id": "news-1775456255320-44",
-    "title": "Fans Choose Sofia D’Angelo’s ‘Time’ as This Week’s Favorite New Music",
-    "summary": "Her new single brought more than 69% of the vote.",
+    "id": "news-1775541503624-45",
+    "title": "Lady Gaga ‘Absolutely Heartbroken’ to Cancel Tonight’s Montreal Concert: ‘I Truly Could Not Feel Worse About Letting You Down’",
+    "summary": "She had to cancel her third of three Mayhem Ball stops at Bell Centre due to an ongoing respiratory infection.",
     "category": "industry-news",
     "source": "Billboard",
     "author": "Unknown",
-    "publishedAt": "2026-04-05T23:17:12.000Z",
-    "url": "https://www.billboard.com/music/music-news/sofia-dangelo-time-favorite-new-music-poll-results-1236215551/",
+    "publishedAt": "2026-04-07T01:33:45.000Z",
+    "url": "https://www.billboard.com/music/pop/lady-gaga-montreal-concert-canceled-bell-centre-1236216521/",
     "imageUrl": null,
     "tags": [],
     "readTime": 1,
-    "fetchedAt": "2026-04-06T06:17:35.320Z"
+    "fetchedAt": "2026-04-07T05:58:23.624Z"
   },
   {
-    "id": "news-1775456255320-45",
-    "title": "Here Are All the K-Pop Albums That Have Topped the Billboard 200: Full List",
-    "summary": "BTS was the first K-pop act to top the all-genre chart; BLACKPINK was the first female K-pop act to do so.",
+    "id": "news-1775541503624-46",
+    "title": "&TEAM, Ai & Yuki Chiba to Perform at First Ever Global Citizen Live in Tokyo",
+    "summary": "More performers at the inaugural Japanese concert will be announced in the coming weeks.",
     "category": "industry-news",
     "source": "Billboard",
     "author": "Unknown",
-    "publishedAt": "2026-04-05T21:18:21.000Z",
-    "url": "https://www.billboard.com/lists/k-pop-albums-number-one-billboard-200-albums-full-list/",
+    "publishedAt": "2026-04-07T01:00:00.000Z",
+    "url": "https://www.billboard.com/music/music-news/global-citizen-live-tokyo-lineup-andteam-ai-yuki-chiba-1236216379/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-04-07T05:58:23.624Z"
+  },
+  {
+    "id": "news-1775541503624-47",
+    "title": "Anitta & Shakira Announce New ‘Choka Choka’ Collab",
+    "summary": "The upcoming single will be on Anitta's forthcoming album EQUILIBRIVM.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-04-07T00:33:06.000Z",
+    "url": "https://www.billboard.com/music/music-news/anitta-shakira-choka-choka-announcement-1236216468/",
     "imageUrl": null,
     "tags": [],
     "readTime": 1,
-    "fetchedAt": "2026-04-06T06:17:35.320Z"
+    "fetchedAt": "2026-04-07T05:58:23.624Z"
   },
   {
-    "id": "news-1775456255319-35",
+    "id": "news-1775541503622-23",
+    "title": "An Implementation Guide to Running NVIDIA Transformer Engine with Mixed Precision, FP8 Checks, Benchmarking, and Fallback Execution",
+    "summary": "In this tutorial, we implement an advanced, practical implementation of the NVIDIA Transformer Engine in Python, focusing on how mixed-precision acceleration can be explored in a realistic deep learning workflow. We set up the environment, verify GPU and CUDA readiness, attempt to install the required Transformer Engine components, and handle compatibility issues gracefully so that […]\nThe post An Implementation Guide to Running NVIDIA Transformer Engine with Mixed Precision, FP8 Checks, B",
+    "category": "ai-research",
+    "source": "MarkTechPost",
+    "author": "Unknown",
+    "publishedAt": "2026-04-06T23:23:53.000Z",
+    "url": "https://www.marktechpost.com/2026/04/06/an-implementation-guide-to-running-nvidia-transformer-engine-with-mixed-precision-fp8-checks-benchmarking-and-fallback-execution/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-04-07T05:58:23.622Z"
+  },
+  {
+    "id": "news-1775541503624-48",
+    "title": "Billboard’s Music Industry Events Calendar",
+    "summary": "A complete rundown of the most important events across the music business.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-04-06T23:19:00.000Z",
+    "url": "https://www.billboard.com/pro/music-industry-events-calendar-festivals-awards-conferences/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-04-07T05:58:23.624Z"
+  },
+  {
+    "id": "news-1775541503624-49",
+    "title": "Wireless Fest Organizer Defends Ye Headlining London Festival: ‘Forgiveness & Giving People a Second Chance Are Becoming a Lost Virtue’",
+    "summary": "The London mayor and the U.K.'s prime minister have spoken out against the decision to have West perform. ",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-04-06T23:01:19.000Z",
+    "url": "https://www.billboard.com/music/rb-hip-hop/wireless-fest-organizer-melvin-benn-kanye-west-defense-1236216332/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-04-07T05:58:23.624Z"
+  },
+  {
+    "id": "news-1775541503624-50",
+    "title": "Queen Latifah Returning to Host American Music Awards — 31 Years Later",
+    "summary": "The entertainer co-hosted the show in 1995 with Tom Jones and Lorrie Morgan, and now she'll take the reins solo on May 25.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-04-06T22:59:17.000Z",
+    "url": "https://www.billboard.com/music/awards/queen-latifah-host-2026-american-music-awards-1236216430/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-04-07T05:58:23.624Z"
+  },
+  {
+    "id": "news-1775541503621-1",
+    "title": "OpenAI alums have been quietly investing from a new, potentially $100M fund",
+    "summary": "Zero Shot, a new venture capital fund with deep ties to OpenAI, is aiming to raise $100 million for its first fund. It has already written some checks.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-04-06T21:54:26.000Z",
+    "url": "https://techcrunch.com/2026/04/06/openai-alums-have-been-quietly-investing-from-a-new-potentially-100m-fund/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-04-07T05:58:23.621Z"
+  },
+  {
+    "id": "news-1775541503621-2",
+    "title": "Google quietly launched an AI dictation app that works offline",
+    "summary": "Google's new offline-first dictation app uses Gemma AI models to take on the apps like Wispr Flow.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-04-06T18:54:33.000Z",
+    "url": "https://techcrunch.com/2026/04/06/google-quietly-releases-an-offline-first-ai-dictation-app-on-ios/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-04-07T05:58:23.621Z"
+  },
+  {
+    "id": "news-1775541503621-3",
+    "title": "Iran threatens ‘Stargate’ AI data centers",
+    "summary": "Iran said it will target U.S.-linked data centers with new missile strikes, as the war between the U.S. and Iran escalates. ",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-04-06T18:06:28.000Z",
+    "url": "https://techcrunch.com/2026/04/06/iran-threatens-stargate-ai-data-centers/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-04-07T05:58:23.621Z"
+  },
+  {
+    "id": "news-1775541503621-4",
+    "title": "OpenAI’s vision for the AI economy: public wealth funds, robot taxes, and a four-day workweek",
+    "summary": "OpenAI proposes taxes on AI profits, public wealth funds, and expanded safety nets to address job loss and inequality, blending redistribution with capitalism as policymakers debate AI’s economic impact.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-04-06T15:55:55.000Z",
+    "url": "https://techcrunch.com/2026/04/06/openais-vision-for-the-ai-economy-public-wealth-funds-robot-taxes-and-a-four-day-work-week/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-04-07T05:58:23.621Z"
+  },
+  {
+    "id": "news-1775541503621-5",
+    "title": "How to use the new ChatGPT app integrations, including DoorDash, Spotify, Uber, and others",
+    "summary": "Learn how to use Spotify, Canva, Figma, Expedia, and other apps directly in ChatGPT. ",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-04-06T14:11:42.000Z",
+    "url": "https://techcrunch.com/2026/04/06/how-to-use-chatgpt-apps-doordash-spotify-uber/",
+    "imageUrl": null,
+    "tags": [
+      "Spotify"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-04-07T05:58:23.621Z"
+  },
+  {
+    "id": "news-1775541503621-6",
+    "title": "Spain’s Xoople raises $130 million Series B to map the Earth for AI",
+    "summary": "The company is also announcing a deal with L3Harris to build the sensors for Xoople's spacecraft.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-04-06T13:00:00.000Z",
+    "url": "https://techcrunch.com/2026/04/06/spains-xoople-raises-130-million-series-b-to-map-the-earth-for-ai/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-04-07T05:58:23.621Z"
+  },
+  {
+    "id": "news-1775541503623-31",
+    "title": "The Ridiculously Nerdy Intel Bet That Could Rake in Billions",
+    "summary": "Advanced chip packaging is suddenly at the center of the AI boom. Intel is going all in.",
+    "category": "tech-innovation",
+    "source": "Wired AI",
+    "author": "Unknown",
+    "publishedAt": "2026-04-06T09:00:00.000Z",
+    "url": "https://www.wired.com/story/why-chip-packaging-could-decide-the-next-phase-of-the-ai-boom/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-04-07T05:58:23.623Z"
+  },
+  {
+    "id": "news-1775541503623-37",
+    "title": "Pepsi and Diageo withdraw sponsorship of UK’s Wireless Festival as Kanye West booking sparks backlash",
+    "summary": "\"We have informed the organizers of our concerns, and as it stands, Diageo will not sponsor the 2026 Wireless festival,\" said a company spokesperson.\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-04-06T08:21:05.000Z",
+    "url": "https://www.musicbusinessworldwide.com/pepsi-and-diageo-withdraw-sponsorship-of-uks-wireless-festival-as-kanye-west-booking-sparks-backlash/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-04-07T05:58:23.623Z"
+  },
+  {
+    "id": "news-1775541503622-24",
+    "title": "RightNow AI Releases AutoKernel: An Open-Source Framework that Applies an Autonomous Agent Loop to GPU Kernel Optimization for Arbitrary PyTorch Models",
+    "summary": "Writing fast GPU code is one of the most grueling specializations in machine learning engineering. Researchers from RightNow AI want to automate it entirely. The RightNow AI research team has released AutoKernel, an open-source framework that applies an autonomous LLM agent loop to GPU kernel optimization for arbitrary PyTorch models. The approach is straightforward: give […]\nThe post RightNow AI Releases AutoKernel: An Open-Source Framework that Applies an Autonomous Agent Loop to GPU Ker",
+    "category": "ai-research",
+    "source": "MarkTechPost",
+    "author": "Unknown",
+    "publishedAt": "2026-04-06T08:20:19.000Z",
+    "url": "https://www.marktechpost.com/2026/04/06/rightnow-ai-releases-autokernel-an-open-source-framework-that-applies-an-autonomous-agent-loop-to-gpu-kernel-optimization-for-arbitrary-pytorch-models/",
+    "imageUrl": null,
+    "tags": [
+      "AI",
+      "Machine Learning",
+      "Research"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-04-07T05:58:23.622Z"
+  },
+  {
+    "id": "news-1775541503623-38",
     "title": "A folk musician had her voice cloned by AI – and her recordings claimed by a copyright troll. Welcome to 2026.",
     "summary": "Gamma-owned Vydia caught in controversy over musician whose videos were claimed against\nSource",
     "category": "industry-news",
@@ -58,24 +297,10 @@
       "Copyright"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-04-06T06:17:35.319Z"
+    "fetchedAt": "2026-04-07T05:58:23.623Z"
   },
   {
-    "id": "news-1775456255320-46",
-    "title": "Lululemon Updates Viral Festival Bag With Some Serious Streetwear Cred: Shop the Crossbody Here",
-    "summary": "With a cozy crossbody strap and multiple ways to wear it, this bag will be your new music festival go-to. ",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-04-05T20:53:00.000Z",
-    "url": "https://www.billboard.com/culture/product-recommendations/lululemon-all-night-festival-bag-buy-online-1235966327/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-04-06T06:17:35.320Z"
-  },
-  {
-    "id": "news-1775456255319-21",
+    "id": "news-1775541503622-25",
     "title": "Meet MaxToki: The AI That Predicts How Your Cells Age — and What to Do About It",
     "summary": "Most foundation models in biology have a fundamental blind spot: they see cells as frozen snapshots. Give a model a single-cell transcriptome — a readout of which genes are active in a cell at a given moment — and it can tell you a lot about what that cell is doing right now. What it […]\nThe post Meet MaxToki: The AI That Predicts How Your Cells Age — and What to Do About It appeared first on MarkTechPost.\n",
     "category": "ai-research",
@@ -88,219 +313,6 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-04-06T06:17:35.319Z"
-  },
-  {
-    "id": "news-1775456255319-36",
-    "title": "Tuma Basa exits YouTube after eight years with Google platform",
-    "summary": "Basa was previously Global Programming Head of Hip-Hop at Spotify, where he became closely associated with the platform's RapCaviar playlist\nSource",
-    "category": "industry-news",
-    "source": "Music Business Worldwide",
-    "author": "Unknown",
-    "publishedAt": "2026-04-05T20:24:50.000Z",
-    "url": "https://www.musicbusinessworldwide.com/tuma-basa-exits-youtube-after-eight-years-with-google-platform/",
-    "imageUrl": null,
-    "tags": [
-      "Spotify"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-04-06T06:17:35.319Z"
-  },
-  {
-    "id": "news-1775456255319-37",
-    "title": "Providence-backed ATG Entertainment launches ATG Live, a dedicated concerts, comedy and events division across 18 US venues",
-    "summary": "\"We see tremendous opportunity ahead and are excited to continue expanding our reach while delivering unforgettable experiences for audiences and partners across the U.S.\"\nSource",
-    "category": "industry-news",
-    "source": "Music Business Worldwide",
-    "author": "Unknown",
-    "publishedAt": "2026-04-05T20:16:13.000Z",
-    "url": "https://www.musicbusinessworldwide.com/providence-backed-atg-entertainment-launches-atg-live-a-dedicated-concerts-comedy-and-events-division-across-18-us-venues/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-04-06T06:17:35.319Z"
-  },
-  {
-    "id": "news-1775456255319-38",
-    "title": "IMPALA was unhappy about UMG’s purchase of Downtown. Now it says WMG’s Revelator acquisition is ‘bad news for artists, fans, and Europe’s diversity’.",
-    "summary": "\"It is testament to the innovation in the independent sector that Revelator has been bought by Warner,\" IMPALA said in its statement\nSource",
-    "category": "industry-news",
-    "source": "Music Business Worldwide",
-    "author": "Unknown",
-    "publishedAt": "2026-04-05T20:09:47.000Z",
-    "url": "https://www.musicbusinessworldwide.com/impala-was-unhappy-about-umgs-purchase-of-downtown-now-it-says-wmgs-revelator-acquisition-is-bad-news-for-artists-fans-and-europes-diversity/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-04-06T06:17:35.319Z"
-  },
-  {
-    "id": "news-1775456255320-47",
-    "title": "Morgan Wallen, Garth Brooks, Taylor Swift & More Artists With Most Weeks at No. 1 on Top Country Albums Chart: Full List",
-    "summary": "Male solo artists dominate, though three female solo artists and two groups have also achieved the feat.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-04-05T20:02:19.000Z",
-    "url": "https://www.billboard.com/lists/top-country-albums-number-ones-biggest/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-04-06T06:17:35.320Z"
-  },
-  {
-    "id": "news-1775456255320-48",
-    "title": "Guns N’ Roses Play Rare Deep Cut Live for First Time in 35 Years at São Paulo Show",
-    "summary": "The band performed the Use Your Illusion I track at Monsters of Rock Brazil on April 4.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-04-05T19:46:38.000Z",
-    "url": "https://www.billboard.com/music/music-news/guns-n-roses-bad-apples-live-first-time-35-years-sao-paulo-1236215510/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-04-06T06:17:35.320Z"
-  },
-  {
-    "id": "news-1775456255318-0",
-    "title": "Copilot is ‘for entertainment purposes only,’ according to Microsoft’s terms of use",
-    "summary": "AI skeptics aren’t the only ones warning users not to unthinkingly trust models’ outputs — that’s what the AI companies say themselves in their terms of service.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-04-05T18:51:37.000Z",
-    "url": "https://techcrunch.com/2026/04/05/copilot-is-for-entertainment-purposes-only-according-to-microsofts-terms-of-service/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-04-06T06:17:35.318Z"
-  },
-  {
-    "id": "news-1775456255320-49",
-    "title": "Jack White Hilariously Flubs Guitar Solo in Jack Black’s ‘SNL’ Country Song Sketch: Watch",
-    "summary": "The rocker also served as musical guest during the Black-hosted episode on April 4.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-04-05T18:27:45.000Z",
-    "url": "https://www.billboard.com/music/music-news/jack-white-forgets-guitar-solo-jack-black-snl-country-song-1236215499/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-04-06T06:17:35.320Z"
-  },
-  {
-    "id": "news-1775456255320-50",
-    "title": "Jack White Electrifies With New Songs ‘Derecho Demonico’ & ‘G.O.D. And The Broken Ribs’ on ‘SNL’: Watch",
-    "summary": "The Detroit rocker returned as musical guest alongside host Jack Black on April 4.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-04-05T17:15:45.000Z",
-    "url": "https://www.billboard.com/music/music-news/jack-white-snl-derecho-demonico-god-and-the-broken-ribs-1236215491/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-04-06T06:17:35.320Z"
-  },
-  {
-    "id": "news-1775456255320-51",
-    "title": "Pepsi Drops Wireless Festival Sponsorship After Criticism Over Ye Booking",
-    "summary": "The British prime minister also called the rap star’s upcoming appearance “deeply concerning.”",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-04-05T15:51:34.000Z",
-    "url": "https://www.billboard.com/music/music-news/pepsi-drops-wireless-festival-sponsorship-kanye-west-1236215480/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-04-06T06:17:35.320Z"
-  },
-  {
-    "id": "news-1775456255318-1",
-    "title": "In Japan, the robot isn’t coming for your job; it’s filling the one nobody wants",
-    "summary": "Driven by labor shortages, Japan is pushing physical AI from pilot projects into real-world deployment.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-04-05T14:00:00.000Z",
-    "url": "https://techcrunch.com/2026/04/05/japan-is-proving-experimental-physical-ai-is-ready-for-the-real-world/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-04-06T06:17:35.318Z"
-  },
-  {
-    "id": "news-1775456255319-22",
-    "title": "Meet ‘AutoAgent’: The Open-Source Library That Lets an AI Engineer and Optimize Its Own Agent Harness Overnight",
-    "summary": "There’s a particular kind of tedium that every AI engineer knows intimately: the prompt-tuning loop. You write a system prompt, run your agent against a benchmark, read the failure traces, tweak the prompt, add a tool, rerun. Repeat this a few dozen times and you might move the needle. It’s grunt work dressed up in […]\nThe post Meet ‘AutoAgent’: The Open-Source Library That Lets an AI Engineer and Optimize Its Own Agent Harness Overnight appeared first on MarkTechPo",
-    "category": "ai-research",
-    "source": "MarkTechPost",
-    "author": "Unknown",
-    "publishedAt": "2026-04-05T09:21:16.000Z",
-    "url": "https://www.marktechpost.com/2026/04/05/meet-autoagent-the-open-source-library-that-lets-an-ai-engineer-and-optimize-its-own-agent-harness-overnight/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-04-06T06:17:35.319Z"
-  },
-  {
-    "id": "news-1775456255319-23",
-    "title": "Inside the Creative Artificial Intelligence (AI) Stack: Where Human Vision and Artificial Intelligence Meet to Design Future Fashion",
-    "summary": "Fashion has always been about anticipation, determining what one would prefer to wear before they know it themselves. It’s meant in terms of intuition, presentation, experience, and the “good eye”. Today, it can be conveyed through algorithms, neural networks, and machine learning. Artificial Intelligence is no longer at the dregs, but very much at the […]\nThe post Inside the Creative Artificial Intelligence (AI) Stack: Where Human Vision and Artificial Intelligence Meet to Design Future F",
-    "category": "ai-research",
-    "source": "MarkTechPost",
-    "author": "Unknown",
-    "publishedAt": "2026-04-05T08:45:37.000Z",
-    "url": "https://www.marktechpost.com/2026/04/05/inside-the-creative-artificial-intelligence-ai-stack-where-human-vision-and-artificial-intelligence-meet-to-design-future-fashion/",
-    "imageUrl": null,
-    "tags": [
-      "AI",
-      "Machine Learning"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-04-06T06:17:35.319Z"
-  },
-  {
-    "id": "news-1775456255318-2",
-    "title": "Anthropic says Claude Code subscribers will need to pay extra for OpenClaw usage",
-    "summary": "It’s about to become more expensive for Claude Code subscribers to use Anthropic’s coding assistant with OpenClaw and other third-party tools.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-04-04T16:32:22.000Z",
-    "url": "https://techcrunch.com/2026/04/04/anthropic-says-claude-code-subscribers-will-need-to-pay-extra-for-openclaw-support/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-04-06T06:17:35.318Z"
-  },
-  {
-    "id": "news-1775456255319-29",
-    "title": "Hackers Are Posting the Claude Code Leak With Bonus Malware",
-    "summary": "Plus: The FBI says a recent hack of its wiretap tools poses a national security risk, attackers stole Cisco source code as part of an ongoing supply chain hacking spree, and more.",
-    "category": "tech-innovation",
-    "source": "Wired AI",
-    "author": "Unknown",
-    "publishedAt": "2026-04-04T10:30:00.000Z",
-    "url": "https://www.wired.com/story/security-news-this-week-hackers-are-posting-the-claude-code-leak-with-bonus-malware/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-04-06T06:17:35.319Z"
+    "fetchedAt": "2026-04-07T05:58:23.622Z"
   }
 ]
