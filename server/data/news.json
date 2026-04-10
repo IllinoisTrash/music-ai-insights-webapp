@@ -1,321 +1,316 @@
 [
   {
-    "id": "news-1775714366184-21",
-    "title": "Google AI Research Introduces PaperOrchestra: A Multi-Agent Framework for Automated AI Research Paper Writing",
-    "summary": "Writing a research paper is brutal. Even after the experiments are done, a researcher still faces weeks of translating messy lab notes, scattered results tables, and half-formed ideas into a polished, logically coherent manuscript formatted precisely to a conference’s specifications. For many fresh researchers, that translation work is where papers go to die. A team […]\nThe post Google AI Research Introduces PaperOrchestra: A Multi-Agent Framework for Automated AI Research Paper Writ",
+    "id": "news-1775801911378-45",
+    "title": "FISHER’s Out 2 Lunch Festival Postponed Due to ‘Unprecedented Situation for Australia’",
+    "summary": "\"Across Australia, fans and communities are navigating significant pressures arising from the cost-of-living crisis, rising inflation and broader economic uncertainty.\"",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-04-10T06:09:05.000Z",
+    "url": "https://www.billboard.com/music/concerts/fisher-out-2-lunch-fest-postponed-unprecedented-situation-1236219594/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-04-10T06:18:31.378Z"
+  },
+  {
+    "id": "news-1775801911378-46",
+    "title": "Ella Langley’s ‘Dandelion’: Every Song Ranked",
+    "summary": "We're choosin' our favorites on Langley's new album.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-04-10T04:01:00.000Z",
+    "url": "https://www.billboard.com/lists/ella-langley-dandelion-review-songs-ranked-list/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-04-10T06:18:31.378Z"
+  },
+  {
+    "id": "news-1775801911378-47",
+    "title": "Ella Langley Stays True to Her Roots on Introspective New Album ‘Dandelion’: Stream It Now",
+    "summary": "The country star explores heartbreak, love, loss, faith and more on the new set.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-04-10T04:00:11.000Z",
+    "url": "https://www.billboard.com/music/country/ella-langley-dandelion-stream-it-now-1236218920/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-04-10T06:18:31.378Z"
+  },
+  {
+    "id": "news-1775801911376-19",
+    "title": "Five AI Compute Architectures Every Engineer Should Know: CPUs, GPUs, TPUs, NPUs, and LPUs Compared",
+    "summary": "Modern AI is no longer powered by a single type of processor—it runs on a diverse ecosystem of specialized compute architectures, each making deliberate tradeoffs between flexibility, parallelism, and memory efficiency. While traditional systems relied heavily on CPUs, today’s AI workloads are distributed across GPUs for massive parallel computation, NPUs for efficient on-device inference, and […]\nThe post Five AI Compute Architectures Every Engineer Should Know: CPUs, GPUs, TPUs, NPUs, an",
     "category": "ai-research",
     "source": "MarkTechPost",
     "author": "Unknown",
-    "publishedAt": "2026-04-09T03:25:24.000Z",
-    "url": "https://www.marktechpost.com/2026/04/08/google-ai-research-introduces-paperorchestra-a-multi-agent-framework-for-automated-ai-research-paper-writing/",
-    "imageUrl": null,
-    "tags": [
-      "AI",
-      "Research"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-04-09T05:59:26.184Z"
-  },
-  {
-    "id": "news-1775714366185-47",
-    "title": "Opera Meets Cumbia: Andrea Bocelli to Perform at Mexico’s Zócalo With Los Ángeles Azules & Ximena Sariñana",
-    "summary": "The free concert in the iconic square will be April 18.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-04-09T00:43:50.000Z",
-    "url": "https://www.billboard.com/music/latin/andrea-bocelli-mexico-zocalo-angeles-azules-ximena-sarinana-1236218507/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-04-09T05:59:26.185Z"
-  },
-  {
-    "id": "news-1775714366185-48",
-    "title": "Eden Muñoz’s ‘Mi Yo De Antes’ Hits No. 1 on Regional Mexican Airplay Chart: ‘It’s Like a Big Hug to the Entire Team’",
-    "summary": "The singer/songwriter reaches double digits, achieving his 10th No. 1.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-04-09T00:29:03.000Z",
-    "url": "https://www.billboard.com/music/chart-beat/eden-munoz-mi-yo-de-antes-hits-no-1-1236218477/",
+    "publishedAt": "2026-04-10T03:58:02.000Z",
+    "url": "https://www.marktechpost.com/2026/04/09/five-ai-compute-architectures-every-engineer-should-know-cpus-gpus-tpus-npus-and-lpus-compared/",
     "imageUrl": null,
     "tags": [
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-04-09T05:59:26.185Z"
+    "fetchedAt": "2026-04-10T06:18:31.376Z"
   },
   {
-    "id": "news-1775714366185-49",
-    "title": "Sabrina Carpenter Shouts Out Queer Community’s Impact on Entertainment: ‘I Don’t think Pop Music Would Exist If it Wasn’t for the Queer Community’",
-    "summary": "In an interview with Perfect, the pop star showed love to her LGBTQ+ friends and collaborators.  ",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-04-09T00:22:06.000Z",
-    "url": "https://www.billboard.com/music/music-news/sabrina-carpenter-shouts-out-queer-community-impact-pop-1236218392/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-04-09T05:59:26.186Z"
-  },
-  {
-    "id": "news-1775714366186-50",
-    "title": "What Is UMG’s Real Value? Investors & Music Execs Weigh in on Pershing Square Bid",
-    "summary": "Some industry observers believe Ackman is looking to buy the music giant on the cheap.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-04-08T23:56:37.000Z",
-    "url": "https://www.billboard.com/pro/umg-pershing-square-offer-investors-execs-bill-ackman-bid/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-04-09T05:59:26.186Z"
-  },
-  {
-    "id": "news-1775714366186-51",
-    "title": "Flea Makes His Solo Billboard Chart Debut, With ‘Honora’ Arriving on 6 Album Charts",
-    "summary": "The jazz set brings the Red Hot Chili Peppers bassist to the top 10 on multiple rankings.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-04-08T22:51:14.000Z",
-    "url": "https://www.billboard.com/music/chart-beat/flea-honora-album-billboard-chart-debut-1236218335/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-04-09T05:59:26.186Z"
-  },
-  {
-    "id": "news-1775714366185-29",
-    "title": "Conflicting Rulings Leave Anthropic in ‘Supply-Chain Risk’ Limbo",
-    "summary": "A US appeals court ruling is at odds with a separate, lower court decision from March, leaving uncertainty about if and how the US military can use the AI company's Claude model.",
-    "category": "tech-innovation",
-    "source": "Wired AI",
-    "author": "Unknown",
-    "publishedAt": "2026-04-08T22:27:26.000Z",
-    "url": "https://www.wired.com/story/anthropic-appeals-court-ruling/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-04-09T05:59:26.185Z"
-  },
-  {
-    "id": "news-1775714366184-22",
-    "title": "Meet OSGym: A New OS Infrastructure Framework That Manages 1,000+ Replicas at $0.23/Day for Computer Use Agent Research",
-    "summary": "Training AI agents that can actually use a computer — opening apps, clicking buttons, browsing the web, writing code — is one of the hardest infrastructure problems in modern AI. It’s not a data problem. It’s not a model problem. It’s a plumbing problem. You need to spin up hundreds, potentially thousands, of full operating […]\nThe post Meet OSGym: A New OS Infrastructure Framework That Manages 1,000+ Replicas at $0.23/Day for Computer Use Agent Research appeared first on",
+    "id": "news-1775801911376-20",
+    "title": "An End-to-End Coding Guide to NVIDIA KVPress for Long-Context LLM Inference, KV Cache Compression, and Memory-Efficient Generation",
+    "summary": "In this tutorial, we take a detailed, practical approach to exploring NVIDIA’s KVPress and understanding how it can make long-context language model inference more efficient. We begin by setting up the full environment, installing the required libraries, loading a compact Instruct model, and preparing a simple workflow that runs in Colab while still demonstrating the […]\nThe post An End-to-End Coding Guide to NVIDIA KVPress for Long-Context LLM Inference, KV Cache Compression, and Memory-E",
     "category": "ai-research",
     "source": "MarkTechPost",
     "author": "Unknown",
-    "publishedAt": "2026-04-08T21:54:44.000Z",
-    "url": "https://www.marktechpost.com/2026/04/08/meet-osgym-a-new-os-infrastructure-framework-that-manages-1000-replicas-at-0-23-day-for-computer-use-agent-research/",
+    "publishedAt": "2026-04-10T02:21:18.000Z",
+    "url": "https://www.marktechpost.com/2026/04/09/an-end-to-end-coding-guide-to-nvidia-kvpress-for-long-context-llm-inference-kv-cache-compression-and-memory-efficient-generation/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-04-10T06:18:31.376Z"
+  },
+  {
+    "id": "news-1775801911377-26",
+    "title": "OpenAI Backs Bill That Would Limit Liability for AI-Enabled Mass Deaths or Financial Disasters",
+    "summary": "The ChatGPT-maker testified in favor of an Illinois bill that would limit when AI labs can be held liable—even in cases where their products cause “critical harm.”",
+    "category": "ai-research",
+    "source": "Wired AI",
+    "author": "Unknown",
+    "publishedAt": "2026-04-10T00:19:53.000Z",
+    "url": "https://www.wired.com/story/openai-backs-bill-exempt-ai-firms-model-harm-lawsuits/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-04-10T06:18:31.377Z"
+  },
+  {
+    "id": "news-1775801911378-48",
+    "title": "Kany García Breaks Down 5 Essential Tracks From Her New Album ‘Puerta Abierta’",
+    "summary": "\"I did everything backward,\" the Puerto Rican singer/songwriter tells Billboard Español.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-04-10T00:00:00.000Z",
+    "url": "https://www.billboard.com/lists/kany-garcia-new-album-puerta-abierta-5-essential-tracks/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-04-10T06:18:31.378Z"
+  },
+  {
+    "id": "news-1775801911378-49",
+    "title": "BTS’ ‘ARIRANG’ Concert Setlist: Every Song From Night 1 at South Korea’s Goyang Stadium",
+    "summary": "The night featured tracks from the new album among older hits.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-04-09T22:50:49.000Z",
+    "url": "https://www.billboard.com/lists/bts-setlist-every-song-arirang-tour-goyang-stadium/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-04-10T06:18:31.378Z"
+  },
+  {
+    "id": "news-1775801911374-0",
+    "title": "ChatGPT finally offers $100/month Pro plan",
+    "summary": "OpenAI announced on Thursday something that power users have been asking for: a $100/month plan. Previously, subscriptions jumped from $20 to $200 per month.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-04-09T21:29:11.000Z",
+    "url": "https://techcrunch.com/2026/04/09/chatgpt-pro-plan-100-month-codex/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-04-10T06:18:31.375Z"
+  },
+  {
+    "id": "news-1775801911375-1",
+    "title": "Florida AG announces investigation into OpenAI over shooting that allegedly involved ChatGPT",
+    "summary": "ChatGPT had reportedly been used to plan the attack that killed two and injured five at Florida State University last April. The family of one victim has said that they plan to sue OpenAI over the incident.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-04-09T20:11:55.000Z",
+    "url": "https://techcrunch.com/2026/04/09/florida-ag-investigation-openai-chatgpt-shooting/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-04-10T06:18:31.375Z"
+  },
+  {
+    "id": "news-1775801911375-2",
+    "title": "Meta AI app climbs to No. 5 on the App Store after Muse Spark launch",
+    "summary": "The app was ranking No. 57 on the App Store just before Meta AI's new model launched. Now it's No. 5 — and rising. ",
+    "category": "tech-innovation",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-04-09T19:10:07.000Z",
+    "url": "https://techcrunch.com/2026/04/09/meta-ai-app-climbs-to-no-5-on-the-app-store-after-muse-spark-launch/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-04-10T06:18:31.375Z"
+  },
+  {
+    "id": "news-1775801911375-3",
+    "title": "Google and Intel deepen AI infrastructure partnership",
+    "summary": "The two tech giants are looking to co-develop custom chips, at a time when demand for CPUs is high due to a growing global shortage. ",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-04-09T18:27:47.000Z",
+    "url": "https://techcrunch.com/2026/04/09/google-and-intel-deepen-ai-infrastructure-partnership/",
     "imageUrl": null,
     "tags": [
       "AI",
-      "Research"
+      "Partnership"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-04-09T05:59:26.184Z"
+    "fetchedAt": "2026-04-10T06:18:31.375Z"
   },
   {
-    "id": "news-1775714366185-37",
-    "title": "Secretly Distribution acquires music data and analytics firms Entertainment Intelligence and Babel Ops",
-    "summary": "Babel Ops was founded in 2020 by Erik Gilbert and Greg Delaney, who previously co-founded Entertainment Intelligence in 2014.\nSource",
+    "id": "news-1775801911377-27",
+    "title": "The 70-Person AI Image Startup Taking on Silicon Valley's Giants",
+    "summary": "Black Forest Labs has long punched above its weight in the AI image generation space. Its next move? Powering physical AI.",
+    "category": "tech-innovation",
+    "source": "Wired AI",
+    "author": "Unknown",
+    "publishedAt": "2026-04-09T18:00:00.000Z",
+    "url": "https://www.wired.com/story/black-forest-labs-ai-image-generation/",
+    "imageUrl": null,
+    "tags": [
+      "AI",
+      "Startup"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-04-10T06:18:31.377Z"
+  },
+  {
+    "id": "news-1775801911377-35",
+    "title": "TuneCore partners with RoyFi to offer royalty advances to indie artists",
+    "summary": "Artists can secure direct cash advances without giving up equity or transferring ownership of copyrights.\nSource",
     "category": "industry-news",
     "source": "Music Business Worldwide",
     "author": "Unknown",
-    "publishedAt": "2026-04-08T21:26:26.000Z",
-    "url": "https://www.musicbusinessworldwide.com/secretly-distribution-acquires-music-data-and-analytics-firms-entertainment-intelligence-and-babel-ops/",
+    "publishedAt": "2026-04-09T14:05:53.000Z",
+    "url": "https://www.musicbusinessworldwide.com/tunecore-partners-with-royfi-to-offer-royalty-advances-to-indie-artists/",
     "imageUrl": null,
     "tags": [
-      "AI"
+      "Copyright"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-04-09T05:59:26.185Z"
+    "fetchedAt": "2026-04-10T06:18:31.377Z"
   },
   {
-    "id": "news-1775714366182-0",
-    "title": "Poke makes using AI agents as easy as sending a text",
-    "summary": "Poke brings AI agents to everyday users via text message by handling tasks and automations without complex setup, apps, or technical know-how.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-04-08T21:05:13.000Z",
-    "url": "https://techcrunch.com/2026/04/08/poke-makes-ai-agents-as-easy-as-sending-a-text/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-04-09T05:59:26.183Z"
-  },
-  {
-    "id": "news-1775714366185-38",
-    "title": "Bill Ackman thinks he’ll convince UMG shareholders to take his deal. JP Morgan isn’t so sure.",
-    "summary": "The music giant said it will review the proposal and analyze its implications for shareholders, employees, artists and songwriters. \nSource",
+    "id": "news-1775801911377-36",
+    "title": "Major labels and ISP Altice seek more time to weigh Supreme Court ruling in latest Cox fallout",
+    "summary": "The case has been put on hold since August 2025, pending the Supreme Court’s decision on Cox Communications v. Sony Music Entertainment.\nSource",
     "category": "industry-news",
     "source": "Music Business Worldwide",
     "author": "Unknown",
-    "publishedAt": "2026-04-08T20:58:18.000Z",
-    "url": "https://www.musicbusinessworldwide.com/bill-ackman-thinks-hell-convince-umg-shareholders-to-take-his-deal-jp-morgan-isnt-so-sure/",
+    "publishedAt": "2026-04-09T14:05:34.000Z",
+    "url": "https://www.musicbusinessworldwide.com/major-labels-and-isp-altice-seek-more-time-to-weigh-supreme-court-ruling-in-latest-cox-fallout/",
     "imageUrl": null,
     "tags": [
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-04-09T05:59:26.185Z"
+    "fetchedAt": "2026-04-10T06:18:31.377Z"
   },
   {
-    "id": "news-1775714366183-1",
-    "title": "AWS boss explains why investing billions in both Anthropic and OpenAI is an OK conflict",
-    "summary": "AWS has an ingrained culture of handling competition, he explained, because the cloud giant also competes with its partners. ",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
+    "id": "news-1775801911377-37",
+    "title": "Sony Music and UMG form NINE BY NINE music festivals joint venture in Japan",
+    "summary": "NINE BY NINE will engage in planning and production of music festivals in Asia, and supporting Japanese artists seeking to expand internationally.\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
     "author": "Unknown",
-    "publishedAt": "2026-04-08T20:09:14.000Z",
-    "url": "https://techcrunch.com/2026/04/08/aws-boss-explains-why-investing-billions-in-both-anthropic-and-openai-is-an-ok-conflict/",
+    "publishedAt": "2026-04-09T14:05:22.000Z",
+    "url": "https://www.musicbusinessworldwide.com/sony-music-and-umg-form-nine-by-nine-music-festivals-joint-venture-in-japan/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-04-10T06:18:31.377Z"
+  },
+  {
+    "id": "news-1775801911377-38",
+    "title": "Suno’s licensing talks with major labels in limbo with ‘no path forward’ (Report)",
+    "summary": "Talks with UMG and Warner Music have seen little progress, while Suno hasn't been able to reach a deal with Sony Music, according to the Financial Times.\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-04-09T14:04:48.000Z",
+    "url": "https://www.musicbusinessworldwide.com/sunos-licensing-talks-with-major-labels-in-limbo-with-no-path-forward-report/",
     "imageUrl": null,
     "tags": [
-      "AI"
+      "Copyright"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-04-09T05:59:26.183Z"
+    "fetchedAt": "2026-04-10T06:18:31.377Z"
   },
   {
-    "id": "news-1775714366185-30",
-    "title": "Meta’s New AI Model Gives Mark Zuckerberg a Seat at the Big Kid’s Table",
-    "summary": "Muse Spark is Meta’s first model since its AI reboot, and the benchmarks suggest formidable performance.",
-    "category": "ai-research",
-    "source": "Wired AI",
-    "author": "Unknown",
-    "publishedAt": "2026-04-08T18:51:09.000Z",
-    "url": "https://www.wired.com/story/muse-spark-meta-open-source-closed-source/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-04-09T05:59:26.185Z"
-  },
-  {
-    "id": "news-1775714366183-2",
-    "title": "Tubi is the first streamer to launch a native app within ChatGPT",
-    "summary": "Tubi becomes the first streaming service to offer an app integration within ChatGPT, the AI chatbot that millions of users turn to for answers. ",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-04-08T18:23:06.000Z",
-    "url": "https://techcrunch.com/2026/04/08/tubi-is-the-first-streamer-to-launch-a-native-app-within-chatgpt/",
-    "imageUrl": null,
-    "tags": [
-      "AI",
-      "Streaming"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-04-09T05:59:26.183Z"
-  },
-  {
-    "id": "news-1775714366185-31",
-    "title": "The US Army Is Building Its Own Chatbot for Combat",
-    "summary": "The AI system, trained on real military data, is meant to give soldiers mission-critical information.",
+    "id": "news-1775801911377-28",
+    "title": "The Pro-Iran Meme Machine Trolling Trump With AI Lego Cartoons",
+    "summary": "Since the beginning of the Iran war, the group Explosive Media has released over a dozen viral videos mocking Trump and the US.",
     "category": "tech-innovation",
     "source": "Wired AI",
     "author": "Unknown",
-    "publishedAt": "2026-04-08T18:00:00.000Z",
-    "url": "https://www.wired.com/story/army-developing-ai-system-victor-chatbot-soldiers/",
+    "publishedAt": "2026-04-09T13:25:21.000Z",
+    "url": "https://www.wired.com/story/inside-the-pro-iran-meme-machine-trolling-trump-with-ai-lego-cartoons/",
     "imageUrl": null,
     "tags": [
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-04-09T05:59:26.185Z"
+    "fetchedAt": "2026-04-10T06:18:31.377Z"
   },
   {
-    "id": "news-1775714366185-32",
-    "title": "Anthropic’s New Product Aims to Handle the Hard Part of Building AI Agents",
-    "summary": "Amid rapid enterprise growth, Anthropic is trying to lower the barrier to entry for businesses to build AI agents with Claude.",
-    "category": "tech-innovation",
-    "source": "Wired AI",
+    "id": "news-1775801911377-39",
+    "title": "After Universal, Warner, and Merlin deals, now Udio inks licensing agreement with Kobalt",
+    "summary": "The deal marks Kobalt’s second AI music platform partnership, following its 2025 licensing agreement with ElevenLabs.\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
     "author": "Unknown",
-    "publishedAt": "2026-04-08T17:00:00.000Z",
-    "url": "https://www.wired.com/story/anthropic-launches-claude-managed-agents/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-04-09T05:59:26.185Z"
-  },
-  {
-    "id": "news-1775714366183-3",
-    "title": "Astropad’s Workbench reimagines remote desktop for AI agents, not IT support",
-    "summary": "Astropad’s Workbench lets users remotely monitor and control AI agents on Mac Minis from iPhone or iPad, with low-latency streaming and mobile access.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-04-08T16:01:09.000Z",
-    "url": "https://techcrunch.com/2026/04/08/astropads-workbench-reimagines-remote-desktop-for-ai-agents-not-it-support/",
+    "publishedAt": "2026-04-09T13:00:00.000Z",
+    "url": "https://www.musicbusinessworldwide.com/after-universal-warner-and-merlin-deals-now-udio-inks-licensing-agreement-with-kobalt/",
     "imageUrl": null,
     "tags": [
       "AI",
-      "Streaming"
+      "Copyright",
+      "Partnership"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-04-09T05:59:26.183Z"
+    "fetchedAt": "2026-04-10T06:18:31.377Z"
   },
   {
-    "id": "news-1775714366183-4",
-    "title": "OpenAI releases a new safety blueprint to address the rise in child sexual exploitation",
-    "summary": "OpenAI's new Child Safety Blueprint aims to tackle the alarming rise in child sexual exploitation linked to advancements in AI.",
-    "category": "tech-innovation",
-    "source": "TechCrunch AI",
+    "id": "news-1775801911377-40",
+    "title": "The Unravelling of a ‘Bulletproof’ Brand: Wireless Festival’s Self-Inflicted Crisis",
+    "summary": "Music industry communications specialist weighs in on the Ye controversy, and Wireless Festival's cancellation\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
     "author": "Unknown",
-    "publishedAt": "2026-04-08T15:23:44.000Z",
-    "url": "https://techcrunch.com/2026/04/08/openai-releases-a-new-safety-blueprint-to-address-the-rise-in-child-sexual-exploitation/",
+    "publishedAt": "2026-04-09T11:19:50.000Z",
+    "url": "https://www.musicbusinessworldwide.com/the-unravelling-of-a-bulletproof-brand-wireless-festivals-self-inflicted-crisis/",
     "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
+    "tags": [],
     "readTime": 1,
-    "fetchedAt": "2026-04-09T05:59:26.183Z"
-  },
-  {
-    "id": "news-1775714366183-5",
-    "title": "Databricks co-founder wins prestigious ACM award, says ‘AGI is here already’",
-    "summary": "Matei Zaharia has won the top honor from the Association for Computing Machinery. Now he's working on AI for research and says AGI is simply misunderstood.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-04-08T15:00:00.000Z",
-    "url": "https://techcrunch.com/2026/04/08/databricks-matei-zaharia-wins-acm-computing-prize-agi/",
-    "imageUrl": null,
-    "tags": [
-      "AI",
-      "Research"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-04-09T05:59:26.183Z"
-  },
-  {
-    "id": "news-1775714366183-6",
-    "title": "Atlassian launches visual AI tools and third-party agents in Confluence",
-    "summary": "Confluence users can now create visual assets within the software in addition to new third-party agents working with Lovable, Replit, and Gamma. ",
-    "category": "tech-innovation",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-04-08T13:00:00.000Z",
-    "url": "https://techcrunch.com/2026/04/08/atlassian-confluence-visual-ai-tools-agents/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-04-09T05:59:26.183Z"
+    "fetchedAt": "2026-04-10T06:18:31.377Z"
   }
 ]
