@@ -1,96 +1,108 @@
 [
   {
-    "id": "news-1775884686419-45",
-    "title": "BINI Talks About Being the First Filipino Girl Group To Perform At Coachella | Billboard News",
-    "summary": "BINI talks about how they’re the first Filipino group to perform at Coachella festival and how their fans surprised them.",
+    "id": "news-1775974215179-36",
+    "title": "Katseye Talks About Performing “Pinky Up” For the First Time At Coachella & “Golden” With HUNTR/X | Billboard News",
+    "summary": "KATSEYE talks about performing their new song “Pinky Up” at Coachella 2026 weekend 1, how they feel about the choreography compared to some of the other songs and performing “Golden” from Netflix’s ‘KPop Demon Hunters’ with the girls with HUNTR/X.",
     "category": "industry-news",
     "source": "Billboard",
     "author": "Unknown",
-    "publishedAt": "2026-04-11T04:14:48.000Z",
-    "url": "https://www.billboard.com/video/bini-talks-about-being-the-first-filipino-girl-group-to-perform-at-coachella/",
+    "publishedAt": "2026-04-12T01:45:12.000Z",
+    "url": "https://www.billboard.com/video/katseye-talks-about-performing-pinky-up-for-the-first-time-at-coachella/",
     "imageUrl": null,
     "tags": [],
     "readTime": 1,
-    "fetchedAt": "2026-04-11T05:18:06.419Z"
+    "fetchedAt": "2026-04-12T06:10:15.179Z"
   },
   {
-    "id": "news-1775884686418-19",
-    "title": "Alibaba’s Tongyi Lab Releases VimRAG: a Multimodal RAG Framework that Uses a Memory Graph to Navigate Massive Visual Contexts",
-    "summary": "Retrieval-Augmented Generation (RAG) has become a standard technique for grounding large language models in external knowledge — but the moment you move beyond plain text and start mixing in images and videos, the whole approach starts to buckle. Visual data is token-heavy, semantically sparse relative to a specific query, and grows unwieldy fast during multi-step […]\nThe post Alibaba’s Tongyi Lab Releases VimRAG: a Multimodal RAG Framework that Uses a Memory Graph to Navigate Massiv",
+    "id": "news-1775974215179-37",
+    "title": "Christian Nodal’s ‘Un Vals’ Director Responds to Controversy Over Model in Video: ‘It Was Our Mistake’",
+    "summary": "The music video has sparked conversation due to the model's resemblance to both Cazzu and Ángela Aguilar.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-04-12T00:39:41.000Z",
+    "url": "https://www.billboard.com/music/latin/christian-nodal-video-un-vals-controversy-director-responds-1236221009/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-04-12T06:10:15.179Z"
+  },
+  {
+    "id": "news-1775974215179-38",
+    "title": "Jackson Wang’s MAGIC MAN 2 Is Where Happiness Prevails: Best Moments From His Brooklyn Show",
+    "summary": "The Chinese singer-songwriter brought the unparalleled energy back to Barclays Center on April 10.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-04-11T19:35:38.000Z",
+    "url": "https://www.billboard.com/lists/jackson-wang-tour-best-moments-brooklyn/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-04-12T06:10:15.179Z"
+  },
+  {
+    "id": "news-1775974215179-39",
+    "title": "‘Saturday Night Live’: Where to Watch the Sketch Comedy Show Online for Free",
+    "summary": "Colman Domingo hosts and Anitta performs as musical guest on Saturday, April 11.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-04-11T19:20:41.000Z",
+    "url": "https://www.billboard.com/culture/product-recommendations/how-to-watch-saturday-night-live-online-free-9546472/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-04-12T06:10:15.179Z"
+  },
+  {
+    "id": "news-1775974215179-40",
+    "title": "Labrinth Addresses Why His Music Won’t Be in ‘Euphoria’ Season 3: ‘I Don’t Let People Treat Me Like S—t’",
+    "summary": "Oscar winner Hans Zimmer will serve as the sole composer of the HBO series.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-04-11T18:37:36.000Z",
+    "url": "https://www.billboard.com/music/music-news/labrinth-music-euphoria-season-3-replaced-hans-zimmer-1236220933/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-04-12T06:10:15.179Z"
+  },
+  {
+    "id": "news-1775974215179-41",
+    "title": "Joe Jonas on What Makes the Perfect Coachella Day Party, From Kid Cudi on the Playlist to an Aperol Spritz in Hand",
+    "summary": "The Jonas Brothers singer surprised festivalgoers on Friday by popping up at the Aperol Day Club on site at Coachella.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-04-11T18:07:59.000Z",
+    "url": "https://www.billboard.com/music/pop/joe-jonas-interview-coachella-day-club-aperol-1236218360/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-04-12T06:10:15.179Z"
+  },
+  {
+    "id": "news-1775974215177-0",
+    "title": "Sam Altman responds to ‘incendiary’ New Yorker article after attack on his home",
+    "summary": "The OpenAI CEO's new blog post responds to both an apparent attack on his home and an in-depth New Yorker profile raising questions about his trustworthiness.",
     "category": "ai-research",
-    "source": "MarkTechPost",
+    "source": "TechCrunch AI",
     "author": "Unknown",
-    "publishedAt": "2026-04-10T23:06:41.000Z",
-    "url": "https://www.marktechpost.com/2026/04/10/alibabas-tongyi-lab-releases-vimrag-a-multimodal-rag-framework-that-uses-a-memory-graph-to-navigate-massive-visual-contexts/",
+    "publishedAt": "2026-04-11T17:18:22.000Z",
+    "url": "https://techcrunch.com/2026/04/11/sam-altman-responds-to-incendiary-new-yorker-article-after-attack-on-his-home/",
     "imageUrl": null,
     "tags": [
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-04-11T05:18:06.418Z"
+    "fetchedAt": "2026-04-12T06:10:15.177Z"
   },
   {
-    "id": "news-1775884686419-46",
-    "title": "MemeHouse Brings Creator Culture to Coachella With ‘The Scene’ IRL Streaming Experience",
-    "summary": "“The Scene” will turn the festival weekend into a livestream playground for creators.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-04-10T22:54:30.000Z",
-    "url": "https://www.billboard.com/culture/product-recommendations/memehouse-scene-experience-coachella-how-to-watch-online-1236219119/",
-    "imageUrl": null,
-    "tags": [
-      "Streaming"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-04-11T05:18:06.419Z"
-  },
-  {
-    "id": "news-1775884686419-47",
-    "title": "What You Missed at  BTS’ ‘Arirang’ Concert at Goyang Stadium in South Korea | All Access",
-    "summary": "BTS kicked off their ‘Arirang’ tour at Goyang Stadium in South Korea, and we’re showing you what you missed on opening night! Tetris Kelly: BTS just took over Goyang Stadium in Seoul, and everything was fire, even in the rain. Fans flew from all over the world to catch a glimpse of the reunion.  Fan […]",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-04-10T21:20:40.000Z",
-    "url": "https://www.billboard.com/video/what-you-missed-at-bts-arirang-concert-at-goyang-stadium/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-04-11T05:18:06.419Z"
-  },
-  {
-    "id": "news-1775884686419-48",
-    "title": "Zac Brown Sends a Message to Artemis II Crew Up in Space: ‘Keep Flying Strong’",
-    "summary": "The singer's \"Free\" served as the astronauts' latest wake-up song.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-04-10T20:46:13.000Z",
-    "url": "https://www.billboard.com/music/music-news/zac-brown-artemis-ii-space-1236220402/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-04-11T05:18:06.419Z"
-  },
-  {
-    "id": "news-1775884686419-49",
-    "title": "Friday Dance Music Guide: The Week’s Best New Tracks From Afrojack, David Guetta & Sia & More",
-    "summary": "Simply the best new dance tracks of the week. ",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-04-10T20:36:24.000Z",
-    "url": "https://www.billboard.com/lists/best-new-dance-songs-david-guetta-afrojack-sia/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-04-11T05:18:06.419Z"
-  },
-  {
-    "id": "news-1775884686416-0",
+    "id": "news-1775974215177-1",
     "title": "Anthropic temporarily banned OpenClaw’s creator from accessing Claude",
     "summary": "This ban took place after Claude's pricing changed for OpenClaw users last week.",
     "category": "ai-research",
@@ -101,24 +113,10 @@
     "imageUrl": null,
     "tags": [],
     "readTime": 1,
-    "fetchedAt": "2026-04-11T05:18:06.416Z"
+    "fetchedAt": "2026-04-12T06:10:15.177Z"
   },
   {
-    "id": "news-1775884686419-50",
-    "title": "BINI Previews ‘Big Responsibility’ of Its Coachella 2026 Set & Breaks Down New EP ‘Signals’",
-    "summary": "Before the girl group breaks new ground for Filipino artists at the festival, the octet reflects on the historic music moment and favorite new songs.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-04-10T20:12:43.000Z",
-    "url": "https://www.billboard.com/lists/bini-coachella-2026-new-album-signals-interview/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-04-11T05:18:06.419Z"
-  },
-  {
-    "id": "news-1775884686418-26",
+    "id": "news-1775974215178-19",
     "title": "Anthropic’s Mythos Will Force a Cybersecurity Reckoning—Just Not the One You Think",
     "summary": "The new AI model is being heralded—and feared—as a hacker’s superweapon. Experts say its arrival is a wake-up call for developers who have long made security an afterthought.",
     "category": "ai-research",
@@ -131,27 +129,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-04-11T05:18:06.418Z"
+    "fetchedAt": "2026-04-12T06:10:15.178Z"
   },
   {
-    "id": "news-1775884686418-20",
-    "title": "NVIDIA Releases AITune: An Open-Source Inference Toolkit That Automatically Finds the Fastest Inference Backend for Any PyTorch Model",
-    "summary": "Deploying a deep learning model into production has always involved a painful gap between the model a researcher trains and the model that actually runs efficiently at scale. TensorRT exists, Torch-TensorRT exists, TorchAO exists — but wiring them together, deciding which backend to use for which layer, and validating that the tuned model still produces […]\nThe post NVIDIA Releases AITune: An Open-Source Inference Toolkit That Automatically Finds the Fastest Inference Backend for Any PyTor",
-    "category": "ai-research",
-    "source": "MarkTechPost",
-    "author": "Unknown",
-    "publishedAt": "2026-04-10T17:43:00.000Z",
-    "url": "https://www.marktechpost.com/2026/04/10/nvidia-releases-aitune-an-open-source-inference-toolkit-that-automatically-finds-the-fastest-inference-backend-for-any-pytorch-model/",
-    "imageUrl": null,
-    "tags": [
-      "AI",
-      "Research"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-04-11T05:18:06.418Z"
-  },
-  {
-    "id": "news-1775884686416-1",
+    "id": "news-1775974215177-2",
     "title": "Stalking victim sues OpenAI, claims ChatGPT fueled her abuser’s delusions and ignored her warnings",
     "summary": "OpenAI ignored three warnings that a ChatGPT user was dangerous — including its own mass-casualty flag — while he stalked and harassed his ex-girlfriend, a new lawsuit alleges.",
     "category": "ai-research",
@@ -164,10 +145,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-04-11T05:18:06.416Z"
+    "fetchedAt": "2026-04-12T06:10:15.177Z"
   },
   {
-    "id": "news-1775884686416-2",
+    "id": "news-1775974215178-3",
     "title": "TechCrunch is heading to Tokyo — and bringing the Startup Battlefield with it",
     "summary": "SusHi Tech 2026 is zeroing in on four technology domains reshaping society: AI, Robotics, Resilience, and Entertainment. Expect live demos of humanoid robots, sessions on autonomous driving's software revolution, deep dives into cyber defense and climate tech, and candid conversations about how AI is rewriting the global music and anime industries.",
     "category": "ai-research",
@@ -181,10 +162,10 @@
       "Startup"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-04-11T05:18:06.416Z"
+    "fetchedAt": "2026-04-12T06:10:15.178Z"
   },
   {
-    "id": "news-1775884686418-27",
+    "id": "news-1775974215178-20",
     "title": "Suspect Arrested for Allegedly Throwing Molotov Cocktail at Sam Altman’s Home",
     "summary": "An attacker allegedly threw a molotov cocktail at the OpenAI CEO’s residence before making threats outside of the startup’s headquarters.",
     "category": "tech-innovation",
@@ -198,10 +179,10 @@
       "Startup"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-04-11T05:18:06.418Z"
+    "fetchedAt": "2026-04-12T06:10:15.178Z"
   },
   {
-    "id": "news-1775884686418-28",
+    "id": "news-1775974215178-21",
     "title": "This Startup Wants You to Pay Up to Talk With AI Versions of Human Experts",
     "summary": "Onix is launching a “Substack of bots,” where digital twins of health and wellness influencers dispense advice 24/7. And maybe hawk their products.",
     "category": "tech-innovation",
@@ -215,10 +196,10 @@
       "Startup"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-04-11T05:18:06.418Z"
+    "fetchedAt": "2026-04-12T06:10:15.178Z"
   },
   {
-    "id": "news-1775884686419-36",
+    "id": "news-1775974215178-27",
     "title": "From Pershing Square’s $64 billion bid for UMG to Wireless Festival’s Kanye West cancellation… it’s MBW’s weekly round-up",
     "summary": "The biggest headlines from the past seven days...\nSource",
     "category": "industry-news",
@@ -229,10 +210,10 @@
     "imageUrl": null,
     "tags": [],
     "readTime": 1,
-    "fetchedAt": "2026-04-11T05:18:06.419Z"
+    "fetchedAt": "2026-04-12T06:10:15.178Z"
   },
   {
-    "id": "news-1775884686419-37",
+    "id": "news-1775974215178-28",
     "title": "AWAL and lemontank launch ‘Creator Fund’ to find the next generation of British music-focused content creators",
     "summary": "Program offers funding, training and direct access to AWAL artists and campaigns, while allowing creators to retain full IP ownership.\nSource",
     "category": "industry-news",
@@ -246,10 +227,10 @@
       "Investment"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-04-11T05:18:06.419Z"
+    "fetchedAt": "2026-04-12T06:10:15.178Z"
   },
   {
-    "id": "news-1775884686419-38",
+    "id": "news-1775974215178-29",
     "title": "Peermusic signs songwriter Eyelar, forms writer development joint venture with 2-Tone Entertainment",
     "summary": "Deal includes future works, select back-catalog administration, and a JV with 2-Tone to sign and develop new songwriting talent.\nSource",
     "category": "industry-news",
@@ -262,10 +243,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-04-11T05:18:06.419Z"
+    "fetchedAt": "2026-04-12T06:10:15.178Z"
   },
   {
-    "id": "news-1775884686418-29",
+    "id": "news-1775974215178-22",
     "title": "AI Podcasters Really Want to Tell You How to Keep a Man Happy",
     "summary": "Videos of fake relationship guru podcasters are reinforcing gender tropes and racking up millions of views, all the while driving sales to AI influencer schools.",
     "category": "tech-innovation",
@@ -278,10 +259,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-04-11T05:18:06.419Z"
+    "fetchedAt": "2026-04-12T06:10:15.178Z"
   },
   {
-    "id": "news-1775884686419-30",
+    "id": "news-1775974215178-23",
     "title": "Meta’s New AI Asked for My Raw Health Data—and Gave Me Terrible Advice",
     "summary": "Meta’s Muse Spark model offers to analyze users’ health data, including lab results. Beyond the obvious privacy risks, it’s not a capable stand-in for a real doctor.",
     "category": "tech-innovation",
@@ -294,22 +275,38 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-04-11T05:18:06.419Z"
+    "fetchedAt": "2026-04-12T06:10:15.178Z"
   },
   {
-    "id": "news-1775884686418-21",
-    "title": "Five AI Compute Architectures Every Engineer Should Know: CPUs, GPUs, TPUs, NPUs, and LPUs Compared",
-    "summary": "Modern AI is no longer powered by a single type of processor—it runs on a diverse ecosystem of specialized compute architectures, each making deliberate tradeoffs between flexibility, parallelism, and memory efficiency. While traditional systems relied heavily on CPUs, today’s AI workloads are distributed across GPUs for massive parallel computation, NPUs for efficient on-device inference, and […]\nThe post Five AI Compute Architectures Every Engineer Should Know: CPUs, GPUs, TPUs, NPUs, an",
+    "id": "news-1775974215178-24",
+    "title": "OpenAI Backs Bill That Would Limit Liability for AI-Enabled Mass Deaths or Financial Disasters",
+    "summary": "The ChatGPT-maker testified in favor of an Illinois bill that would limit when AI labs can be held liable—even in cases where their products cause “critical harm.”",
     "category": "ai-research",
-    "source": "MarkTechPost",
+    "source": "Wired AI",
     "author": "Unknown",
-    "publishedAt": "2026-04-10T03:58:02.000Z",
-    "url": "https://www.marktechpost.com/2026/04/09/five-ai-compute-architectures-every-engineer-should-know-cpus-gpus-tpus-npus-and-lpus-compared/",
+    "publishedAt": "2026-04-10T00:19:53.000Z",
+    "url": "https://www.wired.com/story/openai-backs-bill-exempt-ai-firms-model-harm-lawsuits/",
     "imageUrl": null,
     "tags": [
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-04-11T05:18:06.418Z"
+    "fetchedAt": "2026-04-12T06:10:15.178Z"
+  },
+  {
+    "id": "news-1775974215178-4",
+    "title": "ChatGPT finally offers $100/month Pro plan",
+    "summary": "OpenAI announced on Thursday something that power users have been asking for: a $100/month plan. Previously, subscriptions jumped from $20 to $200 per month.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-04-09T21:29:11.000Z",
+    "url": "https://techcrunch.com/2026/04/09/chatgpt-pro-plan-100-month-codex/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-04-12T06:10:15.178Z"
   }
 ]
