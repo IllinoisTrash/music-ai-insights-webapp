@@ -1,34 +1,290 @@
 [
   {
-    "id": "news-1776043830363-42",
-    "title": "Fans Choose KATSEYE’s ‘Pinky Up’ as This Week’s Favorite New Music",
-    "summary": "The girl group's new single brought in 50% of the vote.",
+    "id": "news-1776130086150-20",
+    "title": "Google AI Research Proposes Vantage: An LLM-Based Protocol for Measuring Collaboration, Creativity, and Critical Thinking",
+    "summary": "Standardized tests can tell you whether a student knows calculus or can parse a passage of text. What they cannot reliably tell you is whether that student can resolve a disagreement with a teammate, generate genuinely original ideas under pressure, or critically dismantle a flawed argument. These are the so-called durable skills — collaboration, creativity, […]\nThe post Google AI Research Proposes Vantage: An LLM-Based Protocol for Measuring Collaboration, Creativity, and Critical Thinkin",
+    "category": "ai-research",
+    "source": "MarkTechPost",
+    "author": "Unknown",
+    "publishedAt": "2026-04-14T00:30:27.000Z",
+    "url": "https://www.marktechpost.com/2026/04/13/google-ai-research-proposes-vantage-an-llm-based-protocol-for-measuring-collaboration-creativity-and-critical-thinking/",
+    "imageUrl": null,
+    "tags": [
+      "AI",
+      "Research",
+      "Partnership"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-04-14T01:28:06.150Z"
+  },
+  {
+    "id": "news-1776130086148-0",
+    "title": "OpenAI has bought AI personal finance startup Hiro",
+    "summary": "The acquisition indicates a capability that OpenAI is building into ChatGPT: financial planning.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-04-14T00:23:33.000Z",
+    "url": "https://techcrunch.com/2026/04/13/openai-has-bought-ai-personal-finance-startup-hiro/",
+    "imageUrl": null,
+    "tags": [
+      "AI",
+      "Startup"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-04-14T01:28:06.149Z"
+  },
+  {
+    "id": "news-1776130086151-42",
+    "title": "Lil Uzi Vert, Playboi Carti & Baby Keem to Headline Chicago’s Summer Smash 2026 as North West Sets Festival Debut",
+    "summary": "The festival is slated for June 10-12 at Seatgeek Stadium.",
     "category": "industry-news",
     "source": "Billboard",
     "author": "Unknown",
-    "publishedAt": "2026-04-13T00:33:53.000Z",
-    "url": "https://www.billboard.com/music/music-news/katseye-pinky-favorite-new-music-poll-results-1236221261/",
+    "publishedAt": "2026-04-13T22:54:22.000Z",
+    "url": "https://www.billboard.com/music/rb-hip-hop/summer-smash-2026-lineup-lil-uzi-vert-playboi-carti-north-west-1236221930/",
     "imageUrl": null,
     "tags": [],
     "readTime": 1,
-    "fetchedAt": "2026-04-13T01:30:30.363Z"
+    "fetchedAt": "2026-04-14T01:28:06.151Z"
   },
   {
-    "id": "news-1776043830364-43",
-    "title": "KATSEYE Raves About Their ‘Joint Slay’ With HUNTR/X at Coachella 2026",
-    "summary": "The group also shared their thoughts on playing new single \"Pinky Up\" for the first time during an \"electric\" performance at the California festival.",
+    "id": "news-1776130086151-33",
+    "title": "Warner makes strategic investment in TuStreams – a distribution platform focused on Latin music",
+    "summary": "WMG describes TuStreams as 'a leading independent force in the fast-growing Música Mexicana space'\nSource",
     "category": "industry-news",
-    "source": "Billboard",
+    "source": "Music Business Worldwide",
     "author": "Unknown",
-    "publishedAt": "2026-04-12T22:10:02.000Z",
-    "url": "https://www.billboard.com/music/music-news/katseye-coachella-2026-interview-1236221222/",
+    "publishedAt": "2026-04-13T19:26:40.000Z",
+    "url": "https://www.musicbusinessworldwide.com/warner-makes-strategic-investment-in-tustreams-a-distribution-platform-focused-on-latin-music/",
+    "imageUrl": null,
+    "tags": [
+      "Investment"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-04-14T01:28:06.151Z"
+  },
+  {
+    "id": "news-1776130086149-1",
+    "title": "Stanford report highlights growing disconnect between AI insiders and everyone else",
+    "summary": "Stanford’s latest AI Index shows a widening gap between experts and the public, with rising anxiety over jobs, healthcare, and the economy.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-04-13T18:55:37.000Z",
+    "url": "https://techcrunch.com/2026/04/13/stanford-report-highlights-growing-disconnect-between-ai-insiders-and-everyone-else/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-04-14T01:28:06.149Z"
+  },
+  {
+    "id": "news-1776130086150-21",
+    "title": "A Step-by-Step Coding Tutorial on NVIDIA PhysicsNeMo: Darcy Flow, FNOs, PINNs, Surrogate Models, and Inference Benchmarking",
+    "summary": "In this tutorial, we implement NVIDIA PhysicsNeMo on Colab and build a practical workflow for physics-informed machine learning. We start by setting up the environment, generating data for the 2D Darcy Flow problem, and visualizing the physical fields to clearly understand the learning task. From there, we implement and train powerful models such as the […]\nThe post A Step-by-Step Coding Tutorial on NVIDIA PhysicsNeMo: Darcy Flow, FNOs, PINNs, Surrogate Models, and Inference Benchmarking a",
+    "category": "ai-research",
+    "source": "MarkTechPost",
+    "author": "Unknown",
+    "publishedAt": "2026-04-13T17:07:34.000Z",
+    "url": "https://www.marktechpost.com/2026/04/13/a-step-by-step-coding-tutorial-on-nvidia-physicsnemo-darcy-flow-fnos-pinns-surrogate-models-and-inference-benchmarking/",
+    "imageUrl": null,
+    "tags": [
+      "AI",
+      "Machine Learning"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-04-14T01:28:06.150Z"
+  },
+  {
+    "id": "news-1776130086151-27",
+    "title": "Meta Is Warned That Facial Recognition Glasses Will Arm Sexual Predators",
+    "summary": "More than 70 organizations, including the ACLU, EPIC, and Fight for the Future, say the AI smart glasses feature would endanger abuse victims, immigrants, and LGBTQ+ people.",
+    "category": "tech-innovation",
+    "source": "Wired AI",
+    "author": "Unknown",
+    "publishedAt": "2026-04-13T16:01:30.000Z",
+    "url": "https://www.wired.com/story/meta-ray-ban-oakley-smart-glasses-no-face-recognition-civil-society/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-04-14T01:28:06.151Z"
+  },
+  {
+    "id": "news-1776130086149-2",
+    "title": "Vercel CEO Guillermo Rauch signals IPO readiness as AI agents fuel revenue surge",
+    "summary": "While many startups founded prior to the emergence of ChatGPT are struggling to position themselves for the AI era, Vercel, a 10-year-old dev tool and website hosting platform, is benefiting from the explosion of AI-generated apps and agents.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-04-13T15:22:29.000Z",
+    "url": "https://techcrunch.com/2026/04/13/vercel-ceo-guillermo-rauch-signals-ipo-readiness-as-ai-agents-fuel-revenue-surge/",
+    "imageUrl": null,
+    "tags": [
+      "AI",
+      "Startup"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-04-14T01:28:06.149Z"
+  },
+  {
+    "id": "news-1776130086151-34",
+    "title": "Max Lousada and Julie Greenwald are in business. Welcome to 26.2 — in partnership with Sony Music",
+    "summary": "Ex-Warner veterans take the wraps off 26.2 – a record label with global ambitions\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-04-13T14:48:35.000Z",
+    "url": "https://www.musicbusinessworldwide.com/max-lousada-and-julie-greenwald-are-in-business-welcome-to-26-2-in-partnership-with-sony-music/",
+    "imageUrl": null,
+    "tags": [
+      "Partnership"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-04-14T01:28:06.151Z"
+  },
+  {
+    "id": "news-1776130086151-35",
+    "title": "Latin Music generated over $1 billion in US wholesale recorded music revenues in 2025, up 4.2% YoY",
+    "summary": "Latin Music's 4.2% growth rate outpaced the wider US recorded music market, which grew 3.1% YoY in 2025.\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-04-13T14:47:55.000Z",
+    "url": "https://www.musicbusinessworldwide.com/latin-music-generated-over-1-billion-in-us-wholesale-recorded-music-revenues-in-2025-up-4-2-yoy/",
     "imageUrl": null,
     "tags": [],
     "readTime": 1,
-    "fetchedAt": "2026-04-13T01:30:30.364Z"
+    "fetchedAt": "2026-04-14T01:28:06.151Z"
   },
   {
-    "id": "news-1776043830363-19",
+    "id": "news-1776130086151-36",
+    "title": "YouTube hikes US subscription prices across Premium and Music plans",
+    "summary": "The YouTube Music Individual plan is rising from $10.99 to $11.99 per month\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-04-13T12:22:47.000Z",
+    "url": "https://www.musicbusinessworldwide.com/youtube-hikes-us-subscription-prices-across-premium-and-music-plans/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-04-14T01:28:06.151Z"
+  },
+  {
+    "id": "news-1776130086151-37",
+    "title": "The music industry has long prioritized creative output over operational foundations. AI does not alter that imbalance; it exposes it.",
+    "summary": "Deviate Digital founder Sammy Andrews digs deep into how the business globally is actually using AI – and detects that the conversation is  finally evolving beyond linear arguments over rights…\n\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-04-13T10:58:37.000Z",
+    "url": "https://www.musicbusinessworldwide.com/the-music-industry-has-long-prioritized-creative-output-over-operational-foundations-ai-does-not-alter-that-imbalance-it-exposes-it/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-04-14T01:28:06.151Z"
+  },
+  {
+    "id": "news-1776130086151-38",
+    "title": "Warner Music’s Spinnin’ Records launches new label in Germany",
+    "summary": "New label 'creates opportunities for artists across Germany, Switzerland, and Austria (GSA)'\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-04-13T10:43:20.000Z",
+    "url": "https://www.musicbusinessworldwide.com/warner-musics-spinnin-records-launches-new-label-in-germany/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-04-14T01:28:06.151Z"
+  },
+  {
+    "id": "news-1776130086151-39",
+    "title": "After closing $267m ABS deal, Seeker Music acquires Nu Shooz catalog",
+    "summary": "Nu Shooz's dance track \"I Can’t Wait\", which celebrates its 40th anniversary, climbed to No. 3 on the Billboard Hot 100.\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-04-13T10:04:56.000Z",
+    "url": "https://www.musicbusinessworldwide.com/after-closing-267m-abs-deal-seeker-music-acquires-nu-shooz-catalog/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-04-14T01:28:06.151Z"
+  },
+  {
+    "id": "news-1776130086151-28",
+    "title": "AI Agents Are Coming for Your Dating Life",
+    "summary": "The developers of Pixel Societies are using AI agents to simulate social interactions. It's an attempt optimize the process of choosing new colleagues, friends, and even romantic partners.",
+    "category": "tech-innovation",
+    "source": "Wired AI",
+    "author": "Unknown",
+    "publishedAt": "2026-04-13T10:00:00.000Z",
+    "url": "https://www.wired.com/story/ai-agents-are-coming-for-your-dating-life-next/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-04-14T01:28:06.151Z"
+  },
+  {
+    "id": "news-1776130086151-40",
+    "title": "Spotify gives users the option to switch off video content across its platform",
+    "summary": "Spotify is rolling out new toggles that allow listeners to switch off video content, including Canvas visuals and podcast videos.\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-04-13T09:55:35.000Z",
+    "url": "https://www.musicbusinessworldwide.com/spotify-gives-users-the-option-to-switch-off-video-content-across-its-platform/",
+    "imageUrl": null,
+    "tags": [
+      "Spotify"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-04-14T01:28:06.151Z"
+  },
+  {
+    "id": "news-1776130086151-41",
+    "title": "Switzerland’s MusicBird acquires catalog of Supertramp bassist Dougie Thomson",
+    "summary": "British rock band Supertramp sold more than 60 million albums since they were formed in 1970.\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-04-13T09:50:41.000Z",
+    "url": "https://www.musicbusinessworldwide.com/switzerlands-musicbird-acquires-catalog-of-supertramp-bassist-dougie-thomson1/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-04-14T01:28:06.151Z"
+  },
+  {
+    "id": "news-1776130086150-22",
+    "title": "MiniMax Releases MMX-CLI: A Command-Line Interface That Gives AI Agents Native Access to Image, Video, Speech, Music, Vision, and Search",
+    "summary": "MiniMax, the AI research company behind the MiniMax omni-modal model stack, has released MMX-CLI — Node.js-based command-line interface that exposes the MiniMax AI platform’s full suite of generative capabilities, both to human developers working in a terminal and to AI agents running in tools like Cursor, Claude Code, and OpenCode. What Problem Is MMX-CLI Solving? […]\nThe post MiniMax Releases MMX-CLI: A Command-Line Interface That Gives AI Agents Native Access to Image, Video, Spee",
+    "category": "ai-research",
+    "source": "MarkTechPost",
+    "author": "Unknown",
+    "publishedAt": "2026-04-13T05:17:40.000Z",
+    "url": "https://www.marktechpost.com/2026/04/12/minimax-releases-mmx-cli-a-command-line-interface-that-gives-ai-agents-native-access-to-image-video-speech-music-vision-and-search/",
+    "imageUrl": null,
+    "tags": [
+      "AI",
+      "Research"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-04-14T01:28:06.150Z"
+  },
+  {
+    "id": "news-1776130086150-23",
     "title": "Meta AI and KAUST Researchers Propose Neural Computers That Fold Computation, Memory, and I/O Into One Learned Model",
     "summary": "Researchers from Meta AI and the King Abdullah University of Science and Technology (KAUST) have introduced Neural Computers (NCs) — a proposed machine form in which a neural network itself acts as the running computer, rather than as a layer sitting on top of one. The research team presents both a theoretical framework and two […]\nThe post Meta AI and KAUST Researchers Propose Neural Computers That Fold Computation, Memory, and I/O Into One Learned Model appeared first on MarkTechPost.\n",
     "category": "ai-research",
@@ -42,82 +298,10 @@
       "Research"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-04-13T01:30:30.363Z"
+    "fetchedAt": "2026-04-14T01:28:06.150Z"
   },
   {
-    "id": "news-1776043830364-44",
-    "title": "Katy Perry & Zara Larsson React to Justin Bieber’s YouTube-Fueled Coachella Set: ‘Thank God He Has Premium’",
-    "summary": "The pop star headlined the festival’s main stage on April 11.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-04-12T19:57:23.000Z",
-    "url": "https://www.billboard.com/music/music-news/justin-bieber-coachella-2026-katy-perry-zara-larsson-react-1236221215/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-04-13T01:30:30.364Z"
-  },
-  {
-    "id": "news-1776043830364-45",
-    "title": "Morgan Wallen, Garth Brooks, Taylor Swift & More Artists With Most Weeks at No. 1 on Top Country Albums Chart: Full List",
-    "summary": "Male solo artists dominate, though three female solo artists and two groups have also achieved the feat.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-04-12T19:18:07.000Z",
-    "url": "https://www.billboard.com/lists/top-country-albums-number-ones-biggest/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-04-13T01:30:30.364Z"
-  },
-  {
-    "id": "news-1776043830364-46",
-    "title": "Here Are All the K-Pop Albums That Have Topped the Billboard 200: Full List",
-    "summary": "BTS was the first K-pop act to top the all-genre chart; BLACKPINK was the first female K-pop act to do so.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-04-12T19:15:32.000Z",
-    "url": "https://www.billboard.com/lists/k-pop-albums-number-one-billboard-200-albums-full-list/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-04-13T01:30:30.364Z"
-  },
-  {
-    "id": "news-1776043830364-47",
-    "title": "BTS’ ‘ARIRANG’ Scores Third Week at No. 1 on Billboard 200",
-    "summary": "It has the most weeks at No. 1 for an album by a group in more than a decade.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-04-12T19:00:03.000Z",
-    "url": "https://www.billboard.com/music/chart-beat/bts-arirang-third-week-number-one-billboard-200-chart-1236221190/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-04-13T01:30:30.364Z"
-  },
-  {
-    "id": "news-1776043830364-48",
-    "title": "No Doubt’s Tom Dumont Reveals Early Onset Parkinson’s Disease Diagnosis: ‘It’s Been a Struggle’",
-    "summary": "The Gwen Stefani-led band will launch its Las Vegas residency in May.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-04-12T16:55:52.000Z",
-    "url": "https://www.billboard.com/music/music-news/tom-dumont-no-doubt-parkinsons-disease-diagnosis-1236221183/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-04-13T01:30:30.364Z"
-  },
-  {
-    "id": "news-1776043830361-0",
+    "id": "news-1776130086149-3",
     "title": "From LLMs to hallucinations, here’s a simple guide to common AI terms",
     "summary": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
     "category": "ai-research",
@@ -130,182 +314,6 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-04-13T01:30:30.362Z"
-  },
-  {
-    "id": "news-1776043830362-1",
-    "title": "At the HumanX conference, everyone was talking about Claude",
-    "summary": "Anthropic was the star of the show at San Francisco's AI-centric conference. ",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-04-12T15:00:00.000Z",
-    "url": "https://techcrunch.com/2026/04/12/at-the-humanx-conference-everyone-was-talking-about-claude/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-04-13T01:30:30.362Z"
-  },
-  {
-    "id": "news-1776043830363-20",
-    "title": "MiniMax Just Open Sourced MiniMax M2.7: A Self-Evolving Agent Model that Scores 56.22% on SWE-Pro and 57.0% on Terminal Bench 2",
-    "summary": "MiniMax has officially open-sourced MiniMax M2.7, making the model weights publicly available on Hugging Face. Originally announced on March 18, 2026, MiniMax M2.7 is the MiniMax’s most capable open-source model to date — and its first model to actively participate in its own development cycle, a meaningful shift in how large language models are built […]\nThe post MiniMax Just Open Sourced MiniMax M2.7: A Self-Evolving Agent Model that Scores 56.22% on SWE-Pro and 57.0% on Terminal B",
-    "category": "ai-research",
-    "source": "MarkTechPost",
-    "author": "Unknown",
-    "publishedAt": "2026-04-12T09:20:15.000Z",
-    "url": "https://www.marktechpost.com/2026/04/12/minimax-just-open-sourced-minimax-m2-7-a-self-evolving-agent-model-that-scores-56-22-on-swe-pro-and-57-0-on-terminal-bench-2/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-04-13T01:30:30.363Z"
-  },
-  {
-    "id": "news-1776043830363-21",
-    "title": "Liquid AI Releases LFM2.5-VL-450M: a 450M-Parameter Vision-Language Model with Bounding Box Prediction, Multilingual Support, and Sub-250ms Edge Inference",
-    "summary": "Liquid AI just released LFM2.5-VL-450M, an updated version of its earlier LFM2-VL-450M vision-language model. The new release introduces bounding box prediction, improved instruction following, expanded multilingual understanding, and function calling support — all within a 450M-parameter footprint designed to run directly on edge hardware ranging from embedded AI modules like NVIDIA Jetson Orin, to mini-PC […]\nThe post Liquid AI Releases LFM2.5-VL-450M: a 450M-Parameter Vision-Language Mo",
-    "category": "tech-innovation",
-    "source": "MarkTechPost",
-    "author": "Unknown",
-    "publishedAt": "2026-04-12T02:41:10.000Z",
-    "url": "https://www.marktechpost.com/2026/04/11/liquid-ai-releases-lfm2-5-vl-450m-a-450m-parameter-vision-language-model-with-bounding-box-prediction-multilingual-support-and-sub-250ms-edge-inference/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-04-13T01:30:30.363Z"
-  },
-  {
-    "id": "news-1776043830363-22",
-    "title": "Researchers from MIT, NVIDIA, and Zhejiang University Propose TriAttention: A KV Cache Compression Method That Matches Full Attention at 2.5× Higher Throughput",
-    "summary": "Long-chain reasoning is one of the most compute-intensive tasks in modern large language models. When a model like DeepSeek-R1 or Qwen3 works through a complex math problem, it can generate tens of thousands of tokens before arriving at an answer. Every one of those tokens must be stored in what is called the KV cache […]\nThe post Researchers from MIT, NVIDIA, and Zhejiang University Propose TriAttention: A KV Cache Compression Method That Matches Full Attention at 2.5× Higher Throughput a",
-    "category": "ai-research",
-    "source": "MarkTechPost",
-    "author": "Unknown",
-    "publishedAt": "2026-04-11T20:10:41.000Z",
-    "url": "https://www.marktechpost.com/2026/04/11/researchers-from-mit-nvidia-and-zhejiang-university-propose-triattention-a-kv-cache-compression-method-that-matches-full-attention-at-2-5x-higher-throughput/",
-    "imageUrl": null,
-    "tags": [
-      "AI",
-      "Research"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-04-13T01:30:30.363Z"
-  },
-  {
-    "id": "news-1776043830362-2",
-    "title": "Sam Altman responds to ‘incendiary’ New Yorker article after attack on his home",
-    "summary": "The OpenAI CEO's new blog post responds to both an apparent attack on his home and an in-depth New Yorker profile raising questions about his trustworthiness.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-04-11T17:18:22.000Z",
-    "url": "https://techcrunch.com/2026/04/11/sam-altman-responds-to-incendiary-new-yorker-article-after-attack-on-his-home/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-04-13T01:30:30.362Z"
-  },
-  {
-    "id": "news-1776043830363-23",
-    "title": "How Knowledge Distillation Compresses Ensemble Intelligence into a Single Deployable AI Model",
-    "summary": "Complex prediction problems often lead to ensembles because combining multiple models improves accuracy by reducing variance and capturing diverse patterns. However, these ensembles are impractical in production due to latency constraints and operational complexity. Instead of discarding them, Knowledge Distillation offers a smarter approach: keep the ensemble as a teacher and train a smaller student […]\nThe post How Knowledge Distillation Compresses Ensemble Intelligence into a Single Dep",
-    "category": "ai-research",
-    "source": "MarkTechPost",
-    "author": "Unknown",
-    "publishedAt": "2026-04-11T07:33:41.000Z",
-    "url": "https://www.marktechpost.com/2026/04/11/how-knowledge-distillation-compresses-ensemble-intelligence-into-a-single-deployable-ai-model/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-04-13T01:30:30.363Z"
-  },
-  {
-    "id": "news-1776043830363-24",
-    "title": "Alibaba’s Tongyi Lab Releases VimRAG: a Multimodal RAG Framework that Uses a Memory Graph to Navigate Massive Visual Contexts",
-    "summary": "Retrieval-Augmented Generation (RAG) has become a standard technique for grounding large language models in external knowledge — but the moment you move beyond plain text and start mixing in images and videos, the whole approach starts to buckle. Visual data is token-heavy, semantically sparse relative to a specific query, and grows unwieldy fast during multi-step […]\nThe post Alibaba’s Tongyi Lab Releases VimRAG: a Multimodal RAG Framework that Uses a Memory Graph to Navigate Massiv",
-    "category": "ai-research",
-    "source": "MarkTechPost",
-    "author": "Unknown",
-    "publishedAt": "2026-04-10T23:06:41.000Z",
-    "url": "https://www.marktechpost.com/2026/04/10/alibabas-tongyi-lab-releases-vimrag-a-multimodal-rag-framework-that-uses-a-memory-graph-to-navigate-massive-visual-contexts/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-04-13T01:30:30.363Z"
-  },
-  {
-    "id": "news-1776043830362-3",
-    "title": "Anthropic temporarily banned OpenClaw’s creator from accessing Claude",
-    "summary": "This ban took place after Claude's pricing changed for OpenClaw users last week.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-04-10T20:27:52.000Z",
-    "url": "https://techcrunch.com/2026/04/10/anthropic-temporarily-banned-openclaws-creator-from-accessing-claude/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-04-13T01:30:30.362Z"
-  },
-  {
-    "id": "news-1776043830363-25",
-    "title": "Anthropic’s Mythos Will Force a Cybersecurity Reckoning—Just Not the One You Think",
-    "summary": "The new AI model is being heralded—and feared—as a hacker’s superweapon. Experts say its arrival is a wake-up call for developers who have long made security an afterthought.",
-    "category": "ai-research",
-    "source": "Wired AI",
-    "author": "Unknown",
-    "publishedAt": "2026-04-10T18:08:37.000Z",
-    "url": "https://www.wired.com/story/anthropics-mythos-will-force-a-cybersecurity-reckoning-just-not-the-one-you-think/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-04-13T01:30:30.363Z"
-  },
-  {
-    "id": "news-1776043830362-4",
-    "title": "Stalking victim sues OpenAI, claims ChatGPT fueled her abuser’s delusions and ignored her warnings",
-    "summary": "OpenAI ignored three warnings that a ChatGPT user was dangerous — including its own mass-casualty flag — while he stalked and harassed his ex-girlfriend, a new lawsuit alleges.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-04-10T16:41:34.000Z",
-    "url": "https://techcrunch.com/2026/04/10/stalking-victim-sues-openai-claims-chatgpt-fueled-her-abusers-delusions-and-ignored-her-warnings/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-04-13T01:30:30.362Z"
-  },
-  {
-    "id": "news-1776043830362-5",
-    "title": "TechCrunch is heading to Tokyo — and bringing the Startup Battlefield with it",
-    "summary": "SusHi Tech 2026 is zeroing in on four technology domains reshaping society: AI, Robotics, Resilience, and Entertainment. Expect live demos of humanoid robots, sessions on autonomous driving's software revolution, deep dives into cyber defense and climate tech, and candid conversations about how AI is rewriting the global music and anime industries.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-04-10T16:38:43.000Z",
-    "url": "https://techcrunch.com/2026/04/10/techcrunch-is-heading-to-tokyo-and-bringing-the-startup-battlefield-with-it/",
-    "imageUrl": null,
-    "tags": [
-      "AI",
-      "Startup"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-04-13T01:30:30.362Z"
+    "fetchedAt": "2026-04-14T01:28:06.149Z"
   }
 ]
