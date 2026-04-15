@@ -1,6 +1,208 @@
 [
   {
-    "id": "news-1776130086150-20",
+    "id": "news-1776216278028-33",
+    "title": "Rezz Cancels Coachella Weekend 2 Performance: ‘I Continued to Push Thinking It Would Be Fine’",
+    "summary": "The Ukrainian Canadian DJ and producer performed on Saturday of weekend 1 in the Sahara Tent.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-04-15T00:47:39.000Z",
+    "url": "https://www.billboard.com/music/music-news/rezz-cancels-coachella-weekend-2-performance-health-1236223162/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-04-15T01:24:38.028Z"
+  },
+  {
+    "id": "news-1776216278027-17",
+    "title": "A Coding Implementation of Crawl4AI for Web Crawling, Markdown Generation, JavaScript Execution, and LLM-Based Structured Extraction",
+    "summary": "In this tutorial, we build a complete and practical Crawl4AI workflow and explore how modern web crawling goes far beyond simply downloading page HTML. We set up the full environment, configure browser behavior, and work through essential capabilities such as basic crawling, markdown generation, structured CSS-based extraction, JavaScript execution, session handling, screenshots, link analysis, concurrent […]\nThe post A Coding Implementation of Crawl4AI for Web Crawling, Markdown Generatio",
+    "category": "ai-research",
+    "source": "MarkTechPost",
+    "author": "Unknown",
+    "publishedAt": "2026-04-15T00:39:12.000Z",
+    "url": "https://www.marktechpost.com/2026/04/14/a-coding-implementation-of-crawl4ai-for-web-crawling-markdown-generation-javascript-execution-and-llm-based-structured-extraction/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-04-15T01:24:38.028Z"
+  },
+  {
+    "id": "news-1776216278028-34",
+    "title": "Spotify & the Major Labels Won a $322M Court Order Against Music Pirates. Will They Be Able to Collect?",
+    "summary": "At least for now, the court judgment is largely a symbolic victory, as no one has identified the anonymous internet users behind Anna’s Archive.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-04-15T00:38:48.000Z",
+    "url": "https://www.billboard.com/pro/spotify-major-labels-win-music-piracy-lawsuit/",
+    "imageUrl": null,
+    "tags": [
+      "Spotify",
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-04-15T01:24:38.028Z"
+  },
+  {
+    "id": "news-1776216278028-35",
+    "title": "Dua Lipa Calls This Britney Spears Hit ‘One of the Greatest Pop Songs Ever Made’: ‘She’s Such an Icon’",
+    "summary": "Dua turned her favorite songs into cocktails for Vogue's Toast to Cinema series. ",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-04-14T23:08:54.000Z",
+    "url": "https://www.billboard.com/music/pop/dua-lipa-britney-spears-toxic-1236223020/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-04-15T01:24:38.028Z"
+  },
+  {
+    "id": "news-1776216278028-28",
+    "title": "Concord forms strategic venture with Steven Victor’s Victor Victor Worldwide, expands hip-hop footprint",
+    "summary": "VVW has launched the careers of artists including Pop Smoke and Ski Mask the Slump God.\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-04-14T18:59:09.000Z",
+    "url": "https://www.musicbusinessworldwide.com/concord-forms-strategic-venture-with-steven-victors-victor-victor-worldwide-expands-hip-hop-footprint/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-04-15T01:24:38.028Z"
+  },
+  {
+    "id": "news-1776216278028-18",
+    "title": "TinyFish AI Releases Full Web Infrastructure Platform for AI Agents: Search, Fetch, Browser, and Agent Under One API Key",
+    "summary": "AI agents struggle with tasks that require interacting with the live web — fetching a competitor’s pricing page, extracting structured data from a JavaScript-heavy dashboard, or automating a multi-step workflow on a real site. The tooling has been fragmented, requiring teams to stitch together separate providers for search, browser automation, and content retrieval. TinyFish, a […]\nThe post TinyFish AI Releases Full Web Infrastructure Platform for AI Agents: Search, Fetch, Browser, a",
+    "category": "tech-innovation",
+    "source": "MarkTechPost",
+    "author": "Unknown",
+    "publishedAt": "2026-04-14T18:53:27.000Z",
+    "url": "https://www.marktechpost.com/2026/04/14/tinyfish-ai-releases-full-web-infrastructure-platform-for-ai-agents/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-04-15T01:24:38.028Z"
+  },
+  {
+    "id": "news-1776216278026-0",
+    "title": "Google adds AI Skills to Chrome to help you save favorite workflows",
+    "summary": "Google is adding “Skills” to Chrome, letting users save and reuse AI prompts across websites. The feature builds on Gemini’s browser integration.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-04-14T17:00:00.000Z",
+    "url": "https://techcrunch.com/2026/04/14/google-adds-ai-skills-to-chrome-to-help-you-save-favorite-workflows/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-04-15T01:24:38.026Z"
+  },
+  {
+    "id": "news-1776216278028-23",
+    "title": "Anthropic Opposes the Extreme AI Liability Bill That OpenAI Backed",
+    "summary": "Anthropic and OpenAI are clashing over a proposed Illinois law that would let AI labs largely off the hook for mass deaths and financial disasters.",
+    "category": "tech-innovation",
+    "source": "Wired AI",
+    "author": "Unknown",
+    "publishedAt": "2026-04-14T15:21:44.000Z",
+    "url": "https://www.wired.com/story/anthropic-opposes-the-extreme-ai-liability-bill-that-openai-backed/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-04-15T01:24:38.028Z"
+  },
+  {
+    "id": "news-1776216278028-29",
+    "title": "Former UMG Nashville chief Cindy Mabe launches Joan of Arc Music, strikes distribution deal with Warner Records Nashville",
+    "summary": "Joan of Arc Music operates across artist management, label services, publishing, TV/film production and philanthropy, with a distribution deal plugging into WMG's global network.\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-04-14T14:53:40.000Z",
+    "url": "https://www.musicbusinessworldwide.com/former-umg-nashville-chief-cindy-mabe-launches-joan-of-arc-music-strikes-distribution-deal-with-warner-records-nashville/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-04-15T01:24:38.028Z"
+  },
+  {
+    "id": "news-1776216278028-30",
+    "title": "Larry Mestel to receive City of Hope’s 2026 Spirit of Life Award",
+    "summary": "Founder & CEO of Primary Wave Music recognized for industry leadership and commitment to advancing cancer research through partnership\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-04-14T13:43:02.000Z",
+    "url": "https://www.musicbusinessworldwide.com/larry-mestel-founder-and-ceo-of-primary-wave-music-to-receive-city-of-hopes-2026-spirit-of-life-award/",
+    "imageUrl": null,
+    "tags": [
+      "Research",
+      "Partnership"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-04-15T01:24:38.028Z"
+  },
+  {
+    "id": "news-1776216278028-31",
+    "title": "Tim Miles appointed EVP of BMG’s global SYNC+ division",
+    "summary": "BMG taps Warner Music Group veteran to drive its SYNC+ strategy, strengthening its global sync and music-for-media operations.\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-04-14T12:28:04.000Z",
+    "url": "https://www.musicbusinessworldwide.com/tim-miles-appointed-evp-of-bmgs-global-sync-division/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-04-15T01:24:38.028Z"
+  },
+  {
+    "id": "news-1776216278028-24",
+    "title": "Silicon Valley Is Spending Millions to Stop One of Its Own",
+    "summary": "Alex Bores, a former Palantir employee, helped pass one of the country’s toughest AI laws. Now Silicon Valley’s biggest names are trying to stop his rise to Congress.",
+    "category": "tech-innovation",
+    "source": "Wired AI",
+    "author": "Unknown",
+    "publishedAt": "2026-04-14T10:30:00.000Z",
+    "url": "https://www.wired.com/story/the-big-interview-podcast-new-york-state-representative-alex-bores/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-04-15T01:24:38.028Z"
+  },
+  {
+    "id": "news-1776216278028-32",
+    "title": "BTS label BigHit Music asks US court to unmask X user who leaked ‘ARIRANG’ before release",
+    "summary": "The HYBE-owned label is targeting an X account that allegedly distributed unreleased songs and other album assets before ARIRANG dropped.\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-04-14T10:21:31.000Z",
+    "url": "https://www.musicbusinessworldwide.com/bts-label-bighit-music-asks-us-court-to-unmask-x-user-who-leaked-arirang-before-release/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-04-15T01:24:38.028Z"
+  },
+  {
+    "id": "news-1776216278028-19",
     "title": "Google AI Research Proposes Vantage: An LLM-Based Protocol for Measuring Collaboration, Creativity, and Critical Thinking",
     "summary": "Standardized tests can tell you whether a student knows calculus or can parse a passage of text. What they cannot reliably tell you is whether that student can resolve a disagreement with a teammate, generate genuinely original ideas under pressure, or critically dismantle a flawed argument. These are the so-called durable skills — collaboration, creativity, […]\nThe post Google AI Research Proposes Vantage: An LLM-Based Protocol for Measuring Collaboration, Creativity, and Critical Thinkin",
     "category": "ai-research",
@@ -15,10 +217,10 @@
       "Partnership"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-04-14T01:28:06.150Z"
+    "fetchedAt": "2026-04-15T01:24:38.028Z"
   },
   {
-    "id": "news-1776130086148-0",
+    "id": "news-1776216278026-1",
     "title": "OpenAI has bought AI personal finance startup Hiro",
     "summary": "The acquisition indicates a capability that OpenAI is building into ChatGPT: financial planning.",
     "category": "ai-research",
@@ -32,40 +234,10 @@
       "Startup"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-04-14T01:28:06.149Z"
+    "fetchedAt": "2026-04-15T01:24:38.026Z"
   },
   {
-    "id": "news-1776130086151-42",
-    "title": "Lil Uzi Vert, Playboi Carti & Baby Keem to Headline Chicago’s Summer Smash 2026 as North West Sets Festival Debut",
-    "summary": "The festival is slated for June 10-12 at Seatgeek Stadium.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-04-13T22:54:22.000Z",
-    "url": "https://www.billboard.com/music/rb-hip-hop/summer-smash-2026-lineup-lil-uzi-vert-playboi-carti-north-west-1236221930/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-04-14T01:28:06.151Z"
-  },
-  {
-    "id": "news-1776130086151-33",
-    "title": "Warner makes strategic investment in TuStreams – a distribution platform focused on Latin music",
-    "summary": "WMG describes TuStreams as 'a leading independent force in the fast-growing Música Mexicana space'\nSource",
-    "category": "industry-news",
-    "source": "Music Business Worldwide",
-    "author": "Unknown",
-    "publishedAt": "2026-04-13T19:26:40.000Z",
-    "url": "https://www.musicbusinessworldwide.com/warner-makes-strategic-investment-in-tustreams-a-distribution-platform-focused-on-latin-music/",
-    "imageUrl": null,
-    "tags": [
-      "Investment"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-04-14T01:28:06.151Z"
-  },
-  {
-    "id": "news-1776130086149-1",
+    "id": "news-1776216278026-2",
     "title": "Stanford report highlights growing disconnect between AI insiders and everyone else",
     "summary": "Stanford’s latest AI Index shows a widening gap between experts and the public, with rising anxiety over jobs, healthcare, and the economy.",
     "category": "ai-research",
@@ -78,10 +250,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-04-14T01:28:06.149Z"
+    "fetchedAt": "2026-04-15T01:24:38.026Z"
   },
   {
-    "id": "news-1776130086150-21",
+    "id": "news-1776216278028-20",
     "title": "A Step-by-Step Coding Tutorial on NVIDIA PhysicsNeMo: Darcy Flow, FNOs, PINNs, Surrogate Models, and Inference Benchmarking",
     "summary": "In this tutorial, we implement NVIDIA PhysicsNeMo on Colab and build a practical workflow for physics-informed machine learning. We start by setting up the environment, generating data for the 2D Darcy Flow problem, and visualizing the physical fields to clearly understand the learning task. From there, we implement and train powerful models such as the […]\nThe post A Step-by-Step Coding Tutorial on NVIDIA PhysicsNeMo: Darcy Flow, FNOs, PINNs, Surrogate Models, and Inference Benchmarking a",
     "category": "ai-research",
@@ -95,10 +267,10 @@
       "Machine Learning"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-04-14T01:28:06.150Z"
+    "fetchedAt": "2026-04-15T01:24:38.028Z"
   },
   {
-    "id": "news-1776130086151-27",
+    "id": "news-1776216278028-25",
     "title": "Meta Is Warned That Facial Recognition Glasses Will Arm Sexual Predators",
     "summary": "More than 70 organizations, including the ACLU, EPIC, and Fight for the Future, say the AI smart glasses feature would endanger abuse victims, immigrants, and LGBTQ+ people.",
     "category": "tech-innovation",
@@ -111,10 +283,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-04-14T01:28:06.151Z"
+    "fetchedAt": "2026-04-15T01:24:38.028Z"
   },
   {
-    "id": "news-1776130086149-2",
+    "id": "news-1776216278026-3",
     "title": "Vercel CEO Guillermo Rauch signals IPO readiness as AI agents fuel revenue surge",
     "summary": "While many startups founded prior to the emergence of ChatGPT are struggling to position themselves for the AI era, Vercel, a 10-year-old dev tool and website hosting platform, is benefiting from the explosion of AI-generated apps and agents.",
     "category": "ai-research",
@@ -128,100 +300,10 @@
       "Startup"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-04-14T01:28:06.149Z"
+    "fetchedAt": "2026-04-15T01:24:38.027Z"
   },
   {
-    "id": "news-1776130086151-34",
-    "title": "Max Lousada and Julie Greenwald are in business. Welcome to 26.2 — in partnership with Sony Music",
-    "summary": "Ex-Warner veterans take the wraps off 26.2 – a record label with global ambitions\nSource",
-    "category": "industry-news",
-    "source": "Music Business Worldwide",
-    "author": "Unknown",
-    "publishedAt": "2026-04-13T14:48:35.000Z",
-    "url": "https://www.musicbusinessworldwide.com/max-lousada-and-julie-greenwald-are-in-business-welcome-to-26-2-in-partnership-with-sony-music/",
-    "imageUrl": null,
-    "tags": [
-      "Partnership"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-04-14T01:28:06.151Z"
-  },
-  {
-    "id": "news-1776130086151-35",
-    "title": "Latin Music generated over $1 billion in US wholesale recorded music revenues in 2025, up 4.2% YoY",
-    "summary": "Latin Music's 4.2% growth rate outpaced the wider US recorded music market, which grew 3.1% YoY in 2025.\nSource",
-    "category": "industry-news",
-    "source": "Music Business Worldwide",
-    "author": "Unknown",
-    "publishedAt": "2026-04-13T14:47:55.000Z",
-    "url": "https://www.musicbusinessworldwide.com/latin-music-generated-over-1-billion-in-us-wholesale-recorded-music-revenues-in-2025-up-4-2-yoy/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-04-14T01:28:06.151Z"
-  },
-  {
-    "id": "news-1776130086151-36",
-    "title": "YouTube hikes US subscription prices across Premium and Music plans",
-    "summary": "The YouTube Music Individual plan is rising from $10.99 to $11.99 per month\nSource",
-    "category": "industry-news",
-    "source": "Music Business Worldwide",
-    "author": "Unknown",
-    "publishedAt": "2026-04-13T12:22:47.000Z",
-    "url": "https://www.musicbusinessworldwide.com/youtube-hikes-us-subscription-prices-across-premium-and-music-plans/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-04-14T01:28:06.151Z"
-  },
-  {
-    "id": "news-1776130086151-37",
-    "title": "The music industry has long prioritized creative output over operational foundations. AI does not alter that imbalance; it exposes it.",
-    "summary": "Deviate Digital founder Sammy Andrews digs deep into how the business globally is actually using AI – and detects that the conversation is  finally evolving beyond linear arguments over rights…\n\nSource",
-    "category": "industry-news",
-    "source": "Music Business Worldwide",
-    "author": "Unknown",
-    "publishedAt": "2026-04-13T10:58:37.000Z",
-    "url": "https://www.musicbusinessworldwide.com/the-music-industry-has-long-prioritized-creative-output-over-operational-foundations-ai-does-not-alter-that-imbalance-it-exposes-it/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-04-14T01:28:06.151Z"
-  },
-  {
-    "id": "news-1776130086151-38",
-    "title": "Warner Music’s Spinnin’ Records launches new label in Germany",
-    "summary": "New label 'creates opportunities for artists across Germany, Switzerland, and Austria (GSA)'\nSource",
-    "category": "industry-news",
-    "source": "Music Business Worldwide",
-    "author": "Unknown",
-    "publishedAt": "2026-04-13T10:43:20.000Z",
-    "url": "https://www.musicbusinessworldwide.com/warner-musics-spinnin-records-launches-new-label-in-germany/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-04-14T01:28:06.151Z"
-  },
-  {
-    "id": "news-1776130086151-39",
-    "title": "After closing $267m ABS deal, Seeker Music acquires Nu Shooz catalog",
-    "summary": "Nu Shooz's dance track \"I Can’t Wait\", which celebrates its 40th anniversary, climbed to No. 3 on the Billboard Hot 100.\nSource",
-    "category": "industry-news",
-    "source": "Music Business Worldwide",
-    "author": "Unknown",
-    "publishedAt": "2026-04-13T10:04:56.000Z",
-    "url": "https://www.musicbusinessworldwide.com/after-closing-267m-abs-deal-seeker-music-acquires-nu-shooz-catalog/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-04-14T01:28:06.151Z"
-  },
-  {
-    "id": "news-1776130086151-28",
+    "id": "news-1776216278028-26",
     "title": "AI Agents Are Coming for Your Dating Life",
     "summary": "The developers of Pixel Societies are using AI agents to simulate social interactions. It's an attempt optimize the process of choosing new colleagues, friends, and even romantic partners.",
     "category": "tech-innovation",
@@ -234,86 +316,6 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-04-14T01:28:06.151Z"
-  },
-  {
-    "id": "news-1776130086151-40",
-    "title": "Spotify gives users the option to switch off video content across its platform",
-    "summary": "Spotify is rolling out new toggles that allow listeners to switch off video content, including Canvas visuals and podcast videos.\nSource",
-    "category": "industry-news",
-    "source": "Music Business Worldwide",
-    "author": "Unknown",
-    "publishedAt": "2026-04-13T09:55:35.000Z",
-    "url": "https://www.musicbusinessworldwide.com/spotify-gives-users-the-option-to-switch-off-video-content-across-its-platform/",
-    "imageUrl": null,
-    "tags": [
-      "Spotify"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-04-14T01:28:06.151Z"
-  },
-  {
-    "id": "news-1776130086151-41",
-    "title": "Switzerland’s MusicBird acquires catalog of Supertramp bassist Dougie Thomson",
-    "summary": "British rock band Supertramp sold more than 60 million albums since they were formed in 1970.\nSource",
-    "category": "industry-news",
-    "source": "Music Business Worldwide",
-    "author": "Unknown",
-    "publishedAt": "2026-04-13T09:50:41.000Z",
-    "url": "https://www.musicbusinessworldwide.com/switzerlands-musicbird-acquires-catalog-of-supertramp-bassist-dougie-thomson1/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-04-14T01:28:06.151Z"
-  },
-  {
-    "id": "news-1776130086150-22",
-    "title": "MiniMax Releases MMX-CLI: A Command-Line Interface That Gives AI Agents Native Access to Image, Video, Speech, Music, Vision, and Search",
-    "summary": "MiniMax, the AI research company behind the MiniMax omni-modal model stack, has released MMX-CLI — Node.js-based command-line interface that exposes the MiniMax AI platform’s full suite of generative capabilities, both to human developers working in a terminal and to AI agents running in tools like Cursor, Claude Code, and OpenCode. What Problem Is MMX-CLI Solving? […]\nThe post MiniMax Releases MMX-CLI: A Command-Line Interface That Gives AI Agents Native Access to Image, Video, Spee",
-    "category": "ai-research",
-    "source": "MarkTechPost",
-    "author": "Unknown",
-    "publishedAt": "2026-04-13T05:17:40.000Z",
-    "url": "https://www.marktechpost.com/2026/04/12/minimax-releases-mmx-cli-a-command-line-interface-that-gives-ai-agents-native-access-to-image-video-speech-music-vision-and-search/",
-    "imageUrl": null,
-    "tags": [
-      "AI",
-      "Research"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-04-14T01:28:06.150Z"
-  },
-  {
-    "id": "news-1776130086150-23",
-    "title": "Meta AI and KAUST Researchers Propose Neural Computers That Fold Computation, Memory, and I/O Into One Learned Model",
-    "summary": "Researchers from Meta AI and the King Abdullah University of Science and Technology (KAUST) have introduced Neural Computers (NCs) — a proposed machine form in which a neural network itself acts as the running computer, rather than as a layer sitting on top of one. The research team presents both a theoretical framework and two […]\nThe post Meta AI and KAUST Researchers Propose Neural Computers That Fold Computation, Memory, and I/O Into One Learned Model appeared first on MarkTechPost.\n",
-    "category": "ai-research",
-    "source": "MarkTechPost",
-    "author": "Unknown",
-    "publishedAt": "2026-04-12T21:52:24.000Z",
-    "url": "https://www.marktechpost.com/2026/04/12/meta-ai-and-kaust-researchers-propose-neural-computers-that-fold-computation-memory-and-i-o-into-one-learned-model/",
-    "imageUrl": null,
-    "tags": [
-      "AI",
-      "Research"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-04-14T01:28:06.150Z"
-  },
-  {
-    "id": "news-1776130086149-3",
-    "title": "From LLMs to hallucinations, here’s a simple guide to common AI terms",
-    "summary": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-04-12T15:07:08.000Z",
-    "url": "https://techcrunch.com/2026/04/12/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-04-14T01:28:06.149Z"
+    "fetchedAt": "2026-04-15T01:24:38.028Z"
   }
 ]
