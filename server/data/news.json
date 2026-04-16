@@ -1,321 +1,319 @@
 [
   {
-    "id": "news-1776216278028-33",
-    "title": "Rezz Cancels Coachella Weekend 2 Performance: ‘I Continued to Push Thinking It Would Be Fine’",
-    "summary": "The Ukrainian Canadian DJ and producer performed on Saturday of weekend 1 in the Sahara Tent.",
+    "id": "news-1776303875668-41",
+    "title": "Lena Dunham Gives Taylor Swift Sweet Acknowledgment in New Memoir: ‘You Sing the Songs I Wrote This Book To’",
+    "summary": "The pair have been friends for years, with the pop star serving as a bridesmaid for the actress in 2021.",
     "category": "industry-news",
     "source": "Billboard",
     "author": "Unknown",
-    "publishedAt": "2026-04-15T00:47:39.000Z",
-    "url": "https://www.billboard.com/music/music-news/rezz-cancels-coachella-weekend-2-performance-health-1236223162/",
+    "publishedAt": "2026-04-16T01:07:53.000Z",
+    "url": "https://www.billboard.com/music/pop/lena-dunham-taylor-swift-acknowledgment-memoir-1236224019/",
     "imageUrl": null,
     "tags": [
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-04-15T01:24:38.028Z"
+    "fetchedAt": "2026-04-16T01:44:35.668Z"
   },
   {
-    "id": "news-1776216278027-17",
-    "title": "A Coding Implementation of Crawl4AI for Web Crawling, Markdown Generation, JavaScript Execution, and LLM-Based Structured Extraction",
-    "summary": "In this tutorial, we build a complete and practical Crawl4AI workflow and explore how modern web crawling goes far beyond simply downloading page HTML. We set up the full environment, configure browser behavior, and work through essential capabilities such as basic crawling, markdown generation, structured CSS-based extraction, JavaScript execution, session handling, screenshots, link analysis, concurrent […]\nThe post A Coding Implementation of Crawl4AI for Web Crawling, Markdown Generatio",
-    "category": "ai-research",
-    "source": "MarkTechPost",
-    "author": "Unknown",
-    "publishedAt": "2026-04-15T00:39:12.000Z",
-    "url": "https://www.marktechpost.com/2026/04/14/a-coding-implementation-of-crawl4ai-for-web-crawling-markdown-generation-javascript-execution-and-llm-based-structured-extraction/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-04-15T01:24:38.028Z"
-  },
-  {
-    "id": "news-1776216278028-34",
-    "title": "Spotify & the Major Labels Won a $322M Court Order Against Music Pirates. Will They Be Able to Collect?",
-    "summary": "At least for now, the court judgment is largely a symbolic victory, as no one has identified the anonymous internet users behind Anna’s Archive.",
+    "id": "news-1776303875668-42",
+    "title": "Who Would’ve Thought? Avril Lavigne Covers Alanis Morissette’s ‘Ironic’ for Canadian Rom-Com Soundtrack",
+    "summary": "Lavigne remained true to the original sound with her rendition. ",
     "category": "industry-news",
     "source": "Billboard",
     "author": "Unknown",
-    "publishedAt": "2026-04-15T00:38:48.000Z",
-    "url": "https://www.billboard.com/pro/spotify-major-labels-win-music-piracy-lawsuit/",
+    "publishedAt": "2026-04-15T22:54:09.000Z",
+    "url": "https://www.billboard.com/music/music-news/avril-lavigne-alanis-morissette-ironic-cover-1236223977/",
     "imageUrl": null,
     "tags": [
-      "Spotify",
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-04-15T01:24:38.028Z"
+    "fetchedAt": "2026-04-16T01:44:35.668Z"
   },
   {
-    "id": "news-1776216278028-35",
-    "title": "Dua Lipa Calls This Britney Spears Hit ‘One of the Greatest Pop Songs Ever Made’: ‘She’s Such an Icon’",
-    "summary": "Dua turned her favorite songs into cocktails for Vogue's Toast to Cinema series. ",
+    "id": "news-1776303875668-43",
+    "title": "Live Nation Verdict Reactions: Industry Stakeholders Sound Off (UPDATING)",
+    "summary": "Orgs representing venues, artists and more are weighing in on Wednesday's historic verdict, which found that the concert giant violated antitrust laws.",
     "category": "industry-news",
     "source": "Billboard",
     "author": "Unknown",
-    "publishedAt": "2026-04-14T23:08:54.000Z",
-    "url": "https://www.billboard.com/music/pop/dua-lipa-britney-spears-toxic-1236223020/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-04-15T01:24:38.028Z"
-  },
-  {
-    "id": "news-1776216278028-28",
-    "title": "Concord forms strategic venture with Steven Victor’s Victor Victor Worldwide, expands hip-hop footprint",
-    "summary": "VVW has launched the careers of artists including Pop Smoke and Ski Mask the Slump God.\nSource",
-    "category": "industry-news",
-    "source": "Music Business Worldwide",
-    "author": "Unknown",
-    "publishedAt": "2026-04-14T18:59:09.000Z",
-    "url": "https://www.musicbusinessworldwide.com/concord-forms-strategic-venture-with-steven-victors-victor-victor-worldwide-expands-hip-hop-footprint/",
+    "publishedAt": "2026-04-15T22:48:53.000Z",
+    "url": "https://www.billboard.com/pro/live-nation-verdict-music-industry-reactions/",
     "imageUrl": null,
     "tags": [],
     "readTime": 1,
-    "fetchedAt": "2026-04-15T01:24:38.028Z"
+    "fetchedAt": "2026-04-16T01:44:35.668Z"
   },
   {
-    "id": "news-1776216278028-18",
-    "title": "TinyFish AI Releases Full Web Infrastructure Platform for AI Agents: Search, Fetch, Browser, and Agent Under One API Key",
-    "summary": "AI agents struggle with tasks that require interacting with the live web — fetching a competitor’s pricing page, extracting structured data from a JavaScript-heavy dashboard, or automating a multi-step workflow on a real site. The tooling has been fragmented, requiring teams to stitch together separate providers for search, browser automation, and content retrieval. TinyFish, a […]\nThe post TinyFish AI Releases Full Web Infrastructure Platform for AI Agents: Search, Fetch, Browser, a",
-    "category": "tech-innovation",
-    "source": "MarkTechPost",
+    "id": "news-1776303875668-44",
+    "title": "Oliver Tree Releases Music Video Filmed at Historical Monument in the Country of Georgia",
+    "summary": "\"Another $0 budget music video. Filmed at the Didgori Battle Monument in the beautiful country of Georgia,\" he wrote.",
+    "category": "industry-news",
+    "source": "Billboard",
     "author": "Unknown",
-    "publishedAt": "2026-04-14T18:53:27.000Z",
-    "url": "https://www.marktechpost.com/2026/04/14/tinyfish-ai-releases-full-web-infrastructure-platform-for-ai-agents/",
+    "publishedAt": "2026-04-15T21:56:02.000Z",
+    "url": "https://www.billboard.com/music/music-news/oliver-tree-monument-georgia-video-1236223949/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-04-16T01:44:35.668Z"
+  },
+  {
+    "id": "news-1776303875668-45",
+    "title": "2026 MTV Video Music Awards & Nickelodeon Kids’ Choice Awards Dates Announced",
+    "summary": "Both shows will be held in Los Angeles, marking the first time the VMAs have been held in the L.A. area since 2017.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-04-15T21:25:42.000Z",
+    "url": "https://www.billboard.com/music/awards/2026-mtv-vmas-nickelodeon-kids-choice-awards-dates-1236223878/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-04-16T01:44:35.668Z"
+  },
+  {
+    "id": "news-1776303875668-46",
+    "title": "Billboard’s Music Industry Events Calendar",
+    "summary": "A complete rundown of the most important events across the music business.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-04-15T21:09:00.000Z",
+    "url": "https://www.billboard.com/pro/music-industry-events-calendar-festivals-awards-conferences/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-04-16T01:44:35.668Z"
+  },
+  {
+    "id": "news-1776303875665-0",
+    "title": "OpenAI updates its Agents SDK to help enterprises build safer, more capable agents",
+    "summary": "OpenAI has expanded the capabilities of its agent-building toolkit, as agentic AI continues to grow in popularity. ",
+    "category": "tech-innovation",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-04-15T19:28:36.000Z",
+    "url": "https://techcrunch.com/2026/04/15/openai-updates-its-agents-sdk-to-help-enterprises-build-safer-more-capable-agents/",
     "imageUrl": null,
     "tags": [
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-04-15T01:24:38.028Z"
+    "fetchedAt": "2026-04-16T01:44:35.665Z"
   },
   {
-    "id": "news-1776216278026-0",
-    "title": "Google adds AI Skills to Chrome to help you save favorite workflows",
-    "summary": "Google is adding “Skills” to Chrome, letting users save and reuse AI prompts across websites. The feature builds on Gemini’s browser integration.",
+    "id": "news-1776303875665-1",
+    "title": "Hightouch reaches $100M ARR fueled by marketing tools powered by AI",
+    "summary": "The startup says it grew its ARR by $70 million in just 20 months after launching an AI agent platform for marketers. ",
     "category": "ai-research",
     "source": "TechCrunch AI",
     "author": "Unknown",
-    "publishedAt": "2026-04-14T17:00:00.000Z",
-    "url": "https://techcrunch.com/2026/04/14/google-adds-ai-skills-to-chrome-to-help-you-save-favorite-workflows/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-04-15T01:24:38.026Z"
-  },
-  {
-    "id": "news-1776216278028-23",
-    "title": "Anthropic Opposes the Extreme AI Liability Bill That OpenAI Backed",
-    "summary": "Anthropic and OpenAI are clashing over a proposed Illinois law that would let AI labs largely off the hook for mass deaths and financial disasters.",
-    "category": "tech-innovation",
-    "source": "Wired AI",
-    "author": "Unknown",
-    "publishedAt": "2026-04-14T15:21:44.000Z",
-    "url": "https://www.wired.com/story/anthropic-opposes-the-extreme-ai-liability-bill-that-openai-backed/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-04-15T01:24:38.028Z"
-  },
-  {
-    "id": "news-1776216278028-29",
-    "title": "Former UMG Nashville chief Cindy Mabe launches Joan of Arc Music, strikes distribution deal with Warner Records Nashville",
-    "summary": "Joan of Arc Music operates across artist management, label services, publishing, TV/film production and philanthropy, with a distribution deal plugging into WMG's global network.\nSource",
-    "category": "industry-news",
-    "source": "Music Business Worldwide",
-    "author": "Unknown",
-    "publishedAt": "2026-04-14T14:53:40.000Z",
-    "url": "https://www.musicbusinessworldwide.com/former-umg-nashville-chief-cindy-mabe-launches-joan-of-arc-music-strikes-distribution-deal-with-warner-records-nashville/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-04-15T01:24:38.028Z"
-  },
-  {
-    "id": "news-1776216278028-30",
-    "title": "Larry Mestel to receive City of Hope’s 2026 Spirit of Life Award",
-    "summary": "Founder & CEO of Primary Wave Music recognized for industry leadership and commitment to advancing cancer research through partnership\nSource",
-    "category": "industry-news",
-    "source": "Music Business Worldwide",
-    "author": "Unknown",
-    "publishedAt": "2026-04-14T13:43:02.000Z",
-    "url": "https://www.musicbusinessworldwide.com/larry-mestel-founder-and-ceo-of-primary-wave-music-to-receive-city-of-hopes-2026-spirit-of-life-award/",
-    "imageUrl": null,
-    "tags": [
-      "Research",
-      "Partnership"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-04-15T01:24:38.028Z"
-  },
-  {
-    "id": "news-1776216278028-31",
-    "title": "Tim Miles appointed EVP of BMG’s global SYNC+ division",
-    "summary": "BMG taps Warner Music Group veteran to drive its SYNC+ strategy, strengthening its global sync and music-for-media operations.\nSource",
-    "category": "industry-news",
-    "source": "Music Business Worldwide",
-    "author": "Unknown",
-    "publishedAt": "2026-04-14T12:28:04.000Z",
-    "url": "https://www.musicbusinessworldwide.com/tim-miles-appointed-evp-of-bmgs-global-sync-division/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-04-15T01:24:38.028Z"
-  },
-  {
-    "id": "news-1776216278028-24",
-    "title": "Silicon Valley Is Spending Millions to Stop One of Its Own",
-    "summary": "Alex Bores, a former Palantir employee, helped pass one of the country’s toughest AI laws. Now Silicon Valley’s biggest names are trying to stop his rise to Congress.",
-    "category": "tech-innovation",
-    "source": "Wired AI",
-    "author": "Unknown",
-    "publishedAt": "2026-04-14T10:30:00.000Z",
-    "url": "https://www.wired.com/story/the-big-interview-podcast-new-york-state-representative-alex-bores/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-04-15T01:24:38.028Z"
-  },
-  {
-    "id": "news-1776216278028-32",
-    "title": "BTS label BigHit Music asks US court to unmask X user who leaked ‘ARIRANG’ before release",
-    "summary": "The HYBE-owned label is targeting an X account that allegedly distributed unreleased songs and other album assets before ARIRANG dropped.\nSource",
-    "category": "industry-news",
-    "source": "Music Business Worldwide",
-    "author": "Unknown",
-    "publishedAt": "2026-04-14T10:21:31.000Z",
-    "url": "https://www.musicbusinessworldwide.com/bts-label-bighit-music-asks-us-court-to-unmask-x-user-who-leaked-arirang-before-release/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-04-15T01:24:38.028Z"
-  },
-  {
-    "id": "news-1776216278028-19",
-    "title": "Google AI Research Proposes Vantage: An LLM-Based Protocol for Measuring Collaboration, Creativity, and Critical Thinking",
-    "summary": "Standardized tests can tell you whether a student knows calculus or can parse a passage of text. What they cannot reliably tell you is whether that student can resolve a disagreement with a teammate, generate genuinely original ideas under pressure, or critically dismantle a flawed argument. These are the so-called durable skills — collaboration, creativity, […]\nThe post Google AI Research Proposes Vantage: An LLM-Based Protocol for Measuring Collaboration, Creativity, and Critical Thinkin",
-    "category": "ai-research",
-    "source": "MarkTechPost",
-    "author": "Unknown",
-    "publishedAt": "2026-04-14T00:30:27.000Z",
-    "url": "https://www.marktechpost.com/2026/04/13/google-ai-research-proposes-vantage-an-llm-based-protocol-for-measuring-collaboration-creativity-and-critical-thinking/",
-    "imageUrl": null,
-    "tags": [
-      "AI",
-      "Research",
-      "Partnership"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-04-15T01:24:38.028Z"
-  },
-  {
-    "id": "news-1776216278026-1",
-    "title": "OpenAI has bought AI personal finance startup Hiro",
-    "summary": "The acquisition indicates a capability that OpenAI is building into ChatGPT: financial planning.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-04-14T00:23:33.000Z",
-    "url": "https://techcrunch.com/2026/04/13/openai-has-bought-ai-personal-finance-startup-hiro/",
+    "publishedAt": "2026-04-15T18:55:12.000Z",
+    "url": "https://techcrunch.com/2026/04/15/hightouch-reaches-100m-arr-fueled-by-marketing-tools-powered-by-ai/",
     "imageUrl": null,
     "tags": [
       "AI",
       "Startup"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-04-15T01:24:38.026Z"
+    "fetchedAt": "2026-04-16T01:44:35.665Z"
   },
   {
-    "id": "news-1776216278026-2",
-    "title": "Stanford report highlights growing disconnect between AI insiders and everyone else",
-    "summary": "Stanford’s latest AI Index shows a widening gap between experts and the public, with rising anxiety over jobs, healthcare, and the economy.",
+    "id": "news-1776303875665-2",
+    "title": "LinkedIn data shows AI isn’t to blame for hiring decline… yet",
+    "summary": "LinkedIn says hiring is down 20% since 2022, but blames higher interest rates — not AI — for the slowdown.",
     "category": "ai-research",
     "source": "TechCrunch AI",
     "author": "Unknown",
-    "publishedAt": "2026-04-13T18:55:37.000Z",
-    "url": "https://techcrunch.com/2026/04/13/stanford-report-highlights-growing-disconnect-between-ai-insiders-and-everyone-else/",
+    "publishedAt": "2026-04-15T18:51:54.000Z",
+    "url": "https://techcrunch.com/2026/04/15/linkedin-data-shows-ai-isnt-to-blame-for-hiring-decline-yet/",
     "imageUrl": null,
     "tags": [
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-04-15T01:24:38.026Z"
+    "fetchedAt": "2026-04-16T01:44:35.665Z"
   },
   {
-    "id": "news-1776216278028-20",
-    "title": "A Step-by-Step Coding Tutorial on NVIDIA PhysicsNeMo: Darcy Flow, FNOs, PINNs, Surrogate Models, and Inference Benchmarking",
-    "summary": "In this tutorial, we implement NVIDIA PhysicsNeMo on Colab and build a practical workflow for physics-informed machine learning. We start by setting up the environment, generating data for the 2D Darcy Flow problem, and visualizing the physical fields to clearly understand the learning task. From there, we implement and train powerful models such as the […]\nThe post A Step-by-Step Coding Tutorial on NVIDIA PhysicsNeMo: Darcy Flow, FNOs, PINNs, Surrogate Models, and Inference Benchmarking a",
+    "id": "news-1776303875665-3",
+    "title": "AI learning app Gizmo levels up with 13M users and a $22M investment",
+    "summary": "Gizmo, an AI-powered learning platform, has attracted more than 13 million users and just secured $22 million in Series A funding.",
     "category": "ai-research",
-    "source": "MarkTechPost",
+    "source": "TechCrunch AI",
     "author": "Unknown",
-    "publishedAt": "2026-04-13T17:07:34.000Z",
-    "url": "https://www.marktechpost.com/2026/04/13/a-step-by-step-coding-tutorial-on-nvidia-physicsnemo-darcy-flow-fnos-pinns-surrogate-models-and-inference-benchmarking/",
+    "publishedAt": "2026-04-15T18:38:10.000Z",
+    "url": "https://techcrunch.com/2026/04/15/ai-learning-app-gizmo-levels-up-with-13m-users-and-a-22m-investment/",
     "imageUrl": null,
     "tags": [
       "AI",
-      "Machine Learning"
+      "Investment"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-04-15T01:24:38.028Z"
+    "fetchedAt": "2026-04-16T01:44:35.665Z"
   },
   {
-    "id": "news-1776216278028-25",
-    "title": "Meta Is Warned That Facial Recognition Glasses Will Arm Sexual Predators",
-    "summary": "More than 70 organizations, including the ACLU, EPIC, and Fight for the Future, say the AI smart glasses feature would endanger abuse victims, immigrants, and LGBTQ+ people.",
-    "category": "tech-innovation",
-    "source": "Wired AI",
-    "author": "Unknown",
-    "publishedAt": "2026-04-13T16:01:30.000Z",
-    "url": "https://www.wired.com/story/meta-ray-ban-oakley-smart-glasses-no-face-recognition-civil-society/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-04-15T01:24:38.028Z"
-  },
-  {
-    "id": "news-1776216278026-3",
-    "title": "Vercel CEO Guillermo Rauch signals IPO readiness as AI agents fuel revenue surge",
-    "summary": "While many startups founded prior to the emergence of ChatGPT are struggling to position themselves for the AI era, Vercel, a 10-year-old dev tool and website hosting platform, is benefiting from the explosion of AI-generated apps and agents.",
+    "id": "news-1776303875665-4",
+    "title": "Can AI judge journalism? A Thiel-backed startup says yes, even if it risks chilling whistleblowers",
+    "summary": "Objection, a Thiel-backed startup, aims to use AI to judge journalism, letting users pay to challenge stories. Critics warn it could chill whistleblowers and reshape how media accountability works.",
     "category": "ai-research",
     "source": "TechCrunch AI",
     "author": "Unknown",
-    "publishedAt": "2026-04-13T15:22:29.000Z",
-    "url": "https://techcrunch.com/2026/04/13/vercel-ceo-guillermo-rauch-signals-ipo-readiness-as-ai-agents-fuel-revenue-surge/",
+    "publishedAt": "2026-04-15T18:33:20.000Z",
+    "url": "https://techcrunch.com/2026/04/15/can-ai-judge-journalism-a-thiel-backed-startup-says-yes-even-if-it-risks-chilling-whistleblowers/",
     "imageUrl": null,
     "tags": [
       "AI",
       "Startup"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-04-15T01:24:38.027Z"
+    "fetchedAt": "2026-04-16T01:44:35.666Z"
   },
   {
-    "id": "news-1776216278028-26",
-    "title": "AI Agents Are Coming for Your Dating Life",
-    "summary": "The developers of Pixel Societies are using AI agents to simulate social interactions. It's an attempt optimize the process of choosing new colleagues, friends, and even romantic partners.",
+    "id": "news-1776303875667-27",
+    "title": "AI Could Democratize One of Tech's Most Valuable Resources",
+    "summary": "AI is making it easier to design chips and optimize software for different silicon. Some startups envision a revolution in chipmaking.",
     "category": "tech-innovation",
     "source": "Wired AI",
     "author": "Unknown",
-    "publishedAt": "2026-04-13T10:00:00.000Z",
-    "url": "https://www.wired.com/story/ai-agents-are-coming-for-your-dating-life-next/",
+    "publishedAt": "2026-04-15T18:00:00.000Z",
+    "url": "https://www.wired.com/story/ai-could-democratize-one-of-techs-most-valuable-resources/",
+    "imageUrl": null,
+    "tags": [
+      "AI",
+      "Startup"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-04-16T01:44:35.667Z"
+  },
+  {
+    "id": "news-1776303875666-5",
+    "title": "India’s vibe-coding startup Emergent enters OpenClaw-like AI agent space",
+    "summary": "Emergent's Wingman lets users manage and automate tasks through chat on platforms like WhatsApp and Telegram.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-04-15T17:24:18.000Z",
+    "url": "https://techcrunch.com/2026/04/15/indias-vibe-coding-startup-emergent-enters-openclaw-like-ai-agent-space/",
+    "imageUrl": null,
+    "tags": [
+      "AI",
+      "Startup"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-04-16T01:44:35.666Z"
+  },
+  {
+    "id": "news-1776303875667-19",
+    "title": "A Technical Deep Dive into the Essential Stages of Modern Large Language Model Training, Alignment, and Deployment",
+    "summary": "Training a modern large language model (LLM) is not a single step but a carefully orchestrated pipeline that transforms raw data into a reliable, aligned, and deployable intelligent system. At its core lies pretraining, the foundational phase where models learn general language patterns, reasoning structures, and world knowledge from massive text corpora. This is followed […]\nThe post A Technical Deep Dive into the Essential Stages of Modern Large Language Model Training, Alignment, and De",
+    "category": "ai-research",
+    "source": "MarkTechPost",
+    "author": "Unknown",
+    "publishedAt": "2026-04-15T17:21:06.000Z",
+    "url": "https://www.marktechpost.com/2026/04/15/a-technical-deep-dive-into-the-essential-stages-of-modern-large-language-model-training-alignment-and-deployment/",
     "imageUrl": null,
     "tags": [
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-04-15T01:24:38.028Z"
+    "fetchedAt": "2026-04-16T01:44:35.667Z"
+  },
+  {
+    "id": "news-1776303875667-33",
+    "title": "Streaming Fraud Doesn’t Respect Silos. Neither Should We.",
+    "summary": "Merlin CEO, Charlie Lexton, addresses THAT fallout with TikTok - and Merlin's own anti-fraud progress\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-04-15T17:13:30.000Z",
+    "url": "https://www.musicbusinessworldwide.com/streaming-fraud-doesnt-respect-silos-neither-should-we/",
+    "imageUrl": null,
+    "tags": [
+      "Streaming"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-04-16T01:44:35.667Z"
+  },
+  {
+    "id": "news-1776303875667-20",
+    "title": "Google AI Launches Gemini 3.1 Flash TTS: A New Benchmark in Expressive and Controllable AI Voice",
+    "summary": "Google has introduced Gemini 3.1 Flash TTS, a preview text-to-speech model focused on improving speech quality, expressive control, and multilingual generation. Unlike previous iterations that prioritized simple conversion, this release emphasizes natural-language audio tags, native support for more than 70 languages, and native multi-speaker dialogue. This release signals a shift from ‘black-box’ audio generation toward […]\nThe post Google AI Launches Gemini 3.1 Flash TTS: A N",
+    "category": "tech-innovation",
+    "source": "MarkTechPost",
+    "author": "Unknown",
+    "publishedAt": "2026-04-15T17:06:17.000Z",
+    "url": "https://www.marktechpost.com/2026/04/15/google-ai-launches-gemini-3-1-flash-tts-a-new-benchmark-in-expressive-and-controllable-ai-voice/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-04-16T01:44:35.667Z"
+  },
+  {
+    "id": "news-1776303875667-28",
+    "title": "Allbirds Is Pivoting to AI Compute. Sure, Why Not",
+    "summary": "Once a $4 billion apparel juggernaut, Allbirds will rebrand as NewBird AI, a “GPU-as-a-Service” company. Hey, if you can't beat ’em, join ’em.",
+    "category": "tech-innovation",
+    "source": "Wired AI",
+    "author": "Unknown",
+    "publishedAt": "2026-04-15T14:58:08.000Z",
+    "url": "https://www.wired.com/story/allbirds-is-pivoting-to-ai-compute-sure-why-not/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-04-16T01:44:35.667Z"
+  },
+  {
+    "id": "news-1776303875668-34",
+    "title": "UMG’s Michael Nash takes aim at ‘false narrative of artist replacement’ by AI – and 3 other things we learned from his HumanX panel with Splice’s CEO",
+    "summary": "The pair discussed UMG's approach to AI, including how the company balances protecting artists' rights with leaning into AI innovation\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-04-15T14:42:18.000Z",
+    "url": "https://www.musicbusinessworldwide.com/umgs-michael-nash-takes-aim-at-the-ai-versus-artists-narrative-and-3-other-things-you-might-have-missed-from-his-humanx-panel-with-splice-ceo-kakul-srivastava/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-04-16T01:44:35.668Z"
+  },
+  {
+    "id": "news-1776303875666-6",
+    "title": "After sale of its shoe business, Allbirds pivots to AI",
+    "summary": "Allbirds is ditching wool sneakers for AI servers, rebranding as NewBird AI after locking in a $50M convertible financing facility.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-04-15T14:24:31.000Z",
+    "url": "https://techcrunch.com/2026/04/15/after-sale-of-its-shoe-business-allbirds-pivots-to-ai/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-04-16T01:44:35.666Z"
+  },
+  {
+    "id": "news-1776303875666-7",
+    "title": "Reid Hoffman weighs in on the ‘tokenmaxxing’ debate",
+    "summary": "Reid Hoffman says tracking AI token use can gauge adoption, but cautions it should be paired with context and not treated as a direct productivity metric.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-04-15T13:06:54.000Z",
+    "url": "https://techcrunch.com/2026/04/15/reid-hoffman-weighs-in-on-the-tokenmaxxing-debate/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-04-16T01:44:35.666Z"
   }
 ]
