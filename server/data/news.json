@@ -1,6 +1,219 @@
 [
   {
-    "id": "news-1776389279860-21",
+    "id": "news-1776475291136-40",
+    "title": "Dutch Mayor Finds No Basis to Ban Ye From Upcoming Netherlands Concerts: ‘The Law Prevails’",
+    "summary": "West is slated to perform a pair of shows at the Gelredome Stadium in Arnhem on June 6 and June 8.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-04-18T00:00:43.000Z",
+    "url": "https://www.billboard.com/music/rb-hip-hop/netherlands-mayor-no-ban-kanye-west-concerts-1236226014/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-04-18T01:21:31.136Z"
+  },
+  {
+    "id": "news-1776475291136-41",
+    "title": "Chart Rewind: In 2021, Chris Stapleton’s ‘Starting Over’ Finished Its Run to No. 1",
+    "summary": "The song also soundtracked a truck commercial and won big at the CMA Awards.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-04-17T22:01:32.000Z",
+    "url": "https://www.billboard.com/music/chart-beat/chris-stapleton-starting-over-chart-rewind-2021-1236226001/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-04-18T01:21:31.136Z"
+  },
+  {
+    "id": "news-1776475291136-42",
+    "title": "Looking Ahead: A Release Calendar of Upcoming Albums in 2026",
+    "summary": "We'll be updating our list as musicians announce their new music, so keep checking back for the latest!",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-04-17T21:04:26.000Z",
+    "url": "https://www.billboard.com/lists/new-albums-2026-calendar-new-music-releases-this-year/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-04-18T01:21:31.136Z"
+  },
+  {
+    "id": "news-1776475291135-20",
+    "title": "Top 19 AI Red Teaming Tools (2026): Secure Your ML Models",
+    "summary": "As Generative AI matures, so do the threats against it. AI Red Teaming has evolved from a niche security practice into a regulatory requirement. Our 2026 guide breaks down the top 19 tools—including Mindgard, Garak, and Microsoft’s PyRIT—to help security teams identify vulnerabilities like data leakage and bias before they reach production.\nThe post Top 19 AI Red Teaming Tools (2026): Secure Your ML Models appeared first on MarkTechPost.\n",
+    "category": "ai-research",
+    "source": "MarkTechPost",
+    "author": "Unknown",
+    "publishedAt": "2026-04-17T20:45:08.000Z",
+    "url": "https://www.marktechpost.com/2026/04/17/top-ai-red-teaming-tools/",
+    "imageUrl": null,
+    "tags": [
+      "AI",
+      "Generative AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-04-18T01:21:31.135Z"
+  },
+  {
+    "id": "news-1776475291136-43",
+    "title": "Nanpa Básico, Thalia & More: Vote for the Best New Latin Music Release This Week",
+    "summary": "Which new Latin music release is your favorite? Vote below!",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-04-17T20:42:04.000Z",
+    "url": "https://www.billboard.com/music/latin/best-new-latin-music-poll-nanpa-basico-thalia-tokischa-1236225674/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-04-18T01:21:31.136Z"
+  },
+  {
+    "id": "news-1776475291133-0",
+    "title": "Kevin Weil and Bill Peebles exit OpenAI as company continues to shed ‘side quests’",
+    "summary": "Kevin Weil and Bill Peebles are leaving OpenAI as the company shuts down Sora and folds its science team, signaling a sharp pivot away from consumer moonshots toward enterprise AI.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-04-17T20:38:17.000Z",
+    "url": "https://techcrunch.com/2026/04/17/kevin-weil-and-bill-peebles-exit-openai-as-company-continues-to-shed-side-quests/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-04-18T01:21:31.134Z"
+  },
+  {
+    "id": "news-1776475291136-44",
+    "title": "j-hope Announces Death of Grandmother Who ‘Raised Me From When I Was Little’ at BTS Concert",
+    "summary": "\"I was in complete shock and honestly didn’t know what to feel,\" the singer told ARMY in the crowd.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-04-17T20:36:05.000Z",
+    "url": "https://www.billboard.com/music/music-news/bts-j-hope-grandmother-death-1236225889/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-04-18T01:21:31.136Z"
+  },
+  {
+    "id": "news-1776475291136-27",
+    "title": "OpenAI Executive Kevin Weil Is Leaving the Company",
+    "summary": "The former Instagram VP is departing the ChatGPT-maker, which is folding the AI science application he led into Codex.",
+    "category": "ai-research",
+    "source": "Wired AI",
+    "author": "Unknown",
+    "publishedAt": "2026-04-17T19:56:42.000Z",
+    "url": "https://www.wired.com/story/openai-executive-kevin-weil-is-leaving-the-company/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-04-18T01:21:31.136Z"
+  },
+  {
+    "id": "news-1776475291134-1",
+    "title": "Tokenmaxxing, OpenAI’s shopping spree, and the AI Anxiety Gap",
+    "summary": "The gap between AI insiders and everyone else is widening, and the spending, suspicion, and even new vocabulary are starting to show it. While OpenAI is busy buying up everything from finance apps to talk shows, a certain shoe company just rebranded as an AI infrastructure play, and Anthropic unveiled a model it says is too powerful to release publicly …but apparently not too […]",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-04-17T15:57:40.000Z",
+    "url": "https://techcrunch.com/podcast/tokenmaxxing-openais-shopping-spree-and-the-ai-anxiety-gap/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-04-18T01:21:31.134Z"
+  },
+  {
+    "id": "news-1776475291136-28",
+    "title": "AI Drafting My Stories? Over My Dead Body",
+    "summary": "AI-assisted writing is creeping into newsrooms under the guise of efficiency. But the tradeoff may be more profound than publishers are willing to admit.",
+    "category": "tech-innovation",
+    "source": "Wired AI",
+    "author": "Unknown",
+    "publishedAt": "2026-04-17T15:46:06.000Z",
+    "url": "https://www.wired.com/story/backchannel-the-problem-with-letting-ai-do-the-writing/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-04-18T01:21:31.136Z"
+  },
+  {
+    "id": "news-1776475291134-2",
+    "title": "Anthropic launches Claude Design, a new product for creating quick visuals",
+    "summary": "The company says Claude Design is intended to help people like founders and product managers without a design background share their ideas more easily. ",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-04-17T15:00:00.000Z",
+    "url": "https://techcrunch.com/2026/04/17/anthropic-launches-claude-design-a-new-product-for-creating-quick-visuals/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-04-18T01:21:31.134Z"
+  },
+  {
+    "id": "news-1776475291134-3",
+    "title": "Are we tokenmaxxing our way to nowhere?",
+    "summary": "The gap between AI insiders and everyone else is widening, and the spending, suspicion, and even new vocabulary are starting to show it. While OpenAI is busy buying up everything from finance apps to talk shows, a certain shoe company just rebranded as an AI infrastructure play, and Anthropic unveiled a model it says is too powerful to release publicly …but apparently not too […]",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-04-17T13:00:00.000Z",
+    "url": "https://techcrunch.com/video/are-we-tokenmaxxing-our-way-to-nowhere/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-04-18T01:21:31.134Z"
+  },
+  {
+    "id": "news-1776475291136-34",
+    "title": "Akhila Shankar promoted to Director of Artist Services for India and South Asia at Believe",
+    "summary": "Shankar, who currently leads TuneCore in the region, will expand her remit across Believe’s Artist Services business.\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-04-17T11:00:59.000Z",
+    "url": "https://www.musicbusinessworldwide.com/akhila-shankar-promoted-to-director-of-artist-services-for-india-and-south-asia-at-believe/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-04-18T01:21:31.136Z"
+  },
+  {
+    "id": "news-1776475291136-35",
+    "title": "Universal Music Group launches Everything Jazz, a new global digital platform for jazz music and culture",
+    "summary": "New digital hub combines e-commerce and editorial content focused on jazz repertoire and culture.\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-04-17T10:47:06.000Z",
+    "url": "https://www.musicbusinessworldwide.com/universal-music-group-launches-everything-jazz-a-new-global-digital-platform-for-jazz-music-and-culture/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-04-18T01:21:31.136Z"
+  },
+  {
+    "id": "news-1776475291135-21",
     "title": "OpenAI Launches GPT-Rosalind: Its First Life Sciences AI Model Built to Accelerate Drug Discovery and Genomics Research",
     "summary": "OpenAI has officially entered the specialized science race with GPT-Rosalind, a frontier reasoning model designed to slash the 10-15 year timeline of drug discovery through advanced biochemistry and genomic analysis.\nThe post OpenAI Launches GPT-Rosalind: Its First Life Sciences AI Model Built to Accelerate Drug Discovery and Genomics Research appeared first on MarkTechPost.\n",
     "category": "ai-research",
@@ -14,68 +227,10 @@
       "Research"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-04-17T01:27:59.860Z"
+    "fetchedAt": "2026-04-18T01:21:31.135Z"
   },
   {
-    "id": "news-1776389279860-43",
-    "title": "Meghan Trainor Cancels Get In Girl Tour: ‘I Promise I’ll Be Back Soon’",
-    "summary": "Trainor's latest tour was set to kick off in June in support of her upcoming album Toy With Me, due April 24.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-04-16T23:49:13.000Z",
-    "url": "https://www.billboard.com/music/music-news/meghan-trainor-cancels-tour-canceled-1236224802/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-04-17T01:27:59.860Z"
-  },
-  {
-    "id": "news-1776389279860-44",
-    "title": "Andrea Bocelli Is Ready to Share the ‘Paradise’ of Opera with the Mexican People",
-    "summary": "The Italian tenor will give a free concert at Mexico City's iconic Zócalo on April 18, alongside Los Ángeles Azules and Ximena Sariñana.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-04-16T23:14:09.000Z",
-    "url": "https://www.billboard.com/music/latin/andrea-bocelli-talks-paradise-of-opera-mexico-free-show-1236224759/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-04-17T01:27:59.860Z"
-  },
-  {
-    "id": "news-1776389279860-45",
-    "title": "Jombriel Wins Big at Ecuador’s 2026 Premios REM: Full Winners List",
-    "summary": "The ceremony — held in Guayaquil's Sanchez Aguilar Theatre — celebrated Ecuador's booming music industry. ",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-04-16T23:11:59.000Z",
-    "url": "https://www.billboard.com/music/latin/ecuador-2026-premios-rem-winners-list-jombriel-dayanara-1236224256/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-04-17T01:27:59.860Z"
-  },
-  {
-    "id": "news-1776389279860-46",
-    "title": "R.I.P.: Canadian Music Industry Legend Donald K. Tarlton Passes Away at Age 82",
-    "summary": "Tarlton was an influential Montreal concert promoter, record label head and record producer.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-04-16T23:10:35.000Z",
-    "url": "https://www.billboard.com/pro/donald-k-tarlton-death-canadian-music-industry-legend-dead/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-04-17T01:27:59.861Z"
-  },
-  {
-    "id": "news-1776389279858-0",
+    "id": "news-1776475291134-4",
     "title": "Factory hits $1.5B valuation to build AI coding for enterprises",
     "summary": "The three-year-old startup raised $150 million led by Khosla Ventures.",
     "category": "ai-research",
@@ -89,10 +244,10 @@
       "Startup"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-04-17T01:27:59.858Z"
+    "fetchedAt": "2026-04-18T01:21:31.134Z"
   },
   {
-    "id": "news-1776389279858-1",
+    "id": "news-1776475291134-5",
     "title": "Upscale AI in talks to raise at $2B valuation, says report",
     "summary": "AI infrastructure company Upscale AI is reportedly in talks to raise its third funding round since launching just seven months ago.",
     "category": "ai-research",
@@ -106,10 +261,10 @@
       "Investment"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-04-17T01:27:59.858Z"
+    "fetchedAt": "2026-04-18T01:21:31.134Z"
   },
   {
-    "id": "news-1776389279858-2",
+    "id": "news-1776475291134-6",
     "title": "OpenAI takes aim at Anthropic with beefed-up Codex that gives it more power over your desktop",
     "summary": "OpenAI's agentic coding tool has gotten a major makeover, with a variety of new powers and abilities. ",
     "category": "ai-research",
@@ -122,10 +277,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-04-17T01:27:59.858Z"
+    "fetchedAt": "2026-04-18T01:21:31.134Z"
   },
   {
-    "id": "news-1776389279858-3",
+    "id": "news-1776475291134-7",
     "title": "Anthropic CPO leaves Figma’s board after reports he will offer a competing product",
     "summary": "Krieger's departure and any forthcoming design tools will be another data point for investors who fear the SaaSpocalypse — that the largest AI labs will come to dominate software businesses, a thesis that has rocked public markets at times this year. ",
     "category": "ai-research",
@@ -138,10 +293,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-04-17T01:27:59.859Z"
+    "fetchedAt": "2026-04-18T01:21:31.134Z"
   },
   {
-    "id": "news-1776389279860-36",
+    "id": "news-1776475291136-36",
     "title": "As K-pop concert revenues rise, HYBE, SM Entertainment, JYP, and YG plot music festival joint venture",
     "summary": "News arrives as live music becomes an increasingly important revenue stream for K-pop's biggest companies\nSource",
     "category": "industry-news",
@@ -154,165 +309,6 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-04-17T01:27:59.860Z"
-  },
-  {
-    "id": "news-1776389279860-30",
-    "title": "The Battle for OpenAI’s Soul",
-    "summary": "In Musk v. Altman, a jury will soon determine whether OpenAI has strayed from its founding mission to ensure AGI benefits humanity. Here’s what to know.",
-    "category": "tech-innovation",
-    "source": "Wired AI",
-    "author": "Unknown",
-    "publishedAt": "2026-04-16T18:00:00.000Z",
-    "url": "https://www.wired.com/story/musk-v-altman-trial-openai-xai/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-04-17T01:27:59.860Z"
-  },
-  {
-    "id": "news-1776389279860-31",
-    "title": "The UK Launches Its $675 Million Sovereign AI Fund",
-    "summary": "In a bid to minimize dependence on technology from other countries, the UK government is plowing resources into homegrown AI startups.",
-    "category": "industry-news",
-    "source": "Wired AI",
-    "author": "Unknown",
-    "publishedAt": "2026-04-16T17:30:00.000Z",
-    "url": "https://www.wired.com/story/the-uk-launches-its-dollar675-million-sovereign-ai-fund/",
-    "imageUrl": null,
-    "tags": [
-      "AI",
-      "Startup"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-04-17T01:27:59.860Z"
-  },
-  {
-    "id": "news-1776389279859-4",
-    "title": "Google now lets you explore the web side-by-side with AI Mode",
-    "summary": "Now, when you're using AI Mode on Chrome desktop, clicking a link will open the web page side-by-side with AI Mode. ",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-04-16T17:00:00.000Z",
-    "url": "https://techcrunch.com/2026/04/16/google-now-lets-you-explore-the-web-side-by-side-with-ai-mode/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-04-17T01:27:59.859Z"
-  },
-  {
-    "id": "news-1776389279860-32",
-    "title": "Google's AI Mode Update Tries to Kill Tab Hopping in Chrome",
-    "summary": "Google latest update to AI Mode in its Chrome browser is designed to keep the chatbot-style search tool always around once you start an online search journey.",
-    "category": "tech-innovation",
-    "source": "Wired AI",
-    "author": "Unknown",
-    "publishedAt": "2026-04-16T17:00:00.000Z",
-    "url": "https://www.wired.com/story/google-ai-mode-update-tries-to-kill-tab-hopping-in-chrome/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-04-17T01:27:59.860Z"
-  },
-  {
-    "id": "news-1776389279859-5",
-    "title": "InsightFinder raises $15M to help companies figure out where AI agents go wrong",
-    "summary": "According to CEO Helen Gu, the biggest problem facing the industry today is not just monitoring and diagnosing where AI models go wrong — it's also diagnosing how the entire tech stack operates now that AI is part of it. ",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-04-16T16:15:00.000Z",
-    "url": "https://techcrunch.com/2026/04/16/insightfinder-raises-15m-to-help-companies-figure-out-where-ai-agents-go-wrong/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-04-17T01:27:59.859Z"
-  },
-  {
-    "id": "news-1776389279859-6",
-    "title": "AI traffic to US retailers rose 393% in Q1, and it’s boosting their revenue too",
-    "summary": "Adobe says AI traffic to U.S. retail sites also jumped 269% in March, with visitors converting better and generating more revenue than non-AI shoppers.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-04-16T16:14:03.000Z",
-    "url": "https://techcrunch.com/2026/04/16/ai-traffic-to-us-retailers-rose-393-in-q1-and-its-boosting-their-revenue-too/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-04-17T01:27:59.859Z"
-  },
-  {
-    "id": "news-1776389279859-7",
-    "title": "Roblox’s AI assistant gets new agentic tools to plan, build, and test games",
-    "summary": "The new tools are designed to help creators throughout the entire development process.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-04-16T16:00:00.000Z",
-    "url": "https://techcrunch.com/2026/04/16/robloxs-ai-assistant-gets-new-agentic-tools-to-plan-build-and-test-games/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-04-17T01:27:59.859Z"
-  },
-  {
-    "id": "news-1776389279860-37",
-    "title": "‘By aligning more closely with Believe, TuneCore is creating a seamless pathway for artist growth.’",
-    "summary": "TuneCore is celebrating its 20th anniversary. MBW meets up with two of its senior execs to reflect on the journey so far, the careers launched and the lessons learned – as well as a look at the current landscape and where the company might go next…\nSource",
-    "category": "industry-news",
-    "source": "Music Business Worldwide",
-    "author": "Unknown",
-    "publishedAt": "2026-04-16T14:23:45.000Z",
-    "url": "https://www.musicbusinessworldwide.com/by-aligning-more-closely-with-believe-tunecore-is-creating-a-seamless-pathway-for-artist-growth/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-04-17T01:27:59.860Z"
-  },
-  {
-    "id": "news-1776389279859-8",
-    "title": "Runway CEO says AI could help Hollywood make 50 films instead of one $100M blockbuster",
-    "summary": "Runway’s CEO says AI could help studios make dozens of films for the cost of one, betting volume will boost hit-making odds.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-04-16T14:14:29.000Z",
-    "url": "https://techcrunch.com/2026/04/16/runway-ceo-says-ai-could-help-hollywood-make-50-films-instead-of-one-100m-blockbuster/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-04-17T01:27:59.859Z"
-  },
-  {
-    "id": "news-1776389279859-9",
-    "title": "Canva’s AI assistant can now call various tools to make designs for you",
-    "summary": "The latest version of Canva's AI assistant lets users create editable designs with text prompts.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-04-16T13:00:00.000Z",
-    "url": "https://techcrunch.com/2026/04/16/canvas-ai-assistant-can-now-call-various-tools-to-make-designs-for-you/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-04-17T01:27:59.859Z"
+    "fetchedAt": "2026-04-18T01:21:31.136Z"
   }
 ]
