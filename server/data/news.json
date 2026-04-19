@@ -1,50 +1,158 @@
 [
   {
-    "id": "news-1776475291136-40",
-    "title": "Dutch Mayor Finds No Basis to Ban Ye From Upcoming Netherlands Concerts: ‘The Law Prevails’",
-    "summary": "West is slated to perform a pair of shows at the Gelredome Stadium in Arnhem on June 6 and June 8.",
+    "id": "news-1776563041140-37",
+    "title": "TAEMIN on His Historic Coachella Debut and Why Second-Gen K-Pop is the ‘Generation of Dreams Coming True’",
+    "summary": "After becoming the first Korean male K-pop soloist to take the festival's stage, the \"idol's idol\" has even higher aspirations: “I want to be someone who’s mentioned when people think about art.”",
     "category": "industry-news",
     "source": "Billboard",
     "author": "Unknown",
-    "publishedAt": "2026-04-18T00:00:43.000Z",
-    "url": "https://www.billboard.com/music/rb-hip-hop/netherlands-mayor-no-ban-kanye-west-concerts-1236226014/",
+    "publishedAt": "2026-04-19T01:43:42.000Z",
+    "url": "https://www.billboard.com/music/pop/taemin-coachella-debut-interview-1236226096/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-04-19T01:44:01.140Z"
+  },
+  {
+    "id": "news-1776563041139-20",
+    "title": "Anthropic Releases Claude Opus 4.7: A Major Upgrade for Agentic Coding, High-Resolution Vision, and Long-Horizon Autonomous Tasks",
+    "summary": "Anthropic has launched Claude Opus 4.7, it’s latest frontier model and a direct successor to Claude Opus 4.6. The release is positioned as a focused improvement rather than a full generational leap, but the gains it delivers are substantial in the areas that matter most to developers building real-world AI-powered applications: agentic software engineering, multimodal […]\nThe post Anthropic Releases Claude Opus 4.7: A Major Upgrade for Agentic Coding, High-Resolution Vision, and Long",
+    "category": "ai-research",
+    "source": "MarkTechPost",
+    "author": "Unknown",
+    "publishedAt": "2026-04-18T21:40:03.000Z",
+    "url": "https://www.marktechpost.com/2026/04/18/anthropic-releases-claude-opus-4-7-a-major-upgrade-for-agentic-coding-high-resolution-vision-and-long-horizon-autonomous-tasks/",
     "imageUrl": null,
     "tags": [
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-04-18T01:21:31.136Z"
+    "fetchedAt": "2026-04-19T01:44:01.139Z"
   },
   {
-    "id": "news-1776475291136-41",
-    "title": "Chart Rewind: In 2021, Chris Stapleton’s ‘Starting Over’ Finished Its Run to No. 1",
-    "summary": "The song also soundtracked a truck commercial and won big at the CMA Awards.",
+    "id": "news-1776563041137-0",
+    "title": "AI chip startup Cerebras files for IPO",
+    "summary": "In recent months, the company announced an agreement with Amazon Web Services to use Cerebras chips in Amazon data centers, as well as a deal with OpenAI reportedly worth more than $10 billion.",
+    "category": "trends-analysis",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-04-18T19:19:11.000Z",
+    "url": "https://techcrunch.com/2026/04/18/ai-chip-startup-cerebras-files-for-ipo/",
+    "imageUrl": null,
+    "tags": [
+      "AI",
+      "Startup"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-04-19T01:44:01.137Z"
+  },
+  {
+    "id": "news-1776563041140-38",
+    "title": "Ice Spice Jokes That Her McDonald’s Fight ‘Wouldn’t Happen at Wendy’s’",
+    "summary": "The rapper also seemingly used the altercation to tease a new song.",
     "category": "industry-news",
     "source": "Billboard",
     "author": "Unknown",
-    "publishedAt": "2026-04-17T22:01:32.000Z",
-    "url": "https://www.billboard.com/music/chart-beat/chris-stapleton-starting-over-chart-rewind-2021-1236226001/",
+    "publishedAt": "2026-04-18T18:37:42.000Z",
+    "url": "https://www.billboard.com/music/music-news/ice-spice-mcdonalds-fight-wendys-comment-1236226248/",
     "imageUrl": null,
     "tags": [],
     "readTime": 1,
-    "fetchedAt": "2026-04-18T01:21:31.136Z"
+    "fetchedAt": "2026-04-19T01:44:01.140Z"
   },
   {
-    "id": "news-1776475291136-42",
-    "title": "Looking Ahead: A Release Calendar of Upcoming Albums in 2026",
-    "summary": "We'll be updating our list as musicians announce their new music, so keep checking back for the latest!",
+    "id": "news-1776563041140-39",
+    "title": "Kehlani at 30: How ‘Folded’ Changed Everything | Billboard Women In Music 2026",
+    "summary": "Billboard Women in Music 2026 Impact Award recipient Kehlani takes us deep into her creative process and emotional journey behind her hit “Folded” and her self-titled album. From bedroom-recording sessions to navigating the complexities of the music industry, Kehlani opens up about her passion for R&B, the challenges of staying true to her artistry and […]",
     "category": "industry-news",
     "source": "Billboard",
     "author": "Unknown",
-    "publishedAt": "2026-04-17T21:04:26.000Z",
-    "url": "https://www.billboard.com/lists/new-albums-2026-calendar-new-music-releases-this-year/",
+    "publishedAt": "2026-04-18T16:00:00.000Z",
+    "url": "https://www.billboard.com/video/kehlani-folded-changed-everything-billboard-women-in-music/",
     "imageUrl": null,
     "tags": [],
     "readTime": 1,
-    "fetchedAt": "2026-04-18T01:21:31.136Z"
+    "fetchedAt": "2026-04-19T01:44:01.140Z"
   },
   {
-    "id": "news-1776475291135-20",
+    "id": "news-1776563041140-40",
+    "title": "Madonna’s ‘I Feel So Free’ Officially Released Following Surprise Coachella Appearance With Sabrina Carpenter",
+    "summary": "The Confessions II song first debuted on iHeartRadio’s Pride Radio.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-04-18T15:07:37.000Z",
+    "url": "https://www.billboard.com/music/music-news/madonna-i-feel-so-free-released-after-coachella-appearance-1236226230/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-04-19T01:44:01.140Z"
+  },
+  {
+    "id": "news-1776563041140-41",
+    "title": "Los Tigres del Norte ‘Want to Help’ Minnesota Fans Following ICE Surge, & More Uplifting Moments in Latin Music",
+    "summary": "Plus, see Ricardo Arjona's heartfelt message to Gaby Moreno on her \"shining\" role of playing Persephone in Hadestown on Broadway. ",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-04-18T14:00:58.000Z",
+    "url": "https://www.billboard.com/music/latin/los-tigres-del-norte-uplifting-moments-in-latin-music-1236226205/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-04-19T01:44:01.140Z"
+  },
+  {
+    "id": "news-1776563041137-1",
+    "title": "The App Store is booming again, and AI may be why",
+    "summary": "New data from Appfigures shows a swell of new app launches in 2026, suggesting AI tools could be fueling a mobile software boom. ",
+    "category": "tech-innovation",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-04-18T13:00:00.000Z",
+    "url": "https://techcrunch.com/2026/04/18/the-app-store-is-booming-again-and-ai-may-be-why/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-04-19T01:44:01.138Z"
+  },
+  {
+    "id": "news-1776563041139-21",
+    "title": "Google AI Releases Auto-Diagnose: An Large Language Model LLM-Based System to Diagnose Integration Test Failures at Scale",
+    "summary": "If you have ever stared at thousands of lines of integration test logs wondering which of the sixteen log files actually contains your bug, you are not alone — and Google now has data to prove it. A team of Google researchers introduced Auto-Diagnose, an LLM-powered tool that automatically reads the failure logs from a […]\nThe post Google AI Releases Auto-Diagnose: An Large Language Model LLM-Based System to Diagnose Integration Test Failures at Scale appeared first on MarkTechPost.\n",
+    "category": "ai-research",
+    "source": "MarkTechPost",
+    "author": "Unknown",
+    "publishedAt": "2026-04-18T06:00:41.000Z",
+    "url": "https://www.marktechpost.com/2026/04/17/google-ai-releases-auto-diagnose-an-large-language-model-llm-based-system-to-diagnose-integration-test-failures-at-scale/",
+    "imageUrl": null,
+    "tags": [
+      "AI",
+      "Research"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-04-19T01:44:01.139Z"
+  },
+  {
+    "id": "news-1776563041139-22",
+    "title": "A End-to-End Coding Guide to Running OpenAI GPT-OSS Open-Weight Models with Advanced Inference Workflows",
+    "summary": "In this tutorial, we explore how to run OpenAI’s open-weight GPT-OSS models in Google Colab with a strong focus on their technical behavior, deployment requirements, and practical inference workflows. We begin by setting up the exact dependencies needed for Transformers-based execution, verifying GPU availability, and loading openai/gpt-oss-20b with the correct configuration using native MXFP4 quantization, […]\nThe post A End-to-End Coding Guide to Running OpenAI GPT-OSS Open-Weight Models",
+    "category": "ai-research",
+    "source": "MarkTechPost",
+    "author": "Unknown",
+    "publishedAt": "2026-04-18T03:39:46.000Z",
+    "url": "https://www.marktechpost.com/2026/04/17/a-end-to-end-coding-guide-to-running-openai-gpt-oss-open-weight-models-with-advanced-inference-workflows/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-04-19T01:44:01.139Z"
+  },
+  {
+    "id": "news-1776563041139-23",
     "title": "Top 19 AI Red Teaming Tools (2026): Secure Your ML Models",
     "summary": "As Generative AI matures, so do the threats against it. AI Red Teaming has evolved from a niche security practice into a regulatory requirement. Our 2026 guide breaks down the top 19 tools—including Mindgard, Garak, and Microsoft’s PyRIT—to help security teams identify vulnerabilities like data leakage and bias before they reach production.\nThe post Top 19 AI Red Teaming Tools (2026): Secure Your ML Models appeared first on MarkTechPost.\n",
     "category": "ai-research",
@@ -58,24 +166,10 @@
       "Generative AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-04-18T01:21:31.135Z"
+    "fetchedAt": "2026-04-19T01:44:01.139Z"
   },
   {
-    "id": "news-1776475291136-43",
-    "title": "Nanpa Básico, Thalia & More: Vote for the Best New Latin Music Release This Week",
-    "summary": "Which new Latin music release is your favorite? Vote below!",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-04-17T20:42:04.000Z",
-    "url": "https://www.billboard.com/music/latin/best-new-latin-music-poll-nanpa-basico-thalia-tokischa-1236225674/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-04-18T01:21:31.136Z"
-  },
-  {
-    "id": "news-1776475291133-0",
+    "id": "news-1776563041138-2",
     "title": "Kevin Weil and Bill Peebles exit OpenAI as company continues to shed ‘side quests’",
     "summary": "Kevin Weil and Bill Peebles are leaving OpenAI as the company shuts down Sora and folds its science team, signaling a sharp pivot away from consumer moonshots toward enterprise AI.",
     "category": "ai-research",
@@ -88,26 +182,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-04-18T01:21:31.134Z"
+    "fetchedAt": "2026-04-19T01:44:01.138Z"
   },
   {
-    "id": "news-1776475291136-44",
-    "title": "j-hope Announces Death of Grandmother Who ‘Raised Me From When I Was Little’ at BTS Concert",
-    "summary": "\"I was in complete shock and honestly didn’t know what to feel,\" the singer told ARMY in the crowd.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-04-17T20:36:05.000Z",
-    "url": "https://www.billboard.com/music/music-news/bts-j-hope-grandmother-death-1236225889/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-04-18T01:21:31.136Z"
-  },
-  {
-    "id": "news-1776475291136-27",
+    "id": "news-1776563041139-26",
     "title": "OpenAI Executive Kevin Weil Is Leaving the Company",
     "summary": "The former Instagram VP is departing the ChatGPT-maker, which is folding the AI science application he led into Codex.",
     "category": "ai-research",
@@ -120,10 +198,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-04-18T01:21:31.136Z"
+    "fetchedAt": "2026-04-19T01:44:01.139Z"
   },
   {
-    "id": "news-1776475291134-1",
+    "id": "news-1776563041138-3",
     "title": "Tokenmaxxing, OpenAI’s shopping spree, and the AI Anxiety Gap",
     "summary": "The gap between AI insiders and everyone else is widening, and the spending, suspicion, and even new vocabulary are starting to show it. While OpenAI is busy buying up everything from finance apps to talk shows, a certain shoe company just rebranded as an AI infrastructure play, and Anthropic unveiled a model it says is too powerful to release publicly …but apparently not too […]",
     "category": "ai-research",
@@ -136,12 +214,12 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-04-18T01:21:31.134Z"
+    "fetchedAt": "2026-04-19T01:44:01.138Z"
   },
   {
-    "id": "news-1776475291136-28",
+    "id": "news-1776563041139-27",
     "title": "AI Drafting My Stories? Over My Dead Body",
-    "summary": "AI-assisted writing is creeping into newsrooms under the guise of efficiency. But the tradeoff may be more profound than publishers are willing to admit.",
+    "summary": "AI-assisted writing is creeping into newsrooms under the guise of efficiency. But the trade-off may be more profound than publishers are willing to admit.",
     "category": "tech-innovation",
     "source": "Wired AI",
     "author": "Unknown",
@@ -152,10 +230,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-04-18T01:21:31.136Z"
+    "fetchedAt": "2026-04-19T01:44:01.139Z"
   },
   {
-    "id": "news-1776475291134-2",
+    "id": "news-1776563041138-4",
     "title": "Anthropic launches Claude Design, a new product for creating quick visuals",
     "summary": "The company says Claude Design is intended to help people like founders and product managers without a design background share their ideas more easily. ",
     "category": "ai-research",
@@ -166,10 +244,10 @@
     "imageUrl": null,
     "tags": [],
     "readTime": 1,
-    "fetchedAt": "2026-04-18T01:21:31.134Z"
+    "fetchedAt": "2026-04-19T01:44:01.138Z"
   },
   {
-    "id": "news-1776475291134-3",
+    "id": "news-1776563041138-5",
     "title": "Are we tokenmaxxing our way to nowhere?",
     "summary": "The gap between AI insiders and everyone else is widening, and the spending, suspicion, and even new vocabulary are starting to show it. While OpenAI is busy buying up everything from finance apps to talk shows, a certain shoe company just rebranded as an AI infrastructure play, and Anthropic unveiled a model it says is too powerful to release publicly …but apparently not too […]",
     "category": "ai-research",
@@ -182,10 +260,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-04-18T01:21:31.134Z"
+    "fetchedAt": "2026-04-19T01:44:01.138Z"
   },
   {
-    "id": "news-1776475291136-34",
+    "id": "news-1776563041140-31",
     "title": "Akhila Shankar promoted to Director of Artist Services for India and South Asia at Believe",
     "summary": "Shankar, who currently leads TuneCore in the region, will expand her remit across Believe’s Artist Services business.\nSource",
     "category": "industry-news",
@@ -196,10 +274,10 @@
     "imageUrl": null,
     "tags": [],
     "readTime": 1,
-    "fetchedAt": "2026-04-18T01:21:31.136Z"
+    "fetchedAt": "2026-04-19T01:44:01.140Z"
   },
   {
-    "id": "news-1776475291136-35",
+    "id": "news-1776563041140-32",
     "title": "Universal Music Group launches Everything Jazz, a new global digital platform for jazz music and culture",
     "summary": "New digital hub combines e-commerce and editorial content focused on jazz repertoire and culture.\nSource",
     "category": "industry-news",
@@ -210,10 +288,10 @@
     "imageUrl": null,
     "tags": [],
     "readTime": 1,
-    "fetchedAt": "2026-04-18T01:21:31.136Z"
+    "fetchedAt": "2026-04-19T01:44:01.140Z"
   },
   {
-    "id": "news-1776475291135-21",
+    "id": "news-1776563041139-24",
     "title": "OpenAI Launches GPT-Rosalind: Its First Life Sciences AI Model Built to Accelerate Drug Discovery and Genomics Research",
     "summary": "OpenAI has officially entered the specialized science race with GPT-Rosalind, a frontier reasoning model designed to slash the 10-15 year timeline of drug discovery through advanced biochemistry and genomic analysis.\nThe post OpenAI Launches GPT-Rosalind: Its First Life Sciences AI Model Built to Accelerate Drug Discovery and Genomics Research appeared first on MarkTechPost.\n",
     "category": "ai-research",
@@ -227,88 +305,6 @@
       "Research"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-04-18T01:21:31.135Z"
-  },
-  {
-    "id": "news-1776475291134-4",
-    "title": "Factory hits $1.5B valuation to build AI coding for enterprises",
-    "summary": "The three-year-old startup raised $150 million led by Khosla Ventures.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-04-16T22:55:30.000Z",
-    "url": "https://techcrunch.com/2026/04/16/factory-hits-1-5b-valuation-to-build-ai-coding-for-enterprises/",
-    "imageUrl": null,
-    "tags": [
-      "AI",
-      "Startup"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-04-18T01:21:31.134Z"
-  },
-  {
-    "id": "news-1776475291134-5",
-    "title": "Upscale AI in talks to raise at $2B valuation, says report",
-    "summary": "AI infrastructure company Upscale AI is reportedly in talks to raise its third funding round since launching just seven months ago.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-04-16T20:41:13.000Z",
-    "url": "https://techcrunch.com/2026/04/16/upscale-ai-in-talks-to-raise-at-2b-valuation-says-report/",
-    "imageUrl": null,
-    "tags": [
-      "AI",
-      "Investment"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-04-18T01:21:31.134Z"
-  },
-  {
-    "id": "news-1776475291134-6",
-    "title": "OpenAI takes aim at Anthropic with beefed-up Codex that gives it more power over your desktop",
-    "summary": "OpenAI's agentic coding tool has gotten a major makeover, with a variety of new powers and abilities. ",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-04-16T19:18:41.000Z",
-    "url": "https://techcrunch.com/2026/04/16/openai-takes-aim-at-anthropic-with-beefed-up-codex-that-gives-it-more-power-over-your-desktop/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-04-18T01:21:31.134Z"
-  },
-  {
-    "id": "news-1776475291134-7",
-    "title": "Anthropic CPO leaves Figma’s board after reports he will offer a competing product",
-    "summary": "Krieger's departure and any forthcoming design tools will be another data point for investors who fear the SaaSpocalypse — that the largest AI labs will come to dominate software businesses, a thesis that has rocked public markets at times this year. ",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-04-16T18:28:42.000Z",
-    "url": "https://techcrunch.com/2026/04/16/anthropic-cpo-leaves-figmas-board-after-reports-he-will-offer-a-competing-product/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-04-18T01:21:31.134Z"
-  },
-  {
-    "id": "news-1776475291136-36",
-    "title": "As K-pop concert revenues rise, HYBE, SM Entertainment, JYP, and YG plot music festival joint venture",
-    "summary": "News arrives as live music becomes an increasingly important revenue stream for K-pop's biggest companies\nSource",
-    "category": "industry-news",
-    "source": "Music Business Worldwide",
-    "author": "Unknown",
-    "publishedAt": "2026-04-16T18:27:28.000Z",
-    "url": "https://www.musicbusinessworldwide.com/k-pop-giants-hybe-jyp-sm-entertainment-and-yg-entertainment-plan-joint-venture-for-music-festival-to-rival-coachella/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-04-18T01:21:31.136Z"
+    "fetchedAt": "2026-04-19T01:44:01.139Z"
   }
 ]
