@@ -1,305 +1,320 @@
 [
   {
-    "id": "news-1776734870614-38",
-    "title": "Justin Bieber Lands Most Albums of His Career on Billboard 200, As Sabrina Carpenter & Karol G Also See Coachella Chart Bump",
-    "summary": "Bieber leads the headliner pack on the charts.",
+    "id": "news-1776821192640-37",
+    "title": "Demi Lovato, Kacey Musgraves, Kesha & More Artists Who Have Opened Up About UFOs & Alien Life",
+    "summary": "What kind of music do they play on Mars?",
     "category": "industry-news",
     "source": "Billboard",
     "author": "Unknown",
-    "publishedAt": "2026-04-21T00:36:51.000Z",
-    "url": "https://www.billboard.com/music/chart-beat/justin-bieber-sabrina-carpenter-karol-g-coachella-chart-bump-1236227485/",
+    "publishedAt": "2026-04-22T00:51:28.000Z",
+    "url": "https://www.billboard.com/lists/ufos-aliens-musicians-list/",
     "imageUrl": null,
     "tags": [],
     "readTime": 1,
-    "fetchedAt": "2026-04-21T01:27:50.614Z"
+    "fetchedAt": "2026-04-22T01:26:32.641Z"
   },
   {
-    "id": "news-1776734870614-39",
-    "title": "Justin Bieber’s 12-Year-Old ‘Journals’ Album Debuts on Billboard 200 After Coachella",
-    "summary": "The set is one of a career-high seven albums from Bieber on the chart.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-04-21T00:27:36.000Z",
-    "url": "https://www.billboard.com/music/chart-beat/justin-bieber-journals-debut-billboard-200-chart-1236227490/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-04-21T01:27:50.614Z"
-  },
-  {
-    "id": "news-1776734870613-18",
-    "title": "A Coding Implementation on Microsoft’s Phi-4-Mini for Quantized Inference Reasoning Tool Use RAG and LoRA Fine-Tuning",
-    "summary": "In this tutorial, we build a pipeline on Phi-4-mini to explore how a compact yet highly capable language model can handle a full range of modern LLM workflows within a single notebook. We begin by setting up a stable environment, loading Microsoft’s Phi-4-mini-instruct in efficient 4-bit quantization, and then move step by step through streaming […]\nThe post A Coding Implementation on Microsoft’s Phi-4-Mini for Quantized Inference Reasoning Tool Use RAG and LoRA Fine-Tuning appeared first ",
+    "id": "news-1776821192640-20",
+    "title": "Hugging Face Releases ml-intern: An Open-Source AI Agent that Automates the LLM Post-Training Workflow",
+    "summary": "Hugging Face has released ml-intern, an open-source AI agent designed to automate end-to-end post-training workflows for large language models (LLMs). Built on the company’s smolagents framework, the tool can autonomously perform literature review, dataset discovery, training script execution, and iterative evaluation — tasks that typically require significant manual effort from ML researchers and engineers. What […]\nThe post Hugging Face Releases ml-intern: An Open-Source AI Agent t",
     "category": "ai-research",
     "source": "MarkTechPost",
     "author": "Unknown",
-    "publishedAt": "2026-04-21T00:13:51.000Z",
-    "url": "https://www.marktechpost.com/2026/04/20/a-coding-implementation-on-microsofts-phi-4-mini-for-quantized-inference-reasoning-tool-use-rag-and-lora-fine-tuning/",
+    "publishedAt": "2026-04-22T00:43:53.000Z",
+    "url": "https://www.marktechpost.com/2026/04/21/hugging-face-releases-ml-intern-an-open-source-ai-agent-that-automates-the-llm-post-training-workflow/",
     "imageUrl": null,
     "tags": [
-      "Streaming"
+      "AI",
+      "Research"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-04-21T01:27:50.613Z"
+    "fetchedAt": "2026-04-22T01:26:32.640Z"
   },
   {
-    "id": "news-1776734870614-40",
+    "id": "news-1776821192641-38",
+    "title": "Anthropic Argues for Fair Use in UMG’s AI Lawsuit: ‘Training on Lyrics Is Transformative’",
+    "summary": "The AI giant says it’s time to end a copyright lawsuit brought by Universal Music Group and other publishers.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-04-22T00:02:50.000Z",
+    "url": "https://www.billboard.com/pro/anthropic-claude-ai-music-lawsuit-argues-fair-use-finding/",
+    "imageUrl": null,
+    "tags": [
+      "AI",
+      "Copyright"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-04-22T01:26:32.641Z"
+  },
+  {
+    "id": "news-1776821192638-0",
+    "title": "Meta will record employees’ keystrokes and use it to train its AI models",
+    "summary": "Meta says that it has a new internal tool that is converting mouse movements and button clicks into data that can train its AI models. ",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-04-21T23:45:21.000Z",
+    "url": "https://techcrunch.com/2026/04/21/meta-will-record-employees-keystrokes-and-use-it-to-train-its-ai-models/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-04-22T01:26:32.639Z"
+  },
+  {
+    "id": "news-1776821192641-39",
+    "title": "OVI Inks Exclusive Deal with Universal Music Latino: ‘I’m Going to Have a Real Team’",
+    "summary": "After kicking off his music career in 2018, the Cuban artist and rapper is preparing for the next stage.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-04-21T22:44:37.000Z",
+    "url": "https://www.billboard.com/pro/ovi-signs-deal-universal-music-latino/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-04-22T01:26:32.641Z"
+  },
+  {
+    "id": "news-1776821192641-40",
+    "title": "Five Burning Questions About Ella Langley’s ‘Dandelion’ First Week",
+    "summary": "This week's Five Burning Question looks at the biggest breakout artist in country's new set, and how her chart dominance could really only be getting started. ",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-04-21T22:24:05.000Z",
+    "url": "https://www.billboard.com/music/chart-beat/ella-langley-dandelion-five-burning-questions-1236228253/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-04-22T01:26:32.641Z"
+  },
+  {
+    "id": "news-1776821192641-41",
     "title": "Billboard’s Music Industry Events Calendar",
     "summary": "A complete rundown of the most important events across the music business.",
     "category": "industry-news",
     "source": "Billboard",
     "author": "Unknown",
-    "publishedAt": "2026-04-21T00:07:00.000Z",
+    "publishedAt": "2026-04-21T21:29:00.000Z",
     "url": "https://www.billboard.com/pro/music-industry-events-calendar-festivals-awards-conferences/",
     "imageUrl": null,
     "tags": [],
     "readTime": 1,
-    "fetchedAt": "2026-04-21T01:27:50.614Z"
+    "fetchedAt": "2026-04-22T01:26:32.641Z"
   },
   {
-    "id": "news-1776734870611-0",
-    "title": "Anthropic takes $5B from Amazon and pledges $100B in cloud spending in return",
-    "summary": "Amazon has made another circular AI deal: It's investing another $5 billion in Anthropic. Anthropic has agreed to spend $100 billion on AWS in return.",
-    "category": "industry-news",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-04-20T23:10:27.000Z",
-    "url": "https://techcrunch.com/2026/04/20/anthropic-takes-5b-from-amazon-and-pledges-100b-in-cloud-spending-in-return/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-04-21T01:27:50.611Z"
-  },
-  {
-    "id": "news-1776734870614-41",
-    "title": "Poof Doof Launches Record Label: Exclusive",
-    "summary": "Jimi the Kween's “All I Need” is the first release through Poof Doof Records.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-04-20T23:00:00.000Z",
-    "url": "https://www.billboard.com/pro/poof-doof-launches-record-label/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-04-21T01:27:50.614Z"
-  },
-  {
-    "id": "news-1776734870614-42",
-    "title": "Justin Timberlake Reacts to Justin Bieber Covering ‘Cry Me a River’ at Coachella: ‘I’m Proud of You — And You Should Be Proud of You Too’",
-    "summary": "Bieber first posted a cover of the song to YouTube in 2008.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-04-20T22:32:50.000Z",
-    "url": "https://www.billboard.com/music/music-news/justin-timberlake-reacts-justin-bieber-coachella-cover-1236227416/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-04-21T01:27:50.614Z"
-  },
-  {
-    "id": "news-1776734870614-43",
-    "title": "Coachella Fined Over $40K for Justin Bieber and Anyma Sets",
-    "summary": "Both sets went past the 1:00 a.m. curfew on Friday and Saturday of the desert festival's second weekend.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-04-20T22:30:23.000Z",
-    "url": "https://www.billboard.com/pro/coachella-fined-justin-bieber-anyma-performances/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-04-21T01:27:50.614Z"
-  },
-  {
-    "id": "news-1776734870614-44",
-    "title": "Here’s Where to Buy Florence + The Machine Merch & Apparel Online Ahead of the Band’s U.S. Tour Dates",
-    "summary": "Before the English indie rock band comes to a city near you, shop the best merch now.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-04-20T22:05:24.000Z",
-    "url": "https://www.billboard.com/culture/product-recommendations/florence-and-the-machine-merch-apparel-shop-online-1236226880/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-04-21T01:27:50.614Z"
-  },
-  {
-    "id": "news-1776734870614-45",
-    "title": "Shaboozey Announces New Concept Album ‘The Outlaw Cherie Lee & Other Western Tales’: ‘It Explores So Many Themes’",
-    "summary": "Shaboozey is set to follow his hits including \"A Bar Song (Tipsy)\" and \"Good News\" with a new project.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-04-20T21:59:51.000Z",
-    "url": "https://www.billboard.com/music/country/shaboozey-new-album-outlaw-cherie-lee-other-western-tales-1236227322/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-04-21T01:27:50.614Z"
-  },
-  {
-    "id": "news-1776734870614-46",
-    "title": "Ella Langley Tops Artist 100 for First Time, Charts 15 Songs on Hot 100 From ‘Dandelion’",
-    "summary": "Langley joins 10 other women artists this century to lead the Billboard 200 with a country album.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-04-20T21:34:16.000Z",
-    "url": "https://www.billboard.com/music/chart-beat/ella-langley-artist-100-first-time-15-songs-hot-100-dandelion-1236227355/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-04-21T01:27:50.614Z"
-  },
-  {
-    "id": "news-1776734870614-32",
-    "title": "Chord Music-linked ABS vehicle plans $500M deal, backed by $830M catalog led by Suicideboys, Morgan Wallen, and Ryan Tedder rights",
-    "summary": "Deal collateralized by royalties from a catalog of more than 3,750 works\nSource",
-    "category": "industry-news",
-    "source": "Music Business Worldwide",
-    "author": "Unknown",
-    "publishedAt": "2026-04-20T19:10:33.000Z",
-    "url": "https://www.musicbusinessworldwide.com/chord-music-linked-abs-vehicle-plans-500m-deal-backed-by-830m-catalog-led-by-suicideboys-morgan-wallen-and-ryan-tedder-rights/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-04-21T01:27:50.614Z"
-  },
-  {
-    "id": "news-1776734870611-1",
-    "title": "NSA spies are reportedly using Anthropic’s Mythos, despite Pentagon feud",
-    "summary": "NSA is said to be using Anthropic's restricted Mythos AI model.",
+    "id": "news-1776821192639-1",
+    "title": "AI research lab NeoCognition lands $40M seed to build agents that learn like humans",
+    "summary": "Founded by an OSU researcher, the startup is developing AI agents that can become experts in any domain.",
     "category": "ai-research",
     "source": "TechCrunch AI",
     "author": "Unknown",
-    "publishedAt": "2026-04-20T16:06:21.000Z",
-    "url": "https://techcrunch.com/2026/04/20/nsa-spies-are-reportedly-using-anthropics-mythos-despite-pentagon-feud/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-04-21T01:27:50.611Z"
-  },
-  {
-    "id": "news-1776734870611-2",
-    "title": "CEO and CFO suddenly depart AI nuclear power upstart Fermi",
-    "summary": "The startup, co-founded by former U.S. Energy Secretary Rick Perry, has faced headwinds with its AI campus in Texas. ",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-04-20T15:30:19.000Z",
-    "url": "https://techcrunch.com/2026/04/20/fermi-ceo-and-cfo-depart-texas-nuclear-power-ai/",
+    "publishedAt": "2026-04-21T19:11:29.000Z",
+    "url": "https://techcrunch.com/2026/04/21/ai-research-lab-neocognition-lands-40m-seed-to-build-agents-that-learn-like-humans/",
     "imageUrl": null,
     "tags": [
       "AI",
-      "Startup"
+      "Startup",
+      "Research"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-04-21T01:27:50.612Z"
+    "fetchedAt": "2026-04-22T01:26:32.639Z"
   },
   {
-    "id": "news-1776734870613-27",
-    "title": "Tech CEOs Think AI Will Let Them Be Everywhere at Once",
-    "summary": "Mark Zuckerberg and Jack Dorsey have different visions for how to use AI for management purposes, but both imagine a system of heightened control.",
+    "id": "news-1776821192639-2",
+    "title": "ChatGPT’s new Images 2.0 model is surprisingly good at generating text",
+    "summary": "ChatGPT Images 2.0, the newest image-generation model from OpenAI, shows just how much AI capabilities have evolved over the last few years.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-04-21T19:00:00.000Z",
+    "url": "https://techcrunch.com/2026/04/21/chatgpts-new-images-2-0-model-is-surprisingly-good-at-generating-text/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-04-22T01:26:32.639Z"
+  },
+  {
+    "id": "news-1776821192640-28",
+    "title": "OpenAI Beefs Up ChatGPT’s Image Generation Model",
+    "summary": "The ChatGPT Images 2.0 model is here. Our testing shows it’s better at creating more detailed images and rendering text, but it still struggles with languages other than English.",
+    "category": "ai-research",
+    "source": "Wired AI",
+    "author": "Unknown",
+    "publishedAt": "2026-04-21T19:00:00.000Z",
+    "url": "https://www.wired.com/story/openai-beefs-up-chatgpts-image-generation-model/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-04-22T01:26:32.640Z"
+  },
+  {
+    "id": "news-1776821192639-3",
+    "title": "Sam Altman throws shade at Anthropic’s cyber model, Mythos: ‘fear-based marketing’",
+    "summary": "This week, during a podcast appearance, OpenAI CEO Sam Altman called out his competitor's new cybersecurity model, noting that the company was using fear to make its product sound more impressive than it actually is.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-04-21T18:51:52.000Z",
+    "url": "https://techcrunch.com/2026/04/21/sam-altman-throws-shade-at-anthropics-cyber-model-mythos-fear-based-marketing/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-04-22T01:26:32.639Z"
+  },
+  {
+    "id": "news-1776821192640-29",
+    "title": "Mozilla Used Anthropic’s Mythos to Find and Fix 271 Bugs in Firefox",
+    "summary": "The Firefox team doesn’t think emerging AI capabilities will upend cybersecurity long term, but they warn that software developers are likely in for a rocky transition.",
     "category": "tech-innovation",
     "source": "Wired AI",
     "author": "Unknown",
-    "publishedAt": "2026-04-20T11:00:00.000Z",
-    "url": "https://www.wired.com/story/tech-ceos-using-ai-to-be-everywhere-at-once/",
+    "publishedAt": "2026-04-21T18:30:00.000Z",
+    "url": "https://www.wired.com/story/mozilla-used-anthropics-mythos-to-find-271-bugs-in-firefox/",
     "imageUrl": null,
     "tags": [
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-04-21T01:27:50.613Z"
+    "fetchedAt": "2026-04-22T01:26:32.640Z"
   },
   {
-    "id": "news-1776734870614-33",
-    "title": "75,000 AI-generated tracks now flood Deezer daily, representing 44% of all new music uploaded to the platform, says streamer",
-    "summary": "The volume of fully AI-generated music being uploaded to Deezer has surged again\nSource",
-    "category": "industry-news",
-    "source": "Music Business Worldwide",
+    "id": "news-1776821192640-30",
+    "title": "Tim Cook’s Legacy Is Turning Apple Into a Subscription",
+    "summary": "The soon-to-exit Apple CEO went all in on services. Now, the incoming CEO, John Ternus, will need to embrace the AI era.",
+    "category": "tech-innovation",
+    "source": "Wired AI",
     "author": "Unknown",
-    "publishedAt": "2026-04-20T09:33:21.000Z",
-    "url": "https://www.musicbusinessworldwide.com/75000-ai-generated-tracks-now-flood-deezer-daily-representing-44-of-all-new-music-uploaded-to-the-platform-says-streamer/",
+    "publishedAt": "2026-04-21T17:35:12.000Z",
+    "url": "https://www.wired.com/story/apple-tim-cook-subscription-business/",
     "imageUrl": null,
     "tags": [
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-04-21T01:27:50.614Z"
+    "fetchedAt": "2026-04-22T01:26:32.640Z"
   },
   {
-    "id": "news-1776734870613-19",
-    "title": "OpenAI Scales Trusted Access for Cyber Defense With GPT-5.4-Cyber: a Fine-Tuned Model Built for Verified Security Defenders",
-    "summary": "OpenAI is moving from a limited pilot to broad deployment of its Trusted Access for Cyber program, introducing GPT-5.4-Cyber — a variant of GPT-5.4 fine-tuned to be cyber-permissive — for thousands of vetted defenders.\nThe post OpenAI Scales Trusted Access for Cyber Defense With GPT-5.4-Cyber: a Fine-Tuned Model Built for Verified Security Defenders appeared first on MarkTechPost.\n",
+    "id": "news-1776821192639-4",
+    "title": "Clarifai deletes 3 million photos that OkCupid provided to train facial recognition AI, report says",
+    "summary": "The photo deletion comes after an FTC settlement with Clarifai. The company had asked OkCupid — whose executives had invested in Clarifai — to share data in 2014, according to court documents. ",
     "category": "ai-research",
-    "source": "MarkTechPost",
+    "source": "TechCrunch AI",
     "author": "Unknown",
-    "publishedAt": "2026-04-20T08:26:41.000Z",
-    "url": "https://www.marktechpost.com/2026/04/20/openai-scales-trusted-access-for-cyber-defense-with-gpt-5-4-cyber-a-fine-tuned-model-built-for-verified-security-defenders/",
+    "publishedAt": "2026-04-21T17:11:01.000Z",
+    "url": "https://techcrunch.com/2026/04/21/clarifai-okcupid-facial-recognition-ai-ftc-settlement/",
     "imageUrl": null,
     "tags": [
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-04-21T01:27:50.613Z"
+    "fetchedAt": "2026-04-22T01:26:32.639Z"
   },
   {
-    "id": "news-1776734870613-20",
-    "title": "Moonshot AI and Tsinghua Researchers Propose PrfaaS: A Cross-Datacenter KVCache Architecture that Rethinks How LLMs are Served at Scale",
-    "summary": "For years, the way large language models handle inference has been stuck inside a box — literally. The high-bandwidth RDMA networks that make modern LLM serving work have confined both prefill and decode to the same datacenter, sometimes even the same rack. A team of researchers at Moonshot AI and Tsinghua University is making the […]\nThe post Moonshot AI and Tsinghua Researchers Propose PrfaaS: A Cross-Datacenter KVCache Architecture that Rethinks How LLMs are Served at Scale appeared fir",
+    "id": "news-1776821192640-21",
+    "title": "Google Introduces Simula: A Reasoning-First Framework for Generating Controllable, Scalable Synthetic Datasets Across Specialized AI Domains",
+    "summary": "Training powerful AI models depends on one resource that is quietly running out: specialized data. While the internet provided a seemingly infinite supply of text and images to train today’s generalist models, the next wave of AI breakthroughs — in cybersecurity, legal reasoning, healthcare, and other niche domains — requires data that simply doesn’t exist […]\nThe post Google Introduces Simula: A Reasoning-First Framework for Generating Controllable, Scalable Synthetic Datasets",
     "category": "ai-research",
     "source": "MarkTechPost",
     "author": "Unknown",
-    "publishedAt": "2026-04-20T00:51:27.000Z",
-    "url": "https://www.marktechpost.com/2026/04/19/moonshot-ai-and-tsinghua-researchers-propose-prfaas-a-cross-datacenter-kvcache-architecture-that-rethinks-how-llms-are-served-at-scale/",
+    "publishedAt": "2026-04-21T16:46:21.000Z",
+    "url": "https://www.marktechpost.com/2026/04/21/google-introduces-simula-a-reasoning-first-framework-for-generating-controllable-scalable-synthetic-datasets-across-specialized-ai-domains/",
     "imageUrl": null,
     "tags": [
-      "AI",
-      "Research"
+      "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-04-21T01:27:50.613Z"
+    "fetchedAt": "2026-04-22T01:26:32.640Z"
   },
   {
-    "id": "news-1776734870613-21",
-    "title": "Meet OpenMythos: An Open-Source PyTorch Reconstruction of Claude Mythos Where 770M Parameters Match a 1.3B Transformer",
-    "summary": "Anthropic has never published a technical paper on Claude Mythos. That has not stopped the research community from theorizing. A new open-source project called OpenMythos, released on GitHub by Kye Gomez, attempts something ambitious: a first-principles theoretical reconstruction of what the Claude Mythos architecture might actually be, built entirely in PyTorch and grounded in peer-reviewed […]\nThe post Meet OpenMythos: An Open-Source PyTorch Reconstruction of Claude Mythos Where 770M Par",
+    "id": "news-1776821192639-5",
+    "title": "AI Dungeon maker Latitude unveils Voyage, a platform for creating AI-powered RPGs",
+    "summary": "Latitude's new AI-native platform, Voyage, aims to help gamers create their very own role-playing game. ",
     "category": "ai-research",
-    "source": "MarkTechPost",
+    "source": "TechCrunch AI",
     "author": "Unknown",
-    "publishedAt": "2026-04-19T19:47:49.000Z",
-    "url": "https://www.marktechpost.com/2026/04/19/meet-openmythos-an-open-source-pytorch-reconstruction-of-claude-mythos-where-770m-parameters-match-a-1-3b-transformer/",
+    "publishedAt": "2026-04-21T16:00:00.000Z",
+    "url": "https://techcrunch.com/2026/04/21/voyage-is-an-ai-rpg-platform-for-creating-custom-gaming-worlds-with-ai-generated-npc-interactions/",
     "imageUrl": null,
     "tags": [
-      "Research"
+      "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-04-21T01:27:50.613Z"
+    "fetchedAt": "2026-04-22T01:26:32.639Z"
   },
   {
-    "id": "news-1776734870612-3",
-    "title": "The 12-month window",
-    "summary": "A lot of AI startups exist partly because the foundation models haven't expanded into their category yet. As many jokingly acknowledge, that won't last forever. ",
+    "id": "news-1776821192639-6",
+    "title": "Bond, a new social media platform, wants to use AI to help you kick your doomscrolling habit",
+    "summary": "Bond wants you to get off the couch and get back into the real world, its creator says. The new platform's AI system is designed to motivate users to do things away from the app. ",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-04-21T15:24:29.000Z",
+    "url": "https://techcrunch.com/2026/04/21/bond-social-media-platform-ai-memories-kick-doomscrolling-habit/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-04-22T01:26:32.639Z"
+  },
+  {
+    "id": "news-1776821192639-7",
+    "title": "YouTube expands its AI likeness detection technology to celebrities",
+    "summary": "YouTube is expanding its AI likeness detection tool to celebrities, giving talent and their reps a way to find and remove deepfakes.  ",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-04-21T15:02:06.000Z",
+    "url": "https://techcrunch.com/2026/04/21/youtube-expands-its-ai-likeness-detection-technology-to-celebrities/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-04-22T01:26:32.639Z"
+  },
+  {
+    "id": "news-1776821192639-8",
+    "title": "GRAI believes AI can make music more social, not replace artists",
+    "summary": "AI music startup GRAI says fans want to remix tracks, not generate songs from scratch.",
     "category": "industry-news",
     "source": "TechCrunch AI",
     "author": "Unknown",
-    "publishedAt": "2026-04-19T19:30:00.000Z",
-    "url": "https://techcrunch.com/2026/04/19/the-12-month-window/",
+    "publishedAt": "2026-04-21T13:00:00.000Z",
+    "url": "https://techcrunch.com/2026/04/21/grai-believes-ai-can-make-music-more-social-not-replace-artists/",
     "imageUrl": null,
     "tags": [
       "AI",
       "Startup"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-04-21T01:27:50.612Z"
+    "fetchedAt": "2026-04-22T01:26:32.639Z"
+  },
+  {
+    "id": "news-1776821192640-33",
+    "title": "In the age of generative AI, it’s high time for artists to organize.",
+    "summary": "Bill Werde, Director of the Bandier Music Business Program at Syracuse University, argues that 2026 is the year artists should finally unionize – wielding joint leverage to improve things for anyone who’s ever stood in front of a mic…\nSource",
+    "category": "ai-research",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-04-21T11:21:12.000Z",
+    "url": "https://www.musicbusinessworldwide.com/in-the-age-of-generative-ai-its-high-time-for-artists-to-organize/",
+    "imageUrl": null,
+    "tags": [
+      "AI",
+      "Generative AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-04-22T01:26:32.640Z"
   }
 ]
