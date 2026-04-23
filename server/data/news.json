@@ -1,119 +1,303 @@
 [
   {
-    "id": "news-1776821192640-37",
-    "title": "Demi Lovato, Kacey Musgraves, Kesha & More Artists Who Have Opened Up About UFOs & Alien Life",
-    "summary": "What kind of music do they play on Mars?",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-04-22T00:51:28.000Z",
-    "url": "https://www.billboard.com/lists/ufos-aliens-musicians-list/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-04-22T01:26:32.641Z"
-  },
-  {
-    "id": "news-1776821192640-20",
-    "title": "Hugging Face Releases ml-intern: An Open-Source AI Agent that Automates the LLM Post-Training Workflow",
-    "summary": "Hugging Face has released ml-intern, an open-source AI agent designed to automate end-to-end post-training workflows for large language models (LLMs). Built on the company’s smolagents framework, the tool can autonomously perform literature review, dataset discovery, training script execution, and iterative evaluation — tasks that typically require significant manual effort from ML researchers and engineers. What […]\nThe post Hugging Face Releases ml-intern: An Open-Source AI Agent t",
+    "id": "news-1776908684068-20",
+    "title": "How to Design a Production-Grade CAMEL Multi-Agent System with Planning, Tool Use, Self-Consistency, and Critique-Driven Refinement",
+    "summary": "In this tutorial, we implement an advanced agentic AI system using the CAMEL framework, orchestrating multiple specialized agents to collaboratively solve a complex task. We design a structured multi-agent pipeline consisting of a planner, researcher, writer, critic, and rewriter, each with clearly defined responsibilities and schema-constrained outputs. We integrate tool usage, self-consistency sampling, structured validation […]\nThe post How to Design a Production-Grade CAMEL Multi-Agent",
     "category": "ai-research",
     "source": "MarkTechPost",
     "author": "Unknown",
-    "publishedAt": "2026-04-22T00:43:53.000Z",
-    "url": "https://www.marktechpost.com/2026/04/21/hugging-face-releases-ml-intern-an-open-source-ai-agent-that-automates-the-llm-post-training-workflow/",
+    "publishedAt": "2026-04-22T23:59:51.000Z",
+    "url": "https://www.marktechpost.com/2026/04/22/how-to-design-a-production-grade-camel-multi-agent-system-with-planning-tool-use-self-consistency-and-critique-driven-refinement/",
     "imageUrl": null,
     "tags": [
       "AI",
       "Research"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-04-22T01:26:32.640Z"
+    "fetchedAt": "2026-04-23T01:44:44.068Z"
   },
   {
-    "id": "news-1776821192641-38",
-    "title": "Anthropic Argues for Fair Use in UMG’s AI Lawsuit: ‘Training on Lyrics Is Transformative’",
-    "summary": "The AI giant says it’s time to end a copyright lawsuit brought by Universal Music Group and other publishers.",
+    "id": "news-1776908684069-42",
+    "title": "Spotify Launches AI Credits: Artists Can Now Disclose Tech’s Use in Their Songs",
+    "summary": "The new tool began rolling out this month in beta, first to Distrokid users, and it will continue to become available for other distributors in the coming weeks.",
     "category": "industry-news",
     "source": "Billboard",
     "author": "Unknown",
-    "publishedAt": "2026-04-22T00:02:50.000Z",
-    "url": "https://www.billboard.com/pro/anthropic-claude-ai-music-lawsuit-argues-fair-use-finding/",
+    "publishedAt": "2026-04-22T23:38:18.000Z",
+    "url": "https://www.billboard.com/pro/spotify-launches-ai-credits-music/",
+    "imageUrl": null,
+    "tags": [
+      "Spotify",
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-04-23T01:44:44.069Z"
+  },
+  {
+    "id": "news-1776908684069-43",
+    "title": "D4vd Collaborations With Laufey, Damiano David, Kali Uchis & Others Pulled From Streaming Services",
+    "summary": "The controversial singer is in custody on first degree murder charges.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-04-22T22:54:18.000Z",
+    "url": "https://www.billboard.com/music/rb-hip-hop/d4vd-collabs-removed-streaming-laufey-damiano-david-kali-uchis-1236229279/",
+    "imageUrl": null,
+    "tags": [
+      "Streaming",
+      "Partnership"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-04-23T01:44:44.069Z"
+  },
+  {
+    "id": "news-1776908684069-44",
+    "title": "Taylor Momsen Spends Night in Mexico City Hospital After Venomous Spider Bite: ‘Poisonous Spiders Are NO BUENO’",
+    "summary": "The Pretty Reckless singer showed off the nasty effects of a bite she got on her leg recently while on tour with AC/DC, vowing to soldier on with her band's show tonight (April 15).",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-04-22T22:45:00.000Z",
+    "url": "https://www.billboard.com/music/rock/taylor-momsen-hospital-venomous-spider-bite-mexico-city-1236223491/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-04-23T01:44:44.069Z"
+  },
+  {
+    "id": "news-1776908684067-0",
+    "title": "Google updates Workspace to make AI your new office intern",
+    "summary": "Google has introduced a host of new automated functions into Workspace, all of which are driven by Workspace Intelligence, its new AI system. ",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-04-22T22:44:26.000Z",
+    "url": "https://techcrunch.com/2026/04/22/google-updates-workspace-to-make-ai-your-new-office-intern/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-04-23T01:44:44.067Z"
+  },
+  {
+    "id": "news-1776908684068-21",
+    "title": "A Detailed Implementation on Equinox with JAX Native Modules, Filtered Transforms, Stateful Layers, and End-to-End Training Workflows",
+    "summary": "In this tutorial, we explore Equinox, a lightweight and elegant neural network library built on JAX, and show how to use it. We begin by understanding how eqx.Module treats models as PyTrees, which makes parameter handling, transformation, and serialization feel simple and explicit. As we move forward, we work through static fields, filtered transformations such […]\nThe post A Detailed Implementation on Equinox with JAX Native Modules, Filtered Transforms, Stateful Layers, and End-to-End T",
+    "category": "ai-research",
+    "source": "MarkTechPost",
+    "author": "Unknown",
+    "publishedAt": "2026-04-22T19:13:14.000Z",
+    "url": "https://www.marktechpost.com/2026/04/22/a-detailed-implementation-on-equinox-with-jax-native-modules-filtered-transforms-stateful-layers-and-end-to-end-training-workflows/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-04-23T01:44:44.068Z"
+  },
+  {
+    "id": "news-1776908684068-26",
+    "title": "5 AI Models Tried to Scam Me. Some of Them Were Scary Good",
+    "summary": "The cyber capabilities of AI models have experts rattled. AI’s social skills may be just as dangerous.",
+    "category": "ai-research",
+    "source": "Wired AI",
+    "author": "Unknown",
+    "publishedAt": "2026-04-22T18:00:00.000Z",
+    "url": "https://www.wired.com/story/ai-model-phishing-attack-cybersecurity/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-04-23T01:44:44.068Z"
+  },
+  {
+    "id": "news-1776908684067-1",
+    "title": "Google turns Chrome into an AI co-worker for the workplace",
+    "summary": "Google brings Gemini-powered \"auto browse\" capabilities to Chrome for enterprise users, letting workers automate tasks like research, data entry, and more.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-04-22T17:30:00.000Z",
+    "url": "https://techcrunch.com/2026/04/22/google-turns-chrome-into-an-ai-coworker-for-the-workplace/",
+    "imageUrl": null,
+    "tags": [
+      "AI",
+      "Research"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-04-23T01:44:44.067Z"
+  },
+  {
+    "id": "news-1776908684067-2",
+    "title": "AI Overviews are coming to your Gmail at work",
+    "summary": "The AI Overviews will offer instant summaries pulled from across multiple emails.  ",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-04-22T16:46:10.000Z",
+    "url": "https://techcrunch.com/2026/04/22/ai-overviews-are-coming-to-your-gmail-at-work/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-04-23T01:44:44.067Z"
+  },
+  {
+    "id": "news-1776908684068-33",
+    "title": "Inside the UMG-backed patent portfolio targeting AI music derivatives: A technical blueprint for the walled garden model?",
+    "summary": "An entity linked to UMG has been building a patent portfolio around AI-music infrastructure\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-04-22T16:37:07.000Z",
+    "url": "https://www.musicbusinessworldwide.com/inside-the-umg-backed-patent-portfolio-targeting-ai-music-derivatives-a-technical-blueprint-for-the-walled-garden-model/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-04-23T01:44:44.068Z"
+  },
+  {
+    "id": "news-1776908684068-27",
+    "title": "AI Tools Are Helping Mediocre North Korean Hackers Steal Millions",
+    "summary": "One group of hackers used AI for everything from vibe coding their malware to creating fake company websites—and stole as much as $12 million in three months.",
+    "category": "tech-innovation",
+    "source": "Wired AI",
+    "author": "Unknown",
+    "publishedAt": "2026-04-22T16:00:00.000Z",
+    "url": "https://www.wired.com/story/ai-tools-are-helping-mediocre-north-korean-hackers-steal-millions/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-04-23T01:44:44.068Z"
+  },
+  {
+    "id": "news-1776908684067-3",
+    "title": "OpenAI teams up with Infosys to bring AI tools to more businesses",
+    "summary": "Infosys said the integration will be used to help its clients modernize software development, automate workflows, and deploy AI systems, initially focusing software engineering, legacy modernization, and DevOps.",
+    "category": "tech-innovation",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-04-22T14:22:10.000Z",
+    "url": "https://techcrunch.com/2026/04/22/openai-teams-up-with-infosys-to-bring-ai-tools-to-more-businesses/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-04-23T01:44:44.067Z"
+  },
+  {
+    "id": "news-1776908684069-34",
+    "title": "Tuned Global launches streaming manipulation detection tool aimed at rightsholders and DSPs",
+    "summary": "As streaming fraud concerns grow, platforms move toward built-in detection systems\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-04-22T14:09:48.000Z",
+    "url": "https://www.musicbusinessworldwide.com/tuned-global-launches-streaming-manipulation-detection-tool-aimed-at-rightsholders-and-dsps/",
+    "imageUrl": null,
+    "tags": [
+      "AI",
+      "Streaming"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-04-23T01:44:44.069Z"
+  },
+  {
+    "id": "news-1776908684069-35",
+    "title": "After Apple Music, Amazon Music taps Bandsintown to surface concert listings and ticket links on artist profiles",
+    "summary": "Tour dates posted on Bandsintown for Artists will automatically show on Amazon Music profiles, with fans directed to Bandsintown to purchase tickets.\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-04-22T14:00:00.000Z",
+    "url": "https://www.musicbusinessworldwide.com/after-apple-music-amazon-music-taps-bandsintown-to-surface-concert-listings-and-ticket-links-on-artist-profiles/",
+    "imageUrl": null,
+    "tags": [
+      "Apple Music"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-04-23T01:44:44.069Z"
+  },
+  {
+    "id": "news-1776908684069-36",
+    "title": "Bella Figura Music acquires Paul Epworth publishing catalog, including work with Adele, Florence + The Machine and more",
+    "summary": "Alexi Cory-Smith's UK-based music rights company says it has more than $200 million in music rights under ownership and management.\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-04-22T13:59:41.000Z",
+    "url": "https://www.musicbusinessworldwide.com/bella-figura-music-acquires-paul-epworth-publishing-catalog-including-work-with-adele-florence-the-machine-and-more/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-04-23T01:44:44.069Z"
+  },
+  {
+    "id": "news-1776908684069-37",
+    "title": "EMPIRE strikes strategic partnership with Bollywood powerhouse Zee Music to ‘expand Indian music’s footprint worldwide’",
+    "summary": "Deal arrives amid continued global interest in India's music market\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-04-22T13:35:43.000Z",
+    "url": "https://www.musicbusinessworldwide.com/empire-strikes-strategic-partnership-with-bollywood-powerhouse-zee-music-to-expand-indian-musics-footprint-worldwide/",
+    "imageUrl": null,
+    "tags": [
+      "Partnership"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-04-23T01:44:44.069Z"
+  },
+  {
+    "id": "news-1776908684069-38",
+    "title": "AI And Music Publishing Licensing – How Do We Get There?",
+    "summary": "The following MBW op/ed comes from Monica Corton, a veteran music publisher of over three decades.\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-04-22T13:10:57.000Z",
+    "url": "https://www.musicbusinessworldwide.com/ai-and-music-publishing-licensing-how-do-we-get-there/",
     "imageUrl": null,
     "tags": [
       "AI",
       "Copyright"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-04-22T01:26:32.641Z"
+    "fetchedAt": "2026-04-23T01:44:44.069Z"
   },
   {
-    "id": "news-1776821192638-0",
-    "title": "Meta will record employees’ keystrokes and use it to train its AI models",
-    "summary": "Meta says that it has a new internal tool that is converting mouse movements and button clicks into data that can train its AI models. ",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
+    "id": "news-1776908684069-39",
+    "title": "Create Music Group forms joint venture ﻿with Jonnyshipes’ GoodTalk",
+    "summary": "The joint venture will employ a 'co-release model,' pairing Create's global infrastructure with GoodTalk's 'selective, development-first approach.'\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
     "author": "Unknown",
-    "publishedAt": "2026-04-21T23:45:21.000Z",
-    "url": "https://techcrunch.com/2026/04/21/meta-will-record-employees-keystrokes-and-use-it-to-train-its-ai-models/",
+    "publishedAt": "2026-04-22T13:09:27.000Z",
+    "url": "https://www.musicbusinessworldwide.com/create-music-group-forms-joint-venture-with-jonnyshipes-goodtalk/",
     "imageUrl": null,
     "tags": [
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-04-22T01:26:32.639Z"
+    "fetchedAt": "2026-04-23T01:44:44.069Z"
   },
   {
-    "id": "news-1776821192641-39",
-    "title": "OVI Inks Exclusive Deal with Universal Music Latino: ‘I’m Going to Have a Real Team’",
-    "summary": "After kicking off his music career in 2018, the Cuban artist and rapper is preparing for the next stage.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-04-21T22:44:37.000Z",
-    "url": "https://www.billboard.com/pro/ovi-signs-deal-universal-music-latino/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-04-22T01:26:32.641Z"
-  },
-  {
-    "id": "news-1776821192641-40",
-    "title": "Five Burning Questions About Ella Langley’s ‘Dandelion’ First Week",
-    "summary": "This week's Five Burning Question looks at the biggest breakout artist in country's new set, and how her chart dominance could really only be getting started. ",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-04-21T22:24:05.000Z",
-    "url": "https://www.billboard.com/music/chart-beat/ella-langley-dandelion-five-burning-questions-1236228253/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-04-22T01:26:32.641Z"
-  },
-  {
-    "id": "news-1776821192641-41",
-    "title": "Billboard’s Music Industry Events Calendar",
-    "summary": "A complete rundown of the most important events across the music business.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-04-21T21:29:00.000Z",
-    "url": "https://www.billboard.com/pro/music-industry-events-calendar-festivals-awards-conferences/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-04-22T01:26:32.641Z"
-  },
-  {
-    "id": "news-1776821192639-1",
-    "title": "AI research lab NeoCognition lands $40M seed to build agents that learn like humans",
-    "summary": "Founded by an OSU researcher, the startup is developing AI agents that can become experts in any domain.",
+    "id": "news-1776908684067-4",
+    "title": "AI is spitting out more potential drugs than ever. This startup wants to figure out which ones matter.",
+    "summary": "10x Science has raised a $4.8 million seed round to help pharmaceutical researchers understand complex molecules. ",
     "category": "ai-research",
     "source": "TechCrunch AI",
     "author": "Unknown",
-    "publishedAt": "2026-04-21T19:11:29.000Z",
-    "url": "https://techcrunch.com/2026/04/21/ai-research-lab-neocognition-lands-40m-seed-to-build-agents-that-learn-like-humans/",
+    "publishedAt": "2026-04-22T13:00:00.000Z",
+    "url": "https://techcrunch.com/2026/04/22/ai-is-spitting-out-more-potential-drugs-than-ever-this-start-up-wants-to-figure-out-which-ones-matter/",
     "imageUrl": null,
     "tags": [
       "AI",
@@ -121,200 +305,22 @@
       "Research"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-04-22T01:26:32.639Z"
+    "fetchedAt": "2026-04-23T01:44:44.067Z"
   },
   {
-    "id": "news-1776821192639-2",
-    "title": "ChatGPT’s new Images 2.0 model is surprisingly good at generating text",
-    "summary": "ChatGPT Images 2.0, the newest image-generation model from OpenAI, shows just how much AI capabilities have evolved over the last few years.",
+    "id": "news-1776908684067-5",
+    "title": "Exclusive: Google deepens Thinking Machines Lab ties with new multibillion-dollar deal",
+    "summary": "Mira Murati's Thinking Machines Lab has signed a multibillion-dollar deal with Google Cloud for AI infrastructure powered by Nvidia's latest GB300 chips, TechCrunch has exclusively learned.",
     "category": "ai-research",
     "source": "TechCrunch AI",
     "author": "Unknown",
-    "publishedAt": "2026-04-21T19:00:00.000Z",
-    "url": "https://techcrunch.com/2026/04/21/chatgpts-new-images-2-0-model-is-surprisingly-good-at-generating-text/",
+    "publishedAt": "2026-04-22T12:00:00.000Z",
+    "url": "https://techcrunch.com/2026/04/22/exclusive-google-deepens-thinking-machines-lab-ties-with-new-multi-billion-dollar-deal/",
     "imageUrl": null,
     "tags": [
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-04-22T01:26:32.639Z"
-  },
-  {
-    "id": "news-1776821192640-28",
-    "title": "OpenAI Beefs Up ChatGPT’s Image Generation Model",
-    "summary": "The ChatGPT Images 2.0 model is here. Our testing shows it’s better at creating more detailed images and rendering text, but it still struggles with languages other than English.",
-    "category": "ai-research",
-    "source": "Wired AI",
-    "author": "Unknown",
-    "publishedAt": "2026-04-21T19:00:00.000Z",
-    "url": "https://www.wired.com/story/openai-beefs-up-chatgpts-image-generation-model/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-04-22T01:26:32.640Z"
-  },
-  {
-    "id": "news-1776821192639-3",
-    "title": "Sam Altman throws shade at Anthropic’s cyber model, Mythos: ‘fear-based marketing’",
-    "summary": "This week, during a podcast appearance, OpenAI CEO Sam Altman called out his competitor's new cybersecurity model, noting that the company was using fear to make its product sound more impressive than it actually is.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-04-21T18:51:52.000Z",
-    "url": "https://techcrunch.com/2026/04/21/sam-altman-throws-shade-at-anthropics-cyber-model-mythos-fear-based-marketing/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-04-22T01:26:32.639Z"
-  },
-  {
-    "id": "news-1776821192640-29",
-    "title": "Mozilla Used Anthropic’s Mythos to Find and Fix 271 Bugs in Firefox",
-    "summary": "The Firefox team doesn’t think emerging AI capabilities will upend cybersecurity long term, but they warn that software developers are likely in for a rocky transition.",
-    "category": "tech-innovation",
-    "source": "Wired AI",
-    "author": "Unknown",
-    "publishedAt": "2026-04-21T18:30:00.000Z",
-    "url": "https://www.wired.com/story/mozilla-used-anthropics-mythos-to-find-271-bugs-in-firefox/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-04-22T01:26:32.640Z"
-  },
-  {
-    "id": "news-1776821192640-30",
-    "title": "Tim Cook’s Legacy Is Turning Apple Into a Subscription",
-    "summary": "The soon-to-exit Apple CEO went all in on services. Now, the incoming CEO, John Ternus, will need to embrace the AI era.",
-    "category": "tech-innovation",
-    "source": "Wired AI",
-    "author": "Unknown",
-    "publishedAt": "2026-04-21T17:35:12.000Z",
-    "url": "https://www.wired.com/story/apple-tim-cook-subscription-business/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-04-22T01:26:32.640Z"
-  },
-  {
-    "id": "news-1776821192639-4",
-    "title": "Clarifai deletes 3 million photos that OkCupid provided to train facial recognition AI, report says",
-    "summary": "The photo deletion comes after an FTC settlement with Clarifai. The company had asked OkCupid — whose executives had invested in Clarifai — to share data in 2014, according to court documents. ",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-04-21T17:11:01.000Z",
-    "url": "https://techcrunch.com/2026/04/21/clarifai-okcupid-facial-recognition-ai-ftc-settlement/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-04-22T01:26:32.639Z"
-  },
-  {
-    "id": "news-1776821192640-21",
-    "title": "Google Introduces Simula: A Reasoning-First Framework for Generating Controllable, Scalable Synthetic Datasets Across Specialized AI Domains",
-    "summary": "Training powerful AI models depends on one resource that is quietly running out: specialized data. While the internet provided a seemingly infinite supply of text and images to train today’s generalist models, the next wave of AI breakthroughs — in cybersecurity, legal reasoning, healthcare, and other niche domains — requires data that simply doesn’t exist […]\nThe post Google Introduces Simula: A Reasoning-First Framework for Generating Controllable, Scalable Synthetic Datasets",
-    "category": "ai-research",
-    "source": "MarkTechPost",
-    "author": "Unknown",
-    "publishedAt": "2026-04-21T16:46:21.000Z",
-    "url": "https://www.marktechpost.com/2026/04/21/google-introduces-simula-a-reasoning-first-framework-for-generating-controllable-scalable-synthetic-datasets-across-specialized-ai-domains/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-04-22T01:26:32.640Z"
-  },
-  {
-    "id": "news-1776821192639-5",
-    "title": "AI Dungeon maker Latitude unveils Voyage, a platform for creating AI-powered RPGs",
-    "summary": "Latitude's new AI-native platform, Voyage, aims to help gamers create their very own role-playing game. ",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-04-21T16:00:00.000Z",
-    "url": "https://techcrunch.com/2026/04/21/voyage-is-an-ai-rpg-platform-for-creating-custom-gaming-worlds-with-ai-generated-npc-interactions/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-04-22T01:26:32.639Z"
-  },
-  {
-    "id": "news-1776821192639-6",
-    "title": "Bond, a new social media platform, wants to use AI to help you kick your doomscrolling habit",
-    "summary": "Bond wants you to get off the couch and get back into the real world, its creator says. The new platform's AI system is designed to motivate users to do things away from the app. ",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-04-21T15:24:29.000Z",
-    "url": "https://techcrunch.com/2026/04/21/bond-social-media-platform-ai-memories-kick-doomscrolling-habit/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-04-22T01:26:32.639Z"
-  },
-  {
-    "id": "news-1776821192639-7",
-    "title": "YouTube expands its AI likeness detection technology to celebrities",
-    "summary": "YouTube is expanding its AI likeness detection tool to celebrities, giving talent and their reps a way to find and remove deepfakes.  ",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-04-21T15:02:06.000Z",
-    "url": "https://techcrunch.com/2026/04/21/youtube-expands-its-ai-likeness-detection-technology-to-celebrities/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-04-22T01:26:32.639Z"
-  },
-  {
-    "id": "news-1776821192639-8",
-    "title": "GRAI believes AI can make music more social, not replace artists",
-    "summary": "AI music startup GRAI says fans want to remix tracks, not generate songs from scratch.",
-    "category": "industry-news",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-04-21T13:00:00.000Z",
-    "url": "https://techcrunch.com/2026/04/21/grai-believes-ai-can-make-music-more-social-not-replace-artists/",
-    "imageUrl": null,
-    "tags": [
-      "AI",
-      "Startup"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-04-22T01:26:32.639Z"
-  },
-  {
-    "id": "news-1776821192640-33",
-    "title": "In the age of generative AI, it’s high time for artists to organize.",
-    "summary": "Bill Werde, Director of the Bandier Music Business Program at Syracuse University, argues that 2026 is the year artists should finally unionize – wielding joint leverage to improve things for anyone who’s ever stood in front of a mic…\nSource",
-    "category": "ai-research",
-    "source": "Music Business Worldwide",
-    "author": "Unknown",
-    "publishedAt": "2026-04-21T11:21:12.000Z",
-    "url": "https://www.musicbusinessworldwide.com/in-the-age-of-generative-ai-its-high-time-for-artists-to-organize/",
-    "imageUrl": null,
-    "tags": [
-      "AI",
-      "Generative AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-04-22T01:26:32.640Z"
+    "fetchedAt": "2026-04-23T01:44:44.067Z"
   }
 ]
