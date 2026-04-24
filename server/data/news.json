@@ -1,326 +1,310 @@
 [
   {
-    "id": "news-1776908684068-20",
-    "title": "How to Design a Production-Grade CAMEL Multi-Agent System with Planning, Tool Use, Self-Consistency, and Critique-Driven Refinement",
-    "summary": "In this tutorial, we implement an advanced agentic AI system using the CAMEL framework, orchestrating multiple specialized agents to collaboratively solve a complex task. We design a structured multi-agent pipeline consisting of a planner, researcher, writer, critic, and rewriter, each with clearly defined responsibilities and schema-constrained outputs. We integrate tool usage, self-consistency sampling, structured validation […]\nThe post How to Design a Production-Grade CAMEL Multi-Agent",
+    "id": "news-1776995034857-42",
+    "title": "Gloria Trevi Talks About Her Show In LA, Recording a Music Video For Her New Single & More | Billboard Latin Women in Music 2026",
+    "summary": "Gloria Trevi chatted with Billboard’s Ingrid Fajardo and Jessica Roiz ahead of Billboard Latin Women in Music 2026.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-04-24T01:39:18.000Z",
+    "url": "https://www.billboard.com/video/gloria-trevi-talks-her-show-in-la-recording-a-music-video/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-04-24T01:43:54.857Z"
+  },
+  {
+    "id": "news-1776995034857-43",
+    "title": "Ivy Queen Accepts Pioneer Award From Feid After Kicking Off Billboard Latin Women in Music 2026",
+    "summary": "The legendary Puerto Rican artist delivered a masterclass in female Latin urban power.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-04-24T01:38:09.000Z",
+    "url": "https://www.billboard.com/music/latin/ivy-queen-pioneer-award-billboard-latin-women-in-music-2026-1236230559/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-04-24T01:43:54.857Z"
+  },
+  {
+    "id": "news-1776995034857-44",
+    "title": "Becky G On Paying Homage To Selena Quintanilla & Her New Track “MARATHON” | Billboard Latin Women in Music 2026",
+    "summary": "Becky G chatted with Billboard’s Ingrid Fajardo and Jessica Roiz ahead of Billboard Latin Women in Music 2026.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-04-24T01:28:43.000Z",
+    "url": "https://www.billboard.com/video/becky-g-homage-selena-quintanilla-new-track-bblatinwim2026/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-04-24T01:43:54.857Z"
+  },
+  {
+    "id": "news-1776995034857-45",
+    "title": "David Bisbal Teases New Album & New Latin American Tour, Talks “Vivir Así Es Morir De Amor” | Billboard Latin Women in Music 2026",
+    "summary": "David Bisbal chatted with Billboard’s Ingrid Fajardo and Jessica Roiz ahead of Billboard Latin Women in Music 2026.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-04-24T01:19:07.000Z",
+    "url": "https://www.billboard.com/video/david-bisbal-teases-new-album/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-04-24T01:43:54.857Z"
+  },
+  {
+    "id": "news-1776995034857-46",
+    "title": "The Deals: Supertramp Bassist Dougie Thomson Sells Rights to MusicBird; Futures Raises $6M",
+    "summary": "Other recent music deals involve PopArabia, Bandsintown, SiriusXM, Tiny Vinyl and more.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-04-24T01:18:01.000Z",
+    "url": "https://www.billboard.com/lists/supertramp-bassist-sells-royalty-income-musicbird-deals/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-04-24T01:43:54.857Z"
+  },
+  {
+    "id": "news-1776995034857-47",
+    "title": "Julieta Venegas Talks Song With Natala Lafourcade & Her Upcoming Tour | Billboard Latin Women in Music 2026",
+    "summary": "Julieta Venegas chatted with Billboard’s Ingrid Fajardo and Jessica Roiz ahead of Billboard Latin Women in Music 2026.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-04-24T00:49:40.000Z",
+    "url": "https://www.billboard.com/video/julieta-venegas-talks-natala-lafourcade-tour-bblatinwim2026/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-04-24T01:43:54.857Z"
+  },
+  {
+    "id": "news-1776995034857-48",
+    "title": "Lola Indigo On Being On Stage With Karol G, Recalls Almost Fainting When Meeting Chayanne & Luis Fonsi | Billboard Latin Women in Music 2026",
+    "summary": "Lola Indigo chatted with Billboard’s Ingrid Fajardo and Jessica Roiz ahead of Billboard Latin Women in Music 2026.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-04-24T00:46:05.000Z",
+    "url": "https://www.billboard.com/video/lola-indigo-on-being-on-stage-with-karol-g/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-04-24T01:43:54.857Z"
+  },
+  {
+    "id": "news-1776995034857-49",
+    "title": "Chiquis Talks Her Friendship With Becky G & Paying Homage To Her Mother Jenni Rivera & More | Billboard Latin Women in Music 2026",
+    "summary": "Chiquis chatted with Billboard’s Ingrid Fajardo and Jessica Roiz ahead of Billboard Latin Women in Music 2026.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-04-24T00:26:53.000Z",
+    "url": "https://www.billboard.com/video/chiquis-friendship-becky-g-homage-jenni-rivera-latinwim2026/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-04-24T01:43:54.857Z"
+  },
+  {
+    "id": "news-1776995034857-50",
+    "title": "JOY On Espíritu de Cambio Honor & Why It’s Important to Use Her Voice | Billboard Latin Women in Music 2026",
+    "summary": "JOY chatted with Billboard’s Ingrid Fajardo and Jessica Roiz ahead of Billboard Latin Women in Music 2026.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-04-24T00:26:36.000Z",
+    "url": "https://www.billboard.com/video/joy-espiritu-de-cambio-honor-why-its-important-to-use-voice/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-04-24T01:43:54.857Z"
+  },
+  {
+    "id": "news-1776995034858-51",
+    "title": "Grammys on the Hill 2026 Events Focus on Protecting Human Creativity as AI Shifts Music Landscape",
+    "summary": "The three-day event concluded with a keynote conversation with Recording Academy CEO Harvey Mason jr. and Lyor Cohen, YouTube's global head of music.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-04-24T00:11:32.000Z",
+    "url": "https://www.billboard.com/pro/grammys-on-the-hill-2026-recap-ai-challenges-music-focus/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-04-24T01:43:54.858Z"
+  },
+  {
+    "id": "news-1776995034856-17",
+    "title": "Mend.io Releases AI Security Governance Framework Covering Asset Inventory, Risk Tiering, AI Supply Chain Security, and Maturity Model",
+    "summary": "Mend.io's new framework gives engineering and security teams a practical playbook for governing AI systems before the next incident forces the conversation.\nThe post Mend.io Releases AI Security Governance Framework Covering Asset Inventory, Risk Tiering, AI Supply Chain Security, and Maturity Model appeared first on MarkTechPost.\n",
     "category": "ai-research",
     "source": "MarkTechPost",
     "author": "Unknown",
-    "publishedAt": "2026-04-22T23:59:51.000Z",
-    "url": "https://www.marktechpost.com/2026/04/22/how-to-design-a-production-grade-camel-multi-agent-system-with-planning-tool-use-self-consistency-and-critique-driven-refinement/",
+    "publishedAt": "2026-04-23T22:42:01.000Z",
+    "url": "https://www.marktechpost.com/2026/04/23/mend-io-releases-ai-security-governance-framework-covering-asset-inventory-risk-tiering-ai-supply-chain-security-and-maturity-model/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-04-24T01:43:54.856Z"
+  },
+  {
+    "id": "news-1776995034856-18",
+    "title": "OpenAI Releases GPT-5.5, a Fully Retrained Agentic Model That Scores 82.7% on Terminal-Bench 2.0 and 84.9% on GDPval",
+    "summary": "The model targets the full stack of computer work — coding, research, data analysis, and software operation — without needing a human to supervise every step\nThe post OpenAI Releases GPT-5.5, a Fully Retrained Agentic Model That Scores 82.7% on Terminal-Bench 2.0 and 84.9% on GDPval appeared first on MarkTechPost.\n",
+    "category": "ai-research",
+    "source": "MarkTechPost",
+    "author": "Unknown",
+    "publishedAt": "2026-04-23T22:11:30.000Z",
+    "url": "https://www.marktechpost.com/2026/04/23/openai-releases-gpt-5-5-a-fully-retrained-agentic-model-that-scores-82-7-on-terminal-bench-2-0-and-84-9-on-gdpval/",
     "imageUrl": null,
     "tags": [
       "AI",
       "Research"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-04-23T01:44:44.068Z"
+    "fetchedAt": "2026-04-24T01:43:54.856Z"
   },
   {
-    "id": "news-1776908684069-42",
-    "title": "Spotify Launches AI Credits: Artists Can Now Disclose Tech’s Use in Their Songs",
-    "summary": "The new tool began rolling out this month in beta, first to Distrokid users, and it will continue to become available for other distributors in the coming weeks.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-04-22T23:38:18.000Z",
-    "url": "https://www.billboard.com/pro/spotify-launches-ai-credits-music/",
-    "imageUrl": null,
-    "tags": [
-      "Spotify",
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-04-23T01:44:44.069Z"
-  },
-  {
-    "id": "news-1776908684069-43",
-    "title": "D4vd Collaborations With Laufey, Damiano David, Kali Uchis & Others Pulled From Streaming Services",
-    "summary": "The controversial singer is in custody on first degree murder charges.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-04-22T22:54:18.000Z",
-    "url": "https://www.billboard.com/music/rb-hip-hop/d4vd-collabs-removed-streaming-laufey-damiano-david-kali-uchis-1236229279/",
-    "imageUrl": null,
-    "tags": [
-      "Streaming",
-      "Partnership"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-04-23T01:44:44.069Z"
-  },
-  {
-    "id": "news-1776908684069-44",
-    "title": "Taylor Momsen Spends Night in Mexico City Hospital After Venomous Spider Bite: ‘Poisonous Spiders Are NO BUENO’",
-    "summary": "The Pretty Reckless singer showed off the nasty effects of a bite she got on her leg recently while on tour with AC/DC, vowing to soldier on with her band's show tonight (April 15).",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-04-22T22:45:00.000Z",
-    "url": "https://www.billboard.com/music/rock/taylor-momsen-hospital-venomous-spider-bite-mexico-city-1236223491/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-04-23T01:44:44.069Z"
-  },
-  {
-    "id": "news-1776908684067-0",
-    "title": "Google updates Workspace to make AI your new office intern",
-    "summary": "Google has introduced a host of new automated functions into Workspace, all of which are driven by Workspace Intelligence, its new AI system. ",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-04-22T22:44:26.000Z",
-    "url": "https://techcrunch.com/2026/04/22/google-updates-workspace-to-make-ai-your-new-office-intern/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-04-23T01:44:44.067Z"
-  },
-  {
-    "id": "news-1776908684068-21",
-    "title": "A Detailed Implementation on Equinox with JAX Native Modules, Filtered Transforms, Stateful Layers, and End-to-End Training Workflows",
-    "summary": "In this tutorial, we explore Equinox, a lightweight and elegant neural network library built on JAX, and show how to use it. We begin by understanding how eqx.Module treats models as PyTrees, which makes parameter handling, transformation, and serialization feel simple and explicit. As we move forward, we work through static fields, filtered transformations such […]\nThe post A Detailed Implementation on Equinox with JAX Native Modules, Filtered Transforms, Stateful Layers, and End-to-End T",
+    "id": "news-1776995034856-19",
+    "title": "A Coding Tutorial on OpenMythos on Recurrent-Depth Transformers with Depth Extrapolation, Adaptive Computation, and Mixture-of-Experts Routing",
+    "summary": "In this tutorial, we explore the implementation of OpenMythos, a theoretical reconstruction of the Claude Mythos architecture that enables deeper reasoning through iterative computation rather than increased parameter size. We build and analyze models using both GQA and MLA attention mechanisms, examine memory efficiency through KV-cache comparisons, and validate stability via the spectral properties of […]\nThe post A Coding Tutorial on OpenMythos on Recurrent-Depth Transformers with Depth",
     "category": "ai-research",
     "source": "MarkTechPost",
     "author": "Unknown",
-    "publishedAt": "2026-04-22T19:13:14.000Z",
-    "url": "https://www.marktechpost.com/2026/04/22/a-detailed-implementation-on-equinox-with-jax-native-modules-filtered-transforms-stateful-layers-and-end-to-end-training-workflows/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-04-23T01:44:44.068Z"
-  },
-  {
-    "id": "news-1776908684068-26",
-    "title": "5 AI Models Tried to Scam Me. Some of Them Were Scary Good",
-    "summary": "The cyber capabilities of AI models have experts rattled. AI’s social skills may be just as dangerous.",
-    "category": "ai-research",
-    "source": "Wired AI",
-    "author": "Unknown",
-    "publishedAt": "2026-04-22T18:00:00.000Z",
-    "url": "https://www.wired.com/story/ai-model-phishing-attack-cybersecurity/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-04-23T01:44:44.068Z"
-  },
-  {
-    "id": "news-1776908684067-1",
-    "title": "Google turns Chrome into an AI co-worker for the workplace",
-    "summary": "Google brings Gemini-powered \"auto browse\" capabilities to Chrome for enterprise users, letting workers automate tasks like research, data entry, and more.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-04-22T17:30:00.000Z",
-    "url": "https://techcrunch.com/2026/04/22/google-turns-chrome-into-an-ai-coworker-for-the-workplace/",
-    "imageUrl": null,
-    "tags": [
-      "AI",
-      "Research"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-04-23T01:44:44.067Z"
-  },
-  {
-    "id": "news-1776908684067-2",
-    "title": "AI Overviews are coming to your Gmail at work",
-    "summary": "The AI Overviews will offer instant summaries pulled from across multiple emails.  ",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-04-22T16:46:10.000Z",
-    "url": "https://techcrunch.com/2026/04/22/ai-overviews-are-coming-to-your-gmail-at-work/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-04-23T01:44:44.067Z"
-  },
-  {
-    "id": "news-1776908684068-33",
-    "title": "Inside the UMG-backed patent portfolio targeting AI music derivatives: A technical blueprint for the walled garden model?",
-    "summary": "An entity linked to UMG has been building a patent portfolio around AI-music infrastructure\nSource",
-    "category": "industry-news",
-    "source": "Music Business Worldwide",
-    "author": "Unknown",
-    "publishedAt": "2026-04-22T16:37:07.000Z",
-    "url": "https://www.musicbusinessworldwide.com/inside-the-umg-backed-patent-portfolio-targeting-ai-music-derivatives-a-technical-blueprint-for-the-walled-garden-model/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-04-23T01:44:44.068Z"
-  },
-  {
-    "id": "news-1776908684068-27",
-    "title": "AI Tools Are Helping Mediocre North Korean Hackers Steal Millions",
-    "summary": "One group of hackers used AI for everything from vibe coding their malware to creating fake company websites—and stole as much as $12 million in three months.",
-    "category": "tech-innovation",
-    "source": "Wired AI",
-    "author": "Unknown",
-    "publishedAt": "2026-04-22T16:00:00.000Z",
-    "url": "https://www.wired.com/story/ai-tools-are-helping-mediocre-north-korean-hackers-steal-millions/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-04-23T01:44:44.068Z"
-  },
-  {
-    "id": "news-1776908684067-3",
-    "title": "OpenAI teams up with Infosys to bring AI tools to more businesses",
-    "summary": "Infosys said the integration will be used to help its clients modernize software development, automate workflows, and deploy AI systems, initially focusing software engineering, legacy modernization, and DevOps.",
-    "category": "tech-innovation",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-04-22T14:22:10.000Z",
-    "url": "https://techcrunch.com/2026/04/22/openai-teams-up-with-infosys-to-bring-ai-tools-to-more-businesses/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-04-23T01:44:44.067Z"
-  },
-  {
-    "id": "news-1776908684069-34",
-    "title": "Tuned Global launches streaming manipulation detection tool aimed at rightsholders and DSPs",
-    "summary": "As streaming fraud concerns grow, platforms move toward built-in detection systems\nSource",
-    "category": "industry-news",
-    "source": "Music Business Worldwide",
-    "author": "Unknown",
-    "publishedAt": "2026-04-22T14:09:48.000Z",
-    "url": "https://www.musicbusinessworldwide.com/tuned-global-launches-streaming-manipulation-detection-tool-aimed-at-rightsholders-and-dsps/",
-    "imageUrl": null,
-    "tags": [
-      "AI",
-      "Streaming"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-04-23T01:44:44.069Z"
-  },
-  {
-    "id": "news-1776908684069-35",
-    "title": "After Apple Music, Amazon Music taps Bandsintown to surface concert listings and ticket links on artist profiles",
-    "summary": "Tour dates posted on Bandsintown for Artists will automatically show on Amazon Music profiles, with fans directed to Bandsintown to purchase tickets.\nSource",
-    "category": "industry-news",
-    "source": "Music Business Worldwide",
-    "author": "Unknown",
-    "publishedAt": "2026-04-22T14:00:00.000Z",
-    "url": "https://www.musicbusinessworldwide.com/after-apple-music-amazon-music-taps-bandsintown-to-surface-concert-listings-and-ticket-links-on-artist-profiles/",
-    "imageUrl": null,
-    "tags": [
-      "Apple Music"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-04-23T01:44:44.069Z"
-  },
-  {
-    "id": "news-1776908684069-36",
-    "title": "Bella Figura Music acquires Paul Epworth publishing catalog, including work with Adele, Florence + The Machine and more",
-    "summary": "Alexi Cory-Smith's UK-based music rights company says it has more than $200 million in music rights under ownership and management.\nSource",
-    "category": "industry-news",
-    "source": "Music Business Worldwide",
-    "author": "Unknown",
-    "publishedAt": "2026-04-22T13:59:41.000Z",
-    "url": "https://www.musicbusinessworldwide.com/bella-figura-music-acquires-paul-epworth-publishing-catalog-including-work-with-adele-florence-the-machine-and-more/",
+    "publishedAt": "2026-04-23T21:25:34.000Z",
+    "url": "https://www.marktechpost.com/2026/04/23/a-coding-tutorial-on-openmythos-on-recurrent-depth-transformers-with-depth-extrapolation-adaptive-computation-and-mixture-of-experts-routing/",
     "imageUrl": null,
     "tags": [],
     "readTime": 1,
-    "fetchedAt": "2026-04-23T01:44:44.069Z"
+    "fetchedAt": "2026-04-24T01:43:54.856Z"
   },
   {
-    "id": "news-1776908684069-37",
-    "title": "EMPIRE strikes strategic partnership with Bollywood powerhouse Zee Music to ‘expand Indian music’s footprint worldwide’",
-    "summary": "Deal arrives amid continued global interest in India's music market\nSource",
+    "id": "news-1776995034855-0",
+    "title": "Bret Taylor’s Sierra buys YC-backed AI startup Fragment",
+    "summary": "Sierra, the AI customer service agent startup founded by technologist Bret Taylor, announced today that it has acquired the YC-backed French startup Fragment. ",
     "category": "industry-news",
-    "source": "Music Business Worldwide",
+    "source": "TechCrunch AI",
     "author": "Unknown",
-    "publishedAt": "2026-04-22T13:35:43.000Z",
-    "url": "https://www.musicbusinessworldwide.com/empire-strikes-strategic-partnership-with-bollywood-powerhouse-zee-music-to-expand-indian-musics-footprint-worldwide/",
+    "publishedAt": "2026-04-23T21:00:00.000Z",
+    "url": "https://techcrunch.com/2026/04/23/bret-taylors-sierra-buys-yc-backed-ai-startup-fragment/",
     "imageUrl": null,
     "tags": [
-      "Partnership"
+      "AI",
+      "Startup"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-04-23T01:44:44.069Z"
+    "fetchedAt": "2026-04-24T01:43:54.855Z"
   },
   {
-    "id": "news-1776908684069-38",
-    "title": "AI And Music Publishing Licensing – How Do We Get There?",
-    "summary": "The following MBW op/ed comes from Monica Corton, a veteran music publisher of over three decades.\nSource",
+    "id": "news-1776995034857-33",
+    "title": "How will the major labels overcome the copyright threat from AI music? By turning to the most powerful weapon available: AI itself.",
+    "summary": "MBW digs through new patent filings describing a 'media rights platform' that sits between rightsholders, gen AI systems, and the end users who want to prompt AI to create derivative works from copyrighted music\nSource",
     "category": "industry-news",
     "source": "Music Business Worldwide",
     "author": "Unknown",
-    "publishedAt": "2026-04-22T13:10:57.000Z",
-    "url": "https://www.musicbusinessworldwide.com/ai-and-music-publishing-licensing-how-do-we-get-there/",
+    "publishedAt": "2026-04-23T20:03:14.000Z",
+    "url": "https://www.musicbusinessworldwide.com/how-will-the-major-labels-overcome-the-copyright-threat-from-ai-music-by-turning-to-the-most-powerful-weapon-available-ai-itself/",
     "imageUrl": null,
     "tags": [
       "AI",
       "Copyright"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-04-23T01:44:44.069Z"
+    "fetchedAt": "2026-04-24T01:43:54.857Z"
   },
   {
-    "id": "news-1776908684069-39",
-    "title": "Create Music Group forms joint venture ﻿with Jonnyshipes’ GoodTalk",
-    "summary": "The joint venture will employ a 'co-release model,' pairing Create's global infrastructure with GoodTalk's 'selective, development-first approach.'\nSource",
+    "id": "news-1776995034855-1",
+    "title": "Meet Noscroll, an AI bot that does your doomscrolling for you",
+    "summary": "Noscroll wants to cure doomscrolling with an AI bot that reads the internet for you.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-04-23T19:38:25.000Z",
+    "url": "https://techcrunch.com/2026/04/23/meet-noscroll-an-ai-bot-that-does-your-doomscrolling-for-you/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-04-24T01:43:54.855Z"
+  },
+  {
+    "id": "news-1776995034855-2",
+    "title": "OpenAI releases GPT-5.5, bringing company one step closer to an AI ‘super app’",
+    "summary": "OpenAI says its latest model offers increased capabilities across a broad variety of categories. ",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-04-23T18:29:29.000Z",
+    "url": "https://techcrunch.com/2026/04/23/openai-chatgpt-gpt-5-5-ai-model-superapp/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-04-24T01:43:54.855Z"
+  },
+  {
+    "id": "news-1776995034857-25",
+    "title": "At 'AI Coachella,' Stanford Students Line Up to Learn From Silicon Valley Royalty",
+    "summary": "CS 153 has gone viral on the Palo Alto campus—and on X. Not everyone is happy about it.",
+    "category": "tech-innovation",
+    "source": "Wired AI",
+    "author": "Unknown",
+    "publishedAt": "2026-04-23T18:24:37.000Z",
+    "url": "https://www.wired.com/story/stanford-cs-class-ai-coachella-ben-horowitz/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-04-24T01:43:54.857Z"
+  },
+  {
+    "id": "news-1776995034857-34",
+    "title": "Record labels’ $2B+ copyright lawsuit against Verizon jointly dismissed in wake of Supreme Court’s Cox ruling",
+    "summary": "The case was originally filed in July 2024\nSource",
     "category": "industry-news",
     "source": "Music Business Worldwide",
     "author": "Unknown",
-    "publishedAt": "2026-04-22T13:09:27.000Z",
-    "url": "https://www.musicbusinessworldwide.com/create-music-group-forms-joint-venture-with-jonnyshipes-goodtalk/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-04-23T01:44:44.069Z"
-  },
-  {
-    "id": "news-1776908684067-4",
-    "title": "AI is spitting out more potential drugs than ever. This startup wants to figure out which ones matter.",
-    "summary": "10x Science has raised a $4.8 million seed round to help pharmaceutical researchers understand complex molecules. ",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-04-22T13:00:00.000Z",
-    "url": "https://techcrunch.com/2026/04/22/ai-is-spitting-out-more-potential-drugs-than-ever-this-start-up-wants-to-figure-out-which-ones-matter/",
+    "publishedAt": "2026-04-23T18:00:04.000Z",
+    "url": "https://www.musicbusinessworldwide.com/record-labels-and-verizon-jointly-dismiss-2-6-billion-copyright-lawsuit-in-wake-of-supreme-courts-cox-ruling/",
     "imageUrl": null,
     "tags": [
       "AI",
-      "Startup",
-      "Research"
+      "Copyright"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-04-23T01:44:44.067Z"
+    "fetchedAt": "2026-04-24T01:43:54.857Z"
   },
   {
-    "id": "news-1776908684067-5",
-    "title": "Exclusive: Google deepens Thinking Machines Lab ties with new multibillion-dollar deal",
-    "summary": "Mira Murati's Thinking Machines Lab has signed a multibillion-dollar deal with Google Cloud for AI infrastructure powered by Nvidia's latest GB300 chips, TechCrunch has exclusively learned.",
+    "id": "news-1776995034855-3",
+    "title": "Era raises $11M to build a software platform for AI gadgets",
+    "summary": "Era thinks that we will see many form factors of AI hardware, including glasses, rings, and pendants.",
     "category": "ai-research",
     "source": "TechCrunch AI",
     "author": "Unknown",
-    "publishedAt": "2026-04-22T12:00:00.000Z",
-    "url": "https://techcrunch.com/2026/04/22/exclusive-google-deepens-thinking-machines-lab-ties-with-new-multi-billion-dollar-deal/",
+    "publishedAt": "2026-04-23T16:00:00.000Z",
+    "url": "https://techcrunch.com/2026/04/23/era-computer-raises-11m-to-build-a-software-platform-for-ai-gadgets/",
     "imageUrl": null,
     "tags": [
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-04-23T01:44:44.067Z"
+    "fetchedAt": "2026-04-24T01:43:54.855Z"
   }
 ]
