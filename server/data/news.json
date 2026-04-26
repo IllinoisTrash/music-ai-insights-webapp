@@ -1,6 +1,145 @@
 [
   {
-    "id": "news-1777080252693-18",
+    "id": "news-1777167945762-18",
+    "title": "xAI Launches grok-voice-think-fast-1.0: Topping τ-voice Bench at 67.3%, Outperforming Gemini, GPT Realtime, and More",
+    "summary": "The new flagship voice model outperforms Gemini, GPT Realtime, and its own predecessor across retail, airline, and telecom workflows\nThe post xAI Launches grok-voice-think-fast-1.0: Topping τ-voice Bench at 67.3%, Outperforming Gemini, GPT Realtime, and More appeared first on MarkTechPost.\n",
+    "category": "ai-research",
+    "source": "MarkTechPost",
+    "author": "Unknown",
+    "publishedAt": "2026-04-25T22:36:57.000Z",
+    "url": "https://www.marktechpost.com/2026/04/25/xai-launches-grok-voice-think-fast-1-0-topping-%cf%84-voice-bench-at-67-3-outperforming-gemini-gpt-realtime-and-more/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-04-26T01:45:45.762Z"
+  },
+  {
+    "id": "news-1777167945760-0",
+    "title": "Anthropic created a test marketplace for agent-on-agent commerce",
+    "summary": "In a recent experiment, Anthropic created a classified marketplace where AI agents represented both buyers and sellers, striking real deals for real goods and real money.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-04-25T21:43:37.000Z",
+    "url": "https://techcrunch.com/2026/04/25/anthropic-created-a-test-marketplace-for-agent-on-agent-commerce/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-04-26T01:45:45.761Z"
+  },
+  {
+    "id": "news-1777167945762-19",
+    "title": "A Coding Implementation on kvcached for Elastic KV Cache Memory, Bursty LLM Serving, and Multi-Model GPU Sharing",
+    "summary": "In this tutorial, we explore kvcached, a dynamic KV-cache implementation on top of vLLM, to understand how dynamic KV-cache allocation transforms GPU memory usage for large language models. We begin by setting up the environment and deploying lightweight Qwen2.5 models through an OpenAI-compatible API, ensuring a realistic inference workflow. We then design controlled experiments where […]\nThe post A Coding Implementation on kvcached for Elastic KV Cache Memory, Bursty LLM Serving, and Mul",
+    "category": "ai-research",
+    "source": "MarkTechPost",
+    "author": "Unknown",
+    "publishedAt": "2026-04-25T21:30:28.000Z",
+    "url": "https://www.marktechpost.com/2026/04/25/a-coding-implementation-on-kvcached-for-elastic-kv-cache-memory-bursty-llm-serving-and-multi-model-gpu-sharing/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-04-26T01:45:45.762Z"
+  },
+  {
+    "id": "news-1777167945764-38",
+    "title": "Cody Johnson Brings Out Boyz II Men for ‘On Bended Knee’ at Stagecoach 2026",
+    "summary": "The country star headlined the opening day of the desert festival on April 24.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-04-25T18:23:00.000Z",
+    "url": "https://www.billboard.com/music/music-news/cody-johnson-boyz-ii-men-stagecoach-2026-1236231467/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-04-26T01:45:45.764Z"
+  },
+  {
+    "id": "news-1777167945764-39",
+    "title": "Ella Langley Brings Out Theo Von for Surprise ‘You Look Like You Love Me’ Duet at Stagecoach 2026",
+    "summary": "The country star made her debut at the festival on April 24.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-04-25T17:20:01.000Z",
+    "url": "https://www.billboard.com/music/music-news/ella-langley-theo-von-duet-stagecoach-2026-1236231463/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-04-26T01:45:45.764Z"
+  },
+  {
+    "id": "news-1777167945761-1",
+    "title": "OpenAI CEO apologizes to Tumbler Ridge community",
+    "summary": "In a letter to the residents of Tumbler Ridge, Canada, OpenAI CEO Sam Altman said he is “deeply sorry” that his company failed to alert law enforcement about the suspect in a recent mass shooting.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-04-25T17:17:56.000Z",
+    "url": "https://techcrunch.com/2026/04/25/openai-ceo-apologizes-to-tumbler-ridge-community/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-04-26T01:45:45.761Z"
+  },
+  {
+    "id": "news-1777167945764-40",
+    "title": "Foo Fighters ‘Take Cover’ Tour 2026: Where to Get Affordable Concert Tickets Online",
+    "summary": "Starting on April 28, the iconic rock band hits the road.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-04-25T16:09:29.000Z",
+    "url": "https://www.billboard.com/culture/product-recommendations/foo-fighters-2026-tour-tickets-buy-online-1236231430/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-04-26T01:45:45.764Z"
+  },
+  {
+    "id": "news-1777167945761-2",
+    "title": "Why Cohere is merging with Aleph Alpha",
+    "summary": "Canadian AI startup Cohere is taking over Germany-based Aleph Alpha with support from Lidl’s owner, Schwarz Group. With the blessing of their governments, the companies intend to offer a sovereign alternative to enterprises in an AI landscape dominated by American players.",
+    "category": "industry-news",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-04-25T16:00:00.000Z",
+    "url": "https://techcrunch.com/2026/04/25/why-cohere-is-merging-with-aleph-alpha/",
+    "imageUrl": null,
+    "tags": [
+      "AI",
+      "Startup"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-04-26T01:45:45.761Z"
+  },
+  {
+    "id": "news-1777167945762-20",
+    "title": "Meet GitNexus: An Open-Source MCP-Native Knowledge Graph Engine That Gives Claude Code and Cursor Full Codebase Structural Awareness",
+    "summary": "Abhigyan Patwari's GitNexus has quietly crossed 19,000 GitHub stars by solving a problem every AI-assisted developer has hit but rarely named — agents that edit code they don't actually understand.\nThe post Meet GitNexus: An Open-Source MCP-Native Knowledge Graph Engine That Gives Claude Code and Cursor Full Codebase Structural Awareness appeared first on MarkTechPost.\n",
+    "category": "ai-research",
+    "source": "MarkTechPost",
+    "author": "Unknown",
+    "publishedAt": "2026-04-25T04:21:58.000Z",
+    "url": "https://www.marktechpost.com/2026/04/24/meet-gitnexus-an-open-source-mcp-native-knowledge-graph-engine-that-gives-claude-code-and-cursor-full-codebase-structural-awareness/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-04-26T01:45:45.762Z"
+  },
+  {
+    "id": "news-1777167945763-21",
     "title": "A Coding Implementation on Deepgram Python SDK for Transcription, Text-to-Speech, Async Audio Processing, and Text Intelligence",
     "summary": "In this tutorial, we build an advanced hands-on workflow with the Deepgram Python SDK and explore how modern voice AI capabilities come together in a single Python environment. We set up authentication, connect both synchronous and asynchronous Deepgram clients, and work directly with real audio data to understand how the SDK handles transcription, speech generation, […]\nThe post A Coding Implementation on Deepgram Python SDK for Transcription, Text-to-Speech, Async Audio Processing, and T",
     "category": "ai-research",
@@ -13,96 +152,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-04-25T01:24:12.693Z"
+    "fetchedAt": "2026-04-26T01:45:45.763Z"
   },
   {
-    "id": "news-1777080252694-41",
-    "title": "Otis Redding Center for the Arts Celebrates One-Year Anniversary: Ensuring the ‘Legacy Keeps Reaching Forward’",
-    "summary": "Zelma Redding talks about her late husband’s belief in giving back — and lifting up.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-04-25T00:19:05.000Z",
-    "url": "https://www.billboard.com/music/rb-hip-hop/otis-redding-center-arts-celebrates-one-year-anniversary-1236231404/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-04-25T01:24:12.694Z"
-  },
-  {
-    "id": "news-1777080252694-42",
-    "title": "Billboard’s Music Industry Events Calendar",
-    "summary": "A complete rundown of the most important events across the music business.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-04-24T23:00:00.000Z",
-    "url": "https://www.billboard.com/pro/music-industry-events-calendar-festivals-awards-conferences/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-04-25T01:24:12.694Z"
-  },
-  {
-    "id": "news-1777080252694-43",
-    "title": "LE SSERAFIM’s ‘CELEBRATION’ Kicks Off a New & Personal Era | Billboard News",
-    "summary": "Tetris Kelly caught up with LE SSERAFIM in Seoul, South Korea, and the girls have a “CELEBRATION” that launches them into a new era. They tease what to expect from their upcoming studio album, their experience of their first VR concert, the surprise they felt when “SPAGHETTI” popped off, working with BTS’ J-HOPE on the […]",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-04-24T21:19:51.000Z",
-    "url": "https://www.billboard.com/video/le-sserafims-celebration-kicks-off-a-new-personal-era/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-04-25T01:24:12.694Z"
-  },
-  {
-    "id": "news-1777080252694-44",
-    "title": "Allison Jones Named EVP of A&R at Big Machine Records/Nashville Harbor Records & Entertainment",
-    "summary": "The executive has played a key role in signing artists including Thomas Rhett, Florida Georgia Line, Riley Green, Carly Pearce and Midland.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-04-24T21:02:37.000Z",
-    "url": "https://www.billboard.com/pro/allison-jones-exec-vp-aampr-big-machine-records/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-04-25T01:24:12.694Z"
-  },
-  {
-    "id": "news-1777080252694-45",
-    "title": "Who Are MGA, aka Mrs. GREEN APPLE? A Beginner’s Guide to Japan’s Monster Band",
-    "summary": "MGA (outside Japan, Mrs. GREEN APPLE goes by MGA) stood out as the only Japanese act to appear on the IFPI's 2026 Global Artist Chart, landing at No. 13.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-04-24T20:32:18.000Z",
-    "url": "https://www.billboard.com/music/music-news/mga-mrs-green-apple-beginners-guide-1236231376/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-04-25T01:24:12.694Z"
-  },
-  {
-    "id": "news-1777080252694-46",
-    "title": "Gloria Trevi, Young Miko, Becky G & More Reveal Their Latina Muse | Billboard News",
-    "summary": "Who is the Latina muse of Gloria Trevi, Chiquis, Young Miko and Becky G? We caught up with the Latina stars on the red carpet of the Billboard Latin Women in Music 2026, and they shared who they admire in the industry — from Karol G to Jessie Reyez and more. Ingrid Fajardo: Who is […]",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-04-24T20:18:45.000Z",
-    "url": "https://www.billboard.com/video/gloria-trevi-young-miko-becky-g-reveal-latina-muse/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-04-25T01:24:12.694Z"
-  },
-  {
-    "id": "news-1777080252691-0",
+    "id": "news-1777167945761-3",
     "title": "ComfyUI hits $500M valuation as creators seek more control over AI-generated media",
     "summary": "ComfyUI, whose tools give creators more control over AI image, video, and audio generation, just raised $30 million.",
     "category": "ai-research",
@@ -115,10 +168,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-04-25T01:24:12.692Z"
+    "fetchedAt": "2026-04-26T01:45:45.761Z"
   },
   {
-    "id": "news-1777080252692-1",
+    "id": "news-1777167945761-4",
     "title": "Google to invest up to $40B in Anthropic in cash and compute",
     "summary": "Google plans up to $40B investment in Anthropic as AI rivals race to secure massive compute capacity, following the limited release of its powerful, cybersecurity-focused Mythos model.",
     "category": "ai-research",
@@ -132,10 +185,10 @@
       "Investment"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-04-25T01:24:12.692Z"
+    "fetchedAt": "2026-04-26T01:45:45.761Z"
   },
   {
-    "id": "news-1777080252693-19",
+    "id": "news-1777167945763-22",
     "title": "DeepSeek AI Releases DeepSeek-V4: Compressed Sparse Attention and Heavily Compressed Attention Enable One-Million-Token Contexts",
     "summary": "DeepSeek-AI has released a preview version of the DeepSeek-V4 series: two Mixture-of-Experts (MoE) language models built around one core challenge making one-million-token context windows practical and affordable at inference time. The series consists of DeepSeek-V4-Pro, with 1.6T total parameters and 49B activated per token, and DeepSeek-V4-Flash, with 284B total parameters and 13B activated per token. […]\nThe post DeepSeek AI Releases DeepSeek-V4: Compressed Sparse Attention and Heavily ",
     "category": "tech-innovation",
@@ -148,10 +201,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-04-25T01:24:12.693Z"
+    "fetchedAt": "2026-04-26T01:45:45.763Z"
   },
   {
-    "id": "news-1777080252692-2",
+    "id": "news-1777167945761-5",
     "title": "Marked-up Mac minis flood eBay amid shortages driven by AI",
     "summary": "Apple’s sold-out Mac mini is spawning marked-up eBay listings as demand surges for the compact desktop, now favored for running local AI models and tools.",
     "category": "ai-research",
@@ -164,10 +217,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-04-25T01:24:12.692Z"
+    "fetchedAt": "2026-04-26T01:45:45.761Z"
   },
   {
-    "id": "news-1777080252694-27",
+    "id": "news-1777167945763-26",
     "title": "Apple's Next CEO Needs to Launch a Killer AI Product",
     "summary": "Tim Cook was a great CEO, but he didn’t crack AI.  It’s job number 1 for John Ternus.",
     "category": "tech-innovation",
@@ -180,10 +233,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-04-25T01:24:12.694Z"
+    "fetchedAt": "2026-04-26T01:45:45.763Z"
   },
   {
-    "id": "news-1777080252692-3",
+    "id": "news-1777167945761-6",
     "title": "DeepSeek previews new AI model that ‘closes the gap’ with frontier models",
     "summary": "DeepSeek says both models are more efficient and performant than DeepSeek V3.2 due to architectural improvements, and have almost \"closed the gap\" with current leading models, both open and closed, on reasoning benchmarks.",
     "category": "ai-research",
@@ -196,10 +249,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-04-25T01:24:12.692Z"
+    "fetchedAt": "2026-04-26T01:45:45.761Z"
   },
   {
-    "id": "news-1777080252692-4",
+    "id": "news-1777167945761-7",
     "title": "In another wild turn for AI chips, Meta signs deal for millions of Amazon AI CPUs",
     "summary": "Meta has commandeered a big chunk of Amazon's homegrown CPUs (not GPUs) for AI agentic workloads, signaling that a new kind of chip race has begun.",
     "category": "ai-research",
@@ -212,10 +265,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-04-25T01:24:12.692Z"
+    "fetchedAt": "2026-04-26T01:45:45.761Z"
   },
   {
-    "id": "news-1777080252694-28",
+    "id": "news-1777167945763-27",
     "title": "These AI Thirst Trap Creators Say They’re Misunderstood",
     "summary": "A viral red carpet moment shone light on a group of hunky Instagram influencers—and the followers who are too horny to care that they’re not real.",
     "category": "tech-innovation",
@@ -228,10 +281,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-04-25T01:24:12.694Z"
+    "fetchedAt": "2026-04-26T01:45:45.763Z"
   },
   {
-    "id": "news-1777080252694-29",
+    "id": "news-1777167945763-28",
     "title": "5 Reasons to Think Twice Before Using ChatGPT—or Any Chatbot—for Financial Advice",
     "summary": "As people increasingly rely on AI chatbots for guidance, even on financial matters, a healthy dose of skepticism is critical.",
     "category": "ai-research",
@@ -244,10 +297,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-04-25T01:24:12.694Z"
+    "fetchedAt": "2026-04-26T01:45:45.763Z"
   },
   {
-    "id": "news-1777080252693-20",
+    "id": "news-1777167945763-23",
     "title": "Google DeepMind Introduces Decoupled DiLoCo: An Asynchronous Training Architecture Achieving 88% Goodput Under High Hardware Failure Rates",
     "summary": "Training frontier AI models is, at its core, a coordination problem. Thousands of chips must communicate with each other continuously, synchronizing every gradient update across the network. When one chip fails or even slows down, the entire training run can stall. As models scale toward hundreds of billions of parameters, that fragility becomes increasingly untenable. […]\nThe post Google DeepMind Introduces Decoupled DiLoCo: An Asynchronous Training Architecture Achieving 88% Goodput Unde",
     "category": "ai-research",
@@ -260,53 +313,6 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-04-25T01:24:12.693Z"
-  },
-  {
-    "id": "news-1777080252693-21",
-    "title": "Mend Releases AI Security Governance Framework: Covering Asset Inventory, Risk Tiering, AI Supply Chain Security, and Maturity Model",
-    "summary": "Mend.io's new framework gives engineering and security teams a practical playbook for governing AI systems before the next incident forces the conversation.\nThe post Mend Releases AI Security Governance Framework: Covering Asset Inventory, Risk Tiering, AI Supply Chain Security, and Maturity Model appeared first on MarkTechPost.\n",
-    "category": "ai-research",
-    "source": "MarkTechPost",
-    "author": "Unknown",
-    "publishedAt": "2026-04-24T02:07:11.000Z",
-    "url": "https://www.marktechpost.com/2026/04/23/mend-releases-ai-security-governance-framework/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-04-25T01:24:12.693Z"
-  },
-  {
-    "id": "news-1777080252693-22",
-    "title": "OpenAI Releases GPT-5.5, a Fully Retrained Agentic Model That Scores 82.7% on Terminal-Bench 2.0 and 84.9% on GDPval",
-    "summary": "The model targets the full stack of computer work — coding, research, data analysis, and software operation — without needing a human to supervise every step\nThe post OpenAI Releases GPT-5.5, a Fully Retrained Agentic Model That Scores 82.7% on Terminal-Bench 2.0 and 84.9% on GDPval appeared first on MarkTechPost.\n",
-    "category": "ai-research",
-    "source": "MarkTechPost",
-    "author": "Unknown",
-    "publishedAt": "2026-04-23T22:11:30.000Z",
-    "url": "https://www.marktechpost.com/2026/04/23/openai-releases-gpt-5-5-a-fully-retrained-agentic-model-that-scores-82-7-on-terminal-bench-2-0-and-84-9-on-gdpval/",
-    "imageUrl": null,
-    "tags": [
-      "AI",
-      "Research"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-04-25T01:24:12.693Z"
-  },
-  {
-    "id": "news-1777080252693-23",
-    "title": "A Coding Tutorial on OpenMythos on Recurrent-Depth Transformers with Depth Extrapolation, Adaptive Computation, and Mixture-of-Experts Routing",
-    "summary": "In this tutorial, we explore the implementation of OpenMythos, a theoretical reconstruction of the Claude Mythos architecture that enables deeper reasoning through iterative computation rather than increased parameter size. We build and analyze models using both GQA and MLA attention mechanisms, examine memory efficiency through KV-cache comparisons, and validate stability via the spectral properties of […]\nThe post A Coding Tutorial on OpenMythos on Recurrent-Depth Transformers with Depth",
-    "category": "ai-research",
-    "source": "MarkTechPost",
-    "author": "Unknown",
-    "publishedAt": "2026-04-23T21:25:34.000Z",
-    "url": "https://www.marktechpost.com/2026/04/23/a-coding-tutorial-on-openmythos-on-recurrent-depth-transformers-with-depth-extrapolation-adaptive-computation-and-mixture-of-experts-routing/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-04-25T01:24:12.693Z"
+    "fetchedAt": "2026-04-26T01:45:45.763Z"
   }
 ]
