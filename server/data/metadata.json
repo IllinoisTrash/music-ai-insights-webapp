@@ -1,16 +1,14 @@
 {
-  "lastUpdated": "2026-04-26T01:45:45.765Z",
+  "lastUpdated": "2026-04-27T01:49:43.319Z",
   "totalArticles": 20,
   "categories": {
-    "ai-research": 13,
-    "industry-news": 4,
-    "tech-innovation": 3
+    "industry-news": 10,
+    "ai-research": 10
   },
   "sources": [
-    "MarkTechPost",
-    "TechCrunch AI",
     "Billboard",
-    "Wired AI"
+    "MarkTechPost",
+    "TechCrunch AI"
   ],
   "updateSource": "github-actions-auto"
 }
