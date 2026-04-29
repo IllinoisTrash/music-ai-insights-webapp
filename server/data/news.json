@@ -1,317 +1,309 @@
 [
   {
-    "id": "news-1777341421976-36",
-    "title": "Josh Groban to Get ‘Closer’ to His Fans With a Star on Hollywood Walk of Fame",
-    "summary": "The ceremony is two days before the release of his new album Cinematic, and two months before the start of a tour with special guest Jennifer Hudson.",
-    "category": "industry-news",
-    "source": "Billboard",
+    "id": "news-1777427977101-0",
+    "title": "At his OpenAI trial, Musk relitigates an old friendship",
+    "summary": "It's a story Musk has told before -- in interviews and to author Walter Isaacson for his bestselling biography of Musk -- but Tuesday was the first time he said it under oath.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
     "author": "Unknown",
-    "publishedAt": "2026-04-28T00:18:35.000Z",
-    "url": "https://www.billboard.com/music/awards/josh-groban-hollywood-walk-of-fame-star-ceremony-1236233146/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-04-28T01:57:01.976Z"
-  },
-  {
-    "id": "news-1777341421976-37",
-    "title": "Zach Bryan Responds to ‘Karens’ Complaining About His Nebraska Concert Being Cut Short for Lightning",
-    "summary": "Some fans on social media weren't happy that the country star had to delay and then cut short his show over the weekend.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-04-28T00:16:22.000Z",
-    "url": "https://www.billboard.com/music/music-news/zach-bryan-responds-complaints-about-cutting-concert-short-1236233070/",
+    "publishedAt": "2026-04-29T00:40:16.000Z",
+    "url": "https://techcrunch.com/2026/04/28/at-his-openai-trial-musk-relitigates-an-old-friendship/",
     "imageUrl": null,
     "tags": [
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-04-28T01:57:01.976Z"
+    "fetchedAt": "2026-04-29T01:59:37.102Z"
   },
   {
-    "id": "news-1777341421976-38",
-    "title": "Nia Long Reveals Her Favorite Rap Lyric Written About Her",
-    "summary": "Rappers have been mentioning the actress in their music for about 30 years.",
+    "id": "news-1777427977103-39",
+    "title": "From Taylor Swift-Approved Jewelry to Made-to-Order Songs: The Most Unique Mother’s Day Gift Ideas for 2026",
+    "summary": "This list is sure to please every mother out there, from music lovers to beauty enthusiasts.",
     "category": "industry-news",
     "source": "Billboard",
     "author": "Unknown",
-    "publishedAt": "2026-04-27T22:55:03.000Z",
-    "url": "https://www.billboard.com/culture/tv-film/nia-long-reveals-favorite-rap-lyric-written-about-her-1236233007/",
+    "publishedAt": "2026-04-29T00:37:55.000Z",
+    "url": "https://www.billboard.com/culture/product-recommendations/unique-mothers-day-gift-ideas-1236233700/",
     "imageUrl": null,
     "tags": [],
     "readTime": 1,
-    "fetchedAt": "2026-04-28T01:57:01.976Z"
+    "fetchedAt": "2026-04-29T01:59:37.103Z"
   },
   {
-    "id": "news-1777341421976-39",
-    "title": "Mariah The Scientist Gets Real About Love, Pain & Her Creative Process With Billboard & Honda Stage",
-    "summary": "This is partner content.  In conversation with Billboard and Honda Stage, Mariah The Scientist explores authenticity, artistry and connection — reflecting on her creative journey, the vulnerability behind her songwriting and the deep, honest relationship she shares with her fans.  Mariah The Scientist: Mariah The Scientist is just a scientist, you know? Mariah The Scientist […]",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-04-27T22:09:57.000Z",
-    "url": "https://www.billboard.com/video/mariah-the-scientist-gets-real-about-love-pain-her-process/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-04-28T01:57:01.976Z"
-  },
-  {
-    "id": "news-1777341421975-23",
-    "title": "Elon Musk Boosts New Yorker’s Sam Altman Exposé on X as Trial Begins",
-    "summary": "The move comes as the trial for Elon Musk’s lawsuit against OpenAI kicks off in federal court in Oakland.",
+    "id": "news-1777427977103-26",
+    "title": "OpenAI Really Wants Codex to Shut Up About Goblins",
+    "summary": "“Never talk about goblins, gremlins, raccoons, trolls, ogres, pigeons, or other animals or creatures unless it is absolutely and unambiguously relevant,” reads OpenAI’s coding agent instructions.",
     "category": "tech-innovation",
     "source": "Wired AI",
     "author": "Unknown",
-    "publishedAt": "2026-04-27T20:08:51.000Z",
-    "url": "https://www.wired.com/story/elon-musk-boost-new-yorker-article-sam-altman-x/",
+    "publishedAt": "2026-04-28T23:45:05.000Z",
+    "url": "https://www.wired.com/story/openai-really-wants-codex-to-shut-up-about-goblins/",
     "imageUrl": null,
     "tags": [
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-04-28T01:57:01.975Z"
+    "fetchedAt": "2026-04-29T01:59:37.103Z"
   },
   {
-    "id": "news-1777341421975-18",
-    "title": "Build a Reinforcement Learning Powered Agent that Learns to Retrieve Relevant Long-Term Memories for Accurate LLM Question Answering",
-    "summary": "In this tutorial, we build a Reinforcement Learning–driven agent that learns how to retrieve relevant memories from a long-term memory bank. We start by constructing a synthetic memory dataset and generating queries that require the agent to recall specific information. Using OpenAI embeddings, we convert both memories and queries into vector representations, enabling similarity signals […]\nThe post Build a Reinforcement Learning Powered Agent that Learns to Retrieve Relevant Long-Term Mem",
-    "category": "ai-research",
+    "id": "news-1777427977103-40",
+    "title": "Billie Eilish Needs a New Rihanna Album in Her Life: ‘If She Ever F—ing Makes R9…’",
+    "summary": "RiRi previously gushed about Eilish and labeled her a \"dream collaborator\" in 2024.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-04-28T23:22:49.000Z",
+    "url": "https://www.billboard.com/music/pop/billie-eilish-rihanna-r9-album-1236233862/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-04-29T01:59:37.103Z"
+  },
+  {
+    "id": "news-1777427977103-41",
+    "title": "The Evolution of Mariah the Scientist: From Dorm Room Sweetheart to Sold-Out Dates With Billboard & Honda Stage",
+    "summary": "This is partner content. In conversation with Billboard and Honda Stage, Mariah the Scientist reflects on the early days of her career, the moment she decided to fully commit to music, and what it’s felt like to grow from intimate performances to bigger and bigger stages. Honest and introspective, she opens up about trusting herself, […]",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-04-28T22:58:01.000Z",
+    "url": "https://www.billboard.com/video/mariah-the-scientist-evolution/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-04-29T01:59:37.103Z"
+  },
+  {
+    "id": "news-1777427977103-42",
+    "title": "Madonna Returns to Billboard’s Dance Charts With ‘I Feel So Free’",
+    "summary": "The first taste of her forthcoming Confessions II album hits four charts, including a No. 1 debut.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-04-28T21:42:12.000Z",
+    "url": "https://www.billboard.com/music/chart-beat/madonna-i-feel-so-free-billboard-chart-debut-1236233827/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-04-29T01:59:37.103Z"
+  },
+  {
+    "id": "news-1777427977103-43",
+    "title": "Man Pleads Guilty in Plot to Attack Taylor Swift’s Vienna Eras Tour Concert",
+    "summary": "The defendant could be sentenced to up to 20 years in prison.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-04-28T21:40:43.000Z",
+    "url": "https://www.billboard.com/pro/taylor-swift-eras-tour-terrorist-plot-man-pleads-guilty/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-04-29T01:59:37.103Z"
+  },
+  {
+    "id": "news-1777427977103-20",
+    "title": "OpenAI Releases Privacy Filter: A 1.5B-Parameter Open-Source PII Redaction Model with 50M Active Parameters",
+    "summary": "OpenAI's Privacy Filter Is a 1.5B-Parameter PII Detector Built on a Distilled Decoder — And It Runs in Your Browser\nThe post OpenAI Releases Privacy Filter: A 1.5B-Parameter Open-Source PII Redaction Model with 50M Active Parameters appeared first on MarkTechPost.\n",
+    "category": "tech-innovation",
     "source": "MarkTechPost",
     "author": "Unknown",
-    "publishedAt": "2026-04-27T18:58:20.000Z",
-    "url": "https://www.marktechpost.com/2026/04/27/build-a-reinforcement-learning-powered-agent-that-learns-to-retrieve-relevant-long-term-memories/",
+    "publishedAt": "2026-04-28T21:37:57.000Z",
+    "url": "https://www.marktechpost.com/2026/04/28/openai-releases-privacy-filter-a-1-5b-parameter-open-source-pii-redaction-model-with-50m-active-parameters/",
     "imageUrl": null,
     "tags": [
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-04-28T01:57:01.975Z"
+    "fetchedAt": "2026-04-29T01:59:37.103Z"
   },
   {
-    "id": "news-1777341421974-0",
-    "title": "OpenAI ends Microsoft legal peril over its $50B Amazon deal",
-    "summary": "OpenAI has won major concessions from its largest shareholder, Microsoft, that will allow it to sell products on AWS, while Microsoft gets more cash in a revenue-share agreement. ",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-04-27T17:40:38.000Z",
-    "url": "https://techcrunch.com/2026/04/27/openai-ends-microsoft-legal-peril-over-its-50b-amazon-deal/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-04-28T01:57:01.974Z"
-  },
-  {
-    "id": "news-1777341421974-1",
-    "title": "DeepMind’s David Silver just raised $1.1B to build an AI that learns without human data",
-    "summary": "Ineffable Intelligence, a British AI lab founded a mere few months ago by former DeepMind researcher David Silver, has raised $1.1 billion in funding at a valuation of $5.1 billion.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-04-27T17:24:21.000Z",
-    "url": "https://techcrunch.com/2026/04/27/deepminds-david-silver-just-raised-1-1b-to-build-an-ai-that-learns-without-human-data/",
-    "imageUrl": null,
-    "tags": [
-      "AI",
-      "Research",
-      "Investment"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-04-28T01:57:01.974Z"
-  },
-  {
-    "id": "news-1777341421974-2",
-    "title": "Investors back Skye’s AI home screen app for iPhone ahead of launch",
-    "summary": "Skye's new AI app attracted investors before it even launched — a sign of interest in a more AI-aware iPhone.",
-    "category": "tech-innovation",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-04-27T16:13:02.000Z",
-    "url": "https://techcrunch.com/2026/04/27/investors-back-skye-signull-labs-ai-home-screen-app-for-iphone-ahead-of-launch/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-04-28T01:57:01.974Z"
-  },
-  {
-    "id": "news-1777341421975-28",
-    "title": "‘The road to true artist development is still a long one. Tenacity wins long-term.’",
-    "summary": "Tom Rose, MD of UK-based GRAPE.VN (formerly Propeller), on radio's significance in the streaming age, the firm's pan-European promo work with RAYE, and its move to offer management, label services and more following a rebrand\n\nSource",
-    "category": "industry-news",
-    "source": "Music Business Worldwide",
-    "author": "Unknown",
-    "publishedAt": "2026-04-27T15:00:34.000Z",
-    "url": "https://www.musicbusinessworldwide.com/the-road-to-true-artist-development-is-still-a-long-one-tenacity-wins-long-term/",
-    "imageUrl": null,
-    "tags": [
-      "Streaming"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-04-28T01:57:01.975Z"
-  },
-  {
-    "id": "news-1777341421975-29",
-    "title": "Concord acquires Mothership Music Publishing and its 5,000-song catalog",
-    "summary": "Mothership's roster includes Grammy Best New Artist nominee The Marías, Falling In Reverse, Architects, Pam Sheyne and more.\nSource",
-    "category": "industry-news",
-    "source": "Music Business Worldwide",
-    "author": "Unknown",
-    "publishedAt": "2026-04-27T14:00:36.000Z",
-    "url": "https://www.musicbusinessworldwide.com/concord-acquires-mothership-music-publishing-and-its-5000-song-catalog/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-04-28T01:57:01.976Z"
-  },
-  {
-    "id": "news-1777341421975-24",
-    "title": "The Man Behind AlphaGo Thinks AI Is Taking the Wrong Path",
-    "summary": "David Silver has a new billion-dollar company that aims to build AI “superlearners.”",
+    "id": "news-1777427977103-27",
+    "title": "Elon Musk Testifies That He Started OpenAI to Prevent a ‘Terminator Outcome’",
+    "summary": "The judge also warned Musk and Sam Altman to curb their “propensity to use social media to make things worse outside the courtroom” after both sides traded attacks online.",
     "category": "tech-innovation",
     "source": "Wired AI",
     "author": "Unknown",
-    "publishedAt": "2026-04-27T14:00:00.000Z",
-    "url": "https://www.wired.com/story/david-silver-ai-ineffable-intelligence-reinforcement-learning/",
+    "publishedAt": "2026-04-28T21:35:17.000Z",
+    "url": "https://www.wired.com/story/model-behavior-elon-musk-testifies-at-musk-v-altman-trial/",
     "imageUrl": null,
     "tags": [
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-04-28T01:57:01.975Z"
+    "fetchedAt": "2026-04-29T01:59:37.103Z"
   },
   {
-    "id": "news-1777341421974-3",
-    "title": "China blocks Meta’s $2B Manus deal after months-long probe",
-    "summary": "China has ordered Meta to unwind its multibillion-dollar Manus acquisition, dealing a potential setback to Zuckerberg’s push into AI agents.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-04-27T13:16:55.000Z",
-    "url": "https://techcrunch.com/2026/04/27/china-vetoes-metas-2b-manus-deal-after-months-long-probe/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-04-28T01:57:01.974Z"
-  },
-  {
-    "id": "news-1777341421974-4",
-    "title": "OpenAI could be making a phone with AI agents replacing apps",
-    "summary": "There have been plenty of rumors about OpenAI's hardware plans, which involve launching a pair of earbuds. A new note from industry analyst Ming-Chi Kuo suggests that the AI company might be working on a phone in collaboration with MediaTek, Qualcomm, and Luxshare.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-04-27T13:08:59.000Z",
-    "url": "https://techcrunch.com/2026/04/27/openai-could-be-making-a-phone-with-ai-agents-replacing-apps/",
-    "imageUrl": null,
-    "tags": [
-      "AI",
-      "Partnership"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-04-28T01:57:01.974Z"
-  },
-  {
-    "id": "news-1777341421976-30",
-    "title": "Avex Music Group launches $100M fund to acquire publishing catalogs and companies; strikes first deal with ‘Lose Control’ co-writer Infamous",
-    "summary": "Infamous co-wrote and co-produced Teddy Swims' \"Lose Control\", and worked with Lil Wayne and Charlie Puth.\nSource",
+    "id": "news-1777427977103-33",
+    "title": "BMG+Concord is the music industry’s biggest bet in years. What’s the plan?",
+    "summary": "Thomas Coesfeld and Bob Valentine answer MBW's questions on a mega-merger – and ambitious targets\nSource",
     "category": "industry-news",
     "source": "Music Business Worldwide",
     "author": "Unknown",
-    "publishedAt": "2026-04-27T13:02:23.000Z",
-    "url": "https://www.musicbusinessworldwide.com/avex-music-group-launches-100m-fund-to-acquire-publishing-catalogs-and-companies-strikes-first-deal-with-lose-control-co-writer-infamous/",
+    "publishedAt": "2026-04-28T19:56:20.000Z",
+    "url": "https://www.musicbusinessworldwide.com/bmgconcord-music-industrys-biggest-bet-in-years-whats-the-plan/",
     "imageUrl": null,
     "tags": [],
     "readTime": 1,
-    "fetchedAt": "2026-04-28T01:57:01.976Z"
+    "fetchedAt": "2026-04-29T01:59:37.103Z"
   },
   {
-    "id": "news-1777341421976-31",
-    "title": "Matt Spetzler’s Pipeline hires Jennifer Scher as CFO, Jason Munro as General Counsel and Jay Srivastav as Head of Data & Product",
-    "summary": "New senior appointments come as music-focused financing platform builds out infrastructure across capital, legal and data functions\nSource",
-    "category": "industry-news",
-    "source": "Music Business Worldwide",
+    "id": "news-1777427977102-1",
+    "title": "Amazon is already offering new OpenAI products on AWS",
+    "summary": "A day after OpenAI got Microsoft to agree to end exclusive rights, AWS announced a slate of OpenAI model offerings, including a new agent service.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
     "author": "Unknown",
-    "publishedAt": "2026-04-27T11:51:29.000Z",
-    "url": "https://www.musicbusinessworldwide.com/matt-spetzlers-pipeline-hires-jennifer-scher-as-cfo-jason-munro-as-general-counsel-and-jay-srivastav-as-head-of-data-product/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-04-28T01:57:01.976Z"
-  },
-  {
-    "id": "news-1777341421976-32",
-    "title": "Deezer revenues hit $154M in Q1, down 1.6% YoY, but direct subscribers grew to 5.7m",
-    "summary": "France-headquartered music streaming service Deezer has published its Q1 2026 results, covering the three months ended March 31\nSource",
-    "category": "industry-news",
-    "source": "Music Business Worldwide",
-    "author": "Unknown",
-    "publishedAt": "2026-04-27T11:17:28.000Z",
-    "url": "https://www.musicbusinessworldwide.com/deezer-revenues-hit-154m-in-q1-down-1-6-yoy-but-direct-subscribers-grew-to-5-7m/",
-    "imageUrl": null,
-    "tags": [
-      "Streaming"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-04-28T01:57:01.976Z"
-  },
-  {
-    "id": "news-1777341421976-33",
-    "title": "Indie label group Futures Music raises $6m as it sets sights on catalog deals",
-    "summary": "Ben Blackburn, founder of Common Knowledge and manager of girl in red, is among the investors\nSource",
-    "category": "industry-news",
-    "source": "Music Business Worldwide",
-    "author": "Unknown",
-    "publishedAt": "2026-04-27T10:09:00.000Z",
-    "url": "https://www.musicbusinessworldwide.com/indie-label-group-futures-music-raises-6m-as-it-sets-sights-on-catalog-deals1/",
+    "publishedAt": "2026-04-28T19:48:02.000Z",
+    "url": "https://techcrunch.com/2026/04/28/amazon-is-already-offering-new-openai-products-on-aws/",
     "imageUrl": null,
     "tags": [
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-04-28T01:57:01.976Z"
+    "fetchedAt": "2026-04-29T01:59:37.102Z"
   },
   {
-    "id": "news-1777341421976-34",
-    "title": "TikTok’s Add to Music App tool surpasses 6B track saves in the past year",
-    "summary": "6 billion track saves translated to 'many, many billions more streams in repeat' on platforms like Spotify and Apple Music said TikTok\nSource",
+    "id": "news-1777427977103-34",
+    "title": "Spotify Co-CEOs outline AI ambitions and more on Q1 2026 earnings call",
+    "summary": "Here are five things we learned from the company's Q1 earnings call\nSource",
     "category": "industry-news",
     "source": "Music Business Worldwide",
     "author": "Unknown",
-    "publishedAt": "2026-04-27T09:30:25.000Z",
-    "url": "https://www.musicbusinessworldwide.com/tiktoks-add-to-music-app-tool-surpasses-6b-track-saves-in-the-past-year/",
+    "publishedAt": "2026-04-28T18:38:21.000Z",
+    "url": "https://www.musicbusinessworldwide.com/spotifys-co-ceos-outline-ai-ambitions-and-more-on-q1-2026-earnings-call/",
     "imageUrl": null,
     "tags": [
       "Spotify",
-      "Apple Music",
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-04-28T01:57:01.976Z"
+    "fetchedAt": "2026-04-29T01:59:37.103Z"
   },
   {
-    "id": "news-1777341421975-19",
-    "title": "Meta AI Releases Sapiens2: A High-Resolution Human-Centric Vision Model for Pose, Segmentation, Normals, Pointmap, and Albedo",
-    "summary": "Meta Reality Labs releases a new foundation model family for human-centric vision that pushes pose estimation, segmentation, and 3D geometry to new state-of-the-art levels — all from a single backbone.\nThe post Meta AI Releases Sapiens2: A High-Resolution Human-Centric Vision Model for Pose, Segmentation, Normals, Pointmap, and Albedo appeared first on MarkTechPost.\n",
+    "id": "news-1777427977103-28",
+    "title": "‘It’s Undignified’: Hundreds of Workers Training Meta’s AI Could Be Laid Off",
+    "summary": "More than 700 people working for a Meta contractor in Ireland are at risk of losing their jobs, documents show.",
     "category": "tech-innovation",
-    "source": "MarkTechPost",
+    "source": "Wired AI",
     "author": "Unknown",
-    "publishedAt": "2026-04-27T08:47:20.000Z",
-    "url": "https://www.marktechpost.com/2026/04/27/meta-ai-releases-sapiens2-a-high-resolution-human-centric-vision-model-for-pose-segmentation-normals-pointmap-and-albedo/",
+    "publishedAt": "2026-04-28T18:36:47.000Z",
+    "url": "https://www.wired.com/story/meta-covalen-ai-workers-layoffs/",
     "imageUrl": null,
     "tags": [
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-04-28T01:57:01.975Z"
+    "fetchedAt": "2026-04-29T01:59:37.103Z"
+  },
+  {
+    "id": "news-1777427977102-2",
+    "title": "Google expands Pentagon’s access to its AI after Anthropic’s refusal",
+    "summary": "After Anthropic refused to allow the DoD to use its AI for domestic mass surveillance and autonomous weapons, Google has signed a new contract with the department.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-04-28T18:15:00.000Z",
+    "url": "https://techcrunch.com/2026/04/28/google-expands-pentagons-access-to-its-ai-after-anthropics-refusal/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-04-29T01:59:37.102Z"
+  },
+  {
+    "id": "news-1777427977103-35",
+    "title": "Jimi Hendrix bandmates’ estates lose UK court battle against Sony Music over ownership of band’s recordings",
+    "summary": "The UK High Court has dismissed a lawsuit brought by the estates of Noel Redding and Mitch Mitchell\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-04-28T16:33:54.000Z",
+    "url": "https://www.musicbusinessworldwide.com/jimi-hendrix-bandmates-estates-lose-uk-court-battle-against-sony-music-over-ownership-of-bands-recordings/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-04-29T01:59:37.103Z"
+  },
+  {
+    "id": "news-1777427977103-36",
+    "title": "Primary Wave strikes deal with Harry Chapin estate covering singer-songwriter’s catalog, name, image & likeness rights",
+    "summary": "Harry Chapin's catalog encompasses 11 albums, 14 singles, and more than 16 million albums sold worldwide.\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-04-28T14:00:42.000Z",
+    "url": "https://www.musicbusinessworldwide.com/primary-wave-strikes-deal-with-harry-chapin-estate-acquiring-singer-songwriters-catalog-name-image-likeness-rights/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-04-29T01:59:37.103Z"
+  },
+  {
+    "id": "news-1777427977102-3",
+    "title": "YouTube is testing an AI-powered search feature that shows guided answers",
+    "summary": "YouTube is rolling out the new AI search feature to Premium subscribers in the U.S. on an opt-in basis.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-04-28T13:54:06.000Z",
+    "url": "https://techcrunch.com/2026/04/28/youtube-is-testing-an-ai-powered-search-feature-that-shows-guided-answers/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-04-29T01:59:37.102Z"
+  },
+  {
+    "id": "news-1777427977102-4",
+    "title": "Red Hat’s OpenClaw maintainer just made enterprise Claw deployments a lot safer",
+    "summary": "Tank OS puts OpenClaw AI agents into a container that lets it run reliably and more safely, especially for those running fleets of them.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-04-28T13:00:00.000Z",
+    "url": "https://techcrunch.com/2026/04/28/red-hats-openclaw-maintainer-just-made-enterprise-claw-deployments-a-lot-safer/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-04-29T01:59:37.102Z"
+  },
+  {
+    "id": "news-1777427977103-29",
+    "title": "The Race Is on to Keep AI Agents From Running Wild With Your Credit Cards",
+    "summary": "AI agents may soon be buying your stuff for you. The FIDO Alliance has teamed up with Google and Mastercard to try to ensure that shopping in the near future isn't a complete disaster.",
+    "category": "tech-innovation",
+    "source": "Wired AI",
+    "author": "Unknown",
+    "publishedAt": "2026-04-28T13:00:00.000Z",
+    "url": "https://www.wired.com/story/the-race-is-on-to-keep-ai-agents-from-running-wild-with-your-credit-cards/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-04-29T01:59:37.103Z"
+  },
+  {
+    "id": "news-1777427977103-37",
+    "title": "Spotify subscriber base grew by 3m to 293m in Q1; company posted $837M operating profit for the quarter",
+    "summary": "Spotify's total Monthly Active Users hit 761 million in Q1 2026\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-04-28T11:22:06.000Z",
+    "url": "https://www.musicbusinessworldwide.com/spotify-subscriber-base-grew-by-3m-to-293m-in-q1-company-posted-837m-operating-profit-for-the-quarter/",
+    "imageUrl": null,
+    "tags": [
+      "Spotify"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-04-29T01:59:37.103Z"
   }
 ]
