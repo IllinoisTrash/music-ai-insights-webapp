@@ -1,51 +1,172 @@
 [
   {
-    "id": "news-1777686585439-42",
-    "title": "Leslie Grace Releases Her First Album in Over a Decade, ‘Amor, Quién Eres?’: ‘It Was Almost an Initiation for Me’",
-    "summary": "The bilingual project demonstrates the singer and actress' artistic and personal evolution. ",
+    "id": "news-1777773150408-44",
+    "title": "Gracie Abrams Announces New Song ‘Hit the Wall’",
+    "summary": "\"Hit the Wall\" will be Abrams' first new release post-The Secret of Us era.",
     "category": "industry-news",
     "source": "Billboard",
     "author": "Unknown",
-    "publishedAt": "2026-05-02T00:25:05.000Z",
-    "url": "https://www.billboard.com/music/latin/leslie-grace-talks-new-album-amor-quien-eres-1236237548/",
+    "publishedAt": "2026-05-03T00:53:14.000Z",
+    "url": "https://www.billboard.com/music/music-news/gracie-abrams-hit-the-wall-song-release-date-1236237728/",
     "imageUrl": null,
     "tags": [],
     "readTime": 1,
-    "fetchedAt": "2026-05-02T01:49:45.439Z"
+    "fetchedAt": "2026-05-03T01:52:30.408Z"
   },
   {
-    "id": "news-1777686585439-43",
-    "title": "Olivia Rodrigo Drops El Clásico Jersey Ahead of Intimate Barcelona Concert For Top Spotify Fans: ‘I Cannot Wait to See Them’",
-    "summary": "The pop star is the latest artist to partner with FC Barcelona and Spotify for a new version of the Blaugrana jersey ahead of the iconic match against Real Madrid.",
-    "category": "industry-news",
-    "source": "Billboard",
+    "id": "news-1777773150407-19",
+    "title": "Mistral AI Launches Remote Agents in Vibe and Mistral Medium 3.5 with 77.6% SWE-Bench Verified Score",
+    "summary": "Mistral AI's latest release brings async cloud-based coding sessions, a new 128B flagship model, and an agentic Work mode to Le Chat — a meaningful step forward for developers building with AI agents.\nThe post Mistral AI Launches Remote Agents in Vibe and Mistral Medium 3.5 with 77.6% SWE-Bench Verified Score appeared first on MarkTechPost.\n",
+    "category": "tech-innovation",
+    "source": "MarkTechPost",
     "author": "Unknown",
-    "publishedAt": "2026-05-02T00:05:33.000Z",
-    "url": "https://www.billboard.com/music/music-news/olivia-rodrigo-fc-barcelona-el-clasico-jersey-concert-1236237169/",
+    "publishedAt": "2026-05-03T00:38:20.000Z",
+    "url": "https://www.marktechpost.com/2026/05/02/mistral-ai-launches-remote-agents-in-vibe-and-mistral-medium-3-5-with-77-6-swe-bench-verified-score/",
     "imageUrl": null,
     "tags": [
-      "Spotify",
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-05-02T01:49:45.439Z"
+    "fetchedAt": "2026-05-03T01:52:30.407Z"
   },
   {
-    "id": "news-1777686585439-44",
-    "title": "In Canada: The Tragically Hip, Feist & More to Enter Canadian Songwriters Hall of Fame in 2026",
-    "summary": "Also up north this week: TALK signs with Big Loud Rock and the Canadian Musical Reproduction Rights Agency reveals its 2025 royalty distribution total.",
+    "id": "news-1777773150408-45",
+    "title": "Charli xcx Shares ‘Rock Music’ Song Teaser, Says She’s Not Making a Rock Album",
+    "summary": "\"I never said I was making a rock album,\" Charli clarifies -- contrary to reports assuming otherwise last month.",
     "category": "industry-news",
     "source": "Billboard",
     "author": "Unknown",
-    "publishedAt": "2026-05-01T23:37:41.000Z",
-    "url": "https://www.billboard.com/pro/tragically-hip-feist-songwriters-hall-of-fame-canada-news/",
+    "publishedAt": "2026-05-02T23:10:15.000Z",
+    "url": "https://www.billboard.com/music/music-news/charli-xcx-rock-music-song-not-album-1236237667/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-05-03T01:52:30.408Z"
+  },
+  {
+    "id": "news-1777773150407-20",
+    "title": "Build a Multi-Agent AI Workflow for Biological Network Modeling, Protein Interactions, Metabolism, and Cell Signaling Simulation",
+    "summary": "Build a Multi-Agent AI Workflow for Biological Network Modeling, Protein Interactions, Metabolism, and Cell Signaling Simulation\nThe post Build a Multi-Agent AI Workflow for Biological Network Modeling, Protein Interactions, Metabolism, and Cell Signaling Simulation appeared first on MarkTechPost.\n",
+    "category": "ai-research",
+    "source": "MarkTechPost",
+    "author": "Unknown",
+    "publishedAt": "2026-05-02T20:31:07.000Z",
+    "url": "https://www.marktechpost.com/2026/05/02/build-a-multi-agent-ai-workflow-for-biological-network-modeling-protein-interactions-metabolism-and-cell-signaling-simulation/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-05-03T01:52:30.407Z"
+  },
+  {
+    "id": "news-1777773150408-46",
+    "title": "Madonna & Anna Wintour Appear in ‘Confessions II’ Theatrical Promo Ahead of ‘Devil Wears Prada 2’",
+    "summary": "The pop icon's 15th studio album arrives on July 3.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-05-02T17:47:11.000Z",
+    "url": "https://www.billboard.com/culture/tv-film/madonna-anna-wintour-confessions-promo-devil-wears-prada-2-1236237633/",
     "imageUrl": null,
     "tags": [],
     "readTime": 1,
-    "fetchedAt": "2026-05-02T01:49:45.439Z"
+    "fetchedAt": "2026-05-03T01:52:30.408Z"
   },
   {
-    "id": "news-1777686585438-20",
+    "id": "news-1777773150408-47",
+    "title": "Every Song That Topped the UK Chart for 8 or More Weeks, But Didn’t Make the Top 10 on the Hot 100",
+    "summary": "\"Rein Me In” by Sam Fender and Olivia Dean is now in its ninth week at No. 1 in the U.K., but it’s been slower breaking through on the Hot 100. ",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-05-02T16:58:01.000Z",
+    "url": "https://www.billboard.com/lists/songs-that-were-big-uk-hits-but-not-in-the-u-s/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-05-03T01:52:30.408Z"
+  },
+  {
+    "id": "news-1777773150406-0",
+    "title": "The best AI dictation apps, tested and ranked",
+    "summary": "AI-powered dictation apps are useful for replying to emails, taking notes, and even coding through your voice",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-05-02T16:00:00.000Z",
+    "url": "https://techcrunch.com/2026/05/02/the-best-ai-powered-dictation-apps-of-2025/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-05-03T01:52:30.406Z"
+  },
+  {
+    "id": "news-1777773150408-48",
+    "title": "Olivia Rodrigo on ‘SNL’: How to Watch the Pop Star Host and Perform as Music Guest Live Online for Free",
+    "summary": "The singer-songwriter hosts and performs as musical guest on May 2.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-05-02T14:53:30.000Z",
+    "url": "https://www.billboard.com/culture/product-recommendations/olivia-rodrigo-saturday-night-live-watch-livestream-free-1236234206/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-05-03T01:52:30.408Z"
+  },
+  {
+    "id": "news-1777773150408-49",
+    "title": "‘Saturday Night Live UK’: Where to Watch the British Version of the Sketch Comedy Show Online",
+    "summary": "SNL UK has Aimee Lou Wood as host and MEEK as musical guest.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-05-02T13:00:16.000Z",
+    "url": "https://www.billboard.com/culture/product-recommendations/how-to-watch-saturday-night-live-uk-online-free-1236203547/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-05-03T01:52:30.408Z"
+  },
+  {
+    "id": "news-1777773150408-50",
+    "title": "Post Malone Delays Start of ‘Big Ass Stadium Tour’ With Jelly Roll to Finish New Album",
+    "summary": "\"I came to the realization that what we’re trying to do, and what’s possible, isn’t really lining up,” he wrote.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-05-02T07:17:24.000Z",
+    "url": "https://www.billboard.com/music/music-news/post-malone-delays-big-ass-stadium-tour-jelly-roll-1236237615/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-05-03T01:52:30.408Z"
+  },
+  {
+    "id": "news-1777773150407-21",
+    "title": "A New NVIDIA Research Shows Speculative Decoding in NeMo RL Achieves 1.8× Rollout Generation Speedup at 8B and Projects 2.5× End-to-End Speedup at 235B",
+    "summary": "A new paper from NVIDIA Research integrates speculative decoding directly into NeMo RL with a vLLM backend, delivering lossless rollout acceleration at both 8B and projected 235B model scales.\nThe post A New NVIDIA Research Shows Speculative Decoding in NeMo RL Achieves 1.8× Rollout Generation Speedup at 8B and Projects 2.5× End-to-End Speedup at 235B appeared first on MarkTechPost.\n",
+    "category": "ai-research",
+    "source": "MarkTechPost",
+    "author": "Unknown",
+    "publishedAt": "2026-05-02T03:47:47.000Z",
+    "url": "https://www.marktechpost.com/2026/05/01/a-new-nvidia-research-shows-speculative-decoding-in-nemo-rl-achieves-1-8x-rollout-generation-speedup-at-8b-and-projects-2-5x-end-to-end-speedup-at-235b/",
+    "imageUrl": null,
+    "tags": [
+      "Research"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-05-03T01:52:30.407Z"
+  },
+  {
+    "id": "news-1777773150407-22",
     "title": "A Coding Implementation of End-to-End Brain Decoding from MEG Signals Using NeuralSet and Deep Learning for Predicting Linguistic Features",
     "summary": "In this tutorial, we explore how we can decode linguistic features directly from brain signals using a modern neuroAI pipeline. We work with MEG data and build an end-to-end system that transforms raw neural activity into meaningful predictions, in this case, estimating word length from brain responses. We set up the environment, load and process […]\nThe post A Coding Implementation of End-to-End Brain Decoding from MEG Signals Using NeuralSet and Deep Learning for Predicting Linguistic Fe",
     "category": "ai-research",
@@ -58,10 +179,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-05-02T01:49:45.438Z"
+    "fetchedAt": "2026-05-03T01:52:30.407Z"
   },
   {
-    "id": "news-1777686585438-21",
+    "id": "news-1777773150407-23",
     "title": "Meta Introduces Autodata: An Agentic Framework That Turns AI Models into Autonomous Data Scientists for High-Quality Training Data Creation",
     "summary": "Meta Introduces Autodata: An Agentic Framework That Turns AI Models into Autonomous Data Scientists for High-Quality Training Data Creation\nThe post Meta Introduces Autodata: An Agentic Framework That Turns AI Models into Autonomous Data Scientists for High-Quality Training Data Creation appeared first on MarkTechPost.\n",
     "category": "ai-research",
@@ -74,10 +195,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-05-02T01:49:45.438Z"
+    "fetchedAt": "2026-05-03T01:52:30.407Z"
   },
   {
-    "id": "news-1777686585436-0",
+    "id": "news-1777773150406-1",
     "title": "Meta buys robotics startup to bolster its humanoid AI ambitions",
     "summary": "Meta bought humanoid startup Assured Robot Intelligence to beef up its AI models for robots, the company said.",
     "category": "ai-research",
@@ -91,38 +212,10 @@
       "Startup"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-05-02T01:49:45.437Z"
+    "fetchedAt": "2026-05-03T01:52:30.406Z"
   },
   {
-    "id": "news-1777686585439-45",
-    "title": "Dame Dash Says Ye Has A Better Catalog Than Jay-Z: ‘Kanye Destroys Jay’",
-    "summary": "Dash is credited with bringing Ye to Roc-A-Fella Records as a producer.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-05-01T22:00:03.000Z",
-    "url": "https://www.billboard.com/music/rb-hip-hop/dame-dash-kanye-west-jay-z-catalog-1236237450/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-05-02T01:49:45.439Z"
-  },
-  {
-    "id": "news-1777686585440-46",
-    "title": "Maverick City Music Co-Founder Barred from Releasing Competing Worship Songs During Legal Battle",
-    "summary": "A judge says Tony Brown cannot put out music from his new project God Aura until a $2 million lawsuit is decided. ",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-05-01T21:56:23.000Z",
-    "url": "https://www.billboard.com/pro/maverick-city-music-co-founder-release-new-music-lawsuit/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-05-02T01:49:45.440Z"
-  },
-  {
-    "id": "news-1777686585438-22",
+    "id": "news-1777773150407-24",
     "title": "A Coding Guide on LLM Post Training with TRL from Supervised Fine Tuning to DPO and GRPO Reasoning",
     "summary": "In this tutorial, we walk through a complete, hands-on journey of post-training large language models using the powerful TRL (Transformer Reinforcement Learning) library ecosystem. We start from a lightweight base model and progressively apply four key techniques: Supervised Fine-Tuning (SFT), Reward Modeling (RM), Direct Preference Optimization (DPO), and Group Relative Policy Optimization (GRPO). Also, we […]\nThe post A Coding Guide on LLM Post Training with TRL from Supervised Fine Tuni",
     "category": "ai-research",
@@ -135,10 +228,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-05-02T01:49:45.438Z"
+    "fetchedAt": "2026-05-03T01:52:30.407Z"
   },
   {
-    "id": "news-1777686585438-25",
+    "id": "news-1777773150407-27",
     "title": "A Dark-Money Campaign Is Paying Influencers to Frame Chinese AI as a Threat",
     "summary": "Build American AI, a nonprofit linked to a super PAC bankrolled by executives at OpenAI and Andreessen Horowitz, is funding a campaign to spread pro-AI messaging and stoke fears about China.",
     "category": "tech-innovation",
@@ -152,10 +245,10 @@
       "Investment"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-05-02T01:49:45.439Z"
+    "fetchedAt": "2026-05-03T01:52:30.407Z"
   },
   {
-    "id": "news-1777686585439-33",
+    "id": "news-1777773150408-35",
     "title": "From The Orchard acquiring Brazil’s OniMusic to the BMG-Concord merger… it’s MBW’s weekly round-up",
     "summary": "The biggest headlines from the past few days...\nSource",
     "category": "industry-news",
@@ -166,10 +259,10 @@
     "imageUrl": null,
     "tags": [],
     "readTime": 1,
-    "fetchedAt": "2026-05-02T01:49:45.439Z"
+    "fetchedAt": "2026-05-03T01:52:30.408Z"
   },
   {
-    "id": "news-1777686585439-34",
+    "id": "news-1777773150408-36",
     "title": "The Orchard acquires Brazil’s OniMusic, a prominent Christian music distribution platform",
     "summary": "OniMusic was founded in September 2004 by Nelson and Christie Tristão\nSource",
     "category": "industry-news",
@@ -180,10 +273,10 @@
     "imageUrl": null,
     "tags": [],
     "readTime": 1,
-    "fetchedAt": "2026-05-02T01:49:45.439Z"
+    "fetchedAt": "2026-05-03T01:52:30.408Z"
   },
   {
-    "id": "news-1777686585437-1",
+    "id": "news-1777773150406-2",
     "title": "Pentagon inks deals with Nvidia, Microsoft, and AWS to deploy AI on classified networks",
     "summary": "The deals come as the DOD has doubled down on diversifying its exposure to AI vendors in the wake of its controversial dispute with Anthropic over usage terms of its AI models.",
     "category": "ai-research",
@@ -196,10 +289,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-05-02T01:49:45.437Z"
+    "fetchedAt": "2026-05-03T01:52:30.406Z"
   },
   {
-    "id": "news-1777686585439-35",
+    "id": "news-1777773150408-37",
     "title": "‘Artists often fail when you give up too much responsibility to others.’",
     "summary": "MBW's Trailblazers series meets Alternate Side Management founders Evange Livanos and Zack Zarrillo\nSource",
     "category": "industry-news",
@@ -212,100 +305,6 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-05-02T01:49:45.439Z"
-  },
-  {
-    "id": "news-1777686585439-36",
-    "title": "‘We’re finally in a place where we can win and retain the artists and labels we’ve always wanted to work with.’",
-    "summary": "MBW's Inspiring Women series meets Kristin Graziani, President of Los Angeles-based music distribution platform Stem\nSource",
-    "category": "industry-news",
-    "source": "Music Business Worldwide",
-    "author": "Unknown",
-    "publishedAt": "2026-05-01T11:44:03.000Z",
-    "url": "https://www.musicbusinessworldwide.com/were-finally-in-a-place-where-we-can-win-and-retain-the-artists-and-labels-weve-always-wanted-to-work-with/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-05-02T01:49:45.439Z"
-  },
-  {
-    "id": "news-1777686585439-37",
-    "title": "Believe expands Label & Artist Solutions business into the US, led by Thomas Maxwell",
-    "summary": "Maxwell will split time between New York City, Nashville, and Los Angeles\nSource",
-    "category": "industry-news",
-    "source": "Music Business Worldwide",
-    "author": "Unknown",
-    "publishedAt": "2026-05-01T10:52:35.000Z",
-    "url": "https://www.musicbusinessworldwide.com/believe-expands-label-artist-solutions-business-into-the-us-led-by-thomas-maxwell/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-05-02T01:49:45.439Z"
-  },
-  {
-    "id": "news-1777686585438-23",
-    "title": "Qwen AI Releases Qwen-Scope: An Open-Source Sparse AutoEncoders (SAE) Suite That Turns LLM Internal Features into Practical Development Tools",
-    "summary": "Qwen Team Introduces Qwen-Scope: An Open-Source Sparse Autoencoder Suite That Turns LLM Internals into Practical Development Tools\nThe post Qwen AI Releases Qwen-Scope: An Open-Source Sparse AutoEncoders (SAE) Suite That Turns LLM Internal Features into Practical Development Tools appeared first on MarkTechPost.\n",
-    "category": "ai-research",
-    "source": "MarkTechPost",
-    "author": "Unknown",
-    "publishedAt": "2026-05-01T08:25:21.000Z",
-    "url": "https://www.marktechpost.com/2026/05/01/qwen-ai-releases-qwen-scope-an-open-source-sparse-autoencoders-sae-suite-that-turns-llm-internal-features-into-practical-development-tools/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-05-02T01:49:45.438Z"
-  },
-  {
-    "id": "news-1777686585438-24",
-    "title": "Moonshot AI Open-Sources FlashKDA: CUTLASS Kernels for Kimi Delta Attention with Variable-Length Batching and H20 Benchmarks",
-    "summary": "Moonshot AI releases FlashKDA, a high-performance implementation of Kimi Delta Attention that plugs directly into the flash-linear-attention ecosystem — and benchmarks show it's meaningfully faster.\nThe post Moonshot AI Open-Sources FlashKDA: CUTLASS Kernels for Kimi Delta Attention with Variable-Length Batching and H20 Benchmarks appeared first on MarkTechPost.\n",
-    "category": "tech-innovation",
-    "source": "MarkTechPost",
-    "author": "Unknown",
-    "publishedAt": "2026-05-01T01:16:07.000Z",
-    "url": "https://www.marktechpost.com/2026/04/30/moonshot-ai-open-sources-flashkda-cutlass-kernels-for-kimi-delta-attention-with-variable-length-batching-and-h20-benchmarks/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-05-02T01:49:45.438Z"
-  },
-  {
-    "id": "news-1777686585439-26",
-    "title": "How Shivon Zilis Operated as Elon Musk’s OpenAI Insider",
-    "summary": "Messages presented at trial reveal how Zilis, the mother of four of Musk’s children, acted as an intermediary between him and OpenAI.",
-    "category": "tech-innovation",
-    "source": "Wired AI",
-    "author": "Unknown",
-    "publishedAt": "2026-05-01T00:51:18.000Z",
-    "url": "https://www.wired.com/story/model-behavior-why-everything-in-musk-v-altman-leads-back-to-shivon-zelis/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-05-02T01:49:45.439Z"
-  },
-  {
-    "id": "news-1777686585437-2",
-    "title": "Sources: Anthropic potential $900B+ valuation round could happen within 2 weeks",
-    "summary": "Anthropic is asking investors to submit allocations for the AI company’s latest fundraise within the next 48 hours, according to sources familiar with the matter. ",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-04-30T23:07:56.000Z",
-    "url": "https://techcrunch.com/2026/04/30/anthropic-potential-900b-valuation-round-could-happen-within-two-weeks/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-05-02T01:49:45.437Z"
+    "fetchedAt": "2026-05-03T01:52:30.408Z"
   }
 ]
