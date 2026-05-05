@@ -1,6 +1,276 @@
 [
   {
-    "id": "news-1777859595157-20",
+    "id": "news-1777946033091-45",
+    "title": "Met Gala 2026: The 10 Best Musician Looks on the Red Carpet",
+    "summary": "This year's dress code was \"Fashion Is Art.\"",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-05-05T01:43:53.000Z",
+    "url": "https://www.billboard.com/photos/met-gala-2026-best-musician-photos-1236238894/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-05-05T01:53:53.091Z"
+  },
+  {
+    "id": "news-1777946033091-46",
+    "title": "Billboard’s Music Industry Events Calendar",
+    "summary": "A complete rundown of the most important events across the music business.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-05-04T23:58:00.000Z",
+    "url": "https://www.billboard.com/pro/music-industry-events-calendar-festivals-awards-conferences/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-05-05T01:53:53.092Z"
+  },
+  {
+    "id": "news-1777946033092-47",
+    "title": "Janelle Monáe’s Stunning Met Gala 2026 Look Combines Nature & Tech in Custom Christian Siriano",
+    "summary": "The multi-hyphenate artist's look includes live moss and more than 200 electrical wires.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-05-04T23:40:04.000Z",
+    "url": "https://www.billboard.com/music/music-news/janelle-monae-met-gala-2026-look-christian-siriano-gown-1236238762/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-05-05T01:53:53.092Z"
+  },
+  {
+    "id": "news-1777946033091-26",
+    "title": "Greg Brockman Defends $30B OpenAI Stake: ‘Blood, Sweat, and Tears’",
+    "summary": "OpenAI’s cofounder and president revealed in federal court on Monday that he’s one of the largest individual stakeholders in the AI lab.",
+    "category": "tech-innovation",
+    "source": "Wired AI",
+    "author": "Unknown",
+    "publishedAt": "2026-05-04T23:19:52.000Z",
+    "url": "https://www.wired.com/story/greg-brockman-testifies-musk-v-altman-trial/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-05-05T01:53:53.091Z"
+  },
+  {
+    "id": "news-1777946033092-48",
+    "title": "The Rolling Stones ‘Paint It, Black’ Owner Settles With Paint Company Over Instagram Ad",
+    "summary": "ABKCO Music & Records claimed Behr Paint didn't pay to use the 1966 chart-topper in a commercial social media post. ",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-05-04T23:08:29.000Z",
+    "url": "https://www.billboard.com/pro/rolling-stones-paint-it-black-settles-instagram-lawsuit/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-05-05T01:53:53.092Z"
+  },
+  {
+    "id": "news-1777946033091-20",
+    "title": "How to Build an End-to-End Production Grade Machine Learning Pipeline with ZenML, Including Custom Materializers, Metadata Tracking, and Hyperparameter Optimization",
+    "summary": "In this tutorial, we walk through an end-to-end implementation of an advanced machine learning pipeline using ZenML. We begin by setting up the environment and initializing a ZenML project, then define a custom materializer that enables seamless serialization and metadata extraction for a domain-specific dataset object. As we progress, we build a modular pipeline that […]\nThe post How to Build an End-to-End Production Grade Machine Learning Pipeline with ZenML, Including Custom Materialize",
+    "category": "ai-research",
+    "source": "MarkTechPost",
+    "author": "Unknown",
+    "publishedAt": "2026-05-04T22:11:37.000Z",
+    "url": "https://www.marktechpost.com/2026/05/04/how-to-build-an-end-to-end-production-grade-machine-learning-pipeline-with-zenml-including-custom-materializers-metadata-tracking-and-hyperparameter-optimization/",
+    "imageUrl": null,
+    "tags": [
+      "AI",
+      "Machine Learning"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-05-05T01:53:53.091Z"
+  },
+  {
+    "id": "news-1777946033089-0",
+    "title": "OpenAI’s cozy partner Cerebras is on track for a blockbuster IPO",
+    "summary": "AI chip maker Cerebras is heading for a blockbuster IPO that could value it at $26.6 billion or more. Its relationship with OpenAI is deep and rich.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-05-04T21:53:21.000Z",
+    "url": "https://techcrunch.com/2026/05/04/openais-cozy-partner-cerebras-is-on-track-for-a-blockbuster-ipo/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-05-05T01:53:53.090Z"
+  },
+  {
+    "id": "news-1777946033090-1",
+    "title": "Image AI models now drive app growth, beating chatbot upgrades",
+    "summary": "Appfigures finds visual model launches generate 6.5x more downloads — but most don’t convert that spike into revenue.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-05-04T19:12:49.000Z",
+    "url": "https://techcrunch.com/2026/05/04/image-ai-models-now-drive-app-growth-beating-chatbot-upgrades/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-05-05T01:53:53.090Z"
+  },
+  {
+    "id": "news-1777946033091-21",
+    "title": "Top Search and Fetch APIs for Building AI Agents in 2026: Tools, Tradeoffs, and Free Tiers",
+    "summary": "Discover the top search and fetch APIs for AI agents in 2026. Compare tools like TinyFish, Tavily, and Firecrawl based on latency, token efficiency, and free tiers to optimize your agent's web retrieval.\nThe post Top Search and Fetch APIs for Building AI Agents in 2026: Tools, Tradeoffs, and Free Tiers appeared first on MarkTechPost.\n",
+    "category": "ai-research",
+    "source": "MarkTechPost",
+    "author": "Unknown",
+    "publishedAt": "2026-05-04T17:55:35.000Z",
+    "url": "https://www.marktechpost.com/2026/05/04/top-search-and-fetch-apis-for-building-ai-agents-in-2026-tools-tradeoffs-and-free-tiers/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-05-05T01:53:53.091Z"
+  },
+  {
+    "id": "news-1777946033090-2",
+    "title": "Elon Musk’s only AI expert witness at the OpenAI trial fears an AGI arms race",
+    "summary": "Stuart Russell is a long-time AI researcher who thinks governments need to restrain frontier labs. ",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-05-04T16:57:47.000Z",
+    "url": "https://techcrunch.com/2026/05/04/elon-musks-only-expert-witness-at-the-openai-trial-fears-an-agi-arms-race/",
+    "imageUrl": null,
+    "tags": [
+      "AI",
+      "Research"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-05-05T01:53:53.090Z"
+  },
+  {
+    "id": "news-1777946033091-35",
+    "title": "Udio admits to scraping YouTube audio for AI training in answer to Sony Music lawsuit",
+    "summary": "Udio admitted that its models were trained with “a vast amount of different kinds of sound recordings” gathered from publicly available sources.\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-05-04T16:47:16.000Z",
+    "url": "https://www.musicbusinessworldwide.com/udio-admits-to-scraping-youtube-audio-for-ai-training-in-answer-to-sony-music-lawsuit/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-05-05T01:53:53.091Z"
+  },
+  {
+    "id": "news-1777946033090-3",
+    "title": "Sierra raises $950M as the race to own enterprise AI gets serious",
+    "summary": "The raise gives Sierra more than $1 billion to work with — capital the company says it will use to become the \"global standard\" for AI-powered customer experiences.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-05-04T16:45:55.000Z",
+    "url": "https://techcrunch.com/2026/05/04/sierra-raises-950m-as-the-race-to-own-enterprise-ai-gets-serious/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-05-05T01:53:53.090Z"
+  },
+  {
+    "id": "news-1777946033090-4",
+    "title": "Elon Musk sent ominous texts to Greg Brockman, Sam Altman after asking for a settlement, OpenAI claims",
+    "summary": "Musk texted OpenAI's president and co-founder saying that he and CEO Sam Altman \"will be the most hated men in America\" if OpenAI doesn't settle the suit.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-05-04T16:36:03.000Z",
+    "url": "https://techcrunch.com/2026/05/04/elon-musk-sent-ominous-texts-to-greg-brockman-sam-altman-after-asking-for-a-settlement-openai-claims/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-05-05T01:53:53.090Z"
+  },
+  {
+    "id": "news-1777946033090-5",
+    "title": "Anthropic and OpenAI are both launching joint ventures for enterprise AI services",
+    "summary": "Both Anthropic and OpenAI have partnered with asset managers to more aggressively market their enterprise AI products.",
+    "category": "tech-innovation",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-05-04T15:59:24.000Z",
+    "url": "https://techcrunch.com/2026/05/04/anthropic-and-openai-are-both-launching-joint-ventures-for-enterprise-ai-services/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-05-05T01:53:53.090Z"
+  },
+  {
+    "id": "news-1777946033091-36",
+    "title": "Spotify wins motion for arbitration in ‘payola’ lawsuit",
+    "summary": "A Spotify subscriber sued the company in November, claiming it deceives users by letting labels boost song visibility through reduced royalty payments.\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-05-04T14:55:31.000Z",
+    "url": "https://www.musicbusinessworldwide.com/spotify-wins-motion-for-arbitration-in-payola-lawsuit/",
+    "imageUrl": null,
+    "tags": [
+      "Spotify",
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-05-05T01:53:53.091Z"
+  },
+  {
+    "id": "news-1777946033091-37",
+    "title": "YouTube creators hit by music copyright claims can now replace tracks with AI – at the touch of a button",
+    "summary": "The update, announced via YouTube's Creator Insider channel on Friday (May 1), adds a new \"Create\" button to the existing \"Replace Song\" tool in YouTube Studio on desktop.\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-05-04T14:51:04.000Z",
+    "url": "https://www.musicbusinessworldwide.com/youtube-creators-hit-by-music-copyright-claims-can-now-replace-tracks-with-ai-at-the-touch-of-a-button/",
+    "imageUrl": null,
+    "tags": [
+      "AI",
+      "Copyright"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-05-05T01:53:53.091Z"
+  },
+  {
+    "id": "news-1777946033090-6",
+    "title": "DoorDash adds AI tools to speed up merchant onboarding, edit photos of dishes",
+    "summary": "DoorDash on Monday added new AI-powered tools that let merchants speed up onboarding, edit photos to make dishes look better, and create new websites from existing content.",
+    "category": "tech-innovation",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-05-04T13:00:00.000Z",
+    "url": "https://techcrunch.com/2026/05/04/doordash-adds-ai-tools-to-speed-up-merchant-onboarding-edit-photos-of-dishes/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-05-05T01:53:53.090Z"
+  },
+  {
+    "id": "news-1777946033091-22",
     "title": "A Developer’s Guide to Systematic Prompting: Mastering Negative Constraints, Structured JSON Outputs, and Multi-Hypothesis Verbalized Sampling",
     "summary": "Most developers treat prompting as an afterthought—write something reasonable, observe the output, and iterate if needed. That approach works until reliability becomes critical. As LLMs move into production systems, the difference between a prompt that usually works and one that works consistently becomes an engineering concern. In response, the research community has formalized prompting into […]\nThe post A Developer’s Guide to Systematic Prompting: Mastering Negative Constraints, Structu",
     "category": "ai-research",
@@ -14,10 +284,10 @@
       "Research"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-05-04T01:53:15.157Z"
+    "fetchedAt": "2026-05-05T01:53:53.091Z"
   },
   {
-    "id": "news-1777859595155-0",
+    "id": "news-1777946033090-7",
     "title": "‘This is fine’ creator says AI startup stole his art",
     "summary": "The ad comes from Artisan, the AI startup behind billboards urging businesses to \"stop hiring humans.\"",
     "category": "industry-news",
@@ -31,38 +301,10 @@
       "Startup"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-05-04T01:53:15.156Z"
+    "fetchedAt": "2026-05-05T01:53:53.090Z"
   },
   {
-    "id": "news-1777859595159-45",
-    "title": "Michael Jackson Film Moves Up Our List of Highest-Grossing Music Biopics Worldwide: See Where It Ranks",
-    "summary": "The films on this list cover a wide range of genres, including rap, classical, country, Latin and contemporary Christian.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-05-03T19:38:47.000Z",
-    "url": "https://www.billboard.com/lists/top-grossing-music-biopics-movies/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-05-04T01:53:15.159Z"
-  },
-  {
-    "id": "news-1777859595159-46",
-    "title": "Noah Kahan Earns First No. 1 Album on Billboard 200 With ‘The Great Divide’",
-    "summary": "Plus: Kehlani’s self-titled set debuts in the top five, while Michael Jackson’s Thriller returns to the top 10.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-05-03T19:00:01.000Z",
-    "url": "https://www.billboard.com/music/chart-beat/noah-kahan-the-great-divide-number-one-billboard-200-chart-1236237889/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-05-04T01:53:15.159Z"
-  },
-  {
-    "id": "news-1777859595158-35",
+    "id": "news-1777946033091-38",
     "title": "Amy Allen, Sony Music Publishing ,’Die With a Smile’ among big winners at 2026 ASCAP Pop Music Awards",
     "summary": "\"We are honored to be named ASCAP's Pop Publisher of the Year,\" said Katie Welle, Sony Music Publishing President, Head of A&R.\nSource",
     "category": "industry-news",
@@ -75,240 +317,6 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-05-04T01:53:15.158Z"
-  },
-  {
-    "id": "news-1777859595158-36",
-    "title": "Warner Music Group named to TIME’s list of 100 Most Influential Companies for its approach to AI",
-    "summary": "Robert Kyncl told the magazine: \"AI is a fast-growing phenomenon. It's really important that companies like us stand up for artists and songwriters — do it early, and do it together with AI companies.\"\nSource",
-    "category": "industry-news",
-    "source": "Music Business Worldwide",
-    "author": "Unknown",
-    "publishedAt": "2026-05-03T18:52:20.000Z",
-    "url": "https://www.musicbusinessworldwide.com/warner-music-group-named-to-times-list-of-100-most-influential-companies-for-its-approach-to-ai/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-05-04T01:53:15.158Z"
-  },
-  {
-    "id": "news-1777859595158-37",
-    "title": "Suno is now the ‘controller’ of Songkick user data – and is hiring a GM to wire it into its AI music platform",
-    "summary": "Emails sent to Songkick users on Thursday (April 30) confirmed that personal data held by the platform \"will be transferred to Suno, who will become the controller responsible for that data going forward.\"\nSource",
-    "category": "industry-news",
-    "source": "Music Business Worldwide",
-    "author": "Unknown",
-    "publishedAt": "2026-05-03T18:25:12.000Z",
-    "url": "https://www.musicbusinessworldwide.com/suno-is-now-the-controller-of-songkick-user-data-and-is-hiring-a-gm-to-wire-it-into-its-ai-music-platform/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-05-04T01:53:15.158Z"
-  },
-  {
-    "id": "news-1777859595159-47",
-    "title": "Olivia Rodrigo Jokes About Jake Paul, Performs ‘Drivers License’ Parody in ‘SNL’ Monologue: Watch",
-    "summary": "The pop star pulled double duty as host and musical guest on May 2.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-05-03T18:13:17.000Z",
-    "url": "https://www.billboard.com/music/music-news/olivia-rodrigo-snl-monologue-jake-paul-drivers-license-1236237905/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-05-04T01:53:15.159Z"
-  },
-  {
-    "id": "news-1777859595156-1",
-    "title": "In Harvard study, AI offered more accurate emergency room diagnoses than two human doctors",
-    "summary": "A new study examines how large language models perform in a variety of medical contexts, including real emergency room cases — where at least one model seemed to be more accurate than human doctors.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-05-03T18:00:09.000Z",
-    "url": "https://techcrunch.com/2026/05/03/in-harvard-study-ai-offered-more-accurate-diagnoses-than-emergency-room-doctors/",
-    "imageUrl": null,
-    "tags": [
-      "AI",
-      "Research"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-05-04T01:53:15.156Z"
-  },
-  {
-    "id": "news-1777859595159-48",
-    "title": "Connor Storrie Makes Surprise ‘SNL’ Cameo to Introduce Olivia Rodrigo’s New Song: Watch",
-    "summary": "The Heated Rivalry star hosted the comedy show earlier in the year.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-05-03T17:27:06.000Z",
-    "url": "https://www.billboard.com/music/music-news/connor-storrie-snl-olivia-rodrigo-new-song-begged-1236237883/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-05-04T01:53:15.159Z"
-  },
-  {
-    "id": "news-1777859595159-49",
-    "title": "‘This Is Very Different From the Sphere’: Eagles’ Full Setlist for 2026 New Orleans Jazz Fest",
-    "summary": "The country rock vets played to a sold-out & sunshiny festival crowd as they returned to the fest for the first time since 2012.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-05-03T16:57:27.000Z",
-    "url": "https://www.billboard.com/lists/eagles-jazz-fest-2026-setlist-recap-new-orleans/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-05-04T01:53:15.159Z"
-  },
-  {
-    "id": "news-1777859595159-50",
-    "title": "Shakira’s ‘Wolfpack’ Takes Over Copacabana Ahead of Free Rio Concert",
-    "summary": "Fans held a vigil at the hotel, donned costumes, and boosted local street trade.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-05-03T16:37:15.000Z",
-    "url": "https://www.billboard.com/music/latin/shakira-copacabana-beach-rio-concert-wolfpack-takes-over-1236237833/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-05-04T01:53:15.159Z"
-  },
-  {
-    "id": "news-1777859595158-21",
-    "title": "Sakana AI Introduces KAME: A Tandem Speech-to-Speech Architecture That Injects LLM Knowledge in Real Time",
-    "summary": "Sakana AI Introduces KAME: A Tandem Architecture That Injects Real-Time LLM Knowledge Into Speech-to-Speech Conversational AI Without Adding Latency\nThe post Sakana AI Introduces KAME: A Tandem Speech-to-Speech Architecture That Injects LLM Knowledge in Real Time appeared first on MarkTechPost.\n",
-    "category": "ai-research",
-    "source": "MarkTechPost",
-    "author": "Unknown",
-    "publishedAt": "2026-05-03T07:47:42.000Z",
-    "url": "https://www.marktechpost.com/2026/05/03/sakana-ai-introduces-kame-a-tandem-speech-to-speech-architecture-that-injects-llm-knowledge-in-real-time/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-05-04T01:53:15.158Z"
-  },
-  {
-    "id": "news-1777859595158-22",
-    "title": "Mistral AI Launches Remote Agents in Vibe and Mistral Medium 3.5 with 77.6% SWE-Bench Verified Score",
-    "summary": "Mistral AI's latest release brings async cloud-based coding sessions, a new 128B flagship model, and an agentic Work mode to Le Chat — a meaningful step forward for developers building with AI agents.\nThe post Mistral AI Launches Remote Agents in Vibe and Mistral Medium 3.5 with 77.6% SWE-Bench Verified Score appeared first on MarkTechPost.\n",
-    "category": "tech-innovation",
-    "source": "MarkTechPost",
-    "author": "Unknown",
-    "publishedAt": "2026-05-03T00:38:20.000Z",
-    "url": "https://www.marktechpost.com/2026/05/02/mistral-ai-launches-remote-agents-in-vibe-and-mistral-medium-3-5-with-77-6-swe-bench-verified-score/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-05-04T01:53:15.158Z"
-  },
-  {
-    "id": "news-1777859595158-23",
-    "title": "Build a Multi-Agent AI Workflow for Biological Network Modeling, Protein Interactions, Metabolism, and Cell Signaling Simulation",
-    "summary": "Build a Multi-Agent AI Workflow for Biological Network Modeling, Protein Interactions, Metabolism, and Cell Signaling Simulation\nThe post Build a Multi-Agent AI Workflow for Biological Network Modeling, Protein Interactions, Metabolism, and Cell Signaling Simulation appeared first on MarkTechPost.\n",
-    "category": "ai-research",
-    "source": "MarkTechPost",
-    "author": "Unknown",
-    "publishedAt": "2026-05-02T20:31:07.000Z",
-    "url": "https://www.marktechpost.com/2026/05/02/build-a-multi-agent-ai-workflow-for-biological-network-modeling-protein-interactions-metabolism-and-cell-signaling-simulation/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-05-04T01:53:15.158Z"
-  },
-  {
-    "id": "news-1777859595156-2",
-    "title": "The best AI dictation apps, tested and ranked",
-    "summary": "AI-powered dictation apps are useful for replying to emails, taking notes, and even coding through your voice",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-05-02T16:00:00.000Z",
-    "url": "https://techcrunch.com/2026/05/02/the-best-ai-powered-dictation-apps-of-2025/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-05-04T01:53:15.156Z"
-  },
-  {
-    "id": "news-1777859595158-24",
-    "title": "A New NVIDIA Research Shows Speculative Decoding in NeMo RL Achieves 1.8× Rollout Generation Speedup at 8B and Projects 2.5× End-to-End Speedup at 235B",
-    "summary": "A new paper from NVIDIA Research integrates speculative decoding directly into NeMo RL with a vLLM backend, delivering lossless rollout acceleration at both 8B and projected 235B model scales.\nThe post A New NVIDIA Research Shows Speculative Decoding in NeMo RL Achieves 1.8× Rollout Generation Speedup at 8B and Projects 2.5× End-to-End Speedup at 235B appeared first on MarkTechPost.\n",
-    "category": "ai-research",
-    "source": "MarkTechPost",
-    "author": "Unknown",
-    "publishedAt": "2026-05-02T03:47:47.000Z",
-    "url": "https://www.marktechpost.com/2026/05/01/a-new-nvidia-research-shows-speculative-decoding-in-nemo-rl-achieves-1-8x-rollout-generation-speedup-at-8b-and-projects-2-5x-end-to-end-speedup-at-235b/",
-    "imageUrl": null,
-    "tags": [
-      "Research"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-05-04T01:53:15.158Z"
-  },
-  {
-    "id": "news-1777859595158-25",
-    "title": "A Coding Implementation of End-to-End Brain Decoding from MEG Signals Using NeuralSet and Deep Learning for Predicting Linguistic Features",
-    "summary": "In this tutorial, we explore how we can decode linguistic features directly from brain signals using a modern neuroAI pipeline. We work with MEG data and build an end-to-end system that transforms raw neural activity into meaningful predictions, in this case, estimating word length from brain responses. We set up the environment, load and process […]\nThe post A Coding Implementation of End-to-End Brain Decoding from MEG Signals Using NeuralSet and Deep Learning for Predicting Linguistic Fe",
-    "category": "ai-research",
-    "source": "MarkTechPost",
-    "author": "Unknown",
-    "publishedAt": "2026-05-01T23:09:48.000Z",
-    "url": "https://www.marktechpost.com/2026/05/01/a-coding-implementation-of-end-to-end-brain-decoding-from-meg-signals-using-neuralset-and-deep-learning-for-predicting-linguistic-features/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-05-04T01:53:15.158Z"
-  },
-  {
-    "id": "news-1777859595158-26",
-    "title": "Meta Introduces Autodata: An Agentic Framework That Turns AI Models into Autonomous Data Scientists for High-Quality Training Data Creation",
-    "summary": "Meta Introduces Autodata: An Agentic Framework That Turns AI Models into Autonomous Data Scientists for High-Quality Training Data Creation\nThe post Meta Introduces Autodata: An Agentic Framework That Turns AI Models into Autonomous Data Scientists for High-Quality Training Data Creation appeared first on MarkTechPost.\n",
-    "category": "ai-research",
-    "source": "MarkTechPost",
-    "author": "Unknown",
-    "publishedAt": "2026-05-01T22:24:02.000Z",
-    "url": "https://www.marktechpost.com/2026/05/01/meta-introduces-autodata-an-agentic-framework-that-turns-ai-models-into-autonomous-data-scientists-for-high-quality-training-data-creation/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-05-04T01:53:15.158Z"
-  },
-  {
-    "id": "news-1777859595156-3",
-    "title": "Meta buys robotics startup to bolster its humanoid AI ambitions",
-    "summary": "Meta bought humanoid startup Assured Robot Intelligence to beef up its AI models for robots, the company said.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-05-01T22:13:27.000Z",
-    "url": "https://techcrunch.com/2026/05/01/meta-buys-robotics-startup-to-bolster-its-humanoid-ai-ambitions/",
-    "imageUrl": null,
-    "tags": [
-      "AI",
-      "Startup"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-05-04T01:53:15.156Z"
+    "fetchedAt": "2026-05-05T01:53:53.091Z"
   }
 ]
