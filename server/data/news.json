@@ -1,322 +1,314 @@
 [
   {
-    "id": "news-1777946033091-45",
-    "title": "Met Gala 2026: The 10 Best Musician Looks on the Red Carpet",
-    "summary": "This year's dress code was \"Fashion Is Art.\"",
+    "id": "news-1778032353912-39",
+    "title": "Salt-N-Pepa’s Music Ownership Appeal Has a ‘Foundational Deficiency,’ UMG Argues",
+    "summary": "The world's largest music company says an appellate court should reject the rappers' legal challenge.",
     "category": "industry-news",
     "source": "Billboard",
     "author": "Unknown",
-    "publishedAt": "2026-05-05T01:43:53.000Z",
-    "url": "https://www.billboard.com/photos/met-gala-2026-best-musician-photos-1236238894/",
+    "publishedAt": "2026-05-06T00:59:41.000Z",
+    "url": "https://www.billboard.com/pro/salt-n-pepa-music-ownership-lawsuit-umg-appeal-rejected/",
     "imageUrl": null,
     "tags": [],
     "readTime": 1,
-    "fetchedAt": "2026-05-05T01:53:53.091Z"
+    "fetchedAt": "2026-05-06T01:52:33.912Z"
   },
   {
-    "id": "news-1777946033091-46",
-    "title": "Billboard’s Music Industry Events Calendar",
-    "summary": "A complete rundown of the most important events across the music business.",
+    "id": "news-1778032353912-40",
+    "title": "5 Things to Know About Avery Anna, the 2026 ACM Winner for New Female Artist of the Year",
+    "summary": "The host of this year's ACM Awards, and the four artists with the most nominations, are all past winners in this category.",
     "category": "industry-news",
     "source": "Billboard",
     "author": "Unknown",
-    "publishedAt": "2026-05-04T23:58:00.000Z",
-    "url": "https://www.billboard.com/pro/music-industry-events-calendar-festivals-awards-conferences/",
+    "publishedAt": "2026-05-06T00:19:29.000Z",
+    "url": "https://www.billboard.com/lists/avery-anna-2026-acm-winner-new-female-artist-fun-facts/",
     "imageUrl": null,
     "tags": [],
     "readTime": 1,
-    "fetchedAt": "2026-05-05T01:53:53.092Z"
+    "fetchedAt": "2026-05-06T01:52:33.912Z"
   },
   {
-    "id": "news-1777946033092-47",
-    "title": "Janelle Monáe’s Stunning Met Gala 2026 Look Combines Nature & Tech in Custom Christian Siriano",
-    "summary": "The multi-hyphenate artist's look includes live moss and more than 200 electrical wires.",
+    "id": "news-1778032353912-41",
+    "title": "6 Things to Know About Tucker Wetmore, the 2026 ACM Winner for New Male Artist of the Year",
+    "summary": "The rising country star opened for Thomas Rhett in concert last summer. On April 30, Rhett returned the favor.",
     "category": "industry-news",
     "source": "Billboard",
     "author": "Unknown",
-    "publishedAt": "2026-05-04T23:40:04.000Z",
-    "url": "https://www.billboard.com/music/music-news/janelle-monae-met-gala-2026-look-christian-siriano-gown-1236238762/",
+    "publishedAt": "2026-05-06T00:05:56.000Z",
+    "url": "https://www.billboard.com/lists/tucker-wetmore-2026-acm-winner-new-male-artist-fun-facts/",
     "imageUrl": null,
     "tags": [],
     "readTime": 1,
-    "fetchedAt": "2026-05-05T01:53:53.092Z"
+    "fetchedAt": "2026-05-06T01:52:33.912Z"
   },
   {
-    "id": "news-1777946033091-26",
-    "title": "Greg Brockman Defends $30B OpenAI Stake: ‘Blood, Sweat, and Tears’",
-    "summary": "OpenAI’s cofounder and president revealed in federal court on Monday that he’s one of the largest individual stakeholders in the AI lab.",
-    "category": "tech-innovation",
-    "source": "Wired AI",
-    "author": "Unknown",
-    "publishedAt": "2026-05-04T23:19:52.000Z",
-    "url": "https://www.wired.com/story/greg-brockman-testifies-musk-v-altman-trial/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-05-05T01:53:53.091Z"
-  },
-  {
-    "id": "news-1777946033092-48",
-    "title": "The Rolling Stones ‘Paint It, Black’ Owner Settles With Paint Company Over Instagram Ad",
-    "summary": "ABKCO Music & Records claimed Behr Paint didn't pay to use the 1966 chart-topper in a commercial social media post. ",
+    "id": "news-1778032353912-42",
+    "title": "Romeo Santos, Daddy Yankee, Keityn & More Win Big at 2026 ASCAP Latin Music Awards",
+    "summary": "Plus, DY extends his reign as the most decorated Latin ASCAP songwriter in history, adding his 63rd and 64th awards.",
     "category": "industry-news",
     "source": "Billboard",
     "author": "Unknown",
-    "publishedAt": "2026-05-04T23:08:29.000Z",
-    "url": "https://www.billboard.com/pro/rolling-stones-paint-it-black-settles-instagram-lawsuit/",
+    "publishedAt": "2026-05-06T00:00:00.000Z",
+    "url": "https://www.billboard.com/music/awards/2026-ascap-latin-music-awards-winners-1236239693/",
     "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
+    "tags": [],
     "readTime": 1,
-    "fetchedAt": "2026-05-05T01:53:53.092Z"
+    "fetchedAt": "2026-05-06T01:52:33.912Z"
   },
   {
-    "id": "news-1777946033091-20",
-    "title": "How to Build an End-to-End Production Grade Machine Learning Pipeline with ZenML, Including Custom Materializers, Metadata Tracking, and Hyperparameter Optimization",
-    "summary": "In this tutorial, we walk through an end-to-end implementation of an advanced machine learning pipeline using ZenML. We begin by setting up the environment and initializing a ZenML project, then define a custom materializer that enables seamless serialization and metadata extraction for a domain-specific dataset object. As we progress, we build a modular pipeline that […]\nThe post How to Build an End-to-End Production Grade Machine Learning Pipeline with ZenML, Including Custom Materialize",
-    "category": "ai-research",
-    "source": "MarkTechPost",
-    "author": "Unknown",
-    "publishedAt": "2026-05-04T22:11:37.000Z",
-    "url": "https://www.marktechpost.com/2026/05/04/how-to-build-an-end-to-end-production-grade-machine-learning-pipeline-with-zenml-including-custom-materializers-metadata-tracking-and-hyperparameter-optimization/",
-    "imageUrl": null,
-    "tags": [
-      "AI",
-      "Machine Learning"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-05-05T01:53:53.091Z"
-  },
-  {
-    "id": "news-1777946033089-0",
-    "title": "OpenAI’s cozy partner Cerebras is on track for a blockbuster IPO",
-    "summary": "AI chip maker Cerebras is heading for a blockbuster IPO that could value it at $26.6 billion or more. Its relationship with OpenAI is deep and rich.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-05-04T21:53:21.000Z",
-    "url": "https://techcrunch.com/2026/05/04/openais-cozy-partner-cerebras-is-on-track-for-a-blockbuster-ipo/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-05-05T01:53:53.090Z"
-  },
-  {
-    "id": "news-1777946033090-1",
-    "title": "Image AI models now drive app growth, beating chatbot upgrades",
-    "summary": "Appfigures finds visual model launches generate 6.5x more downloads — but most don’t convert that spike into revenue.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-05-04T19:12:49.000Z",
-    "url": "https://techcrunch.com/2026/05/04/image-ai-models-now-drive-app-growth-beating-chatbot-upgrades/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-05-05T01:53:53.090Z"
-  },
-  {
-    "id": "news-1777946033091-21",
-    "title": "Top Search and Fetch APIs for Building AI Agents in 2026: Tools, Tradeoffs, and Free Tiers",
-    "summary": "Discover the top search and fetch APIs for AI agents in 2026. Compare tools like TinyFish, Tavily, and Firecrawl based on latency, token efficiency, and free tiers to optimize your agent's web retrieval.\nThe post Top Search and Fetch APIs for Building AI Agents in 2026: Tools, Tradeoffs, and Free Tiers appeared first on MarkTechPost.\n",
-    "category": "ai-research",
-    "source": "MarkTechPost",
-    "author": "Unknown",
-    "publishedAt": "2026-05-04T17:55:35.000Z",
-    "url": "https://www.marktechpost.com/2026/05/04/top-search-and-fetch-apis-for-building-ai-agents-in-2026-tools-tradeoffs-and-free-tiers/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-05-05T01:53:53.091Z"
-  },
-  {
-    "id": "news-1777946033090-2",
-    "title": "Elon Musk’s only AI expert witness at the OpenAI trial fears an AGI arms race",
-    "summary": "Stuart Russell is a long-time AI researcher who thinks governments need to restrain frontier labs. ",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-05-04T16:57:47.000Z",
-    "url": "https://techcrunch.com/2026/05/04/elon-musks-only-expert-witness-at-the-openai-trial-fears-an-agi-arms-race/",
-    "imageUrl": null,
-    "tags": [
-      "AI",
-      "Research"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-05-05T01:53:53.090Z"
-  },
-  {
-    "id": "news-1777946033091-35",
-    "title": "Udio admits to scraping YouTube audio for AI training in answer to Sony Music lawsuit",
-    "summary": "Udio admitted that its models were trained with “a vast amount of different kinds of sound recordings” gathered from publicly available sources.\nSource",
-    "category": "industry-news",
-    "source": "Music Business Worldwide",
-    "author": "Unknown",
-    "publishedAt": "2026-05-04T16:47:16.000Z",
-    "url": "https://www.musicbusinessworldwide.com/udio-admits-to-scraping-youtube-audio-for-ai-training-in-answer-to-sony-music-lawsuit/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-05-05T01:53:53.091Z"
-  },
-  {
-    "id": "news-1777946033090-3",
-    "title": "Sierra raises $950M as the race to own enterprise AI gets serious",
-    "summary": "The raise gives Sierra more than $1 billion to work with — capital the company says it will use to become the \"global standard\" for AI-powered customer experiences.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-05-04T16:45:55.000Z",
-    "url": "https://techcrunch.com/2026/05/04/sierra-raises-950m-as-the-race-to-own-enterprise-ai-gets-serious/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-05-05T01:53:53.090Z"
-  },
-  {
-    "id": "news-1777946033090-4",
-    "title": "Elon Musk sent ominous texts to Greg Brockman, Sam Altman after asking for a settlement, OpenAI claims",
-    "summary": "Musk texted OpenAI's president and co-founder saying that he and CEO Sam Altman \"will be the most hated men in America\" if OpenAI doesn't settle the suit.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-05-04T16:36:03.000Z",
-    "url": "https://techcrunch.com/2026/05/04/elon-musk-sent-ominous-texts-to-greg-brockman-sam-altman-after-asking-for-a-settlement-openai-claims/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-05-05T01:53:53.090Z"
-  },
-  {
-    "id": "news-1777946033090-5",
-    "title": "Anthropic and OpenAI are both launching joint ventures for enterprise AI services",
-    "summary": "Both Anthropic and OpenAI have partnered with asset managers to more aggressively market their enterprise AI products.",
-    "category": "tech-innovation",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-05-04T15:59:24.000Z",
-    "url": "https://techcrunch.com/2026/05/04/anthropic-and-openai-are-both-launching-joint-ventures-for-enterprise-ai-services/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-05-05T01:53:53.090Z"
-  },
-  {
-    "id": "news-1777946033091-36",
-    "title": "Spotify wins motion for arbitration in ‘payola’ lawsuit",
-    "summary": "A Spotify subscriber sued the company in November, claiming it deceives users by letting labels boost song visibility through reduced royalty payments.\nSource",
-    "category": "industry-news",
-    "source": "Music Business Worldwide",
-    "author": "Unknown",
-    "publishedAt": "2026-05-04T14:55:31.000Z",
-    "url": "https://www.musicbusinessworldwide.com/spotify-wins-motion-for-arbitration-in-payola-lawsuit/",
-    "imageUrl": null,
-    "tags": [
-      "Spotify",
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-05-05T01:53:53.091Z"
-  },
-  {
-    "id": "news-1777946033091-37",
-    "title": "YouTube creators hit by music copyright claims can now replace tracks with AI – at the touch of a button",
-    "summary": "The update, announced via YouTube's Creator Insider channel on Friday (May 1), adds a new \"Create\" button to the existing \"Replace Song\" tool in YouTube Studio on desktop.\nSource",
-    "category": "industry-news",
-    "source": "Music Business Worldwide",
-    "author": "Unknown",
-    "publishedAt": "2026-05-04T14:51:04.000Z",
-    "url": "https://www.musicbusinessworldwide.com/youtube-creators-hit-by-music-copyright-claims-can-now-replace-tracks-with-ai-at-the-touch-of-a-button/",
-    "imageUrl": null,
-    "tags": [
-      "AI",
-      "Copyright"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-05-05T01:53:53.091Z"
-  },
-  {
-    "id": "news-1777946033090-6",
-    "title": "DoorDash adds AI tools to speed up merchant onboarding, edit photos of dishes",
-    "summary": "DoorDash on Monday added new AI-powered tools that let merchants speed up onboarding, edit photos to make dishes look better, and create new websites from existing content.",
-    "category": "tech-innovation",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-05-04T13:00:00.000Z",
-    "url": "https://techcrunch.com/2026/05/04/doordash-adds-ai-tools-to-speed-up-merchant-onboarding-edit-photos-of-dishes/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-05-05T01:53:53.090Z"
-  },
-  {
-    "id": "news-1777946033091-22",
-    "title": "A Developer’s Guide to Systematic Prompting: Mastering Negative Constraints, Structured JSON Outputs, and Multi-Hypothesis Verbalized Sampling",
-    "summary": "Most developers treat prompting as an afterthought—write something reasonable, observe the output, and iterate if needed. That approach works until reliability becomes critical. As LLMs move into production systems, the difference between a prompt that usually works and one that works consistently becomes an engineering concern. In response, the research community has formalized prompting into […]\nThe post A Developer’s Guide to Systematic Prompting: Mastering Negative Constraints, Structu",
-    "category": "ai-research",
-    "source": "MarkTechPost",
-    "author": "Unknown",
-    "publishedAt": "2026-05-03T21:41:48.000Z",
-    "url": "https://www.marktechpost.com/2026/05/03/a-developers-guide-to-systematic-prompting-mastering-negative-constraints-structured-json-outputs-and-multi-hypothesis-verbalized-sampling/",
-    "imageUrl": null,
-    "tags": [
-      "AI",
-      "Research"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-05-05T01:53:53.091Z"
-  },
-  {
-    "id": "news-1777946033090-7",
-    "title": "‘This is fine’ creator says AI startup stole his art",
-    "summary": "The ad comes from Artisan, the AI startup behind billboards urging businesses to \"stop hiring humans.\"",
+    "id": "news-1778032353910-0",
+    "title": "SAP bets $1.16B on 18-month-old German AI lab and says yes to NemoClaw",
+    "summary": "SAP plans to buy German AI startup Prior Labs and invest heavily in it. It is also prohibiting customers' agents use to a select few like Nvidia's NemoClaw.",
     "category": "industry-news",
     "source": "TechCrunch AI",
     "author": "Unknown",
-    "publishedAt": "2026-05-03T20:16:51.000Z",
-    "url": "https://techcrunch.com/2026/05/03/this-is-fine-creator-says-ai-startup-stole-his-art/",
+    "publishedAt": "2026-05-05T23:50:10.000Z",
+    "url": "https://techcrunch.com/2026/05/05/sap-bets-1-16b-on-18-month-old-german-ai-lab-and-says-yes-to-nemoclaw/",
     "imageUrl": null,
     "tags": [
       "AI",
       "Startup"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-05-05T01:53:53.090Z"
+    "fetchedAt": "2026-05-06T01:52:33.910Z"
   },
   {
-    "id": "news-1777946033091-38",
-    "title": "Amy Allen, Sony Music Publishing ,’Die With a Smile’ among big winners at 2026 ASCAP Pop Music Awards",
-    "summary": "\"We are honored to be named ASCAP's Pop Publisher of the Year,\" said Katie Welle, Sony Music Publishing President, Head of A&R.\nSource",
+    "id": "news-1778032353912-43",
+    "title": "Billboard’s Music Industry Events Calendar",
+    "summary": "A complete rundown of the most important events across the music business.",
     "category": "industry-news",
-    "source": "Music Business Worldwide",
+    "source": "Billboard",
     "author": "Unknown",
-    "publishedAt": "2026-05-03T18:59:28.000Z",
-    "url": "https://www.musicbusinessworldwide.com/amy-allen-sony-music-publishing-die-with-a-smile-among-big-winners-at-2026-ascap-pop-music-awards/",
+    "publishedAt": "2026-05-05T23:16:00.000Z",
+    "url": "https://www.billboard.com/pro/music-industry-events-calendar-festivals-awards-conferences/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-05-06T01:52:33.912Z"
+  },
+  {
+    "id": "news-1778032353912-44",
+    "title": "Jason Derulo Spars With Opposing Lawyer Over ‘Savage Love’ Credits at Copyright Trial",
+    "summary": "The singer faced cross-examination in a trial over the songwriting and producing splits for his 2020 chart-topper.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-05-05T23:08:21.000Z",
+    "url": "https://www.billboard.com/pro/jason-derulo-savage-love-credits-copyright-trial/",
+    "imageUrl": null,
+    "tags": [
+      "Copyright"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-05-06T01:52:33.912Z"
+  },
+  {
+    "id": "news-1778032353912-45",
+    "title": "Linda Perry to Receive Ivor Novello Awards’ Prestigious Songwriting Prize",
+    "summary": "Perry will collect the honor at a ceremony in London.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-05-05T23:00:00.000Z",
+    "url": "https://www.billboard.com/music/awards/linda-perry-songwriting-prize-ivor-novello-awards-2026-1236239365/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-05-06T01:52:33.912Z"
+  },
+  {
+    "id": "news-1778032353910-1",
+    "title": "Altara secures $7M to bridge the data gap that’s slowing down physical sciences",
+    "summary": "Altara’s AI aims to diagnose failures and help speed up R&D by unifying  data siloed across spreadsheets and legacy systems. ",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-05-05T22:57:41.000Z",
+    "url": "https://techcrunch.com/2026/05/05/altara-secures-7m-to-bridge-the-data-gap-thats-slowing-down-physical-sciences/",
     "imageUrl": null,
     "tags": [
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-05-05T01:53:53.091Z"
+    "fetchedAt": "2026-05-06T01:52:33.910Z"
+  },
+  {
+    "id": "news-1778032353912-46",
+    "title": "The Rolling Stones Kick Off ‘Foreign Tongues’ Era In Brooklyn With Conan O’Brien: ‘This Is the Gig of a Lifetime’",
+    "summary": "During a jokey chat, the English rockers explained how Paul McCartney and The Cure's Robert Smith ended up on their latest album.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-05-05T21:57:14.000Z",
+    "url": "https://www.billboard.com/music/rock/rolling-stones-foreign-tongues-conan-obrien-1236239609/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-05-06T01:52:33.912Z"
+  },
+  {
+    "id": "news-1778032353910-2",
+    "title": "Apple plans to make iOS 27 a Choose Your Own Adventure of AI models",
+    "summary": "With Apple's latest operating system updates, users will reportedly have their pick of which third-party AI models they want to use for a host of tasks. ",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-05-05T20:56:41.000Z",
+    "url": "https://techcrunch.com/2026/05/05/apple-plans-to-make-ios-27-a-choose-your-own-adventure-of-ai-models/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-05-06T01:52:33.910Z"
+  },
+  {
+    "id": "news-1778032353911-3",
+    "title": "Pennsylvania sues Character.AI after a chatbot allegedly posed as a doctor",
+    "summary": "According to Pennsylvania's filing, a Character.AI chatbot presented itself as a licensed psychiatrist during a state investigation, and also fabricated a serial number for its state medical license.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-05-05T17:46:10.000Z",
+    "url": "https://techcrunch.com/2026/05/05/pennsylvania-sues-character-ai-after-a-chatbot-allegedly-posed-as-a-doctor/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-05-06T01:52:33.911Z"
+  },
+  {
+    "id": "news-1778032353911-4",
+    "title": "OpenAI releases GPT-5.5 Instant, a new default model for ChatGPT",
+    "summary": "The company said the model reduces hallucination in sensitive areas such as law, medicine, and finance, while maintaining the low latency of its predecessor.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-05-05T17:00:00.000Z",
+    "url": "https://techcrunch.com/2026/05/05/openai-releases-gpt-5-5-instant-a-new-default-model-for-chatgpt/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-05-06T01:52:33.911Z"
+  },
+  {
+    "id": "news-1778032353911-5",
+    "title": "PayPal says it’s ‘becoming a technology company again’ — that means AI",
+    "summary": "PayPal is pitching an AI-led turnaround, tying automation and restructuring to $1.5 billion in savings as it cuts jobs and works to modernize its tech stack.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-05-05T15:49:55.000Z",
+    "url": "https://techcrunch.com/2026/05/05/paypal-says-its-becoming-a-technology-company-again-that-means-ai/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-05-06T01:52:33.911Z"
+  },
+  {
+    "id": "news-1778032353911-6",
+    "title": "Etsy launches its app within ChatGPT as it continues its AI push",
+    "summary": "Etsy's new native app within ChatGPT aims to be a conversational  shopping experience for users. ",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-05-05T15:31:37.000Z",
+    "url": "https://techcrunch.com/2026/05/05/etsy-launches-its-app-within-chatgpt-as-it-continues-its-ai-push/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-05-06T01:52:33.911Z"
+  },
+  {
+    "id": "news-1778032353912-33",
+    "title": "From Wine to Diamonds, Every Major Consumer Industry Protects You From Fakes. Why Doesn’t Music?",
+    "summary": "Music supervisor and Catalog founder Frederic Schindler argues it's time for standardized 'Music Facts' labels – modeled on food nutrition panels – to make the origin of every track in the supply chain visible to consumers.\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-05-05T15:18:19.000Z",
+    "url": "https://www.musicbusinessworldwide.com/from-wine-to-diamonds-every-major-consumer-industry-protects-you-from-fakes-why-doesnt-music/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-05-06T01:52:33.912Z"
+  },
+  {
+    "id": "news-1778032353912-34",
+    "title": "A bill in France would force AI firms to prove they didn’t use copyrighted content to train their tech. The country’s music biz is urging lawmakers to pass it",
+    "summary": "The law would reverse the burden of proof in copyright disputes involving AI in France\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-05-05T15:16:17.000Z",
+    "url": "https://www.musicbusinessworldwide.com/a-bill-in-france-would-force-ai-firms-to-prove-they-didnt-use-copyrighted-content-to-train-their-tech-the-countrys-music-biz-is-urging-lawmakers-to-pass-it/",
+    "imageUrl": null,
+    "tags": [
+      "AI",
+      "Copyright"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-05-06T01:52:33.912Z"
+  },
+  {
+    "id": "news-1778032353912-35",
+    "title": "The US Copyright Office is hiking registration fees by 43%. Independent music orgs say many artists won’t be able to afford it.",
+    "summary": "With the fee hike, independent creators could lose access to the Copyright Claims Board, a more affordable way to pursue infringement cases, the coalition said.\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-05-05T14:57:20.000Z",
+    "url": "https://www.musicbusinessworldwide.com/the-us-copyright-office-is-hiking-registration-fees-by-43-independent-music-orgs-say-many-artists-wont-be-able-to-afford-it/",
+    "imageUrl": null,
+    "tags": [
+      "AI",
+      "Copyright"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-05-06T01:52:33.912Z"
+  },
+  {
+    "id": "news-1778032353912-36",
+    "title": "On… Universal, Spotify, Virgin, and the ‘leakage’ causing analyst discomfort.",
+    "summary": "This article orginally appeared in Tim Ingham’s latest ‘Tim’s Take’ email, issued exclusively to MBW+ subscribers.\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-05-05T14:31:18.000Z",
+    "url": "https://www.musicbusinessworldwide.com/universal-spotify-virgin-and-the-leakage-causing-analyst-discomfort/",
+    "imageUrl": null,
+    "tags": [
+      "Spotify",
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-05-06T01:52:33.912Z"
+  },
+  {
+    "id": "news-1778032353911-7",
+    "title": "Meta will use AI to analyze height and bone structure to identify if users are underage",
+    "summary": "The visual analysis system is now operating in select countries, but Meta says it's working toward a broader rollout. ",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-05-05T14:27:00.000Z",
+    "url": "https://techcrunch.com/2026/05/05/meta-will-use-ai-to-analyze-height-and-bone-structure-to-identify-if-users-are-underage/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-05-06T01:52:33.911Z"
   }
 ]
