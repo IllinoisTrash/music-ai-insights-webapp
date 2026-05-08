@@ -1,315 +1,310 @@
 [
   {
-    "id": "news-1778119026354-27",
-    "title": "Elon Musk’s Last-Ditch Effort to Control OpenAI: Recruit Sam Altman to Tesla",
-    "summary": "Messages between Shivon Zilis and Tesla executives reveal plans in 2017 to start a rival AI lab, potentially led by Altman or Demis Hassabis.",
+    "id": "news-1778205776618-20",
+    "title": "Musk v. Altman Evidence Shows What Microsoft Executives Thought of OpenAI",
+    "summary": "Leaders at the tech giant were skeptical of OpenAI—but wary of pushing it into the arms of Amazon, according to emails dating back to 2018.",
     "category": "tech-innovation",
     "source": "Wired AI",
     "author": "Unknown",
-    "publishedAt": "2026-05-06T23:23:45.000Z",
-    "url": "https://www.wired.com/story/elon-musk-recruit-sam-altman-tesla-ai-lab-trial/",
+    "publishedAt": "2026-05-08T01:42:14.000Z",
+    "url": "https://www.wired.com/story/microsoft-executives-discuss-openai-sam-altman-2018/",
     "imageUrl": null,
     "tags": [
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-05-07T01:57:06.354Z"
+    "fetchedAt": "2026-05-08T02:02:56.618Z"
   },
   {
-    "id": "news-1778119026355-42",
-    "title": "Kehlani Captures First No. 1 on Top R&B/Hip-Hop Albums Chart",
-    "summary": "The 2026 Billboard Women in Music Impact honoree’s “Folded” is a week away from radio history.",
+    "id": "news-1778205776619-37",
+    "title": "MUSIC AWARDS JAPAN 2026 Reveals Full Nominee List",
+    "summary": "At the nomination announcement event in Tokyo on April 30, this year's MAJ Ambassadors, Kento Nakajima & Mei Hata, took the stage.",
     "category": "industry-news",
     "source": "Billboard",
     "author": "Unknown",
-    "publishedAt": "2026-05-06T22:54:41.000Z",
-    "url": "https://www.billboard.com/music/chart-beat/kehlani-self-titled-number-1-top-rb-hip-hop-albums-chart-1236241048/",
+    "publishedAt": "2026-05-08T00:53:25.000Z",
+    "url": "https://www.billboard.com/music/awards/music-awards-japan-2026-nominees-list-1236242434/",
     "imageUrl": null,
     "tags": [],
     "readTime": 1,
-    "fetchedAt": "2026-05-07T01:57:06.355Z"
+    "fetchedAt": "2026-05-08T02:02:56.619Z"
   },
   {
-    "id": "news-1778119026355-43",
-    "title": "Coolio’s ‘Gangsta’s Paradise’ Music Video Crosses 2 Billion Views on YouTube",
-    "summary": "It's the late rapper's first video to reach this milestone. ",
+    "id": "news-1778205776619-38",
+    "title": "Noah Kahan Trades ‘Stick Season’ for ‘Skit Season’ in New ‘SNL’ Promos With Matt Damon",
+    "summary": "Kahan is appearing as a musical guest for the second time on Saturday Night Live.",
     "category": "industry-news",
     "source": "Billboard",
     "author": "Unknown",
-    "publishedAt": "2026-05-06T22:53:35.000Z",
-    "url": "https://www.billboard.com/music/rb-hip-hop/coolio-gangstas-paradise-video-two-billion-views-youtube-1236240987/",
+    "publishedAt": "2026-05-08T00:39:52.000Z",
+    "url": "https://www.billboard.com/culture/tv-film/noah-kahan-snl-promos-matt-damon-skit-season-1236242384/",
     "imageUrl": null,
     "tags": [],
     "readTime": 1,
-    "fetchedAt": "2026-05-07T01:57:06.355Z"
+    "fetchedAt": "2026-05-08T02:02:56.619Z"
   },
   {
-    "id": "news-1778119026355-44",
-    "title": "The Chemical Brothers’ ‘Go’ Sees 429% Streaming Surge After ‘Apex’ Synch",
-    "summary": "The 2015 track was selected for the recently released Netflix thriller by one of the film's own stars. ",
+    "id": "news-1778205776619-39",
+    "title": "The Deals: Spotify to Host Workouts on-Platform With Peloton Pact; ElevenLab Names New Series D Investors",
+    "summary": "Also: Primary Wave and Times Music buy Punjabi label Catrack, and The Orchard acquires Brazilian Christian music label OniMusic.",
     "category": "industry-news",
     "source": "Billboard",
     "author": "Unknown",
-    "publishedAt": "2026-05-06T22:47:13.000Z",
-    "url": "https://www.billboard.com/music/music-news/chemical-brothers-go-apex-movie-streaming-boost-netflix-1236241050/",
+    "publishedAt": "2026-05-08T00:25:55.000Z",
+    "url": "https://www.billboard.com/lists/spotify-peloton-workouts-platform-industry-deals/",
+    "imageUrl": null,
+    "tags": [
+      "Spotify"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-05-08T02:02:56.619Z"
+  },
+  {
+    "id": "news-1778205776619-40",
+    "title": "Inside Billie Eilish’s ‘Hit Me Hard and Soft: The Tour’ L.A. Premiere: From Her Red-Carpet Debut With Nat Wolff to Moviegoers Creating Their Own Pit",
+    "summary": "The 3-D concert film hits theaters on Friday.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-05-08T00:23:00.000Z",
+    "url": "https://www.billboard.com/culture/tv-film/billie-eilish-hit-me-hard-soft-tour-film-premiere-inside-1236242311/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-05-08T02:02:56.619Z"
+  },
+  {
+    "id": "news-1778205776619-41",
+    "title": "J Balvin & Ryan Castro Had No Plans of a Joint Album, But Blended Both Worlds for ‘Omerta’",
+    "summary": "After many collaborative efforts, Balvin and Castro finally drop their first-ever joint album. Stream and listen to Omerta below.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-05-08T00:00:00.000Z",
+    "url": "https://www.billboard.com/music/latin/j-balvin-ryan-castro-omerta-joint-album-interview-1236238567/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-05-08T02:02:56.619Z"
+  },
+  {
+    "id": "news-1778205776619-42",
+    "title": "Rolling Loud 2026 Livestream: Here’s Where to Watch Don Toliver, Playboi Carti, Ken Carson & More Live Online",
+    "summary": "Get a livestream feed of must-see hip-hop festival performances for free.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-05-07T23:08:19.000Z",
+    "url": "https://www.billboard.com/culture/product-recommendations/rolling-loud-2026-music-festival-how-to-watch-live-online-free-1236240679/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-05-08T02:02:56.619Z"
+  },
+  {
+    "id": "news-1778205776617-0",
+    "title": "OpenAI launches new voice intelligence features in its API",
+    "summary": "The new features could be handy for customer service systems, but OpenAI says they have applications that work across a variety of other fields, including education and creator platforms. ",
+    "category": "tech-innovation",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-05-07T22:24:50.000Z",
+    "url": "https://techcrunch.com/2026/05/07/openai-launches-new-voice-intelligence-features-in-its-api/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-05-08T02:02:56.617Z"
+  },
+  {
+    "id": "news-1778205776618-21",
+    "title": "Trump Pivots on AI Regulation, Worker Ousted by DOGE Runs for Office, and Hantavirus Explained",
+    "summary": "Today on Uncanny Valley, we’re diving into recent reports that the Trump administration is considering an executive order that would establish some sort of federal oversight over new AI models.",
+    "category": "ai-research",
+    "source": "Wired AI",
+    "author": "Unknown",
+    "publishedAt": "2026-05-07T21:37:20.000Z",
+    "url": "https://www.wired.com/story/uncanny-valley-podcast-trump-pivots-ai-regulation-worker-ousted-by-doge-runs-for-office-hantavirus-explained/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-05-08T02:02:56.618Z"
+  },
+  {
+    "id": "news-1778205776619-30",
+    "title": "Warner Music Group generated $1.73B in calendar Q1 2026; subscription streaming revenues rose 12.7% YoY",
+    "summary": "Warner Music Group published its calendar Q1 results today (May 7)\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-05-07T21:15:00.000Z",
+    "url": "https://www.musicbusinessworldwide.com/warner-music-group-generated-1-73bn-in-calendar-q1-2026-subscription-streaming-revenues-rose-12-7-yoy/",
     "imageUrl": null,
     "tags": [
       "Streaming"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-05-07T01:57:06.355Z"
+    "fetchedAt": "2026-05-08T02:02:56.619Z"
   },
   {
-    "id": "news-1778119026355-45",
-    "title": "Ye Testifies at ‘Donda’ Copyright Trial: ‘A Lot of People Try to Take Advantage of Me’",
-    "summary": "The rapper took the witness stand on Wednesday (May 6) in a trial over a sample on an early version of the Grammy-winning song \"Hurricane.\"",
+    "id": "news-1778205776617-1",
+    "title": "Voi founders’ new AI startup Pit has become the latest rising star out of Stockholm",
+    "summary": "AI startup Pit is led by the co-founders of European scooter giant Voi and backed by a16z, which is leading the startup’s $16 million seed round. ",
     "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-05-06T22:00:42.000Z",
-    "url": "https://www.billboard.com/pro/kanye-west-testifies-donda-music-copyright-trial/",
-    "imageUrl": null,
-    "tags": [
-      "Copyright"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-05-07T01:57:06.355Z"
-  },
-  {
-    "id": "news-1778119026352-0",
-    "title": "Barry Diller trusts Sam Altman. But ‘trust is irrelevant’ as AGI nears, he says.",
-    "summary": "Barry Diller defended OpenAI CEO Sam Altman, while warning that AGI remains an unpredictable force needing guardrails.",
-    "category": "ai-research",
     "source": "TechCrunch AI",
     "author": "Unknown",
-    "publishedAt": "2026-05-06T21:57:56.000Z",
-    "url": "https://techcrunch.com/2026/05/06/barry-diller-trusts-sam-altman-but-trust-is-irrelevant-as-agi-nears-he-says/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-05-07T01:57:06.353Z"
-  },
-  {
-    "id": "news-1778119026353-1",
-    "title": "Snap says its $400M deal with Perplexity ‘amicably ended’",
-    "summary": "The deal, announced last November, would have seen Perplexity's AI search engine integrated directly into Snapchat. ",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-05-06T21:43:24.000Z",
-    "url": "https://techcrunch.com/2026/05/06/snap-says-its-400m-deal-with-perplexity-amicably-ended/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-05-07T01:57:06.353Z"
-  },
-  {
-    "id": "news-1778119026353-2",
-    "title": "Is xAI a neocloud now?",
-    "summary": "xAI's real business may be more about building data centers than training AI models. ",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-05-06T21:32:55.000Z",
-    "url": "https://techcrunch.com/2026/05/06/is-xai-a-neocloud-now/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-05-07T01:57:06.353Z"
-  },
-  {
-    "id": "news-1778119026355-46",
-    "title": "Romeo Santos & Prince Royce’s ‘Dardos’ Hits Bull’s-Eye at No. 1 on Latin Airplay",
-    "summary": "Plus, La Arrolladora Banda El Limón de René Camacho ties with Banda MS for the second-highest number of rulers on Regional Mexican Airplay.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-05-06T21:26:13.000Z",
-    "url": "https://www.billboard.com/music/chart-beat/romeo-santos-prince-royce-dardos-number-one-latin-airplay-1236241003/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-05-07T01:57:06.355Z"
-  },
-  {
-    "id": "news-1778119026355-47",
-    "title": "Amy Grant Opens Up About Her First Album in 13 Years, ‘The Me That Remains’: ‘In a Beautiful Way, Our Limitations Create Our Path’",
-    "summary": "The multiple Grammy winner created her new album with help from Vince Gill, Mac McAnally, Ruby Amanfu and others.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-05-06T21:11:47.000Z",
-    "url": "https://www.billboard.com/music/music-news/amy-grant-the-me-that-remains-interview-1236240840/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-05-07T01:57:06.355Z"
-  },
-  {
-    "id": "news-1778119026355-48",
-    "title": "How Much Did ‘The Devil Wears Prada 2’ Boost Soundtrack Songs by Lady Gaga & Doechii, Madonna and Dua Lipa?",
-    "summary": "This week's Trending Up looks at some new and old cuts on the soundtrack to the new hit sequel, as well as a viral new pop song and another revived 2016 gem. ",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-05-06T21:07:05.000Z",
-    "url": "https://www.billboard.com/music/chart-beat/devil-wears-prada-2-streaming-lady-gaga-madonna-trending-up-1236240968/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-05-07T01:57:06.355Z"
-  },
-  {
-    "id": "news-1778119026355-49",
-    "title": "TME Chart Unveils 30 Under 30 Young Singers, Highlighting a New Generation of Chinese Music Talent",
-    "summary": "Lars Huang, Yu Zi and Zhicheng Mu ranked No. 1 in the Core Group, Pioneer Group and Rising Star Group, respectively.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-05-06T20:31:27.000Z",
-    "url": "https://www.billboard.com/music/music-news/tme-chart-30-under-30-singers-china-1236240958/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-05-07T01:57:06.355Z"
-  },
-  {
-    "id": "news-1778119026354-28",
-    "title": "Anthropic Gets in Bed With SpaceX as the AI Race Turns Weird",
-    "summary": "In an unexpected turn, the two companies signed a deal for Anthropic to use computing resources from Elon Musk’s xAI.",
-    "category": "tech-innovation",
-    "source": "Wired AI",
-    "author": "Unknown",
-    "publishedAt": "2026-05-06T18:28:52.000Z",
-    "url": "https://www.wired.com/story/anthropic-spacex-compute-deal-colossus/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-05-07T01:57:06.354Z"
-  },
-  {
-    "id": "news-1778119026354-29",
-    "title": "Using AI for Just 10 Minutes Might Make You Lazy and Dumb, Study Shows",
-    "summary": "New research suggests that reliance on AI assistants can have a negative impact on people’s ability to think and problem solve.",
-    "category": "tech-innovation",
-    "source": "Wired AI",
-    "author": "Unknown",
-    "publishedAt": "2026-05-06T18:00:00.000Z",
-    "url": "https://www.wired.com/story/using-ai-negative-impact-thinking-problem-solving-study/",
-    "imageUrl": null,
-    "tags": [
-      "AI",
-      "Research"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-05-07T01:57:06.354Z"
-  },
-  {
-    "id": "news-1778119026353-3",
-    "title": "DeepSeek could hit $45B valuation from its first investment round",
-    "summary": "The Chinese AI lab came to prominence in early 2025 after launching a large language model that trained on a fraction of the compute power and at a fraction of the cost of the big U.S. models like those from OpenAI and Anthropic. ",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-05-06T17:20:34.000Z",
-    "url": "https://techcrunch.com/2026/05/06/deepseek-could-hit-45b-valuation-from-its-first-investment-round/",
-    "imageUrl": null,
-    "tags": [
-      "AI",
-      "Investment"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-05-07T01:57:06.353Z"
-  },
-  {
-    "id": "news-1778119026354-30",
-    "title": "I Am Begging AI Companies to Stop Naming Features After Human Processes",
-    "summary": "Anthropic announced “dreaming” for AI agents to sort through “memories” at its developer conference. Can we not?",
-    "category": "tech-innovation",
-    "source": "Wired AI",
-    "author": "Unknown",
-    "publishedAt": "2026-05-06T16:51:12.000Z",
-    "url": "https://www.wired.com/story/i-am-begging-ai-companies-to-stop-naming-features-after-human-processes/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-05-07T01:57:06.354Z"
-  },
-  {
-    "id": "news-1778119026355-36",
-    "title": "Sony in advanced talks to buy Blackstone’s Recognition Music for up to $4B, reports Bloomberg",
-    "summary": "The acquisition would be made through Sony's music rights-buying JV with Singapore sovereign wealth fund GIC, the news outlet reported\nSource",
-    "category": "industry-news",
-    "source": "Music Business Worldwide",
-    "author": "Unknown",
-    "publishedAt": "2026-05-06T16:40:13.000Z",
-    "url": "https://www.musicbusinessworldwide.com/sony-in-advanced-talks-to-buy-blackstones-recognition-music-for-up-to-4b-reports-bloomberg/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-05-07T01:57:06.355Z"
-  },
-  {
-    "id": "news-1778119026353-4",
-    "title": "Google updates AI search to include quotes from Reddit and other sources",
-    "summary": "While citing web forums and discussion boards can help users find answers to more niche queries, this design choice could also prove chaotic.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-05-06T15:49:39.000Z",
-    "url": "https://techcrunch.com/2026/05/06/google-updates-ai-search-to-include-expert-advice-from-reddit-and-other-web-forums/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-05-07T01:57:06.353Z"
-  },
-  {
-    "id": "news-1778119026354-31",
-    "title": "Hackers Hate AI Slop Even More Than You Do",
-    "summary": "It's not just you. Scammers, hackers, and other cybercriminals are complaining about “AI shit” flooding platforms where they discuss cyberattacks and other illegal activity.",
-    "category": "tech-innovation",
-    "source": "Wired AI",
-    "author": "Unknown",
-    "publishedAt": "2026-05-06T15:49:12.000Z",
-    "url": "https://www.wired.com/story/cybercriminals-are-complaining-about-ai-slop-flooding-their-forums/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-05-07T01:57:06.354Z"
-  },
-  {
-    "id": "news-1778119026353-5",
-    "title": "Khosla-backed robotics startup Genesis AI has gone full stack, demo shows",
-    "summary": "Genesis AI, a startup that raised a $105 million seed round to build foundational AI for robotics, has unveiled its first model, GENE-26.5, but also a demo showcasing a set of robotic hands performing complex tasks.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-05-06T15:46:38.000Z",
-    "url": "https://techcrunch.com/2026/05/06/khosla-backed-robotics-startup-genesis-ai-has-gone-full-stack-demo-shows/",
+    "publishedAt": "2026-05-07T21:02:11.000Z",
+    "url": "https://techcrunch.com/2026/05/07/voi-founders-new-ai-startup-pit-has-become-the-latest-rising-star-out-of-stockholm/",
     "imageUrl": null,
     "tags": [
       "AI",
       "Startup"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-05-07T01:57:06.353Z"
+    "fetchedAt": "2026-05-08T02:02:56.618Z"
+  },
+  {
+    "id": "news-1778205776618-22",
+    "title": "How to Disable Google's Gemini in Chrome",
+    "summary": "Chrome users were caught off guard by a 4-GB Google AI model baked into Chrome, sparking privacy concerns. The good news: You can easily uninstall it. The bad? You might not want to.",
+    "category": "ai-research",
+    "source": "Wired AI",
+    "author": "Unknown",
+    "publishedAt": "2026-05-07T20:31:57.000Z",
+    "url": "https://www.wired.com/story/you-can-disable-gemini-in-chrome-if-its-freaking-you-out/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-05-08T02:02:56.618Z"
+  },
+  {
+    "id": "news-1778205776618-2",
+    "title": "OpenAI introduces new ‘Trusted Contact’ safeguard for cases of possible self-harm",
+    "summary": "The company is expanding its efforts to protect ChatGPT users in cases where conversations may turn to self-harm. ",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-05-07T20:20:20.000Z",
+    "url": "https://techcrunch.com/2026/05/07/openai-introduces-new-trusted-contact-safeguard-for-cases-of-possible-self-harm/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-05-08T02:02:56.618Z"
+  },
+  {
+    "id": "news-1778205776618-3",
+    "title": "Perplexity’s Personal Computer is now available to everyone on Mac",
+    "summary": "Perplexity's Personal Computer brings AI agents to your Mac, and is now open to everyone. ",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-05-07T19:57:59.000Z",
+    "url": "https://techcrunch.com/2026/05/07/perplexitys-personal-computer-is-now-available-everyone-on-mac/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-05-08T02:02:56.618Z"
+  },
+  {
+    "id": "news-1778205776618-4",
+    "title": "Elon Musk’s lawsuit is putting OpenAI’s safety record under the microscope",
+    "summary": "Elon Musk's legal effort to dismantle OpenAI may hinge on how its for-profit subsidiary enhances or detracts from the frontier lab's founding mission of ensuring that humanity benefits from artificial general intelligence.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-05-07T19:21:21.000Z",
+    "url": "https://techcrunch.com/2026/05/07/elon-musks-lawsuit-is-putting-openais-safety-record-under-the-microscope/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-05-08T02:02:56.618Z"
+  },
+  {
+    "id": "news-1778205776618-5",
+    "title": "Bumble is getting rid of the swipe, CEO says",
+    "summary": "Based on Whitney Wolfe Herd's past comments about Bumble's new direction, the company is expected to lean into AI -- Bumble is even working on an AI dating assistant called Bee, and the CEO has made many comments over the years about how AI will be \"a supercharger to love and relationships.\"",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-05-07T19:06:17.000Z",
+    "url": "https://techcrunch.com/2026/05/07/bumble-is-getting-rid-of-the-swipe-ceo-says/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-05-08T02:02:56.618Z"
+  },
+  {
+    "id": "news-1778205776619-31",
+    "title": "Paladin Artists names Rick Levy CEO – and enters ‘advanced discussions’ to acquire Wayne Forte’s Entourage Talent",
+    "summary": "The moves mark a significant expansion push for the independent live agency founded by Andy Somers and Steve Martin in 2021.\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-05-07T18:45:16.000Z",
+    "url": "https://www.musicbusinessworldwide.com/paladin-artists-names-rick-levy-ceo-and-enters-advanced-discussions-to-acquire-wayne-fortes-entourage-talent/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-05-08T02:02:56.619Z"
+  },
+  {
+    "id": "news-1778205776619-32",
+    "title": "Tencent Music took down over 250,000 songs and reviewed 600,000+ ‘high-risk’ copyright cases in 2025 amid ’emerging AI risks’",
+    "summary": "TME said it took down over 27,000 songs specifically involved in what it categorizes as \"song theft,\" \"song laundering,\" and \"trend hijacking\"\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-05-07T17:36:13.000Z",
+    "url": "https://www.musicbusinessworldwide.com/tencent-music-took-down-over-250000-songs-and-reviewed-600000-high-risk-copyright-cases-in-2025-amid-emerging-ai-risks/",
+    "imageUrl": null,
+    "tags": [
+      "AI",
+      "Copyright"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-05-08T02:02:56.619Z"
+  },
+  {
+    "id": "news-1778205776619-33",
+    "title": "Australia’s UNIFIED Music Group expands into New Zealand with Matt Harvey hire",
+    "summary": "The move brings Harvey’s day-to-day manager Mandy Keighley, along with his management roster, into UNIFIED’s growing trans-Tasman network.\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-05-07T17:12:16.000Z",
+    "url": "https://www.musicbusinessworldwide.com/australias-unified-music-group-expands-into-new-zealand-with-matt-harvey-hire/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-05-08T02:02:56.619Z"
+  },
+  {
+    "id": "news-1778205776619-34",
+    "title": "Warner Music Group and Paramount Pictures strike multi-year deal to make theatrical films based on WMG artists and songwriters",
+    "summary": "The partnership follows WMG's deal with Netflix, announced in March\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-05-07T17:02:07.000Z",
+    "url": "https://www.musicbusinessworldwide.com/warner-music-group-and-paramount-pictures-strike-multi-year-deal-to-make-theatrical-films-based-on-wmg-artists-and-songwriters/",
+    "imageUrl": null,
+    "tags": [
+      "Partnership"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-05-08T02:02:56.619Z"
   }
 ]
