@@ -1,52 +1,175 @@
 [
   {
-    "id": "news-1778291804660-37",
-    "title": "Red Hot Chili Peppers Sells Recorded Music Catalog to WMG for Over $300 Million",
-    "summary": "The company purchased the catalog through a $1.2 billion joint venture with Bain Capital.",
+    "id": "news-1778378128966-43",
+    "title": "Charli xcx Releases ‘I Keep On Thinking Bout You Every Single Day and Night’ as ‘Rock Music’ Vinyl B-Side",
+    "summary": "There's a music video on Charli's Instagram side account, but the track is otherwise exclusive to the \"Rock Music\" 7\" single.",
     "category": "industry-news",
     "source": "Billboard",
     "author": "Unknown",
-    "publishedAt": "2026-05-08T23:12:47.000Z",
-    "url": "https://www.billboard.com/pro/red-hot-chili-peppers-sells-recorded-catalog-warner-music/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-05-09T01:56:44.660Z"
-  },
-  {
-    "id": "news-1778291804660-38",
-    "title": "NewJeans Members and HYBE Sued Over ‘How Sweet’: Songwriters Claim ‘Blatant Copying’",
-    "summary": "Four writers are suing for a share of royalties from the 2024 song, which hit No. 7 on the Billboard Global Excl. U.S. chart.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-05-08T22:26:38.000Z",
-    "url": "https://www.billboard.com/pro/newjeans-members-hybe-copyright-lawsuit-how-sweet/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-05-09T01:56:44.660Z"
-  },
-  {
-    "id": "news-1778291804660-39",
-    "title": "How Noah Kahan Landed His Best Chart Week Yet With New Album ‘The Great Divide’",
-    "summary": "\"Patience was key, and our belief in Noah's ability never wavered,\" says manager Drew Simmons.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-05-08T20:30:21.000Z",
-    "url": "https://www.billboard.com/pro/noah-kahan-hit-no-1-new-album-the-great-divide-how/",
+    "publishedAt": "2026-05-09T22:44:30.000Z",
+    "url": "https://www.billboard.com/music/music-news/charli-xcx-keep-on-thinking-bout-you-every-single-day-night-1236243591/",
     "imageUrl": null,
     "tags": [],
     "readTime": 1,
-    "fetchedAt": "2026-05-09T01:56:44.660Z"
+    "fetchedAt": "2026-05-10T01:55:28.966Z"
   },
   {
-    "id": "news-1778291804660-29",
+    "id": "news-1778378128964-19",
+    "title": "NVIDIA AI Releases Star Elastic: One Checkpoint that Contains 30B, 23B, and 12B Reasoning Models with Zero-Shot Slicing",
+    "summary": "NVIDIA researchers have introduced Star Elastic, a post-training method that embeds multiple nested reasoning models — at 30B, 23B, and 12B parameter scales — inside a single checkpoint, eliminating the need for separate training runs or stored model weights per variant. Built on the Nemotron Elastic framework and applied to Nemotron Nano v3, the method trains all three variants in a single 160B-token run, achieving a 360× token reduction compared to pretraining each model from scratch. Beyond t",
+    "category": "tech-innovation",
+    "source": "MarkTechPost",
+    "author": "Unknown",
+    "publishedAt": "2026-05-09T22:24:23.000Z",
+    "url": "https://www.marktechpost.com/2026/05/09/nvidia-ai-releases-star-elastic-one-checkpoint-that-contains-30b-23b-and-12b-reasoning-models-with-zero-shot-slicing/",
+    "imageUrl": null,
+    "tags": [
+      "AI",
+      "Research"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-05-10T01:55:28.964Z"
+  },
+  {
+    "id": "news-1778378128962-0",
+    "title": "So you’ve heard these AI terms and nodded along; let’s fix that",
+    "summary": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-05-09T21:45:00.000Z",
+    "url": "https://techcrunch.com/2026/05/09/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-05-10T01:55:28.962Z"
+  },
+  {
+    "id": "news-1778378128966-44",
+    "title": "Olivia Rodrigo ‘Unraveled’ Tour 2026-27: Here’s Where to Get Affordable Concert Tickets Online",
+    "summary": "Starting on Sept. 25, the pop star hits the road with tour dates across the U.S.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-05-09T17:23:27.000Z",
+    "url": "https://www.billboard.com/culture/product-recommendations/olivia-rodrigo-2026-2027-tour-tickets-buy-online-1236243454/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-05-10T01:55:28.966Z"
+  },
+  {
+    "id": "news-1778378128966-45",
+    "title": "Peso Pluma Speaks at First CUNY-Wide Mexican-American Graduation & More Uplifting Moments in Latin Music",
+    "summary": "Plus, Venezuelan singer Eduardo Galán opens his own art exhibition in Venice. ",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-05-09T14:54:51.000Z",
+    "url": "https://www.billboard.com/music/latin/peso-pluma-cuny-graduation-guest-speaker-uplifting-moments-1236243438/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-05-10T01:55:28.966Z"
+  },
+  {
+    "id": "news-1778378128966-46",
+    "title": "5 Highlights From Olivia Rodrigo’s Invite-OnlySpotify Billions Club Live Show in Barcelona: ‘The Most Beautiful City Ever’",
+    "summary": "Billboard was onsite for the concert featuring Rodrigo's biggest hits ahead of the major El Clásico match at Spotify Camp Nou.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-05-09T14:51:12.000Z",
+    "url": "https://www.billboard.com/lists/olivia-rodrigo-barcelona-spotify-billions-club-live-recap/",
+    "imageUrl": null,
+    "tags": [
+      "Spotify"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-05-10T01:55:28.966Z"
+  },
+  {
+    "id": "news-1778378128962-1",
+    "title": "Nvidia has already committed $40B to equity AI deals this year",
+    "summary": "Nvidia continues to be a big investor in the AI ecosystem.",
+    "category": "industry-news",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-05-09T14:43:30.000Z",
+    "url": "https://techcrunch.com/2026/05/09/nvidia-has-already-committed-40b-to-equity-ai-deals-this-year/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-05-10T01:55:28.962Z"
+  },
+  {
+    "id": "news-1778378128966-47",
+    "title": "Don Toliver Brings High-‘Octane’ & YEAT to Rolling Loud Orlando for Electric Headlining Performance",
+    "summary": "The Cactus Jack artist used Rolling Loud Orlando to kick off his Octane Tour. ",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-05-09T14:38:05.000Z",
+    "url": "https://www.billboard.com/music/rb-hip-hop/don-toliver-rolling-loud-orlando-night-one-recap-1236243411/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-05-10T01:55:28.966Z"
+  },
+  {
+    "id": "news-1778378128964-20",
+    "title": "9 Best AI Tools for Spec-Driven Development in 2026: Kiro, BMAD, GSD, and More Compare",
+    "summary": "Vibe coding gets you to a prototype. Spec-driven development gets you to production. As AI coding agents grow more powerful, the engineering community has quietly split into two camps: developers who prompt iteratively and hope for the best, and developers who write structured specifications first and let agents execute against them. The second group is shipping faster, with fewer regressions, and with code that survives review. This guide covers the 9 AI tools driving that shift in 2026 — from ",
+    "category": "tech-innovation",
+    "source": "MarkTechPost",
+    "author": "Unknown",
+    "publishedAt": "2026-05-09T06:01:32.000Z",
+    "url": "https://www.marktechpost.com/2026/05/08/9-best-ai-tools-for-spec-driven-development-in-2026-kiro-bmad-gsd-and-more-compare/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-05-10T01:55:28.964Z"
+  },
+  {
+    "id": "news-1778378128964-21",
+    "title": "Meet GitHub Spec-Kit: An Open Source Toolkit for Spec-Driven Development with AI Coding Agents",
+    "summary": "If you have spent time using AI coding agents — GitHub Copilot, Claude Code, Gemini CLI — you have probably run into this situation: you describe what you want, the agent generates a block of code that looks correct, compiles, and then subtly misses the actual intent. This “vibe-coding” approach can work for quick prototypes […]\nThe post Meet GitHub Spec-Kit: An Open Source Toolkit for Spec-Driven Development with AI Coding Agents appeared first on MarkTechPost.\n",
+    "category": "ai-research",
+    "source": "MarkTechPost",
+    "author": "Unknown",
+    "publishedAt": "2026-05-09T03:59:56.000Z",
+    "url": "https://www.marktechpost.com/2026/05/08/meet-github-spec-kit-an-open-source-toolkit-for-spec-driven-development-with-ai-coding-agents/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-05-10T01:55:28.964Z"
+  },
+  {
+    "id": "news-1778378128964-22",
+    "title": "OpenAI Adds Chrome Extension to Codex, Letting Its AI Agent Access LinkedIn, Salesforce, Gmail, and Internal Tools via Signed-In Sessions",
+    "summary": "OpenAI has shipped a Chrome extension for Codex, its AI coding agent, enabling it to complete browser-based tasks directly inside Google Chrome on macOS and Windows — including interacting with signed-in websites, using Chrome DevTools, and running multi-step workflows across browser tabs.\nThe post OpenAI Adds Chrome Extension to Codex, Letting Its AI Agent Access LinkedIn, Salesforce, Gmail, and Internal Tools via Signed-In Sessions appeared first on MarkTechPost.\n",
+    "category": "ai-research",
+    "source": "MarkTechPost",
+    "author": "Unknown",
+    "publishedAt": "2026-05-08T22:22:41.000Z",
+    "url": "https://www.marktechpost.com/2026/05/08/openai-adds-chrome-extension-to-codex-letting-its-ai-agent-access-linkedin-salesforce-gmail-and-internal-tools-via-signed-in-sessions/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-05-10T01:55:28.964Z"
+  },
+  {
+    "id": "news-1778378128965-35",
     "title": "From Tencent Music’s 250K song takedowns to Sony and WMG’s calendar Q1 results… it’s MBW’s weekly round-up",
     "summary": "The biggest headlines from the past few days...\nSource",
     "category": "industry-news",
@@ -57,10 +180,10 @@
     "imageUrl": null,
     "tags": [],
     "readTime": 1,
-    "fetchedAt": "2026-05-09T01:56:44.660Z"
+    "fetchedAt": "2026-05-10T01:55:28.965Z"
   },
   {
-    "id": "news-1778291804658-0",
+    "id": "news-1778378128962-2",
     "title": "Cloudflare says AI made 1,100 jobs obsolete, even as revenue hit a record high",
     "summary": "Cloudflare announced its first large-scale layoff. CEO Matthew Prince says because of AI efficiency gains, the company doesn't need as many support roles.",
     "category": "ai-research",
@@ -73,10 +196,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-05-09T01:56:44.658Z"
+    "fetchedAt": "2026-05-10T01:55:28.962Z"
   },
   {
-    "id": "news-1778291804658-1",
+    "id": "news-1778378128963-3",
     "title": "The “people’s airline” and the enterprise AI gold rush",
     "summary": "Everyone wants a piece of the enterprise AI pie, and this week, we saw a string of companies making their moves. From Anthropic and OpenAI announcing new joint ventures targeting enterprise AI deployment to SAP dropping $1B on German AI startup Prior Labs, it’s becoming clear that if you’re a startup building enterprise tools, you’re likely an acquisition target.  On this episode of TechCrunch’s Eq",
     "category": "industry-news",
@@ -90,26 +213,10 @@
       "Startup"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-05-09T01:56:44.658Z"
+    "fetchedAt": "2026-05-10T01:55:28.963Z"
   },
   {
-    "id": "news-1778291804659-19",
-    "title": "Nick Bostrom Has a Plan for Humanity’s ‘Big Retirement’",
-    "summary": "The philosopher thinks humans should pursue advanced AI and the promise of a “solved world.”",
-    "category": "tech-innovation",
-    "source": "Wired AI",
-    "author": "Unknown",
-    "publishedAt": "2026-05-08T15:00:00.000Z",
-    "url": "https://www.wired.com/story/nick-bostrom-has-a-plan-for-humanitys-big-retirement/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-05-09T01:56:44.659Z"
-  },
-  {
-    "id": "news-1778291804659-20",
+    "id": "news-1778378128965-26",
     "title": "There’s a Long-Shot Proposal to Protect California Workers From AI",
     "summary": "California gubernatorial candidate Tom Steyer is proposing a new jobs guarantee for workers displaced by artificial intelligence.",
     "category": "ai-research",
@@ -122,10 +229,26 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-05-09T01:56:44.659Z"
+    "fetchedAt": "2026-05-10T01:55:28.965Z"
   },
   {
-    "id": "news-1778291804659-21",
+    "id": "news-1778378128965-27",
+    "title": "Nick Bostrom Has a Plan for Humanity’s ‘Big Retirement’",
+    "summary": "The philosopher thinks humans should pursue advanced AI and the promise of a “solved world.”",
+    "category": "tech-innovation",
+    "source": "Wired AI",
+    "author": "Unknown",
+    "publishedAt": "2026-05-08T15:00:00.000Z",
+    "url": "https://www.wired.com/story/nick-bostrom-has-a-plan-for-humanitys-big-retirement/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-05-10T01:55:28.965Z"
+  },
+  {
+    "id": "news-1778378128965-28",
     "title": "The New Wild West of AI Kids’ Toys",
     "summary": "These cuddly, connected companions could disrupt everything from make-believe to bedtime stories. No wonder some lawmakers want them banned.",
     "category": "tech-innovation",
@@ -138,10 +261,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-05-09T01:56:44.659Z"
+    "fetchedAt": "2026-05-10T01:55:28.965Z"
   },
   {
-    "id": "news-1778291804660-30",
+    "id": "news-1778378128965-36",
     "title": "Sony generated $3.03bn from recorded music and publishing in calendar Q1 2026, up 19.5% YoY",
     "summary": "Recorded music streaming revenue (combining subscription and ad-funded streaming) was up 13.6% YoY.\nSource",
     "category": "industry-news",
@@ -154,165 +277,37 @@
       "Streaming"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-05-09T01:56:44.660Z"
+    "fetchedAt": "2026-05-10T01:55:28.965Z"
   },
   {
-    "id": "news-1778291804659-2",
-    "title": "The fax machine is the bottleneck in US healthcare, and VCs are starting to notice",
-    "summary": "Like many AI companies automating work that humans currently do, Basata will eventually face a harder question about where the line is between augmenting workers and displacing them. For now, the founders say the administrative staff they work with aren't worried about that; they're more worried about drowning.",
+    "id": "news-1778378128964-23",
+    "title": "Anthropic Introduces Natural Language Autoencoders That Convert Claude’s Internal Activations Directly into Human-Readable Text Explanations",
+    "summary": "When you type a message to Claude, something invisible happens in the middle. The words you send get converted into long lists of numbers called activations that the model uses to process context and generate a response. These activations are, in effect, where the model’s “thinking” lives. The problem is nobody can easily read them. […]\nThe post Anthropic Introduces Natural Language Autoencoders That Convert Claude’s Internal Activations Directly into Human-Readable",
     "category": "ai-research",
-    "source": "TechCrunch AI",
+    "source": "MarkTechPost",
     "author": "Unknown",
-    "publishedAt": "2026-05-08T04:42:29.000Z",
-    "url": "https://techcrunch.com/2026/05/07/the-back-office-problem-that-explains-why-specialists-never-call-you-back/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-05-09T01:56:44.659Z"
-  },
-  {
-    "id": "news-1778291804660-31",
-    "title": "Jieun Kim promoted to President of Warner Music Korea",
-    "summary": "Exec to lead the company’s operations and strategic expansion within the world’s seventh-largest recorded music market\nSource",
-    "category": "industry-news",
-    "source": "Music Business Worldwide",
-    "author": "Unknown",
-    "publishedAt": "2026-05-08T04:01:21.000Z",
-    "url": "https://www.musicbusinessworldwide.com/jieun-kim-promoted-to-president-of-warner-music-korea/",
+    "publishedAt": "2026-05-08T07:45:09.000Z",
+    "url": "https://www.marktechpost.com/2026/05/08/anthropic-introduces-natural-language-autoencoders-that-convert-claudes-internal-activations-directly-into-human-readable-text-explanations/",
     "imageUrl": null,
     "tags": [],
     "readTime": 1,
-    "fetchedAt": "2026-05-09T01:56:44.660Z"
+    "fetchedAt": "2026-05-10T01:55:28.964Z"
   },
   {
-    "id": "news-1778291804659-22",
-    "title": "Musk v. Altman Evidence Shows What Microsoft Executives Thought of OpenAI",
-    "summary": "Leaders at the tech giant were skeptical of OpenAI—but wary of pushing it into the arms of Amazon, according to emails dating back to 2018.",
-    "category": "tech-innovation",
-    "source": "Wired AI",
-    "author": "Unknown",
-    "publishedAt": "2026-05-08T01:42:14.000Z",
-    "url": "https://www.wired.com/story/microsoft-executives-discuss-openai-sam-altman-2018/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-05-09T01:56:44.659Z"
-  },
-  {
-    "id": "news-1778291804659-3",
-    "title": "OpenAI launches new voice intelligence features in its API",
-    "summary": "The new features could be handy for customer service systems, but OpenAI says they have applications that work across a variety of other fields, including education and creator platforms. ",
-    "category": "tech-innovation",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-05-07T22:24:50.000Z",
-    "url": "https://techcrunch.com/2026/05/07/openai-launches-new-voice-intelligence-features-in-its-api/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-05-09T01:56:44.659Z"
-  },
-  {
-    "id": "news-1778291804659-23",
-    "title": "Trump Pivots on AI Regulation, Worker Ousted by DOGE Runs for Office, and Hantavirus Explained",
-    "summary": "Today on Uncanny Valley, we’re diving into recent reports that the Trump administration is considering an executive order that would establish some sort of federal oversight over new AI models.",
+    "id": "news-1778378128964-24",
+    "title": "OpenAI Releases Three Realtime Audio Models: GPT-Realtime-2, GPT-Realtime-Translate, and GPT-Realtime-Whisper in the Realtime API",
+    "summary": "Three purpose-built audio models expand what developers can build with live voice: reasoning agents, speech translation across 70+ languages, and streaming transcription.\nThe post OpenAI Releases Three Realtime Audio Models: GPT-Realtime-2, GPT-Realtime-Translate, and GPT-Realtime-Whisper in the Realtime API appeared first on MarkTechPost.\n",
     "category": "ai-research",
-    "source": "Wired AI",
+    "source": "MarkTechPost",
     "author": "Unknown",
-    "publishedAt": "2026-05-07T21:37:20.000Z",
-    "url": "https://www.wired.com/story/uncanny-valley-podcast-trump-pivots-ai-regulation-worker-ousted-by-doge-runs-for-office-hantavirus-explained/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-05-09T01:56:44.659Z"
-  },
-  {
-    "id": "news-1778291804660-32",
-    "title": "Warner Music Group generated $1.73B in calendar Q1 2026; subscription streaming revenues rose 12.7% YoY",
-    "summary": "Warner Music Group published its calendar Q1 results today (May 7)\nSource",
-    "category": "industry-news",
-    "source": "Music Business Worldwide",
-    "author": "Unknown",
-    "publishedAt": "2026-05-07T21:15:00.000Z",
-    "url": "https://www.musicbusinessworldwide.com/warner-music-group-generated-1-73bn-in-calendar-q1-2026-subscription-streaming-revenues-rose-12-7-yoy/",
-    "imageUrl": null,
-    "tags": [
-      "Streaming"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-05-09T01:56:44.660Z"
-  },
-  {
-    "id": "news-1778291804659-4",
-    "title": "Voi founders’ new AI startup Pit has become the latest rising star out of Stockholm",
-    "summary": "AI startup Pit is led by the co-founders of European scooter giant Voi and backed by a16z, which is leading the startup’s $16 million seed round. ",
-    "category": "industry-news",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-05-07T21:02:11.000Z",
-    "url": "https://techcrunch.com/2026/05/07/voi-founders-new-ai-startup-pit-has-become-the-latest-rising-star-out-of-stockholm/",
+    "publishedAt": "2026-05-08T07:05:36.000Z",
+    "url": "https://www.marktechpost.com/2026/05/08/openai-releases-three-realtime-audio-models-gpt-realtime-2-gpt-realtime-translate-and-gpt-realtime-whisper-in-the-realtime-api/",
     "imageUrl": null,
     "tags": [
       "AI",
-      "Startup"
+      "Streaming"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-05-09T01:56:44.659Z"
-  },
-  {
-    "id": "news-1778291804659-24",
-    "title": "How to Disable Google's Gemini in Chrome",
-    "summary": "Chrome users were caught off guard by a 4-GB Google AI model baked into Chrome, sparking privacy concerns. The good news: You can easily uninstall it. The bad? You might not want to.",
-    "category": "ai-research",
-    "source": "Wired AI",
-    "author": "Unknown",
-    "publishedAt": "2026-05-07T20:31:57.000Z",
-    "url": "https://www.wired.com/story/you-can-disable-gemini-in-chrome-if-its-freaking-you-out/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-05-09T01:56:44.659Z"
-  },
-  {
-    "id": "news-1778291804659-5",
-    "title": "OpenAI introduces new ‘Trusted Contact’ safeguard for cases of possible self-harm",
-    "summary": "The company is expanding its efforts to protect ChatGPT users in cases where conversations may turn to self-harm. ",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-05-07T20:20:20.000Z",
-    "url": "https://techcrunch.com/2026/05/07/openai-introduces-new-trusted-contact-safeguard-for-cases-of-possible-self-harm/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-05-09T01:56:44.659Z"
-  },
-  {
-    "id": "news-1778291804659-6",
-    "title": "Perplexity’s Personal Computer is now available to everyone on Mac",
-    "summary": "Perplexity's Personal Computer brings AI agents to your Mac, and is now open to everyone. ",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-05-07T19:57:59.000Z",
-    "url": "https://techcrunch.com/2026/05/07/perplexitys-personal-computer-is-now-available-everyone-on-mac/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-05-09T01:56:44.659Z"
+    "fetchedAt": "2026-05-10T01:55:28.964Z"
   }
 ]
