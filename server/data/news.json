@@ -1,20 +1,143 @@
 [
   {
-    "id": "news-1778378128966-43",
-    "title": "Charli xcx Releases ‘I Keep On Thinking Bout You Every Single Day and Night’ as ‘Rock Music’ Vinyl B-Side",
-    "summary": "There's a music video on Charli's Instagram side account, but the track is otherwise exclusive to the \"Rock Music\" 7\" single.",
+    "id": "news-1778465161259-44",
+    "title": "Morgan Wallen Walks Out With Caitlin Clark at Indianapolis Stadium Concert",
+    "summary": "The WNBA star made a stadium entrance with Wallen following Indiana Fever's game against the Dallas Wings on Saturday (May 9).",
     "category": "industry-news",
     "source": "Billboard",
     "author": "Unknown",
-    "publishedAt": "2026-05-09T22:44:30.000Z",
-    "url": "https://www.billboard.com/music/music-news/charli-xcx-keep-on-thinking-bout-you-every-single-day-night-1236243591/",
+    "publishedAt": "2026-05-10T22:03:05.000Z",
+    "url": "https://www.billboard.com/music/music-news/morgan-wallen-caitlin-clark-walkout-indianapolis-concert-1236243974/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-05-11T02:06:01.259Z"
+  },
+  {
+    "id": "news-1778465161259-45",
+    "title": "‘Michael’ Becomes 2nd Music Biopic to Top $500 Million in Global Boxoffice Grosses: See the Full List",
+    "summary": "The films on this list cover a wide range of genres, including rap, classical, country, Latin and contemporary Christian.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-05-10T20:44:49.000Z",
+    "url": "https://www.billboard.com/lists/top-grossing-music-biopics-movies/",
     "imageUrl": null,
     "tags": [],
     "readTime": 1,
-    "fetchedAt": "2026-05-10T01:55:28.966Z"
+    "fetchedAt": "2026-05-11T02:06:01.259Z"
   },
   {
-    "id": "news-1778378128964-19",
+    "id": "news-1778465161257-0",
+    "title": "Anthropic says ‘evil’ portrayals of AI were responsible for Claude’s blackmail attempts",
+    "summary": "Fictional portrayals of artificial intelligence can have a real effect on AI models, according to Anthropic.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-05-10T20:40:41.000Z",
+    "url": "https://techcrunch.com/2026/05/10/anthropic-says-evil-portrayals-of-ai-were-responsible-for-claudes-blackmail-attempts/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-05-11T02:06:01.257Z"
+  },
+  {
+    "id": "news-1778465161259-46",
+    "title": "Noah Kahan’s ‘The Great Divide’ Spends Second Week Atop Billboard 200",
+    "summary": "Plus: Kacey Musgraves has the week’s top debut, while Michael Jackson has two albums in the top 10.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-05-10T19:02:45.000Z",
+    "url": "https://www.billboard.com/music/chart-beat/noah-kahan-the-great-divide-second-week-atop-billboard-200-1236243954/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-05-11T02:06:01.259Z"
+  },
+  {
+    "id": "news-1778465161258-20",
+    "title": "OpenClaw vs Hermes Agent: Why Nous Research’s Self-Improving Agent Now Leads OpenRouter’s Global Rankings",
+    "summary": "Hermes Agent, the open-source self-improving AI agent from Nous Research, has overtaken OpenClaw to claim the #1 position on OpenRouter's global daily token rankings as of May 10, 2026 — generating 224 billion daily tokens versus OpenClaw's 186 billion. The milestone places a Nous Research project ahead of an OpenAI-sponsored platform in real-world daily inference volume, just three months after launch.\nThe post OpenClaw vs Hermes Agent: Why Nous Research’s Self-Improving Agent Now Leads O",
+    "category": "ai-research",
+    "source": "MarkTechPost",
+    "author": "Unknown",
+    "publishedAt": "2026-05-10T16:20:53.000Z",
+    "url": "https://www.marktechpost.com/2026/05/10/openclaw-vs-hermes-agent-why-nous-researchs-self-improving-agent-now-leads-openrouters-global-rankings/",
+    "imageUrl": null,
+    "tags": [
+      "AI",
+      "Research"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-05-11T02:06:01.258Z"
+  },
+  {
+    "id": "news-1778465161258-21",
+    "title": "How to Build a Cost-Aware LLM Routing System with NadirClaw Using Local Prompt Classification and Gemini Model Switching",
+    "summary": "In this tutorial, we explore NadirClaw as an intelligent routing layer that classifies prompts into simple and complex tiers before sending them to the most suitable model. We start by installing the required packages, setting up an optional Gemini API key, and testing the local classifier through the NadirClaw CLI without making any live LLM […]\nThe post How to Build a Cost-Aware LLM Routing System with NadirClaw Using Local Prompt Classification and Gemini Model Switching appeared first ",
+    "category": "ai-research",
+    "source": "MarkTechPost",
+    "author": "Unknown",
+    "publishedAt": "2026-05-10T15:18:43.000Z",
+    "url": "https://www.marktechpost.com/2026/05/10/how-to-build-a-cost-aware-llm-routing-system-with-nadirclaw-using-local-prompt-classification-and-gemini-model-switching/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-05-11T02:06:01.258Z"
+  },
+  {
+    "id": "news-1778465161259-47",
+    "title": "Noah Kahan Performs ‘Doors’ and ‘The Great Divide’ on ‘SNL’ in Second Musical Guest Appearance",
+    "summary": "The Grammy-nominated singer-songwriter appeared on the show two weeks after releasing The Great Divide.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-05-10T06:45:52.000Z",
+    "url": "https://www.billboard.com/culture/tv-film/noah-kahan-snl-musical-guest-host-matt-damon-1236243751/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-05-11T02:06:01.259Z"
+  },
+  {
+    "id": "news-1778465161258-22",
+    "title": "NVIDIA AI Just Released cuda-oxide: An Experimental Rust-to-CUDA Compiler Backend that Compiles SIMT GPU Kernels Directly to PTX",
+    "summary": "NVlabs releases cuda-oxide v0.1.0, a custom rustc codegen backend that compiles #[kernel]-annotated Rust functions to PTX through a Rust → Stable MIR → Pliron IR → LLVM IR → PTX pipeline, with single-source host+device compilation from one cargo oxide build command.\nThe post NVIDIA AI Just Released cuda-oxide: An Experimental Rust-to-CUDA Compiler Backend that Compiles SIMT GPU Kernels Directly to PTX appeared first on MarkTechPost.\n",
+    "category": "ai-research",
+    "source": "MarkTechPost",
+    "author": "Unknown",
+    "publishedAt": "2026-05-10T06:01:13.000Z",
+    "url": "https://www.marktechpost.com/2026/05/09/nvidia-ai-just-released-cuda-oxide-an-experimental-rust-to-cuda-compiler-backend-that-compiles-simt-gpu-kernels-directly-to-ptx/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-05-11T02:06:01.258Z"
+  },
+  {
+    "id": "news-1778465161257-1",
+    "title": "Voice AI in India is hard. Wispr Flow is betting on it anyway.",
+    "summary": "Wispr Flow says growth accelerated in India after its Hinglish rollout, even as voice AI products continue to face challenges.",
+    "category": "tech-innovation",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-05-10T02:00:00.000Z",
+    "url": "https://techcrunch.com/2026/05/09/voice-ai-in-india-is-hard-wispr-flow-is-betting-on-it-anyway/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-05-11T02:06:01.257Z"
+  },
+  {
+    "id": "news-1778465161258-23",
     "title": "NVIDIA AI Releases Star Elastic: One Checkpoint that Contains 30B, 23B, and 12B Reasoning Models with Zero-Shot Slicing",
     "summary": "NVIDIA researchers have introduced Star Elastic, a post-training method that embeds multiple nested reasoning models — at 30B, 23B, and 12B parameter scales — inside a single checkpoint, eliminating the need for separate training runs or stored model weights per variant. Built on the Nemotron Elastic framework and applied to Nemotron Nano v3, the method trains all three variants in a single 160B-token run, achieving a 360× token reduction compared to pretraining each model from scratch. Beyond t",
     "category": "tech-innovation",
@@ -28,10 +151,10 @@
       "Research"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-05-10T01:55:28.964Z"
+    "fetchedAt": "2026-05-11T02:06:01.258Z"
   },
   {
-    "id": "news-1778378128962-0",
+    "id": "news-1778465161257-2",
     "title": "So you’ve heard these AI terms and nodded along; let’s fix that",
     "summary": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
     "category": "ai-research",
@@ -44,54 +167,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-05-10T01:55:28.962Z"
+    "fetchedAt": "2026-05-11T02:06:01.257Z"
   },
   {
-    "id": "news-1778378128966-44",
-    "title": "Olivia Rodrigo ‘Unraveled’ Tour 2026-27: Here’s Where to Get Affordable Concert Tickets Online",
-    "summary": "Starting on Sept. 25, the pop star hits the road with tour dates across the U.S.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-05-09T17:23:27.000Z",
-    "url": "https://www.billboard.com/culture/product-recommendations/olivia-rodrigo-2026-2027-tour-tickets-buy-online-1236243454/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-05-10T01:55:28.966Z"
-  },
-  {
-    "id": "news-1778378128966-45",
-    "title": "Peso Pluma Speaks at First CUNY-Wide Mexican-American Graduation & More Uplifting Moments in Latin Music",
-    "summary": "Plus, Venezuelan singer Eduardo Galán opens his own art exhibition in Venice. ",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-05-09T14:54:51.000Z",
-    "url": "https://www.billboard.com/music/latin/peso-pluma-cuny-graduation-guest-speaker-uplifting-moments-1236243438/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-05-10T01:55:28.966Z"
-  },
-  {
-    "id": "news-1778378128966-46",
-    "title": "5 Highlights From Olivia Rodrigo’s Invite-OnlySpotify Billions Club Live Show in Barcelona: ‘The Most Beautiful City Ever’",
-    "summary": "Billboard was onsite for the concert featuring Rodrigo's biggest hits ahead of the major El Clásico match at Spotify Camp Nou.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-05-09T14:51:12.000Z",
-    "url": "https://www.billboard.com/lists/olivia-rodrigo-barcelona-spotify-billions-club-live-recap/",
-    "imageUrl": null,
-    "tags": [
-      "Spotify"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-05-10T01:55:28.966Z"
-  },
-  {
-    "id": "news-1778378128962-1",
+    "id": "news-1778465161257-3",
     "title": "Nvidia has already committed $40B to equity AI deals this year",
     "summary": "Nvidia continues to be a big investor in the AI ecosystem.",
     "category": "industry-news",
@@ -104,24 +183,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-05-10T01:55:28.962Z"
+    "fetchedAt": "2026-05-11T02:06:01.257Z"
   },
   {
-    "id": "news-1778378128966-47",
-    "title": "Don Toliver Brings High-‘Octane’ & YEAT to Rolling Loud Orlando for Electric Headlining Performance",
-    "summary": "The Cactus Jack artist used Rolling Loud Orlando to kick off his Octane Tour. ",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-05-09T14:38:05.000Z",
-    "url": "https://www.billboard.com/music/rb-hip-hop/don-toliver-rolling-loud-orlando-night-one-recap-1236243411/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-05-10T01:55:28.966Z"
-  },
-  {
-    "id": "news-1778378128964-20",
+    "id": "news-1778465161258-24",
     "title": "9 Best AI Tools for Spec-Driven Development in 2026: Kiro, BMAD, GSD, and More Compare",
     "summary": "Vibe coding gets you to a prototype. Spec-driven development gets you to production. As AI coding agents grow more powerful, the engineering community has quietly split into two camps: developers who prompt iteratively and hope for the best, and developers who write structured specifications first and let agents execute against them. The second group is shipping faster, with fewer regressions, and with code that survives review. This guide covers the 9 AI tools driving that shift in 2026 — from ",
     "category": "tech-innovation",
@@ -134,10 +199,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-05-10T01:55:28.964Z"
+    "fetchedAt": "2026-05-11T02:06:01.258Z"
   },
   {
-    "id": "news-1778378128964-21",
+    "id": "news-1778465161258-25",
     "title": "Meet GitHub Spec-Kit: An Open Source Toolkit for Spec-Driven Development with AI Coding Agents",
     "summary": "If you have spent time using AI coding agents — GitHub Copilot, Claude Code, Gemini CLI — you have probably run into this situation: you describe what you want, the agent generates a block of code that looks correct, compiles, and then subtly misses the actual intent. This “vibe-coding” approach can work for quick prototypes […]\nThe post Meet GitHub Spec-Kit: An Open Source Toolkit for Spec-Driven Development with AI Coding Agents appeared first on MarkTechPost.\n",
     "category": "ai-research",
@@ -150,10 +215,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-05-10T01:55:28.964Z"
+    "fetchedAt": "2026-05-11T02:06:01.258Z"
   },
   {
-    "id": "news-1778378128964-22",
+    "id": "news-1778465161258-26",
     "title": "OpenAI Adds Chrome Extension to Codex, Letting Its AI Agent Access LinkedIn, Salesforce, Gmail, and Internal Tools via Signed-In Sessions",
     "summary": "OpenAI has shipped a Chrome extension for Codex, its AI coding agent, enabling it to complete browser-based tasks directly inside Google Chrome on macOS and Windows — including interacting with signed-in websites, using Chrome DevTools, and running multi-step workflows across browser tabs.\nThe post OpenAI Adds Chrome Extension to Codex, Letting Its AI Agent Access LinkedIn, Salesforce, Gmail, and Internal Tools via Signed-In Sessions appeared first on MarkTechPost.\n",
     "category": "ai-research",
@@ -166,10 +231,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-05-10T01:55:28.964Z"
+    "fetchedAt": "2026-05-11T02:06:01.259Z"
   },
   {
-    "id": "news-1778378128965-35",
+    "id": "news-1778465161259-36",
     "title": "From Tencent Music’s 250K song takedowns to Sony and WMG’s calendar Q1 results… it’s MBW’s weekly round-up",
     "summary": "The biggest headlines from the past few days...\nSource",
     "category": "industry-news",
@@ -180,10 +245,10 @@
     "imageUrl": null,
     "tags": [],
     "readTime": 1,
-    "fetchedAt": "2026-05-10T01:55:28.965Z"
+    "fetchedAt": "2026-05-11T02:06:01.259Z"
   },
   {
-    "id": "news-1778378128962-2",
+    "id": "news-1778465161257-4",
     "title": "Cloudflare says AI made 1,100 jobs obsolete, even as revenue hit a record high",
     "summary": "Cloudflare announced its first large-scale layoff. CEO Matthew Prince says because of AI efficiency gains, the company doesn't need as many support roles.",
     "category": "ai-research",
@@ -196,10 +261,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-05-10T01:55:28.962Z"
+    "fetchedAt": "2026-05-11T02:06:01.257Z"
   },
   {
-    "id": "news-1778378128963-3",
+    "id": "news-1778465161258-5",
     "title": "The “people’s airline” and the enterprise AI gold rush",
     "summary": "Everyone wants a piece of the enterprise AI pie, and this week, we saw a string of companies making their moves. From Anthropic and OpenAI announcing new joint ventures targeting enterprise AI deployment to SAP dropping $1B on German AI startup Prior Labs, it’s becoming clear that if you’re a startup building enterprise tools, you’re likely an acquisition target.  On this episode of TechCrunch’s Eq",
     "category": "industry-news",
@@ -213,10 +278,10 @@
       "Startup"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-05-10T01:55:28.963Z"
+    "fetchedAt": "2026-05-11T02:06:01.258Z"
   },
   {
-    "id": "news-1778378128965-26",
+    "id": "news-1778465161259-27",
     "title": "There’s a Long-Shot Proposal to Protect California Workers From AI",
     "summary": "California gubernatorial candidate Tom Steyer is proposing a new jobs guarantee for workers displaced by artificial intelligence.",
     "category": "ai-research",
@@ -229,10 +294,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-05-10T01:55:28.965Z"
+    "fetchedAt": "2026-05-11T02:06:01.259Z"
   },
   {
-    "id": "news-1778378128965-27",
+    "id": "news-1778465161259-28",
     "title": "Nick Bostrom Has a Plan for Humanity’s ‘Big Retirement’",
     "summary": "The philosopher thinks humans should pursue advanced AI and the promise of a “solved world.”",
     "category": "tech-innovation",
@@ -245,69 +310,6 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-05-10T01:55:28.965Z"
-  },
-  {
-    "id": "news-1778378128965-28",
-    "title": "The New Wild West of AI Kids’ Toys",
-    "summary": "These cuddly, connected companions could disrupt everything from make-believe to bedtime stories. No wonder some lawmakers want them banned.",
-    "category": "tech-innovation",
-    "source": "Wired AI",
-    "author": "Unknown",
-    "publishedAt": "2026-05-08T10:00:00.000Z",
-    "url": "https://www.wired.com/story/the-new-wild-west-of-ai-kids-toys/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-05-10T01:55:28.965Z"
-  },
-  {
-    "id": "news-1778378128965-36",
-    "title": "Sony generated $3.03bn from recorded music and publishing in calendar Q1 2026, up 19.5% YoY",
-    "summary": "Recorded music streaming revenue (combining subscription and ad-funded streaming) was up 13.6% YoY.\nSource",
-    "category": "industry-news",
-    "source": "Music Business Worldwide",
-    "author": "Unknown",
-    "publishedAt": "2026-05-08T09:30:33.000Z",
-    "url": "https://www.musicbusinessworldwide.com/bad-bunny-sony-generated-up-19-5-yoy/",
-    "imageUrl": null,
-    "tags": [
-      "Streaming"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-05-10T01:55:28.965Z"
-  },
-  {
-    "id": "news-1778378128964-23",
-    "title": "Anthropic Introduces Natural Language Autoencoders That Convert Claude’s Internal Activations Directly into Human-Readable Text Explanations",
-    "summary": "When you type a message to Claude, something invisible happens in the middle. The words you send get converted into long lists of numbers called activations that the model uses to process context and generate a response. These activations are, in effect, where the model’s “thinking” lives. The problem is nobody can easily read them. […]\nThe post Anthropic Introduces Natural Language Autoencoders That Convert Claude’s Internal Activations Directly into Human-Readable",
-    "category": "ai-research",
-    "source": "MarkTechPost",
-    "author": "Unknown",
-    "publishedAt": "2026-05-08T07:45:09.000Z",
-    "url": "https://www.marktechpost.com/2026/05/08/anthropic-introduces-natural-language-autoencoders-that-convert-claudes-internal-activations-directly-into-human-readable-text-explanations/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-05-10T01:55:28.964Z"
-  },
-  {
-    "id": "news-1778378128964-24",
-    "title": "OpenAI Releases Three Realtime Audio Models: GPT-Realtime-2, GPT-Realtime-Translate, and GPT-Realtime-Whisper in the Realtime API",
-    "summary": "Three purpose-built audio models expand what developers can build with live voice: reasoning agents, speech translation across 70+ languages, and streaming transcription.\nThe post OpenAI Releases Three Realtime Audio Models: GPT-Realtime-2, GPT-Realtime-Translate, and GPT-Realtime-Whisper in the Realtime API appeared first on MarkTechPost.\n",
-    "category": "ai-research",
-    "source": "MarkTechPost",
-    "author": "Unknown",
-    "publishedAt": "2026-05-08T07:05:36.000Z",
-    "url": "https://www.marktechpost.com/2026/05/08/openai-releases-three-realtime-audio-models-gpt-realtime-2-gpt-realtime-translate-and-gpt-realtime-whisper-in-the-realtime-api/",
-    "imageUrl": null,
-    "tags": [
-      "AI",
-      "Streaming"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-05-10T01:55:28.964Z"
+    "fetchedAt": "2026-05-11T02:06:01.259Z"
   }
 ]
