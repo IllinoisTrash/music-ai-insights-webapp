@@ -1,315 +1,304 @@
 [
   {
-    "id": "news-1778465161259-44",
-    "title": "Morgan Wallen Walks Out With Caitlin Clark at Indianapolis Stadium Concert",
-    "summary": "The WNBA star made a stadium entrance with Wallen following Indiana Fever's game against the Dallas Wings on Saturday (May 9).",
+    "id": "news-1778551306870-44",
+    "title": "Nettwerk Music Group Founders Terry McBride & Mark Jowett to Receive Lifetime Achievement Award at 2026 Libera Awards",
+    "summary": "They’ll receive the honor on June 8 at Gotham Hall in New York City.",
     "category": "industry-news",
     "source": "Billboard",
     "author": "Unknown",
-    "publishedAt": "2026-05-10T22:03:05.000Z",
-    "url": "https://www.billboard.com/music/music-news/morgan-wallen-caitlin-clark-walkout-indianapolis-concert-1236243974/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-05-11T02:06:01.259Z"
-  },
-  {
-    "id": "news-1778465161259-45",
-    "title": "‘Michael’ Becomes 2nd Music Biopic to Top $500 Million in Global Boxoffice Grosses: See the Full List",
-    "summary": "The films on this list cover a wide range of genres, including rap, classical, country, Latin and contemporary Christian.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-05-10T20:44:49.000Z",
-    "url": "https://www.billboard.com/lists/top-grossing-music-biopics-movies/",
+    "publishedAt": "2026-05-12T00:45:44.000Z",
+    "url": "https://www.billboard.com/pro/nettwerk-music-group-founders-honored-2026-libera-awards/",
     "imageUrl": null,
     "tags": [],
     "readTime": 1,
-    "fetchedAt": "2026-05-11T02:06:01.259Z"
+    "fetchedAt": "2026-05-12T02:01:46.870Z"
   },
   {
-    "id": "news-1778465161257-0",
-    "title": "Anthropic says ‘evil’ portrayals of AI were responsible for Claude’s blackmail attempts",
-    "summary": "Fictional portrayals of artificial intelligence can have a real effect on AI models, according to Anthropic.",
+    "id": "news-1778551306868-0",
+    "title": "Riding an AI rally, Robinhood preps second retail venture IPO",
+    "summary": "Robinhood files confidentially for its second venture fund, this time targeting growth and early-stage startups.",
     "category": "ai-research",
     "source": "TechCrunch AI",
     "author": "Unknown",
-    "publishedAt": "2026-05-10T20:40:41.000Z",
-    "url": "https://techcrunch.com/2026/05/10/anthropic-says-evil-portrayals-of-ai-were-responsible-for-claudes-blackmail-attempts/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-05-11T02:06:01.257Z"
-  },
-  {
-    "id": "news-1778465161259-46",
-    "title": "Noah Kahan’s ‘The Great Divide’ Spends Second Week Atop Billboard 200",
-    "summary": "Plus: Kacey Musgraves has the week’s top debut, while Michael Jackson has two albums in the top 10.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-05-10T19:02:45.000Z",
-    "url": "https://www.billboard.com/music/chart-beat/noah-kahan-the-great-divide-second-week-atop-billboard-200-1236243954/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-05-11T02:06:01.259Z"
-  },
-  {
-    "id": "news-1778465161258-20",
-    "title": "OpenClaw vs Hermes Agent: Why Nous Research’s Self-Improving Agent Now Leads OpenRouter’s Global Rankings",
-    "summary": "Hermes Agent, the open-source self-improving AI agent from Nous Research, has overtaken OpenClaw to claim the #1 position on OpenRouter's global daily token rankings as of May 10, 2026 — generating 224 billion daily tokens versus OpenClaw's 186 billion. The milestone places a Nous Research project ahead of an OpenAI-sponsored platform in real-world daily inference volume, just three months after launch.\nThe post OpenClaw vs Hermes Agent: Why Nous Research’s Self-Improving Agent Now Leads O",
-    "category": "ai-research",
-    "source": "MarkTechPost",
-    "author": "Unknown",
-    "publishedAt": "2026-05-10T16:20:53.000Z",
-    "url": "https://www.marktechpost.com/2026/05/10/openclaw-vs-hermes-agent-why-nous-researchs-self-improving-agent-now-leads-openrouters-global-rankings/",
-    "imageUrl": null,
-    "tags": [
-      "AI",
-      "Research"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-05-11T02:06:01.258Z"
-  },
-  {
-    "id": "news-1778465161258-21",
-    "title": "How to Build a Cost-Aware LLM Routing System with NadirClaw Using Local Prompt Classification and Gemini Model Switching",
-    "summary": "In this tutorial, we explore NadirClaw as an intelligent routing layer that classifies prompts into simple and complex tiers before sending them to the most suitable model. We start by installing the required packages, setting up an optional Gemini API key, and testing the local classifier through the NadirClaw CLI without making any live LLM […]\nThe post How to Build a Cost-Aware LLM Routing System with NadirClaw Using Local Prompt Classification and Gemini Model Switching appeared first ",
-    "category": "ai-research",
-    "source": "MarkTechPost",
-    "author": "Unknown",
-    "publishedAt": "2026-05-10T15:18:43.000Z",
-    "url": "https://www.marktechpost.com/2026/05/10/how-to-build-a-cost-aware-llm-routing-system-with-nadirclaw-using-local-prompt-classification-and-gemini-model-switching/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-05-11T02:06:01.258Z"
-  },
-  {
-    "id": "news-1778465161259-47",
-    "title": "Noah Kahan Performs ‘Doors’ and ‘The Great Divide’ on ‘SNL’ in Second Musical Guest Appearance",
-    "summary": "The Grammy-nominated singer-songwriter appeared on the show two weeks after releasing The Great Divide.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-05-10T06:45:52.000Z",
-    "url": "https://www.billboard.com/culture/tv-film/noah-kahan-snl-musical-guest-host-matt-damon-1236243751/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-05-11T02:06:01.259Z"
-  },
-  {
-    "id": "news-1778465161258-22",
-    "title": "NVIDIA AI Just Released cuda-oxide: An Experimental Rust-to-CUDA Compiler Backend that Compiles SIMT GPU Kernels Directly to PTX",
-    "summary": "NVlabs releases cuda-oxide v0.1.0, a custom rustc codegen backend that compiles #[kernel]-annotated Rust functions to PTX through a Rust → Stable MIR → Pliron IR → LLVM IR → PTX pipeline, with single-source host+device compilation from one cargo oxide build command.\nThe post NVIDIA AI Just Released cuda-oxide: An Experimental Rust-to-CUDA Compiler Backend that Compiles SIMT GPU Kernels Directly to PTX appeared first on MarkTechPost.\n",
-    "category": "ai-research",
-    "source": "MarkTechPost",
-    "author": "Unknown",
-    "publishedAt": "2026-05-10T06:01:13.000Z",
-    "url": "https://www.marktechpost.com/2026/05/09/nvidia-ai-just-released-cuda-oxide-an-experimental-rust-to-cuda-compiler-backend-that-compiles-simt-gpu-kernels-directly-to-ptx/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-05-11T02:06:01.258Z"
-  },
-  {
-    "id": "news-1778465161257-1",
-    "title": "Voice AI in India is hard. Wispr Flow is betting on it anyway.",
-    "summary": "Wispr Flow says growth accelerated in India after its Hinglish rollout, even as voice AI products continue to face challenges.",
-    "category": "tech-innovation",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-05-10T02:00:00.000Z",
-    "url": "https://techcrunch.com/2026/05/09/voice-ai-in-india-is-hard-wispr-flow-is-betting-on-it-anyway/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-05-11T02:06:01.257Z"
-  },
-  {
-    "id": "news-1778465161258-23",
-    "title": "NVIDIA AI Releases Star Elastic: One Checkpoint that Contains 30B, 23B, and 12B Reasoning Models with Zero-Shot Slicing",
-    "summary": "NVIDIA researchers have introduced Star Elastic, a post-training method that embeds multiple nested reasoning models — at 30B, 23B, and 12B parameter scales — inside a single checkpoint, eliminating the need for separate training runs or stored model weights per variant. Built on the Nemotron Elastic framework and applied to Nemotron Nano v3, the method trains all three variants in a single 160B-token run, achieving a 360× token reduction compared to pretraining each model from scratch. Beyond t",
-    "category": "tech-innovation",
-    "source": "MarkTechPost",
-    "author": "Unknown",
-    "publishedAt": "2026-05-09T22:24:23.000Z",
-    "url": "https://www.marktechpost.com/2026/05/09/nvidia-ai-releases-star-elastic-one-checkpoint-that-contains-30b-23b-and-12b-reasoning-models-with-zero-shot-slicing/",
-    "imageUrl": null,
-    "tags": [
-      "AI",
-      "Research"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-05-11T02:06:01.258Z"
-  },
-  {
-    "id": "news-1778465161257-2",
-    "title": "So you’ve heard these AI terms and nodded along; let’s fix that",
-    "summary": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-05-09T21:45:00.000Z",
-    "url": "https://techcrunch.com/2026/05/09/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-05-11T02:06:01.257Z"
-  },
-  {
-    "id": "news-1778465161257-3",
-    "title": "Nvidia has already committed $40B to equity AI deals this year",
-    "summary": "Nvidia continues to be a big investor in the AI ecosystem.",
-    "category": "industry-news",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-05-09T14:43:30.000Z",
-    "url": "https://techcrunch.com/2026/05/09/nvidia-has-already-committed-40b-to-equity-ai-deals-this-year/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-05-11T02:06:01.257Z"
-  },
-  {
-    "id": "news-1778465161258-24",
-    "title": "9 Best AI Tools for Spec-Driven Development in 2026: Kiro, BMAD, GSD, and More Compare",
-    "summary": "Vibe coding gets you to a prototype. Spec-driven development gets you to production. As AI coding agents grow more powerful, the engineering community has quietly split into two camps: developers who prompt iteratively and hope for the best, and developers who write structured specifications first and let agents execute against them. The second group is shipping faster, with fewer regressions, and with code that survives review. This guide covers the 9 AI tools driving that shift in 2026 — from ",
-    "category": "tech-innovation",
-    "source": "MarkTechPost",
-    "author": "Unknown",
-    "publishedAt": "2026-05-09T06:01:32.000Z",
-    "url": "https://www.marktechpost.com/2026/05/08/9-best-ai-tools-for-spec-driven-development-in-2026-kiro-bmad-gsd-and-more-compare/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-05-11T02:06:01.258Z"
-  },
-  {
-    "id": "news-1778465161258-25",
-    "title": "Meet GitHub Spec-Kit: An Open Source Toolkit for Spec-Driven Development with AI Coding Agents",
-    "summary": "If you have spent time using AI coding agents — GitHub Copilot, Claude Code, Gemini CLI — you have probably run into this situation: you describe what you want, the agent generates a block of code that looks correct, compiles, and then subtly misses the actual intent. This “vibe-coding” approach can work for quick prototypes […]\nThe post Meet GitHub Spec-Kit: An Open Source Toolkit for Spec-Driven Development with AI Coding Agents appeared first on MarkTechPost.\n",
-    "category": "ai-research",
-    "source": "MarkTechPost",
-    "author": "Unknown",
-    "publishedAt": "2026-05-09T03:59:56.000Z",
-    "url": "https://www.marktechpost.com/2026/05/08/meet-github-spec-kit-an-open-source-toolkit-for-spec-driven-development-with-ai-coding-agents/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-05-11T02:06:01.258Z"
-  },
-  {
-    "id": "news-1778465161258-26",
-    "title": "OpenAI Adds Chrome Extension to Codex, Letting Its AI Agent Access LinkedIn, Salesforce, Gmail, and Internal Tools via Signed-In Sessions",
-    "summary": "OpenAI has shipped a Chrome extension for Codex, its AI coding agent, enabling it to complete browser-based tasks directly inside Google Chrome on macOS and Windows — including interacting with signed-in websites, using Chrome DevTools, and running multi-step workflows across browser tabs.\nThe post OpenAI Adds Chrome Extension to Codex, Letting Its AI Agent Access LinkedIn, Salesforce, Gmail, and Internal Tools via Signed-In Sessions appeared first on MarkTechPost.\n",
-    "category": "ai-research",
-    "source": "MarkTechPost",
-    "author": "Unknown",
-    "publishedAt": "2026-05-08T22:22:41.000Z",
-    "url": "https://www.marktechpost.com/2026/05/08/openai-adds-chrome-extension-to-codex-letting-its-ai-agent-access-linkedin-salesforce-gmail-and-internal-tools-via-signed-in-sessions/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-05-11T02:06:01.259Z"
-  },
-  {
-    "id": "news-1778465161259-36",
-    "title": "From Tencent Music’s 250K song takedowns to Sony and WMG’s calendar Q1 results… it’s MBW’s weekly round-up",
-    "summary": "The biggest headlines from the past few days...\nSource",
-    "category": "industry-news",
-    "source": "Music Business Worldwide",
-    "author": "Unknown",
-    "publishedAt": "2026-05-08T19:02:38.000Z",
-    "url": "https://www.musicbusinessworldwide.com/from-tencent-musics-250k-song-takedowns-to-warner-and-sonys-calendar-q1-results-its-mbws-weekly-round-up/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-05-11T02:06:01.259Z"
-  },
-  {
-    "id": "news-1778465161257-4",
-    "title": "Cloudflare says AI made 1,100 jobs obsolete, even as revenue hit a record high",
-    "summary": "Cloudflare announced its first large-scale layoff. CEO Matthew Prince says because of AI efficiency gains, the company doesn't need as many support roles.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-05-08T18:33:21.000Z",
-    "url": "https://techcrunch.com/2026/05/08/cloudflare-says-ai-made-1100-jobs-obsolete-even-as-revenue-hit-a-record-high/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-05-11T02:06:01.257Z"
-  },
-  {
-    "id": "news-1778465161258-5",
-    "title": "The “people’s airline” and the enterprise AI gold rush",
-    "summary": "Everyone wants a piece of the enterprise AI pie, and this week, we saw a string of companies making their moves. From Anthropic and OpenAI announcing new joint ventures targeting enterprise AI deployment to SAP dropping $1B on German AI startup Prior Labs, it’s becoming clear that if you’re a startup building enterprise tools, you’re likely an acquisition target.  On this episode of TechCrunch’s Eq",
-    "category": "industry-news",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-05-08T15:46:17.000Z",
-    "url": "https://techcrunch.com/podcast/the-peoples-airline-and-the-enterprise-ai-gold-rush/",
+    "publishedAt": "2026-05-12T00:09:01.000Z",
+    "url": "https://techcrunch.com/2026/05/11/riding-an-ai-rally-robinhood-preps-second-retail-venture-ipo/",
     "imageUrl": null,
     "tags": [
       "AI",
       "Startup"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-05-11T02:06:01.258Z"
+    "fetchedAt": "2026-05-12T02:01:46.868Z"
   },
   {
-    "id": "news-1778465161259-27",
-    "title": "There’s a Long-Shot Proposal to Protect California Workers From AI",
-    "summary": "California gubernatorial candidate Tom Steyer is proposing a new jobs guarantee for workers displaced by artificial intelligence.",
-    "category": "ai-research",
-    "source": "Wired AI",
-    "author": "Unknown",
-    "publishedAt": "2026-05-08T15:00:00.000Z",
-    "url": "https://www.wired.com/story/tom-steyer-proposes-jobs-guarantee-to-protect-california-workers-from-ai/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-05-11T02:06:01.259Z"
-  },
-  {
-    "id": "news-1778465161259-28",
-    "title": "Nick Bostrom Has a Plan for Humanity’s ‘Big Retirement’",
-    "summary": "The philosopher thinks humans should pursue advanced AI and the promise of a “solved world.”",
+    "id": "news-1778551306869-28",
+    "title": "Ilya Sutskever Stands by His Role in Sam Altman’s OpenAI Ouster: ‘I Didn’t Want It to Be Destroyed’",
+    "summary": "The former OpenAI chief scientist may be estranged from the company, but he still came to its defense as he testified on Monday.",
     "category": "tech-innovation",
     "source": "Wired AI",
     "author": "Unknown",
-    "publishedAt": "2026-05-08T15:00:00.000Z",
-    "url": "https://www.wired.com/story/nick-bostrom-has-a-plan-for-humanitys-big-retirement/",
+    "publishedAt": "2026-05-11T23:51:35.000Z",
+    "url": "https://www.wired.com/story/ilya-sutskever-testifies-musk-v-altman-trial/",
     "imageUrl": null,
     "tags": [
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-05-11T02:06:01.259Z"
+    "fetchedAt": "2026-05-12T02:01:46.870Z"
+  },
+  {
+    "id": "news-1778551306870-45",
+    "title": "Trade Group to Strengthen Local Music Ecosystems in the U.S. Announces Launch",
+    "summary": "The Association of Music Offices launches with 14 government music offices, community organizations and industry partners.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-05-11T23:47:36.000Z",
+    "url": "https://www.billboard.com/pro/trade-group-strengthen-local-us-music-ecosystems-launches/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-05-12T02:01:46.870Z"
+  },
+  {
+    "id": "news-1778551306870-46",
+    "title": "When Effie Met Effie: Watch Jennifer Hudson & Jenifer Lewis Perform a ‘Dreamgirls’ Duet",
+    "summary": "Both stars played the role of Effie White in the iconic musical.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-05-11T23:45:31.000Z",
+    "url": "https://www.billboard.com/culture/tv-film/jennifer-hudson-jenifer-lewis-duet-i-am-changing-dreamgirls-1236245013/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-05-12T02:01:46.870Z"
+  },
+  {
+    "id": "news-1778551306870-47",
+    "title": "Here’s Where to Get Affordable Concert Tickets to Shakira’s ‘Las Mujeres Ya No Lloran’ Tour Online",
+    "summary": "The Colombian singer/songwriter hits the road with tour dates across the United States starting on June 13.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-05-11T23:35:03.000Z",
+    "url": "https://www.billboard.com/culture/product-recommendations/shakira-2026-tour-tickets-buy-online-1236243482/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-05-12T02:01:46.870Z"
+  },
+  {
+    "id": "news-1778551306868-1",
+    "title": "GM just laid off hundreds of IT workers to hire those with stronger AI skills",
+    "summary": "Some of the positions focus on AI-native development, data engineering and analytics, cloud-based engineering, and agent and model development as well as prompt engineering and new AI workflows.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-05-11T23:04:10.000Z",
+    "url": "https://techcrunch.com/2026/05/11/gm-just-laid-off-hundreds-of-it-workers-to-hire-those-with-stronger-ai-skills/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-05-12T02:01:46.868Z"
+  },
+  {
+    "id": "news-1778551306870-48",
+    "title": "Agnez Mo Says Her New Music is Finally Coming Out This Year & New Season of ‘Reacher’ | Gold Gala 2026",
+    "summary": "Agnez Mo caught up with Izzy Ngov on the red carpet at the 2026 Gold Gala.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-05-11T23:01:00.000Z",
+    "url": "https://www.billboard.com/video/agnez-mo-says-her-new-music-is-finally-coming-out-this-year/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-05-12T02:01:46.870Z"
+  },
+  {
+    "id": "news-1778551306870-49",
+    "title": "Michael Jackson Now Has a Billboard 200 Top 10 Album In Each Decade Since the ‘70s — Who Else Does?",
+    "summary": "The King of Pop's greatest-hits album Number Ones becomes his 11th top 10.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-05-11T22:48:25.000Z",
+    "url": "https://www.billboard.com/music/chart-beat/michael-jackson-billboard-200-top-10-album-six-decades-1236244011/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-05-12T02:01:46.870Z"
+  },
+  {
+    "id": "news-1778551306869-22",
+    "title": "Understanding LLM Distillation Techniques",
+    "summary": "Modern large language models are no longer trained only on raw internet text. Increasingly, companies are using powerful “teacher” models to help train smaller or more efficient “student” models. This process, broadly known as LLM distillation or model-to-model training, has become a key technique for building high-performing models at lower computational cost. Meta used its […]\nThe post Understanding LLM Distillation Techniques  appeared first on MarkTechPost.\n",
+    "category": "ai-research",
+    "source": "MarkTechPost",
+    "author": "Unknown",
+    "publishedAt": "2026-05-11T20:20:16.000Z",
+    "url": "https://www.marktechpost.com/2026/05/11/understanding-llm-distillation-techniques/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-05-12T02:01:46.869Z"
+  },
+  {
+    "id": "news-1778551306868-2",
+    "title": "Digg tries again, this time as an AI news aggregator",
+    "summary": "In an email to beta testers, the company said the site's goal is to \"track the most influential voices in a space\" and to surface the news that's actually worth \"paying attention to.\" ",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-05-11T17:02:35.000Z",
+    "url": "https://techcrunch.com/2026/05/11/digg-tries-again-this-time-as-an-ai-news-aggregator/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-05-12T02:01:46.868Z"
+  },
+  {
+    "id": "news-1778551306870-36",
+    "title": "HYBE taps PLEDIS’ Jiwon No, SEVENTEEN producer Sung Soo Han for new girl group label ABD",
+    "summary": "Jiwon No, who previously served as Head of Artist Planning at PLEDIS, was named President of the new label.\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-05-11T13:53:39.000Z",
+    "url": "https://www.musicbusinessworldwide.com/hybe-taps-pledis-jiwon-no-seventeen-producer-sung-soo-han-for-new-girl-group-label-abd/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-05-12T02:01:46.870Z"
+  },
+  {
+    "id": "news-1778551306870-37",
+    "title": "India’s Zee Entertainment sues Reliance-Disney venture JioStar over alleged music copyright infringement (report)",
+    "summary": "Reuters reported that Zee is seeking $3M in damages over the alleged unauthorized use of its music\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-05-11T13:20:33.000Z",
+    "url": "https://www.musicbusinessworldwide.com/indias-zee-entertainment-sues-reliance-disney-venture-jiostar-over-alleged-music-copyright-infringement-report/",
+    "imageUrl": null,
+    "tags": [
+      "AI",
+      "Copyright"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-05-12T02:01:46.870Z"
+  },
+  {
+    "id": "news-1778551306868-3",
+    "title": "There aren’t enough rockets for space data centers — Cowboy Space raised $275M to build them",
+    "summary": "The apparently insatiable demand for AI compute has data center entrepreneurs looking to the stars. There's a key problem: There aren't enough rockets to put data centers in orbit around Earth, and they're too expensive.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-05-11T13:00:00.000Z",
+    "url": "https://techcrunch.com/2026/05/11/there-arent-enough-rockets-for-space-data-centers-cowboy-space-raised-275-million-to-build-them/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-05-12T02:01:46.868Z"
+  },
+  {
+    "id": "news-1778551306870-38",
+    "title": "Beatles fans will be able to visit the London rooftop where the band played their final concert – when Apple Corps opens 3 Savile Row as a ticketed experience in 2027",
+    "summary": "The Beatles at 3 Savile Row, due to open in 2027, will give the public access to the building for the first time.\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-05-11T12:40:51.000Z",
+    "url": "https://www.musicbusinessworldwide.com/beatles-fans-will-be-able-to-visit-the-london-rooftop-where-the-band-played-their-final-concert-when-apple-corps-opens-3-savile-row-as-a-ticketed-experience-in-2027/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-05-12T02:01:46.870Z"
+  },
+  {
+    "id": "news-1778551306870-39",
+    "title": "Songwriters sue HYBE, NewJeans, claiming elements of ‘How Sweet’ were taken from their rejected demo",
+    "summary": "The songwriters alleged that NewJeans' creative agency received the demo and told the plaintiffs their topline was liked but would not be used.\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-05-11T12:03:52.000Z",
+    "url": "https://www.musicbusinessworldwide.com/songwriters-sue-hybe-newjeans-claiming-elements-of-how-sweet-were-taken-from-their-rejected-demo/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-05-12T02:01:46.870Z"
+  },
+  {
+    "id": "news-1778551306870-40",
+    "title": "Sony Music Publishing confirms agreement to acquire Blackstone’s Recognition Music Group catalog, encompassing over 45,000 songs",
+    "summary": "The deal, announced on Monday (May 11), is subject to customary closing conditions.\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-05-11T11:13:36.000Z",
+    "url": "https://www.musicbusinessworldwide.com/sony-music-publishing-confirms-agreement-to-acquire-blackstones-recognition-music-group-encompassing-over-45000-songs/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-05-12T02:01:46.870Z"
+  },
+  {
+    "id": "news-1778551306870-41",
+    "title": "Michael Jackson biopic passes $500 million at global box office – as Sony Music reaps streaming windfall from catalog stake",
+    "summary": "That makes it only the second music biopic ever to cross the $500 million threshold, after 2018's Bohemian Rhapsody.\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-05-11T10:59:54.000Z",
+    "url": "https://www.musicbusinessworldwide.com/michael-jackson-biopic-passes-500-million-at-global-box-office-as-sony-music-reaps-streaming-windfall-from-catalog-stake/",
+    "imageUrl": null,
+    "tags": [
+      "Streaming"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-05-12T02:01:46.870Z"
+  },
+  {
+    "id": "news-1778551306870-42",
+    "title": "Red Hot Chili Peppers sells recorded music catalog to Warner Music Group for $300 million+",
+    "summary": "Band had been shopping catalog since early last year, according to reports\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-05-11T10:28:43.000Z",
+    "url": "https://www.musicbusinessworldwide.com/red-hot-chili-peppers-sells-recorded-music-catalog-to-warner-music-group-for-300-million/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-05-12T02:01:46.870Z"
+  },
+  {
+    "id": "news-1778551306870-43",
+    "title": "Native Instruments acquired by inMusic, owner of Akai and Moog, three months after entering insolvency",
+    "summary": "The deal comes roughly three months after Native Instruments entered preliminary insolvency proceedings in Germany.\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-05-11T10:17:53.000Z",
+    "url": "https://www.musicbusinessworldwide.com/native-instruments-acquired-by-inmusic-owner-of-akai-and-moog-three-months-after-entering-insolvency/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-05-12T02:01:46.870Z"
   }
 ]
