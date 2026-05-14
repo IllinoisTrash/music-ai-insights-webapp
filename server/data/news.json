@@ -1,306 +1,314 @@
 [
   {
-    "id": "news-1778638041846-42",
-    "title": "Green Day-Inspired Comedy ‘NIMRODS’ to Hit Movie Theaters This Summer",
-    "summary": "The upcoming film is co-produced by the band & is inspired by its tour life adventures. ",
+    "id": "news-1778724584604-46",
+    "title": "Eladio Carrión’s ‘CORSA’ Races Into Top 10 on Top Latin Albums Chart",
+    "summary": "With the new arrival, the rapper and Latin trap singer claims his seventh top 10.",
     "category": "industry-news",
     "source": "Billboard",
     "author": "Unknown",
-    "publishedAt": "2026-05-13T01:55:05.000Z",
-    "url": "https://www.billboard.com/culture/tv-film/green-day-inspired-comedy-nimrods-theatrical-release-date-1236246419/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-05-13T02:07:21.846Z"
-  },
-  {
-    "id": "news-1778638041846-43",
-    "title": "Kacey Musgraves’ ‘Middle of Nowhere’ Tops 3 Billboard Album Charts",
-    "summary": "The set also scores her best vinyl sales week ever.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-05-13T01:26:02.000Z",
-    "url": "https://www.billboard.com/music/chart-beat/kacey-musgraves-middle-of-nowhere-tops-billboard-charts-1236246464/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-05-13T02:07:21.846Z"
-  },
-  {
-    "id": "news-1778638041842-0",
-    "title": "Medicare’s new payment model is built for AI, and most of the tech world has no idea",
-    "summary": "There is no governmental mechanism to pay for an AI agent that monitors a patient between visits, calls to check in, coordinates a housing referral, or makes sure someone picks up their medication. ACCESS creates that mechanism for the first time.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-05-13T00:26:48.000Z",
-    "url": "https://techcrunch.com/2026/05/12/medicares-new-payment-model-is-built-for-ai-and-most-of-the-tech-world-has-no-idea/",
+    "publishedAt": "2026-05-14T01:03:25.000Z",
+    "url": "https://www.billboard.com/music/chart-beat/eladio-carrions-corsa-top-10-top-latin-albums-chart-1236247908/",
     "imageUrl": null,
     "tags": [
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-05-13T02:07:21.843Z"
+    "fetchedAt": "2026-05-14T02:09:44.604Z"
   },
   {
-    "id": "news-1778638041845-26",
-    "title": "Elon Musk Had ‘Hair-Raising’ Idea of Passing OpenAI On to His Kids, Sam Altman Says",
-    "summary": "Musk’s lawyers questioned Altman over allegations of deception and his network of financial investments, but the OpenAI CEO painted a picture of Musk as obsessed with controlling the company.",
-    "category": "tech-innovation",
-    "source": "Wired AI",
+    "id": "news-1778724584604-47",
+    "title": "DaBaby’s ‘Pop Dat Thang’ Hits No. 1 on Hot Rap Songs Chart",
+    "summary": "The rapper rules the list for the first time since “Rockstar” in 2020.",
+    "category": "industry-news",
+    "source": "Billboard",
     "author": "Unknown",
-    "publishedAt": "2026-05-13T00:10:05.000Z",
-    "url": "https://www.wired.com/story/sam-altman-testifies-musk-v-altman-trial/",
+    "publishedAt": "2026-05-13T22:11:51.000Z",
+    "url": "https://www.billboard.com/music/chart-beat/dababy-pop-dat-thang-number-1-hot-rap-songs-chart-1236247813/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-05-14T02:09:44.604Z"
+  },
+  {
+    "id": "news-1778724584604-48",
+    "title": "Michael Jackson’s Catalog Is Still Setting Records in ‘Michael’ Biopic’s Third Week (And Janet Is Up Too)",
+    "summary": "This week's Trending Up looks at the Jackson siblings' respective streaming gains since the release of 'Michael,' along with new-old hits from Katy Perry and The Chemical Brothers.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-05-13T21:55:41.000Z",
+    "url": "https://www.billboard.com/music/chart-beat/michael-jackson-janet-jackson-streams-trending-up-1236247833/",
     "imageUrl": null,
     "tags": [
       "AI",
-      "Investment"
+      "Streaming"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-05-13T02:07:21.845Z"
+    "fetchedAt": "2026-05-14T02:09:44.604Z"
   },
   {
-    "id": "news-1778638041845-27",
-    "title": "xAI Adds 19 New Gas Turbines Despite Ongoing Lawsuit",
-    "summary": "Emails show that Elon Musk’s company is expanding its use of portable gas-fired power at its Colossus 2 site as a fight over air quality continues.",
-    "category": "tech-innovation",
-    "source": "Wired AI",
+    "id": "news-1778724584602-0",
+    "title": "Notion just turned its workspace into a hub for AI agents",
+    "summary": "Notion’s new developer platform lets teams connect AI agents, external data sources, and custom code directly into their workspace as the company pushes deeper into agentic productivity software.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
     "author": "Unknown",
-    "publishedAt": "2026-05-13T00:00:00.000Z",
-    "url": "https://www.wired.com/story/xai-adds-19-new-gas-turbines-despite-ongoing-lawsuit/",
+    "publishedAt": "2026-05-13T21:45:09.000Z",
+    "url": "https://techcrunch.com/2026/05/13/notion-just-turned-its-workspace-into-a-hub-for-ai-agents/",
     "imageUrl": null,
     "tags": [
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-05-13T02:07:21.845Z"
+    "fetchedAt": "2026-05-14T02:09:44.602Z"
   },
   {
-    "id": "news-1778638041846-44",
-    "title": "Ye Loses Copyright Trial Over Uncleared ‘Donda’ Demo Sample",
-    "summary": "A jury held the rapper liable for infringing an instrumental track at a 2021 listening party for his chart-topping album.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-05-12T23:58:48.000Z",
-    "url": "https://www.billboard.com/pro/kanye-west-loses-trial-sample-donda-song-hurricane/",
-    "imageUrl": null,
-    "tags": [
-      "Copyright"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-05-13T02:07:21.846Z"
-  },
-  {
-    "id": "news-1778638041846-45",
-    "title": "Linda Perry Talks ‘Let It Die Here’ Documentary & Album, Plus 4 Non Blondes’ ‘What’s Up?’ Viral Moment: ‘You Can’t Buy That Kind of Marketing’",
-    "summary": "The legendary songwriter & frontwoman also talks to the Billboard Pop Shop Podcast about reuniting with her '90s band for a new album.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-05-12T23:30:02.000Z",
-    "url": "https://www.billboard.com/media/podcasts/linda-perry-interview-let-it-here-film-album-pop-shop-podcast-1236246396/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-05-13T02:07:21.846Z"
-  },
-  {
-    "id": "news-1778638041846-33",
-    "title": "Warner Music launches Atlantic Records Finland, led by Fredi Lundén and Kristiina Wheeler",
-    "summary": "Lundén promoted to Director, Atlantic Records Finland; Wheeler joins as Senior A&R\nSource",
-    "category": "industry-news",
-    "source": "Music Business Worldwide",
-    "author": "Unknown",
-    "publishedAt": "2026-05-12T23:01:06.000Z",
-    "url": "https://www.musicbusinessworldwide.com/warner-music-launches-atlantic-records-finland-led-by-fredi-lunden-and-kristiina-wheeler/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-05-13T02:07:21.846Z"
-  },
-  {
-    "id": "news-1778638041846-46",
-    "title": "Michael Jackson’s ‘Thriller’ Returns to No. 1 on Top R&B/Hip-Hop Albums Chart for First Time in 4 Decades",
-    "summary": "The late icon also completes a top two domination on the chart unseen since 1969.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-05-12T22:43:25.000Z",
-    "url": "https://www.billboard.com/lists/michael-jackson-thriller-returns-number-one-rb-hiphop-chart/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-05-13T02:07:21.846Z"
-  },
-  {
-    "id": "news-1778638041846-47",
-    "title": "Meghan Patrick Cancels Tour to Focus on Pregnancy: ‘My Health & My Baby Girl’s Well-Being Have to Come First’",
-    "summary": "Patrick told fans she's stepping away from the road this year, as she and husband Mitchell Tenpenny prepare to welcome a daughter.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-05-12T22:37:57.000Z",
-    "url": "https://www.billboard.com/music/country/meghan-patrick-cancels-tour-focus-pregnancy-1236246285/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-05-13T02:07:21.846Z"
-  },
-  {
-    "id": "news-1778638041846-48",
-    "title": "Rick Ross Says ‘Don’t Nobody Fear Drake’s Album Release’ Ahead of ‘Iceman’",
-    "summary": "\"When somebody step out of line and you gotta chastise them or give them a spanking, that's what you do,\" Rozay says of his feud with Drake. ",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-05-12T22:30:08.000Z",
-    "url": "https://www.billboard.com/music/rb-hip-hop/rick-ross-drake-iceman-hot-97-1236246167/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-05-13T02:07:21.846Z"
-  },
-  {
-    "id": "news-1778638041845-20",
-    "title": "Build a Hybrid-Memory Autonomous Agent with Modular Architecture and Tool Dispatch Using OpenAI",
-    "summary": "In this tutorial, we begin by exploring the architecture behind a hybrid-memory autonomous agent. This system combines semantic vector search, keyword-based retrieval, and a modular tool-dispatching loop to create an agent capable of reasoning, remembering, and acting autonomously. We walk through each layer of the design from the ground up, starting with abstract interfaces that […]\nThe post Build a Hybrid-Memory Autonomous Agent with Modular Architecture and Tool Dispatch Using OpenAI ap",
+    "id": "news-1778724584603-22",
+    "title": "Enterprise AI Governance in 2026: Why the Tools Employees Use Are Ahead of the Policies That Cover Them",
+    "summary": "63% of organizations have no AI governance policy. Shadow AI is already running inside your stack — here is the data.\nThe post Enterprise AI Governance in 2026: Why the Tools Employees Use Are Ahead of the Policies That Cover Them appeared first on MarkTechPost.\n",
     "category": "ai-research",
     "source": "MarkTechPost",
     "author": "Unknown",
-    "publishedAt": "2026-05-12T21:55:57.000Z",
-    "url": "https://www.marktechpost.com/2026/05/12/build-a-hybrid-memory-autonomous-agent-with-modular-architecture-and-tool-dispatch-using-openai/",
+    "publishedAt": "2026-05-13T21:44:37.000Z",
+    "url": "https://www.marktechpost.com/2026/05/13/enterprise-ai-governance-in-2026-why-the-tools-employees-use-are-ahead-of-the-policies-that-cover-them/",
     "imageUrl": null,
     "tags": [
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-05-13T02:07:21.845Z"
+    "fetchedAt": "2026-05-14T02:09:44.603Z"
   },
   {
-    "id": "news-1778638041846-34",
-    "title": "Warner Music Group’s Armin Zerza adds COO role to his remit, just one year after joining as CFO",
-    "summary": "Zerza's new remit as COO will encompass corporate development, central marketing, business and market intelligence, and WMX\nSource",
+    "id": "news-1778724584604-49",
+    "title": "Billboard’s Music Industry Events Calendar",
+    "summary": "A complete rundown of the most important events across the music business.",
     "category": "industry-news",
-    "source": "Music Business Worldwide",
+    "source": "Billboard",
     "author": "Unknown",
-    "publishedAt": "2026-05-12T19:41:29.000Z",
-    "url": "https://www.musicbusinessworldwide.com/warner-music-groups-armin-zerza-adds-coo-role-to-his-remit-just-one-year-after-joining-as-cfo/",
+    "publishedAt": "2026-05-13T21:27:00.000Z",
+    "url": "https://www.billboard.com/pro/music-industry-events-calendar-festivals-awards-conferences/",
     "imageUrl": null,
     "tags": [],
     "readTime": 1,
-    "fetchedAt": "2026-05-13T02:07:21.846Z"
+    "fetchedAt": "2026-05-14T02:09:44.604Z"
   },
   {
-    "id": "news-1778638041846-35",
-    "title": "Bertelsmann veteran Björn Bauer named CFO of combined BMG-Concord music company",
-    "summary": "The appointment will take effect upon closing of the BMG-Concord merger, which is expected to fall in the second half of 2026.\nSource",
+    "id": "news-1778724584604-50",
+    "title": "26 Top Graduation Songs for the Class of 2026",
+    "summary": "Check out these tracks for rad grads.",
     "category": "industry-news",
-    "source": "Music Business Worldwide",
+    "source": "Billboard",
     "author": "Unknown",
-    "publishedAt": "2026-05-12T19:31:44.000Z",
-    "url": "https://www.musicbusinessworldwide.com/bertelsmann-veteran-bjorn-bauer-named-designated-cfo-of-combined-bmg-concord-music-company/",
+    "publishedAt": "2026-05-13T21:00:00.000Z",
+    "url": "https://www.billboard.com/lists/best-graduation-songs-playlist/",
     "imageUrl": null,
     "tags": [],
     "readTime": 1,
-    "fetchedAt": "2026-05-13T02:07:21.846Z"
+    "fetchedAt": "2026-05-14T02:09:44.604Z"
   },
   {
-    "id": "news-1778638041846-36",
-    "title": "If you thought the US music industry was concerned about AI, you should hear what they’re saying in China.",
-    "summary": "Tencent Music has explicitly blamed the 'proliferation of unauthorized AI-generated content' for creating 'headwinds' for its music subscription growth.\nSource",
-    "category": "industry-news",
-    "source": "Music Business Worldwide",
-    "author": "Unknown",
-    "publishedAt": "2026-05-12T19:17:37.000Z",
-    "url": "https://www.musicbusinessworldwide.com/if-you-thought-the-us-music-industry-was-concerned-about-ai-you-should-hear-what-theyre-saying-in-china/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-05-13T02:07:21.846Z"
-  },
-  {
-    "id": "news-1778638041843-1",
-    "title": "Musk mulled handing OpenAI to his children, Altman testifies",
-    "summary": "Altman said that Musk's focus on controlling the initial for-profit gave him pause because OpenAI was dedicated to keeping advanced AI out of the hands of a single person, and Altman, with his experience running the prominent startup accelerator Y Combinator, knew \"founders who had control usually did not give it up.\"",
+    "id": "news-1778724584602-1",
+    "title": "Musk’s xAI is running nearly 50 gas turbines unchecked at its Mississippi data center",
+    "summary": "Gas turbines at xAI's Colossus 2 data center have drawn a lawsuit over the company's use of \"mobile\" gas turbines as power plants.",
     "category": "ai-research",
     "source": "TechCrunch AI",
     "author": "Unknown",
-    "publishedAt": "2026-05-12T18:05:15.000Z",
-    "url": "https://techcrunch.com/2026/05/12/musk-mulled-handing-openai-to-his-children-altman-testifies/",
+    "publishedAt": "2026-05-13T19:49:42.000Z",
+    "url": "https://techcrunch.com/2026/05/13/musks-xai-is-running-nearly-50-gas-turbines-unchecked-at-its-mississippi-data-center/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-05-14T02:09:44.602Z"
+  },
+  {
+    "id": "news-1778724584602-2",
+    "title": "Anthropic’s Cat Wu says that, in the future, AI will anticipate your needs before you know what they are",
+    "summary": "The head of product for Claude Code and Cowork says that the next big step for AI is proactivity.  ",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-05-13T19:28:06.000Z",
+    "url": "https://techcrunch.com/2026/05/13/anthropics-cat-wu-says-that-in-the-future-ai-will-anticipate-your-needs-before-you-know-what-they-are/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-05-14T02:09:44.602Z"
+  },
+  {
+    "id": "news-1778724584603-29",
+    "title": "What It Will Take to Make AI Sustainable",
+    "summary": "Researcher Sasha Luccioni argues we need better emissions data and a better sense of how people are using AI in the first place.",
+    "category": "tech-innovation",
+    "source": "Wired AI",
+    "author": "Unknown",
+    "publishedAt": "2026-05-13T19:15:59.000Z",
+    "url": "https://www.wired.com/story/what-it-will-take-to-make-ai-sustainable/",
     "imageUrl": null,
     "tags": [
       "AI",
-      "Startup"
+      "Research"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-05-13T02:07:21.843Z"
+    "fetchedAt": "2026-05-14T02:09:44.603Z"
   },
   {
-    "id": "news-1778638041843-2",
-    "title": "Report: Google and SpaceX in talks to put data centers into orbit",
-    "summary": "Google and SpaceX are in talks to build data centers in orbit, pitching space as the future home for AI compute, even as costs today remain far higher than on the ground.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-05-12T17:30:57.000Z",
-    "url": "https://techcrunch.com/2026/05/12/report-google-and-spacex-in-talks-to-put-data-centers-into-orbit/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-05-13T02:07:21.843Z"
-  },
-  {
-    "id": "news-1778638041846-37",
-    "title": "Kobalt inks strategic partnership with LAA Music, founded by NFL agent Zac Hiller and music exec Justin Goldman",
-    "summary": "LAA Music says its artists and writers have already generated more than 4 billion streams since launching in 2025.\nSource",
+    "id": "news-1778724584604-37",
+    "title": "Sony Music Publishing wins Pop Publisher of the Year at 2026 BMI Awards… as Kendrick Lamar’s ‘Luther’ takes Song of the Year",
+    "summary": "SMP landed the title for representing 24 of the previous year's most-performed songs.\nSource",
     "category": "industry-news",
     "source": "Music Business Worldwide",
     "author": "Unknown",
-    "publishedAt": "2026-05-12T17:18:43.000Z",
-    "url": "https://www.musicbusinessworldwide.com/kobalt-inks-strategic-partnership-with-laa-music-founded-by-nfl-agent-zac-hiller-and-music-exec-justin-goldman/",
+    "publishedAt": "2026-05-13T19:06:45.000Z",
+    "url": "https://www.musicbusinessworldwide.com/sony-music-publishing-wins-pop-publisher-of-the-year-at-2026-bmi-awards-as-kendrick-lamars-luther-takes-song-of-the-year/",
     "imageUrl": null,
-    "tags": [
-      "Partnership"
-    ],
+    "tags": [],
     "readTime": 1,
-    "fetchedAt": "2026-05-13T02:07:21.846Z"
+    "fetchedAt": "2026-05-14T02:09:44.604Z"
   },
   {
-    "id": "news-1778638041843-3",
-    "title": "The AI legal services industry is heating up — Anthropic is getting in on the action",
-    "summary": "Anthropic's new tools are designed to help law firms automate specific clerical functions — things like document search and review, case law resources, deposition prep, document drafting, and other related areas. ",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
+    "id": "news-1778724584603-30",
+    "title": "Overworked AI Agents Turn Marxist, Researchers Find",
+    "summary": "In a recent experiment, mistreated AI agents started grumbling about inequality and calling for collective bargaining rights.",
+    "category": "tech-innovation",
+    "source": "Wired AI",
     "author": "Unknown",
-    "publishedAt": "2026-05-12T17:00:00.000Z",
-    "url": "https://techcrunch.com/2026/05/12/the-ai-legal-services-industry-is-heating-up-anthropic-is-getting-in-on-the-action/",
+    "publishedAt": "2026-05-13T18:08:33.000Z",
+    "url": "https://www.wired.com/story/overworked-ai-agents-turn-marxist-study/",
+    "imageUrl": null,
+    "tags": [
+      "AI",
+      "Research"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-05-14T02:09:44.603Z"
+  },
+  {
+    "id": "news-1778724584604-38",
+    "title": "Listeners engage less deeply with music labeled as AI – even when it’s actually human-made, academic study finds",
+    "summary": "The Wu and Holmes paper was based on two preregistered studies involving 399 US participants\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-05-13T17:28:07.000Z",
+    "url": "https://www.musicbusinessworldwide.com/listeners-engage-less-deeply-with-music-labeled-as-ai-even-when-its-actually-human-made-academic-study-finds/",
+    "imageUrl": null,
+    "tags": [
+      "AI",
+      "Research"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-05-14T02:09:44.604Z"
+  },
+  {
+    "id": "news-1778724584604-39",
+    "title": "Tencent Music investors see ByteDance’s Soda as a major threat. What is it, and why are they so worried?",
+    "summary": "MBW explains why Soda Music has become such a preoccupation for TME's shareholders.\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-05-13T17:24:30.000Z",
+    "url": "https://www.musicbusinessworldwide.com/tencent-music-investors-see-bytedances-soda-as-a-major-threat-what-is-it-and-why-are-they-so-worried/",
     "imageUrl": null,
     "tags": [
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-05-13T02:07:21.843Z"
+    "fetchedAt": "2026-05-14T02:09:44.604Z"
   },
   {
-    "id": "news-1778638041843-4",
-    "title": "Google brings agentic AI and vibe-coded widgets to Android",
-    "summary": "Gemini Intelligence will also include Gboard-based dictation and form-filling capabilities.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
+    "id": "news-1778724584604-40",
+    "title": "BMG acquires publishing interests in catalog of Jet, the band behind ‘Are You Gonna Be My Girl’, expanding on 2023 recordings deal",
+    "summary": "Jet released three studio albums and have sold more than 6.5 million records worldwide\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
     "author": "Unknown",
-    "publishedAt": "2026-05-12T17:00:00.000Z",
-    "url": "https://techcrunch.com/2026/05/12/google-brings-agentic-ai-and-vibe-coded-widgets-to-android/",
+    "publishedAt": "2026-05-13T17:24:22.000Z",
+    "url": "https://www.musicbusinessworldwide.com/bmg-acquires-publishing-interests-in-catalog-of-jet-the-band-behind-are-you-gonna-be-my-girl-expanding-on-2023-recordings-deal/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-05-14T02:09:44.604Z"
+  },
+  {
+    "id": "news-1778724584604-41",
+    "title": "Universal Music India strikes global distribution deal with indie artist services company first.wav",
+    "summary": "Company's operations span artist management, music distribution, and marketing\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-05-13T17:09:57.000Z",
+    "url": "https://www.musicbusinessworldwide.com/universal-music-india-strikes-global-distribution-deal-with-indie-artist-services-company-first-wav/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-05-14T02:09:44.604Z"
+  },
+  {
+    "id": "news-1778724584603-31",
+    "title": "OpenAI Brings Its Ass to Court",
+    "summary": "In Musk v. Altman, the company claimed a remarkable trophy was physical proof of Elon Musk’s concerning behavior.",
+    "category": "tech-innovation",
+    "source": "Wired AI",
+    "author": "Unknown",
+    "publishedAt": "2026-05-13T17:08:01.000Z",
+    "url": "https://www.wired.com/story/musk-altman-trial-ass-statue-evidence/",
     "imageUrl": null,
     "tags": [
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-05-13T02:07:21.843Z"
+    "fetchedAt": "2026-05-14T02:09:44.603Z"
+  },
+  {
+    "id": "news-1778724584602-3",
+    "title": "Origin Lab raises $8M to help video game companies sell data to world-model builders",
+    "summary": "Origin Lab will serve as a marketplace where AI labs can buy high-quality licensed data, and video-game companies can sell it.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-05-13T16:22:01.000Z",
+    "url": "https://techcrunch.com/2026/05/13/origin-lab-raises-8m-to-help-video-game-companies-sell-data-to-world-model-builders/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-05-14T02:09:44.602Z"
+  },
+  {
+    "id": "news-1778724584602-4",
+    "title": "Anthropic courts a new kind of customer: small business owners",
+    "summary": "For founders and investors, Anthropic's new offering signals that the AI platform wars are expanding downmarket and that the next major battleground for user acquisition isn't the Fortune 500; it's the 36 million small businesses that make up the backbone of the U.S. economy.",
+    "category": "tech-innovation",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-05-13T16:00:00.000Z",
+    "url": "https://techcrunch.com/2026/05/13/anthropic-courts-a-new-kind-of-customer-small-business-owners/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-05-14T02:09:44.602Z"
+  },
+  {
+    "id": "news-1778724584602-5",
+    "title": "Amazon launches an AI shopping assistant for the search bar, powered by Alexa+",
+    "summary": "Alexa for Shopping offers a voice- and touch-enabled shopping experience across mobile, desktop, and Echo Show smart displays. Alexa for Shopping provides more personalized recommendations and automates the shopping experience across Amazon and other online retailers.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-05-13T14:59:32.000Z",
+    "url": "https://techcrunch.com/2026/05/13/amazon-launches-an-ai-shopping-assistant-for-the-search-bar-powered-by-alexa/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-05-14T02:09:44.602Z"
   }
 ]
