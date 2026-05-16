@@ -1,36 +1,285 @@
 [
   {
-    "id": "news-1778810865815-38",
-    "title": "Will Paul McCartney Perform ‘Despacito’ on ‘SNL’? Will Ferrell & Marcello Hernandez Sure Think So",
-    "summary": "The Beatles singer/songwriter will make his fifth appearance as musical guest, almost 46 years to the day after his 1980 SNL debut.",
+    "id": "news-1778896807437-35",
+    "title": "ACM Awards 2026 Predictions: Who Will Take Home Top Honors?",
+    "summary": "Billboard offers predictions on which artists will add new awards wins to their career accomplishments.",
     "category": "industry-news",
     "source": "Billboard",
     "author": "Unknown",
-    "publishedAt": "2026-05-15T01:32:40.000Z",
-    "url": "https://www.billboard.com/culture/tv-film/paul-mccartney-snl-promos-will-ferrell-despacito-1236248764/",
+    "publishedAt": "2026-05-16T00:48:43.000Z",
+    "url": "https://www.billboard.com/lists/acm-awards-2026-predictions/",
     "imageUrl": null,
     "tags": [],
     "readTime": 1,
-    "fetchedAt": "2026-05-15T02:07:45.815Z"
+    "fetchedAt": "2026-05-16T02:00:07.437Z"
   },
   {
-    "id": "news-1778810865815-39",
-    "title": "Julieta Venegas Celebrates Her Norteño Roots with Vibrant New Album ‘Norteña’: Stream It Now",
-    "summary": "The album features heartfelt collaborations with Bronco, Natalia Lafourcade and more.",
+    "id": "news-1778896807437-36",
+    "title": "Drake Is Back With Three New Albums: ‘Iceman,’ ‘Maid of Honour’ & ‘Habibti’ | Billboard News",
+    "summary": "Drake returns by releasing three new albums ‘Iceman,’ ‘Maid of Honour’ and ‘Habibti.’ There are references to BTS and shots at DJ Khaled and LeBron James, and he reignites his feud with Kendrick Lamar through a new collaboration with Future on “Run to Atlanta” from ‘Iceman’ and more! Tetris KellyDrake name-drops BTS, reignites the Kendrick […]",
     "category": "industry-news",
     "source": "Billboard",
     "author": "Unknown",
-    "publishedAt": "2026-05-15T01:00:00.000Z",
-    "url": "https://www.billboard.com/music/latin/julieta-venegas-norteno-album-1236243380/",
+    "publishedAt": "2026-05-16T00:44:05.000Z",
+    "url": "https://www.billboard.com/video/drake-is-back-with-three-new-albums-iceman-maid-of-honour-and-habibti/",
     "imageUrl": null,
     "tags": [
+      "AI",
       "Partnership"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-05-15T02:07:45.815Z"
+    "fetchedAt": "2026-05-16T02:00:07.437Z"
   },
   {
-    "id": "news-1778810865815-27",
+    "id": "news-1778896807437-37",
+    "title": "Drake Sets 2026 Spotify Record for Most-Streamed Artist, Album & Song in a Single Day",
+    "summary": "His Iceman album & song \"Make Them Cry\" set the records.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-05-16T00:14:15.000Z",
+    "url": "https://www.billboard.com/music/rb-hip-hop/drake-iceman-2026-spotify-record-single-day-album-streams-1236249717/",
+    "imageUrl": null,
+    "tags": [
+      "Spotify"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-05-16T02:00:07.437Z"
+  },
+  {
+    "id": "news-1778896807437-38",
+    "title": "J-Pop Festival Zipangu & Xbox Team Up for Sung Kang Fashion Collab",
+    "summary": "Fans can enter to win the exclusive collab at the inaugural Zipangu festival at the Rose Bowl.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-05-15T23:11:35.000Z",
+    "url": "https://www.billboard.com/business/touring/j-pop-festival-zipangu-xbox-sung-kang-fashion-collab-1236249701/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-05-16T02:00:07.437Z"
+  },
+  {
+    "id": "news-1778896807437-39",
+    "title": "Watch Hilary Duff Sing 10-Year-Old Fan-Favorite Deep Cut for the First Time Ever",
+    "summary": "The singer said that performing her older songs feels \"more comfortable\" than the new ones.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-05-15T22:04:44.000Z",
+    "url": "https://www.billboard.com/music/music-news/hilary-duff-performs-breathe-in-breathe-out-first-time-ever-1236249650/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-05-16T02:00:07.437Z"
+  },
+  {
+    "id": "news-1778896807437-40",
+    "title": "In Canada: Spotify Raises Premium Prices, Marking First Major Canadian Hike in Nearly 2 Years",
+    "summary": "Also: FACTOR's Meg Symsyk is Billboard Canada's Executive of the Week, and how Toronto celebrated Drake's Iceman release. ",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-05-15T21:22:26.000Z",
+    "url": "https://www.billboard.com/pro/spotify-raises-premium-subscription-prices-canada-news/",
+    "imageUrl": null,
+    "tags": [
+      "Spotify",
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-05-16T02:00:07.437Z"
+  },
+  {
+    "id": "news-1778896807437-41",
+    "title": "Sech’s ‘SECHO GANG’ Album & More: Vote for the Best New Latin Music Release This Week",
+    "summary": "Which new Latin music release is your favorite? Vote below!",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-05-15T21:15:04.000Z",
+    "url": "https://www.billboard.com/music/latin/best-new-latin-music-release-poll-sech-becky-g-maluma-1236249006/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-05-16T02:00:07.437Z"
+  },
+  {
+    "id": "news-1778896807435-0",
+    "title": "The OpenAI trial wraps up, and the Musk founder machine keeps spinning",
+    "summary": "The Musk v. Altman trial came to a close this week, and the final arguments kept circling back to one question: can we trust the people in charge of AI? All of this is playing out as SpaceX charges toward what could be one of the largest IPOs in American history, with a whole generation of founders already spinning out […]",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-05-15T19:24:16.000Z",
+    "url": "https://techcrunch.com/podcast/the-openai-trial-wraps-up-and-the-musk-founder-machine-keeps-spinning/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-05-16T02:00:07.435Z"
+  },
+  {
+    "id": "news-1778896807435-1",
+    "title": "Silicon Valley’s vacationland needs a new energy provider just as AI is driving prices up",
+    "summary": "Lake Tahoe, Silicon Valley's favorite vacation spot, is about to get hit with higher energy prices as AI drives demand for electricity.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-05-15T18:14:44.000Z",
+    "url": "https://techcrunch.com/2026/05/15/silicon-valleys-vacationland-needs-a-new-energy-provider-just-as-ai-is-driving-prices-up/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-05-16T02:00:07.436Z"
+  },
+  {
+    "id": "news-1778896807437-27",
+    "title": "Barry Weiss’s RECORDS promotes Andrew Saltman to SVP of Artist Development, Sara Gil to General Manager",
+    "summary": "The pair will lead label operations across RECORDS and its country imprint RECORDS Nashville\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-05-15T17:33:44.000Z",
+    "url": "https://www.musicbusinessworldwide.com/barry-weisss-records-promotes-andrew-saltman-to-svp-of-artist-development-sara-gil-to-general-manager/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-05-16T02:00:07.437Z"
+  },
+  {
+    "id": "news-1778896807437-22",
+    "title": "Greg Brockman Officially Takes Control of OpenAI’s Products in Latest Shake-Up",
+    "summary": "OpenAI is once again reorganizing its executive ranks as part of its effort to unify ChatGPT and Codex into one core product experience.",
+    "category": "ai-research",
+    "source": "Wired AI",
+    "author": "Unknown",
+    "publishedAt": "2026-05-15T17:09:17.000Z",
+    "url": "https://www.wired.com/story/openai-reorg-greg-brockman-product/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-05-16T02:00:07.437Z"
+  },
+  {
+    "id": "news-1778896807437-28",
+    "title": "Meet 2026’s first breakout band, according to Luminate – a masked math rock duo called Angine de Poitrine, with weekly global on-demand streams up from under 2k to 11.2m in a single year",
+    "summary": "Band went viral after a KEXP performance that has since accumulated more than 14m YouTube views.\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-05-15T16:41:02.000Z",
+    "url": "https://www.musicbusinessworldwide.com/angine-de-poitrine-meet-2026s-first-breakout-band/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-05-16T02:00:07.437Z"
+  },
+  {
+    "id": "news-1778896807437-29",
+    "title": "From Sony Music Publishing’s $4 billion catalog deal to Live Nation’s ‘blue dot fever’ rebuttal… it’s MBW’s weekly round-up",
+    "summary": "The biggest headlines from the past few days...\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-05-15T16:10:27.000Z",
+    "url": "https://www.musicbusinessworldwide.com/from-sony-music-publishings-4-billion-catalog-deal-to-live-nations-blue-dot-fever-rebuttal-its-mbws-weekly-round-up/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-05-16T02:00:07.437Z"
+  },
+  {
+    "id": "news-1778896807436-2",
+    "title": "OpenAI launches ChatGPT for personal finance, will let you connect bank accounts",
+    "summary": "Once users connect their accounts, they will see a dashboard of their portfolio performance, spending, subscriptions, and upcoming payments.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-05-15T16:00:00.000Z",
+    "url": "https://techcrunch.com/2026/05/15/openai-launches-chatgpt-for-personal-finance-will-let-you-connect-bank-accounts/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-05-16T02:00:07.436Z"
+  },
+  {
+    "id": "news-1778896807437-30",
+    "title": "Russ honored with NMPA Gold & Platinum Recognition celebrating 26 certified songs",
+    "summary": "The plaque was presented by NMPA President & CEO David Israelite alongside Omar Grant, Senior Director of Creative at Sony Music Publishing\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-05-15T15:00:14.000Z",
+    "url": "https://www.musicbusinessworldwide.com/russ-honored-with-nmpa-gold-platinum-recognition-celebrating-26-certified-songs/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-05-16T02:00:07.437Z"
+  },
+  {
+    "id": "news-1778896807436-3",
+    "title": "Runway started by helping filmmakers — now it wants to beat Google at AI",
+    "summary": "AI video-generation startup Runway is betting that video generation is the path to world models. And that being an AI outsider is an advantage, not a liability.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-05-15T14:00:00.000Z",
+    "url": "https://techcrunch.com/2026/05/15/runway-started-by-helping-filmmakers-now-it-wants-to-beat-google-at-ai/",
+    "imageUrl": null,
+    "tags": [
+      "AI",
+      "Startup"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-05-16T02:00:07.436Z"
+  },
+  {
+    "id": "news-1778896807436-4",
+    "title": "Osaurus brings both local and cloud AI models to your Mac",
+    "summary": "Osaurus￼ combines local and cloud AI models in a Mac app that keeps users’ memory, files, and tools on their own hardware.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-05-15T12:19:48.000Z",
+    "url": "https://techcrunch.com/2026/05/15/osaurus-brings-both-local-and-cloud-ai-models-to-your-mac/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-05-16T02:00:07.436Z"
+  },
+  {
+    "id": "news-1778896807437-23",
+    "title": "Mira Murati Wants Her AI to ‘Keep Humans in the Loop’",
+    "summary": "The Thinking Machines Lab founder and former CTO of OpenAI tells WIRED she isn’t interested in automating people out of jobs. Instead, she’s building AI that can collaborate.",
+    "category": "tech-innovation",
+    "source": "Wired AI",
+    "author": "Unknown",
+    "publishedAt": "2026-05-15T09:00:00.000Z",
+    "url": "https://www.wired.com/story/mira-murati-humans-in-the-loop-ai-models-thinking-machines/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-05-16T02:00:07.437Z"
+  },
+  {
+    "id": "news-1778896807437-24",
     "title": "The Real Losers of the Musk v. Altman Trial",
     "summary": "A federal jury is now deciding whether Elon Musk will win his lawsuit against OpenAI and Sam Altman—but the trial has made everyone look bad.",
     "category": "tech-innovation",
@@ -43,100 +292,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-05-15T02:07:45.815Z"
+    "fetchedAt": "2026-05-16T02:00:07.437Z"
   },
   {
-    "id": "news-1778810865815-40",
-    "title": "Billboard’s Music Industry Events Calendar",
-    "summary": "A complete rundown of the most important events across the music business.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-05-14T23:40:00.000Z",
-    "url": "https://www.billboard.com/pro/music-industry-events-calendar-festivals-awards-conferences/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-05-15T02:07:45.815Z"
-  },
-  {
-    "id": "news-1778810865815-21",
-    "title": "Cline Releases Cline SDK: An Open-Source Agent Runtime Now Powering Its CLI and Kanban, With IDE Extensions Being Migrated",
-    "summary": "Cline has extracted its internal agent harness into an open-source TypeScript SDK called @cline/sdk, the same runtime now powering its CLI and Kanban, with VS Code and JetBrains extensions being migrated. The SDK is structured as a four-layer stack — @cline/shared, @cline/llms, @cline/agents, and @cline/core — with native support for plugins, subagents, CRON scheduling, checkpointing, and MCP connectors. On Terminal Benchmark 2.0, Cline CLI scored 74.2% on claude-opus-4.7, compared to Anthropic'",
-    "category": "ai-research",
-    "source": "MarkTechPost",
-    "author": "Unknown",
-    "publishedAt": "2026-05-14T22:57:17.000Z",
-    "url": "https://www.marktechpost.com/2026/05/14/cline-releases-cline-sdk-an-open-source-agent-runtime-now-powering-its-cli-and-kanban-with-ide-extensions-being-migrated/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-05-15T02:07:45.815Z"
-  },
-  {
-    "id": "news-1778810865815-41",
-    "title": "Neil Young Trademark Lawsuit Over ‘Chrome Hearts’ Band Name Dropped by Fashion Brand",
-    "summary": "The case, filed last summer, claimed that the name of the rock icon's new backing band infringed the trademarks of a long-standing fashion brand.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-05-14T22:24:54.000Z",
-    "url": "https://www.billboard.com/pro/neil-young-trademark-lawsuit-chrome-hearts-dropped-accuser/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-05-15T02:07:45.815Z"
-  },
-  {
-    "id": "news-1778810865815-42",
-    "title": "Red Light Management Founder Coran Capshaw to Be Honored at T.J. Martell Foundation’s NY Gala",
-    "summary": "Capshaw personally manages Dave Matthews Band, Phish, Chris Stapleton and The Strokes, among others. ",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-05-14T22:16:33.000Z",
-    "url": "https://www.billboard.com/pro/red-light-coran-capshaw-t-j-martell-foundation-gala/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-05-15T02:07:45.815Z"
-  },
-  {
-    "id": "news-1778810865815-43",
-    "title": "Jack Antonoff Calls Musicians Who Use AI ‘Godless Whores,’ Says Songwriting Has ‘Become an Ancient Ritual’",
-    "summary": "\"By all means drive right off that cliff,\" the producer wrote. \"We're genuinely happy to see you go.\"",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-05-14T22:09:30.000Z",
-    "url": "https://www.billboard.com/music/music-news/jack-antonoff-slams-ai-musicians-1236248638/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-05-15T02:07:45.816Z"
-  },
-  {
-    "id": "news-1778810865816-44",
-    "title": "Avicii Wax Figure Arrives at Madame Tussauds Las Vegas Ahead of EDC 2026: See Photos",
-    "summary": "The Avicii wax figure is being unveiled just ahead of EDC, which will draw upward of 200,000 dance music fans to Vegas. ",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-05-14T21:54:21.000Z",
-    "url": "https://www.billboard.com/music/music-news/avicii-wax-figure-madame-tussauds-las-vegas-1236248596/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-05-15T02:07:45.816Z"
-  },
-  {
-    "id": "news-1778810865815-31",
+    "id": "news-1778896807437-31",
     "title": "T.J. Martell Foundation to honor Red Light Management founder Coran Capshaw with Lifetime Music Industry Award",
     "summary": "Capshaw has built Red Light into what the company says is the world's largest independent artist management firm, with a roster that includes Dave Matthews Band, Phish, Chris Stapleton, and The Strokes.\nSource",
     "category": "industry-news",
@@ -147,163 +306,6 @@
     "imageUrl": null,
     "tags": [],
     "readTime": 1,
-    "fetchedAt": "2026-05-15T02:07:45.815Z"
-  },
-  {
-    "id": "news-1778810865813-0",
-    "title": "Elon Musk’s SpaceXAI has been bleeding staff since its merger",
-    "summary": "More than 50 employees have reportedly left Elon Musk’s newly merged SpaceXAI since February, raising questions about burnout, leadership changes, talent poaching, and whether liquidity events weakened retention incentives.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-05-14T21:30:44.000Z",
-    "url": "https://techcrunch.com/2026/05/14/elon-musks-spacexai-has-been-bleeding-staff-since-its-merger/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-05-15T02:07:45.814Z"
-  },
-  {
-    "id": "news-1778810865814-1",
-    "title": "OpenAI says Codex is coming to your phone",
-    "summary": "The update gives users enhanced flexibility over how they can manage their workflows. ",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-05-14T20:58:55.000Z",
-    "url": "https://techcrunch.com/2026/05/14/openai-says-codex-is-coming-to-your-phone/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-05-15T02:07:45.814Z"
-  },
-  {
-    "id": "news-1778810865814-2",
-    "title": "What happens when AI starts building itself?",
-    "summary": "Richard Socher's new $650 million startup wants to build an AI that can research and improve itself indefinitely — and he insists it will actually ship products.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-05-14T19:57:20.000Z",
-    "url": "https://techcrunch.com/2026/05/14/what-happens-when-ai-starts-building-itself/",
-    "imageUrl": null,
-    "tags": [
-      "AI",
-      "Startup",
-      "Research"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-05-15T02:07:45.814Z"
-  },
-  {
-    "id": "news-1778810865814-3",
-    "title": "OpenAI is reportedly preparing legal action against Apple; it wouldn’t be the first partner to feel burned",
-    "summary": "OpenAI is so frustrated with Apple over a ChatGPT integration that failed to deliver the subscribers and prominence it expected that the company is now actively exploring legal action against the iPhone maker.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-05-14T19:12:03.000Z",
-    "url": "https://techcrunch.com/2026/05/14/openai-is-reportedly-preparing-legal-action-against-apple-it-wouldnt-be-the-first-partner-to-feel-burned/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-05-15T02:07:45.814Z"
-  },
-  {
-    "id": "news-1778810865814-4",
-    "title": "Clawdmeter turns your Claude Code usage stats into a tiny desktop dashboard",
-    "summary": "A new open source gadget called Clawdmeter turns Claude Code usage stats into a tiny desktop dashboard for AI coding power users.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-05-14T19:05:01.000Z",
-    "url": "https://techcrunch.com/2026/05/14/clawdmeter-turns-your-claude-code-usage-stats-into-a-tiny-desktop-dashboard/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-05-15T02:07:45.814Z"
-  },
-  {
-    "id": "news-1778810865815-32",
-    "title": "Primary Wave strikes partnership with Pete Townshend for ‘future creative endeavors’ including use of his name, image, and likeness rights",
-    "summary": "Primary Wave Music partners with the co-founder and principal songwriter of legendary British rock band The Who\nSource",
-    "category": "industry-news",
-    "source": "Music Business Worldwide",
-    "author": "Unknown",
-    "publishedAt": "2026-05-14T17:40:51.000Z",
-    "url": "https://www.musicbusinessworldwide.com/primary-wave-strikes-partnership-with-pete-townshend-for-future-creative-endeavors-including-exploitation-of-his-name-image-and-likeness-rights/",
-    "imageUrl": null,
-    "tags": [
-      "Partnership"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-05-15T02:07:45.815Z"
-  },
-  {
-    "id": "news-1778810865815-33",
-    "title": "Managers of Grammy winners Justice and Gesaffelstein back music biz masters targeting emerging markets",
-    "summary": "The program's strategic advisory board includes several senior executives from the French music business\nSource",
-    "category": "industry-news",
-    "source": "Music Business Worldwide",
-    "author": "Unknown",
-    "publishedAt": "2026-05-14T17:39:50.000Z",
-    "url": "https://www.musicbusinessworldwide.com/managers-of-grammy-winners-justice-and-gesaffelstein-back-music-biz-masters-targeting-emerging-markets/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-05-15T02:07:45.815Z"
-  },
-  {
-    "id": "news-1778810865815-34",
-    "title": "Taylor Swift’s 1989 and Beyoncé’s Single Ladies among 25 recordings inducted into Library of Congress National Recording Registry",
-    "summary": "Other inductees include The Go-Go's' debut album Beauty and the Beat, Weezer's self-titled Blue Album, Chaka Khan's I Feel for You and others\nSource",
-    "category": "industry-news",
-    "source": "Music Business Worldwide",
-    "author": "Unknown",
-    "publishedAt": "2026-05-14T16:50:17.000Z",
-    "url": "https://www.musicbusinessworldwide.com/taylor-swifts-1989-and-beyonces-single-ladies-among-25-recordings-inducted-into-library-of-congress-national-recording-registry/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-05-15T02:07:45.815Z"
-  },
-  {
-    "id": "news-1778810865815-35",
-    "title": "Will this BTS tide finally lift all K-Pop boats?",
-    "summary": "The following op/ed comes from author and music economist Will Page, and Jeongbeom ‘JB’ Kim, Chief Data Officer at the Korean-based KreatorsNetwork\nSource",
-    "category": "industry-news",
-    "source": "Music Business Worldwide",
-    "author": "Unknown",
-    "publishedAt": "2026-05-14T16:22:38.000Z",
-    "url": "https://www.musicbusinessworldwide.com/will-this-bts-tide-finally-lift-all-k-pop-boats/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-05-15T02:07:45.815Z"
-  },
-  {
-    "id": "news-1778810865814-5",
-    "title": "Khosla Ventures is betting $10M on Ian Crosby, whose first startup, Bench, imploded",
-    "summary": "Crosby is building Synthetic, a fully autonomous AI bookkeeping service for other startups. ",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-05-14T15:20:18.000Z",
-    "url": "https://techcrunch.com/2026/05/14/khosla-ventures-is-betting-10m-on-ian-crosby-whose-last-startup-bench-imploded/",
-    "imageUrl": null,
-    "tags": [
-      "AI",
-      "Startup"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-05-15T02:07:45.814Z"
+    "fetchedAt": "2026-05-16T02:00:07.437Z"
   }
 ]
