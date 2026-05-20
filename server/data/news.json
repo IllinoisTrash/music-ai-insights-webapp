@@ -1,313 +1,311 @@
 [
   {
-    "id": "news-1779156798245-45",
-    "title": "Watch Lola Young Lose Herself in Deeply Emotional Performance for a Small Room of People: ‘Art Is Really All We Have’",
-    "summary": "The singer is the first artist to perform for Apple Music's new Music Room series, which launches Tuesday (May 19).",
+    "id": "news-1779243161174-31",
+    "title": "Queen Latifah Talks Hosting the 2026 AMAs: ‘All Roads Lead Back to Music for Me’",
+    "summary": "The charismatic performer has fronted five major awards ceremonies. She's a natural.",
     "category": "industry-news",
     "source": "Billboard",
     "author": "Unknown",
-    "publishedAt": "2026-05-18T22:15:42.000Z",
-    "url": "https://www.billboard.com/music/pop/lola-young-tears-apple-music-room-series-can-we-ignore-it-1236251296/",
+    "publishedAt": "2026-05-20T01:53:21.000Z",
+    "url": "https://www.billboard.com/music/awards/queen-latifah-talks-hosting-2026-american-music-awards-1236252333/",
     "imageUrl": null,
-    "tags": [
-      "Apple Music"
-    ],
+    "tags": [],
     "readTime": 1,
-    "fetchedAt": "2026-05-19T02:13:18.245Z"
+    "fetchedAt": "2026-05-20T02:12:41.174Z"
   },
   {
-    "id": "news-1779156798245-46",
-    "title": "Denis Ladegaillerie & Romain Vivien Explain the Global Rise of Their Multibillion-Dollar Music Company | Billboard News",
-    "summary": "Believe founder Denis Ladegaillerie and executive Romain Vivien decode the rise of their multibillion-dollar music company that is commanding 10% of the global digital market. Believe has successfully outmaneuvered the major label system. Billboard News explores why top musical acts like Janet Jackson, Cleo Sol and Russ utilize Believe’s business model to retain master ownership […]",
+    "id": "news-1779243161174-32",
+    "title": "CORTIS Achieves First No. 1 on Top Album Sales Chart With ‘GREENGREEN’",
+    "summary": "Plus, Social Distortion, Josh Groban, Black Veil Brides & Neil Diamond debut in top 10.",
     "category": "industry-news",
     "source": "Billboard",
     "author": "Unknown",
-    "publishedAt": "2026-05-18T22:04:46.000Z",
-    "url": "https://www.billboard.com/video/believe-founders-denis-ladegaillerie-romain-vivien-interview/",
+    "publishedAt": "2026-05-20T00:36:08.000Z",
+    "url": "https://www.billboard.com/music/chart-beat/cortis-greengreen-first-no-1-top-album-sales-chart-1236252277/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-05-20T02:12:41.174Z"
+  },
+  {
+    "id": "news-1779243161174-33",
+    "title": "Bicep, Daphni & Kim Gordon Lead Making Time ∞ 2026 Lineup",
+    "summary": "The electronic festival returns to Philadelphia this Sept. 18-20.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-05-19T23:02:06.000Z",
+    "url": "https://www.billboard.com/music/music-news/making-time-festival-2026-lineup-philadelphia-fort-mifflin-1236251978/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-05-20T02:12:41.174Z"
+  },
+  {
+    "id": "news-1779243161174-34",
+    "title": "All Latin Songs & Albums Inducted Into the National Recording Registry",
+    "summary": "From Pérez Prado's \"Mambo No. 5\" to Linda Ronstadt's Canciones de Mi Padre, these releases represent the diverse contributions of Latin artists to the American songbook.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-05-19T23:00:00.000Z",
+    "url": "https://www.billboard.com/lists/latin-songs-albums-national-recording-registry/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-05-20T02:12:41.174Z"
+  },
+  {
+    "id": "news-1779243161173-18",
+    "title": "Literary Prizewinners Are Facing AI Allegations. It Feels Like the New Normal",
+    "summary": "Three of five regional winners of the prestigious Commonwealth Short Story Prize are suspected of relying on chatbots. They’re certainly not alone.",
+    "category": "tech-innovation",
+    "source": "Wired AI",
+    "author": "Unknown",
+    "publishedAt": "2026-05-19T22:53:04.000Z",
+    "url": "https://www.wired.com/story/commonwealth-short-story-prize-ai-allegations/",
     "imageUrl": null,
     "tags": [
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-05-19T02:13:18.245Z"
+    "fetchedAt": "2026-05-20T02:12:41.174Z"
   },
   {
-    "id": "news-1779156798242-0",
-    "title": "SandboxAQ brings its drug discovery models to Claude — no PhD in computing required",
-    "summary": "Other venture-backed companies like Chai Discovery and Isomorphic Labs have raced to build better models. SandboxAQ is betting that access is the bigger obstacle and that Claude solves it. ",
+    "id": "news-1779243161172-0",
+    "title": "Google just declared itself a contender in AI design at IO 2026",
+    "summary": "Google says it's designed the app to be accessible to everyone, from teachers to small business owners. ",
     "category": "ai-research",
     "source": "TechCrunch AI",
     "author": "Unknown",
-    "publishedAt": "2026-05-18T21:29:31.000Z",
-    "url": "https://techcrunch.com/2026/05/18/sandboxaq-brings-its-drug-discovery-models-to-claude-no-phd-in-computing-required/",
+    "publishedAt": "2026-05-19T21:33:30.000Z",
+    "url": "https://techcrunch.com/2026/05/19/ai-design-tools-are-the-next-big-battleground-and-google-is-going-all-in-at-io-2026/",
     "imageUrl": null,
     "tags": [
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-05-19T02:13:18.242Z"
+    "fetchedAt": "2026-05-20T02:12:41.172Z"
   },
   {
-    "id": "news-1779156798244-25",
-    "title": "Meet MemPrivacy: An Edge-Cloud Framework that Uses Local Reversible Pseudonymization to Protect User Data Without Breaking Memory Utility",
-    "summary": "As LLM-powered agents move from research to production, one design tension is becoming harder to ignore: the more useful cloud-hosted memory becomes, the more private user data it exposes. Researchers from MemTensor (Shanghai), HONOR Device and Tongji University have introduced MemPrivacy, a framework that attempts to resolve this tension without sacrificing the utility that makes […]\nThe post Meet MemPrivacy: An Edge-Cloud Framework that Uses Local Reversible Pseudonymization to Protect U",
+    "id": "news-1779243161172-1",
+    "title": "You can now talk to your Gmail inbox, as seen at Google IO 2026",
+    "summary": "Google expands Gmail’s AI Inbox with conversational voice search, letting users ask Gemini to find buried email details.",
     "category": "ai-research",
-    "source": "MarkTechPost",
+    "source": "TechCrunch AI",
     "author": "Unknown",
-    "publishedAt": "2026-05-18T21:26:04.000Z",
-    "url": "https://www.marktechpost.com/2026/05/18/meet-memprivacy-an-edge-cloud-framework-that-uses-local-reversible-pseudonymization-to-protect-user-data-without-breaking-memory-utility/",
+    "publishedAt": "2026-05-19T21:25:31.000Z",
+    "url": "https://techcrunch.com/2026/05/19/you-can-now-talk-to-your-gmail-inbox-as-seen-at-google-io-2026/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-05-20T02:12:41.172Z"
+  },
+  {
+    "id": "news-1779243161174-35",
+    "title": "Josiah Queen Commands Hot Christian Songs Chart for First Time With ‘Demons’",
+    "summary": "The track follows two of his No. 1s on Top Christian Albums.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-05-19T21:20:09.000Z",
+    "url": "https://www.billboard.com/music/chart-beat/josiah-queen-leads-hot-christian-songs-chart-first-time-1236252147/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-05-20T02:12:41.174Z"
+  },
+  {
+    "id": "news-1779243161172-2",
+    "title": "How to use Google’s new AI agents to go beyond your standard searches",
+    "summary": "Google is launching AI-powered “information agents” that can monitor topics in the background and proactively alert users to updates and changes.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-05-19T21:16:25.000Z",
+    "url": "https://techcrunch.com/2026/05/19/how-to-use-googles-new-ai-agents-to-go-beyond-your-standard-searches/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-05-20T02:12:41.172Z"
+  },
+  {
+    "id": "news-1779243161173-3",
+    "title": "From teen hacker to Iron Dome researcher, this founder raised $28M to fight AI phishing",
+    "summary": "Ocean, an agentic email security platform, claims its AI can thoroughly analyze the context of every incoming email to detect fraud and impersonation attempts.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-05-19T21:08:51.000Z",
+    "url": "https://techcrunch.com/2026/05/19/from-teen-hacker-to-iron-dome-researcher-this-founder-raised-28m-to-fight-ai-phishing/",
     "imageUrl": null,
     "tags": [
       "AI",
       "Research"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-05-19T02:13:18.244Z"
+    "fetchedAt": "2026-05-20T02:12:41.173Z"
   },
   {
-    "id": "news-1779156798245-47",
-    "title": "Michael Jackson Rules Billboard Artist 100 for First Time, Thanks to Continued ‘Michael’ Biopic Success",
-    "summary": "The King of Pop is the sixth artist to reach No. 1 posthumously, and just the second this decade.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-05-18T21:05:30.000Z",
-    "url": "https://www.billboard.com/music/chart-beat/michael-jackson-artist-100-biopic-success-1236251267/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-05-19T02:13:18.245Z"
-  },
-  {
-    "id": "news-1779156798245-48",
-    "title": "Billboard & Montauk Yacht Club Announce the Return of Marina Music Series With Washed Out DJ Set",
-    "summary": "More lineup announcements will be shared throughout the summer.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-05-18T20:45:41.000Z",
-    "url": "https://www.billboard.com/music/music-news/montauk-yacht-club-marina-music-series-2026-washed-out-1236249531/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-05-19T02:13:18.245Z"
-  },
-  {
-    "id": "news-1779156798245-49",
-    "title": "TLC Musical ‘CrazySexyCool’ Reveals Cast: See the Lead Actresses",
-    "summary": "The show premieres ahead of the group's It's Iconic Tour starring Salt-N-Pepa & TLC with special guest En Vogue.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-05-18T20:35:41.000Z",
-    "url": "https://www.billboard.com/music/rb-hip-hop/tlc-crazysexycool-musical-cast-photo-1236251111/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-05-19T02:13:18.245Z"
-  },
-  {
-    "id": "news-1779156798242-1",
-    "title": "Anthropic has acquired the dev tools startup used by OpenAI, Google, and Cloudflare",
-    "summary": "Stainless, a New York-based startup, founded in 2022, rose to prominence in the emerging AI industry for automating the creation and maintenance of software development kits, or SDKs — the libraries developers use to interact with APIs.",
+    "id": "news-1779243161173-4",
+    "title": "Elon Musk said Sam Altman ‘stole’ a non-profit — but the trial showed he had similar aims",
+    "summary": "The jury's speedy decision to reject Elon Musk's lawsuit against the other founders of OpenAI and Microsoft confirmed what we saw in the courtroom: Musk's case was a weak one, in part because he waited so long to file it.",
     "category": "ai-research",
     "source": "TechCrunch AI",
     "author": "Unknown",
-    "publishedAt": "2026-05-18T19:27:52.000Z",
-    "url": "https://techcrunch.com/2026/05/18/anthropic-has-acquired-the-dev-tools-startup-used-by-openai-google-and-cloudflare/",
+    "publishedAt": "2026-05-19T20:11:00.000Z",
+    "url": "https://techcrunch.com/2026/05/19/elon-musk-said-sam-altman-stole-a-non-profit-but-the-trial-showed-he-had-similar-aims/",
     "imageUrl": null,
     "tags": [
-      "AI",
-      "Startup"
+      "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-05-19T02:13:18.242Z"
+    "fetchedAt": "2026-05-20T02:12:41.173Z"
   },
   {
-    "id": "news-1779156798244-31",
-    "title": "Elon Musk Loses Landmark Lawsuit Against OpenAI",
-    "summary": "The nine-member panel took only two hours to return a verdict in favor of OpenAI on Monday, which the judge quickly adopted as her own final decision.",
+    "id": "news-1779243161174-19",
+    "title": "Everything Announced at Google I/O 2026: Gemini, Search, Smart Glasses",
+    "summary": "Google is sprucing up its Gemini models, revamping search, and enabling AI agents in everything. There are also some spiffy new smart glasses coming this fall.",
     "category": "tech-innovation",
     "source": "Wired AI",
     "author": "Unknown",
-    "publishedAt": "2026-05-18T17:40:30.000Z",
-    "url": "https://www.wired.com/story/musk-v-altman-jury-verdict/",
+    "publishedAt": "2026-05-19T20:00:48.000Z",
+    "url": "https://www.wired.com/story/everything-google-announced-at-google-io-2026/",
     "imageUrl": null,
     "tags": [
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-05-19T02:13:18.244Z"
+    "fetchedAt": "2026-05-20T02:12:41.174Z"
   },
   {
-    "id": "news-1779156798242-2",
-    "title": "Elon Musk has lost his lawsuit against Sam Altman and OpenAI",
-    "summary": "Elon Musk's claim that he was mistreated by his OpenAI co-founders failed after nine California jurors decided in a unanimous verdict that his lawsuits had been filed too late.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-05-18T17:34:43.000Z",
-    "url": "https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-05-19T02:13:18.242Z"
-  },
-  {
-    "id": "news-1779156798245-38",
-    "title": "As ABS deals reshape the music rights landscape, KBRA says it’s rated $12.9B in music royalty-backed bonds since 2020 – but expects issuance to fall 25% in 2026",
-    "summary": "The music ABS market has more than tripled in size in just three years, says new KBRA report\nSource",
+    "id": "news-1779243161174-25",
+    "title": "Japan’s Avex sees music segment revenues grow 6.8% YoY to $810M in latest fiscal year",
+    "summary": "Live entertainment was the primary growth driver, supported by arena-scale touring activity and expanding international fan engagement.\nSource",
     "category": "industry-news",
     "source": "Music Business Worldwide",
     "author": "Unknown",
-    "publishedAt": "2026-05-18T16:24:46.000Z",
-    "url": "https://www.musicbusinessworldwide.com/as-abs-deals-reshape-the-music-rights-landscape-kbra-says-its-rated-12-9b-in-music-royalty-backed-bonds-since-2020-but-expects-issuance-to-fall-25-in-2026/",
+    "publishedAt": "2026-05-19T18:36:27.000Z",
+    "url": "https://www.musicbusinessworldwide.com/japans-avex-sees-music-segment-revenues-grow-6-8-yoy-to-810m-in-latest-fiscal-year/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-05-20T02:12:41.174Z"
+  },
+  {
+    "id": "news-1779243161174-26",
+    "title": "Sony Music Publishing UK signs songwriter and producer MNEK to global deal",
+    "summary": "The deal covers future works written by the London and LA-based hitmaker\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-05-19T18:26:44.000Z",
+    "url": "https://www.musicbusinessworldwide.com/sony-music-publishing-uk-signs-songwriter-and-producer-mnek-to-global-deal/",
     "imageUrl": null,
     "tags": [],
     "readTime": 1,
-    "fetchedAt": "2026-05-19T02:13:18.245Z"
+    "fetchedAt": "2026-05-20T02:12:41.174Z"
   },
   {
-    "id": "news-1779156798245-39",
-    "title": "Tencent Music completes $2.4B acquisition of audio platform Ximalaya",
-    "summary": "Ximalaya is one of China's largest podcasting and audiobooks platforms\nSource",
+    "id": "news-1779243161174-27",
+    "title": "Splice partners with ElevenLabs to power AI music creation tools",
+    "summary": "Splice said it 'will leverage ElevenLabs' foundational music models to build next generation AI-powered creative tools, set to be released later this year'.\nSource",
     "category": "industry-news",
     "source": "Music Business Worldwide",
     "author": "Unknown",
-    "publishedAt": "2026-05-18T15:12:13.000Z",
-    "url": "https://www.musicbusinessworldwide.com/tencent-music-completes-2-4b-acquisition-of-audio-platform-ximalaya/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-05-19T02:13:18.245Z"
-  },
-  {
-    "id": "news-1779156798245-40",
-    "title": "Primary Wave acquires interests in album art collection from Aubrey ‘Po’ Powell, co-founder of British design studio Hipgnosis",
-    "summary": "Design studio founded by Powell and the late Storm Thorgerson in the 1960's\nSource",
-    "category": "industry-news",
-    "source": "Music Business Worldwide",
-    "author": "Unknown",
-    "publishedAt": "2026-05-18T14:58:32.000Z",
-    "url": "https://www.musicbusinessworldwide.com/primary-wave-acquires-interests-in-album-art-collection-from-aubrey-po-powell-co-founder-of-british-design-studio-hipgnosis/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-05-19T02:13:18.245Z"
-  },
-  {
-    "id": "news-1779156798242-3",
-    "title": "Amazon’s new Alexa+ powered feature can generate podcast episodes",
-    "summary": "Amazon’s Alexa+ can now generate custom AI podcasts on demand, as the company expands its assistant into a personalized AI content platform.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-05-18T14:56:47.000Z",
-    "url": "https://techcrunch.com/2026/05/18/amazons-new-alexa-powered-feature-can-generate-podcast-episodes/",
+    "publishedAt": "2026-05-19T17:52:11.000Z",
+    "url": "https://www.musicbusinessworldwide.com/splice-partners-with-elevenlabs-to-power-ai-music-creation-tools/",
     "imageUrl": null,
     "tags": [
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-05-19T02:13:18.242Z"
+    "fetchedAt": "2026-05-20T02:12:41.174Z"
   },
   {
-    "id": "news-1779156798245-41",
-    "title": "Vietnam’s DAO Music Entertainment strikes strategic partnership with The Orchard",
-    "summary": "Deal gives DAO Music Entertainment access to The Orchard's global distribution network\nSource",
-    "category": "industry-news",
-    "source": "Music Business Worldwide",
-    "author": "Unknown",
-    "publishedAt": "2026-05-18T12:12:54.000Z",
-    "url": "https://www.musicbusinessworldwide.com/vietnams-dao-music-entertainment-strikes-strategic-partnership-with-the-orchard/",
-    "imageUrl": null,
-    "tags": [
-      "AI",
-      "Partnership"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-05-19T02:13:18.245Z"
-  },
-  {
-    "id": "news-1779156798245-42",
-    "title": "Spotify scraps new ‘Premium Lite’ tier in India, Indonesia, Saudi Arabia, UAE, and South Africa – while slashing standard Premium prices",
-    "summary": "The Premium Standard plan has been reduced in multiple markets\nSource",
-    "category": "industry-news",
-    "source": "Music Business Worldwide",
-    "author": "Unknown",
-    "publishedAt": "2026-05-18T11:48:49.000Z",
-    "url": "https://www.musicbusinessworldwide.com/spotify-scraps-new-premium-lite-tier-in-india-indonesia-saudi-arabia-uae-and-south-africa/",
-    "imageUrl": null,
-    "tags": [
-      "Spotify"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-05-19T02:13:18.245Z"
-  },
-  {
-    "id": "news-1779156798245-43",
-    "title": "Spotify raises Premium prices in Canada by up to CAD $3 per month",
-    "summary": "The Student plan remains unchanged at CAD $6.39 per month, while other tiers saw changes of CAD $1.30 to CAD $3.00 per month.\nSource",
-    "category": "industry-news",
-    "source": "Music Business Worldwide",
-    "author": "Unknown",
-    "publishedAt": "2026-05-18T11:41:23.000Z",
-    "url": "https://www.musicbusinessworldwide.com/spotify-raises-premium-prices-in-canada-by-up-to-cad-3-per-month/",
-    "imageUrl": null,
-    "tags": [
-      "Spotify",
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-05-19T02:13:18.245Z"
-  },
-  {
-    "id": "news-1779156798242-4",
-    "title": "South Korea’s LetinAR is building optics behind AI glasses",
-    "summary": "A lens the size of a thumbnail — and the South Korean startup that makes it — could become the optical backbone of the AI glasses era.",
+    "id": "news-1779243161173-5",
+    "title": "With Gemini 3.5 Flash, Google bets its next AI wave on agents, not chatbots",
+    "summary": "Google launched Gemini 3.5 Flash, its most powerful coding and agentic AI model yet, at the company's annual developer conference. It is capable of autonomously executing complex tasks and building software from scratch.",
     "category": "ai-research",
     "source": "TechCrunch AI",
     "author": "Unknown",
-    "publishedAt": "2026-05-18T11:00:00.000Z",
-    "url": "https://techcrunch.com/2026/05/18/south-koreas-letinar-is-building-the-optics-behind-ai-glasses/",
+    "publishedAt": "2026-05-19T17:51:30.000Z",
+    "url": "https://techcrunch.com/2026/05/19/with-gemini-3-5-flash-google-bets-its-next-ai-wave-on-agents-not-chatbots/",
     "imageUrl": null,
     "tags": [
-      "AI",
-      "Startup"
+      "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-05-19T02:13:18.242Z"
+    "fetchedAt": "2026-05-20T02:12:41.173Z"
   },
   {
-    "id": "news-1779156798244-32",
-    "title": "I’m a Normie. Can Normies Really Vibe Code?",
-    "summary": "Apparently anyone can vibe code anything these days. So Claude and I tried to make a database for tracking the petty grievances of the masses.",
+    "id": "news-1779243161173-6",
+    "title": "OpenAI is making it easier to check if an image was made by their models",
+    "summary": "OpenAI announced two new measures to help detect AI generated imagery: joining the open C2PA standard and adding Google's SynthID to its products.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-05-19T17:45:00.000Z",
+    "url": "https://techcrunch.com/2026/05/19/openai-is-making-it-easier-to-check-if-an-image-was-made-by-their-models/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-05-20T02:12:41.173Z"
+  },
+  {
+    "id": "news-1779243161173-7",
+    "title": "Google’s AI Studio now lets anyone build Android apps in minutes",
+    "summary": "Google unveiled new web-based AI tools that can generate native Android apps in minutes, as the company expands its push into AI-powered software development.",
     "category": "tech-innovation",
-    "source": "Wired AI",
+    "source": "TechCrunch AI",
     "author": "Unknown",
-    "publishedAt": "2026-05-18T10:00:00.000Z",
-    "url": "https://www.wired.com/story/normie-vibe-code/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-05-19T02:13:18.244Z"
-  },
-  {
-    "id": "news-1779156798245-44",
-    "title": "Warner Music forms cross-border artist development platform GLIIDE with Thailand’s GMM Music",
-    "summary": "The platform's first signing is SVRN, a performance-driven artist whose music video for his debut single \"WHY\" was released on Thursday.\nSource",
-    "category": "industry-news",
-    "source": "Music Business Worldwide",
-    "author": "Unknown",
-    "publishedAt": "2026-05-18T09:48:19.000Z",
-    "url": "https://www.musicbusinessworldwide.com/warner-music-forms-cross-border-artist-development-platform-gliide-with-thailands-gmm-music/",
+    "publishedAt": "2026-05-19T17:45:00.000Z",
+    "url": "https://techcrunch.com/2026/05/19/googles-ai-studio-now-lets-anyone-build-android-apps-in-minutes/",
     "imageUrl": null,
     "tags": [
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-05-19T02:13:18.245Z"
+    "fetchedAt": "2026-05-20T02:12:41.173Z"
+  },
+  {
+    "id": "news-1779243161173-8",
+    "title": "Google launches Antigravity 2.0 with an updated desktop app and CLI tool at IO 2026",
+    "summary": "Google is debuting a new AI Ultra plan priced at $100, which will give users 5x more usage limit than the AI Pro plan alongside the Antigravity 2.0 launch.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-05-19T17:45:00.000Z",
+    "url": "https://techcrunch.com/2026/05/19/google-launches-antigravity-2-0-with-an-updated-desktop-app-and-cli-tool-at-io-2026/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-05-20T02:12:41.173Z"
+  },
+  {
+    "id": "news-1779243161173-9",
+    "title": "Google updates its Gemini app to take on ChatGPT and Claude at IO 2026",
+    "summary": "The updates signal Google’s push to turn its Gemini app into an all-purpose AI hub rather than a stand-alone chatbot.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-05-19T17:45:00.000Z",
+    "url": "https://techcrunch.com/2026/05/19/google-updates-its-gemini-app-to-take-on-chatgpt-and-claude-at-io-2026/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-05-20T02:12:41.173Z"
   }
 ]
