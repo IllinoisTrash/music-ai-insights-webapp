@@ -1,311 +1,320 @@
 [
   {
-    "id": "news-1779243161174-31",
-    "title": "Queen Latifah Talks Hosting the 2026 AMAs: ‘All Roads Lead Back to Music for Me’",
-    "summary": "The charismatic performer has fronted five major awards ceremonies. She's a natural.",
-    "category": "industry-news",
-    "source": "Billboard",
+    "id": "news-1779329537766-0",
+    "title": "Jensen Huang says he’s found a ‘brand new’ $200B market for Nvidia",
+    "summary": "The next big thing for Nvidia will be CPUs for AI agents, $200 billion worth, CEO Jensen Huang predicts.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
     "author": "Unknown",
-    "publishedAt": "2026-05-20T01:53:21.000Z",
-    "url": "https://www.billboard.com/music/awards/queen-latifah-talks-hosting-2026-american-music-awards-1236252333/",
+    "publishedAt": "2026-05-21T00:28:31.000Z",
+    "url": "https://techcrunch.com/2026/05/20/jensen-huang-says-hes-found-a-brand-new-200b-market-for-nvidia/",
     "imageUrl": null,
-    "tags": [],
+    "tags": [
+      "AI"
+    ],
     "readTime": 1,
-    "fetchedAt": "2026-05-20T02:12:41.174Z"
+    "fetchedAt": "2026-05-21T02:12:17.766Z"
   },
   {
-    "id": "news-1779243161174-32",
-    "title": "CORTIS Achieves First No. 1 on Top Album Sales Chart With ‘GREENGREEN’",
-    "summary": "Plus, Social Distortion, Josh Groban, Black Veil Brides & Neil Diamond debut in top 10.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-05-20T00:36:08.000Z",
-    "url": "https://www.billboard.com/music/chart-beat/cortis-greengreen-first-no-1-top-album-sales-chart-1236252277/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-05-20T02:12:41.174Z"
-  },
-  {
-    "id": "news-1779243161174-33",
-    "title": "Bicep, Daphni & Kim Gordon Lead Making Time ∞ 2026 Lineup",
-    "summary": "The electronic festival returns to Philadelphia this Sept. 18-20.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-05-19T23:02:06.000Z",
-    "url": "https://www.billboard.com/music/music-news/making-time-festival-2026-lineup-philadelphia-fort-mifflin-1236251978/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-05-20T02:12:41.174Z"
-  },
-  {
-    "id": "news-1779243161174-34",
-    "title": "All Latin Songs & Albums Inducted Into the National Recording Registry",
-    "summary": "From Pérez Prado's \"Mambo No. 5\" to Linda Ronstadt's Canciones de Mi Padre, these releases represent the diverse contributions of Latin artists to the American songbook.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-05-19T23:00:00.000Z",
-    "url": "https://www.billboard.com/lists/latin-songs-albums-national-recording-registry/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-05-20T02:12:41.174Z"
-  },
-  {
-    "id": "news-1779243161173-18",
-    "title": "Literary Prizewinners Are Facing AI Allegations. It Feels Like the New Normal",
-    "summary": "Three of five regional winners of the prestigious Commonwealth Short Story Prize are suspected of relying on chatbots. They’re certainly not alone.",
+    "id": "news-1779329537768-28",
+    "title": "SpaceX Is Spending $2.8 Billion to Buy Gas Turbines for Its AI Data Centers",
+    "summary": "The investment comes as Elon Musk’s AI unit faces complaints about the carbon-emitting units and looks to become a big player in cloud computing.",
     "category": "tech-innovation",
     "source": "Wired AI",
     "author": "Unknown",
-    "publishedAt": "2026-05-19T22:53:04.000Z",
-    "url": "https://www.wired.com/story/commonwealth-short-story-prize-ai-allegations/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-05-20T02:12:41.174Z"
-  },
-  {
-    "id": "news-1779243161172-0",
-    "title": "Google just declared itself a contender in AI design at IO 2026",
-    "summary": "Google says it's designed the app to be accessible to everyone, from teachers to small business owners. ",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-05-19T21:33:30.000Z",
-    "url": "https://techcrunch.com/2026/05/19/ai-design-tools-are-the-next-big-battleground-and-google-is-going-all-in-at-io-2026/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-05-20T02:12:41.172Z"
-  },
-  {
-    "id": "news-1779243161172-1",
-    "title": "You can now talk to your Gmail inbox, as seen at Google IO 2026",
-    "summary": "Google expands Gmail’s AI Inbox with conversational voice search, letting users ask Gemini to find buried email details.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-05-19T21:25:31.000Z",
-    "url": "https://techcrunch.com/2026/05/19/you-can-now-talk-to-your-gmail-inbox-as-seen-at-google-io-2026/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-05-20T02:12:41.172Z"
-  },
-  {
-    "id": "news-1779243161174-35",
-    "title": "Josiah Queen Commands Hot Christian Songs Chart for First Time With ‘Demons’",
-    "summary": "The track follows two of his No. 1s on Top Christian Albums.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-05-19T21:20:09.000Z",
-    "url": "https://www.billboard.com/music/chart-beat/josiah-queen-leads-hot-christian-songs-chart-first-time-1236252147/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-05-20T02:12:41.174Z"
-  },
-  {
-    "id": "news-1779243161172-2",
-    "title": "How to use Google’s new AI agents to go beyond your standard searches",
-    "summary": "Google is launching AI-powered “information agents” that can monitor topics in the background and proactively alert users to updates and changes.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-05-19T21:16:25.000Z",
-    "url": "https://techcrunch.com/2026/05/19/how-to-use-googles-new-ai-agents-to-go-beyond-your-standard-searches/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-05-20T02:12:41.172Z"
-  },
-  {
-    "id": "news-1779243161173-3",
-    "title": "From teen hacker to Iron Dome researcher, this founder raised $28M to fight AI phishing",
-    "summary": "Ocean, an agentic email security platform, claims its AI can thoroughly analyze the context of every incoming email to detect fraud and impersonation attempts.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-05-19T21:08:51.000Z",
-    "url": "https://techcrunch.com/2026/05/19/from-teen-hacker-to-iron-dome-researcher-this-founder-raised-28m-to-fight-ai-phishing/",
+    "publishedAt": "2026-05-20T23:30:06.000Z",
+    "url": "https://www.wired.com/story/elon-musk-spacex-spending-gas-turbines-grok/",
     "imageUrl": null,
     "tags": [
       "AI",
-      "Research"
+      "Investment"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-05-20T02:12:41.173Z"
+    "fetchedAt": "2026-05-21T02:12:17.768Z"
   },
   {
-    "id": "news-1779243161173-4",
-    "title": "Elon Musk said Sam Altman ‘stole’ a non-profit — but the trial showed he had similar aims",
-    "summary": "The jury's speedy decision to reject Elon Musk's lawsuit against the other founders of OpenAI and Microsoft confirmed what we saw in the courtroom: Musk's case was a weak one, in part because he waited so long to file it.",
+    "id": "news-1779329537768-43",
+    "title": "Bruno Mars Soars on Latin Charts With ‘Lo Arriesgo Todo,’ Spanish Rendition of ‘Risk It All’",
+    "summary": "The Spanish-language remake debuts on Hot Latin Songs, Hot Latin Pop Songs, Latin Pop Airplay & Latin Digital Songs Sales charts.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-05-20T23:01:33.000Z",
+    "url": "https://www.billboard.com/music/chart-beat/bruno-mars-latin-charts-lo-arriesgo-todo-spanish-risk-it-all-1236252892/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-05-21T02:12:17.768Z"
+  },
+  {
+    "id": "news-1779329537768-44",
+    "title": "NO FAKES Act Reintroduced Again — This Time With Additional Support From Spotify and Getty",
+    "summary": "The bill, which is designed to protect artists against \"digital replicas,\" was first proposed in 2024 and reintroduced once before in 2025. ",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-05-20T22:48:29.000Z",
+    "url": "https://www.billboard.com/pro/ai-deepfakes-bill-no-fakes-reintroduced-congress-again/",
+    "imageUrl": null,
+    "tags": [
+      "Spotify",
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-05-21T02:12:17.768Z"
+  },
+  {
+    "id": "news-1779329537766-1",
+    "title": "xAI burned $6.4B last year — SpaceX’s IPO filing shows why the spending is far from over",
+    "summary": "SpaceX's IPO filing reveals xAI lost $6.4 billion in 2025 while planning a massive Grok expansion — offering the first public look at Elon Musk's AI financials and more details about his ambitions.",
     "category": "ai-research",
     "source": "TechCrunch AI",
     "author": "Unknown",
-    "publishedAt": "2026-05-19T20:11:00.000Z",
-    "url": "https://techcrunch.com/2026/05/19/elon-musk-said-sam-altman-stole-a-non-profit-but-the-trial-showed-he-had-similar-aims/",
+    "publishedAt": "2026-05-20T22:26:08.000Z",
+    "url": "https://techcrunch.com/2026/05/20/xai-burned-6-4b-last-year-spacexs-ipo-filing-shows-why-the-spending-is-far-from-over/",
     "imageUrl": null,
     "tags": [
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-05-20T02:12:41.173Z"
+    "fetchedAt": "2026-05-21T02:12:17.767Z"
   },
   {
-    "id": "news-1779243161174-19",
-    "title": "Everything Announced at Google I/O 2026: Gemini, Search, Smart Glasses",
-    "summary": "Google is sprucing up its Gemini models, revamping search, and enabling AI agents in everything. There are also some spiffy new smart glasses coming this fall.",
-    "category": "tech-innovation",
-    "source": "Wired AI",
-    "author": "Unknown",
-    "publishedAt": "2026-05-19T20:00:48.000Z",
-    "url": "https://www.wired.com/story/everything-google-announced-at-google-io-2026/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-05-20T02:12:41.174Z"
-  },
-  {
-    "id": "news-1779243161174-25",
-    "title": "Japan’s Avex sees music segment revenues grow 6.8% YoY to $810M in latest fiscal year",
-    "summary": "Live entertainment was the primary growth driver, supported by arena-scale touring activity and expanding international fan engagement.\nSource",
+    "id": "news-1779329537768-45",
+    "title": "Which Drake Song From His Three New Albums Is Leading the Way on Streaming?",
+    "summary": "This week's Trending Up looks at the most likely breakout hit from the 6 God's trio of new releases, as well as new viral moments for Yung Miami, Noah Kahan and PinkPantheress.",
     "category": "industry-news",
-    "source": "Music Business Worldwide",
+    "source": "Billboard",
     "author": "Unknown",
-    "publishedAt": "2026-05-19T18:36:27.000Z",
-    "url": "https://www.musicbusinessworldwide.com/japans-avex-sees-music-segment-revenues-grow-6-8-yoy-to-810m-in-latest-fiscal-year/",
+    "publishedAt": "2026-05-20T22:18:57.000Z",
+    "url": "https://www.billboard.com/music/chart-beat/drake-janice-stfu-iceman-streams-trending-up-1236252588/",
+    "imageUrl": null,
+    "tags": [
+      "Streaming"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-05-21T02:12:17.768Z"
+  },
+  {
+    "id": "news-1779329537767-2",
+    "title": "Musk’s xAI is being sued over its data center generators — now it’s buying $2.8B more",
+    "summary": "Elon Musk's xAI said it will buy $2.8 billion worth of natural gas turbines over the next three years, according to SpaceX's IPO filing.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-05-20T21:55:49.000Z",
+    "url": "https://techcrunch.com/2026/05/20/musks-xai-is-being-sued-over-its-data-center-generators-now-its-buying-2-8b-more/",
     "imageUrl": null,
     "tags": [
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-05-20T02:12:41.174Z"
+    "fetchedAt": "2026-05-21T02:12:17.767Z"
   },
   {
-    "id": "news-1779243161174-26",
-    "title": "Sony Music Publishing UK signs songwriter and producer MNEK to global deal",
-    "summary": "The deal covers future works written by the London and LA-based hitmaker\nSource",
+    "id": "news-1779329537768-46",
+    "title": "Snoop Dogg Says His Company Isn’t Liable in Drakeo the Ruler Concert Death Lawsuit",
+    "summary": "The star writes in new court filings that his LLC “had no role in management of the festival” where Drakeo was fatally stabbed.",
     "category": "industry-news",
-    "source": "Music Business Worldwide",
+    "source": "Billboard",
     "author": "Unknown",
-    "publishedAt": "2026-05-19T18:26:44.000Z",
-    "url": "https://www.musicbusinessworldwide.com/sony-music-publishing-uk-signs-songwriter-and-producer-mnek-to-global-deal/",
+    "publishedAt": "2026-05-20T21:44:00.000Z",
+    "url": "https://www.billboard.com/pro/snoop-dogg-llc-not-liable-drakeo-the-ruler-death-lawsuit/",
     "imageUrl": null,
     "tags": [],
     "readTime": 1,
-    "fetchedAt": "2026-05-20T02:12:41.174Z"
+    "fetchedAt": "2026-05-21T02:12:17.768Z"
   },
   {
-    "id": "news-1779243161174-27",
-    "title": "Splice partners with ElevenLabs to power AI music creation tools",
-    "summary": "Splice said it 'will leverage ElevenLabs' foundational music models to build next generation AI-powered creative tools, set to be released later this year'.\nSource",
+    "id": "news-1779329537768-47",
+    "title": "Apple Music Claims AI-Generated Songs Make Up Less Than 1% of Plays on Platform",
+    "summary": "The streamer shared additional stats and broke down what it's doing to combat AI-generated music in a new memo sent to its partners.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-05-20T21:37:47.000Z",
+    "url": "https://www.billboard.com/pro/apple-music-ai-music-stats-less-than-1-percent-plays-ai/",
+    "imageUrl": null,
+    "tags": [
+      "Apple Music",
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-05-21T02:12:17.768Z"
+  },
+  {
+    "id": "news-1779329537767-3",
+    "title": "Anthropic will pay xAI $1.25B per month for compute",
+    "summary": "Elon Musk's xAI surprised the AI world when it made a deal to sell compute to Anthropic. Now we know how much it's worth.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-05-20T21:29:22.000Z",
+    "url": "https://techcrunch.com/2026/05/20/anthropic-will-pay-xai-1-25-billion-per-month-for-compute/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-05-21T02:12:17.767Z"
+  },
+  {
+    "id": "news-1779329537768-48",
+    "title": "Wiz Khalifa Wanted by Romanian Police After 9-Month Prison Sentence on Drug Charges",
+    "summary": "Wiz was sentenced in December for illegal drug possession charges tied to a 2024 Beach, Please! Festival performance in Costinesti.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-05-20T21:08:35.000Z",
+    "url": "https://www.billboard.com/pro/wiz-khalifa-wanted-romanian-police-9-month-prison-sentence/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-05-21T02:12:17.768Z"
+  },
+  {
+    "id": "news-1779329537768-49",
+    "title": "Good Grief: ‘Peanuts’ Music Owners Launch Legal Blitz Over ‘Charlie Brown Christmas’ Songs",
+    "summary": "Four new lawsuits claim Vince Guaraldi's iconic score has been used without permission or payment, including in a federal agency's digital Christmas card.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-05-20T20:49:31.000Z",
+    "url": "https://www.billboard.com/pro/peanuts-music-lawsuits-charlie-brown-christmas-songs-sues/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-05-21T02:12:17.768Z"
+  },
+  {
+    "id": "news-1779329537768-50",
+    "title": "Shamrock Capital Raises More Than $800 Million in Capital Commitments for Entertainment IP",
+    "summary": "The raise for Shamrock's fourth fund targeting film, TV, music and other content rights beat the initial target of $700 million in committments. ",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-05-20T20:41:58.000Z",
+    "url": "https://www.billboard.com/pro/shamrock-capital-raises-800-million-music-film-tv-rights/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-05-21T02:12:17.768Z"
+  },
+  {
+    "id": "news-1779329537767-4",
+    "title": "OpenAI claims it solved an 80-year-old math problem — for real this time",
+    "summary": "OpenAI claims its reasoning model disproved a geometry conjecture unsolved since 1946 — and this time, the mathematicians who exposed its last embarrassing claim are backing it up.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-05-20T20:28:27.000Z",
+    "url": "https://techcrunch.com/2026/05/20/openai-claims-it-solved-an-80-year-old-math-problem-for-real-this-time/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-05-21T02:12:17.767Z"
+  },
+  {
+    "id": "news-1779329537767-5",
+    "title": "IrisGo, a startup backed by Andrew Ng, looks to become the AI desktop buddy you never knew you needed",
+    "summary": "Initially billed as an \"AI butler,\" Iris watches what happens on a user's desktop and automatically learns how to do tasks for them, its co-founder says. ",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-05-20T19:47:20.000Z",
+    "url": "https://techcrunch.com/2026/05/20/irisgo-a-startup-backed-by-andrew-ng-looks-to-become-the-ai-desktop-buddy-you-never-knew-you-needed/",
+    "imageUrl": null,
+    "tags": [
+      "AI",
+      "Startup"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-05-21T02:12:17.767Z"
+  },
+  {
+    "id": "news-1779329537767-22",
+    "title": "How to Build Knowledge Graph Generation Pipelines From Text With kg-gen, NetworkX Analytics, and Interactive Visualizations",
+    "summary": "In this tutorial, we will generate knowledge graphs from plain text, conversations, and multiple source documents using kg-gen. We start by setting up the required dependencies and configuring an LLM through LiteLLM, then we extract entities, predicates, and relationships from simple text. As we move forward, we work with longer passages using chunking and clustering, […]\nThe post How to Build Knowledge Graph Generation Pipelines From Text With kg-gen, NetworkX Analytics, and Interactive V",
+    "category": "ai-research",
+    "source": "MarkTechPost",
+    "author": "Unknown",
+    "publishedAt": "2026-05-20T18:24:08.000Z",
+    "url": "https://www.marktechpost.com/2026/05/20/how-to-build-knowledge-graph-generation-pipelines-from-text-with-kg-gen-networkx-analytics-and-interactive-visualizations/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-05-21T02:12:17.767Z"
+  },
+  {
+    "id": "news-1779329537768-35",
+    "title": "Sony Music Publishing promotes ZaZa Kazadi to Senior Director, A&R, UK & Europe",
+    "summary": "The promotion will see Kazadi focus on Hip Hop, Rap, R&B and Afro genres.\nSource",
     "category": "industry-news",
     "source": "Music Business Worldwide",
     "author": "Unknown",
-    "publishedAt": "2026-05-19T17:52:11.000Z",
-    "url": "https://www.musicbusinessworldwide.com/splice-partners-with-elevenlabs-to-power-ai-music-creation-tools/",
+    "publishedAt": "2026-05-20T18:14:19.000Z",
+    "url": "https://www.musicbusinessworldwide.com/sony-music-publishing-promotes-zaza-kazadi-to-senior-director-ar-uk-europe/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-05-21T02:12:17.768Z"
+  },
+  {
+    "id": "news-1779329537768-29",
+    "title": "I Gave My OpenClaw Agent a Physical Body",
+    "summary": "The coding skills of AI models are about to make it much easier to build and deploy robots.",
+    "category": "ai-research",
+    "source": "Wired AI",
+    "author": "Unknown",
+    "publishedAt": "2026-05-20T18:00:00.000Z",
+    "url": "https://www.wired.com/story/i-gave-my-openclaw-agent-physical-body-robot/",
     "imageUrl": null,
     "tags": [
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-05-20T02:12:41.174Z"
+    "fetchedAt": "2026-05-21T02:12:17.768Z"
   },
   {
-    "id": "news-1779243161173-5",
-    "title": "With Gemini 3.5 Flash, Google bets its next AI wave on agents, not chatbots",
-    "summary": "Google launched Gemini 3.5 Flash, its most powerful coding and agentic AI model yet, at the company's annual developer conference. It is capable of autonomously executing complex tasks and building software from scratch.",
+    "id": "news-1779329537767-6",
+    "title": "OpenAI barrels toward IPO that may happen in September",
+    "summary": "A day after Elon Musk lost his lawsuit that threatened OpenAI's structure, leadership, and finances, OpenAI is reportedly back to prepping for its IPO.",
     "category": "ai-research",
     "source": "TechCrunch AI",
     "author": "Unknown",
-    "publishedAt": "2026-05-19T17:51:30.000Z",
-    "url": "https://techcrunch.com/2026/05/19/with-gemini-3-5-flash-google-bets-its-next-ai-wave-on-agents-not-chatbots/",
+    "publishedAt": "2026-05-20T17:24:24.000Z",
+    "url": "https://techcrunch.com/2026/05/20/openai-barrels-toward-ipo-that-may-happen-in-september/",
     "imageUrl": null,
     "tags": [
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-05-20T02:12:41.173Z"
+    "fetchedAt": "2026-05-21T02:12:17.767Z"
   },
   {
-    "id": "news-1779243161173-6",
-    "title": "OpenAI is making it easier to check if an image was made by their models",
-    "summary": "OpenAI announced two new measures to help detect AI generated imagery: joining the open C2PA standard and adding Google's SynthID to its products.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
+    "id": "news-1779329537768-36",
+    "title": "Chord Music Partners’ John Chapman on the next wave of capital heading for music rights",
+    "summary": "Alongside Sam Hendel, Chapman runs Dundee Partners, the investment office of the Hendel family\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
     "author": "Unknown",
-    "publishedAt": "2026-05-19T17:45:00.000Z",
-    "url": "https://techcrunch.com/2026/05/19/openai-is-making-it-easier-to-check-if-an-image-was-made-by-their-models/",
+    "publishedAt": "2026-05-20T17:09:04.000Z",
+    "url": "https://www.musicbusinessworldwide.com/chord-music-partners-john-chapman-on-the-next-wave-of-capital-heading-for-music-rights/",
     "imageUrl": null,
     "tags": [
-      "AI"
+      "Investment"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-05-20T02:12:41.173Z"
-  },
-  {
-    "id": "news-1779243161173-7",
-    "title": "Google’s AI Studio now lets anyone build Android apps in minutes",
-    "summary": "Google unveiled new web-based AI tools that can generate native Android apps in minutes, as the company expands its push into AI-powered software development.",
-    "category": "tech-innovation",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-05-19T17:45:00.000Z",
-    "url": "https://techcrunch.com/2026/05/19/googles-ai-studio-now-lets-anyone-build-android-apps-in-minutes/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-05-20T02:12:41.173Z"
-  },
-  {
-    "id": "news-1779243161173-8",
-    "title": "Google launches Antigravity 2.0 with an updated desktop app and CLI tool at IO 2026",
-    "summary": "Google is debuting a new AI Ultra plan priced at $100, which will give users 5x more usage limit than the AI Pro plan alongside the Antigravity 2.0 launch.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-05-19T17:45:00.000Z",
-    "url": "https://techcrunch.com/2026/05/19/google-launches-antigravity-2-0-with-an-updated-desktop-app-and-cli-tool-at-io-2026/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-05-20T02:12:41.173Z"
-  },
-  {
-    "id": "news-1779243161173-9",
-    "title": "Google updates its Gemini app to take on ChatGPT and Claude at IO 2026",
-    "summary": "The updates signal Google’s push to turn its Gemini app into an all-purpose AI hub rather than a stand-alone chatbot.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-05-19T17:45:00.000Z",
-    "url": "https://techcrunch.com/2026/05/19/google-updates-its-gemini-app-to-take-on-chatgpt-and-claude-at-io-2026/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-05-20T02:12:41.173Z"
+    "fetchedAt": "2026-05-21T02:12:17.768Z"
   }
 ]
