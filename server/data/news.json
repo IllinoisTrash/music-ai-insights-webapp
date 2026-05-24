@@ -1,20 +1,116 @@
 [
   {
-    "id": "news-1779501723310-41",
-    "title": "ASIAN KUNG-FU GENERATION at 30: Members Talk New Releases ‘Fujieda EP’ & ‘Skins,’ Making Music for a Fractured World, More",
-    "summary": "Billboard Japan spoke with the band about the making of Fujieda EP, the perspective behind \"Skins\" & their 30th-anniversary overseas shows.",
+    "id": "news-1779588651313-43",
+    "title": "Dick Parry, Saxophonist on Pink Floyd Classics, Dies at 83",
+    "summary": "His saxophone work can be heard on songs from The Dark Side of the Moon and Wish You Were Here.",
     "category": "industry-news",
     "source": "Billboard",
     "author": "Unknown",
-    "publishedAt": "2026-05-23T02:00:00.000Z",
-    "url": "https://www.billboard.com/music/music-news/asian-kung-fu-generation-30-interview-fujieda-ep-skins-1236253583/",
+    "publishedAt": "2026-05-23T21:36:44.000Z",
+    "url": "https://www.billboard.com/music/music-news/dick-parry-death-pink-floyd-saxophonist-dies-obituary-1236255730/",
     "imageUrl": null,
     "tags": [],
     "readTime": 1,
-    "fetchedAt": "2026-05-23T02:02:03.310Z"
+    "fetchedAt": "2026-05-24T02:10:51.313Z"
   },
   {
-    "id": "news-1779501723308-0",
+    "id": "news-1779588651312-19",
+    "title": "Tencent Open-Sources TencentDB Agent Memory: A 4-Tier Local Memory Pipeline for AI Agents",
+    "summary": "Tencent has open-sourced TencentDB Agent Memory, a fully local memory system for AI agents released under the MIT license. The project pairs symbolic short-term memory, which offloads verbose tool logs into a compact Mermaid task canvas, with a 4-tier long-term memory pyramid (L0 Conversation → L1 Atom → L2 Scenario → L3 Persona). It ships as an OpenClaw plugin and a Hermes Docker image, runs on local SQLite + sqlite-vec by default, and uses hybrid BM25 + vector retrieval with RRF fusion. Tencen",
+    "category": "ai-research",
+    "source": "MarkTechPost",
+    "author": "Unknown",
+    "publishedAt": "2026-05-23T19:31:12.000Z",
+    "url": "https://www.marktechpost.com/2026/05/23/tencent-open-sources-tencentdb-agent-memory-a-4-tier-local-memory-pipeline-for-ai-agents/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-05-24T02:10:51.312Z"
+  },
+  {
+    "id": "news-1779588651312-20",
+    "title": "Build a SuperClaude Framework Workflow with Commands, Agents, Modes, and Session Memory",
+    "summary": "In this tutorial, we build an advanced workflow using the SuperClaude Framework as a structured layer on top of the Anthropic API.\nThe post Build a SuperClaude Framework Workflow with Commands, Agents, Modes, and Session Memory appeared first on MarkTechPost.\n",
+    "category": "ai-research",
+    "source": "MarkTechPost",
+    "author": "Unknown",
+    "publishedAt": "2026-05-23T19:05:33.000Z",
+    "url": "https://www.marktechpost.com/2026/05/23/build-a-superclaude-framework-workflow-with-commands-agents-modes-and-session-memory/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-05-24T02:10:51.312Z"
+  },
+  {
+    "id": "news-1779588651313-44",
+    "title": "Former Caifanes Guitarist Alejandro Marcovich in a Coma Following a Stroke, His Family Reports",
+    "summary": "The Argentine-Mexican musician was rushed to a hospital in Mexico City.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-05-23T15:19:57.000Z",
+    "url": "https://www.billboard.com/music/latin/caifanes-ex-guitarrist-alejandro-marcovich-coma-stroke-1236255661/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-05-24T02:10:51.313Z"
+  },
+  {
+    "id": "news-1779588651310-0",
+    "title": "Elon Musk has given up on solar power (on Earth)",
+    "summary": "Elon Muks's xAI has gone all in on natural gas, while SpaceX is obsessed with orbital data centers. What happened to the \"solar-electric economy\" he promised?",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-05-23T13:00:00.000Z",
+    "url": "https://techcrunch.com/2026/05/23/elon-musk-has-given-up-on-solar-power-on-earth/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-05-24T02:10:51.311Z"
+  },
+  {
+    "id": "news-1779588651312-21",
+    "title": "Nous Research Releases Contrastive Neuron Attribution (CNA): Sparse MLP Circuit Steering Without SAE Training or Weight Modification",
+    "summary": "Nous Research releases Contrastive Neuron Attribution (CNA), a method that identifies and ablates sparse MLP neuron circuits to steer LLM behavior — no sparse autoencoder training, no weight modification, and no degradation of general capability benchmarks.\nThe post Nous Research Releases Contrastive Neuron Attribution (CNA): Sparse MLP Circuit Steering Without SAE Training or Weight Modification appeared first on MarkTechPost.\n",
+    "category": "ai-research",
+    "source": "MarkTechPost",
+    "author": "Unknown",
+    "publishedAt": "2026-05-23T10:32:09.000Z",
+    "url": "https://www.marktechpost.com/2026/05/23/nous-research-releases-contrastive-neuron-attribution-cna-sparse-mlp-circuit-steering-without-sae-training-or-weight-modification/",
+    "imageUrl": null,
+    "tags": [
+      "AI",
+      "Research"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-05-24T02:10:51.312Z"
+  },
+  {
+    "id": "news-1779588651313-45",
+    "title": "Tommy Lee Debuts ‘Tommyland Rides Again’ With New Track ‘Stupid World’",
+    "summary": "It marks the first time the record has been available on digital streaming platforms.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-05-23T07:48:38.000Z",
+    "url": "https://www.billboard.com/music/rock/tommy-lee-tommyland-rides-again-1236255638/",
+    "imageUrl": null,
+    "tags": [
+      "AI",
+      "Streaming"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-05-24T02:10:51.313Z"
+  },
+  {
+    "id": "news-1779588651311-1",
     "title": "AI is being used to resurrect the voices of dead pilots",
     "summary": "People used AI on a spectrogram image of cockpit recordings to reconstruct them, forcing the NTSB to temporarily block access to its docket system. ",
     "category": "ai-research",
@@ -27,88 +123,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-05-23T02:02:03.308Z"
+    "fetchedAt": "2026-05-24T02:10:51.311Z"
   },
   {
-    "id": "news-1779501723310-42",
-    "title": "In Canada: The Beaches Reach a New Streaming Peak After Major Sync on Prime Video’s ‘Off Campus’",
-    "summary": "ArtHouse Media Group launched a new venue in Toronto and the industry mourns Cris Derksen",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-05-22T22:24:43.000Z",
-    "url": "https://www.billboard.com/pro/in-canada-the-beaches-reach-a-new-streaming-peak/",
-    "imageUrl": null,
-    "tags": [
-      "Streaming"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-05-23T02:02:03.310Z"
-  },
-  {
-    "id": "news-1779501723310-43",
-    "title": "Billboard’s Music Industry Events Calendar",
-    "summary": "A complete rundown of the most important events across the music business.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-05-22T21:30:00.000Z",
-    "url": "https://www.billboard.com/pro/music-industry-events-calendar-festivals-awards-conferences/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-05-23T02:02:03.310Z"
-  },
-  {
-    "id": "news-1779501723310-44",
-    "title": "NCT’s TAEYONG on His Evolution & Letting Instinct Lead While Making ‘WYLD’: ‘I Just Do What I Want’",
-    "summary": "Following two years in the military, the leader of K-pop's experimental clan explains why his first studio album is symbolic of freedom and growth.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-05-22T21:23:34.000Z",
-    "url": "https://www.billboard.com/music/pop/nct-taeyong-wyld-interview-1236253135/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-05-23T02:02:03.310Z"
-  },
-  {
-    "id": "news-1779501723310-45",
-    "title": "West Coast Get Down Jazz Trombonist & Kendrick Lamar Collaborator Ryan Porter Dead at 46",
-    "summary": "Bandmate Tony Austin said Porter was involved in a \"severe car accident\" in April. ",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-05-22T21:13:54.000Z",
-    "url": "https://www.billboard.com/music/rb-hip-hop/ryan-porter-death-1236255370/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-05-23T02:02:03.310Z"
-  },
-  {
-    "id": "news-1779501723310-46",
-    "title": "Christian Nodal Raises the White Flag on New Album, ‘Bandera Blanca’: All Tracks Ranked",
-    "summary": "From \"Incompatibles\" to \"Una Mujer Como la Suya\" and more, discover how we ranked the 13 songs on the LP — all the way to our very favorite.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-05-22T20:47:53.000Z",
-    "url": "https://www.billboard.com/lists/christian-nodal-new-album-bandera-blanca-best-songs-ranked/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-05-23T02:02:03.310Z"
-  },
-  {
-    "id": "news-1779501723308-1",
+    "id": "news-1779588651311-2",
     "title": "How VCs and founders use inflated ‘ARR’ to crown AI startups",
     "summary": "Some AI startups are stretching traditional revenue metrics when talking about progress publicly. And their investors are fully aware.",
     "category": "industry-news",
@@ -122,24 +140,10 @@
       "Startup"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-05-23T02:02:03.309Z"
+    "fetchedAt": "2026-05-24T02:10:51.311Z"
   },
   {
-    "id": "news-1779501723310-47",
-    "title": "Greeicy’s ‘Candela’ Album & More: Vote for the Best New Latin Music Release This Week",
-    "summary": "Which new Latin music release is your favorite? Vote below!",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-05-22T19:51:21.000Z",
-    "url": "https://www.billboard.com/music/latin/best-new-latin-music-release-poll-greeicy-xavi-alvaro-diaz-1236255200/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-05-23T02:02:03.310Z"
-  },
-  {
-    "id": "news-1779501723309-18",
+    "id": "news-1779588651312-22",
     "title": "A Step-by-Step Coding Tutorial to Implement GBrain: The Self-Wiring Memory Layer Built by Y Combinator’s Garry Tan for AI Agents",
     "summary": "AI agents start every session from zero — no memory of meetings, notes, or decisions. GBrain, the open-source memory layer Y Combinator's Garry Tan built to power his own OpenClaw and Hermes deployments, fixes that with a markdown-first knowledge graph that wires itself through regex inference, not LLM calls. This step-by-step coding tutorial walks through installing GBrain v0.38.2.0, building a brain repo, running hybrid search, and connecting it to Claude Code via MCP — about 20 minutes, all t",
     "category": "ai-research",
@@ -152,10 +156,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-05-23T02:02:03.309Z"
+    "fetchedAt": "2026-05-24T02:10:51.312Z"
   },
   {
-    "id": "news-1779501723309-2",
+    "id": "news-1779588651311-3",
     "title": "You can no longer Google the word ‘disregard’",
     "summary": "After Google Search's AI update, the word \"disregard\" now effectively breaks the search interface.",
     "category": "tech-innovation",
@@ -168,10 +172,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-05-23T02:02:03.309Z"
+    "fetchedAt": "2026-05-24T02:10:51.311Z"
   },
   {
-    "id": "news-1779501723309-3",
+    "id": "news-1779588651311-4",
     "title": "We tried Google’s AI glasses and they’re almost there",
     "summary": "Google demoed prototype Android XR glasses that overlay Gemini-powered translation, navigation, and other information directly into your field of view. ",
     "category": "ai-research",
@@ -184,10 +188,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-05-23T02:02:03.309Z"
+    "fetchedAt": "2026-05-24T02:10:51.311Z"
   },
   {
-    "id": "news-1779501723310-31",
+    "id": "news-1779588651313-33",
     "title": "From Spotify and UMG’s landmark AI deal to Shamrock’s $813M raise… it’s MBW’s Weekly Round-up",
     "summary": "The biggest headlines from the past few days...\nSource",
     "category": "industry-news",
@@ -201,10 +205,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-05-23T02:02:03.310Z"
+    "fetchedAt": "2026-05-24T02:10:51.313Z"
   },
   {
-    "id": "news-1779501723310-23",
+    "id": "news-1779588651312-25",
     "title": "Even If You Hate AI, You Will Use Google AI Search",
     "summary": "The search giant’s AI-crafted answers are so convenient, you’ll be sucked in—to the detriment of the web and the artists and thinkers behind it.",
     "category": "tech-innovation",
@@ -217,10 +221,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-05-23T02:02:03.310Z"
+    "fetchedAt": "2026-05-24T02:10:51.312Z"
   },
   {
-    "id": "news-1779501723310-32",
+    "id": "news-1779588651313-34",
     "title": "Activist Artists Management promotes Anna Kolander to Partner",
     "summary": "Kolander has spent 13 years at the company, having joined as an assistant in 2013\nSource",
     "category": "industry-news",
@@ -231,10 +235,10 @@
     "imageUrl": null,
     "tags": [],
     "readTime": 1,
-    "fetchedAt": "2026-05-23T02:02:03.310Z"
+    "fetchedAt": "2026-05-24T02:10:51.313Z"
   },
   {
-    "id": "news-1779501723310-33",
+    "id": "news-1779588651313-35",
     "title": "P!NK, Julian Bunetta, and Harvey Mason jr. among honorees at NMPA’s 2026 Annual Meeting",
     "summary": "P!NK will receive this year's NMPA Songwriter Icon Award.\nSource",
     "category": "industry-news",
@@ -245,10 +249,10 @@
     "imageUrl": null,
     "tags": [],
     "readTime": 1,
-    "fetchedAt": "2026-05-23T02:02:03.310Z"
+    "fetchedAt": "2026-05-24T02:10:51.313Z"
   },
   {
-    "id": "news-1779501723310-34",
+    "id": "news-1779588651313-36",
     "title": "Paul McCartney to host global TikTok LIVE Q&A ahead of new album release",
     "summary": "The event will kick off TikTok LIVE Premiere – the platform's new flagship LIVE series\nSource",
     "category": "industry-news",
@@ -259,10 +263,10 @@
     "imageUrl": null,
     "tags": [],
     "readTime": 1,
-    "fetchedAt": "2026-05-23T02:02:03.310Z"
+    "fetchedAt": "2026-05-24T02:10:51.313Z"
   },
   {
-    "id": "news-1779501723310-35",
+    "id": "news-1779588651313-37",
     "title": "Universal Music Group and TikTok strike new multi-year licensing deal — with expanded AI protections for artists and songwriters",
     "summary": "Global deal will also see TikTok and UMG work together to remove unauthorized AI-generated music from the platform\nSource",
     "category": "industry-news",
@@ -276,10 +280,10 @@
       "Copyright"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-05-23T02:02:03.310Z"
+    "fetchedAt": "2026-05-24T02:10:51.313Z"
   },
   {
-    "id": "news-1779501723310-24",
+    "id": "news-1779588651312-26",
     "title": "The Gulf’s AI Boom Has an Undersea Cable Problem",
     "summary": "Hyperscalers are pushing the Gulf to rethink internet infrastructure as AI raises the stakes of cable disruptions.",
     "category": "tech-innovation",
@@ -292,10 +296,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-05-23T02:02:03.310Z"
+    "fetchedAt": "2026-05-24T02:10:51.313Z"
   },
   {
-    "id": "news-1779501723309-19",
+    "id": "news-1779588651312-23",
     "title": "Microsoft Releases Fara1.5: A Family of Browser Computer-Use Agents (4B/9B/27B) That Outperform OpenAI Operator and Gemini 2.5 Computer Use on Online-Mind2Web",
     "summary": "Microsoft Research released Fara1.5, a family of browser computer-use agents in 4B, 9B, and 27B sizes. Fara1.5-27B scores 72% on Online-Mind2Web, outperforming OpenAI Operator, Gemini 2.5 Computer Use, and Yutori Navigator n1. The release also includes FaraGen1.5, a synthetic data pipeline that trains agents on gated\nThe post Microsoft Releases Fara1.5: A Family of Browser Computer-Use Agents (4B/9B/27B) That Outperform OpenAI Operator and Gemini 2.5 Computer Use on Online-Mind2Web appeared firs",
     "category": "ai-research",
@@ -309,6 +313,6 @@
       "Research"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-05-23T02:02:03.309Z"
+    "fetchedAt": "2026-05-24T02:10:51.312Z"
   }
 ]
