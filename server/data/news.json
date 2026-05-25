@@ -1,20 +1,159 @@
 [
   {
-    "id": "news-1779588651313-43",
-    "title": "Dick Parry, Saxophonist on Pink Floyd Classics, Dies at 83",
-    "summary": "His saxophone work can be heard on songs from The Dark Side of the Moon and Wish You Were Here.",
+    "id": "news-1779676203464-43",
+    "title": "‘KPop Demon Hunters’ Finally Gets Physical Release on Blu-ray and DVD: Order It Here",
+    "summary": "This marks the first time the hit animated film has been available for viewing outside of streaming, save for a brief theatrical run.",
     "category": "industry-news",
     "source": "Billboard",
     "author": "Unknown",
-    "publishedAt": "2026-05-23T21:36:44.000Z",
-    "url": "https://www.billboard.com/music/music-news/dick-parry-death-pink-floyd-saxophonist-dies-obituary-1236255730/",
+    "publishedAt": "2026-05-25T02:15:13.000Z",
+    "url": "https://www.billboard.com/culture/product-recommendations/kpop-demon-hunters-film-blu-ray-dvd-4k-physical-release-buy-1236255905/",
+    "imageUrl": null,
+    "tags": [
+      "AI",
+      "Streaming"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-05-25T02:30:03.464Z"
+  },
+  {
+    "id": "news-1779676203463-19",
+    "title": "StepFun Releases StepAudio 2.5 Realtime: An End-to-End Voice Model with Roleplay-Specific RLHF and Paralinguistic Comprehension",
+    "summary": "StepFun, the Shanghai-based AI lab, released StepAudio 2.5 Realtime in May 2026 — an end-to-end real-time speech large language model with fully customizable persona capabilities. The model connects via a WebSocket API, supports Chinese and English, and ranked first across all five benchmark dimensions tested in April 2026, including an 80.41 human evaluation score and 82.18 on paralinguistic comprehension.\nThe post StepFun Releases StepAudio 2.5 Realtime: An End-to-End Voice Model with Roleplay",
+    "category": "ai-research",
+    "source": "MarkTechPost",
+    "author": "Unknown",
+    "publishedAt": "2026-05-24T22:51:05.000Z",
+    "url": "https://www.marktechpost.com/2026/05/24/stepfun-releases-stepaudio-2-5-realtime-an-end-to-end-voice-model-with-roleplay-specific-rlhf-and-paralinguistic-comprehension/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-05-25T02:30:03.463Z"
+  },
+  {
+    "id": "news-1779676203462-0",
+    "title": "Everyone is navigating AI security in real time — even Google",
+    "summary": "We're in the transition period -- all of us.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-05-24T21:39:21.000Z",
+    "url": "https://techcrunch.com/2026/05/24/everyone-is-navigating-ai-security-in-real-time-even-google/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-05-25T02:30:03.462Z"
+  },
+  {
+    "id": "news-1779676203464-44",
+    "title": "Fans Choose Neutro Shorty’s ‘El Disco de Salsa’ as This Week’s Favorite New Music",
+    "summary": "The Venezuelan rapper's new album earned 75% of the vote.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-05-24T20:31:25.000Z",
+    "url": "https://www.billboard.com/music/music-news/neutro-shorty-el-disco-de-salsa-new-music-poll-results-1236255854/",
     "imageUrl": null,
     "tags": [],
     "readTime": 1,
-    "fetchedAt": "2026-05-24T02:10:51.313Z"
+    "fetchedAt": "2026-05-25T02:30:03.464Z"
   },
   {
-    "id": "news-1779588651312-19",
+    "id": "news-1779676203464-45",
+    "title": "‘Michael’ Closing in on ‘Bohemian Rhapsody’ as Top-Grossing Music Biopic Worldwide: See the Full List",
+    "summary": "The films on this list cover a wide range of genres, including rap, classical, country, Latin and contemporary Christian.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-05-24T20:28:13.000Z",
+    "url": "https://www.billboard.com/lists/top-grossing-music-biopics-movies/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-05-25T02:30:03.464Z"
+  },
+  {
+    "id": "news-1779676203464-46",
+    "title": "Taylor Swift, The Beatles, Elvis & More Artists With the Most Weeks at No. 1 on the Billboard 200: Full List",
+    "summary": "Drake is now tied with Fleetwood Mac and The Rolling Stones.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-05-24T20:15:01.000Z",
+    "url": "https://www.billboard.com/lists/most-weeks-at-no-1-billboard-200-taylor-swift-the-beatles/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-05-25T02:30:03.464Z"
+  },
+  {
+    "id": "news-1779676203464-47",
+    "title": "Drake Makes History at Nos. 1, 2 & 3 on Billboard 200 With ‘ICEMAN,’ ‘HABIBTI’ & ‘MAID OF HONOUR’",
+    "summary": "He’s the first artist to hold the top three album on the Billboard 200 in the same week.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-05-24T19:25:18.000Z",
+    "url": "https://www.billboard.com/lists/drake-iceman-habibti-maid-of-honour-top-billboard-200-chart/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-05-25T02:30:03.464Z"
+  },
+  {
+    "id": "news-1779676203464-48",
+    "title": "Kali Uchis Kicks Off For the Girls Tour at Sueños 2026, Reveals She Has a ‘Whole Album Done’",
+    "summary": "The Colombian-American star brought cinematic drama and honeyed vocals to Chicago before telling Billboard her next project is in \"Spanglish.\"",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-05-24T15:23:16.000Z",
+    "url": "https://www.billboard.com/music/latin/kali-uchis-for-the-girls-tour-suenos-2026-recap-interview-1236255776/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-05-25T02:30:03.464Z"
+  },
+  {
+    "id": "news-1779676203462-1",
+    "title": "I tried Amazon’s Bee wearable and am both intrigued and slightly creeped out",
+    "summary": "Like other AI wearables, Amazon's Bee offers an odd combination of convenience and privacy anxiety. ",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-05-24T15:00:00.000Z",
+    "url": "https://techcrunch.com/2026/05/24/i-tried-amazons-bee-wearable-and-am-both-intrigued-and-slightly-creeped-out/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-05-25T02:30:03.462Z"
+  },
+  {
+    "id": "news-1779676203463-20",
+    "title": "NVIDIA AI Releases Gated DeltaNet-2: A Linear Attention Layer That Decouples Erase and Write in the Delta Rule",
+    "summary": "Linear attention squeezes the unbounded KV cache into a fixed-size recurrent state, but editing that memory without scrambling existing associations is hard. Prior delta-rule models like Gated DeltaNet and KDA use one scalar gate to control both erasing old content and writing new content. NVIDIA's Gated DeltaNet-2 decouples these into a channel-wise erase gate b_t on the key axis and a channel-wise write gate w_t on the value axis. At 1.3B parameters trained on 100B FineWeb-Edu tokens, it outpe",
+    "category": "tech-innovation",
+    "source": "MarkTechPost",
+    "author": "Unknown",
+    "publishedAt": "2026-05-24T07:42:09.000Z",
+    "url": "https://www.marktechpost.com/2026/05/24/nvidia-ai-releases-gated-deltanet-2-a-linear-attention-layer-that-decouples-erase-and-write-in-the-delta-rule/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-05-25T02:30:03.463Z"
+  },
+  {
+    "id": "news-1779676203463-21",
     "title": "Tencent Open-Sources TencentDB Agent Memory: A 4-Tier Local Memory Pipeline for AI Agents",
     "summary": "Tencent has open-sourced TencentDB Agent Memory, a fully local memory system for AI agents released under the MIT license. The project pairs symbolic short-term memory, which offloads verbose tool logs into a compact Mermaid task canvas, with a 4-tier long-term memory pyramid (L0 Conversation → L1 Atom → L2 Scenario → L3 Persona). It ships as an OpenClaw plugin and a Hermes Docker image, runs on local SQLite + sqlite-vec by default, and uses hybrid BM25 + vector retrieval with RRF fusion. Tencen",
     "category": "ai-research",
@@ -27,10 +166,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-05-24T02:10:51.312Z"
+    "fetchedAt": "2026-05-25T02:30:03.463Z"
   },
   {
-    "id": "news-1779588651312-20",
+    "id": "news-1779676203463-22",
     "title": "Build a SuperClaude Framework Workflow with Commands, Agents, Modes, and Session Memory",
     "summary": "In this tutorial, we build an advanced workflow using the SuperClaude Framework as a structured layer on top of the Anthropic API.\nThe post Build a SuperClaude Framework Workflow with Commands, Agents, Modes, and Session Memory appeared first on MarkTechPost.\n",
     "category": "ai-research",
@@ -41,26 +180,10 @@
     "imageUrl": null,
     "tags": [],
     "readTime": 1,
-    "fetchedAt": "2026-05-24T02:10:51.312Z"
+    "fetchedAt": "2026-05-25T02:30:03.463Z"
   },
   {
-    "id": "news-1779588651313-44",
-    "title": "Former Caifanes Guitarist Alejandro Marcovich in a Coma Following a Stroke, His Family Reports",
-    "summary": "The Argentine-Mexican musician was rushed to a hospital in Mexico City.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-05-23T15:19:57.000Z",
-    "url": "https://www.billboard.com/music/latin/caifanes-ex-guitarrist-alejandro-marcovich-coma-stroke-1236255661/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-05-24T02:10:51.313Z"
-  },
-  {
-    "id": "news-1779588651310-0",
+    "id": "news-1779676203462-2",
     "title": "Elon Musk has given up on solar power (on Earth)",
     "summary": "Elon Muks's xAI has gone all in on natural gas, while SpaceX is obsessed with orbital data centers. What happened to the \"solar-electric economy\" he promised?",
     "category": "ai-research",
@@ -73,10 +196,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-05-24T02:10:51.311Z"
+    "fetchedAt": "2026-05-25T02:30:03.462Z"
   },
   {
-    "id": "news-1779588651312-21",
+    "id": "news-1779676203463-23",
     "title": "Nous Research Releases Contrastive Neuron Attribution (CNA): Sparse MLP Circuit Steering Without SAE Training or Weight Modification",
     "summary": "Nous Research releases Contrastive Neuron Attribution (CNA), a method that identifies and ablates sparse MLP neuron circuits to steer LLM behavior — no sparse autoencoder training, no weight modification, and no degradation of general capability benchmarks.\nThe post Nous Research Releases Contrastive Neuron Attribution (CNA): Sparse MLP Circuit Steering Without SAE Training or Weight Modification appeared first on MarkTechPost.\n",
     "category": "ai-research",
@@ -90,27 +213,10 @@
       "Research"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-05-24T02:10:51.312Z"
+    "fetchedAt": "2026-05-25T02:30:03.463Z"
   },
   {
-    "id": "news-1779588651313-45",
-    "title": "Tommy Lee Debuts ‘Tommyland Rides Again’ With New Track ‘Stupid World’",
-    "summary": "It marks the first time the record has been available on digital streaming platforms.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-05-23T07:48:38.000Z",
-    "url": "https://www.billboard.com/music/rock/tommy-lee-tommyland-rides-again-1236255638/",
-    "imageUrl": null,
-    "tags": [
-      "AI",
-      "Streaming"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-05-24T02:10:51.313Z"
-  },
-  {
-    "id": "news-1779588651311-1",
+    "id": "news-1779676203462-3",
     "title": "AI is being used to resurrect the voices of dead pilots",
     "summary": "People used AI on a spectrogram image of cockpit recordings to reconstruct them, forcing the NTSB to temporarily block access to its docket system. ",
     "category": "ai-research",
@@ -123,10 +229,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-05-24T02:10:51.311Z"
+    "fetchedAt": "2026-05-25T02:30:03.462Z"
   },
   {
-    "id": "news-1779588651311-2",
+    "id": "news-1779676203462-4",
     "title": "How VCs and founders use inflated ‘ARR’ to crown AI startups",
     "summary": "Some AI startups are stretching traditional revenue metrics when talking about progress publicly. And their investors are fully aware.",
     "category": "industry-news",
@@ -140,10 +246,10 @@
       "Startup"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-05-24T02:10:51.311Z"
+    "fetchedAt": "2026-05-25T02:30:03.462Z"
   },
   {
-    "id": "news-1779588651312-22",
+    "id": "news-1779676203463-24",
     "title": "A Step-by-Step Coding Tutorial to Implement GBrain: The Self-Wiring Memory Layer Built by Y Combinator’s Garry Tan for AI Agents",
     "summary": "AI agents start every session from zero — no memory of meetings, notes, or decisions. GBrain, the open-source memory layer Y Combinator's Garry Tan built to power his own OpenClaw and Hermes deployments, fixes that with a markdown-first knowledge graph that wires itself through regex inference, not LLM calls. This step-by-step coding tutorial walks through installing GBrain v0.38.2.0, building a brain repo, running hybrid search, and connecting it to Claude Code via MCP — about 20 minutes, all t",
     "category": "ai-research",
@@ -156,10 +262,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-05-24T02:10:51.312Z"
+    "fetchedAt": "2026-05-25T02:30:03.463Z"
   },
   {
-    "id": "news-1779588651311-3",
+    "id": "news-1779676203462-5",
     "title": "You can no longer Google the word ‘disregard’",
     "summary": "After Google Search's AI update, the word \"disregard\" now effectively breaks the search interface.",
     "category": "tech-innovation",
@@ -172,10 +278,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-05-24T02:10:51.311Z"
+    "fetchedAt": "2026-05-25T02:30:03.462Z"
   },
   {
-    "id": "news-1779588651311-4",
+    "id": "news-1779676203462-6",
     "title": "We tried Google’s AI glasses and they’re almost there",
     "summary": "Google demoed prototype Android XR glasses that overlay Gemini-powered translation, navigation, and other information directly into your field of view. ",
     "category": "ai-research",
@@ -188,10 +294,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-05-24T02:10:51.311Z"
+    "fetchedAt": "2026-05-25T02:30:03.462Z"
   },
   {
-    "id": "news-1779588651313-33",
+    "id": "news-1779676203464-33",
     "title": "From Spotify and UMG’s landmark AI deal to Shamrock’s $813M raise… it’s MBW’s Weekly Round-up",
     "summary": "The biggest headlines from the past few days...\nSource",
     "category": "industry-news",
@@ -205,114 +311,6 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-05-24T02:10:51.313Z"
-  },
-  {
-    "id": "news-1779588651312-25",
-    "title": "Even If You Hate AI, You Will Use Google AI Search",
-    "summary": "The search giant’s AI-crafted answers are so convenient, you’ll be sucked in—to the detriment of the web and the artists and thinkers behind it.",
-    "category": "tech-innovation",
-    "source": "Wired AI",
-    "author": "Unknown",
-    "publishedAt": "2026-05-22T15:00:00.000Z",
-    "url": "https://www.wired.com/story/even-if-you-hate-ai-you-will-use-google-ai-search/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-05-24T02:10:51.312Z"
-  },
-  {
-    "id": "news-1779588651313-34",
-    "title": "Activist Artists Management promotes Anna Kolander to Partner",
-    "summary": "Kolander has spent 13 years at the company, having joined as an assistant in 2013\nSource",
-    "category": "industry-news",
-    "source": "Music Business Worldwide",
-    "author": "Unknown",
-    "publishedAt": "2026-05-22T13:17:00.000Z",
-    "url": "https://www.musicbusinessworldwide.com/activist-artists-management-promotes-anna-kolander-to-partner/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-05-24T02:10:51.313Z"
-  },
-  {
-    "id": "news-1779588651313-35",
-    "title": "P!NK, Julian Bunetta, and Harvey Mason jr. among honorees at NMPA’s 2026 Annual Meeting",
-    "summary": "P!NK will receive this year's NMPA Songwriter Icon Award.\nSource",
-    "category": "industry-news",
-    "source": "Music Business Worldwide",
-    "author": "Unknown",
-    "publishedAt": "2026-05-22T12:06:17.000Z",
-    "url": "https://www.musicbusinessworldwide.com/pnk-julian-bunetta-and-harvey-mason-jr-among-honorees-at-nmpas-2026-annual-meeting/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-05-24T02:10:51.313Z"
-  },
-  {
-    "id": "news-1779588651313-36",
-    "title": "Paul McCartney to host global TikTok LIVE Q&A ahead of new album release",
-    "summary": "The event will kick off TikTok LIVE Premiere – the platform's new flagship LIVE series\nSource",
-    "category": "industry-news",
-    "source": "Music Business Worldwide",
-    "author": "Unknown",
-    "publishedAt": "2026-05-22T11:13:35.000Z",
-    "url": "https://www.musicbusinessworldwide.com/paul-mccartney-to-host-global-tiktok-live-qa-ahead-of-new-album-release-the-boys-of-dungeon-lane/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-05-24T02:10:51.313Z"
-  },
-  {
-    "id": "news-1779588651313-37",
-    "title": "Universal Music Group and TikTok strike new multi-year licensing deal — with expanded AI protections for artists and songwriters",
-    "summary": "Global deal will also see TikTok and UMG work together to remove unauthorized AI-generated music from the platform\nSource",
-    "category": "industry-news",
-    "source": "Music Business Worldwide",
-    "author": "Unknown",
-    "publishedAt": "2026-05-22T09:32:55.000Z",
-    "url": "https://www.musicbusinessworldwide.com/universal-music-group-and-tiktok-strike-new-multi-year-licensing-deal-with-expanded-ai-protections-for-artists-and-songwriters/",
-    "imageUrl": null,
-    "tags": [
-      "AI",
-      "Copyright"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-05-24T02:10:51.313Z"
-  },
-  {
-    "id": "news-1779588651312-26",
-    "title": "The Gulf’s AI Boom Has an Undersea Cable Problem",
-    "summary": "Hyperscalers are pushing the Gulf to rethink internet infrastructure as AI raises the stakes of cable disruptions.",
-    "category": "tech-innovation",
-    "source": "Wired AI",
-    "author": "Unknown",
-    "publishedAt": "2026-05-22T09:00:00.000Z",
-    "url": "https://www.wired.com/story/the-gulfs-ai-boom-has-an-undersea-cable-problem/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-05-24T02:10:51.313Z"
-  },
-  {
-    "id": "news-1779588651312-23",
-    "title": "Microsoft Releases Fara1.5: A Family of Browser Computer-Use Agents (4B/9B/27B) That Outperform OpenAI Operator and Gemini 2.5 Computer Use on Online-Mind2Web",
-    "summary": "Microsoft Research released Fara1.5, a family of browser computer-use agents in 4B, 9B, and 27B sizes. Fara1.5-27B scores 72% on Online-Mind2Web, outperforming OpenAI Operator, Gemini 2.5 Computer Use, and Yutori Navigator n1. The release also includes FaraGen1.5, a synthetic data pipeline that trains agents on gated\nThe post Microsoft Releases Fara1.5: A Family of Browser Computer-Use Agents (4B/9B/27B) That Outperform OpenAI Operator and Gemini 2.5 Computer Use on Online-Mind2Web appeared firs",
-    "category": "ai-research",
-    "source": "MarkTechPost",
-    "author": "Unknown",
-    "publishedAt": "2026-05-22T08:32:55.000Z",
-    "url": "https://www.marktechpost.com/2026/05/22/microsoft-releases-fara1-5-a-family-of-browser-computer-use-agents-4b-9b-27b-that-outperform-openai-operator-and-gemini-2-5-computer-use-on-online-mind2web/",
-    "imageUrl": null,
-    "tags": [
-      "AI",
-      "Research"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-05-24T02:10:51.312Z"
+    "fetchedAt": "2026-05-25T02:30:03.464Z"
   }
 ]
