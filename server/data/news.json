@@ -1,314 +1,319 @@
 [
   {
-    "id": "news-1779848968428-38",
-    "title": "T.O.P Is Back on the Charts With Nothing to Hide on His First Full-Length Album",
-    "summary": "Twenty years after Choi Seung-hyun helped rewrite the rules of K-pop with BIGBANG, the elusive star returns with \"ANOTHER DIMENSION\" to address art, his past and, above all, gratitude.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-05-27T02:28:18.000Z",
-    "url": "https://www.billboard.com/music/pop/top-interview-bigbang-another-dimension-full-solo-album-1236257589/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-05-27T02:29:28.428Z"
-  },
-  {
-    "id": "news-1779848968428-39",
-    "title": "BTS Announces ‘Behind-the-Scenes’ of Their Visit to Mexico’s National Palace",
-    "summary": "The video of their meeting with President Claudia Sheinbaum will arrive May 27 on the South Korean band's official accounts.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-05-27T00:35:28.000Z",
-    "url": "https://www.billboard.com/music/music-news/bts-behind-the-scenes-mexico-national-palace-announced-1236257647/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-05-27T02:29:28.428Z"
-  },
-  {
-    "id": "news-1779848968428-40",
-    "title": "Drake Has 12 Albums on the Billboard 200 Chart for the First Time",
-    "summary": "He’s the only living soloist to achieve the feat since the chart combined stereo and mono albums in 1963.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-05-27T00:30:40.000Z",
-    "url": "https://www.billboard.com/music/chart-beat/drake-12-albums-billboard-200-chart-1236257628/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-05-27T02:29:28.428Z"
-  },
-  {
-    "id": "news-1779848968428-41",
-    "title": "Music-Related Legislation Before Congress Right Now: Full List of Bills (UPDATING)",
-    "summary": "Billboard is keeping track of all the bills that could impact the music industry during the 119th Congress.  ",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-05-26T23:55:16.000Z",
-    "url": "https://www.billboard.com/lists/music-related-bills-congress-now-list-legislation/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-05-27T02:29:28.428Z"
-  },
-  {
-    "id": "news-1779848968428-42",
-    "title": "Spotify Users Can Now Listen to Long-Form Magazine Articles",
-    "summary": "Each narrated article is included in Premium users' monthly audiobook allotment. ",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-05-26T23:17:37.000Z",
-    "url": "https://www.billboard.com/pro/spotify-audio-versions-magazine-articles/",
-    "imageUrl": null,
-    "tags": [
-      "Spotify"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-05-27T02:29:28.428Z"
-  },
-  {
-    "id": "news-1779848968428-43",
-    "title": "BTS Back in Vegas With Samsung Partnership, Fan Activations & Citywide Takeover",
-    "summary": "The Samsung Galaxy x BTS World Tour Arirang experience runs on select concert days, and is built around the Samsung Galaxy S26 Ultra smartphone.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-05-26T23:03:04.000Z",
-    "url": "https://www.billboard.com/culture/product-recommendations/bts-arirang-tour-samsung-fan-activations-las-vegas-1236256209/",
-    "imageUrl": null,
-    "tags": [
-      "Partnership"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-05-27T02:29:28.428Z"
-  },
-  {
-    "id": "news-1779848968428-44",
-    "title": "Can Drake’s New Chart Records Ever Be Beat & Who Else Could Put Up These Numbers?",
-    "summary": "On the new Billboard Pop Shop Podcast, Katie & Keith are talking about how Drake flooded our charts with the release of three new albums.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-05-26T22:59:33.000Z",
-    "url": "https://www.billboard.com/media/podcasts/drake-chart-records-pop-shop-podcast-1236257202/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-05-27T02:29:28.428Z"
-  },
-  {
-    "id": "news-1779848968428-45",
-    "title": "Billboard’s Music Industry Events Calendar",
-    "summary": "A complete rundown of the most important events across the music business.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-05-26T22:51:00.000Z",
-    "url": "https://www.billboard.com/pro/music-industry-events-calendar-festivals-awards-conferences/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-05-27T02:29:28.428Z"
-  },
-  {
-    "id": "news-1779848968426-0",
-    "title": "DuckDuckGo installs are up 30% as users reject being ‘force-fed’ Google’s AI Search",
-    "summary": "Google overhauled Search at I/O 2026, replacing blue links with AI agents. The backlash has been swift. DuckDuckGo app installs spiked 30% as users seek a way out.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-05-26T22:32:56.000Z",
-    "url": "https://techcrunch.com/2026/05/26/duckduckgo-installs-are-up-30-as-users-reject-being-force-fed-googles-ai-search/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-05-27T02:29:28.426Z"
-  },
-  {
-    "id": "news-1779848968427-17",
-    "title": "Stability AI Releases Stable Audio 3: A Family of Fast Latent Diffusion Models for Audio Generation and Editing",
-    "summary": "Stability AI has released Stable Audio 3, a family of latent diffusion models for instrumental music and sound effects generation. The release includes open weights for the small and medium variants. Small runs on a MacBook Pro M4 CPU. Medium fits on consumer GPUs with 8 GB of VRAM. Both generate stereo audio at 44.1 kHz using a three-stage training pipeline: flow matching, distillation warmup, and adversarial post-training. On the BBC Sound Effects benchmark at 5 seconds, SA3 medium scores FAD ",
+    "id": "news-1779933781046-18",
+    "title": "Sakana AI Proposes DiffusionBlocks: a Block-wise Training Framework That Converts Residual Networks into Independently Trainable Denoising Modules",
+    "summary": "DiffusionBlocks converts residual networks into independently trainable blocks by interpreting layer updates as reverse diffusion denoising steps.\nThe post Sakana AI Proposes DiffusionBlocks: a Block-wise Training Framework That Converts Residual Networks into Independently Trainable Denoising Modules appeared first on MarkTechPost.\n",
     "category": "ai-research",
     "source": "MarkTechPost",
     "author": "Unknown",
-    "publishedAt": "2026-05-26T22:31:02.000Z",
-    "url": "https://www.marktechpost.com/2026/05/26/stability-ai-releases-stable-audio-3-a-family-of-fast-latent-diffusion-models-for-audio-generation-and-editing/",
+    "publishedAt": "2026-05-28T00:51:53.000Z",
+    "url": "https://www.marktechpost.com/2026/05/27/sakana-ai-proposes-diffusionblocks-a-block-wise-training-framework-that-converts-residual-networks-into-independently-trainable-denoising-modules/",
     "imageUrl": null,
     "tags": [
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-05-27T02:29:28.427Z"
+    "fetchedAt": "2026-05-28T02:03:01.046Z"
   },
   {
-    "id": "news-1779848968427-22",
-    "title": "Why the Vatican Invited Anthropic to the Pope’s AI Encyclical Presentation",
-    "summary": "Pope Leo’s first encyclical marks an unprecedented alliance between the Church and Silicon Valley.",
-    "category": "tech-innovation",
-    "source": "Wired AI",
-    "author": "Unknown",
-    "publishedAt": "2026-05-26T20:46:03.000Z",
-    "url": "https://www.wired.com/story/anthropic-christopher-olah-pope-ai-encyclical/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-05-27T02:29:28.427Z"
-  },
-  {
-    "id": "news-1779848968427-23",
-    "title": "What Pope Leo XIV’s First Encyclical Says About the Power of AI",
-    "summary": "In Magnifica Humanitas, the Pope decries the concentration of technological power in a few global players.",
-    "category": "tech-innovation",
-    "source": "Wired AI",
-    "author": "Unknown",
-    "publishedAt": "2026-05-26T20:17:47.000Z",
-    "url": "https://www.wired.com/story/what-pope-leo-xivs-first-encyclical-says-about-the-power-of-ai/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-05-27T02:29:28.428Z"
-  },
-  {
-    "id": "news-1779848968428-30",
-    "title": "Sulinna Ong exits Spotify to join U2 management team alongside Irving and Jeffrey Azoff",
-    "summary": "U2 have appointed Sulinna Ong as a Management Partner, after more than seven years at Spotify, where she most recently served as Global Head of Editorial & Curation, Music\nSource",
-    "category": "industry-news",
-    "source": "Music Business Worldwide",
-    "author": "Unknown",
-    "publishedAt": "2026-05-26T15:43:17.000Z",
-    "url": "https://www.musicbusinessworldwide.com/sulinna-ong-exits-spotify-to-join-u2-management-alongside-irving-and-jeffrey-azoff/",
-    "imageUrl": null,
-    "tags": [
-      "Spotify"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-05-27T02:29:28.428Z"
-  },
-  {
-    "id": "news-1779848968426-1",
-    "title": "Universal Music Group and TikTok renew agreement to combat unauthorized AI music",
-    "summary": "For years, UMG has pushed platforms, streaming services, and AI companies to implement stricter content moderation policies.",
-    "category": "industry-news",
+    "id": "news-1779933781044-0",
+    "title": "Why Google’s AI can’t spell Google (or anything else)",
+    "summary": "Google is embarrassing itself, again.",
+    "category": "ai-research",
     "source": "TechCrunch AI",
     "author": "Unknown",
-    "publishedAt": "2026-05-26T14:55:05.000Z",
-    "url": "https://techcrunch.com/2026/05/26/universal-music-group-and-tiktok-renew-agreement-to-combat-unauthorized-ai-music/",
+    "publishedAt": "2026-05-28T00:17:41.000Z",
+    "url": "https://techcrunch.com/2026/05/27/why-googles-ai-cant-spell-google-or-anything-else/",
     "imageUrl": null,
     "tags": [
-      "AI",
-      "Streaming"
+      "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-05-27T02:29:28.426Z"
+    "fetchedAt": "2026-05-28T02:03:01.045Z"
   },
   {
-    "id": "news-1779848968428-31",
-    "title": "Sony Music moves to add more than 30,000 copyrighted recordings to its lawsuit against Udio",
-    "summary": "Sony Music now alleges that Udio \"copied and ingested\" 30,442 copyrighted works into its generative AI models.\nSource",
-    "category": "ai-research",
-    "source": "Music Business Worldwide",
+    "id": "news-1779933781046-24",
+    "title": "Illinois Lawmakers Just Passed America’s Strongest AI Safety Bill",
+    "summary": "The bill requires companies like OpenAI, Anthropic, and Google to have third parties confirm they’re following safety standards. Illinois governor JB Pritzker says he’ll sign it.",
+    "category": "tech-innovation",
+    "source": "Wired AI",
     "author": "Unknown",
-    "publishedAt": "2026-05-26T12:49:20.000Z",
-    "url": "https://www.musicbusinessworldwide.com/sony-music-moves-to-add-more-than-30000-copyrighted-recordings-to-its-lawsuit-against-udio/",
+    "publishedAt": "2026-05-28T00:10:42.000Z",
+    "url": "https://www.wired.com/story/illinois-pass-major-ai-safety-law-pritzker/",
     "imageUrl": null,
     "tags": [
-      "AI",
-      "Generative AI",
-      "Copyright"
+      "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-05-27T02:29:28.428Z"
+    "fetchedAt": "2026-05-28T02:03:01.046Z"
   },
   {
-    "id": "news-1779848968428-32",
-    "title": "The Black Label, the studio behind the KPop Demon Hunters soundtrack, just raised $80M with investment from Tencent Music",
-    "summary": "Bloomberg reports that the deal values The Black Label at 1 trillion won (approximately $660M)\nSource",
+    "id": "news-1779933781047-36",
+    "title": "Taylor Swift’s Lawyer to Judge: ‘Life of a Showgirl’ Branding Is Protected by First Amendment",
+    "summary": "Swift's longtime attorney appeared in Los Angeles court on Wednesday (May 27) to fight a lawsuit over the title of her record-smashing latest album.",
     "category": "industry-news",
-    "source": "Music Business Worldwide",
+    "source": "Billboard",
     "author": "Unknown",
-    "publishedAt": "2026-05-26T11:58:47.000Z",
-    "url": "https://www.musicbusinessworldwide.com/the-black-label-the-studio-behind-the-kpop-demon-hunters-soundtrack-just-raised-80m-with-investment-from-tencent-music/",
+    "publishedAt": "2026-05-27T23:40:30.000Z",
+    "url": "https://www.billboard.com/pro/taylor-swift-life-of-a-showgirl-case-lawyer-fights-lawsuit/",
     "imageUrl": null,
-    "tags": [
-      "AI",
-      "Investment"
-    ],
+    "tags": [],
     "readTime": 1,
-    "fetchedAt": "2026-05-27T02:29:28.428Z"
+    "fetchedAt": "2026-05-28T02:03:01.047Z"
   },
   {
-    "id": "news-1779848968428-33",
-    "title": "Kakao’s Melon, Tencent Music, and Line Music to launch unified K-pop chart that pools streaming data from South Korea, China, and Japan",
-    "summary": "Melon will upload congratulatory video messages from artists including NCT Taeyong, Le Sserafim, ALPHA DRIVE ONE, and AND2BLE ahead of the launch.\nSource",
+    "id": "news-1779933781047-37",
+    "title": "The Albums With the Most Top 10 Billboard Hot 100 Hits",
+    "summary": "Below, Billboard celebrates the roster of artists who cemented their pop dominance by landing five or more top 10 hits from a single album.",
     "category": "industry-news",
-    "source": "Music Business Worldwide",
+    "source": "Billboard",
     "author": "Unknown",
-    "publishedAt": "2026-05-26T11:04:25.000Z",
-    "url": "https://www.musicbusinessworldwide.com/kakaos-melon-tencent-music-and-line-music-to-launch-unified-k-pop-chart-in-june-that-pools-streaming-data-from-south-korea-china-and-japan/",
+    "publishedAt": "2026-05-27T22:00:05.000Z",
+    "url": "https://www.billboard.com/photos/albums-five-top-10-hot-100-hits-6738611/",
     "imageUrl": null,
-    "tags": [
-      "Streaming"
-    ],
+    "tags": [],
     "readTime": 1,
-    "fetchedAt": "2026-05-27T02:29:28.428Z"
+    "fetchedAt": "2026-05-28T02:03:01.047Z"
   },
   {
-    "id": "news-1779848968428-34",
-    "title": "Ticketmaster expands into the Philippines through SM Prime partnership",
-    "summary": "SM Ticketmaster will partner with third-party venues, promoters and other ticketed experiences across concerts, sports and live events.\nSource",
+    "id": "news-1779933781047-38",
+    "title": "YG Announces ‘The Gentlemen’s Club’ Album: See When It Arrives",
+    "summary": "The West Coast rapper also revealed a new label partnership with 10K Projects. ",
     "category": "industry-news",
-    "source": "Music Business Worldwide",
+    "source": "Billboard",
     "author": "Unknown",
-    "publishedAt": "2026-05-26T10:36:29.000Z",
-    "url": "https://www.musicbusinessworldwide.com/ticketmaster-expands-into-the-philippines-through-sm-prime-partnership/",
+    "publishedAt": "2026-05-27T21:20:21.000Z",
+    "url": "https://www.billboard.com/music/rb-hip-hop/yg-the-gentlemens-club-album-announcement-1236258342/",
     "imageUrl": null,
     "tags": [
       "Partnership"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-05-27T02:29:28.428Z"
+    "fetchedAt": "2026-05-28T02:03:01.047Z"
   },
   {
-    "id": "news-1779848968428-24",
-    "title": "Quiz: Will AI Destroy Your Career?",
-    "summary": "Some jobs may be toast. Some will survive. Click your answers to learn your fate.",
-    "category": "tech-innovation",
-    "source": "Wired AI",
+    "id": "news-1779933781047-39",
+    "title": "On Horseback From His Estate in Medellín, Maluma Talks Mental Health, Yeison Jiménez, Family & More: Watch",
+    "summary": "\"Life isn't just music,\" the Colombian star tells Billboard.",
+    "category": "industry-news",
+    "source": "Billboard",
     "author": "Unknown",
-    "publishedAt": "2026-05-26T10:00:00.000Z",
-    "url": "https://www.wired.com/story/quiz-will-ai-destroy-your-career/",
+    "publishedAt": "2026-05-27T21:18:11.000Z",
+    "url": "https://www.billboard.com/music/latin/maluma-interview-medellin-estate-horseback-video-1236258499/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-05-28T02:03:01.047Z"
+  },
+  {
+    "id": "news-1779933781045-1",
+    "title": "In more good news for Amazon, Snowflake signs $6B deal with AWS for AI CPU chips",
+    "summary": "Snowflake has signed a new, enormous five-year deal with Amazon to secure chips for AI usage. Nvidia is once again being put on notice.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-05-27T20:10:00.000Z",
+    "url": "https://techcrunch.com/2026/05/27/in-more-good-news-for-amazon-snowflake-signs-6b-deal-with-aws-for-ai-cpu-chips/",
     "imageUrl": null,
     "tags": [
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-05-27T02:29:28.428Z"
+    "fetchedAt": "2026-05-28T02:03:01.045Z"
   },
   {
-    "id": "news-1779848968428-25",
-    "title": "AI Is Taking Over the Most Cursed Job in the World",
-    "summary": "There’s a mad dash to automate the world’s most hated calls. Have an unpaid bill? You’ll hear from an AI debt collector sometime soon.",
-    "category": "tech-innovation",
-    "source": "Wired AI",
+    "id": "news-1779933781045-2",
+    "title": "Payroll startup Remote says it grew revenue 50% per employee without adding headcount",
+    "summary": "Payroll service provider Remote recently surpassed $300 million in annual recurring revenue (ARR) and became cash-flow positive, thanks to a 50% increase in revenue per employee resulting from AI adoption.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
     "author": "Unknown",
-    "publishedAt": "2026-05-26T10:00:00.000Z",
-    "url": "https://www.wired.com/story/ai-takes-over-debt-collection/",
+    "publishedAt": "2026-05-27T19:39:45.000Z",
+    "url": "https://techcrunch.com/2026/05/27/payroll-startup-remote-says-it-grew-revenue-50-per-employee-without-adding-headcount/",
+    "imageUrl": null,
+    "tags": [
+      "AI",
+      "Startup"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-05-28T02:03:01.045Z"
+  },
+  {
+    "id": "news-1779933781045-3",
+    "title": "Your SEO strategy is optimized for a search engine that no longer exists.",
+    "summary": "Google I/O made it official: AI-generated answers are now front and center in search, and most brands have almost no visibility into how AI is describing them to their customers. For anyone who has spent years building a strategy around 10 blue links, the rules just changed in a pretty significant way.  On this episode of TechCrunch’s Equity podcast, Rebecca […]",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-05-27T18:39:17.000Z",
+    "url": "https://techcrunch.com/podcast/your-seo-strategy-is-optimized-for-a-search-engine-that-no-longer-exists/",
     "imageUrl": null,
     "tags": [
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-05-27T02:29:28.428Z"
+    "fetchedAt": "2026-05-28T02:03:01.045Z"
+  },
+  {
+    "id": "news-1779933781045-4",
+    "title": "Meta launches Instagram, Facebook, and WhatsApp subscriptions, with more to come, including AI plans",
+    "summary": "Meta is rolling out paid subscription plans for Instagram, Facebook, and WhatsApp worldwide, while also testing new AI, creator, and business-focused offerings under its broader “Meta One” subscription brand.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-05-27T18:00:00.000Z",
+    "url": "https://techcrunch.com/2026/05/27/meta-officially-launches-instagram-facebook-and-whatsapp-subscriptions-with-more-to-come-including-ai-plans/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-05-28T02:03:01.045Z"
+  },
+  {
+    "id": "news-1779933781046-19",
+    "title": "NVIDIA Releases Polar, a Token-Faithful Rollout Framework for GRPO Training Across Codex, Claude Code, and Qwen Code",
+    "summary": "NVIDIA researchers have introduced Polar, a rollout framework that trains language agents using reinforcement learning without modifying their agent harnesses. Polar places a model API proxy between the harness and the inference server, capturing token-level interactions and reconstructing trainer-ready trajectories. Using GRPO on a Qwen3.5-4B base model, Polar improves SWE-Bench Verified pass@1 by 22.6 points under the Codex harness, 4.8 points under Claude Code, and 6.2 points under Pi. The fr",
+    "category": "ai-research",
+    "source": "MarkTechPost",
+    "author": "Unknown",
+    "publishedAt": "2026-05-27T17:09:38.000Z",
+    "url": "https://www.marktechpost.com/2026/05/27/nvidia-releases-polar-a-token-faithful-rollout-framework-for-grpo-training-across-codex-claude-code-and-qwen-code/",
+    "imageUrl": null,
+    "tags": [
+      "AI",
+      "Research"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-05-28T02:03:01.046Z"
+  },
+  {
+    "id": "news-1779933781047-31",
+    "title": "Julie Swidler, Sony Music’s EVP Business Affairs and General Counsel, to leave company after 18 years",
+    "summary": "Swidler has held the role of EVP, Business Affairs and General Counsel at Sony Music, since 2008\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-05-27T16:17:26.000Z",
+    "url": "https://www.musicbusinessworldwide.com/julie-swidler-to-leave-sony-music-after-18-years-as-evp-business-affairs-and-general-counsel/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-05-28T02:03:01.047Z"
+  },
+  {
+    "id": "news-1779933781047-32",
+    "title": "John McClain, co-executor of the Michael Jackson Estate and veteran music executive, dies at 71",
+    "summary": "Alongside attorney John Branca, McClain was named co-executor of the Michael Jackson Estate in the singer's will following Jackson's death in 2009.\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-05-27T16:03:17.000Z",
+    "url": "https://www.musicbusinessworldwide.com/john-mcclain-co-executor-of-the-michael-jackson-estate-and-veteran-music-executive-dies-at-71/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-05-28T02:03:01.047Z"
+  },
+  {
+    "id": "news-1779933781045-5",
+    "title": "AI coding startup Cognition raises $1B at $25B pre-money valuation",
+    "summary": "As Cognition reaches $492 million in annualized revenue run rate, it more than doubled its valuation in eight months, it says.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-05-27T16:00:00.000Z",
+    "url": "https://techcrunch.com/2026/05/27/ai-coding-startup-cognition-raises-1b-at-25b-pre-money-valuation/",
+    "imageUrl": null,
+    "tags": [
+      "AI",
+      "Startup"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-05-28T02:03:01.045Z"
+  },
+  {
+    "id": "news-1779933781047-33",
+    "title": "HarbourView Equity Partners acquires pre-2024 catalog from Stefflon Don",
+    "summary": "Deal covers both publishing and recorded music rights\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-05-27T14:26:09.000Z",
+    "url": "https://www.musicbusinessworldwide.com/harbourview-equity-partners-acquires-pre-2024-catalog-from-british-rapper-stefflon-don/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-05-28T02:03:01.047Z"
+  },
+  {
+    "id": "news-1779933781046-25",
+    "title": "Former Google and Apple Researchers Launch a Startup to Build AI’s Missing Feedback Loop",
+    "summary": "Trajectory is betting the rapid iteration cycle that supercharged vibe-coding can help all kinds of companies build AI products that learn continuously.",
+    "category": "tech-innovation",
+    "source": "Wired AI",
+    "author": "Unknown",
+    "publishedAt": "2026-05-27T14:00:00.000Z",
+    "url": "https://www.wired.com/story/ex-google-apple-ai-researchers-want-to-make-ai-that-gets-smarter-as-you-use-it/",
+    "imageUrl": null,
+    "tags": [
+      "AI",
+      "Startup",
+      "Research"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-05-28T02:03:01.046Z"
+  },
+  {
+    "id": "news-1779933781045-6",
+    "title": "China is increasingly keeping its best AI talent to itself",
+    "summary": "China's AI boom is producing world-class talent, and Beijing is increasingly reluctant to let them go elsewhere.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-05-27T13:48:41.000Z",
+    "url": "https://techcrunch.com/2026/05/27/china-is-increasingly-keeping-its-best-ai-talent-to-itself/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-05-28T02:03:01.045Z"
+  },
+  {
+    "id": "news-1779933781045-7",
+    "title": "YouTube will now automatically label AI videos",
+    "summary": "YouTube will now automatically label videos that use significant photorealistic AI, instead of relying solely on creators to disclose AI-generated content themselves. It's also making AI labels more prominent. ",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-05-27T13:00:00.000Z",
+    "url": "https://techcrunch.com/2026/05/27/youtube-will-now-automatically-label-ai-videos/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-05-28T02:03:01.045Z"
+  },
+  {
+    "id": "news-1779933781045-8",
+    "title": "Tech CEOs are apparently suffering from AI psychosis",
+    "summary": "\"CEOs are uniquely prone to AI psychosis,\" Box CEO Aaron Levie opines. Maybe that explains the almost religious belief in AI productivity gains.",
+    "category": "tech-innovation",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-05-27T12:30:00.000Z",
+    "url": "https://techcrunch.com/2026/05/27/tech-ceos-are-apparently-suffering-from-ai-psychosis/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-05-28T02:03:01.045Z"
   }
 ]
