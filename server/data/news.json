@@ -1,319 +1,321 @@
 [
   {
-    "id": "news-1779933781046-18",
-    "title": "Sakana AI Proposes DiffusionBlocks: a Block-wise Training Framework That Converts Residual Networks into Independently Trainable Denoising Modules",
-    "summary": "DiffusionBlocks converts residual networks into independently trainable blocks by interpreting layer updates as reverse diffusion denoising steps.\nThe post Sakana AI Proposes DiffusionBlocks: a Block-wise Training Framework That Converts Residual Networks into Independently Trainable Denoising Modules appeared first on MarkTechPost.\n",
-    "category": "ai-research",
-    "source": "MarkTechPost",
+    "id": "news-1780020487250-44",
+    "title": "Suspect in Taylor Swift Vienna Concert Attack Plot Convicted & Sentenced to 15 Years",
+    "summary": "The concert plot was thwarted, but Austrian authorities still canceled Swift’s three performances in August 2024.",
+    "category": "industry-news",
+    "source": "Billboard",
     "author": "Unknown",
-    "publishedAt": "2026-05-28T00:51:53.000Z",
-    "url": "https://www.marktechpost.com/2026/05/27/sakana-ai-proposes-diffusionblocks-a-block-wise-training-framework-that-converts-residual-networks-into-independently-trainable-denoising-modules/",
+    "publishedAt": "2026-05-29T01:59:26.000Z",
+    "url": "https://www.billboard.com/business/legal/taylor-swift-vienna-concert-suspect-convicted-sentenced-1236259758/",
     "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
+    "tags": [],
     "readTime": 1,
-    "fetchedAt": "2026-05-28T02:03:01.046Z"
+    "fetchedAt": "2026-05-29T02:08:07.250Z"
   },
   {
-    "id": "news-1779933781044-0",
-    "title": "Why Google’s AI can’t spell Google (or anything else)",
-    "summary": "Google is embarrassing itself, again.",
+    "id": "news-1780020487250-45",
+    "title": "Nothing Phone (4a) Pro Review: The $500 Phone Built for Music Content Creators",
+    "summary": "The stylish, mid-range smartphone is designed with creators in mind. Starting at $499, can it replace your $1,000 flagship?",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-05-29T00:55:32.000Z",
+    "url": "https://www.billboard.com/culture/product-recommendations/nothing-phone-4a-pro-review-buy-smartphone-online-1236217982/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-05-29T02:08:07.250Z"
+  },
+  {
+    "id": "news-1780020487247-0",
+    "title": "Glean’s top line crosses $300M as AI budget-cutting becomes its major selling point",
+    "summary": "The enterprise AI search startup tripled its annual revenue even as tech giants entered the category.",
     "category": "ai-research",
     "source": "TechCrunch AI",
     "author": "Unknown",
-    "publishedAt": "2026-05-28T00:17:41.000Z",
-    "url": "https://techcrunch.com/2026/05/27/why-googles-ai-cant-spell-google-or-anything-else/",
+    "publishedAt": "2026-05-29T00:44:37.000Z",
+    "url": "https://techcrunch.com/2026/05/28/gleans-top-line-crosses-300m-as-ai-budget-cutting-becomes-its-major-selling-point/",
+    "imageUrl": null,
+    "tags": [
+      "AI",
+      "Startup"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-05-29T02:08:07.247Z"
+  },
+  {
+    "id": "news-1780020487250-46",
+    "title": "Scooter Braun Says Dispute With Taylor Swift Turned Him Into a ‘Villain’ Overnight: ‘I Don’t Know Taylor Swift’",
+    "summary": "\"I think I’ve met her in my life three times,\" the music mogul says on the new episode of Second Thought With Suzy Weiss podcast.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-05-29T00:06:16.000Z",
+    "url": "https://www.billboard.com/music/music-news/scooter-braun-comments-on-taylor-swift-feud-podcast-villain-1236259723/",
     "imageUrl": null,
     "tags": [
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-05-28T02:03:01.045Z"
+    "fetchedAt": "2026-05-29T02:08:07.250Z"
   },
   {
-    "id": "news-1779933781046-24",
-    "title": "Illinois Lawmakers Just Passed America’s Strongest AI Safety Bill",
-    "summary": "The bill requires companies like OpenAI, Anthropic, and Google to have third parties confirm they’re following safety standards. Illinois governor JB Pritzker says he’ll sign it.",
+    "id": "news-1780020487249-21",
+    "title": "Liquid AI Releases LFM2.5-8B-A1B: An On-Device MoE Model With 8.3B Total and 1.5B Active Parameters",
+    "summary": "Liquid AI's LFM2.5-8B-A1B activates 1.5B of 8.3B parameters, offering 128K context, reasoning, and tool calling on consumer hardware.\nThe post Liquid AI Releases LFM2.5-8B-A1B: An On-Device MoE Model With 8.3B Total and 1.5B Active Parameters appeared first on MarkTechPost.\n",
     "category": "tech-innovation",
-    "source": "Wired AI",
+    "source": "MarkTechPost",
     "author": "Unknown",
-    "publishedAt": "2026-05-28T00:10:42.000Z",
-    "url": "https://www.wired.com/story/illinois-pass-major-ai-safety-law-pritzker/",
+    "publishedAt": "2026-05-28T23:29:49.000Z",
+    "url": "https://www.marktechpost.com/2026/05/28/liquid-ai-releases-lfm2-5-8b-a1b-an-on-device-moe-model-with-8-3b-total-and-1-5b-active-parameters/",
     "imageUrl": null,
     "tags": [
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-05-28T02:03:01.046Z"
+    "fetchedAt": "2026-05-29T02:08:07.249Z"
   },
   {
-    "id": "news-1779933781047-36",
-    "title": "Taylor Swift’s Lawyer to Judge: ‘Life of a Showgirl’ Branding Is Protected by First Amendment",
-    "summary": "Swift's longtime attorney appeared in Los Angeles court on Wednesday (May 27) to fight a lawsuit over the title of her record-smashing latest album.",
+    "id": "news-1780020487250-47",
+    "title": "BTS Get ARMY All Fya’d Up for ‘BUSAN: LIVE VIEWING’ in Theaters With Brand-New Trailer",
+    "summary": "The concert will be shown in theaters worldwide for one night only, on June 13.",
     "category": "industry-news",
     "source": "Billboard",
     "author": "Unknown",
-    "publishedAt": "2026-05-27T23:40:30.000Z",
-    "url": "https://www.billboard.com/pro/taylor-swift-life-of-a-showgirl-case-lawyer-fights-lawsuit/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-05-28T02:03:01.047Z"
-  },
-  {
-    "id": "news-1779933781047-37",
-    "title": "The Albums With the Most Top 10 Billboard Hot 100 Hits",
-    "summary": "Below, Billboard celebrates the roster of artists who cemented their pop dominance by landing five or more top 10 hits from a single album.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-05-27T22:00:05.000Z",
-    "url": "https://www.billboard.com/photos/albums-five-top-10-hot-100-hits-6738611/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-05-28T02:03:01.047Z"
-  },
-  {
-    "id": "news-1779933781047-38",
-    "title": "YG Announces ‘The Gentlemen’s Club’ Album: See When It Arrives",
-    "summary": "The West Coast rapper also revealed a new label partnership with 10K Projects. ",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-05-27T21:20:21.000Z",
-    "url": "https://www.billboard.com/music/rb-hip-hop/yg-the-gentlemens-club-album-announcement-1236258342/",
+    "publishedAt": "2026-05-28T23:10:00.000Z",
+    "url": "https://www.billboard.com/music/pop/bts-world-tour-arirang-busan-live-viewing-trailer-1236259710/",
     "imageUrl": null,
     "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-05-29T02:08:07.250Z"
+  },
+  {
+    "id": "news-1780020487249-22",
+    "title": "Anthropic Ships Claude Opus 4.8 Alongside Dynamic Workflows and Cheaper Fast Mode, With Workflows Capped at 1,000 Subagents",
+    "summary": "Anthropic's Claude Opus 4.8 brings dynamic workflows and cheaper fast mode to Claude Code, now in research preview\nThe post Anthropic Ships Claude Opus 4.8 Alongside Dynamic Workflows and Cheaper Fast Mode, With Workflows Capped at 1,000 Subagents appeared first on MarkTechPost.\n",
+    "category": "ai-research",
+    "source": "MarkTechPost",
+    "author": "Unknown",
+    "publishedAt": "2026-05-28T22:12:16.000Z",
+    "url": "https://www.marktechpost.com/2026/05/28/anthropic-ships-claude-opus-4-8-alongside-dynamic-workflows-and-cheaper-fast-mode-with-workflows-capped-at-1000-subagents/",
+    "imageUrl": null,
+    "tags": [
+      "Research"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-05-29T02:08:07.249Z"
+  },
+  {
+    "id": "news-1780020487250-48",
+    "title": "Girl, You Know It’s Not True: Milli Vanilli Say They Won’t Be Performing at Freedom 250 Concert",
+    "summary": "Young MC and Morris Day also dropped out of Donald Trump's Great American State Fair slated for Washington, D.C.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-05-28T22:08:13.000Z",
+    "url": "https://www.billboard.com/music/music-news/milli-vanilli-trump-freedom-250-concert-not-performing-1236259591/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-05-29T02:08:07.250Z"
+  },
+  {
+    "id": "news-1780020487250-49",
+    "title": "Manuel Carrasco Releases ‘Pueblo Salvaje I,’ A Prequel to His Previous Album: ‘Now I’m Showing the Roots’",
+    "summary": "The new set includes collaborations with Juanes and Kany García and arrives just before his highly anticipated residency in Seville, Spain.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-05-28T22:00:00.000Z",
+    "url": "https://www.billboard.com/music/latin/manuel-carrasco-pueblo-salvaje-i-interview-1236259590/",
+    "imageUrl": null,
+    "tags": [
+      "AI",
       "Partnership"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-05-28T02:03:01.047Z"
+    "fetchedAt": "2026-05-29T02:08:07.250Z"
   },
   {
-    "id": "news-1779933781047-39",
-    "title": "On Horseback From His Estate in Medellín, Maluma Talks Mental Health, Yeison Jiménez, Family & More: Watch",
-    "summary": "\"Life isn't just music,\" the Colombian star tells Billboard.",
+    "id": "news-1780020487247-1",
+    "title": "The internet is being rebuilt for machines",
+    "summary": "As AI agents move from experiments to production, AWS, Cloudflare, and others are redesigning cloud infrastructure for a future dominated by machine-generated internet traffic instead of human users.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-05-28T21:24:01.000Z",
+    "url": "https://techcrunch.com/2026/05/28/the-internet-is-being-rebuilt-for-machines/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-05-29T02:08:07.248Z"
+  },
+  {
+    "id": "news-1780020487248-2",
+    "title": "Asana acquires no-code agent-builder StackAI",
+    "summary": "Asana will incorporate StackAI into its growing suite of AI workflow tools.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-05-28T20:06:07.000Z",
+    "url": "https://techcrunch.com/2026/05/28/asana-acquires-no-code-agent-builder-stack-ai/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-05-29T02:08:07.248Z"
+  },
+  {
+    "id": "news-1780020487250-50",
+    "title": "Sienna Spiro’s ‘Die on This Hill’ Is April 2026’s Top TV Songs Chart No. 1",
+    "summary": "The breakthrough hit was featured in the season finale of Fox's Doc.",
     "category": "industry-news",
     "source": "Billboard",
     "author": "Unknown",
-    "publishedAt": "2026-05-27T21:18:11.000Z",
-    "url": "https://www.billboard.com/music/latin/maluma-interview-medellin-estate-horseback-video-1236258499/",
+    "publishedAt": "2026-05-28T19:39:38.000Z",
+    "url": "https://www.billboard.com/music/chart-beat/sienna-spiro-die-on-this-hill-april-2026-top-tv-songs-chart-1236259466/",
     "imageUrl": null,
     "tags": [],
     "readTime": 1,
-    "fetchedAt": "2026-05-28T02:03:01.047Z"
+    "fetchedAt": "2026-05-29T02:08:07.250Z"
   },
   {
-    "id": "news-1779933781045-1",
-    "title": "In more good news for Amazon, Snowflake signs $6B deal with AWS for AI CPU chips",
-    "summary": "Snowflake has signed a new, enormous five-year deal with Amazon to secure chips for AI usage. Nvidia is once again being put on notice.",
-    "category": "ai-research",
+    "id": "news-1780020487248-3",
+    "title": "Anthropic raises $65 billion, nears $1T valuation ahead of IPO",
+    "summary": "Anthropic has closed a $65 billion Series H round at a $965 billion post-money valuation, marking what could be the AI startup's final private fundraise before a highly anticipated IPO.",
+    "category": "industry-news",
     "source": "TechCrunch AI",
     "author": "Unknown",
-    "publishedAt": "2026-05-27T20:10:00.000Z",
-    "url": "https://techcrunch.com/2026/05/27/in-more-good-news-for-amazon-snowflake-signs-6b-deal-with-aws-for-ai-cpu-chips/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-05-28T02:03:01.045Z"
-  },
-  {
-    "id": "news-1779933781045-2",
-    "title": "Payroll startup Remote says it grew revenue 50% per employee without adding headcount",
-    "summary": "Payroll service provider Remote recently surpassed $300 million in annual recurring revenue (ARR) and became cash-flow positive, thanks to a 50% increase in revenue per employee resulting from AI adoption.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-05-27T19:39:45.000Z",
-    "url": "https://techcrunch.com/2026/05/27/payroll-startup-remote-says-it-grew-revenue-50-per-employee-without-adding-headcount/",
+    "publishedAt": "2026-05-28T18:52:51.000Z",
+    "url": "https://techcrunch.com/2026/05/28/anthropic-raises-65-billion-nears-1t-valuation-ahead-of-ipo/",
     "imageUrl": null,
     "tags": [
       "AI",
       "Startup"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-05-28T02:03:01.045Z"
+    "fetchedAt": "2026-05-29T02:08:07.248Z"
   },
   {
-    "id": "news-1779933781045-3",
-    "title": "Your SEO strategy is optimized for a search engine that no longer exists.",
-    "summary": "Google I/O made it official: AI-generated answers are now front and center in search, and most brands have almost no visibility into how AI is describing them to their customers. For anyone who has spent years building a strategy around 10 blue links, the rules just changed in a pretty significant way.  On this episode of TechCrunch’s Equity podcast, Rebecca […]",
+    "id": "news-1780020487248-4",
+    "title": "Just like gold and oil, we’ll soon be able to trade AI token futures",
+    "summary": "Large exchanges are designing derivative products around AI tokens, which are increasingly being considered less a computational output and more a raw material input, like electricity or bandwidth. ",
     "category": "ai-research",
     "source": "TechCrunch AI",
     "author": "Unknown",
-    "publishedAt": "2026-05-27T18:39:17.000Z",
-    "url": "https://techcrunch.com/podcast/your-seo-strategy-is-optimized-for-a-search-engine-that-no-longer-exists/",
+    "publishedAt": "2026-05-28T18:32:25.000Z",
+    "url": "https://techcrunch.com/2026/05/28/just-like-gold-and-oil-well-soon-be-able-to-trade-ai-token-futures/",
     "imageUrl": null,
     "tags": [
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-05-28T02:03:01.045Z"
+    "fetchedAt": "2026-05-29T02:08:07.248Z"
   },
   {
-    "id": "news-1779933781045-4",
-    "title": "Meta launches Instagram, Facebook, and WhatsApp subscriptions, with more to come, including AI plans",
-    "summary": "Meta is rolling out paid subscription plans for Instagram, Facebook, and WhatsApp worldwide, while also testing new AI, creator, and business-focused offerings under its broader “Meta One” subscription brand.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-05-27T18:00:00.000Z",
-    "url": "https://techcrunch.com/2026/05/27/meta-officially-launches-instagram-facebook-and-whatsapp-subscriptions-with-more-to-come-including-ai-plans/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-05-28T02:03:01.045Z"
-  },
-  {
-    "id": "news-1779933781046-19",
-    "title": "NVIDIA Releases Polar, a Token-Faithful Rollout Framework for GRPO Training Across Codex, Claude Code, and Qwen Code",
-    "summary": "NVIDIA researchers have introduced Polar, a rollout framework that trains language agents using reinforcement learning without modifying their agent harnesses. Polar places a model API proxy between the harness and the inference server, capturing token-level interactions and reconstructing trainer-ready trajectories. Using GRPO on a Qwen3.5-4B base model, Polar improves SWE-Bench Verified pass@1 by 22.6 points under the Codex harness, 4.8 points under Claude Code, and 6.2 points under Pi. The fr",
-    "category": "ai-research",
-    "source": "MarkTechPost",
-    "author": "Unknown",
-    "publishedAt": "2026-05-27T17:09:38.000Z",
-    "url": "https://www.marktechpost.com/2026/05/27/nvidia-releases-polar-a-token-faithful-rollout-framework-for-grpo-training-across-codex-claude-code-and-qwen-code/",
-    "imageUrl": null,
-    "tags": [
-      "AI",
-      "Research"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-05-28T02:03:01.046Z"
-  },
-  {
-    "id": "news-1779933781047-31",
-    "title": "Julie Swidler, Sony Music’s EVP Business Affairs and General Counsel, to leave company after 18 years",
-    "summary": "Swidler has held the role of EVP, Business Affairs and General Counsel at Sony Music, since 2008\nSource",
+    "id": "news-1780020487250-37",
+    "title": "Sir Lucian Grainge on AI, Spotify, and why he’s not in the ‘functional music’ industry",
+    "summary": "Three things you might have missed from Grainge's fireside chat at the GREATER Together LA summit last week\nSource",
     "category": "industry-news",
     "source": "Music Business Worldwide",
     "author": "Unknown",
-    "publishedAt": "2026-05-27T16:17:26.000Z",
-    "url": "https://www.musicbusinessworldwide.com/julie-swidler-to-leave-sony-music-after-18-years-as-evp-business-affairs-and-general-counsel/",
+    "publishedAt": "2026-05-28T16:36:20.000Z",
+    "url": "https://www.musicbusinessworldwide.com/sir-lucian-grainge-on-ai-spotify-and-why-hes-not-in-the-functional-music-industry/",
     "imageUrl": null,
     "tags": [
+      "Spotify",
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-05-28T02:03:01.047Z"
+    "fetchedAt": "2026-05-29T02:08:07.250Z"
   },
   {
-    "id": "news-1779933781047-32",
-    "title": "John McClain, co-executor of the Michael Jackson Estate and veteran music executive, dies at 71",
-    "summary": "Alongside attorney John Branca, McClain was named co-executor of the Michael Jackson Estate in the singer's will following Jackson's death in 2009.\nSource",
+    "id": "news-1780020487248-5",
+    "title": "Sesame, the conversational AI startup from Oculus founders, launches its iOS app",
+    "summary": "Sesame’s new iOS app brings its conversational AI agents to the public, offering more natural back-and-forth interactions designed to feel less like traditional chatbots and more like talking to a person.",
     "category": "industry-news",
-    "source": "Music Business Worldwide",
-    "author": "Unknown",
-    "publishedAt": "2026-05-27T16:03:17.000Z",
-    "url": "https://www.musicbusinessworldwide.com/john-mcclain-co-executor-of-the-michael-jackson-estate-and-veteran-music-executive-dies-at-71/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-05-28T02:03:01.047Z"
-  },
-  {
-    "id": "news-1779933781045-5",
-    "title": "AI coding startup Cognition raises $1B at $25B pre-money valuation",
-    "summary": "As Cognition reaches $492 million in annualized revenue run rate, it more than doubled its valuation in eight months, it says.",
-    "category": "ai-research",
     "source": "TechCrunch AI",
     "author": "Unknown",
-    "publishedAt": "2026-05-27T16:00:00.000Z",
-    "url": "https://techcrunch.com/2026/05/27/ai-coding-startup-cognition-raises-1b-at-25b-pre-money-valuation/",
+    "publishedAt": "2026-05-28T15:35:43.000Z",
+    "url": "https://techcrunch.com/2026/05/28/sesame-the-conversational-ai-startup-from-oculus-founders-launches-its-ios-app/",
     "imageUrl": null,
     "tags": [
       "AI",
       "Startup"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-05-28T02:03:01.045Z"
+    "fetchedAt": "2026-05-29T02:08:07.248Z"
   },
   {
-    "id": "news-1779933781047-33",
-    "title": "HarbourView Equity Partners acquires pre-2024 catalog from Stefflon Don",
-    "summary": "Deal covers both publishing and recorded music rights\nSource",
-    "category": "industry-news",
-    "source": "Music Business Worldwide",
-    "author": "Unknown",
-    "publishedAt": "2026-05-27T14:26:09.000Z",
-    "url": "https://www.musicbusinessworldwide.com/harbourview-equity-partners-acquires-pre-2024-catalog-from-british-rapper-stefflon-don/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-05-28T02:03:01.047Z"
-  },
-  {
-    "id": "news-1779933781046-25",
-    "title": "Former Google and Apple Researchers Launch a Startup to Build AI’s Missing Feedback Loop",
-    "summary": "Trajectory is betting the rapid iteration cycle that supercharged vibe-coding can help all kinds of companies build AI products that learn continuously.",
+    "id": "news-1780020487249-30",
+    "title": "Here Comes Ojai, Waymo’s New Chinese-Made Robotaxi",
+    "summary": "The pale-blue Ojai vehicles will start picking up members of the public in California and Arizona in the next few weeks.",
     "category": "tech-innovation",
     "source": "Wired AI",
     "author": "Unknown",
-    "publishedAt": "2026-05-27T14:00:00.000Z",
-    "url": "https://www.wired.com/story/ex-google-apple-ai-researchers-want-to-make-ai-that-gets-smarter-as-you-use-it/",
+    "publishedAt": "2026-05-28T15:00:00.000Z",
+    "url": "https://www.wired.com/story/here-comes-ojai-waymos-new-chinese-made-robotaxi/",
     "imageUrl": null,
     "tags": [
-      "AI",
-      "Startup",
-      "Research"
+      "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-05-28T02:03:01.046Z"
+    "fetchedAt": "2026-05-29T02:08:07.249Z"
   },
   {
-    "id": "news-1779933781045-6",
-    "title": "China is increasingly keeping its best AI talent to itself",
-    "summary": "China's AI boom is producing world-class talent, and Beijing is increasingly reluctant to let them go elsewhere.",
+    "id": "news-1780020487248-6",
+    "title": "Sneak peek at new Siri app reveals Apple’s plans to take on ChatGPT and more",
+    "summary": "New renders offer a closer look at Apple’s planned AI overhaul for iOS 27, including a redesigned Siri experience and standalone Siri app.",
     "category": "ai-research",
     "source": "TechCrunch AI",
     "author": "Unknown",
-    "publishedAt": "2026-05-27T13:48:41.000Z",
-    "url": "https://techcrunch.com/2026/05/27/china-is-increasingly-keeping-its-best-ai-talent-to-itself/",
+    "publishedAt": "2026-05-28T14:45:13.000Z",
+    "url": "https://techcrunch.com/2026/05/28/sneak-peek-at-new-siri-app-reveals-apples-plans-to-take-on-chatgpt-and-more/",
     "imageUrl": null,
     "tags": [
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-05-28T02:03:01.045Z"
+    "fetchedAt": "2026-05-29T02:08:07.248Z"
   },
   {
-    "id": "news-1779933781045-7",
-    "title": "YouTube will now automatically label AI videos",
-    "summary": "YouTube will now automatically label videos that use significant photorealistic AI, instead of relying solely on creators to disclose AI-generated content themselves. It's also making AI labels more prominent. ",
+    "id": "news-1780020487248-7",
+    "title": "RSI is the new AGI — and it’s just as hard to pin down",
+    "summary": "A new crop of AI labs are focused on recursive self-improvement — but the goal is proving elusive.",
     "category": "ai-research",
     "source": "TechCrunch AI",
     "author": "Unknown",
-    "publishedAt": "2026-05-27T13:00:00.000Z",
-    "url": "https://techcrunch.com/2026/05/27/youtube-will-now-automatically-label-ai-videos/",
+    "publishedAt": "2026-05-28T14:30:17.000Z",
+    "url": "https://techcrunch.com/2026/05/28/rsi-is-the-new-agi-and-its-just-as-hard-to-pin-down/",
     "imageUrl": null,
     "tags": [
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-05-28T02:03:01.045Z"
+    "fetchedAt": "2026-05-29T02:08:07.248Z"
   },
   {
-    "id": "news-1779933781045-8",
-    "title": "Tech CEOs are apparently suffering from AI psychosis",
-    "summary": "\"CEOs are uniquely prone to AI psychosis,\" Box CEO Aaron Levie opines. Maybe that explains the almost religious belief in AI productivity gains.",
-    "category": "tech-innovation",
+    "id": "news-1780020487248-8",
+    "title": "At TechCrunch Disrupt 2026: Databricks’ co-founder on what kills enterprise AI deals",
+    "summary": "Enterprise AI is entering a different phase now, one where enterprises are no longer evaluating whether AI is exciting. They are evaluating whether it is safe to deploy broadly.",
+    "category": "industry-news",
     "source": "TechCrunch AI",
     "author": "Unknown",
-    "publishedAt": "2026-05-27T12:30:00.000Z",
-    "url": "https://techcrunch.com/2026/05/27/tech-ceos-are-apparently-suffering-from-ai-psychosis/",
+    "publishedAt": "2026-05-28T14:30:00.000Z",
+    "url": "https://techcrunch.com/2026/05/28/techcrunch-disrupt-2026-databricks-co-founder-on-what-kills-enterprise-ai-deals/",
     "imageUrl": null,
     "tags": [
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-05-28T02:03:01.045Z"
+    "fetchedAt": "2026-05-29T02:08:07.248Z"
   }
 ]
