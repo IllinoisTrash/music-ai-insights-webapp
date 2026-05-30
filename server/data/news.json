@@ -1,35 +1,285 @@
 [
   {
-    "id": "news-1780020487250-44",
-    "title": "Suspect in Taylor Swift Vienna Concert Attack Plot Convicted & Sentenced to 15 Years",
-    "summary": "The concert plot was thwarted, but Austrian authorities still canceled Swift’s three performances in August 2024.",
+    "id": "news-1780106603228-35",
+    "title": "Shaboozey Teases That ‘Summer House’ Star Ciara Miller Is in His ‘Cowgirl’ Music Video: ‘Behind Every Outlaw Is a Cowgirl Twice as Dangerous’",
+    "summary": "He shared a short preview on social media, offering a glimpse of the video's Western-inspired aesthetic.",
     "category": "industry-news",
     "source": "Billboard",
     "author": "Unknown",
-    "publishedAt": "2026-05-29T01:59:26.000Z",
-    "url": "https://www.billboard.com/business/legal/taylor-swift-vienna-concert-suspect-convicted-sentenced-1236259758/",
+    "publishedAt": "2026-05-30T00:59:57.000Z",
+    "url": "https://www.billboard.com/music/country/shaboozey-cowgirl-video-summer-house-ciara-miller-teaser-1236260689/",
     "imageUrl": null,
     "tags": [],
     "readTime": 1,
-    "fetchedAt": "2026-05-29T02:08:07.250Z"
+    "fetchedAt": "2026-05-30T02:03:23.228Z"
   },
   {
-    "id": "news-1780020487250-45",
-    "title": "Nothing Phone (4a) Pro Review: The $500 Phone Built for Music Content Creators",
-    "summary": "The stylish, mid-range smartphone is designed with creators in mind. Starting at $499, can it replace your $1,000 flagship?",
+    "id": "news-1780106603228-36",
+    "title": "Lightning in a Bottle 2026: Best Photos From the Fest Featuring Tinashe, Empire of the Sun, Zeds Dead & More",
+    "summary": "SoCal's beloved Lightning in a Bottle festival returned this past weekend (May 21-24) with a major lineup. See exclusive photos from the fest.",
     "category": "industry-news",
     "source": "Billboard",
     "author": "Unknown",
-    "publishedAt": "2026-05-29T00:55:32.000Z",
-    "url": "https://www.billboard.com/culture/product-recommendations/nothing-phone-4a-pro-review-buy-smartphone-online-1236217982/",
+    "publishedAt": "2026-05-29T23:59:16.000Z",
+    "url": "https://www.billboard.com/photos/lightning-in-a-bottle-2026-best-photos-from-the-fest-featuring-tinashe-empire-of-the-sun-zeds-dead-more-1236260320/",
     "imageUrl": null,
     "tags": [],
     "readTime": 1,
-    "fetchedAt": "2026-05-29T02:08:07.250Z"
+    "fetchedAt": "2026-05-30T02:03:23.228Z"
   },
   {
-    "id": "news-1780020487247-0",
-    "title": "Glean’s top line crosses $300M as AI budget-cutting becomes its major selling point",
+    "id": "news-1780106603228-37",
+    "title": "In Canada: Drake Breaks Records for Most No. 1s Ever on the Billboard Canadian Hot 100 & Album Charts",
+    "summary": "Also up north this week: an update on the music \"streaming tax\" is \"forthcoming\" and the National Music Centre names a new board chair.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-05-29T23:54:46.000Z",
+    "url": "https://www.billboard.com/pro/drake-breaks-records-billboard-canadian-charts-canada-news/",
+    "imageUrl": null,
+    "tags": [
+      "AI",
+      "Streaming"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-05-30T02:03:23.228Z"
+  },
+  {
+    "id": "news-1780106603228-38",
+    "title": "Every Song That Topped the U.K. Chart for 8 or More Weeks, But Didn’t Make the Top 10 on the Hot 100",
+    "summary": "\"Rein Me In” by Sam Fender and Olivia Dean is now one of just two singles to log 13 or more weeks at No. 1 in the U.K. without making the top 10 on the Hot 100. ",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-05-29T23:30:00.000Z",
+    "url": "https://www.billboard.com/lists/songs-that-were-big-uk-hits-but-not-in-the-u-s/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-05-30T02:03:23.228Z"
+  },
+  {
+    "id": "news-1780106603228-39",
+    "title": "Billboard’s Music Industry Events Calendar",
+    "summary": "A complete rundown of the most important events across the music business.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-05-29T22:17:00.000Z",
+    "url": "https://www.billboard.com/pro/music-industry-events-calendar-festivals-awards-conferences/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-05-30T02:03:23.228Z"
+  },
+  {
+    "id": "news-1780106603225-0",
+    "title": "Coders are refusing to work without AI — and that could come back to bite them",
+    "summary": "While AI is helping coders produce code faster, it may not be producing better code, researchers warn. And that could cause problems down the road for them. ",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-05-29T22:14:22.000Z",
+    "url": "https://techcrunch.com/2026/05/29/coders-are-refusing-to-work-without-ai-and-that-could-come-back-to-bite-them/",
+    "imageUrl": null,
+    "tags": [
+      "AI",
+      "Research"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-05-30T02:03:23.226Z"
+  },
+  {
+    "id": "news-1780106603228-40",
+    "title": "From Ariana Grande to Labrinth, aespa & More, Which New Music Release Is Your Favorite This Week? Vote!",
+    "summary": "Latto, Violet Grohl and Los Enanitos Verdes dropped albums as well.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-05-29T22:12:49.000Z",
+    "url": "https://www.billboard.com/music/music-news/ariana-grande-aespa-best-new-music-week-poll-vote-1236260585/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-05-30T02:03:23.228Z"
+  },
+  {
+    "id": "news-1780106603228-41",
+    "title": "Michael Jackson Songs Swarm Top Movie Songs Chart After ‘Michael’ Premiere",
+    "summary": "Four songs from Michael reach the April 2026 ranking, led by “Billie Jean.”",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-05-29T22:10:15.000Z",
+    "url": "https://www.billboard.com/music/chart-beat/michael-jackson-top-movie-songs-chart-michael-premiere-1236260597/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-05-30T02:03:23.228Z"
+  },
+  {
+    "id": "news-1780106603228-42",
+    "title": "Garth Brooks, Disney Music Group Head & AI Policymakers Slated to Receive 2026 RIAA Honors",
+    "summary": "Brooks will receive the organization's artist of a lifetime award for his unparalleled success, with 10 RIAA diamond-certified albums.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-05-29T22:06:17.000Z",
+    "url": "https://www.billboard.com/pro/garth-brooks-disney-music-head-2026-riaa-honors/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-05-30T02:03:23.228Z"
+  },
+  {
+    "id": "news-1780106603227-23",
+    "title": "Hands-On With Gemini Spark: I Gave It Access to My Life and It Friend-Zoned My Boyfriend",
+    "summary": "Google’s new AI agent combed through my emails, documents, and calendar to plan a birthday party and still didn’t clock the person most important to me.",
+    "category": "tech-innovation",
+    "source": "Wired AI",
+    "author": "Unknown",
+    "publishedAt": "2026-05-29T19:07:46.000Z",
+    "url": "https://www.wired.com/story/google-gemini-spark-ai-agent-hands-on/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-05-30T02:03:23.227Z"
+  },
+  {
+    "id": "news-1780106603226-1",
+    "title": "So you’ve heard these AI terms and nodded along; let’s fix that",
+    "summary": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-05-29T18:49:19.000Z",
+    "url": "https://techcrunch.com/2026/05/29/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-05-30T02:03:23.226Z"
+  },
+  {
+    "id": "news-1780106603226-2",
+    "title": "What happens when companies become too AI-pilled?",
+    "summary": "The people deciding that AI can replace your job are also the ones least likely to understand what your job truly involves, according to Box founder Aaron Levie, who pointed to this as an example of “AI psychosis.” Indeed, ClickUp recently cut 22% of its workforce for AI agents, tech layoffs in 2026 are already nearly matching all of 2025, […]",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-05-29T17:57:05.000Z",
+    "url": "https://techcrunch.com/video/what-happens-when-companies-become-too-ai-pilled/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-05-30T02:03:23.226Z"
+  },
+  {
+    "id": "news-1780106603228-29",
+    "title": "Official: UMG rejects Bill Ackman’s $64B takeover bid",
+    "summary": "Universal Music Group has rejected Bill Ackman's takeover offer.\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-05-29T17:56:34.000Z",
+    "url": "https://www.musicbusinessworldwide.com/umg-rejects-bill-ackmans-64b-takeover-bid/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-05-30T02:03:23.228Z"
+  },
+  {
+    "id": "news-1780106603226-3",
+    "title": "After Nvidia’s $20B not-acqui-hire, AI chip startup Groq reportedly raising $650M",
+    "summary": "Chipmaker Groq is looking to raise $650 million in internal funding as it pivots from hardware to focus more on AI inference, the process of refining the way AI models respond to prompted requests, per Axios. ",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-05-29T17:27:13.000Z",
+    "url": "https://techcrunch.com/2026/05/29/after-nvidias-20b-not-acqui-hire-ai-chip-startup-groq-reportedly-raising-650m/",
+    "imageUrl": null,
+    "tags": [
+      "AI",
+      "Startup",
+      "Investment"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-05-30T02:03:23.226Z"
+  },
+  {
+    "id": "news-1780106603227-24",
+    "title": "We Asked the ‘Future of Truth’ Author to Explain How He Used AI. It Didn’t Go Well",
+    "summary": "A book about how AI shapes perceptions of reality came under fire for using AI-generated quotes. Its problems go beyond that.",
+    "category": "tech-innovation",
+    "source": "Wired AI",
+    "author": "Unknown",
+    "publishedAt": "2026-05-29T16:30:00.000Z",
+    "url": "https://www.wired.com/story/future-of-truth-ai-interview/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-05-30T02:03:23.227Z"
+  },
+  {
+    "id": "news-1780106603226-4",
+    "title": "Cognition’s Scott Wu says AI coding agents shouldn’t replace humans",
+    "summary": "Cognition makes Devin, the first and arguably most successful AI coding agent. But famed coder Wu says it isn't designed to supplant human programmers.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-05-29T16:13:47.000Z",
+    "url": "https://techcrunch.com/2026/05/29/cognitions-scott-wu-says-ai-coding-agents-shouldnt-replace-humans/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-05-30T02:03:23.226Z"
+  },
+  {
+    "id": "news-1780106603228-30",
+    "title": "Downtown Music Publishing strikes deal to represent Biz Markie catalog and name, image & likeness rights",
+    "summary": "Deal covers publishing administration and sync licensing, alongside representation of the late artist's NIL rights.\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-05-29T14:33:58.000Z",
+    "url": "https://www.musicbusinessworldwide.com/downtown-music-publishing-strikes-deal-to-represent-biz-markie-catalog-and-name-image-likeness-rights/",
+    "imageUrl": null,
+    "tags": [
+      "Copyright"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-05-30T02:03:23.228Z"
+  },
+  {
+    "id": "news-1780106603226-5",
+    "title": "Does your CEO have AI psychosis? Aaron Levie thinks most of them do.",
+    "summary": "The people deciding that AI can replace your job are also the ones least likely to understand what your job truly involves, according to Box founder Aaron Levie, who pointed to this as an example of “AI psychosis.” Indeed, ClickUp recently cut 22% of its workforce for AI agents, tech layoffs in 2026 are already nearly matching all of 2025, […]",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-05-29T14:00:00.000Z",
+    "url": "https://techcrunch.com/podcast/does-your-ceo-have-ai-psychosis-aaron-levie-thinks-most-of-them-do/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-05-30T02:03:23.226Z"
+  },
+  {
+    "id": "news-1780106603226-6",
+    "title": "Glean’s top line crosses $300M as AI budget cutting becomes its major selling point",
     "summary": "The enterprise AI search startup tripled its annual revenue even as tech giants entered the category.",
     "category": "ai-research",
     "source": "TechCrunch AI",
@@ -42,26 +292,10 @@
       "Startup"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-05-29T02:08:07.247Z"
+    "fetchedAt": "2026-05-30T02:03:23.226Z"
   },
   {
-    "id": "news-1780020487250-46",
-    "title": "Scooter Braun Says Dispute With Taylor Swift Turned Him Into a ‘Villain’ Overnight: ‘I Don’t Know Taylor Swift’",
-    "summary": "\"I think I’ve met her in my life three times,\" the music mogul says on the new episode of Second Thought With Suzy Weiss podcast.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-05-29T00:06:16.000Z",
-    "url": "https://www.billboard.com/music/music-news/scooter-braun-comments-on-taylor-swift-feud-podcast-villain-1236259723/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-05-29T02:08:07.250Z"
-  },
-  {
-    "id": "news-1780020487249-21",
+    "id": "news-1780106603227-19",
     "title": "Liquid AI Releases LFM2.5-8B-A1B: An On-Device MoE Model With 8.3B Total and 1.5B Active Parameters",
     "summary": "Liquid AI's LFM2.5-8B-A1B activates 1.5B of 8.3B parameters, offering 128K context, reasoning, and tool calling on consumer hardware.\nThe post Liquid AI Releases LFM2.5-8B-A1B: An On-Device MoE Model With 8.3B Total and 1.5B Active Parameters appeared first on MarkTechPost.\n",
     "category": "tech-innovation",
@@ -74,248 +308,6 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-05-29T02:08:07.249Z"
-  },
-  {
-    "id": "news-1780020487250-47",
-    "title": "BTS Get ARMY All Fya’d Up for ‘BUSAN: LIVE VIEWING’ in Theaters With Brand-New Trailer",
-    "summary": "The concert will be shown in theaters worldwide for one night only, on June 13.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-05-28T23:10:00.000Z",
-    "url": "https://www.billboard.com/music/pop/bts-world-tour-arirang-busan-live-viewing-trailer-1236259710/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-05-29T02:08:07.250Z"
-  },
-  {
-    "id": "news-1780020487249-22",
-    "title": "Anthropic Ships Claude Opus 4.8 Alongside Dynamic Workflows and Cheaper Fast Mode, With Workflows Capped at 1,000 Subagents",
-    "summary": "Anthropic's Claude Opus 4.8 brings dynamic workflows and cheaper fast mode to Claude Code, now in research preview\nThe post Anthropic Ships Claude Opus 4.8 Alongside Dynamic Workflows and Cheaper Fast Mode, With Workflows Capped at 1,000 Subagents appeared first on MarkTechPost.\n",
-    "category": "ai-research",
-    "source": "MarkTechPost",
-    "author": "Unknown",
-    "publishedAt": "2026-05-28T22:12:16.000Z",
-    "url": "https://www.marktechpost.com/2026/05/28/anthropic-ships-claude-opus-4-8-alongside-dynamic-workflows-and-cheaper-fast-mode-with-workflows-capped-at-1000-subagents/",
-    "imageUrl": null,
-    "tags": [
-      "Research"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-05-29T02:08:07.249Z"
-  },
-  {
-    "id": "news-1780020487250-48",
-    "title": "Girl, You Know It’s Not True: Milli Vanilli Say They Won’t Be Performing at Freedom 250 Concert",
-    "summary": "Young MC and Morris Day also dropped out of Donald Trump's Great American State Fair slated for Washington, D.C.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-05-28T22:08:13.000Z",
-    "url": "https://www.billboard.com/music/music-news/milli-vanilli-trump-freedom-250-concert-not-performing-1236259591/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-05-29T02:08:07.250Z"
-  },
-  {
-    "id": "news-1780020487250-49",
-    "title": "Manuel Carrasco Releases ‘Pueblo Salvaje I,’ A Prequel to His Previous Album: ‘Now I’m Showing the Roots’",
-    "summary": "The new set includes collaborations with Juanes and Kany García and arrives just before his highly anticipated residency in Seville, Spain.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-05-28T22:00:00.000Z",
-    "url": "https://www.billboard.com/music/latin/manuel-carrasco-pueblo-salvaje-i-interview-1236259590/",
-    "imageUrl": null,
-    "tags": [
-      "AI",
-      "Partnership"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-05-29T02:08:07.250Z"
-  },
-  {
-    "id": "news-1780020487247-1",
-    "title": "The internet is being rebuilt for machines",
-    "summary": "As AI agents move from experiments to production, AWS, Cloudflare, and others are redesigning cloud infrastructure for a future dominated by machine-generated internet traffic instead of human users.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-05-28T21:24:01.000Z",
-    "url": "https://techcrunch.com/2026/05/28/the-internet-is-being-rebuilt-for-machines/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-05-29T02:08:07.248Z"
-  },
-  {
-    "id": "news-1780020487248-2",
-    "title": "Asana acquires no-code agent-builder StackAI",
-    "summary": "Asana will incorporate StackAI into its growing suite of AI workflow tools.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-05-28T20:06:07.000Z",
-    "url": "https://techcrunch.com/2026/05/28/asana-acquires-no-code-agent-builder-stack-ai/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-05-29T02:08:07.248Z"
-  },
-  {
-    "id": "news-1780020487250-50",
-    "title": "Sienna Spiro’s ‘Die on This Hill’ Is April 2026’s Top TV Songs Chart No. 1",
-    "summary": "The breakthrough hit was featured in the season finale of Fox's Doc.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-05-28T19:39:38.000Z",
-    "url": "https://www.billboard.com/music/chart-beat/sienna-spiro-die-on-this-hill-april-2026-top-tv-songs-chart-1236259466/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-05-29T02:08:07.250Z"
-  },
-  {
-    "id": "news-1780020487248-3",
-    "title": "Anthropic raises $65 billion, nears $1T valuation ahead of IPO",
-    "summary": "Anthropic has closed a $65 billion Series H round at a $965 billion post-money valuation, marking what could be the AI startup's final private fundraise before a highly anticipated IPO.",
-    "category": "industry-news",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-05-28T18:52:51.000Z",
-    "url": "https://techcrunch.com/2026/05/28/anthropic-raises-65-billion-nears-1t-valuation-ahead-of-ipo/",
-    "imageUrl": null,
-    "tags": [
-      "AI",
-      "Startup"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-05-29T02:08:07.248Z"
-  },
-  {
-    "id": "news-1780020487248-4",
-    "title": "Just like gold and oil, we’ll soon be able to trade AI token futures",
-    "summary": "Large exchanges are designing derivative products around AI tokens, which are increasingly being considered less a computational output and more a raw material input, like electricity or bandwidth. ",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-05-28T18:32:25.000Z",
-    "url": "https://techcrunch.com/2026/05/28/just-like-gold-and-oil-well-soon-be-able-to-trade-ai-token-futures/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-05-29T02:08:07.248Z"
-  },
-  {
-    "id": "news-1780020487250-37",
-    "title": "Sir Lucian Grainge on AI, Spotify, and why he’s not in the ‘functional music’ industry",
-    "summary": "Three things you might have missed from Grainge's fireside chat at the GREATER Together LA summit last week\nSource",
-    "category": "industry-news",
-    "source": "Music Business Worldwide",
-    "author": "Unknown",
-    "publishedAt": "2026-05-28T16:36:20.000Z",
-    "url": "https://www.musicbusinessworldwide.com/sir-lucian-grainge-on-ai-spotify-and-why-hes-not-in-the-functional-music-industry/",
-    "imageUrl": null,
-    "tags": [
-      "Spotify",
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-05-29T02:08:07.250Z"
-  },
-  {
-    "id": "news-1780020487248-5",
-    "title": "Sesame, the conversational AI startup from Oculus founders, launches its iOS app",
-    "summary": "Sesame’s new iOS app brings its conversational AI agents to the public, offering more natural back-and-forth interactions designed to feel less like traditional chatbots and more like talking to a person.",
-    "category": "industry-news",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-05-28T15:35:43.000Z",
-    "url": "https://techcrunch.com/2026/05/28/sesame-the-conversational-ai-startup-from-oculus-founders-launches-its-ios-app/",
-    "imageUrl": null,
-    "tags": [
-      "AI",
-      "Startup"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-05-29T02:08:07.248Z"
-  },
-  {
-    "id": "news-1780020487249-30",
-    "title": "Here Comes Ojai, Waymo’s New Chinese-Made Robotaxi",
-    "summary": "The pale-blue Ojai vehicles will start picking up members of the public in California and Arizona in the next few weeks.",
-    "category": "tech-innovation",
-    "source": "Wired AI",
-    "author": "Unknown",
-    "publishedAt": "2026-05-28T15:00:00.000Z",
-    "url": "https://www.wired.com/story/here-comes-ojai-waymos-new-chinese-made-robotaxi/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-05-29T02:08:07.249Z"
-  },
-  {
-    "id": "news-1780020487248-6",
-    "title": "Sneak peek at new Siri app reveals Apple’s plans to take on ChatGPT and more",
-    "summary": "New renders offer a closer look at Apple’s planned AI overhaul for iOS 27, including a redesigned Siri experience and standalone Siri app.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-05-28T14:45:13.000Z",
-    "url": "https://techcrunch.com/2026/05/28/sneak-peek-at-new-siri-app-reveals-apples-plans-to-take-on-chatgpt-and-more/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-05-29T02:08:07.248Z"
-  },
-  {
-    "id": "news-1780020487248-7",
-    "title": "RSI is the new AGI — and it’s just as hard to pin down",
-    "summary": "A new crop of AI labs are focused on recursive self-improvement — but the goal is proving elusive.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-05-28T14:30:17.000Z",
-    "url": "https://techcrunch.com/2026/05/28/rsi-is-the-new-agi-and-its-just-as-hard-to-pin-down/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-05-29T02:08:07.248Z"
-  },
-  {
-    "id": "news-1780020487248-8",
-    "title": "At TechCrunch Disrupt 2026: Databricks’ co-founder on what kills enterprise AI deals",
-    "summary": "Enterprise AI is entering a different phase now, one where enterprises are no longer evaluating whether AI is exciting. They are evaluating whether it is safe to deploy broadly.",
-    "category": "industry-news",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-05-28T14:30:00.000Z",
-    "url": "https://techcrunch.com/2026/05/28/techcrunch-disrupt-2026-databricks-co-founder-on-what-kills-enterprise-ai-deals/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-05-29T02:08:07.248Z"
+    "fetchedAt": "2026-05-30T02:03:23.227Z"
   }
 ]
