@@ -1,20 +1,299 @@
 [
   {
-    "id": "news-1780540838532-41",
-    "title": "Tori Kelly Tips Off 2026 NBA Finals With Pristine ‘Star-Spangled Banner’: Watch",
-    "summary": "The singer/songwriter performed the national anthem as the San Antonio Spurs & New York Knicks begin their battle for the NBA championship.",
+    "id": "news-1780626499801-34",
+    "title": "RIIZE Reveals the Full Tracklist for Second Mini-Album II",
+    "summary": "The K-pop group is stepping into its dance-floor era with six new tracks.",
     "category": "industry-news",
     "source": "Billboard",
     "author": "Unknown",
-    "publishedAt": "2026-06-04T01:34:50.000Z",
-    "url": "https://www.billboard.com/music/pop/tori-kelly-2026-nba-finals-national-anthem-1236263838/",
+    "publishedAt": "2026-06-05T01:15:00.000Z",
+    "url": "https://www.billboard.com/music/music-news/riize-ii-tracklist-6-song-titles-1236264035/",
     "imageUrl": null,
     "tags": [],
     "readTime": 1,
-    "fetchedAt": "2026-06-04T02:40:38.532Z"
+    "fetchedAt": "2026-06-05T02:28:19.801Z"
   },
   {
-    "id": "news-1780540838531-24",
+    "id": "news-1780626499801-35",
+    "title": "NIVA ’26 Conference to Focus on Live Music in a ‘Post Monopoly World’",
+    "summary": "The fifth annual conference hosted by the National Independent Venue Association will take place from June 7-10 in Minneapolis. ",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-06-04T23:08:53.000Z",
+    "url": "https://www.billboard.com/pro/niva-2026-conference-preview/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-06-05T02:28:19.801Z"
+  },
+  {
+    "id": "news-1780626499801-36",
+    "title": "Clive Davis Hospitalized in New York After Respiratory Issue — UPDATE",
+    "summary": "The legendary 94-year-old music executive was released from the hospital on Thursday, his reps say..",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-06-04T23:00:00.000Z",
+    "url": "https://www.billboard.com/business/business-news/clive-davis-hospitalized-after-respiratory-issue-1236260802/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-06-05T02:28:19.801Z"
+  },
+  {
+    "id": "news-1780626499801-37",
+    "title": "Concord Enters Strategic Partnership with Latin Rapper Lito MC Cassidy’s Lito Music",
+    "summary": "\"Together, we are building a label designed to develop the next generation of talent.\"",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-06-04T22:50:48.000Z",
+    "url": "https://www.billboard.com/pro/concord-strategic-partnership-with-lito-music/",
+    "imageUrl": null,
+    "tags": [
+      "Partnership"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-06-05T02:28:19.801Z"
+  },
+  {
+    "id": "news-1780626499798-0",
+    "title": "Airbnb’s Brian Chesky plans to launch a new AI lab",
+    "summary": "The Airbnb CEO said last year it hasn't struck an LLM partnership because existing products weren't quite ready.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-06-04T22:29:50.000Z",
+    "url": "https://techcrunch.com/2026/06/04/airbnbs-brian-chesky-plans-to-launch-a-new-ai-lab/",
+    "imageUrl": null,
+    "tags": [
+      "AI",
+      "Partnership"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-06-05T02:28:19.798Z"
+  },
+  {
+    "id": "news-1780626499801-38",
+    "title": "Why Eric André Made A (Surprisingly Good) Classical Music Album",
+    "summary": "As BLARF, the Berklee-trained comedian put out Film Scores for Films That Don't Exist — and conducted the orchestra playing on it.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-06-04T22:02:38.000Z",
+    "url": "https://www.billboard.com/music/pop/eric-andre-blarf-film-scores-album-interview-1236264653/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-06-05T02:28:19.801Z"
+  },
+  {
+    "id": "news-1780626499801-39",
+    "title": "New York Knicks Star Jalen Brunson Says He’d Pay $7,500 to See This Music Legend Perform Live",
+    "summary": "The cheapest tickets on the resale market for Game 3 of the NBA Finals at Madison Square Garden are currently going for more than $7,000. ",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-06-04T21:49:39.000Z",
+    "url": "https://www.billboard.com/music/rb-hip-hop/new-york-knicks-jalen-brunson-nba-finals-michael-jackson-1236264625/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-06-05T02:28:19.801Z"
+  },
+  {
+    "id": "news-1780626499798-1",
+    "title": "Defense tech, AI, and fundraising take center stage at StrictlyVC Los Angeles on June 18",
+    "summary": "On Thursday, June 18, at The Aerospace Corporation Campus, investors, founders, and tech leaders will gather for an evening of conversation exploring some of the most consequential shifts taking place across venture capital, defense technology, artificial intelligence, and advanced industry. Secure your spot today.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-06-04T21:30:00.000Z",
+    "url": "https://techcrunch.com/2026/06/04/defense-tech-ai-and-fundraising-take-center-stage-at-strictlyvc-los-angeles-on-june-18/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-06-05T02:28:19.798Z"
+  },
+  {
+    "id": "news-1780626499799-2",
+    "title": "Apple approves Poke as the first AI agent on its Messages for Business platform",
+    "summary": "Poke, the startup that lets people use AI agents through simple text messages, has become the first AI agent approved for Apple’s Messages for Business platform. ",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-06-04T19:20:58.000Z",
+    "url": "https://techcrunch.com/2026/06/04/apple-approves-poke-as-the-first-ai-agent-on-its-messages-for-business-platform/",
+    "imageUrl": null,
+    "tags": [
+      "AI",
+      "Startup"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-06-05T02:28:19.799Z"
+  },
+  {
+    "id": "news-1780626499800-20",
+    "title": "The AI IPO Race Heats Up, DOGE Whistleblower Sues Elon Musk, and Instagram Gets Hacked",
+    "summary": "On Uncanny Valley, we dive into the IPO bonanza that the top AI companies are embarking on to the point where some real estate listings are looking for not just regular old cash, but Anthropic stock.",
+    "category": "tech-innovation",
+    "source": "Wired AI",
+    "author": "Unknown",
+    "publishedAt": "2026-06-04T18:44:49.000Z",
+    "url": "https://www.wired.com/story/uncanny-valley-podcast-ai-ipo-race-elon-musk-doge-whistleblower-instagram-hacking-incident/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-06-05T02:28:19.800Z"
+  },
+  {
+    "id": "news-1780626499800-27",
+    "title": "Concord invests in and strikes strategic partnership with Lito Music, the company founded by Latin hip-hop & reggaeton artist Lito MC Cassidy",
+    "summary": "The deal expands Concord’s presence in Latin music\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-06-04T17:21:47.000Z",
+    "url": "https://www.musicbusinessworldwide.com/concord-invests-in-and-strikes-strategic-partnership-with-lito-music-the-company-founded-by-latin-hip-hop-reggaeton-artist-lito-mc-cassidy/",
+    "imageUrl": null,
+    "tags": [
+      "Partnership"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-06-05T02:28:19.800Z"
+  },
+  {
+    "id": "news-1780626499799-3",
+    "title": "Meta rolls out a new AI creator assistant on Facebook",
+    "summary": "Creators often have to parse through charts and dashboards to understand their performance, but with the new AI assistant, they can get quick answers to questions like \"When should I post?\" and \"What are people saying in my comments?\" ",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-06-04T16:32:48.000Z",
+    "url": "https://techcrunch.com/2026/06/04/meta-rolls-out-a-new-ai-creator-assistant-on-facebook/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-06-05T02:28:19.799Z"
+  },
+  {
+    "id": "news-1780626499800-28",
+    "title": "A bill moving through Congress could change who controls the US Copyright Office. Here’s why it matters for the music business.",
+    "summary": "Who controls the machinery of copyright in the United States, and what happens to music if that control shifts?\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-06-04T16:11:16.000Z",
+    "url": "https://www.musicbusinessworldwide.com/a-bill-moving-through-congress-could-change-who-controls-the-us-copyright-office-heres-why-it-matters-for-the-music-business/",
+    "imageUrl": null,
+    "tags": [
+      "Copyright"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-06-05T02:28:19.800Z"
+  },
+  {
+    "id": "news-1780626499800-29",
+    "title": "Canada walks back plan to make US audiovisual streaming services pay a bigger Canadian-content levy",
+    "summary": "The measures were announced by Marc Miller, Canada's Minister of Canadian Identity and Culture and Minister responsible for Official Languages.\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-06-04T14:58:50.000Z",
+    "url": "https://www.musicbusinessworldwide.com/canada-walks-back-plan-to-make-us-audiovisual-streaming-companies-pay-a-bigger-canadian-content-levy/",
+    "imageUrl": null,
+    "tags": [
+      "Streaming"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-06-05T02:28:19.800Z"
+  },
+  {
+    "id": "news-1780626499800-30",
+    "title": "Julian Franzoni appointed General Manager for Argentina and Uruguay at Warner Chappell Music",
+    "summary": "Franzoni joined WCM in 2016 and rose through the ranks in the A&R team\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-06-04T14:32:32.000Z",
+    "url": "https://www.musicbusinessworldwide.com/julian-franzoni-appointed-general-manager-for-argentina-and-uruguay-at-warner-chappell-music/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-06-05T02:28:19.800Z"
+  },
+  {
+    "id": "news-1780626499800-31",
+    "title": "Fast-growing producer royalty company mprs is now buying producer catalogs – in partnership with Milk & Honey",
+    "summary": "Founded in 2021, mprs – pronounced 'Empress' – was spun out of artist management and services company mtheory when Universal Music Group acquired mtheory's label division\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-06-04T13:00:57.000Z",
+    "url": "https://www.musicbusinessworldwide.com/mprs-producer-catalogs-milk-honey/",
+    "imageUrl": null,
+    "tags": [
+      "Partnership"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-06-05T02:28:19.800Z"
+  },
+  {
+    "id": "news-1780626499800-32",
+    "title": "YouTube Music’s Foundry program – which counts Dua Lipa and Rosalía among its alumni – names 2026 class including Drake collaborator Julia Wolf",
+    "summary": "YouTube credited the program with helping launch the careers of artists including Dua Lipa, Rosalía and Tems.\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-06-04T12:20:22.000Z",
+    "url": "https://www.musicbusinessworldwide.com/youtube-musics-foundry-program-which-counts-dua-lipa-and-rosalia-among-its-alumni-names-2026-class-including-drake-collaborator-julia-wolf/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-06-05T02:28:19.801Z"
+  },
+  {
+    "id": "news-1780626499801-33",
+    "title": "Label The Slop.",
+    "summary": "The latest 'Tim's Take' from Music Business Worldwide founder, Tim Ingham\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-06-04T11:48:07.000Z",
+    "url": "https://www.musicbusinessworldwide.com/label-the-slop/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-06-05T02:28:19.801Z"
+  },
+  {
+    "id": "news-1780626499800-21",
+    "title": "Jeff Bezos Is Funding a Wild Hunt for the Brain’s ‘Core Algorithm’",
+    "summary": "With $500 million in funding and a reported $2.5 billion valuation, Flourish wants to reinvent AI by putting real neurons under the microscope.",
+    "category": "tech-innovation",
+    "source": "Wired AI",
+    "author": "Unknown",
+    "publishedAt": "2026-06-04T10:30:00.000Z",
+    "url": "https://www.wired.com/story/jeff-bezos-is-funding-a-wild-hunt-for-the-brains-core-algorithm/",
+    "imageUrl": null,
+    "tags": [
+      "AI",
+      "Investment"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-06-05T02:28:19.800Z"
+  },
+  {
+    "id": "news-1780626499800-22",
     "title": "OpenAI and Anthropic Sign Letter to Prevent AI-Developed Biological Weapons",
     "summary": "Leading AI labs, executives, and scientists are sending a letter to lawmakers urging them to improve tracking of synthetic DNA sequences that could be used for bioweapons.",
     "category": "tech-innovation",
@@ -27,290 +306,6 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-06-04T02:40:38.532Z"
-  },
-  {
-    "id": "news-1780540838529-0",
-    "title": "Lovable signs multiyear deal with Google Cloud to up usage 5x, source says",
-    "summary": "Lovable and Google signed an expanded multiyear deal that involves a 5x expansion of Lovable's footprint on Google Cloud, and expanded access to Anthropic Claude.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-06-03T22:56:51.000Z",
-    "url": "https://techcrunch.com/2026/06/03/lovable-signs-multi-year-deal-with-google-cloud-to-up-usage-5x-source-says/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-06-04T02:40:38.530Z"
-  },
-  {
-    "id": "news-1780540838530-1",
-    "title": "Alphabet’s record-breaking $85B raise for Google’s AI business is a helluva good signal",
-    "summary": "If Alphabet's record-breaking $85 billion stock sale signals investor appetite for AI-related offerings, we can see that investors are ready to chow. ",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-06-03T19:38:32.000Z",
-    "url": "https://techcrunch.com/2026/06/03/alphabets-record-breaking-85b-raise-for-googles-ai-business-is-a-helluva-good-signal/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-06-04T02:40:38.530Z"
-  },
-  {
-    "id": "news-1780540838530-2",
-    "title": "Google’s Dreambeans, its weirdest-named AI tool to date, will turn your life into a cartoon",
-    "summary": "Dreambeans is a curated list of AI-illustrated \"stories\" culled from the personal data in your Google account.",
-    "category": "tech-innovation",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-06-03T19:07:42.000Z",
-    "url": "https://techcrunch.com/2026/06/03/googles-dreambeans-its-weirdest-named-ai-tool-to-date-will-turn-your-life-into-a-cartoon/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-06-04T02:40:38.530Z"
-  },
-  {
-    "id": "news-1780540838532-25",
-    "title": "xAI Asks Court to Strip Alleged Grok Deepfake Nudes Victims of Anonymity",
-    "summary": "Four people suing Elon Musk's AI firm under pseudonyms due to the risks of being identified may face a difficult choice: Reveal your real names, or drop the lawsuit.",
-    "category": "tech-innovation",
-    "source": "Wired AI",
-    "author": "Unknown",
-    "publishedAt": "2026-06-03T18:49:32.000Z",
-    "url": "https://www.wired.com/story/xai-asks-court-to-strip-alleged-grok-deepfake-nudes-victims-of-anonymity/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-06-04T02:40:38.532Z"
-  },
-  {
-    "id": "news-1780540838532-32",
-    "title": "Bill Ackman’s Pershing Square is selling its remaining Universal Music Group stake, days after UMG rejected its $64B takeover bid",
-    "summary": "The news comes days after Universal Music Group's board officially rejected a takeover proposal from Ackman and Pershing Square\nSource",
-    "category": "industry-news",
-    "source": "Music Business Worldwide",
-    "author": "Unknown",
-    "publishedAt": "2026-06-03T17:28:34.000Z",
-    "url": "https://www.musicbusinessworldwide.com/bill-ackmans-pershing-square-is-selling-its-remaining-universal-music-group-shares-days-after-umg-rejected-its-64bn-takeover-bid/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-06-04T02:40:38.532Z"
-  },
-  {
-    "id": "news-1780540838532-33",
-    "title": "The AI Music Streaming Flood: Where We’re At",
-    "summary": "The latest 'Tim's Take' from Music Business Worldwide founder, Tim Ingham\nSource",
-    "category": "industry-news",
-    "source": "Music Business Worldwide",
-    "author": "Unknown",
-    "publishedAt": "2026-06-03T16:12:21.000Z",
-    "url": "https://www.musicbusinessworldwide.com/the-ai-music-streaming-flood-where-were-at/",
-    "imageUrl": null,
-    "tags": [
-      "AI",
-      "Streaming"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-06-04T02:40:38.532Z"
-  },
-  {
-    "id": "news-1780540838530-3",
-    "title": "Amazon will show AI product images when you search for some reason",
-    "summary": "Amazon will use visual search and AI to show AI-generated product images that match your search queries. The retailer says it will help guide users to products.",
-    "category": "tech-innovation",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-06-03T15:50:26.000Z",
-    "url": "https://techcrunch.com/2026/06/03/amazon-will-show-ai-product-images-when-you-search-for-some-reason/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-06-04T02:40:38.530Z"
-  },
-  {
-    "id": "news-1780540838532-26",
-    "title": "This Is How Trump Finally Signed the AI Executive Order",
-    "summary": "After shelving the original executive order last month, Donald Trump finally got on board Monday night.",
-    "category": "tech-innovation",
-    "source": "Wired AI",
-    "author": "Unknown",
-    "publishedAt": "2026-06-03T15:46:52.000Z",
-    "url": "https://www.wired.com/story/this-is-how-trump-finally-signed-the-ai-executive-order/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-06-04T02:40:38.532Z"
-  },
-  {
-    "id": "news-1780540838532-34",
-    "title": "US Register of Copyrights continues The MLC’s designation as the statutory Mechanical Licensing Collective – as total royalties distributed to songwriters and publishers near $4B",
-    "summary": "The Register originally designated The MLC in July 2019\nSource",
-    "category": "industry-news",
-    "source": "Music Business Worldwide",
-    "author": "Unknown",
-    "publishedAt": "2026-06-03T15:24:58.000Z",
-    "url": "https://www.musicbusinessworldwide.com/us-register-of-copyrights-continues-the-mlcs-designation-as-the-statutory-mechanical-licensing-collective-as-total-royalties-distributed-to-songwriters-and-publishers-near-4b/",
-    "imageUrl": null,
-    "tags": [
-      "Copyright"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-06-04T02:40:38.532Z"
-  },
-  {
-    "id": "news-1780540838532-35",
-    "title": "Seeker Music acquires the publishing catalog of Cocteau Twins’ Simon Raymonde",
-    "summary": "The deal covers Raymonde's body of work as a member of the Scottish band, including his co-writes on the 1990 album Heaven or Las Vegas.\nSource",
-    "category": "industry-news",
-    "source": "Music Business Worldwide",
-    "author": "Unknown",
-    "publishedAt": "2026-06-03T15:00:35.000Z",
-    "url": "https://www.musicbusinessworldwide.com/seeker-music-acquires-the-publishing-catalog-of-cocteau-twins-simon-raymonde/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-06-04T02:40:38.532Z"
-  },
-  {
-    "id": "news-1780540838530-4",
-    "title": "These two founders left Goldman and Meta to build voice AI for markets everyone else overlooked",
-    "summary": "The startup's own stack for Africa and Middle East is now handling more than 17,000 calls per day.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-06-03T15:00:00.000Z",
-    "url": "https://techcrunch.com/2026/06/03/these-two-founders-left-goldman-and-meta-to-build-voice-ai-for-markets-everyone-else-overlooked/",
-    "imageUrl": null,
-    "tags": [
-      "AI",
-      "Startup"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-06-04T02:40:38.530Z"
-  },
-  {
-    "id": "news-1780540838532-36",
-    "title": "Grammy-winner Youssou N’Dour named Vice President of CISAC as global rights org marks 100 years",
-    "summary": "N'Dour succeeds outgoing Vice Presidents Yvonne Chaka Chaka, a South African singer and songwriter, and Arturo Márquez, a Mexican composer.\nSource",
-    "category": "industry-news",
-    "source": "Music Business Worldwide",
-    "author": "Unknown",
-    "publishedAt": "2026-06-03T14:59:28.000Z",
-    "url": "https://www.musicbusinessworldwide.com/grammy-winner-youssou-ndour-named-vice-president-of-cisac-as-global-rights-org-marks-100-years/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-06-04T02:40:38.532Z"
-  },
-  {
-    "id": "news-1780540838530-5",
-    "title": "Publishers will be able to opt out of AI Search, thanks to new regulation",
-    "summary": "U.K. regulators are requiring Google offer a tool allowing website publishers to opt-out of generative AI search features. The option will be tested in the U.K. then rolled out globally. ",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-06-03T14:58:33.000Z",
-    "url": "https://techcrunch.com/2026/06/03/publishers-will-be-able-to-opt-out-of-ai-search-thanks-to-new-regulation/",
-    "imageUrl": null,
-    "tags": [
-      "AI",
-      "Generative AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-06-04T02:40:38.530Z"
-  },
-  {
-    "id": "news-1780540838532-37",
-    "title": "After Suno, Udio asks court to seal the size of its AI training data in Sony Music’s copyright case, also citing ‘competitive harm’",
-    "summary": "Udio argues that competitors could use the figure to build rival products faster and more cheaply.\nSource",
-    "category": "industry-news",
-    "source": "Music Business Worldwide",
-    "author": "Unknown",
-    "publishedAt": "2026-06-03T14:55:19.000Z",
-    "url": "https://www.musicbusinessworldwide.com/after-suno-udio-asks-court-to-seal-the-size-of-its-ai-training-data-in-sony-musics-copyright-case-also-citing-competitive-harm/",
-    "imageUrl": null,
-    "tags": [
-      "AI",
-      "Copyright"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-06-04T02:40:38.532Z"
-  },
-  {
-    "id": "news-1780540838530-6",
-    "title": "Meta’s AI agent for WhatsApp Business is now available globally",
-    "summary": "WhatsApp will charge businesses for using its AI agent based on token usage.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-06-03T13:40:00.000Z",
-    "url": "https://techcrunch.com/2026/06/03/metas-ai-agent-for-whatsapp-business-is-now-available-globally/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-06-04T02:40:38.530Z"
-  },
-  {
-    "id": "news-1780540838532-38",
-    "title": "From Kobalt to Pipeline: meet the $5 billion financier rewiring indie music capital",
-    "summary": "Matt Spetzler is a private equity veteran who fell in love with the music business. Now, through Jamen Capital and Pipeline, he’s changing how independent rightsholders raise capital – while helping them keep ownership of their companies...\nSource",
-    "category": "industry-news",
-    "source": "Music Business Worldwide",
-    "author": "Unknown",
-    "publishedAt": "2026-06-03T13:21:45.000Z",
-    "url": "https://www.musicbusinessworldwide.com/from-kobalt-to-pipeline-meet-the-5-billion-financier-rewiring-indie-music-capital/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-06-04T02:40:38.532Z"
-  },
-  {
-    "id": "news-1780540838532-39",
-    "title": "Garth Brooks seeking up to $2bn for his music catalog (report)",
-    "summary": "The WSJ reports that the artist believes the value of his music rights could fall 'anywhere from the high $1 billion range to more than $2 billion.'\nSource",
-    "category": "industry-news",
-    "source": "Music Business Worldwide",
-    "author": "Unknown",
-    "publishedAt": "2026-06-03T13:03:54.000Z",
-    "url": "https://www.musicbusinessworldwide.com/garth-brooks-seeking-up-to-2bn-for-his-music-catalog-report/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-06-04T02:40:38.532Z"
-  },
-  {
-    "id": "news-1780540838530-7",
-    "title": "Coralogix raises $200M on bet that someone needs to watch the AI agents",
-    "summary": "Coralogix is among a growing number of infrastructure firms betting that as AI systems move into production, demand will rise for tools that can monitor their behavior, troubleshoot failures, and provide the operational data needed to keep them running reliably.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-06-03T13:02:51.000Z",
-    "url": "https://techcrunch.com/2026/06/03/coralogix-raises-200m-in-race-to-build-the-monitoring-layer-for-ai-agents/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-06-04T02:40:38.530Z"
+    "fetchedAt": "2026-06-05T02:28:19.800Z"
   }
 ]
