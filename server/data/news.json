@@ -1,8 +1,283 @@
 [
   {
-    "id": "news-1780970663624-0",
+    "id": "news-1781058525510-36",
+    "title": "Rubén Blades Accepts the Lifetime Award From Leila Cobo | Indie Power Players 2026",
+    "summary": "Rubén Blades accepts the Icon Artist Award from Leila Cobo at Billboard’s Indie Power Players 2026.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-06-10T01:30:16.000Z",
+    "url": "https://www.billboard.com/video/ruben-blades-accepts-the-lifetime-award-from-leila-cobo/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-06-10T02:28:45.510Z"
+  },
+  {
+    "id": "news-1781058525508-0",
+    "title": "Google just fired a warning shot in the AI subscription price wars",
+    "summary": "Google just made it significantly cheaper to enjoy its budget AI subscription tier. ",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-06-10T00:26:10.000Z",
+    "url": "https://techcrunch.com/2026/06/09/google-just-fired-a-warning-shot-in-the-ai-subscription-price-wars/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-06-10T02:28:45.509Z"
+  },
+  {
+    "id": "news-1781058525510-37",
+    "title": "YouTube Terms of Service Allow AI Music Training, Google Says in Copyright Lawsuit",
+    "summary": "A new court filing claims that when indie artists upload music to YouTube, they grant a “broad license” that covers the AI initiatives of parent company Google.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-06-09T22:31:19.000Z",
+    "url": "https://www.billboard.com/pro/google-youtube-terms-of-service-ai-music-training-lawsuit/",
+    "imageUrl": null,
+    "tags": [
+      "AI",
+      "Copyright"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-06-10T02:28:45.510Z"
+  },
+  {
+    "id": "news-1781058525509-1",
+    "title": "Hey, Siri, here’s what I actually want from AI",
+    "summary": "I'm desperate for a personal AI assistant, but do I really want to become the kind of person who can't function without the friendly robot voice in my phone?",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-06-09T20:50:17.000Z",
+    "url": "https://techcrunch.com/2026/06/09/hey-siri-heres-what-i-actually-want-from-ai/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-06-10T02:28:45.509Z"
+  },
+  {
+    "id": "news-1781058525509-2",
+    "title": "Anthropic’s Fable 5 can make weirdly fun video games with the click of a button",
+    "summary": "Anthropic's Claude Fable 5 is going to be a big hit with the web's vibe coders. ",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-06-09T20:37:49.000Z",
+    "url": "https://techcrunch.com/2026/06/09/anthropics-fable-5-can-make-weirdly-fun-video-games-with-the-click-of-a-button/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-06-10T02:28:45.509Z"
+  },
+  {
+    "id": "news-1781058525510-28",
+    "title": "Pedro Winter appointed Global Head of Creation and Co-Managing Director of Because Music France",
+    "summary": "The founder of Ed Banger Records, launched in 2003, and former manager of Daft Punk is joining Because Music in Paris.\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-06-09T20:17:34.000Z",
+    "url": "https://www.musicbusinessworldwide.com/pedro-winter-appointed-global-head-of-creation-and-co-managing-director-of-because-music-france/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-06-10T02:28:45.510Z"
+  },
+  {
+    "id": "news-1781058525509-3",
+    "title": "Can tech companies learn to love cheaper AI models?",
+    "summary": "If those same AI workloads can be handled by cheaper models without affecting quality, it would mean a massive shift in the economics of AI.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-06-09T18:56:09.000Z",
+    "url": "https://techcrunch.com/2026/06/09/can-tech-companies-learn-to-love-cheaper-models/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-06-10T02:28:45.509Z"
+  },
+  {
+    "id": "news-1781058525510-29",
+    "title": "ASCAP sues four radio groups for ‘prolonged unauthorized use of its members’ music",
+    "summary": "The four groups operate a total of 15 radio stations\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-06-09T18:25:40.000Z",
+    "url": "https://www.musicbusinessworldwide.com/ascap-sues-four-radio-groups-for-prolonged-unauthorized-use-of-its-members-music/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-06-10T02:28:45.510Z"
+  },
+  {
+    "id": "news-1781058525510-30",
+    "title": "Scott Cutler & Josh Abraham: How Pulse Music Group Started…",
+    "summary": "Pulse Music Group's Co-CEOs take us back through a series of near-misses across the streets, studios, and open houses of Los Angeles –  before their paths finally collided over a half-shared chicken parmigiana... \nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-06-09T17:39:24.000Z",
+    "url": "https://www.musicbusinessworldwide.com/scott-cutler-josh-abraham-how-pulse-music-group-started/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-06-10T02:28:45.510Z"
+  },
+  {
+    "id": "news-1781058525510-31",
+    "title": "Global Music Rights sues Music Choice, alleging ‘willful’ copyright infringement of 95 songs after its license expired",
+    "summary": "Founded in 2013 by Irving Azoff, GMR represents just over 175 songwriters and their publishers\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-06-09T17:38:57.000Z",
+    "url": "https://www.musicbusinessworldwide.com/global-music-rights-sues-music-choice-alleging-willful-copyright-infringement-of-95-songs-after-its-license-expired/",
+    "imageUrl": null,
+    "tags": [
+      "Copyright"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-06-10T02:28:45.510Z"
+  },
+  {
+    "id": "news-1781058525510-20",
+    "title": "Anthropic Offers Mythos Upgrade for Cyber Partners and a ‘Safe’ Version for the Rest of You",
+    "summary": "Anthropic is releasing Claude Mythos 5 to trusted organizations and Claude Fable 5 to the public, a version it says can’t be used for cyberattacks.",
+    "category": "tech-innovation",
+    "source": "Wired AI",
+    "author": "Unknown",
+    "publishedAt": "2026-06-09T17:00:46.000Z",
+    "url": "https://www.wired.com/story/anthropic-releases-claude-fable-5-mythos-5/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-06-10T02:28:45.510Z"
+  },
+  {
+    "id": "news-1781058525509-4",
+    "title": "Anthropic’s Claude Fable 5 is a version of Mythos the public can access today",
+    "summary": "Anthropic is releasing Claude Fable 5, its first Mythos-class model available to the public. The model comes with guardrails that block responses in high-risk areas like cybersecurity and biology.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-06-09T17:00:00.000Z",
+    "url": "https://techcrunch.com/2026/06/09/anthropics-claude-fable-5-is-a-version-of-mythos-the-public-can-access-today/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-06-10T02:28:45.509Z"
+  },
+  {
+    "id": "news-1781058525510-32",
+    "title": "Universal Music confirms €1 billion bond sale",
+    "summary": "The bond sale is split into two tranches of €500 million each, UMG said on Tuesday (June 9).\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-06-09T16:32:21.000Z",
+    "url": "https://www.musicbusinessworldwide.com/universal-music-confirms-e1-billion-bond-sale/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-06-10T02:28:45.510Z"
+  },
+  {
+    "id": "news-1781058525509-5",
+    "title": "It’s not FAANG anymore. It’s MANGOS.",
+    "summary": "With SpaceX, Anthropic, and OpenAI all eyeing massive public debuts, the tech industry may soon have a new class of corporate overlords — and a new acronym to match. Say goodbye to FAANG and hello to MANGOS.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-06-09T16:09:14.000Z",
+    "url": "https://techcrunch.com/2026/06/09/its-not-faang-anymore-its-mangos/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-06-10T02:28:45.509Z"
+  },
+  {
+    "id": "news-1781058525510-33",
+    "title": "Seeker Music inks global distribution deal with UMG’s Virgin Music Group",
+    "summary": "Virgin Music Group will serve as Seeker's global distribution partner for its catalog of recordings and new project releases.\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-06-09T14:00:26.000Z",
+    "url": "https://www.musicbusinessworldwide.com/seeker-music-inks-global-distribution-deal-with-umgs-virgin-music-group/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-06-10T02:28:45.510Z"
+  },
+  {
+    "id": "news-1781058525509-6",
+    "title": "Sandstone raises $30M to bring AI to in-house legal teams",
+    "summary": "Sandstone's Series A comes just six months after a Sequoia-led seed round.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-06-09T13:47:25.000Z",
+    "url": "https://techcrunch.com/2026/06/09/sandstone-raises-30m-to-bring-ai-to-in-house-legal-teams/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-06-10T02:28:45.509Z"
+  },
+  {
+    "id": "news-1781058525510-34",
+    "title": "Universal Music Publishing Group unveils new brand identity",
+    "summary": "'Our new brand is about celebrating the enduring power of songwriting and giving it a clear voice, a lasting home, and a stronger future,' said UMPG Chairman and CEO Jody Gerson\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-06-09T13:27:07.000Z",
+    "url": "https://www.musicbusinessworldwide.com/universal-music-publishing-group-unveils-new-brand-identity/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-06-10T02:28:45.510Z"
+  },
+  {
+    "id": "news-1781058525510-35",
+    "title": "Indie music-focused streaming app Cantilever closes pre-seed round backed by labels including Domino, Ninja Tune and Sub Pop",
+    "summary": "All backers support the Organization for Recorded Culture and Arts (ORCA), forming the round during an ORCA discussion on the future of independent music.\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-06-09T11:20:54.000Z",
+    "url": "https://www.musicbusinessworldwide.com/indie-music-focused-streaming-app-cantilever-closes-pre-seed-round-backed-by-labels-including-domino-ninja-tune-and-sub-pop/",
+    "imageUrl": null,
+    "tags": [
+      "Streaming"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-06-10T02:28:45.510Z"
+  },
+  {
+    "id": "news-1781058525509-7",
     "title": "Why Apple’s slow-and-steady AI bet is starting to look pretty smart",
-    "summary": "Can Apple's new AI glow up put to bed accusations that it's losing an all-important industry race? ",
+    "summary": "Can Apple's new AI glow-up put to bed accusations that it's losing an all-important industry race? ",
     "category": "ai-research",
     "source": "TechCrunch AI",
     "author": "Unknown",
@@ -13,10 +288,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-06-09T02:04:23.624Z"
+    "fetchedAt": "2026-06-10T02:28:45.509Z"
   },
   {
-    "id": "news-1780970663624-1",
+    "id": "news-1781058525509-8",
     "title": "As OpenAI files for IPO, Sam Altman’s eye-scanning company is doing layoffs, report says",
     "summary": "Tools for Humanity, Sam Altman's identity verification company, is reportedly struggling to generate revenue and will downsize its staff.",
     "category": "ai-research",
@@ -29,290 +304,6 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-06-09T02:04:23.624Z"
-  },
-  {
-    "id": "news-1780970663624-2",
-    "title": "Apple’s WWDC AI demos looked more real after $250M false ad settlement",
-    "summary": "The vibe of Apple's 2026 WWDC keynote felt like a spouse proudly listing all the honey-do-list items tackled. One subtle example: the many AI demos of someone standing, phone in hand.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-06-08T22:39:57.000Z",
-    "url": "https://techcrunch.com/2026/06/08/apples-wwdc-ai-demos-looked-more-real-after-250m-false-ad-settlement/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-06-09T02:04:23.624Z"
-  },
-  {
-    "id": "news-1780970663625-19",
-    "title": "OpenAI Confidentially Files for IPO on the Heels of SpaceX and Anthropic",
-    "summary": "The ChatGPT-maker announced it has filed paperwork to go public, just a week after rival Anthropic took the same step.",
-    "category": "ai-research",
-    "source": "Wired AI",
-    "author": "Unknown",
-    "publishedAt": "2026-06-08T21:31:58.000Z",
-    "url": "https://www.wired.com/story/openai-confidentially-files-for-ipo/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-06-09T02:04:23.625Z"
-  },
-  {
-    "id": "news-1780970663624-3",
-    "title": "OpenAI files confidentially for IPO, following Anthropic",
-    "summary": "The filing comes a little more than a week after its main rival, Anthropic, also filed to go public, ramping up the race between the two AI firms.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-06-08T21:29:57.000Z",
-    "url": "https://techcrunch.com/2026/06/08/following-anthropic-openai-files-confidentially-for-ipo/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-06-09T02:04:23.624Z"
-  },
-  {
-    "id": "news-1780970663624-4",
-    "title": "Apple plays catch-up at WWDC",
-    "summary": "Apple spent much of its WWDC keynote highlighting fixes, performance improvements, and long-requested features before unveiling its upgraded AI-powered Siri, signaling that the company wants users to see AI as just one part of a broader effort to improve its software.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-06-08T21:15:42.000Z",
-    "url": "https://techcrunch.com/2026/06/08/apple-plays-catch-up-at-wwdc/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-06-09T02:04:23.624Z"
-  },
-  {
-    "id": "news-1780970663624-5",
-    "title": "Apple bets cheaper AI will woo small developers",
-    "summary": "As AI experimentation grows more expensive, Apple is waiving cloud API costs for developers with fewer than 2 million first-time App Store downloads.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-06-08T20:53:55.000Z",
-    "url": "https://techcrunch.com/2026/06/08/apple-bets-cheaper-ai-will-woo-small-developers/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-06-09T02:04:23.624Z"
-  },
-  {
-    "id": "news-1780970663624-6",
-    "title": "Apple will let you build workflows using AI in its new Shortcuts app",
-    "summary": "Shortcuts gets an AI upgrade, letting you describe the workflow you want in a prompt.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-06-08T18:45:12.000Z",
-    "url": "https://techcrunch.com/2026/06/08/apple-will-let-you-build-workflows-using-ai-in-its-new-shortcuts-app/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-06-09T02:04:23.624Z"
-  },
-  {
-    "id": "news-1780970663624-7",
-    "title": "Apple’s Image Playground doesn’t suck anymore",
-    "summary": "Apple's AI image generator is getting a makeover that could make it more competitive.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-06-08T18:38:07.000Z",
-    "url": "https://techcrunch.com/2026/06/08/apples-image-playground-doesnt-suck-anymore/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-06-09T02:04:23.624Z"
-  },
-  {
-    "id": "news-1780970663625-8",
-    "title": "Apple’s Photos app is getting new AI editing features",
-    "summary": "A new spatial \"Reframe\" feature will let users use AI to adjust perspectives. ",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-06-08T18:36:04.000Z",
-    "url": "https://techcrunch.com/2026/06/08/apples-photos-app-is-getting-new-ai-editing-features/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-06-09T02:04:23.625Z"
-  },
-  {
-    "id": "news-1780970663625-20",
-    "title": "Apple’s New Siri AI Is Ready to Get Personal",
-    "summary": "From a stand-alone app to a Google Gemini partnership, here’s everything you need to know from WWDC 2026 about Apple’s upcoming overhaul of Siri.",
-    "category": "tech-innovation",
-    "source": "Wired AI",
-    "author": "Unknown",
-    "publishedAt": "2026-06-08T18:17:44.000Z",
-    "url": "https://www.wired.com/story/apples-new-siri-ai-is-ready-to-get-personal/",
-    "imageUrl": null,
-    "tags": [
-      "AI",
-      "Partnership"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-06-09T02:04:23.625Z"
-  },
-  {
-    "id": "news-1780970663625-9",
-    "title": "Apple’s long-awaited AI Siri overhaul is finally here",
-    "summary": "The idea behind the new \"Siri AI\" is to turn the assistant from a voice controlled assistant into an AI companion that can do a lot more.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-06-08T17:56:21.000Z",
-    "url": "https://techcrunch.com/2026/06/08/apples-long-awaited-ai-siri-overhaul-is-finally-here/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-06-09T02:04:23.625Z"
-  },
-  {
-    "id": "news-1780970663625-21",
-    "title": "The UK Is Betting on a Billion-Dollar AI Supercomputer to Kick Its Addiction to US Tech",
-    "summary": "The British government thinks a state-backed infrastructure initiative will help supercharge homegrown chip startups.",
-    "category": "tech-innovation",
-    "source": "Wired AI",
-    "author": "Unknown",
-    "publishedAt": "2026-06-08T17:44:28.000Z",
-    "url": "https://www.wired.com/story/uk-supercomputer-investment-ai-homegrown-semiconductor/",
-    "imageUrl": null,
-    "tags": [
-      "AI",
-      "Startup"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-06-09T02:04:23.625Z"
-  },
-  {
-    "id": "news-1780970663625-27",
-    "title": "Universal Music Greater China acquires Carrier Creative catalog, home to ‘golden-era’ Mandopop recordings by Little Tigers and Johnny Chiang",
-    "summary": "The deal was announced on Monday (June 8) at UMGC's inaugural China Summit in Beijing.\nSource",
-    "category": "industry-news",
-    "source": "Music Business Worldwide",
-    "author": "Unknown",
-    "publishedAt": "2026-06-08T17:19:43.000Z",
-    "url": "https://www.musicbusinessworldwide.com/universal-music-greater-china-acquires-carrier-creative-catalog-home-to-golden-era-mandopop-recordings-by-little-tigers-and-johnny-chiang/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-06-09T02:04:23.625Z"
-  },
-  {
-    "id": "news-1780970663625-28",
-    "title": "Judge vacates order that sealed Udio’s ‘confidential’ data in Sony Music’s copyright lawsuit",
-    "summary": "The decision reopens the question of how much of the material that Udio has designated confidential will stay off the public docket.\nSource",
-    "category": "industry-news",
-    "source": "Music Business Worldwide",
-    "author": "Unknown",
-    "publishedAt": "2026-06-08T16:37:41.000Z",
-    "url": "https://www.musicbusinessworldwide.com/judge-vacates-order-that-sealed-udios-confidential-data-in-sony-musics-copyright-lawsuit/",
-    "imageUrl": null,
-    "tags": [
-      "Copyright"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-06-09T02:04:23.625Z"
-  },
-  {
-    "id": "news-1780970663626-29",
-    "title": "Universal Music signs Mandopop star Jason Zhang to develop his international career",
-    "summary": "New agreement with Zhang and his Planet Culture label extends across music, live business and strategic development.\nSource",
-    "category": "industry-news",
-    "source": "Music Business Worldwide",
-    "author": "Unknown",
-    "publishedAt": "2026-06-08T16:02:13.000Z",
-    "url": "https://www.musicbusinessworldwide.com/universal-music-signs-mandopop-star-jason-zhang-to-develop-his-international-career/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-06-09T02:04:23.626Z"
-  },
-  {
-    "id": "news-1780970663625-10",
-    "title": "Amazon now lets you design custom merch using AI",
-    "summary": "A new feature in the Amazon Shopping app allows users to generate designs with Alexa, then print them on products like T-shirts, hoodies, and tumblers.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-06-08T15:49:12.000Z",
-    "url": "https://techcrunch.com/2026/06/08/amazon-now-lets-you-design-custom-merch-using-ai/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-06-09T02:04:23.625Z"
-  },
-  {
-    "id": "news-1780970663626-30",
-    "title": "What does an attribution engine actually do?",
-    "summary": "Monica Corton, a music publishing veteran and the founder of Go To Eleven Entertainment, talks about AI — and to the industry’s one great hope for deciding who actually gets paid when machines make music…\nSource",
-    "category": "industry-news",
-    "source": "Music Business Worldwide",
-    "author": "Unknown",
-    "publishedAt": "2026-06-08T15:22:58.000Z",
-    "url": "https://www.musicbusinessworldwide.com/what-does-an-attribution-engine-actually-do/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-06-09T02:04:23.626Z"
-  },
-  {
-    "id": "news-1780970663626-31",
-    "title": "US musicians union sues UMG and Warner Music, alleging member recordings were licensed to Suno and Udio ‘without compensation or credit’",
-    "summary": "The American Federation of Musicians claim the two companies licensed recordings made by its members to Suno and Udio without crediting the musicians.\nSource",
-    "category": "industry-news",
-    "source": "Music Business Worldwide",
-    "author": "Unknown",
-    "publishedAt": "2026-06-08T13:49:16.000Z",
-    "url": "https://www.musicbusinessworldwide.com/musicians-union-sues-umg-and-warner-music-alleging-member-recordings-were-licensed-to-suno-and-udio-without-compensation-or-credit/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-06-09T02:04:23.626Z"
-  },
-  {
-    "id": "news-1780970663626-32",
-    "title": "Universal Music eyes €1 billion bond sale, Bloomberg reports",
-    "summary": "News follows UMG's recent rejection of a $64 billion takeover bid from Bill Ackman's Pershing Square\nSource",
-    "category": "industry-news",
-    "source": "Music Business Worldwide",
-    "author": "Unknown",
-    "publishedAt": "2026-06-08T12:18:56.000Z",
-    "url": "https://www.musicbusinessworldwide.com/universal-music-eyes-e1-billion-bond-sale-days-after-bill-ackmans-exit-report/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-06-09T02:04:23.626Z"
+    "fetchedAt": "2026-06-10T02:28:45.509Z"
   }
 ]
