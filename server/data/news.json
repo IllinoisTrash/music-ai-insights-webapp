@@ -1,6 +1,146 @@
 [
   {
-    "id": "news-1781231622797-0",
+    "id": "news-1781316927056-18",
+    "title": "Meta Employees Absolutely Hate Mark Zuckerberg’s Plan for a Companywide AI Hackathon",
+    "summary": "“I’m not sure that this company supports a hackathon culture anymore,” one employee posted in a forum open to the entire staff.",
+    "category": "tech-innovation",
+    "source": "Wired AI",
+    "author": "Unknown",
+    "publishedAt": "2026-06-12T23:45:26.000Z",
+    "url": "https://www.wired.com/story/meta-employees-absolutely-hate-mark-zuckerbergs-hackathon-idea/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-06-13T02:15:27.056Z"
+  },
+  {
+    "id": "news-1781316927056-31",
+    "title": "25 Songs That Inspired ‘The Vampire Lestat’ Soundtrack: Chappell Roan, David Bowie & More",
+    "summary": "Composer Daniel Hart shares a few musical inspirations behind the rollicking new season of AMC's cult horror show.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-06-12T23:23:22.000Z",
+    "url": "https://www.billboard.com/lists/vampire-lestat-soundtrack-playlist-daniel-hart/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-06-13T02:15:27.057Z"
+  },
+  {
+    "id": "news-1781316927055-0",
+    "title": "Meta’s months-old AI unit is a soul-crushing gulag, say the engineers stuck inside it",
+    "summary": "A new report suggests the unit, which employs 6,500 people, is on the verge of revolt. ",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-06-12T23:00:54.000Z",
+    "url": "https://techcrunch.com/2026/06/12/metas-months-old-ai-unit-is-a-soul-crushing-gulag-say-the-engineers-stuck-inside-it/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-06-13T02:15:27.055Z"
+  },
+  {
+    "id": "news-1781316927056-19",
+    "title": "‘Tell Him He’s a Piece of Shit’: Meta’s New AI Unit Is a Total Mess",
+    "summary": "Executives and employees alike are struggling with Meta’s chaotic AI strategy, according to sources and internal discussions reviewed by WIRED.",
+    "category": "tech-innovation",
+    "source": "Wired AI",
+    "author": "Unknown",
+    "publishedAt": "2026-06-12T21:16:25.000Z",
+    "url": "https://www.wired.com/story/mark-zuckerberg-meta-employee-meeting-interrupt-ai/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-06-13T02:15:27.056Z"
+  },
+  {
+    "id": "news-1781316927055-1",
+    "title": "Chinese cybercrime operation that used AI to scam ‘hundreds of thousands of victims’ sued by Google",
+    "summary": "The tech giant said a group called \"Outsider Enterprise\" used AI to scam hundreds of thousands of victims, sending 2.5 million text messages over a span of two weeks.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-06-12T20:38:09.000Z",
+    "url": "https://techcrunch.com/2026/06/12/chinese-cybercrime-operation-that-used-ai-to-scam-hundreds-of-thousands-of-victims-sued-by-google/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-06-13T02:15:27.055Z"
+  },
+  {
+    "id": "news-1781316927056-20",
+    "title": "China Didn’t Make Americans Hate Data Centers",
+    "summary": "GOP lawmakers, tech investors, and even OpenAI have tied the anti-data-center movement in the US to Chinese interference. Experts say it’s much more complicated than that.",
+    "category": "tech-innovation",
+    "source": "Wired AI",
+    "author": "Unknown",
+    "publishedAt": "2026-06-12T17:17:10.000Z",
+    "url": "https://www.wired.com/story/china-us-data-center-opposition/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-06-13T02:15:27.056Z"
+  },
+  {
+    "id": "news-1781316927056-25",
+    "title": "From UMG’s €1B bond sale to Warner Music’s Sureel AI acquisition… it’s MBW’s Weekly Round-up",
+    "summary": "The biggest headlines from the past few days...\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-06-12T16:08:03.000Z",
+    "url": "https://www.musicbusinessworldwide.com/from-umgs-e1b-bond-sale-to-warner-musics-sureel-ai-acquisition-its-mbws-weekly-round-up/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-06-13T02:15:27.056Z"
+  },
+  {
+    "id": "news-1781316927056-26",
+    "title": "Warped Tour founder Kevin Lyman on rewarding superfans, breaking artists, and the business of festivals",
+    "summary": "Warped Tour founder Kevin Lyman on the festival's past and present, the state of live music, and the one thing he'd change about the music business.\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-06-12T15:00:40.000Z",
+    "url": "https://www.musicbusinessworldwide.com/warped-tour-founder-kevin-lyman-on-rewarding-superfans-breaking-artists-and-the-business-of-festivals/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-06-13T02:15:27.056Z"
+  },
+  {
+    "id": "news-1781316927055-2",
+    "title": "Cheaper, faster, and culturally aware, Avataar’s video AI is built for India’s scale",
+    "summary": "Avataar AI's distilled video model is priced at $0.005 for every second of generation.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-06-12T04:30:00.000Z",
+    "url": "https://techcrunch.com/2026/06/11/cheaper-faster-and-culturally-aware-avataars-video-ai-is-built-for-indias-scale/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-06-13T02:15:27.055Z"
+  },
+  {
+    "id": "news-1781316927055-3",
     "title": "Jeff Bezos’s Prometheus raises $12B to build an ‘artificial general engineer’ for the physical world",
     "summary": "The new round values the physical AI startup that aims to automate heavy engineering and drug design at $41 billion.",
     "category": "industry-news",
@@ -14,10 +154,10 @@
       "Startup"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-06-12T02:33:42.797Z"
+    "fetchedAt": "2026-06-13T02:15:27.055Z"
   },
   {
-    "id": "news-1781231622798-19",
+    "id": "news-1781316927056-21",
     "title": "Apple’s Camera Chief Thinks AI Can Give You Superpowers",
     "summary": "The generative features in iOS 27’s new Photos app will add fake pixels to some of your shots, but Apple’s Jon McCormack says the company isn’t using AI “for the sake of AI.”",
     "category": "tech-innovation",
@@ -30,38 +170,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-06-12T02:33:42.798Z"
+    "fetchedAt": "2026-06-13T02:15:27.056Z"
   },
   {
-    "id": "news-1781231622799-33",
-    "title": "J Balvin’s New Erewhon Smoothie Is Basically the Colombian Flag in a Cup",
-    "summary": "Balvin’s Chimba de Smoothie makes the artist one of three Latinos to collaborate with Erewhon on a limited-edition smoothie flavor.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-06-12T00:06:05.000Z",
-    "url": "https://www.billboard.com/music/latin/j-balvin-erewhon-smoothie-colombia-world-cup-2026-1236270935/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-06-12T02:33:42.799Z"
-  },
-  {
-    "id": "news-1781231622799-34",
-    "title": "iZaak Breaks Down 5 Essential Tracks on His Debut Album ‘Millito’",
-    "summary": "\"I made an album that was needed,\" the Puerto Rican artist tells Billboard.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-06-12T00:00:00.000Z",
-    "url": "https://www.billboard.com/lists/izaak-millito-essential-tracks-debut-album/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-06-12T02:33:42.799Z"
-  },
-  {
-    "id": "news-1781231622798-20",
+    "id": "news-1781316927056-22",
     "title": "Why You Might Already Own SpaceX Shares, Siri’s AI Makeover, and Knicks Owner’s Surveillance Machine",
     "summary": "Today on Uncanny Valley, we take an early look at the SpaceX IPO and why you might find yourself among the investors without even realizing it.",
     "category": "tech-innovation",
@@ -74,26 +186,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-06-12T02:33:42.798Z"
+    "fetchedAt": "2026-06-13T02:15:27.056Z"
   },
   {
-    "id": "news-1781231622799-35",
-    "title": "Fenix Flexin Denies ‘RUBBERZ’ AI Allegations: ‘No Sir, Recorded Same as All Music I Do’",
-    "summary": "The Shoreline Mafia member responded on social media to comments that he used AI to make his recent viral, genre-bending track.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-06-11T22:04:11.000Z",
-    "url": "https://www.billboard.com/music/rb-hip-hop/fenix-flexin-denies-rubberz-ai-allegations-1236270807/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-06-12T02:33:42.799Z"
-  },
-  {
-    "id": "news-1781231622798-21",
+    "id": "news-1781316927056-23",
     "title": "Meet the OpenAI Engineer Leading ChatGPT’s Biggest Transformation Yet",
     "summary": "Thibault Sottiaux helped make AI coding one of OpenAI’s fastest-growing businesses. Now he’s overseeing a sweeping overhaul of ChatGPT.",
     "category": "ai-research",
@@ -106,10 +202,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-06-12T02:33:42.798Z"
+    "fetchedAt": "2026-06-13T02:15:27.056Z"
   },
   {
-    "id": "news-1781231622798-24",
+    "id": "news-1781316927056-27",
     "title": "REPUBLIC Collective strikes joint venture with ZIZA Inc. focused on breaking South Asian artists globally",
     "summary": "The joint venture will prioritize signing and developing artists from the South Asian diaspora\nSource",
     "category": "industry-news",
@@ -120,10 +216,10 @@
     "imageUrl": null,
     "tags": [],
     "readTime": 1,
-    "fetchedAt": "2026-06-12T02:33:42.798Z"
+    "fetchedAt": "2026-06-13T02:15:27.056Z"
   },
   {
-    "id": "news-1781231622798-25",
+    "id": "news-1781316927056-28",
     "title": "US music publishing revenues hit $7.3B in 2025, NMPA reveals at Annual Meeting honoring P!nk, Julian Bunetta and Harvey Mason jr.",
     "summary": "NMPA Chief Legal Officer and Chief Operating Officer Danielle Aguirre said publishing outpaced the growth of recorded music for the fourth year in a row.\nSource",
     "category": "industry-news",
@@ -136,10 +232,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-06-12T02:33:42.798Z"
+    "fetchedAt": "2026-06-13T02:15:27.056Z"
   },
   {
-    "id": "news-1781231622798-26",
+    "id": "news-1781316927056-29",
     "title": "‘There’s nothing wrong with success and chasing your dreams, but don’t forget to bring your true self with you.’",
     "summary": "Philip Lawrence has been Bruno Mars’ key creative partner for over 15 years, co-writing smash-hit singles and landmark albums along the way. \nSource",
     "category": "industry-news",
@@ -150,10 +246,10 @@
     "imageUrl": null,
     "tags": [],
     "readTime": 1,
-    "fetchedAt": "2026-06-12T02:33:42.798Z"
+    "fetchedAt": "2026-06-13T02:15:27.056Z"
   },
   {
-    "id": "news-1781231622797-1",
+    "id": "news-1781316927055-4",
     "title": "Deezer’s new tool can identify AI music from Spotify, Apple Music, and others",
     "summary": "Deezer introduced a tool that scans playlists from Spotify, Apple Music, and other platforms to identify AI music. ",
     "category": "industry-news",
@@ -168,10 +264,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-06-12T02:33:42.797Z"
+    "fetchedAt": "2026-06-13T02:15:27.055Z"
   },
   {
-    "id": "news-1781231622797-2",
+    "id": "news-1781316927055-5",
     "title": "DoorDash’s new AI chatbot lets you order with prompts and photos",
     "summary": "The new chatbot, called Ask DoorDash, allows users to search the app for what they're looking for in their own words instead of having to scroll through restaurants and stores to build a cart. ",
     "category": "ai-research",
@@ -184,10 +280,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-06-12T02:33:42.797Z"
+    "fetchedAt": "2026-06-13T02:15:27.055Z"
   },
   {
-    "id": "news-1781231622798-27",
+    "id": "news-1781316927056-30",
     "title": "Judge gives Muvox 14 days to serve BMG with patent lawsuit – or the case gets dismissed",
     "summary": "The lawsuit filed in 2024 centers on a patent titled 'Music streaming, playlist creation and streaming architecture.'\nSource",
     "category": "industry-news",
@@ -200,90 +296,10 @@
       "Streaming"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-06-12T02:33:42.799Z"
+    "fetchedAt": "2026-06-13T02:15:27.056Z"
   },
   {
-    "id": "news-1781231622799-28",
-    "title": "RARE Entity, the venture group co-founded by Eurythmics’ Dave Stewart, takes stake in Simon Cowell-backed livestreaming platform Lounges.tv",
-    "summary": "Cowell bought a stake in Lounges.tv in 2023\nSource",
-    "category": "industry-news",
-    "source": "Music Business Worldwide",
-    "author": "Unknown",
-    "publishedAt": "2026-06-11T11:42:34.000Z",
-    "url": "https://www.musicbusinessworldwide.com/rare-entity-the-venture-group-co-founded-by-eurythmics-dave-stewart-acquires-stake-in-simon-cowell-backed-livestreaming-platform-lounges-tv/",
-    "imageUrl": null,
-    "tags": [
-      "Streaming"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-06-12T02:33:42.799Z"
-  },
-  {
-    "id": "news-1781231622799-29",
-    "title": "Hari Nair, former CEO of India’s Tips Music, joins AI content-protection firm ContentLens as strategic advisor",
-    "summary": "In his advisory role, Nair will provide counsel on ContentLens's go-to-market strategy across the media and entertainment industry in India and globally.\nSource",
-    "category": "industry-news",
-    "source": "Music Business Worldwide",
-    "author": "Unknown",
-    "publishedAt": "2026-06-11T11:35:57.000Z",
-    "url": "https://www.musicbusinessworldwide.com/hari-nair-former-ceo-of-indias-tips-music-joins-ai-content-protection-firm-contentlens-as-strategic-advisor/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-06-12T02:33:42.799Z"
-  },
-  {
-    "id": "news-1781231622799-30",
-    "title": "Music publishers strike AI licensing deals with Udio and KLAY as NMPA reveals ‘landmark’ industry-wide pacts",
-    "summary": "NMPA President and CEO David Israelite said the Udio agreement is the first to \"value songs and sound recordings equally\" when it comes to AI training.\nSource",
-    "category": "industry-news",
-    "source": "Music Business Worldwide",
-    "author": "Unknown",
-    "publishedAt": "2026-06-11T11:27:34.000Z",
-    "url": "https://www.musicbusinessworldwide.com/music-publishers-strike-ai-licensing-deals-with-udio-and-klay-as-nmpa-reveals-landmark-industry-wide-pacts/",
-    "imageUrl": null,
-    "tags": [
-      "AI",
-      "Copyright"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-06-12T02:33:42.799Z"
-  },
-  {
-    "id": "news-1781231622799-31",
-    "title": "UMG launches Def Jam Recordings North Africa headquartered in Casablanca, Morocco",
-    "summary": "Universal says the launch will increase access, reach, and opportunity for North African hip-hop artists on a global stage\nSource",
-    "category": "industry-news",
-    "source": "Music Business Worldwide",
-    "author": "Unknown",
-    "publishedAt": "2026-06-11T11:07:21.000Z",
-    "url": "https://www.musicbusinessworldwide.com/umg-launches-def-jam-recordings-north-africa-headquartered-in-casablanca-morocco/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-06-12T02:33:42.799Z"
-  },
-  {
-    "id": "news-1781231622799-32",
-    "title": "After licensing its AI detection tech to the music industry, Deezer now lets listeners scan their own playlists for AI-generated tracks",
-    "summary": "The company says it now receives around 75,000 fully AI-generated tracks every day\nSource",
-    "category": "industry-news",
-    "source": "Music Business Worldwide",
-    "author": "Unknown",
-    "publishedAt": "2026-06-11T10:39:44.000Z",
-    "url": "https://www.musicbusinessworldwide.com/after-licensing-its-ai-detection-tech-to-the-music-industry-deezer-now-lets-listeners-scan-their-own-playlists-for-ai-slop/",
-    "imageUrl": null,
-    "tags": [
-      "AI",
-      "Copyright"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-06-12T02:33:42.799Z"
-  },
-  {
-    "id": "news-1781231622797-3",
+    "id": "news-1781316927055-6",
     "title": "Opendoor’s India exit is fueling a bigger conversation about AI and outsourcing",
     "summary": "The decision comes as India emerges as the world’s largest GCC market.",
     "category": "ai-research",
@@ -296,22 +312,6 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-06-12T02:33:42.797Z"
-  },
-  {
-    "id": "news-1781231622797-4",
-    "title": "Anthropic’s Dario Amodei has just one direct report",
-    "summary": "If founders and other business leaders weren't already envious of Dario Amodei, who sits atop one of the world's fastest-growing AI companies, they're going to be seriously envious now.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-06-11T03:53:06.000Z",
-    "url": "https://techcrunch.com/2026/06/10/anthropics-dario-amodei-has-just-one-direct-report/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-06-12T02:33:42.797Z"
+    "fetchedAt": "2026-06-13T02:15:27.055Z"
   }
 ]
