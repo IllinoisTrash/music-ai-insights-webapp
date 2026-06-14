@@ -1,6 +1,176 @@
 [
   {
-    "id": "news-1781316927056-18",
+    "id": "news-1781404713065-29",
+    "title": "Bruce Springsteen Sings With Patti Smith & Apologizes to Bono at Tribeca Event: ‘I Should Have Said Yes’",
+    "summary": "The Boss was honored with the festival's Harry Belafonte Voices for Social Justice Award. ",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-06-13T23:58:17.000Z",
+    "url": "https://www.billboard.com/music/music-news/bruce-springsteen-bono-tribeca-patti-smith-1236272579/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-06-14T02:38:33.065Z"
+  },
+  {
+    "id": "news-1781404713065-30",
+    "title": "Chief Keef’s Homecoming, North West’s Debut & Lil Uzi Vert’s Takeover: 5 Best Moments From Summer Smash 2026 Day One",
+    "summary": "It was a memorable first night at the Seatgeek Stadium festival grounds. ",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-06-13T23:31:10.000Z",
+    "url": "https://www.billboard.com/lists/summer-smash-2026-day-1-chief-keef-north-west-lil-uzi-vert/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-06-14T02:38:33.065Z"
+  },
+  {
+    "id": "news-1781404713065-31",
+    "title": "Chaka Khan, Kelly Rowland & More Honored at 2026 Black Women in Music Dinner",
+    "summary": "Choreographer Fatima Robinson, music executive Natina Nimene, Billboard’s Gail Mitchell and Gender Amplified’s Ebonie Smith were also honored at the event.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-06-13T20:48:47.000Z",
+    "url": "https://www.billboard.com/lists/2026-black-women-in-music-highlights-chaka-khan/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-06-14T02:38:33.065Z"
+  },
+  {
+    "id": "news-1781404713063-0",
+    "title": "KPMG pulls report on AI usage due to apparent hallucinations",
+    "summary": "Once again, AI proves to be an unreliable source of information about AI.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-06-13T20:42:31.000Z",
+    "url": "https://techcrunch.com/2026/06/13/kpmg-pulls-report-on-ai-usage-due-to-apparent-hallucinations/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-06-14T02:38:33.064Z"
+  },
+  {
+    "id": "news-1781404713065-32",
+    "title": "Olivia Rodrigo’s ‘You Seem Pretty Sad for a Girl So in Love’ Breaks First-Day Streaming Records",
+    "summary": "The pop star released her third studio album on June 12.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-06-13T20:09:06.000Z",
+    "url": "https://www.billboard.com/music/music-news/olivia-rodrigo-you-seem-pretty-sad-breaks-streaming-records-1236272521/",
+    "imageUrl": null,
+    "tags": [
+      "Streaming"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-06-14T02:38:33.066Z"
+  },
+  {
+    "id": "news-1781404713066-33",
+    "title": "Lil Uzi Vert Proves They Can’t Be Duplicated With Frenetic Headlining Performance at Summer Smash 2026: ‘New Album on the Way’",
+    "summary": "Uzi teased a new album, played unreleased music and shouted-out North West during the 45-minute set. ",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-06-13T19:16:14.000Z",
+    "url": "https://www.billboard.com/music/rb-hip-hop/lil-uzi-summer-smash-2026-recap-1236272327/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-06-14T02:38:33.066Z"
+  },
+  {
+    "id": "news-1781404713066-34",
+    "title": "North West Performs First Solo Music Festival Set With Support From Ye & Kim Kardashian",
+    "summary": "The 12-year-old's set at Lyrical Lemonade's Summer Smash 2026 follows the release of her debut EP, N0rth4evr.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-06-13T18:20:35.000Z",
+    "url": "https://www.billboard.com/music/music-news/north-west-first-solo-music-festival-summer-smash-2026-1236272487/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-06-14T02:38:33.066Z"
+  },
+  {
+    "id": "news-1781404713064-1",
+    "title": "OpenAI faces investigation from state attorneys general",
+    "summary": "It's not clear which states are involved, but they're asking about everything from OpenAI's ad policies to its handling of health data.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-06-13T16:47:18.000Z",
+    "url": "https://techcrunch.com/2026/06/13/openai-faces-investigation-from-state-attorneys-general/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-06-14T02:38:33.064Z"
+  },
+  {
+    "id": "news-1781404713065-15",
+    "title": "A Court Has Ruled That Google Is Liable for False Statements Generated by AI Overviews",
+    "summary": "The ruling holds that a company that designs, trains, operates, and manages an AI system must assume legal liability for any damages caused by the responses it generates.",
+    "category": "tech-innovation",
+    "source": "Wired AI",
+    "author": "Unknown",
+    "publishedAt": "2026-06-13T09:00:00.000Z",
+    "url": "https://www.wired.com/story/a-court-has-ruled-that-google-is-liable-for-false-statements-generated-by-ai-overviews/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-06-14T02:38:33.065Z"
+  },
+  {
+    "id": "news-1781404713064-2",
+    "title": "Anthropic’s safety warnings may have just backfired — the government has pulled the plug on its most powerful AI",
+    "summary": "Anthropic isn't hiding its frustration. \"We disagree that the finding of a narrow potential jailbreak should be cause for recalling a commercial model deployed to hundreds of millions of people,\" the company wrote in a blog post.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-06-13T02:26:30.000Z",
+    "url": "https://techcrunch.com/2026/06/12/anthropics-safety-warnings-may-have-just-backfired-the-government-has-pulled-the-plug-on-its-most-powerful-ai/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-06-14T02:38:33.064Z"
+  },
+  {
+    "id": "news-1781404713065-16",
+    "title": "Anthropic Says It’s Taking Claude Fable 5 Offline to Comply With US Government Order",
+    "summary": "“The government believes it has become aware of a method of bypassing, or ‘jailbreaking’ Fable 5,” the company said in a blog post.",
+    "category": "tech-innovation",
+    "source": "Wired AI",
+    "author": "Unknown",
+    "publishedAt": "2026-06-13T02:26:10.000Z",
+    "url": "https://www.wired.com/story/anthropic-says-us-government-ordered-it-to-shut-down-mythos-models/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-06-14T02:38:33.065Z"
+  },
+  {
+    "id": "news-1781404713065-17",
     "title": "Meta Employees Absolutely Hate Mark Zuckerberg’s Plan for a Companywide AI Hackathon",
     "summary": "“I’m not sure that this company supports a hackathon culture anymore,” one employee posted in a forum open to the entire staff.",
     "category": "tech-innovation",
@@ -13,24 +183,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-06-13T02:15:27.056Z"
+    "fetchedAt": "2026-06-14T02:38:33.065Z"
   },
   {
-    "id": "news-1781316927056-31",
-    "title": "25 Songs That Inspired ‘The Vampire Lestat’ Soundtrack: Chappell Roan, David Bowie & More",
-    "summary": "Composer Daniel Hart shares a few musical inspirations behind the rollicking new season of AMC's cult horror show.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-06-12T23:23:22.000Z",
-    "url": "https://www.billboard.com/lists/vampire-lestat-soundtrack-playlist-daniel-hart/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-06-13T02:15:27.057Z"
-  },
-  {
-    "id": "news-1781316927055-0",
+    "id": "news-1781404713064-3",
     "title": "Meta’s months-old AI unit is a soul-crushing gulag, say the engineers stuck inside it",
     "summary": "A new report suggests the unit, which employs 6,500 people, is on the verge of revolt. ",
     "category": "ai-research",
@@ -43,10 +199,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-06-13T02:15:27.055Z"
+    "fetchedAt": "2026-06-14T02:38:33.064Z"
   },
   {
-    "id": "news-1781316927056-19",
+    "id": "news-1781404713065-18",
     "title": "‘Tell Him He’s a Piece of Shit’: Meta’s New AI Unit Is a Total Mess",
     "summary": "Executives and employees alike are struggling with Meta’s chaotic AI strategy, according to sources and internal discussions reviewed by WIRED.",
     "category": "tech-innovation",
@@ -59,10 +215,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-06-13T02:15:27.056Z"
+    "fetchedAt": "2026-06-14T02:38:33.065Z"
   },
   {
-    "id": "news-1781316927055-1",
+    "id": "news-1781404713064-4",
     "title": "Chinese cybercrime operation that used AI to scam ‘hundreds of thousands of victims’ sued by Google",
     "summary": "The tech giant said a group called \"Outsider Enterprise\" used AI to scam hundreds of thousands of victims, sending 2.5 million text messages over a span of two weeks.",
     "category": "ai-research",
@@ -75,10 +231,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-06-13T02:15:27.055Z"
+    "fetchedAt": "2026-06-14T02:38:33.064Z"
   },
   {
-    "id": "news-1781316927056-20",
+    "id": "news-1781404713065-19",
     "title": "China Didn’t Make Americans Hate Data Centers",
     "summary": "GOP lawmakers, tech investors, and even OpenAI have tied the anti-data-center movement in the US to Chinese interference. Experts say it’s much more complicated than that.",
     "category": "tech-innovation",
@@ -91,10 +247,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-06-13T02:15:27.056Z"
+    "fetchedAt": "2026-06-14T02:38:33.065Z"
   },
   {
-    "id": "news-1781316927056-25",
+    "id": "news-1781404713065-23",
     "title": "From UMG’s €1B bond sale to Warner Music’s Sureel AI acquisition… it’s MBW’s Weekly Round-up",
     "summary": "The biggest headlines from the past few days...\nSource",
     "category": "industry-news",
@@ -107,12 +263,12 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-06-13T02:15:27.056Z"
+    "fetchedAt": "2026-06-14T02:38:33.065Z"
   },
   {
-    "id": "news-1781316927056-26",
+    "id": "news-1781404713065-24",
     "title": "Warped Tour founder Kevin Lyman on rewarding superfans, breaking artists, and the business of festivals",
-    "summary": "Warped Tour founder Kevin Lyman on the festival's past and present, the state of live music, and the one thing he'd change about the music business.\nSource",
+    "summary": "Kevin Lyman on the festival's past, present, and future, and the one thing he'd change about the music business.\nSource",
     "category": "industry-news",
     "source": "Music Business Worldwide",
     "author": "Unknown",
@@ -121,10 +277,10 @@
     "imageUrl": null,
     "tags": [],
     "readTime": 1,
-    "fetchedAt": "2026-06-13T02:15:27.056Z"
+    "fetchedAt": "2026-06-14T02:38:33.065Z"
   },
   {
-    "id": "news-1781316927055-2",
+    "id": "news-1781404713064-5",
     "title": "Cheaper, faster, and culturally aware, Avataar’s video AI is built for India’s scale",
     "summary": "Avataar AI's distilled video model is priced at $0.005 for every second of generation.",
     "category": "ai-research",
@@ -137,10 +293,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-06-13T02:15:27.055Z"
+    "fetchedAt": "2026-06-14T02:38:33.064Z"
   },
   {
-    "id": "news-1781316927055-3",
+    "id": "news-1781404713064-6",
     "title": "Jeff Bezos’s Prometheus raises $12B to build an ‘artificial general engineer’ for the physical world",
     "summary": "The new round values the physical AI startup that aims to automate heavy engineering and drug design at $41 billion.",
     "category": "industry-news",
@@ -154,164 +310,6 @@
       "Startup"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-06-13T02:15:27.055Z"
-  },
-  {
-    "id": "news-1781316927056-21",
-    "title": "Apple’s Camera Chief Thinks AI Can Give You Superpowers",
-    "summary": "The generative features in iOS 27’s new Photos app will add fake pixels to some of your shots, but Apple’s Jon McCormack says the company isn’t using AI “for the sake of AI.”",
-    "category": "tech-innovation",
-    "source": "Wired AI",
-    "author": "Unknown",
-    "publishedAt": "2026-06-12T01:00:00.000Z",
-    "url": "https://www.wired.com/story/apple-camera-chief-thinks-ai-can-give-you-superpowers/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-06-13T02:15:27.056Z"
-  },
-  {
-    "id": "news-1781316927056-22",
-    "title": "Why You Might Already Own SpaceX Shares, Siri’s AI Makeover, and Knicks Owner’s Surveillance Machine",
-    "summary": "Today on Uncanny Valley, we take an early look at the SpaceX IPO and why you might find yourself among the investors without even realizing it.",
-    "category": "tech-innovation",
-    "source": "Wired AI",
-    "author": "Unknown",
-    "publishedAt": "2026-06-11T23:37:49.000Z",
-    "url": "https://www.wired.com/story/uncanny-valley-podcast-why-you-might-already-own-spacex-shares-siri-ai-makeover-knicks-owner-surveillance-machine/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-06-13T02:15:27.056Z"
-  },
-  {
-    "id": "news-1781316927056-23",
-    "title": "Meet the OpenAI Engineer Leading ChatGPT’s Biggest Transformation Yet",
-    "summary": "Thibault Sottiaux helped make AI coding one of OpenAI’s fastest-growing businesses. Now he’s overseeing a sweeping overhaul of ChatGPT.",
-    "category": "ai-research",
-    "source": "Wired AI",
-    "author": "Unknown",
-    "publishedAt": "2026-06-11T21:21:04.000Z",
-    "url": "https://www.wired.com/story/model-behavior-interview-with-openai-codex-lead-tibo-sottiaux/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-06-13T02:15:27.056Z"
-  },
-  {
-    "id": "news-1781316927056-27",
-    "title": "REPUBLIC Collective strikes joint venture with ZIZA Inc. focused on breaking South Asian artists globally",
-    "summary": "The joint venture will prioritize signing and developing artists from the South Asian diaspora\nSource",
-    "category": "industry-news",
-    "source": "Music Business Worldwide",
-    "author": "Unknown",
-    "publishedAt": "2026-06-11T20:07:46.000Z",
-    "url": "https://www.musicbusinessworldwide.com/republic-collective-partners-with-ziza-inc-on-new-jv-focused-on-breaking-south-asian-artists-globally/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-06-13T02:15:27.056Z"
-  },
-  {
-    "id": "news-1781316927056-28",
-    "title": "US music publishing revenues hit $7.3B in 2025, NMPA reveals at Annual Meeting honoring P!nk, Julian Bunetta and Harvey Mason jr.",
-    "summary": "NMPA Chief Legal Officer and Chief Operating Officer Danielle Aguirre said publishing outpaced the growth of recorded music for the fourth year in a row.\nSource",
-    "category": "industry-news",
-    "source": "Music Business Worldwide",
-    "author": "Unknown",
-    "publishedAt": "2026-06-11T18:43:11.000Z",
-    "url": "https://www.musicbusinessworldwide.com/us-music-publishing-revenues-hit-7-3b-in-2025-nmpa-reveals-at-annual-meeting-honoring-pnk-julian-bunetta-and-harvey-mason-jr/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-06-13T02:15:27.056Z"
-  },
-  {
-    "id": "news-1781316927056-29",
-    "title": "‘There’s nothing wrong with success and chasing your dreams, but don’t forget to bring your true self with you.’",
-    "summary": "Philip Lawrence has been Bruno Mars’ key creative partner for over 15 years, co-writing smash-hit singles and landmark albums along the way. \nSource",
-    "category": "industry-news",
-    "source": "Music Business Worldwide",
-    "author": "Unknown",
-    "publishedAt": "2026-06-11T18:01:33.000Z",
-    "url": "https://www.musicbusinessworldwide.com/theres-nothing-wrong-with-success-and-chasing-your-dreams-but-dont-forget-to-bring-your-true-self-with-you/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-06-13T02:15:27.056Z"
-  },
-  {
-    "id": "news-1781316927055-4",
-    "title": "Deezer’s new tool can identify AI music from Spotify, Apple Music, and others",
-    "summary": "Deezer introduced a tool that scans playlists from Spotify, Apple Music, and other platforms to identify AI music. ",
-    "category": "industry-news",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-06-11T16:36:20.000Z",
-    "url": "https://techcrunch.com/2026/06/11/deezers-new-tool-can-identify-ai-music-from-spotify-apple-music-and-others/",
-    "imageUrl": null,
-    "tags": [
-      "Spotify",
-      "Apple Music",
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-06-13T02:15:27.055Z"
-  },
-  {
-    "id": "news-1781316927055-5",
-    "title": "DoorDash’s new AI chatbot lets you order with prompts and photos",
-    "summary": "The new chatbot, called Ask DoorDash, allows users to search the app for what they're looking for in their own words instead of having to scroll through restaurants and stores to build a cart. ",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-06-11T14:23:43.000Z",
-    "url": "https://techcrunch.com/2026/06/11/doordashs-new-ai-chatbot-lets-you-order-with-prompts-and-photos/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-06-13T02:15:27.055Z"
-  },
-  {
-    "id": "news-1781316927056-30",
-    "title": "Judge gives Muvox 14 days to serve BMG with patent lawsuit – or the case gets dismissed",
-    "summary": "The lawsuit filed in 2024 centers on a patent titled 'Music streaming, playlist creation and streaming architecture.'\nSource",
-    "category": "industry-news",
-    "source": "Music Business Worldwide",
-    "author": "Unknown",
-    "publishedAt": "2026-06-11T12:39:45.000Z",
-    "url": "https://www.musicbusinessworldwide.com/judge-gives-muvox-14-days-to-serve-bmg-with-patent-lawsuit-or-the-case-gets-dismissed/",
-    "imageUrl": null,
-    "tags": [
-      "Streaming"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-06-13T02:15:27.056Z"
-  },
-  {
-    "id": "news-1781316927055-6",
-    "title": "Opendoor’s India exit is fueling a bigger conversation about AI and outsourcing",
-    "summary": "The decision comes as India emerges as the world’s largest GCC market.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-06-11T04:02:19.000Z",
-    "url": "https://techcrunch.com/2026/06/10/opendoors-india-exit-is-fueling-a-bigger-conversation-about-ai-and-outsourcing/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-06-13T02:15:27.055Z"
+    "fetchedAt": "2026-06-14T02:38:33.064Z"
   }
 ]
