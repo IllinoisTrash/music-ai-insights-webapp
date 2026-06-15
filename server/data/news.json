@@ -1,52 +1,123 @@
 [
   {
-    "id": "news-1781404713065-29",
-    "title": "Bruce Springsteen Sings With Patti Smith & Apologizes to Bono at Tribeca Event: ‘I Should Have Said Yes’",
-    "summary": "The Boss was honored with the festival's Harry Belafonte Voices for Social Justice Award. ",
+    "id": "news-1781491398846-30",
+    "title": "Fans Choose BTS’ ‘Come Over’ as This Week’s Favorite New Music",
+    "summary": "The new-to-streamers tune from BTS brought in more than 86% of the vote in Friday's poll.",
     "category": "industry-news",
     "source": "Billboard",
     "author": "Unknown",
-    "publishedAt": "2026-06-13T23:58:17.000Z",
-    "url": "https://www.billboard.com/music/music-news/bruce-springsteen-bono-tribeca-patti-smith-1236272579/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-06-14T02:38:33.065Z"
-  },
-  {
-    "id": "news-1781404713065-30",
-    "title": "Chief Keef’s Homecoming, North West’s Debut & Lil Uzi Vert’s Takeover: 5 Best Moments From Summer Smash 2026 Day One",
-    "summary": "It was a memorable first night at the Seatgeek Stadium festival grounds. ",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-06-13T23:31:10.000Z",
-    "url": "https://www.billboard.com/lists/summer-smash-2026-day-1-chief-keef-north-west-lil-uzi-vert/",
+    "publishedAt": "2026-06-15T02:08:09.000Z",
+    "url": "https://www.billboard.com/music/music-news/bts-come-over-best-new-music-poll-results-1236272754/",
     "imageUrl": null,
     "tags": [],
     "readTime": 1,
-    "fetchedAt": "2026-06-14T02:38:33.065Z"
+    "fetchedAt": "2026-06-15T02:43:18.846Z"
   },
   {
-    "id": "news-1781404713065-31",
-    "title": "Chaka Khan, Kelly Rowland & More Honored at 2026 Black Women in Music Dinner",
-    "summary": "Choreographer Fatima Robinson, music executive Natina Nimene, Billboard’s Gail Mitchell and Gender Amplified’s Ebonie Smith were also honored at the event.",
+    "id": "news-1781491398846-31",
+    "title": "New Madonna Song ‘Bizarre’ Debuts at Martin Garrix Show in Brooklyn",
+    "summary": "\"Bizarre\" will be featured on the pop icon's Confessions II album.",
     "category": "industry-news",
     "source": "Billboard",
     "author": "Unknown",
-    "publishedAt": "2026-06-13T20:48:47.000Z",
-    "url": "https://www.billboard.com/lists/2026-black-women-in-music-highlights-chaka-khan/",
+    "publishedAt": "2026-06-14T23:38:59.000Z",
+    "url": "https://www.billboard.com/music/pop/madonna-bizarre-martin-garrix-premiere-brooklyn-concert-1236272708/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-06-15T02:43:18.846Z"
+  },
+  {
+    "id": "news-1781491398846-32",
+    "title": "‘Michael’ Tops ‘Bohemian Rhapsody’ as Top-Grossing Music Biopic Worldwide: See the Top 25",
+    "summary": "The films on this list cover a wide range of genres, including rap, classical, country, Latin and contemporary Christian.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-06-14T20:58:12.000Z",
+    "url": "https://www.billboard.com/lists/top-grossing-music-biopics-movies/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-06-15T02:43:18.846Z"
+  },
+  {
+    "id": "news-1781491398847-33",
+    "title": "Cardi B, Fat Joe, J.Lo & More Musicians React to New York Knicks’ NBA Championship Win",
+    "summary": "Music stars flooded social media with celebrations after the Knicks captured their first NBA title since 1973.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-06-14T20:25:05.000Z",
+    "url": "https://www.billboard.com/music/music-news/knicks-nba-championship-musicians-react-cardi-b-fat-joe-1236272663/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-06-15T02:43:18.847Z"
+  },
+  {
+    "id": "news-1781491398847-34",
+    "title": "Oliver Tree, ‘Life Goes On’ and ‘Miss You’ Singer, Dies in Helicopter Crash",
+    "summary": "The musician was reportedly among six people killed in a helicopter collision over Rio de Janeiro.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-06-14T19:29:34.000Z",
+    "url": "https://www.billboard.com/music/music-news/oliver-tree-death-helicopter-crash-brazil-dies-1236272641/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-06-15T02:43:18.847Z"
+  },
+  {
+    "id": "news-1781491398847-35",
+    "title": "Taylor Swift, The Beatles, Elvis & More Artists With the Most Weeks at No. 1 on the Billboard 200: Full List",
+    "summary": "Drake pulls ahead of Adele. Next in his sights: Morgan Wallen.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-06-14T19:18:13.000Z",
+    "url": "https://www.billboard.com/lists/most-weeks-at-no-1-billboard-200-taylor-swift-the-beatles/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-06-15T02:43:18.847Z"
+  },
+  {
+    "id": "news-1781491398844-0",
+    "title": "As AI companies race to go public, who else is along for the ride?",
+    "summary": "Startups are trying to \"ride that SpaceX IPO wave.\"",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-06-14T16:38:09.000Z",
+    "url": "https://techcrunch.com/2026/06/14/as-ai-companies-race-to-go-public-who-else-is-along-for-the-ride/",
+    "imageUrl": null,
+    "tags": [
+      "AI",
+      "Startup"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-06-15T02:43:18.845Z"
+  },
+  {
+    "id": "news-1781491398845-1",
+    "title": "As Anthropic suspends access to new models, India debates its AI future",
+    "summary": "Tech leaders debate whether the Anthropic episode is a wake-up call for India’s AI ambitions.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-06-14T03:00:00.000Z",
+    "url": "https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future/",
     "imageUrl": null,
     "tags": [
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-06-14T02:38:33.065Z"
+    "fetchedAt": "2026-06-15T02:43:18.845Z"
   },
   {
-    "id": "news-1781404713063-0",
+    "id": "news-1781491398845-2",
     "title": "KPMG pulls report on AI usage due to apparent hallucinations",
     "summary": "Once again, AI proves to be an unreliable source of information about AI.",
     "category": "ai-research",
@@ -59,54 +130,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-06-14T02:38:33.064Z"
+    "fetchedAt": "2026-06-15T02:43:18.845Z"
   },
   {
-    "id": "news-1781404713065-32",
-    "title": "Olivia Rodrigo’s ‘You Seem Pretty Sad for a Girl So in Love’ Breaks First-Day Streaming Records",
-    "summary": "The pop star released her third studio album on June 12.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-06-13T20:09:06.000Z",
-    "url": "https://www.billboard.com/music/music-news/olivia-rodrigo-you-seem-pretty-sad-breaks-streaming-records-1236272521/",
-    "imageUrl": null,
-    "tags": [
-      "Streaming"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-06-14T02:38:33.066Z"
-  },
-  {
-    "id": "news-1781404713066-33",
-    "title": "Lil Uzi Vert Proves They Can’t Be Duplicated With Frenetic Headlining Performance at Summer Smash 2026: ‘New Album on the Way’",
-    "summary": "Uzi teased a new album, played unreleased music and shouted-out North West during the 45-minute set. ",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-06-13T19:16:14.000Z",
-    "url": "https://www.billboard.com/music/rb-hip-hop/lil-uzi-summer-smash-2026-recap-1236272327/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-06-14T02:38:33.066Z"
-  },
-  {
-    "id": "news-1781404713066-34",
-    "title": "North West Performs First Solo Music Festival Set With Support From Ye & Kim Kardashian",
-    "summary": "The 12-year-old's set at Lyrical Lemonade's Summer Smash 2026 follows the release of her debut EP, N0rth4evr.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-06-13T18:20:35.000Z",
-    "url": "https://www.billboard.com/music/music-news/north-west-first-solo-music-festival-summer-smash-2026-1236272487/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-06-14T02:38:33.066Z"
-  },
-  {
-    "id": "news-1781404713064-1",
+    "id": "news-1781491398845-3",
     "title": "OpenAI faces investigation from state attorneys general",
     "summary": "It's not clear which states are involved, but they're asking about everything from OpenAI's ad policies to its handling of health data.",
     "category": "ai-research",
@@ -119,10 +146,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-06-14T02:38:33.064Z"
+    "fetchedAt": "2026-06-15T02:43:18.845Z"
   },
   {
-    "id": "news-1781404713065-15",
+    "id": "news-1781491398846-16",
     "title": "A Court Has Ruled That Google Is Liable for False Statements Generated by AI Overviews",
     "summary": "The ruling holds that a company that designs, trains, operates, and manages an AI system must assume legal liability for any damages caused by the responses it generates.",
     "category": "tech-innovation",
@@ -135,10 +162,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-06-14T02:38:33.065Z"
+    "fetchedAt": "2026-06-15T02:43:18.846Z"
   },
   {
-    "id": "news-1781404713064-2",
+    "id": "news-1781491398845-4",
     "title": "Anthropic’s safety warnings may have just backfired — the government has pulled the plug on its most powerful AI",
     "summary": "Anthropic isn't hiding its frustration. \"We disagree that the finding of a narrow potential jailbreak should be cause for recalling a commercial model deployed to hundreds of millions of people,\" the company wrote in a blog post.",
     "category": "ai-research",
@@ -151,10 +178,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-06-14T02:38:33.064Z"
+    "fetchedAt": "2026-06-15T02:43:18.845Z"
   },
   {
-    "id": "news-1781404713065-16",
+    "id": "news-1781491398846-17",
     "title": "Anthropic Says It’s Taking Claude Fable 5 Offline to Comply With US Government Order",
     "summary": "“The government believes it has become aware of a method of bypassing, or ‘jailbreaking’ Fable 5,” the company said in a blog post.",
     "category": "tech-innovation",
@@ -167,10 +194,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-06-14T02:38:33.065Z"
+    "fetchedAt": "2026-06-15T02:43:18.846Z"
   },
   {
-    "id": "news-1781404713065-17",
+    "id": "news-1781491398846-18",
     "title": "Meta Employees Absolutely Hate Mark Zuckerberg’s Plan for a Companywide AI Hackathon",
     "summary": "“I’m not sure that this company supports a hackathon culture anymore,” one employee posted in a forum open to the entire staff.",
     "category": "tech-innovation",
@@ -183,10 +210,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-06-14T02:38:33.065Z"
+    "fetchedAt": "2026-06-15T02:43:18.846Z"
   },
   {
-    "id": "news-1781404713064-3",
+    "id": "news-1781491398845-5",
     "title": "Meta’s months-old AI unit is a soul-crushing gulag, say the engineers stuck inside it",
     "summary": "A new report suggests the unit, which employs 6,500 people, is on the verge of revolt. ",
     "category": "ai-research",
@@ -199,10 +226,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-06-14T02:38:33.064Z"
+    "fetchedAt": "2026-06-15T02:43:18.845Z"
   },
   {
-    "id": "news-1781404713065-18",
+    "id": "news-1781491398846-19",
     "title": "‘Tell Him He’s a Piece of Shit’: Meta’s New AI Unit Is a Total Mess",
     "summary": "Executives and employees alike are struggling with Meta’s chaotic AI strategy, according to sources and internal discussions reviewed by WIRED.",
     "category": "tech-innovation",
@@ -215,10 +242,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-06-14T02:38:33.065Z"
+    "fetchedAt": "2026-06-15T02:43:18.846Z"
   },
   {
-    "id": "news-1781404713064-4",
+    "id": "news-1781491398845-6",
     "title": "Chinese cybercrime operation that used AI to scam ‘hundreds of thousands of victims’ sued by Google",
     "summary": "The tech giant said a group called \"Outsider Enterprise\" used AI to scam hundreds of thousands of victims, sending 2.5 million text messages over a span of two weeks.",
     "category": "ai-research",
@@ -231,10 +258,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-06-14T02:38:33.064Z"
+    "fetchedAt": "2026-06-15T02:43:18.845Z"
   },
   {
-    "id": "news-1781404713065-19",
+    "id": "news-1781491398846-20",
     "title": "China Didn’t Make Americans Hate Data Centers",
     "summary": "GOP lawmakers, tech investors, and even OpenAI have tied the anti-data-center movement in the US to Chinese interference. Experts say it’s much more complicated than that.",
     "category": "tech-innovation",
@@ -247,10 +274,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-06-14T02:38:33.065Z"
+    "fetchedAt": "2026-06-15T02:43:18.846Z"
   },
   {
-    "id": "news-1781404713065-23",
+    "id": "news-1781491398846-24",
     "title": "From UMG’s €1B bond sale to Warner Music’s Sureel AI acquisition… it’s MBW’s Weekly Round-up",
     "summary": "The biggest headlines from the past few days...\nSource",
     "category": "industry-news",
@@ -263,10 +290,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-06-14T02:38:33.065Z"
+    "fetchedAt": "2026-06-15T02:43:18.846Z"
   },
   {
-    "id": "news-1781404713065-24",
+    "id": "news-1781491398846-25",
     "title": "Warped Tour founder Kevin Lyman on rewarding superfans, breaking artists, and the business of festivals",
     "summary": "Kevin Lyman on the festival's past, present, and future, and the one thing he'd change about the music business.\nSource",
     "category": "industry-news",
@@ -277,39 +304,6 @@
     "imageUrl": null,
     "tags": [],
     "readTime": 1,
-    "fetchedAt": "2026-06-14T02:38:33.065Z"
-  },
-  {
-    "id": "news-1781404713064-5",
-    "title": "Cheaper, faster, and culturally aware, Avataar’s video AI is built for India’s scale",
-    "summary": "Avataar AI's distilled video model is priced at $0.005 for every second of generation.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-06-12T04:30:00.000Z",
-    "url": "https://techcrunch.com/2026/06/11/cheaper-faster-and-culturally-aware-avataars-video-ai-is-built-for-indias-scale/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-06-14T02:38:33.064Z"
-  },
-  {
-    "id": "news-1781404713064-6",
-    "title": "Jeff Bezos’s Prometheus raises $12B to build an ‘artificial general engineer’ for the physical world",
-    "summary": "The new round values the physical AI startup that aims to automate heavy engineering and drug design at $41 billion.",
-    "category": "industry-news",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-06-12T01:04:38.000Z",
-    "url": "https://techcrunch.com/2026/06/11/jeff-bezoss-prometheus-raises-12b-to-build-an-artificial-general-engineer-for-the-physical-world/",
-    "imageUrl": null,
-    "tags": [
-      "AI",
-      "Startup"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-06-14T02:38:33.064Z"
+    "fetchedAt": "2026-06-15T02:43:18.846Z"
   }
 ]
