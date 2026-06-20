@@ -1,68 +1,192 @@
 [
   {
-    "id": "news-1781837701254-32",
-    "title": "Music-Related Legislation Before Congress Right Now: Full List of Bills (UPDATING)",
-    "summary": "Billboard is keeping track of all the bills that could impact the music industry during the 119th Congress.  ",
+    "id": "news-1781922460207-31",
+    "title": "Tay Keith’s Family Pays Tribute to Late Producer: A ‘Cultural Force’ & ‘Source of Love, Strength, Laughter, Guidance’",
+    "summary": "\"We respectfully ask for privacy and continued prayers for his family and loved ones during this difficult time,\" Keith's family wrote.",
     "category": "industry-news",
     "source": "Billboard",
     "author": "Unknown",
-    "publishedAt": "2026-06-19T01:26:26.000Z",
-    "url": "https://www.billboard.com/lists/music-related-bills-congress-now-list-legislation/",
+    "publishedAt": "2026-06-19T23:31:49.000Z",
+    "url": "https://www.billboard.com/music/rb-hip-hop/tay-keith-death-producer-family-statement-1236277062/",
     "imageUrl": null,
     "tags": [],
     "readTime": 1,
-    "fetchedAt": "2026-06-19T02:55:01.254Z"
+    "fetchedAt": "2026-06-20T02:27:40.207Z"
   },
   {
-    "id": "news-1781837701254-33",
-    "title": "Tay Keith’s Death Mourned by BlocBoy JB, Hitkidd & More Fellow Musicians: ‘Thank You for Being My First Big Brother’",
-    "summary": "“You brought me places nobody asked you to bring me bro,\" BanBwoi writes to the late producer.",
+    "id": "news-1781922460207-32",
+    "title": "Bootsy Collins Signs Davie as First Artist to Bootzilla Records",
+    "summary": "The roots-soul singer made his label debut with \"Soul,\" released on Juneteenth.",
     "category": "industry-news",
     "source": "Billboard",
     "author": "Unknown",
-    "publishedAt": "2026-06-19T01:03:51.000Z",
-    "url": "https://www.billboard.com/music/rb-hip-hop/tay-keith-dead-reaction-musicians-blocboy-jb-hitkidd-1236276585/",
+    "publishedAt": "2026-06-19T19:27:10.000Z",
+    "url": "https://www.billboard.com/business/record-labels/bootsy-collins-signs-davie-first-artist-bootzilla-records-1236277059/",
     "imageUrl": null,
     "tags": [],
     "readTime": 1,
-    "fetchedAt": "2026-06-19T02:55:01.254Z"
+    "fetchedAt": "2026-06-20T02:27:40.207Z"
   },
   {
-    "id": "news-1781837701254-34",
-    "title": "Prime Day Streaming Deals: Save Up to 93% on Apple TV, Paramount+, Starz and Other Services",
-    "summary": "Amazon has popular add-on channels on sale during Prime Day — streaming deals expire on Friday (June 26).",
+    "id": "news-1781922460207-33",
+    "title": "Fuerza Regida Turns Petco Park Into a Corridos Time Machine: 6 Best Moments From Opening Night of Their Stadium Tour",
+    "summary": "The SoCal superstars launched their first-ever U.S. stadium trek with a high-concept show that moved through the band’s past, present and future.",
     "category": "industry-news",
     "source": "Billboard",
     "author": "Unknown",
-    "publishedAt": "2026-06-19T01:00:12.000Z",
-    "url": "https://www.billboard.com/culture/product-recommendations/amazon-prime-channels-deal-free-trial-9590510/",
+    "publishedAt": "2026-06-19T19:12:13.000Z",
+    "url": "https://www.billboard.com/lists/fuerza-regida-stadium-tour-san-diego-petco-park-recap/",
     "imageUrl": null,
-    "tags": [
-      "Streaming"
-    ],
+    "tags": [],
     "readTime": 1,
-    "fetchedAt": "2026-06-19T02:55:01.254Z"
+    "fetchedAt": "2026-06-20T02:27:40.207Z"
   },
   {
-    "id": "news-1781837701254-35",
-    "title": "Meet Corridos del Rey: The Colombian Artist Redefining Música Mexicana Via Faith-Based Lyrics",
-    "summary": "Discover how this viral sensation went from overcoming personal struggles to collaborating with Farruko on his \"Ayer Hablé con Dios (Remix).\"",
+    "id": "news-1781922460207-34",
+    "title": "Justin Cary, Sixpence None the Richer Bassist, Dies at 50",
+    "summary": "The band’s singer Leigh Nash confirmed Cary’s death on June 18.",
     "category": "industry-news",
     "source": "Billboard",
     "author": "Unknown",
-    "publishedAt": "2026-06-19T01:00:00.000Z",
-    "url": "https://www.billboard.com/music/latin/corridos-del-rey-ayer-hable-con-dios-remix-farruko-interivew-1236274685/",
+    "publishedAt": "2026-06-19T18:30:35.000Z",
+    "url": "https://www.billboard.com/music/music-news/justin-cary-death-sixpence-none-the-richer-bassist-dies-1236276944/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-06-20T02:27:40.207Z"
+  },
+  {
+    "id": "news-1781922460207-35",
+    "title": "Zara Larsson’s ‘Midnight Sun’ Shines at No. 1 on Billboard’s Pop Airplay Chart",
+    "summary": "She’s the first artist ever to notch two new No. 1s on the chart in back-to-back weeks, following “Stateside” with PinkPantheress.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-06-19T17:05:43.000Z",
+    "url": "https://www.billboard.com/music/chart-beat/zara-larsson-midnight-sun-number-one-pop-airplay-chart-1236276941/",
     "imageUrl": null,
     "tags": [
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-06-19T02:55:01.254Z"
+    "fetchedAt": "2026-06-20T02:27:40.207Z"
   },
   {
-    "id": "news-1781837701253-0",
-    "title": "Source: Elastic agrees to buy CRV-backed DeductiveAI for up to $85M",
-    "summary": "DeductiveAI, a startup that uses AI to catch and resolve bugs in software, was founded just three years ago. ",
+    "id": "news-1781922460207-36",
+    "title": "Reggaeton Beach Festival Cancels Its 2026 Edition Citing ‘Economic & Operational Circumstances’",
+    "summary": "The events scheduled in Spain for Barcelona, ​​Madrid, Tenerife, Mallorca, Santander, Nigrán and Alicante will not take place, following the decision announced by the organizers.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-06-19T17:03:52.000Z",
+    "url": "https://www.billboard.com/music/latin/reggaeton-beach-festival-2026-canceled-1236276937/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-06-20T02:27:40.207Z"
+  },
+  {
+    "id": "news-1781922460207-37",
+    "title": "Songs With the Most Weeks Atop All of Billboard’s Airplay Charts Combined: Alex Warren’s ‘Ordinary’ & More",
+    "summary": "Warren’s smash has taken the baton from Miley Cyrus’ “Flowers.”",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-06-19T16:19:55.000Z",
+    "url": "https://www.billboard.com/lists/miley-cyrus-songs-most-weeks-number-one-airplay-charts/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-06-20T02:27:40.207Z"
+  },
+  {
+    "id": "news-1781922460205-0",
+    "title": "Billionaire Ambani wants AI in every call, app, and home",
+    "summary": "Reliance is weaving AI into telecom services used by more than 500 million people.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-06-19T15:23:28.000Z",
+    "url": "https://techcrunch.com/2026/06/19/billionaire-ambani-wants-ai-in-every-call-app-and-home/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-06-20T02:27:40.205Z"
+  },
+  {
+    "id": "news-1781922460205-1",
+    "title": "The CEO of Allbirds’ new AI biz has a plan, but no team",
+    "summary": "Call it a startup with a sole founder and a very large seed round, but what's next is less clear.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-06-19T13:00:00.000Z",
+    "url": "https://techcrunch.com/2026/06/19/the-ceo-of-allbirds-new-ai-biz-has-a-plan-but-no-employees/",
+    "imageUrl": null,
+    "tags": [
+      "AI",
+      "Startup"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-06-20T02:27:40.205Z"
+  },
+  {
+    "id": "news-1781922460207-24",
+    "title": "Major labels in Canada win site-blocking order targeting stream-ripping platforms – a first for the country’s music industry",
+    "summary": "ISPs are ordered to block stream-ripping domains including Y2mate.ws, YTmp3.lat, Savefrom.space, and Spowload.cc.\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-06-19T11:52:01.000Z",
+    "url": "https://www.musicbusinessworldwide.com/major-labels-in-canada-win-site-blocking-order-targeting-stream-ripping-platforms-a-first-for-the-countrys-music-industry/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-06-20T02:27:40.207Z"
+  },
+  {
+    "id": "news-1781922460207-25",
+    "title": "Japan passes copyright reform giving performers and record companies royalties when recordings play in public, including overseas",
+    "summary": "Until now, only songwriters, composers and music publishers were paid when their music was played as background music in Japanese venues.\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-06-19T10:57:35.000Z",
+    "url": "https://www.musicbusinessworldwide.com/japan-passes-copyright-reform-giving-performers-and-record-companies-royalties-when-recordings-play-in-public-including-overseas/",
+    "imageUrl": null,
+    "tags": [
+      "AI",
+      "Copyright"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-06-20T02:27:40.207Z"
+  },
+  {
+    "id": "news-1781922460207-26",
+    "title": "Adam Tiran named General Manager of Warner Music’s Africori as founder Yoel Kenan steps down as CEO",
+    "summary": "WMG was fully acquired Africori in 2025\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-06-19T10:21:50.000Z",
+    "url": "https://www.musicbusinessworldwide.com/adam-tiran-named-general-manager-of-warner-musics-africori-as-founder-yoel-kenan-steps-down-as-ceo/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-06-20T02:27:40.207Z"
+  },
+  {
+    "id": "news-1781922460205-2",
+    "title": "Source: Elastic agrees to buy CRV-backed Deductive AI for up to $85M",
+    "summary": "Deductive AI, a startup that uses AI to catch and resolve bugs in software, was founded just three years ago. ",
     "category": "ai-research",
     "source": "TechCrunch AI",
     "author": "Unknown",
@@ -74,72 +198,10 @@
       "Startup"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-06-19T02:55:01.253Z"
+    "fetchedAt": "2026-06-20T02:27:40.205Z"
   },
   {
-    "id": "news-1781837701254-36",
-    "title": "Get a Walmart+ Subscription for $1 to Unlock Free Streaming, Free Shipping and Members-Only Discounts",
-    "summary": "Attention, bargain shoppers: here's how to join Walmart+ for the lowest price yet.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-06-19T00:17:00.000Z",
-    "url": "https://www.billboard.com/shop/walmart-plus-membership-deal-how-to-subscribe-1235367883/",
-    "imageUrl": null,
-    "tags": [
-      "AI",
-      "Streaming"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-06-19T02:55:01.254Z"
-  },
-  {
-    "id": "news-1781837701254-37",
-    "title": "The Deals: Chaka Khan Enjoys the HarbourView; REPUBLIC Teams With ZIZA for South Asian Artist Label",
-    "summary": "Other recent deals include Live Nation's acquisition of a majority stake in a Buenos Aires arena and UMG's partnership with a Thai music distributor.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-06-18T23:51:54.000Z",
-    "url": "https://www.billboard.com/lists/chaka-khan-harbourview-music-industry-deals/",
-    "imageUrl": null,
-    "tags": [
-      "AI",
-      "Partnership"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-06-19T02:55:01.254Z"
-  },
-  {
-    "id": "news-1781837701254-38",
-    "title": "Billboard’s Music Industry Events Calendar",
-    "summary": "A complete rundown of the most important events across the music business.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-06-18T22:54:00.000Z",
-    "url": "https://www.billboard.com/pro/music-industry-events-calendar-festivals-awards-conferences/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-06-19T02:55:01.254Z"
-  },
-  {
-    "id": "news-1781837701254-39",
-    "title": "Tay Keith, Hitmaking Memphis Producer, Found Dead at Age 29",
-    "summary": "Keith was known for producing Hot 100 chart-toppers, including Travis Scott's \"Sicko Mode\" and Drake's \"First Person Shooter.\" ",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-06-18T22:36:46.000Z",
-    "url": "https://www.billboard.com/music/rb-hip-hop/tay-keith-dead-producer-1236276499/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-06-19T02:55:01.254Z"
-  },
-  {
-    "id": "news-1781837701253-1",
+    "id": "news-1781922460205-3",
     "title": "AI inference startup Baseten reportedly raising $1.5B months after its last mega-round",
     "summary": "Startup Baseten is reportedly close to finalizing a $1.5 billion round at a $13 billion as the “inference gold rush\" marches on.",
     "category": "ai-research",
@@ -153,10 +215,10 @@
       "Startup"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-06-19T02:55:01.253Z"
+    "fetchedAt": "2026-06-20T02:27:40.205Z"
   },
   {
-    "id": "news-1781837701254-21",
+    "id": "news-1781922460206-19",
     "title": "The White House Is Making Up Its Rules for AI in Real Time",
     "summary": "Anthropic still can’t distribute Claude Mythos or Fable 5 after running afoul of the Trump administration. But no one can say exactly what the company did wrong.",
     "category": "tech-innovation",
@@ -169,10 +231,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-06-19T02:55:01.254Z"
+    "fetchedAt": "2026-06-20T02:27:40.206Z"
   },
   {
-    "id": "news-1781837701253-2",
+    "id": "news-1781922460205-4",
     "title": "Snap spins off AI video team into new company, Dotmo, due to costs",
     "summary": "The Snapchat maker is spinning off yet another internal unit. Dotmo will be composed of current Snap staff who are leaving the social media company to focus on AI video development.  ",
     "category": "ai-research",
@@ -185,10 +247,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-06-19T02:55:01.253Z"
+    "fetchedAt": "2026-06-20T02:27:40.205Z"
   },
   {
-    "id": "news-1781837701253-3",
+    "id": "news-1781922460205-5",
     "title": "OpenAI is bringing on some big guns in the lead-up to its IPO",
     "summary": "OpenAI is bulking up before its IPO, landing Transformer co-inventor Noam Shazeer from Google DeepMind and former Trump AI policy official Dean Ball in the same week.",
     "category": "ai-research",
@@ -201,10 +263,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-06-19T02:55:01.254Z"
+    "fetchedAt": "2026-06-20T02:27:40.205Z"
   },
   {
-    "id": "news-1781837701254-26",
+    "id": "news-1781922460207-27",
     "title": "Project 91 launches Playgrounds, a live experiences platform backed by Justin Kalifowitz’s Klaf Companies",
     "summary": "The New York-based events company confirmed that Playgrounds will serve as an umbrella platform for concerts, branded experiences, and destination events\nSource",
     "category": "industry-news",
@@ -215,10 +277,10 @@
     "imageUrl": null,
     "tags": [],
     "readTime": 1,
-    "fetchedAt": "2026-06-19T02:55:01.254Z"
+    "fetchedAt": "2026-06-20T02:27:40.207Z"
   },
   {
-    "id": "news-1781837701254-22",
+    "id": "news-1781922460206-20",
     "title": "Meta’s AI Workers Are Revolting, Peter Thiel’s Secret Society, and SBF’s Plea to Trump",
     "summary": "On today’s Uncanny Valley, we dive into the dysfunction in Meta’s newly formed AI unit and why it’s been driving already-low employee morale even further into the ground.",
     "category": "tech-innovation",
@@ -231,10 +293,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-06-19T02:55:01.254Z"
+    "fetchedAt": "2026-06-20T02:27:40.206Z"
   },
   {
-    "id": "news-1781837701254-4",
+    "id": "news-1781922460206-6",
     "title": "Almost half of US singles feel negatively about AI in dating, Match says",
     "summary": "About 47% of singles look negatively at the use of AI in dating -- but many dating app users are open to AI helping with profile punch-ups and conversation starters.",
     "category": "ai-research",
@@ -247,70 +309,6 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-06-19T02:55:01.254Z"
-  },
-  {
-    "id": "news-1781837701254-5",
-    "title": "Amazon hopes to challenge Nvidia more directly by selling its AI chips",
-    "summary": "AWS is in talks to sell its chips to other data centers. CEO Andy Jassy has said this represents a $50 billion opportunity for the company.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-06-18T18:22:13.000Z",
-    "url": "https://techcrunch.com/2026/06/18/amazon-hopes-to-challenge-nvidia-more-directly-by-selling-its-ai-chips/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-06-19T02:55:01.254Z"
-  },
-  {
-    "id": "news-1781837701254-27",
-    "title": "Elon Musk’s X moves to dismiss music publishers’ $250M+ copyright lawsuit, arguing Supreme Court’s Cox ruling ‘forecloses’ the case",
-    "summary": "The motion is the latest development in a copyright battle that dates back to June 2023\nSource",
-    "category": "industry-news",
-    "source": "Music Business Worldwide",
-    "author": "Unknown",
-    "publishedAt": "2026-06-18T18:00:06.000Z",
-    "url": "https://www.musicbusinessworldwide.com/elon-musks-x-moves-to-dismiss-music-publishers-250m-copyright-lawsuit-arguing-supreme-courts-cox-ruling-forecloses-the-case/",
-    "imageUrl": null,
-    "tags": [
-      "Copyright"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-06-19T02:55:01.254Z"
-  },
-  {
-    "id": "news-1781837701254-6",
-    "title": "AI data centers just got a government-mandated fast lane to the grid",
-    "summary": "FERC told grid operators to give data centers a fast lane for interconnections, but it failed to address electricity supply shortages.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-06-18T17:49:23.000Z",
-    "url": "https://techcrunch.com/2026/06/18/ai-data-centers-just-got-a-government-mandated-fast-lane-to-the-grid/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-06-19T02:55:01.254Z"
-  },
-  {
-    "id": "news-1781837701254-7",
-    "title": "‘Queer Eye’s’ life coach Karamo Brown launches Kē, a wellness app featuring his AI digital clone",
-    "summary": "Karamo Brown, famous for his pep talks on Netflix’s “Queer Eye,” has jumped into the wellness and AI space with his new app, Kē. After spending a year and a half focusing on his own journey—from fitness and nutrition to meditation, sobriety, relationships, and personal growth—Brown wants to help others do the same.  Kē offers […]",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-06-18T16:55:04.000Z",
-    "url": "https://techcrunch.com/2026/06/18/queer-eyes-life-coach-karamo-brown-launches-ke-a-wellness-app-featuring-his-ai-digital-clone/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-06-19T02:55:01.254Z"
+    "fetchedAt": "2026-06-20T02:27:40.206Z"
   }
 ]
