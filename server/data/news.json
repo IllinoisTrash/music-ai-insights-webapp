@@ -1,6 +1,108 @@
 [
   {
-    "id": "news-1781922460207-31",
+    "id": "news-1782009693271-31",
+    "title": "Ariana Grande Announces Full ‘Petal’ Tracklist",
+    "summary": "All 12 song titles have been revealed for the album, which arrives July 31.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-06-20T22:25:24.000Z",
+    "url": "https://www.billboard.com/music/music-news/ariana-grande-petal-tracklist-songs-1236277122/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-06-21T02:41:33.271Z"
+  },
+  {
+    "id": "news-1782009693269-0",
+    "title": "Signal’s Meredith Whittaker wants you to remember that AI chatbots ‘are not your friends’",
+    "summary": "\"These are not your friends. These are not conscious beings. These are not sentient interlocutors.”",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-06-20T20:32:29.000Z",
+    "url": "https://techcrunch.com/2026/06/20/signals-meredith-whittaker-wants-you-to-remember-that-ai-chatbots-are-not-your-friends/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-06-21T02:41:33.270Z"
+  },
+  {
+    "id": "news-1782009693271-32",
+    "title": "Ella Langley Says God, Not Men or Drugs, Is Her ‘One North Star’ in Powerful Onstage Speech",
+    "summary": "The country star's heartfelt message came during her June 18 concert in Oklahoma City.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-06-20T20:25:40.000Z",
+    "url": "https://www.billboard.com/music/country/ella-langley-god-north-star-oklahoma-concert-speech-1236277119/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-06-21T02:41:33.271Z"
+  },
+  {
+    "id": "news-1782009693271-33",
+    "title": "Ye Drops ‘Bully’ Deluxe Edition Featuring New Don Toliver Song, Shares Surreal ‘Kings’ Video",
+    "summary": "The expanded edition of the rapper’s 12th album includes two new tracks.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-06-20T18:18:43.000Z",
+    "url": "https://www.billboard.com/music/rb-hip-hop/kanye-west-bully-deluxe-edition-don-toliver-kings-video-1236277110/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-06-21T02:41:33.271Z"
+  },
+  {
+    "id": "news-1782009693271-34",
+    "title": "Drake Pays Tribute to Tay Keith After Producer’s Death: ‘Endless and Eternal Gratitude’",
+    "summary": "The Memphis hitmaker produced Drake's chart-topping song \"First Person Shooter.\"",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-06-20T15:52:00.000Z",
+    "url": "https://www.billboard.com/music/rb-hip-hop/drake-tay-keith-tribute-producer-death-1236277098/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-06-21T02:41:33.271Z"
+  },
+  {
+    "id": "news-1782009693271-19",
+    "title": "Siri AI Hands On: A Smart, Helpful Assistant",
+    "summary": "The new Siri AI is conversational, omnipresent, and actually helpful.",
+    "category": "tech-innovation",
+    "source": "Wired AI",
+    "author": "Unknown",
+    "publishedAt": "2026-06-20T10:00:00.000Z",
+    "url": "https://www.wired.com/story/siri-ai-hands-on-iphone/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-06-21T02:41:33.271Z"
+  },
+  {
+    "id": "news-1782009693271-35",
+    "title": "Ken Carson Sets July Release Date for New Album ‘xperiment’",
+    "summary": "xperiment follows Carson's 2025 Billboard 200 No. 1 album, More Chaos.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-06-20T04:59:12.000Z",
+    "url": "https://www.billboard.com/music/rb-hip-hop/ken-carson-new-album-xperiment-1236277078/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-06-21T02:41:33.271Z"
+  },
+  {
+    "id": "news-1782009693271-36",
     "title": "Tay Keith’s Family Pays Tribute to Late Producer: A ‘Cultural Force’ & ‘Source of Love, Strength, Laughter, Guidance’",
     "summary": "\"We respectfully ask for privacy and continued prayers for his family and loved ones during this difficult time,\" Keith's family wrote.",
     "category": "industry-news",
@@ -11,100 +113,10 @@
     "imageUrl": null,
     "tags": [],
     "readTime": 1,
-    "fetchedAt": "2026-06-20T02:27:40.207Z"
+    "fetchedAt": "2026-06-21T02:41:33.271Z"
   },
   {
-    "id": "news-1781922460207-32",
-    "title": "Bootsy Collins Signs Davie as First Artist to Bootzilla Records",
-    "summary": "The roots-soul singer made his label debut with \"Soul,\" released on Juneteenth.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-06-19T19:27:10.000Z",
-    "url": "https://www.billboard.com/business/record-labels/bootsy-collins-signs-davie-first-artist-bootzilla-records-1236277059/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-06-20T02:27:40.207Z"
-  },
-  {
-    "id": "news-1781922460207-33",
-    "title": "Fuerza Regida Turns Petco Park Into a Corridos Time Machine: 6 Best Moments From Opening Night of Their Stadium Tour",
-    "summary": "The SoCal superstars launched their first-ever U.S. stadium trek with a high-concept show that moved through the band’s past, present and future.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-06-19T19:12:13.000Z",
-    "url": "https://www.billboard.com/lists/fuerza-regida-stadium-tour-san-diego-petco-park-recap/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-06-20T02:27:40.207Z"
-  },
-  {
-    "id": "news-1781922460207-34",
-    "title": "Justin Cary, Sixpence None the Richer Bassist, Dies at 50",
-    "summary": "The band’s singer Leigh Nash confirmed Cary’s death on June 18.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-06-19T18:30:35.000Z",
-    "url": "https://www.billboard.com/music/music-news/justin-cary-death-sixpence-none-the-richer-bassist-dies-1236276944/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-06-20T02:27:40.207Z"
-  },
-  {
-    "id": "news-1781922460207-35",
-    "title": "Zara Larsson’s ‘Midnight Sun’ Shines at No. 1 on Billboard’s Pop Airplay Chart",
-    "summary": "She’s the first artist ever to notch two new No. 1s on the chart in back-to-back weeks, following “Stateside” with PinkPantheress.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-06-19T17:05:43.000Z",
-    "url": "https://www.billboard.com/music/chart-beat/zara-larsson-midnight-sun-number-one-pop-airplay-chart-1236276941/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-06-20T02:27:40.207Z"
-  },
-  {
-    "id": "news-1781922460207-36",
-    "title": "Reggaeton Beach Festival Cancels Its 2026 Edition Citing ‘Economic & Operational Circumstances’",
-    "summary": "The events scheduled in Spain for Barcelona, ​​Madrid, Tenerife, Mallorca, Santander, Nigrán and Alicante will not take place, following the decision announced by the organizers.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-06-19T17:03:52.000Z",
-    "url": "https://www.billboard.com/music/latin/reggaeton-beach-festival-2026-canceled-1236276937/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-06-20T02:27:40.207Z"
-  },
-  {
-    "id": "news-1781922460207-37",
-    "title": "Songs With the Most Weeks Atop All of Billboard’s Airplay Charts Combined: Alex Warren’s ‘Ordinary’ & More",
-    "summary": "Warren’s smash has taken the baton from Miley Cyrus’ “Flowers.”",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-06-19T16:19:55.000Z",
-    "url": "https://www.billboard.com/lists/miley-cyrus-songs-most-weeks-number-one-airplay-charts/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-06-20T02:27:40.207Z"
-  },
-  {
-    "id": "news-1781922460205-0",
+    "id": "news-1782009693270-1",
     "title": "Billionaire Ambani wants AI in every call, app, and home",
     "summary": "Reliance is weaving AI into telecom services used by more than 500 million people.",
     "category": "ai-research",
@@ -117,10 +129,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-06-20T02:27:40.205Z"
+    "fetchedAt": "2026-06-21T02:41:33.270Z"
   },
   {
-    "id": "news-1781922460205-1",
+    "id": "news-1782009693270-2",
     "title": "The CEO of Allbirds’ new AI biz has a plan, but no team",
     "summary": "Call it a startup with a sole founder and a very large seed round, but what's next is less clear.",
     "category": "ai-research",
@@ -134,10 +146,10 @@
       "Startup"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-06-20T02:27:40.205Z"
+    "fetchedAt": "2026-06-21T02:41:33.270Z"
   },
   {
-    "id": "news-1781922460207-24",
+    "id": "news-1782009693271-24",
     "title": "Major labels in Canada win site-blocking order targeting stream-ripping platforms – a first for the country’s music industry",
     "summary": "ISPs are ordered to block stream-ripping domains including Y2mate.ws, YTmp3.lat, Savefrom.space, and Spowload.cc.\nSource",
     "category": "industry-news",
@@ -150,10 +162,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-06-20T02:27:40.207Z"
+    "fetchedAt": "2026-06-21T02:41:33.271Z"
   },
   {
-    "id": "news-1781922460207-25",
+    "id": "news-1782009693271-25",
     "title": "Japan passes copyright reform giving performers and record companies royalties when recordings play in public, including overseas",
     "summary": "Until now, only songwriters, composers and music publishers were paid when their music was played as background music in Japanese venues.\nSource",
     "category": "industry-news",
@@ -167,10 +179,10 @@
       "Copyright"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-06-20T02:27:40.207Z"
+    "fetchedAt": "2026-06-21T02:41:33.271Z"
   },
   {
-    "id": "news-1781922460207-26",
+    "id": "news-1782009693271-26",
     "title": "Adam Tiran named General Manager of Warner Music’s Africori as founder Yoel Kenan steps down as CEO",
     "summary": "WMG was fully acquired Africori in 2025\nSource",
     "category": "industry-news",
@@ -181,10 +193,10 @@
     "imageUrl": null,
     "tags": [],
     "readTime": 1,
-    "fetchedAt": "2026-06-20T02:27:40.207Z"
+    "fetchedAt": "2026-06-21T02:41:33.271Z"
   },
   {
-    "id": "news-1781922460205-2",
+    "id": "news-1782009693270-3",
     "title": "Source: Elastic agrees to buy CRV-backed Deductive AI for up to $85M",
     "summary": "Deductive AI, a startup that uses AI to catch and resolve bugs in software, was founded just three years ago. ",
     "category": "ai-research",
@@ -198,10 +210,10 @@
       "Startup"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-06-20T02:27:40.205Z"
+    "fetchedAt": "2026-06-21T02:41:33.270Z"
   },
   {
-    "id": "news-1781922460205-3",
+    "id": "news-1782009693270-4",
     "title": "AI inference startup Baseten reportedly raising $1.5B months after its last mega-round",
     "summary": "Startup Baseten is reportedly close to finalizing a $1.5 billion round at a $13 billion as the “inference gold rush\" marches on.",
     "category": "ai-research",
@@ -215,10 +227,10 @@
       "Startup"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-06-20T02:27:40.205Z"
+    "fetchedAt": "2026-06-21T02:41:33.270Z"
   },
   {
-    "id": "news-1781922460206-19",
+    "id": "news-1782009693271-20",
     "title": "The White House Is Making Up Its Rules for AI in Real Time",
     "summary": "Anthropic still can’t distribute Claude Mythos or Fable 5 after running afoul of the Trump administration. But no one can say exactly what the company did wrong.",
     "category": "tech-innovation",
@@ -231,10 +243,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-06-20T02:27:40.206Z"
+    "fetchedAt": "2026-06-21T02:41:33.271Z"
   },
   {
-    "id": "news-1781922460205-4",
+    "id": "news-1782009693270-5",
     "title": "Snap spins off AI video team into new company, Dotmo, due to costs",
     "summary": "The Snapchat maker is spinning off yet another internal unit. Dotmo will be composed of current Snap staff who are leaving the social media company to focus on AI video development.  ",
     "category": "ai-research",
@@ -247,10 +259,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-06-20T02:27:40.205Z"
+    "fetchedAt": "2026-06-21T02:41:33.270Z"
   },
   {
-    "id": "news-1781922460205-5",
+    "id": "news-1782009693270-6",
     "title": "OpenAI is bringing on some big guns in the lead-up to its IPO",
     "summary": "OpenAI is bulking up before its IPO, landing Transformer co-inventor Noam Shazeer from Google DeepMind and former Trump AI policy official Dean Ball in the same week.",
     "category": "ai-research",
@@ -263,10 +275,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-06-20T02:27:40.205Z"
+    "fetchedAt": "2026-06-21T02:41:33.270Z"
   },
   {
-    "id": "news-1781922460207-27",
+    "id": "news-1782009693271-27",
     "title": "Project 91 launches Playgrounds, a live experiences platform backed by Justin Kalifowitz’s Klaf Companies",
     "summary": "The New York-based events company confirmed that Playgrounds will serve as an umbrella platform for concerts, branded experiences, and destination events\nSource",
     "category": "industry-news",
@@ -277,10 +289,10 @@
     "imageUrl": null,
     "tags": [],
     "readTime": 1,
-    "fetchedAt": "2026-06-20T02:27:40.207Z"
+    "fetchedAt": "2026-06-21T02:41:33.271Z"
   },
   {
-    "id": "news-1781922460206-20",
+    "id": "news-1782009693271-21",
     "title": "Meta’s AI Workers Are Revolting, Peter Thiel’s Secret Society, and SBF’s Plea to Trump",
     "summary": "On today’s Uncanny Valley, we dive into the dysfunction in Meta’s newly formed AI unit and why it’s been driving already-low employee morale even further into the ground.",
     "category": "tech-innovation",
@@ -293,22 +305,6 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-06-20T02:27:40.206Z"
-  },
-  {
-    "id": "news-1781922460206-6",
-    "title": "Almost half of US singles feel negatively about AI in dating, Match says",
-    "summary": "About 47% of singles look negatively at the use of AI in dating -- but many dating app users are open to AI helping with profile punch-ups and conversation starters.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-06-18T18:51:46.000Z",
-    "url": "https://techcrunch.com/2026/06/18/almost-half-of-u-s-singles-feel-negatively-about-ai-in-dating-match-says/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-06-20T02:27:40.206Z"
+    "fetchedAt": "2026-06-21T02:41:33.271Z"
   }
 ]
