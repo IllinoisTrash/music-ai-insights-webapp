@@ -1,20 +1,168 @@
 [
   {
-    "id": "news-1782009693271-31",
-    "title": "Ariana Grande Announces Full ‘Petal’ Tracklist",
-    "summary": "All 12 song titles have been revealed for the album, which arrives July 31.",
+    "id": "news-1782096275660-32",
+    "title": "Ye’s July 4 Concert Should Be Canceled, San Antonio Mayor Says",
+    "summary": "West's Fourth of July stadium show is scheduled to go on at the Alamodome downtown.",
     "category": "industry-news",
     "source": "Billboard",
     "author": "Unknown",
-    "publishedAt": "2026-06-20T22:25:24.000Z",
-    "url": "https://www.billboard.com/music/music-news/ariana-grande-petal-tracklist-songs-1236277122/",
+    "publishedAt": "2026-06-21T22:30:54.000Z",
+    "url": "https://www.billboard.com/music/music-news/kanye-west-july-4-concert-san-antonio-mayor-cancel-1236277359/",
     "imageUrl": null,
     "tags": [],
     "readTime": 1,
-    "fetchedAt": "2026-06-21T02:41:33.271Z"
+    "fetchedAt": "2026-06-22T02:44:35.660Z"
   },
   {
-    "id": "news-1782009693269-0",
+    "id": "news-1782096275660-33",
+    "title": "‘Michael’ Pulls Further Ahead of ‘Bohemian Rhapsody’ as Top-Grossing Music Biopic Worldwide: See the Top 25",
+    "summary": "It's closing in on Oppenheimer as the top-grossing biopic, period.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-06-21T19:46:09.000Z",
+    "url": "https://www.billboard.com/lists/top-grossing-music-biopics-movies/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-06-22T02:44:35.660Z"
+  },
+  {
+    "id": "news-1782096275660-34",
+    "title": "Rod Stewart Uses Oxygen Tank During Concert After Nearly Fainting Onstage",
+    "summary": "\"The show must go on,\" the 81-year-old rocker told the Utah crowd.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-06-21T19:43:24.000Z",
+    "url": "https://www.billboard.com/music/music-news/rod-stewart-uses-oxygen-tank-after-nearly-fainting-onstage-1236277350/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-06-22T02:44:35.660Z"
+  },
+  {
+    "id": "news-1782096275660-35",
+    "title": "Olivia Rodrigo Scores Third No. 1 Album on Billboard 200 With ‘You Seem Pretty Sad for a Girl So in Love’",
+    "summary": " The set launches with year’s biggest week by units for a soloist.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-06-21T19:00:04.000Z",
+    "url": "https://www.billboard.com/music/chart-beat/olivia-rodrigo-you-seem-pretty-sad-number-one-billboard-200-1236277283/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-06-22T02:44:35.660Z"
+  },
+  {
+    "id": "news-1782096275660-36",
+    "title": "‘Toy Story 5’ Scores Year’s Biggest Opening With Franchise-Best $160 Million",
+    "summary": "The fifth installment in the Pixar series features a new song by Taylor Swift.",
+    "category": "ai-research",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-06-21T18:00:43.000Z",
+    "url": "https://www.billboard.com/culture/tv-film/toy-story-5-number-one-box-office-160-million-opening-1236277343/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-06-22T02:44:35.660Z"
+  },
+  {
+    "id": "news-1782096275660-37",
+    "title": "Fan Dies After Falling From Balcony During Goose Concert at Madison Square Garden",
+    "summary": "\"We are deeply saddened and heartbroken to learn of the tragic event that occurred at tonight’s show,\" the band wrote.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-06-21T17:32:10.000Z",
+    "url": "https://www.billboard.com/music/music-news/fan-dies-falling-balcony-madison-square-garden-concert-1236277324/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-06-22T02:44:35.660Z"
+  },
+  {
+    "id": "news-1782096275660-38",
+    "title": "Ed Sheeran’s Dynamic, Hit-Filled Nashville Show: 5 Best Moments",
+    "summary": "Billboard highlights the top moments from Sheeran's Loop Tour concert at Nissan Stadium.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-06-21T17:11:36.000Z",
+    "url": "https://www.billboard.com/lists/ed-sheeran-nashville-concert-loop-tour-best-moments/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-06-22T02:44:35.660Z"
+  },
+  {
+    "id": "news-1782096275660-39",
+    "title": "Ed Sheeran’s Nissan Stadium Setlist: Every Song Performed in Nashville",
+    "summary": "The four-time Grammy winner offered up a solid slate of hits when he brought his Loop Tour to Music City.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-06-21T16:37:16.000Z",
+    "url": "https://www.billboard.com/lists/ed-sheerans-nissan-stadium-setlist-every-song-nashville/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-06-22T02:44:35.660Z"
+  },
+  {
+    "id": "news-1782096275658-0",
+    "title": "When the Trump administration cracks down on Anthropic, who benefits?",
+    "summary": "On the new episode of Equity, we discussed what actually prompted the administration's latest moves against Anthropic, and what this might mean for the AI ecosystem.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-06-21T15:28:17.000Z",
+    "url": "https://techcrunch.com/2026/06/21/when-the-trump-administration-cracks-down-on-anthropic-who-benefits/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-06-22T02:44:35.658Z"
+  },
+  {
+    "id": "news-1782096275658-1",
+    "title": "Beyond Siri: Here are the practical AI features coming to your iPhone in iOS 27",
+    "summary": "Siri’s AI overhaul may have grabbed the headlines at WWDC, but some of Apple’s most useful AI features are arriving elsewhere in iOS 27. ",
+    "category": "tech-innovation",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-06-21T14:40:28.000Z",
+    "url": "https://techcrunch.com/2026/06/21/beyond-siri-here-are-the-practical-ai-features-coming-to-your-iphone-in-ios-27/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-06-22T02:44:35.658Z"
+  },
+  {
+    "id": "news-1782096275659-19",
+    "title": "28 Tips to Take Your ChatGPT Prompts to the Next Level",
+    "summary": "Sure, anyone can use OpenAI’s chatbot. But with smart engineering, you can get way more interesting results.",
+    "category": "ai-research",
+    "source": "Wired AI",
+    "author": "Unknown",
+    "publishedAt": "2026-06-21T10:30:00.000Z",
+    "url": "https://www.wired.com/story/28-tips-to-take-your-chatgpt-prompts-to-the-next-level/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-06-22T02:44:35.659Z"
+  },
+  {
+    "id": "news-1782096275658-2",
     "title": "Signal’s Meredith Whittaker wants you to remember that AI chatbots ‘are not your friends’",
     "summary": "\"These are not your friends. These are not conscious beings. These are not sentient interlocutors.”",
     "category": "ai-research",
@@ -27,52 +175,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-06-21T02:41:33.270Z"
+    "fetchedAt": "2026-06-22T02:44:35.658Z"
   },
   {
-    "id": "news-1782009693271-32",
-    "title": "Ella Langley Says God, Not Men or Drugs, Is Her ‘One North Star’ in Powerful Onstage Speech",
-    "summary": "The country star's heartfelt message came during her June 18 concert in Oklahoma City.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-06-20T20:25:40.000Z",
-    "url": "https://www.billboard.com/music/country/ella-langley-god-north-star-oklahoma-concert-speech-1236277119/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-06-21T02:41:33.271Z"
-  },
-  {
-    "id": "news-1782009693271-33",
-    "title": "Ye Drops ‘Bully’ Deluxe Edition Featuring New Don Toliver Song, Shares Surreal ‘Kings’ Video",
-    "summary": "The expanded edition of the rapper’s 12th album includes two new tracks.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-06-20T18:18:43.000Z",
-    "url": "https://www.billboard.com/music/rb-hip-hop/kanye-west-bully-deluxe-edition-don-toliver-kings-video-1236277110/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-06-21T02:41:33.271Z"
-  },
-  {
-    "id": "news-1782009693271-34",
-    "title": "Drake Pays Tribute to Tay Keith After Producer’s Death: ‘Endless and Eternal Gratitude’",
-    "summary": "The Memphis hitmaker produced Drake's chart-topping song \"First Person Shooter.\"",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-06-20T15:52:00.000Z",
-    "url": "https://www.billboard.com/music/rb-hip-hop/drake-tay-keith-tribute-producer-death-1236277098/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-06-21T02:41:33.271Z"
-  },
-  {
-    "id": "news-1782009693271-19",
+    "id": "news-1782096275659-20",
     "title": "Siri AI Hands On: A Smart, Helpful Assistant",
     "summary": "The new Siri AI is conversational, omnipresent, and actually helpful.",
     "category": "tech-innovation",
@@ -85,38 +191,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-06-21T02:41:33.271Z"
+    "fetchedAt": "2026-06-22T02:44:35.660Z"
   },
   {
-    "id": "news-1782009693271-35",
-    "title": "Ken Carson Sets July Release Date for New Album ‘xperiment’",
-    "summary": "xperiment follows Carson's 2025 Billboard 200 No. 1 album, More Chaos.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-06-20T04:59:12.000Z",
-    "url": "https://www.billboard.com/music/rb-hip-hop/ken-carson-new-album-xperiment-1236277078/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-06-21T02:41:33.271Z"
-  },
-  {
-    "id": "news-1782009693271-36",
-    "title": "Tay Keith’s Family Pays Tribute to Late Producer: A ‘Cultural Force’ & ‘Source of Love, Strength, Laughter, Guidance’",
-    "summary": "\"We respectfully ask for privacy and continued prayers for his family and loved ones during this difficult time,\" Keith's family wrote.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-06-19T23:31:49.000Z",
-    "url": "https://www.billboard.com/music/rb-hip-hop/tay-keith-death-producer-family-statement-1236277062/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-06-21T02:41:33.271Z"
-  },
-  {
-    "id": "news-1782009693270-1",
+    "id": "news-1782096275658-3",
     "title": "Billionaire Ambani wants AI in every call, app, and home",
     "summary": "Reliance is weaving AI into telecom services used by more than 500 million people.",
     "category": "ai-research",
@@ -129,11 +207,11 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-06-21T02:41:33.270Z"
+    "fetchedAt": "2026-06-22T02:44:35.658Z"
   },
   {
-    "id": "news-1782009693270-2",
-    "title": "The CEO of Allbirds’ new AI biz has a plan, but no team",
+    "id": "news-1782096275658-4",
+    "title": "The CEO of Allbirds’ new AI biz has a plan. Now she needs a “brand-new team”",
     "summary": "Call it a startup with a sole founder and a very large seed round, but what's next is less clear.",
     "category": "ai-research",
     "source": "TechCrunch AI",
@@ -146,10 +224,10 @@
       "Startup"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-06-21T02:41:33.270Z"
+    "fetchedAt": "2026-06-22T02:44:35.659Z"
   },
   {
-    "id": "news-1782009693271-24",
+    "id": "news-1782096275660-25",
     "title": "Major labels in Canada win site-blocking order targeting stream-ripping platforms – a first for the country’s music industry",
     "summary": "ISPs are ordered to block stream-ripping domains including Y2mate.ws, YTmp3.lat, Savefrom.space, and Spowload.cc.\nSource",
     "category": "industry-news",
@@ -162,10 +240,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-06-21T02:41:33.271Z"
+    "fetchedAt": "2026-06-22T02:44:35.660Z"
   },
   {
-    "id": "news-1782009693271-25",
+    "id": "news-1782096275660-26",
     "title": "Japan passes copyright reform giving performers and record companies royalties when recordings play in public, including overseas",
     "summary": "Until now, only songwriters, composers and music publishers were paid when their music was played as background music in Japanese venues.\nSource",
     "category": "industry-news",
@@ -179,10 +257,10 @@
       "Copyright"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-06-21T02:41:33.271Z"
+    "fetchedAt": "2026-06-22T02:44:35.660Z"
   },
   {
-    "id": "news-1782009693271-26",
+    "id": "news-1782096275660-27",
     "title": "Adam Tiran named General Manager of Warner Music’s Africori as founder Yoel Kenan steps down as CEO",
     "summary": "WMG was fully acquired Africori in 2025\nSource",
     "category": "industry-news",
@@ -193,10 +271,10 @@
     "imageUrl": null,
     "tags": [],
     "readTime": 1,
-    "fetchedAt": "2026-06-21T02:41:33.271Z"
+    "fetchedAt": "2026-06-22T02:44:35.660Z"
   },
   {
-    "id": "news-1782009693270-3",
+    "id": "news-1782096275659-5",
     "title": "Source: Elastic agrees to buy CRV-backed Deductive AI for up to $85M",
     "summary": "Deductive AI, a startup that uses AI to catch and resolve bugs in software, was founded just three years ago. ",
     "category": "ai-research",
@@ -210,10 +288,10 @@
       "Startup"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-06-21T02:41:33.270Z"
+    "fetchedAt": "2026-06-22T02:44:35.659Z"
   },
   {
-    "id": "news-1782009693270-4",
+    "id": "news-1782096275659-6",
     "title": "AI inference startup Baseten reportedly raising $1.5B months after its last mega-round",
     "summary": "Startup Baseten is reportedly close to finalizing a $1.5 billion round at a $13 billion as the “inference gold rush\" marches on.",
     "category": "ai-research",
@@ -227,84 +305,6 @@
       "Startup"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-06-21T02:41:33.270Z"
-  },
-  {
-    "id": "news-1782009693271-20",
-    "title": "The White House Is Making Up Its Rules for AI in Real Time",
-    "summary": "Anthropic still can’t distribute Claude Mythos or Fable 5 after running afoul of the Trump administration. But no one can say exactly what the company did wrong.",
-    "category": "tech-innovation",
-    "source": "Wired AI",
-    "author": "Unknown",
-    "publishedAt": "2026-06-18T21:03:43.000Z",
-    "url": "https://www.wired.com/story/anthropic-mythos-export-controls-ai-regulations/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-06-21T02:41:33.271Z"
-  },
-  {
-    "id": "news-1782009693270-5",
-    "title": "Snap spins off AI video team into new company, Dotmo, due to costs",
-    "summary": "The Snapchat maker is spinning off yet another internal unit. Dotmo will be composed of current Snap staff who are leaving the social media company to focus on AI video development.  ",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-06-18T20:30:00.000Z",
-    "url": "https://techcrunch.com/2026/06/18/snap-spins-off-ai-video-team-into-new-company-dotmo-due-to-costs/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-06-21T02:41:33.270Z"
-  },
-  {
-    "id": "news-1782009693270-6",
-    "title": "OpenAI is bringing on some big guns in the lead-up to its IPO",
-    "summary": "OpenAI is bulking up before its IPO, landing Transformer co-inventor Noam Shazeer from Google DeepMind and former Trump AI policy official Dean Ball in the same week.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-06-18T19:59:22.000Z",
-    "url": "https://techcrunch.com/2026/06/18/openai-is-bringing-on-some-big-guns-in-the-lead-up-to-its-ipo/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-06-21T02:41:33.270Z"
-  },
-  {
-    "id": "news-1782009693271-27",
-    "title": "Project 91 launches Playgrounds, a live experiences platform backed by Justin Kalifowitz’s Klaf Companies",
-    "summary": "The New York-based events company confirmed that Playgrounds will serve as an umbrella platform for concerts, branded experiences, and destination events\nSource",
-    "category": "industry-news",
-    "source": "Music Business Worldwide",
-    "author": "Unknown",
-    "publishedAt": "2026-06-18T19:35:57.000Z",
-    "url": "https://www.musicbusinessworldwide.com/project-91-launches-playgrounds-a-live-experiences-platform-backed-by-justin-kalifowitzs-klaf-companies/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-06-21T02:41:33.271Z"
-  },
-  {
-    "id": "news-1782009693271-21",
-    "title": "Meta’s AI Workers Are Revolting, Peter Thiel’s Secret Society, and SBF’s Plea to Trump",
-    "summary": "On today’s Uncanny Valley, we dive into the dysfunction in Meta’s newly formed AI unit and why it’s been driving already-low employee morale even further into the ground.",
-    "category": "tech-innovation",
-    "source": "Wired AI",
-    "author": "Unknown",
-    "publishedAt": "2026-06-18T19:29:51.000Z",
-    "url": "https://www.wired.com/story/uncanny-valley-podcast-meta-ai-workers-revolting-peter-thiel-secret-society-sbf-plea-to-trump/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-06-21T02:41:33.271Z"
+    "fetchedAt": "2026-06-22T02:44:35.659Z"
   }
 ]
