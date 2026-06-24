@@ -1,20 +1,212 @@
 [
   {
-    "id": "news-1782180659252-32",
-    "title": "Clive Davis Dead at 94: Music Executives Remember the Influential Label Mogul (UPDATING)",
-    "summary": "Following the music legend's passing at age 94, industry execs are sharing their reactions and condolences.",
+    "id": "news-1782267169825-32",
+    "title": "Best Prime Day 2026 Tech Deals Under $100: Save Up to 75% on Bose, Beats by Dre, Samsung & Other Top Brands",
+    "summary": "Upgrading your home audio? During Prime Day, Amazon has deep discounts on headphones, earbuds, speakers, turntables & other gear, sitewide.",
     "category": "industry-news",
     "source": "Billboard",
     "author": "Unknown",
-    "publishedAt": "2026-06-23T02:01:00.000Z",
-    "url": "https://www.billboard.com/pro/clive-davis-death-music-industry-reactions/",
+    "publishedAt": "2026-06-24T01:00:54.000Z",
+    "url": "https://www.billboard.com/culture/product-recommendations/prime-day-2026-tech-audio-deals-shop-online-1236279044/",
     "imageUrl": null,
     "tags": [],
     "readTime": 1,
-    "fetchedAt": "2026-06-23T02:10:59.252Z"
+    "fetchedAt": "2026-06-24T02:12:49.825Z"
   },
   {
-    "id": "news-1782180659250-0",
+    "id": "news-1782267169825-33",
+    "title": "Brandon Flowers Announces ‘Thrasher,’ Country-Inspired Album Marking His Solo Comeback After 11 Years",
+    "summary": "The 10-track project will arrive on Aug. 21.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-06-24T00:16:21.000Z",
+    "url": "https://www.billboard.com/music/country/brandon-flowers-thrasher-solo-album-release-date-1236279531/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-06-24T02:12:49.825Z"
+  },
+  {
+    "id": "news-1782267169822-0",
+    "title": "India’s MoEngage bets that the future of marketing is millions of AI agents",
+    "summary": "The all-cash deal gives MoEngage access to technology that assigns AI agents to individual customers.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-06-23T23:30:00.000Z",
+    "url": "https://techcrunch.com/2026/06/23/indias-moengage-bets-marketings-future-on-millions-of-ai-agents/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-06-24T02:12:49.823Z"
+  },
+  {
+    "id": "news-1782267169825-34",
+    "title": "London’s HERE at Outernet Announces Rebrand, Confirms Ticketmaster Partnership",
+    "summary": "The move comes as part of a broader strategy to strengthen the venue’s position within the capital's live music landscape.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-06-23T23:01:00.000Z",
+    "url": "https://www.billboard.com/pro/london-here-at-outernet-venue-rebrand/",
+    "imageUrl": null,
+    "tags": [
+      "Partnership"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-06-24T02:12:49.825Z"
+  },
+  {
+    "id": "news-1782267169825-35",
+    "title": "Billboard Hot Latin Songs Top 10 Countdown for June 27, 2026 | Billboard Latin",
+    "summary": "Can Karol G’s “Si Antes Te Hubiera Conocido” jump to No. 1 on the Hot Latin Songs? Narrator: Here’s the Billboard Hot Latin Songs top 10 for the week dated June 27. “Coco” continues at No. 10. “De Lejitos” hold solid at nine. “Daño” stays at eight, with “Ayúdame” locked at No. 7. “Voy a […]",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-06-23T21:37:01.000Z",
+    "url": "https://www.billboard.com/video/billboard-hot-latin-songs-top-10-countdown-for-june-27-2026/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-06-24T02:12:49.825Z"
+  },
+  {
+    "id": "news-1782267169823-1",
+    "title": "Anthropic’s Claude Tag is learning your company, one Slack message at a time",
+    "summary": "Anthropic’s new Claude Tag brings an always-on AI teammate to Slack. But beyond productivity, the feature is a strategic play to capture organizational context, institutional knowledge, and enterprise workflows.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-06-23T17:00:00.000Z",
+    "url": "https://techcrunch.com/2026/06/23/anthropics-claude-tag-is-learning-your-company-one-slack-message-at-a-time/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-06-24T02:12:49.823Z"
+  },
+  {
+    "id": "news-1782267169824-25",
+    "title": "Cortez Bryant invests in AI-powered artist management platform MNGRS.AI, joins company as Strategic Advisor",
+    "summary": "Manager known for his work with Lil Wayne, Drake and Nicki Minaj becomes the startup's first US-based music industry investor.\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-06-23T16:49:12.000Z",
+    "url": "https://www.musicbusinessworldwide.com/cortez-bryant-invests-in-ai-powered-artist-management-platform-mngrs-ai-joins-company-as-strategic-advisor/",
+    "imageUrl": null,
+    "tags": [
+      "AI",
+      "Startup"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-06-24T02:12:49.824Z"
+  },
+  {
+    "id": "news-1782267169824-26",
+    "title": "Suno’s latest legal opponent fought the tobacco industry – and won a quarter of a trillion dollars",
+    "summary": "Hagens Berman has joined forces with Delgado Entertainment Law to represent indie artists whose recordings were allegedly copied without permission.\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-06-23T14:31:46.000Z",
+    "url": "https://www.musicbusinessworldwide.com/sunos-latest-legal-opponent-fought-the-tobacco-industry-and-won-a-quarter-of-a-trillion-dollars/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-06-24T02:12:49.824Z"
+  },
+  {
+    "id": "news-1782267169824-27",
+    "title": "The majors and BMG asked the US Supreme Court to overturn a ruling that lets songwriters reclaim copyrights worldwide. Five things to know about Vetter v. Resnik",
+    "summary": "For about 50 years, the industry believed termination only affected US rights. This ruling would make those rights worldwide for the first time.\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-06-23T13:21:55.000Z",
+    "url": "https://www.musicbusinessworldwide.com/the-majors-and-bmg-asked-the-us-supreme-court-to-overturn-a-ruling-that-lets-songwriters-reclaim-copyrights-worldwide-five-things-to-know-about-vetter-v-resnik/",
+    "imageUrl": null,
+    "tags": [
+      "AI",
+      "Copyright"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-06-24T02:12:49.825Z"
+  },
+  {
+    "id": "news-1782267169823-2",
+    "title": "Fika Jobs raises $4M to build a video-first hiring platform where AI agents interview candidates",
+    "summary": "Stockholm-based startup Fika Jobs is building a video-first hiring platform that combines AI interview agents with short-form video profiles, creating something that feels like a cross between LinkedIn and TikTok.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-06-23T13:00:00.000Z",
+    "url": "https://techcrunch.com/2026/06/23/fika-jobs-raises-4m-to-build-a-video-first-hiring-platform-where-ai-agents-interview-candidates/",
+    "imageUrl": null,
+    "tags": [
+      "AI",
+      "Startup"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-06-24T02:12:49.823Z"
+  },
+  {
+    "id": "news-1782267169825-28",
+    "title": "Nvidia hit with US copyright suit claiming it trained AI models on Winamp subsidiary Jamendo’s music without permission",
+    "summary": "Jamendo is seeking an injunction, plus actual damages and Nvidia's profits of \"no less than\" EUR €17.8 million (approx. USD $20.3 million).\nSource",
+    "category": "ai-research",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-06-23T11:49:27.000Z",
+    "url": "https://www.musicbusinessworldwide.com/nvidia-hit-with-us-copyright-suit-claiming-it-trained-ai-models-on-winamp-subsidiary-jamendos-music-without-permission/",
+    "imageUrl": null,
+    "tags": [
+      "AI",
+      "Copyright"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-06-24T02:12:49.825Z"
+  },
+  {
+    "id": "news-1782267169825-29",
+    "title": "Ex-Blackstone exec Vlado Spasov launches $1.5B alternative asset manager Trimontium – music rights among target assets",
+    "summary": "Trimontium says its target areas also include \"uncorrelated\" asset classes such as IP rights and royalties.\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-06-23T11:48:45.000Z",
+    "url": "https://www.musicbusinessworldwide.com/ex-blackstone-exec-vlado-spasov-launches-1-5b-alternative-asset-manager-trimontium-music-rights-among-target-assets/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-06-24T02:12:49.825Z"
+  },
+  {
+    "id": "news-1782267169825-30",
+    "title": "Spotify wins dismissal of lawsuit claiming it allowed ‘billions’ of fraudulent Drake streams",
+    "summary": "In November 2025, rapper RBX claimed Spotify failed to curb \"mass-scale fraudulent streaming,\" stripping royalties from other rights holders.\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-06-23T11:16:40.000Z",
+    "url": "https://www.musicbusinessworldwide.com/spotify-wins-dismissal-of-lawsuit-claiming-it-allowed-billions-of-fraudulent-drake-streams/",
+    "imageUrl": null,
+    "tags": [
+      "Spotify",
+      "AI",
+      "Streaming"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-06-24T02:12:49.825Z"
+  },
+  {
+    "id": "news-1782267169823-3",
     "title": "The running list: major tech layoffs in 2026 where employers cited AI",
     "summary": "A running look — in reverse chronological order — at the bigger tech companies that have announced significant layoffs this year with AI as a stated factor.",
     "category": "ai-research",
@@ -27,26 +219,12 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-06-23T02:10:59.250Z"
+    "fetchedAt": "2026-06-24T02:12:49.823Z"
   },
   {
-    "id": "news-1782180659252-33",
-    "title": "Nesty Signs Worldwide Publishing Deal With Peermusic: ‘Happy to Have Found A Home’",
-    "summary": "The Cuban artist and songwriter signed a deal encompassing select catalog and future works.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-06-23T00:16:49.000Z",
-    "url": "https://www.billboard.com/pro/nesty-signs-global-publishing-deal-peermusic/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-06-23T02:10:59.252Z"
-  },
-  {
-    "id": "news-1782180659250-1",
-    "title": "OpenAI launches new initiative to help find and patch open-source bugs",
-    "summary": "OpenAI is attempting to tackle the security issues of the open source software community. ",
+    "id": "news-1782267169823-4",
+    "title": "OpenAI launches new initiative to help find and patch open source bugs",
+    "summary": "OpenAI is using AI to help the open source community better protect itself.",
     "category": "tech-innovation",
     "source": "TechCrunch AI",
     "author": "Unknown",
@@ -57,84 +235,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-06-23T02:10:59.250Z"
+    "fetchedAt": "2026-06-24T02:12:49.823Z"
   },
   {
-    "id": "news-1782180659252-34",
-    "title": "Clive Davis: All His No. 1 Hits on the Billboard Hot 100, From Whitney Houston to Simon & Garfunkel",
-    "summary": "Davis enjoyed 11 No. 1 hits by Houston on his label Arista, more than any other artist. ",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-06-22T23:59:29.000Z",
-    "url": "https://www.billboard.com/pro/clive-davis-no-1-hits-billboard-hot-100-full-list/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-06-23T02:10:59.252Z"
-  },
-  {
-    "id": "news-1782180659252-35",
-    "title": "Sony’s BRAVIA 4K TVs Get $300 Discount on Heels of Best Buy’s ‘Tech Fest’ Event",
-    "summary": "The latest Sony 4K TVs are fine-tuned for pristine audio and picture quality, making for a more immersive and vibrant viewing experience.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-06-22T23:39:26.000Z",
-    "url": "https://www.billboard.com/culture/product-recommendations/sony-bravia-7-ii-4k-tv-deals-sale-shop-best-buy-online-1236275417/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-06-23T02:10:59.252Z"
-  },
-  {
-    "id": "news-1782180659252-36",
-    "title": "Clive Davis Career Timeline: A Journey Through the Music Industry Icon’s Greatest Accomplishments",
-    "summary": "From his beginnings as an assistant general counsel at Columbia Records to being named chief creative officer at Sony Music, Billboard explores Davis’ career in full. ",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-06-22T22:42:25.000Z",
-    "url": "https://www.billboard.com/lists/clive-davis-career-timeline-columbia-arista-sony-music/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-06-23T02:10:59.252Z"
-  },
-  {
-    "id": "news-1782180659252-37",
-    "title": "Hilary Duff’s Lucky Me Tour Setlist: Every Song She Played on Night 1 in Florida",
-    "summary": "“You guys have made this all possible for me,\" the singer/actress said, thanking the crowd.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-06-22T22:27:43.000Z",
-    "url": "https://www.billboard.com/lists/hilary-duff-setlist-lucky-me-tour-night-1-every-song-played/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-06-23T02:10:59.252Z"
-  },
-  {
-    "id": "news-1782180659252-38",
-    "title": "Olivia Rodrigo Explains Why Jealousy Is Such a Frequent Topic in Her Songs: ‘Weird Programming in My Brain’",
-    "summary": "“It’s something I have felt intensely since I was young,\" the pop star said.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-06-22T20:59:29.000Z",
-    "url": "https://www.billboard.com/music/music-news/olivia-rodrigo-explains-jealousy-topic-songs-1236277924/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-06-23T02:10:59.252Z"
-  },
-  {
-    "id": "news-1782180659250-2",
+    "id": "news-1782267169823-5",
     "title": "The AI world is getting ‘loopy’",
     "summary": "The loop takes agentic AI a step further by authorizing a swarm of agents to work continuously in the background, endlessly. ",
     "category": "ai-research",
@@ -147,24 +251,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-06-23T02:10:59.250Z"
+    "fetchedAt": "2026-06-24T02:12:49.823Z"
   },
   {
-    "id": "news-1782180659252-39",
-    "title": "5 Movie Songs Have Entered the Hot 100 at No. 1: See How They Fared During Awards Season",
-    "summary": "The first film song to debut at No. 1 wasn’t even nominated for an Oscar.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-06-22T20:46:34.000Z",
-    "url": "https://www.billboard.com/lists/movie-songs-entered-hot-100-no-1-oscar-grammy-nominations/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-06-23T02:10:59.252Z"
-  },
-  {
-    "id": "news-1782180659251-18",
+    "id": "news-1782267169824-19",
     "title": "Meta Exposed Data Internally From Its Controversial Employee-Tracking Program",
     "summary": "Employees had previously raised concerns about the initiative, which involves collecting workers’ keystroke data to train AI models.",
     "category": "ai-research",
@@ -177,10 +267,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-06-23T02:10:59.251Z"
+    "fetchedAt": "2026-06-24T02:12:49.824Z"
   },
   {
-    "id": "news-1782180659250-3",
+    "id": "news-1782267169823-6",
     "title": "AI chipmaker Groq confirms $650M raise, re-staffs after Nvidia’s $20B not-acqui-hire deal",
     "summary": "What does an AI company do after one of those not-acqui-hire deals? Groq raised money, is leaning into its neocloud business, and is hiring new execs.",
     "category": "ai-research",
@@ -193,10 +283,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-06-23T02:10:59.250Z"
+    "fetchedAt": "2026-06-24T02:12:49.823Z"
   },
   {
-    "id": "news-1782180659252-24",
+    "id": "news-1782267169825-31",
     "title": "Music industry leaders, megastars pay tribute to Clive Davis",
     "summary": "Rob Stringer, Patti Smith, Alicia Keys, the Lipmans, Merck Mercuriadis, and more pay tribute to legendary record exec\nSource",
     "category": "industry-news",
@@ -207,10 +297,10 @@
     "imageUrl": null,
     "tags": [],
     "readTime": 1,
-    "fetchedAt": "2026-06-23T02:10:59.252Z"
+    "fetchedAt": "2026-06-24T02:12:49.825Z"
   },
   {
-    "id": "news-1782180659251-4",
+    "id": "news-1782267169823-7",
     "title": "Google DeepMind bets $75M on AI’s future in Hollywood with A24 deal",
     "summary": "Google DeepMind and A24 are teaming up to build AI filmmaking tools. ",
     "category": "ai-research",
@@ -223,87 +313,6 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-06-23T02:10:59.251Z"
-  },
-  {
-    "id": "news-1782180659251-5",
-    "title": "Amazon is testing Alexa+ in India with Hindi support",
-    "summary": "Amazon is planning to increase the footprint of its new conversational AI assistant Alexa+ to India and is inviting users in the country to test out a Hindi-language version.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-06-22T17:31:29.000Z",
-    "url": "https://techcrunch.com/2026/06/22/amazon-is-testing-alexa-in-india-with-hindi-support/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-06-23T02:10:59.251Z"
-  },
-  {
-    "id": "news-1782180659251-19",
-    "title": "OpenAI Launches Full-Scale Effort to Patch Open-Source Bugs as It Takes on Anthropic’s Mythos",
-    "summary": "Amid concerns about AI models’ cybersecurity capabilities, OpenAI revealed an improved version of GPT-5.5-Cyber and its “Patch the Planet” initiative to fix open-source software bugs.",
-    "category": "ai-research",
-    "source": "Wired AI",
-    "author": "Unknown",
-    "publishedAt": "2026-06-22T17:00:00.000Z",
-    "url": "https://www.wired.com/story/openai-launches-full-scale-effort-to-patch-open-source-bugs-as-it-takes-on-anthropics-mythos/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-06-23T02:10:59.251Z"
-  },
-  {
-    "id": "news-1782180659251-6",
-    "title": "SpaceX inks compute deal with Reflection AI, an open source AI lab",
-    "summary": "Reflection AI will pay $150 million a month beginning July 1, 2026 through 2029 for immediate access to Nvidia's latest GB300 AI chips and supporting hardware across SpaceX's Colossus 2 data center near Memphis, Tennessee.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-06-22T16:51:29.000Z",
-    "url": "https://techcrunch.com/2026/06/22/spacex-inks-compute-deal-with-reflection-ai-an-open-source-ai-lab/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-06-23T02:10:59.251Z"
-  },
-  {
-    "id": "news-1782180659252-25",
-    "title": "Majors and BMG ask US Supreme Court to overturn copyright termination ruling they say will cause ‘chaos’",
-    "summary": "The rightsholders said the decision will cause \"chaos\" across the music business if it is allowed to stand.\nSource",
-    "category": "industry-news",
-    "source": "Music Business Worldwide",
-    "author": "Unknown",
-    "publishedAt": "2026-06-22T15:55:34.000Z",
-    "url": "https://www.musicbusinessworldwide.com/majors-and-bmg-ask-us-supreme-court-to-overturn-copyright-termination-ruling-they-say-will-cause-chaos/",
-    "imageUrl": null,
-    "tags": [
-      "AI",
-      "Copyright"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-06-23T02:10:59.252Z"
-  },
-  {
-    "id": "news-1782180659252-26",
-    "title": "MF Doom estate and Temu reach settlement in lawsuit over alleged knock-off merch",
-    "summary": "The plaintiff, Gas Drawls, LLC, owns the rights to MF Doom's music and intellectual property\nSource",
-    "category": "industry-news",
-    "source": "Music Business Worldwide",
-    "author": "Unknown",
-    "publishedAt": "2026-06-22T12:52:23.000Z",
-    "url": "https://www.musicbusinessworldwide.com/mf-doom-estate-and-temu-reach-settlement-in-lawsuit-over-alleged-knock-off-merch/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-06-23T02:10:59.252Z"
+    "fetchedAt": "2026-06-24T02:12:49.823Z"
   }
 ]
