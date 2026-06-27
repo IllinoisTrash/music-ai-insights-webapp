@@ -1,10 +1,10 @@
 {
-  "lastUpdated": "2026-06-26T02:14:17.798Z",
+  "lastUpdated": "2026-06-27T02:09:45.701Z",
   "totalArticles": 20,
   "categories": {
-    "tech-innovation": 2,
-    "industry-news": 12,
-    "ai-research": 6
+    "ai-research": 9,
+    "industry-news": 8,
+    "tech-innovation": 3
   },
   "sources": [
     "Wired AI",

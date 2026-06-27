@@ -1,6 +1,235 @@
 [
   {
-    "id": "news-1782440057796-20",
+    "id": "news-1782526185700-20",
+    "title": "Trump Administration Allows Anthropic to Release  Mythos to Select US Organizations",
+    "summary": "After weeks of negotiations, the White House permitted Anthropic to grant access to its most advanced AI model to a select group of US companies and government agencies.",
+    "category": "ai-research",
+    "source": "Wired AI",
+    "author": "Unknown",
+    "publishedAt": "2026-06-27T00:26:14.000Z",
+    "url": "https://www.wired.com/story/anthropic-restores-access-to-mythos/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-06-27T02:09:45.700Z"
+  },
+  {
+    "id": "news-1782526185700-34",
+    "title": "Alan Jackson’s Final Concert: His Past Label Heads ‘Remember When’ They Worked With the Country Superstar",
+    "summary": "The star's final live show is set for Nashville's Nissan Stadium on June 27. In this week's Country Update lead story, four execs look back on his career.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-06-26T22:15:05.000Z",
+    "url": "https://www.billboard.com/music/country/alan-jackson-final-concert-label-heads-principles-1236282143/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-06-27T02:09:45.700Z"
+  },
+  {
+    "id": "news-1782526185700-35",
+    "title": "Bizarrap & Myke Towers’ ‘BZRP Music Session #42/66,’ More: Vote for the Best New Latin Music Release This Week",
+    "summary": "Which new Latin music release is your favorite? Vote below!",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-06-26T21:50:09.000Z",
+    "url": "https://www.billboard.com/music/latin/bizarrap-myke-towers-bzrp-music-session-best-new-latin-poll-1236282138/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-06-27T02:09:45.700Z"
+  },
+  {
+    "id": "news-1782526185700-36",
+    "title": "How The Hives Conquered Latin America in Spanish & Portuguese: ‘We Really Like It Here’",
+    "summary": "Howlin' Pelle Almqvist, lead singer of the Swedish band, speaks with Billboard about his connection with Latin audiences.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-06-26T21:21:07.000Z",
+    "url": "https://www.billboard.com/music/latin/the-hives-in-latin-america-documentary-interview-1236282306/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-06-27T02:09:45.700Z"
+  },
+  {
+    "id": "news-1782526185700-37",
+    "title": "Eslabón Armado Breaks Down 5 Essential Songs From New Album ‘Nocturno’",
+    "summary": "The regional Mexican group reunites with Peso Pluma following their 2023 smash “Ella Baila Sola.”",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-06-26T21:02:55.000Z",
+    "url": "https://www.billboard.com/lists/eslabon-armado-essential-songs-new-album-nocturno-interview/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-06-27T02:09:45.700Z"
+  },
+  {
+    "id": "news-1782526185700-38",
+    "title": "From Phoebe Bridgers to Sombr, Which New Music Release Is Your Favorite This Week? Vote!",
+    "summary": "Gracie Abrams, Steve Lacy and SZA are also back with new tracks.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-06-26T19:59:21.000Z",
+    "url": "https://www.billboard.com/music/music-news/best-new-music-week-poll-vote-sombr-phoebe-bridgers-more-1236282126/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-06-27T02:09:45.701Z"
+  },
+  {
+    "id": "news-1782526185698-0",
+    "title": "OpenAI limits GPT-5.6 rollout after government request, says restrictions shouldn’t be the norm",
+    "summary": "“We don’t believe this kind of government access process should become the long-term default,” says OpenAI. “It keeps the best tools from users, developers, enterprises, cyber defenders, and global partners who need them.”",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-06-26T18:32:14.000Z",
+    "url": "https://techcrunch.com/2026/06/26/openai-limits-gpt-5-6-rollout-after-government-request-says-restrictions-shouldnt-be-the-norm/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-06-27T02:09:45.698Z"
+  },
+  {
+    "id": "news-1782526185698-1",
+    "title": "OpenAI poaches Uber India chief to lead its biggest market outside the US",
+    "summary": "The hire marks OpenAI's latest push into India, expanding offices, partnerships and hiring.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-06-26T18:19:36.000Z",
+    "url": "https://techcrunch.com/2026/06/26/openai-poaches-uber-india-chief-to-lead-its-biggest-market-outside-the-u-s/",
+    "imageUrl": null,
+    "tags": [
+      "AI",
+      "Partnership"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-06-27T02:09:45.698Z"
+  },
+  {
+    "id": "news-1782526185698-2",
+    "title": "Why everyone from OpenAI to SpaceX is building their own chips (and turning up the heat on Nvidia)",
+    "summary": "Nvidia has dominated the AI chip market for years, but the era of total dependence might be ending.   OpenAI just shared its plans to spice things up with Jalapeño, its custom inference chip built with Broadcom, joining Google, Apple, and SpaceX in a growing list of companies building their way out of single-supplier risk. The goal is less of a […]",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-06-26T17:43:22.000Z",
+    "url": "https://techcrunch.com/video/why-everyone-from-openai-to-spacex-is-building-their-own-chips-and-turning-up-the-heat-on-nvidia/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-06-27T02:09:45.698Z"
+  },
+  {
+    "id": "news-1782526185700-21",
+    "title": "OpenAI Has New AI Models. Here’s Why You Can’t Use Them",
+    "summary": "The White House asked OpenAI to delay the rollout of its GPT-5.6 AI models, two weeks after Anthropic had to take its most advanced AI models offline.",
+    "category": "ai-research",
+    "source": "Wired AI",
+    "author": "Unknown",
+    "publishedAt": "2026-06-26T17:05:40.000Z",
+    "url": "https://www.wired.com/story/openai-gpt-56-model-release-trump-admin-approval/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-06-27T02:09:45.700Z"
+  },
+  {
+    "id": "news-1782526185700-28",
+    "title": "Sony Music Publishing wins Publisher of the Year at 2026 ASCAP Rhythm & Soul Awards",
+    "summary": "SMP songwriters were recognized across 27 of ASCAP's top-performing R&B, hip-hop and gospel songs of the past year.\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-06-26T16:44:10.000Z",
+    "url": "https://www.musicbusinessworldwide.com/sony-music-publishing-wins-publisher-of-the-year-at-2026-ascap-rhythm-soul-awards/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-06-27T02:09:45.700Z"
+  },
+  {
+    "id": "news-1782526185699-3",
+    "title": "It’s not about Anthropic vs. OpenAI anymore",
+    "summary": "AI models have progressed to the point where their capabilities have real political consequences. Dealing with those consequences will require collective action.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-06-26T16:24:47.000Z",
+    "url": "https://techcrunch.com/2026/06/26/its-not-about-anthropic-vs-openai-anymore/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-06-27T02:09:45.699Z"
+  },
+  {
+    "id": "news-1782526185700-22",
+    "title": "Europe Is Fed Up and Wants Its Own AI",
+    "summary": "It's a stretch to think that the continent can build a top-tier model, but it has an advantage: Donald Trump.",
+    "category": "tech-innovation",
+    "source": "Wired AI",
+    "author": "Unknown",
+    "publishedAt": "2026-06-26T15:00:00.000Z",
+    "url": "https://www.wired.com/story/europe-is-fed-up-and-wants-its-own-ai/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-06-27T02:09:45.700Z"
+  },
+  {
+    "id": "news-1782526185699-4",
+    "title": "OpenAI’s Jalapeño chip is Big Tech’s spiciest move away from Nvidia",
+    "summary": "Nvidia has dominated the AI chip market for years, but the era of total dependence might be ending.   OpenAI just shared its plans to spice things up with Jalapeño, its custom inference chip built with Broadcom, joining Google, Apple, and SpaceX in a growing list of companies building their way out of single-supplier risk. The goal is less of a […]",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-06-26T14:00:00.000Z",
+    "url": "https://techcrunch.com/podcast/openais-jalapeno-chip-is-big-techs-spiciest-move-away-from-nvidia/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-06-27T02:09:45.699Z"
+  },
+  {
+    "id": "news-1782526185700-29",
+    "title": "Warner Music launches pilot with indie record stores to test whether fans’ unwanted vinyl can be recycled",
+    "summary": "Participating stores will collect the records for recovery partner Virterras Materials to assess for potential material recycling.\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-06-26T11:41:13.000Z",
+    "url": "https://www.musicbusinessworldwide.com/warner-music-launches-pilot-with-indie-record-stores-to-test-whether-fans-unwanted-vinyl-can-be-recycled/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-06-27T02:09:45.700Z"
+  },
+  {
+    "id": "news-1782526185700-23",
     "title": "Anthropic Thinks Its Own Success Is Key to Making AI Safe",
     "summary": "Anthropic's critics argue it's rapidly accumulating power. The company says that's what responsible AI development looks like.",
     "category": "tech-innovation",
@@ -13,84 +242,12 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-06-26T02:14:17.796Z"
+    "fetchedAt": "2026-06-27T02:09:45.700Z"
   },
   {
-    "id": "news-1782440057797-34",
-    "title": "Katy Perry Finally Gets Angry on New Song ‘Watch It Burn’: Watch Fiery Video Now",
-    "summary": "The visual finds Perry wreaking havoc as a monstrous scorpion-human hybrid.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-06-26T00:29:27.000Z",
-    "url": "https://www.billboard.com/music/pop/katy-perry-new-song-watch-it-burn-here-listen-1236281454/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-06-26T02:14:17.797Z"
-  },
-  {
-    "id": "news-1782440057797-35",
-    "title": "Tom Hardy to Release Collab Album With CZARFACE: Check Out New Single ‘Brothers Grimm’",
-    "summary": "The actor goes by Frankie Pulitzer, aka \"Face Puller,\" when he's in rapper mode -- and he can spit.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-06-26T00:24:11.000Z",
-    "url": "https://www.billboard.com/music/rb-hip-hop/tom-hardy-czarface-album-frankie-pulitzer-brothers-grimm-1236281485/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-06-26T02:14:17.797Z"
-  },
-  {
-    "id": "news-1782440057797-36",
-    "title": "Jay-Z 2026: Here’s Where to Get Affordable Tickets to the Rapper’s Yankee Stadium Dates Online",
-    "summary": "The Brooklyn-born rapper celebrates the anniversaries of Reasonable Doubt and The Blueprint with three concerts in New York City — shop ticket here.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-06-26T00:08:15.000Z",
-    "url": "https://www.billboard.com/culture/product-recommendations/jay-z-yankee-stadium-concert-where-to-buy-tickets-online-1236205892/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-06-26T02:14:17.797Z"
-  },
-  {
-    "id": "news-1782440057797-37",
-    "title": "Future Announces ‘THE REAL ME’ Album Release Date: ‘Album of the Century’",
-    "summary": "Pluto will kick off the album rollout with a single titled \"Radio\" first thing Friday (June 26). ",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-06-26T00:07:38.000Z",
-    "url": "https://www.billboard.com/music/rb-hip-hop/future-the-real-me-album-release-date-radio-single-1236281554/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-06-26T02:14:17.797Z"
-  },
-  {
-    "id": "news-1782440057797-38",
-    "title": "Gracie Abrams Says People ‘Appropriately’ Call Her a ‘Nepo Baby’: ‘I Had a Safety Net’",
-    "summary": "\"I wasn’t growing up afraid financially, and that’s the biggest deal,\" Abrams tells The New York Times' Popcast, ahead of her July 17 album release.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-06-26T00:04:13.000Z",
-    "url": "https://www.billboard.com/music/pop/gracie-abrams-nepo-baby-interview-daughter-from-hell-1236281568/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-06-26T02:14:17.797Z"
-  },
-  {
-    "id": "news-1782440057794-0",
+    "id": "news-1782526185699-5",
     "title": "The White House is asking OpenAI to slow roll the release of its new model over safety concerns",
-    "summary": "penAI reportedly plans to share its newest model, GPT 5.6, with a select group of partners instead of to the broader public. The reason: the Trump administration told it to.",
+    "summary": "OpenAI reportedly plans to share its newest model, GPT 5.6, with a select group of partners instead of with the broader public. The reason: the Trump administration told it to.",
     "category": "ai-research",
     "source": "TechCrunch AI",
     "author": "Unknown",
@@ -101,10 +258,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-06-26T02:14:17.794Z"
+    "fetchedAt": "2026-06-27T02:09:45.699Z"
   },
   {
-    "id": "news-1782440057796-21",
+    "id": "news-1782526185700-24",
     "title": "Why Amazon Dropped Its OpenAI Movie, Data Center Workers Fight Back, and Meta Leaks Employee Data",
     "summary": "The decision by Amazon-owned MGM Studios to drop the OpenAI movie is just part of AI and film industries becoming increasingly intertwined. On Uncanny Valley, we look at where this is all headed.",
     "category": "tech-innovation",
@@ -117,52 +274,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-06-26T02:14:17.796Z"
+    "fetchedAt": "2026-06-27T02:09:45.700Z"
   },
   {
-    "id": "news-1782440057797-39",
-    "title": "Billboard’s Music Industry Events Calendar",
-    "summary": "A complete rundown of the most important events across the music business.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-06-25T22:56:00.000Z",
-    "url": "https://www.billboard.com/pro/music-industry-events-calendar-festivals-awards-conferences/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-06-26T02:14:17.797Z"
-  },
-  {
-    "id": "news-1782440057797-40",
-    "title": "Alicia Keys, Bruce Springsteen, Dionne Warwick, Barry Manilow and More to Participate in Clive Davis Funeral",
-    "summary": "The legendary music exec passed away at 94 on Monday. ",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-06-25T22:36:34.000Z",
-    "url": "https://www.billboard.com/music/music-news/clive-davis-funeral-alicia-keys-bruce-springsteen-1236281519/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-06-26T02:14:17.797Z"
-  },
-  {
-    "id": "news-1782440057797-41",
-    "title": "International Festival Forum Conference to Land in L.A. for North American Debut",
-    "summary": "The first wave of programming includes a confirmed session with C3 promoter and Lollapalooza talent buyer Huston Powell.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-06-25T22:21:49.000Z",
-    "url": "https://www.billboard.com/pro/international-festival-forum-conference-la/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-06-26T02:14:17.797Z"
-  },
-  {
-    "id": "news-1782440057795-1",
+    "id": "news-1782526185699-6",
     "title": "Patronus AI lands $50M to build ‘digital worlds’ that stress-test AI agents",
     "summary": "Agent-testing startup Patronus AI, founded by former Meta AI researchers, is experiencing nearly insatiable demand, its investor says.",
     "category": "ai-research",
@@ -177,10 +292,10 @@
       "Research"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-06-26T02:14:17.795Z"
+    "fetchedAt": "2026-06-27T02:09:45.699Z"
   },
   {
-    "id": "news-1782440057796-27",
+    "id": "news-1782526185700-30",
     "title": "Diljit Dosanjh breaks his own record for biggest North American tour by a Punjabi artist with $32M Aura run",
     "summary": "Live Nation-promoted run sold more than 225,000 tickets, according to the concert giant.\nSource",
     "category": "industry-news",
@@ -191,114 +306,6 @@
     "imageUrl": null,
     "tags": [],
     "readTime": 1,
-    "fetchedAt": "2026-06-26T02:14:17.796Z"
-  },
-  {
-    "id": "news-1782440057795-2",
-    "title": "Anthropic’s Claude is winning over paid consumers, a market owned by ChatGPT",
-    "summary": "Despite ChatGPT's commanding market lead, consumers who pay for AI have been increasingly choosing Anthropic's Claude, data shows. ",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-06-25T17:38:27.000Z",
-    "url": "https://techcrunch.com/2026/06/25/anthropics-claude-is-winning-over-paid-consumers-a-market-owned-by-chatgpt/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-06-26T02:14:17.795Z"
-  },
-  {
-    "id": "news-1782440057796-28",
-    "title": "Suno is paying grants to independent artists… so long as they agree not to criticize Suno",
-    "summary": "Suno has launched an incubator program for independent artists called Spark\nSource",
-    "category": "industry-news",
-    "source": "Music Business Worldwide",
-    "author": "Unknown",
-    "publishedAt": "2026-06-25T17:34:30.000Z",
-    "url": "https://www.musicbusinessworldwide.com/suno-is-paying-grants-to-independent-artists-so-long-as-they-agree-never-to-criticize-suno/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-06-26T02:14:17.796Z"
-  },
-  {
-    "id": "news-1782440057795-3",
-    "title": "General Intuition’s $2.3B bet that video games can train AI agents for the real world",
-    "summary": "General Intuition has raised $320 million to scale AI trained on millions of hours of gameplay, betting action data can help AI develop something closer to human intuition.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-06-25T16:55:00.000Z",
-    "url": "https://techcrunch.com/2026/06/25/general-intuitions-2-3b-bet-that-video-games-can-train-ai-agents-for-the-real-world/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-06-26T02:14:17.795Z"
-  },
-  {
-    "id": "news-1782440057795-4",
-    "title": "Databricks’ former AI chief thinks he can cut AI’s power bill by 1,000x",
-    "summary": "Un-0 is an image-generation system tool that shows for the first time how the company's technology can replicate conventional AI systems.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-06-25T16:48:11.000Z",
-    "url": "https://techcrunch.com/2026/06/25/databricks-former-ai-chief-thinks-he-can-cut-ais-power-bill-by-1000x/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-06-26T02:14:17.795Z"
-  },
-  {
-    "id": "news-1782440057796-29",
-    "title": "David McIninch appointed General Manager of Soundmouse, the music cue sheet platform acquired by BMI",
-    "summary": "McIninch will oversee Soundmouse's global operations\nSource",
-    "category": "industry-news",
-    "source": "Music Business Worldwide",
-    "author": "Unknown",
-    "publishedAt": "2026-06-25T16:36:38.000Z",
-    "url": "https://www.musicbusinessworldwide.com/david-mcininch-appointed-general-manager-of-soundmouse-the-music-cue-sheet-platform-acquired-by-bmi/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-06-26T02:14:17.796Z"
-  },
-  {
-    "id": "news-1782440057796-30",
-    "title": "English-language share of US audio streams fell in Q1, says Luminate, as Latin music gained ground driven by megastars like Bad Bunny",
-    "summary": "Luminate said Latin music has \"fully shattered\" its 'niche' status\" in the US\nSource",
-    "category": "industry-news",
-    "source": "Music Business Worldwide",
-    "author": "Unknown",
-    "publishedAt": "2026-06-25T16:26:10.000Z",
-    "url": "https://www.musicbusinessworldwide.com/english-language-share-of-us-audio-streams-fell-in-q1-says-luminate-as-spanish-language-music-gained-ground-driven-by-megastars-like-bad-bunny/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-06-26T02:14:17.796Z"
-  },
-  {
-    "id": "news-1782440057795-5",
-    "title": "Netris raises $15M Series A from a16z to help AI neoclouds go live faster",
-    "summary": "Netris provides software that runs on network switches, and offers a platform that helps neocloud operators reduce the time it takes to go live.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-06-25T14:55:38.000Z",
-    "url": "https://techcrunch.com/2026/06/25/netris-raises-15m-series-a-from-a16z-to-help-ai-neoclouds-go-live-faster/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-06-26T02:14:17.795Z"
+    "fetchedAt": "2026-06-27T02:09:45.700Z"
   }
 ]
