@@ -1,64 +1,209 @@
 [
   {
-    "id": "news-1782700288372-35",
-    "title": "DaBaby On Topping Hot Rap Songs Chart With “Pop Dat Thang” | BET Awards 2026",
-    "summary": "DaBaby chatted with Billboard’s Kyle Denis on the red carpet at the BET Awards 2026.",
-    "category": "industry-news",
-    "source": "Billboard",
+    "id": "news-1782785699566-21",
+    "title": "Meta Contractors Posed as Teens to Prompt Rival Chatbots About Suicide, Sex, and Drugs",
+    "summary": "Hundreds of contractors working on a project for Meta pretended to be kids in order to see how other chatbots like Gemini and ChatGPT would respond to high-risk subjects, WIRED found.",
+    "category": "ai-research",
+    "source": "Wired AI",
     "author": "Unknown",
-    "publishedAt": "2026-06-29T01:25:16.000Z",
-    "url": "https://www.billboard.com/video/dababy-on-topping-hot-rap-songs-chart-with-pop-dat-thang/",
+    "publishedAt": "2026-06-29T21:49:26.000Z",
+    "url": "https://www.wired.com/story/meta-contractors-pretending-to-be-teens-chatbot-testing/",
     "imageUrl": null,
     "tags": [],
     "readTime": 1,
-    "fetchedAt": "2026-06-29T02:31:28.372Z"
+    "fetchedAt": "2026-06-30T02:14:59.566Z"
   },
   {
-    "id": "news-1782700288372-36",
-    "title": "T.I. Reveals He’s Performing Something From His New Album at the BET Awards | BET Awards 2026",
-    "summary": "T.I. chatted with Billboard’s Kyle Denis on the red carpet at the BET Awards 2026.",
+    "id": "news-1782785699566-32",
+    "title": "Heri Iznaga, Cain Culto & More Emerging Latin Artists on Our Radar",
+    "summary": "The rising stars we've discovered in June, and who should be on your radar.",
     "category": "industry-news",
     "source": "Billboard",
     "author": "Unknown",
-    "publishedAt": "2026-06-29T00:58:53.000Z",
-    "url": "https://www.billboard.com/video/t-i-reveals-hes-performing-something-from-his-new-album/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-06-29T02:31:28.372Z"
-  },
-  {
-    "id": "news-1782700288372-37",
-    "title": "Lucky Daye Explains Talks “Nowhere Fast,”New Album & How His New Chapter Is Truly Being Himself | BET Awards 2026",
-    "summary": "Lucky Daye chatted with Billboard’s Kyle Denis on the red carpet at the BET Awards 2026.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-06-29T00:10:51.000Z",
-    "url": "https://www.billboard.com/video/lucky-daye-explains-talks-nowhere-fastnew-album/",
+    "publishedAt": "2026-06-29T21:26:40.000Z",
+    "url": "https://www.billboard.com/music/latin/on-the-radar-latin-emerging-artists-june-2026-1236283544/",
     "imageUrl": null,
     "tags": [
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-06-29T02:31:28.372Z"
+    "fetchedAt": "2026-06-30T02:14:59.566Z"
   },
   {
-    "id": "news-1782700288372-38",
-    "title": "Cheryl “Salt” James From Salt-N-Pepa Talks Debut Solo Album, “Salty” | BET Awards 2026",
-    "summary": "Cheryl “Salt” James chatted with Billboard’s Kyle Denis on the red carpet at the BET Awards 2026.",
+    "id": "news-1782785699566-33",
+    "title": "Fuerza Regida’s JOP & Label Boss Jimmy Humilde Go Public With Legal Feud in Instagram Posts",
+    "summary": "The bandleader and record executive each took to social media over the weekend to express frustration about their ongoing lawsuit. ",
     "category": "industry-news",
     "source": "Billboard",
     "author": "Unknown",
-    "publishedAt": "2026-06-29T00:00:31.000Z",
-    "url": "https://www.billboard.com/video/cheryl-james-from-salt-n-pepa-talks-debut-solo-album-salty/",
+    "publishedAt": "2026-06-29T21:21:06.000Z",
+    "url": "https://www.billboard.com/pro/fuerza-regida-jop-jimmy-humilde-lawsuit-fight-instagram/",
     "imageUrl": null,
     "tags": [],
     "readTime": 1,
-    "fetchedAt": "2026-06-29T02:31:28.372Z"
+    "fetchedAt": "2026-06-30T02:14:59.567Z"
   },
   {
-    "id": "news-1782700288370-0",
+    "id": "news-1782785699567-34",
+    "title": "The 10 Best Sets We Saw at Electric Forest 2026",
+    "summary": "The festival returned to Rothbury, Michigan this past weekend, June 25-28.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-06-29T20:50:35.000Z",
+    "url": "https://www.billboard.com/lists/best-sets-electric-forest-2026/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-06-30T02:14:59.567Z"
+  },
+  {
+    "id": "news-1782785699564-0",
+    "title": "Gemini’s personalized AI image generation is now free for US users",
+    "summary": "Google is expanding Gemini’s personalized AI image generation to eligible free users in the U.S., allowing the chatbot to create images based on your interests and data from connected Google apps.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-06-29T20:12:59.000Z",
+    "url": "https://techcrunch.com/2026/06/29/geminis-personalized-ai-image-generation-is-now-free-for-u-s-users/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-06-30T02:14:59.565Z"
+  },
+  {
+    "id": "news-1782785699565-1",
+    "title": "Anthropic and Gov. Newsom forge deal allowing California government to use Claude at half price",
+    "summary": "As Anthropic forges a closer relationship with the state of California, the federal government has made an enemy out of the OpenAI rival.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-06-29T18:10:26.000Z",
+    "url": "https://techcrunch.com/2026/06/29/anthropic-and-gov-newsom-forge-deal-allowing-california-government-to-use-claude-at-half-price/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-06-30T02:14:59.565Z"
+  },
+  {
+    "id": "news-1782785699565-2",
+    "title": "South Korean tech giants commit over $550B to ease ‘RAMageddon’",
+    "summary": "The world's two largest memory chip companies vow to build more memory lab fabs as South Korea positions itself as an AI tech powerhouse country.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-06-29T18:07:48.000Z",
+    "url": "https://techcrunch.com/2026/06/29/south-korean-tech-giants-commit-over-550b-to-ease-ramageddon/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-06-30T02:14:59.565Z"
+  },
+  {
+    "id": "news-1782785699565-3",
+    "title": "Arena, the AI leaderboard everyone uses, is now a $100M business",
+    "summary": "The startup, which runs a popular free AI leaderboard, launched its commercial service just last September. ",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-06-29T17:39:17.000Z",
+    "url": "https://techcrunch.com/2026/06/29/arena-the-ai-leaderboard-everyone-uses-is-now-a-100m-business/",
+    "imageUrl": null,
+    "tags": [
+      "AI",
+      "Startup"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-06-30T02:14:59.565Z"
+  },
+  {
+    "id": "news-1782785699565-4",
+    "title": "TIDAL cracks down on AI music by cutting off monetization",
+    "summary": "In addition, TIDAL will use automated tools to remove AI-generated music that attempts to impersonate an artist or a group, the company said.",
+    "category": "industry-news",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-06-29T16:29:04.000Z",
+    "url": "https://techcrunch.com/2026/06/29/tidal-cracks-down-on-ai-music-by-cutting-off-monetization/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-06-30T02:14:59.565Z"
+  },
+  {
+    "id": "news-1782785699566-28",
+    "title": "Blur drummer Dave Rowntree loses UK court appeal to revive ‘black box’ royalties claim against PRS for Music",
+    "summary": "Rowntree's appeal in his proposed class action against PRS for Music has been dismissed\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-06-29T16:08:06.000Z",
+    "url": "https://www.musicbusinessworldwide.com/blur-drummer-dave-rowntree-loses-uk-court-appeal-to-revive-black-box-royalties-claim-against-prs-for-music/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-06-30T02:14:59.566Z"
+  },
+  {
+    "id": "news-1782785699566-29",
+    "title": "TIDAL to automatically tag AI-generated music…  and block it from earning royalties",
+    "summary": "TIDAL is introducing an AI policy that will automatically tag wholly AI-generated music in its app\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-06-29T15:17:41.000Z",
+    "url": "https://www.musicbusinessworldwide.com/tidal-to-tag-fully-ai-generated-music-and-block-it-from-earning-royalties/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-06-30T02:14:59.566Z"
+  },
+  {
+    "id": "news-1782785699565-5",
+    "title": "Omen AI’s plan to optimize data centers is all wet",
+    "summary": "Omen AI raised a $31 million Series A to monitor chip coolant and stop bacterial outbreaks in data centers.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-06-29T13:00:00.000Z",
+    "url": "https://techcrunch.com/2026/06/29/omen-ais-plan-to-optimize-data-centers-is-all-wet/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-06-30T02:14:59.565Z"
+  },
+  {
+    "id": "news-1782785699566-30",
+    "title": "HYBE’s BIGHIT MUSIC cracks down on ‘egregious and unlawful conduct’ targeting CORTIS, as fans attach GPS trackers to artists’ vehicles",
+    "summary": "The complaints covered malicious online posts, the illegal sale of the members' airport ticketing information, and breaches of the artists' privacy and safety.\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-06-29T11:49:27.000Z",
+    "url": "https://www.musicbusinessworldwide.com/hybes-big-hit-cracks-down-on-egregious-and-unlawful-conduct-targeting-cortis-as-fans-attach-gps-trackers-to-artists-vehicles/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-06-30T02:14:59.566Z"
+  },
+  {
+    "id": "news-1782785699565-6",
     "title": "Ford rehires ‘gray beard’ engineers after AI falls short",
     "summary": "\"Mistakenly we thought that by just introducing artificial intelligence ... that would produce a high-quality product.”",
     "category": "ai-research",
@@ -71,10 +216,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-06-29T02:31:28.370Z"
+    "fetchedAt": "2026-06-30T02:14:59.565Z"
   },
   {
-    "id": "news-1782700288370-1",
+    "id": "news-1782785699565-7",
     "title": "Apple Vision Pro exec is reportedly leaving for OpenAI",
     "summary": "Paul Meade, the Apple vice president in charge of the Vision Pro headset, is reportedly leaving the company to join OpenAI’s hardware team.",
     "category": "ai-research",
@@ -87,12 +232,12 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-06-29T02:31:28.370Z"
+    "fetchedAt": "2026-06-30T02:14:59.565Z"
   },
   {
-    "id": "news-1782700288370-2",
+    "id": "news-1782785699565-8",
     "title": "The fittest founder in the room got cancer. Here’s how he used AI to fight back.",
-    "summary": "When confronted with cancer, Connor Christou fed everything tied tied to his regime — blood results, scan data, wearable output, journal entries — into Claude. ",
+    "summary": "When confronted with cancer, Conno Christou fed everything tied to his regime — blood results, scan data, wearable output, journal entries — into Claude. ",
     "category": "ai-research",
     "source": "TechCrunch AI",
     "author": "Unknown",
@@ -103,10 +248,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-06-29T02:31:28.370Z"
+    "fetchedAt": "2026-06-30T02:14:59.565Z"
   },
   {
-    "id": "news-1782700288370-3",
+    "id": "news-1782785699565-9",
     "title": "Asian AI startups launch Mythos-like  models as Anthropic’s export ban drags on",
     "summary": "New models are launching in Asia that promise Mythos-like capabilities without fear of an export ban. U.S. AI labs may never recover this enormous market.",
     "category": "industry-news",
@@ -120,10 +265,10 @@
       "Startup"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-06-29T02:31:28.370Z"
+    "fetchedAt": "2026-06-30T02:14:59.565Z"
   },
   {
-    "id": "news-1782700288371-21",
+    "id": "news-1782785699566-22",
     "title": "Trump Administration Allows Anthropic to Release  Mythos to Select US Organizations",
     "summary": "After weeks of negotiations, the White House permitted Anthropic to grant access to its most advanced AI model to a select group of US companies and government agencies.",
     "category": "ai-research",
@@ -136,10 +281,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-06-29T02:31:28.371Z"
+    "fetchedAt": "2026-06-30T02:14:59.566Z"
   },
   {
-    "id": "news-1782700288370-4",
+    "id": "news-1782785699565-10",
     "title": "OpenAI limits GPT-5.6 rollout after government request, says restrictions shouldn’t be the norm",
     "summary": "“We don’t believe this kind of government access process should become the long-term default,” says OpenAI. “It keeps the best tools from users, developers, enterprises, cyber defenders, and global partners who need them.”",
     "category": "ai-research",
@@ -152,10 +297,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-06-29T02:31:28.370Z"
+    "fetchedAt": "2026-06-30T02:14:59.565Z"
   },
   {
-    "id": "news-1782700288370-5",
+    "id": "news-1782785699565-11",
     "title": "OpenAI poaches Uber India chief to lead its biggest market outside the US",
     "summary": "The hire marks OpenAI's latest push into India, expanding offices, partnerships and hiring.",
     "category": "ai-research",
@@ -169,146 +314,6 @@
       "Partnership"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-06-29T02:31:28.370Z"
-  },
-  {
-    "id": "news-1782700288370-6",
-    "title": "Why everyone from OpenAI to SpaceX is building their own chips (and turning up the heat on Nvidia)",
-    "summary": "Nvidia has dominated the AI chip market for years, but the era of total dependence might be ending.   OpenAI just shared its plans to spice things up with Jalapeño, its custom inference chip built with Broadcom, joining Google, Apple, and SpaceX in a growing list of companies building their way out of single-supplier risk. The goal is less of a […]",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-06-26T17:43:22.000Z",
-    "url": "https://techcrunch.com/video/why-everyone-from-openai-to-spacex-is-building-their-own-chips-and-turning-up-the-heat-on-nvidia/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-06-29T02:31:28.370Z"
-  },
-  {
-    "id": "news-1782700288371-22",
-    "title": "OpenAI Has New AI Models. Here’s Why You Can’t Use Them",
-    "summary": "The White House asked OpenAI to delay the rollout of its GPT-5.6 AI models, two weeks after Anthropic had to take its most advanced AI models offline.",
-    "category": "ai-research",
-    "source": "Wired AI",
-    "author": "Unknown",
-    "publishedAt": "2026-06-26T17:05:40.000Z",
-    "url": "https://www.wired.com/story/openai-gpt-56-model-release-trump-admin-approval/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-06-29T02:31:28.371Z"
-  },
-  {
-    "id": "news-1782700288371-29",
-    "title": "Sony Music Publishing wins Publisher of the Year at 2026 ASCAP Rhythm & Soul Awards",
-    "summary": "SMP songwriters were recognized across 27 of ASCAP's top-performing R&B, hip-hop and gospel songs of the past year.\nSource",
-    "category": "industry-news",
-    "source": "Music Business Worldwide",
-    "author": "Unknown",
-    "publishedAt": "2026-06-26T16:44:10.000Z",
-    "url": "https://www.musicbusinessworldwide.com/sony-music-publishing-wins-publisher-of-the-year-at-2026-ascap-rhythm-soul-awards/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-06-29T02:31:28.372Z"
-  },
-  {
-    "id": "news-1782700288370-7",
-    "title": "It’s not about Anthropic vs. OpenAI anymore",
-    "summary": "AI models have progressed to the point where their capabilities have real political consequences. Dealing with those consequences will require collective action.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-06-26T16:24:47.000Z",
-    "url": "https://techcrunch.com/2026/06/26/its-not-about-anthropic-vs-openai-anymore/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-06-29T02:31:28.370Z"
-  },
-  {
-    "id": "news-1782700288371-23",
-    "title": "Europe Is Fed Up and Wants Its Own AI",
-    "summary": "It's a stretch to think that the continent can build a top-tier model, but it has an advantage: Donald Trump.",
-    "category": "tech-innovation",
-    "source": "Wired AI",
-    "author": "Unknown",
-    "publishedAt": "2026-06-26T15:00:00.000Z",
-    "url": "https://www.wired.com/story/europe-is-fed-up-and-wants-its-own-ai/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-06-29T02:31:28.371Z"
-  },
-  {
-    "id": "news-1782700288370-8",
-    "title": "OpenAI’s Jalapeño chip is Big Tech’s spiciest move away from Nvidia",
-    "summary": "Nvidia has dominated the AI chip market for years, but the era of total dependence might be ending.   OpenAI just shared its plans to spice things up with Jalapeño, its custom inference chip built with Broadcom, joining Google, Apple, and SpaceX in a growing list of companies building their way out of single-supplier risk. The goal is less of a […]",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-06-26T14:00:00.000Z",
-    "url": "https://techcrunch.com/podcast/openais-jalapeno-chip-is-big-techs-spiciest-move-away-from-nvidia/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-06-29T02:31:28.370Z"
-  },
-  {
-    "id": "news-1782700288372-30",
-    "title": "Warner Music launches pilot with indie record stores to test whether fans’ unwanted vinyl can be recycled",
-    "summary": "Participating stores will collect the records for recovery partner Virterras Materials to assess for potential material recycling.\nSource",
-    "category": "industry-news",
-    "source": "Music Business Worldwide",
-    "author": "Unknown",
-    "publishedAt": "2026-06-26T11:41:13.000Z",
-    "url": "https://www.musicbusinessworldwide.com/warner-music-launches-pilot-with-indie-record-stores-to-test-whether-fans-unwanted-vinyl-can-be-recycled/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-06-29T02:31:28.372Z"
-  },
-  {
-    "id": "news-1782700288371-24",
-    "title": "Anthropic Thinks Its Own Success Is Key to Making AI Safe",
-    "summary": "Anthropic's critics argue it's rapidly accumulating power. The company says that's what responsible AI development looks like.",
-    "category": "tech-innovation",
-    "source": "Wired AI",
-    "author": "Unknown",
-    "publishedAt": "2026-06-26T00:49:13.000Z",
-    "url": "https://www.wired.com/story/anthropic-thinks-ai-can-only-be-safe-under-its-control/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-06-29T02:31:28.371Z"
-  },
-  {
-    "id": "news-1782700288370-9",
-    "title": "The White House is asking OpenAI to slow roll the release of its new model over safety concerns",
-    "summary": "OpenAI reportedly plans to share its newest model, GPT 5.6, with a select group of partners instead of with the broader public. The reason: the Trump administration told it to.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-06-25T23:34:39.000Z",
-    "url": "https://techcrunch.com/2026/06/25/the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-06-29T02:31:28.371Z"
+    "fetchedAt": "2026-06-30T02:14:59.565Z"
   }
 ]
