@@ -1,319 +1,322 @@
 [
   {
-    "id": "news-1782785699566-21",
-    "title": "Meta Contractors Posed as Teens to Prompt Rival Chatbots About Suicide, Sex, and Drugs",
-    "summary": "Hundreds of contractors working on a project for Meta pretended to be kids in order to see how other chatbots like Gemini and ChatGPT would respond to high-risk subjects, WIRED found.",
-    "category": "ai-research",
-    "source": "Wired AI",
-    "author": "Unknown",
-    "publishedAt": "2026-06-29T21:49:26.000Z",
-    "url": "https://www.wired.com/story/meta-contractors-pretending-to-be-teens-chatbot-testing/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-06-30T02:14:59.566Z"
-  },
-  {
-    "id": "news-1782785699566-32",
-    "title": "Heri Iznaga, Cain Culto & More Emerging Latin Artists on Our Radar",
-    "summary": "The rising stars we've discovered in June, and who should be on your radar.",
+    "id": "news-1782873132308-0",
+    "title": "Wayve launches $85M employee tender offer at $8.5B valuation",
+    "summary": "Wayve’s offering is part of a growing trend of AI startups using employee tenders as a strategic tool to attract and retain talent.",
     "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-06-29T21:26:40.000Z",
-    "url": "https://www.billboard.com/music/latin/on-the-radar-latin-emerging-artists-june-2026-1236283544/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-06-30T02:14:59.566Z"
-  },
-  {
-    "id": "news-1782785699566-33",
-    "title": "Fuerza Regida’s JOP & Label Boss Jimmy Humilde Go Public With Legal Feud in Instagram Posts",
-    "summary": "The bandleader and record executive each took to social media over the weekend to express frustration about their ongoing lawsuit. ",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-06-29T21:21:06.000Z",
-    "url": "https://www.billboard.com/pro/fuerza-regida-jop-jimmy-humilde-lawsuit-fight-instagram/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-06-30T02:14:59.567Z"
-  },
-  {
-    "id": "news-1782785699567-34",
-    "title": "The 10 Best Sets We Saw at Electric Forest 2026",
-    "summary": "The festival returned to Rothbury, Michigan this past weekend, June 25-28.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-06-29T20:50:35.000Z",
-    "url": "https://www.billboard.com/lists/best-sets-electric-forest-2026/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-06-30T02:14:59.567Z"
-  },
-  {
-    "id": "news-1782785699564-0",
-    "title": "Gemini’s personalized AI image generation is now free for US users",
-    "summary": "Google is expanding Gemini’s personalized AI image generation to eligible free users in the U.S., allowing the chatbot to create images based on your interests and data from connected Google apps.",
-    "category": "ai-research",
     "source": "TechCrunch AI",
     "author": "Unknown",
-    "publishedAt": "2026-06-29T20:12:59.000Z",
-    "url": "https://techcrunch.com/2026/06/29/geminis-personalized-ai-image-generation-is-now-free-for-u-s-users/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-06-30T02:14:59.565Z"
-  },
-  {
-    "id": "news-1782785699565-1",
-    "title": "Anthropic and Gov. Newsom forge deal allowing California government to use Claude at half price",
-    "summary": "As Anthropic forges a closer relationship with the state of California, the federal government has made an enemy out of the OpenAI rival.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-06-29T18:10:26.000Z",
-    "url": "https://techcrunch.com/2026/06/29/anthropic-and-gov-newsom-forge-deal-allowing-california-government-to-use-claude-at-half-price/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-06-30T02:14:59.565Z"
-  },
-  {
-    "id": "news-1782785699565-2",
-    "title": "South Korean tech giants commit over $550B to ease ‘RAMageddon’",
-    "summary": "The world's two largest memory chip companies vow to build more memory lab fabs as South Korea positions itself as an AI tech powerhouse country.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-06-29T18:07:48.000Z",
-    "url": "https://techcrunch.com/2026/06/29/south-korean-tech-giants-commit-over-550b-to-ease-ramageddon/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-06-30T02:14:59.565Z"
-  },
-  {
-    "id": "news-1782785699565-3",
-    "title": "Arena, the AI leaderboard everyone uses, is now a $100M business",
-    "summary": "The startup, which runs a popular free AI leaderboard, launched its commercial service just last September. ",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-06-29T17:39:17.000Z",
-    "url": "https://techcrunch.com/2026/06/29/arena-the-ai-leaderboard-everyone-uses-is-now-a-100m-business/",
+    "publishedAt": "2026-07-01T02:04:40.000Z",
+    "url": "https://techcrunch.com/2026/06/30/wayve-launches-85m-employee-tender-offer-at-8-5b-valuation/",
     "imageUrl": null,
     "tags": [
       "AI",
       "Startup"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-06-30T02:14:59.565Z"
+    "fetchedAt": "2026-07-01T02:32:12.308Z"
   },
   {
-    "id": "news-1782785699565-4",
-    "title": "TIDAL cracks down on AI music by cutting off monetization",
-    "summary": "In addition, TIDAL will use automated tools to remove AI-generated music that attempts to impersonate an artist or a group, the company said.",
+    "id": "news-1782873132310-39",
+    "title": "Madonna Gifting Fans an Early Listen of ‘Confessions II’ Album Through Thursday Livestream: All the Details",
+    "summary": "Madonna will sit down with Bob the Drag Queen, Stuart Price & her daughter Lola Leon on the \"iHeartRadio and TikTok Live Premiere.\"",
     "category": "industry-news",
-    "source": "TechCrunch AI",
+    "source": "Billboard",
     "author": "Unknown",
-    "publishedAt": "2026-06-29T16:29:04.000Z",
-    "url": "https://techcrunch.com/2026/06/29/tidal-cracks-down-on-ai-music-by-cutting-off-monetization/",
+    "publishedAt": "2026-07-01T00:01:50.000Z",
+    "url": "https://www.billboard.com/music/pop/madonna-preview-confessions-album-livestream-1236285561/",
     "imageUrl": null,
     "tags": [
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-06-30T02:14:59.565Z"
+    "fetchedAt": "2026-07-01T02:32:12.310Z"
   },
   {
-    "id": "news-1782785699566-28",
-    "title": "Blur drummer Dave Rowntree loses UK court appeal to revive ‘black box’ royalties claim against PRS for Music",
-    "summary": "Rowntree's appeal in his proposed class action against PRS for Music has been dismissed\nSource",
+    "id": "news-1782873132310-24",
+    "title": "The Trump Administration Is Lifting Its Export Controls on Anthropic’s Mythos and Fable AI Models",
+    "summary": "The White House is easing restrictions on Anthropic’s most advanced AI models weeks after ordering the company to suspend access for foreign nationals.",
+    "category": "ai-research",
+    "source": "Wired AI",
+    "author": "Unknown",
+    "publishedAt": "2026-06-30T23:23:04.000Z",
+    "url": "https://www.wired.com/story/trump-administration-lifts-export-controls-on-anthropics-mythos-and-fable-ai-models/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-07-01T02:32:12.310Z"
+  },
+  {
+    "id": "news-1782873132310-40",
+    "title": "Randy Rainbow Drags ‘Dumbf–k Tyrant’ Donald Trump in Jazzy Song Parody Amid Iran War Discontent",
+    "summary": "\"Time to resign,\" the comedian sings to the tune of a Cole Porter classic.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-06-30T22:23:07.000Z",
+    "url": "https://www.billboard.com/music/music-news/randy-rainbow-demented-donald-trump-song-parody-1236285328/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-07-01T02:32:12.310Z"
+  },
+  {
+    "id": "news-1782873132308-1",
+    "title": "The DeepMind trio who built a poker AI are now making money for quant hedge funds",
+    "summary": "EquiLibre Technologies, a Prague-based AI lab founded by three ex-DeepMind researchers, is now valued at more than $500 million.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-06-30T20:33:48.000Z",
+    "url": "https://techcrunch.com/2026/06/30/the-deepmind-trio-who-built-a-poker-ai-are-now-making-money-for-quant-hedge-funds/",
+    "imageUrl": null,
+    "tags": [
+      "AI",
+      "Research"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-07-01T02:32:12.308Z"
+  },
+  {
+    "id": "news-1782873132308-2",
+    "title": "Google introduces a faster, cheaper image generator with Nano Banana 2 Lite",
+    "summary": "Google is updating its image generator to make it faster and cheaper, making it a more useful tool for creators looking to make AI content. ",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-06-30T19:02:38.000Z",
+    "url": "https://techcrunch.com/2026/06/30/google-introduces-a-faster-cheaper-image-generator-with-nano-banana-2-lite/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-07-01T02:32:12.308Z"
+  },
+  {
+    "id": "news-1782873132310-32",
+    "title": "Primary Wave pumps $100M+ into Atticus Works, a new literary and theatrical catalog acquisition company",
+    "summary": "Allen & Company LLC acted as financial advisor to Primary Wave Music in connection with the transaction\nSource",
     "category": "industry-news",
     "source": "Music Business Worldwide",
     "author": "Unknown",
-    "publishedAt": "2026-06-29T16:08:06.000Z",
-    "url": "https://www.musicbusinessworldwide.com/blur-drummer-dave-rowntree-loses-uk-court-appeal-to-revive-black-box-royalties-claim-against-prs-for-music/",
+    "publishedAt": "2026-06-30T18:15:40.000Z",
+    "url": "https://www.musicbusinessworldwide.com/primary-wave-pumps-100m-into-atticus-works-a-new-literary-and-theatrical-catalog-acquisition-company/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-07-01T02:32:12.310Z"
+  },
+  {
+    "id": "news-1782873132309-3",
+    "title": "Nvidia competitor Etched hits $5B valuation, $1B in sales for AI chip",
+    "summary": "Nvidia AI chip competitor Etched says it has already booked $1 billion under contract for the inference systems powered by its chip.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-06-30T18:13:02.000Z",
+    "url": "https://techcrunch.com/2026/06/30/nvidia-competitor-etched-hits-5b-valuation-1b-in-sales-for-ai-chip/",
     "imageUrl": null,
     "tags": [
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-06-30T02:14:59.566Z"
+    "fetchedAt": "2026-07-01T02:32:12.309Z"
   },
   {
-    "id": "news-1782785699566-29",
-    "title": "TIDAL to automatically tag AI-generated music…  and block it from earning royalties",
-    "summary": "TIDAL is introducing an AI policy that will automatically tag wholly AI-generated music in its app\nSource",
+    "id": "news-1782873132310-33",
+    "title": "US senators revive bill that would force AI-generated audio, video and images to carry labels",
+    "summary": "Songwriters and SAG-AFTRA line up behind revived US bill to label AI-generated audio, video and images \nSource",
     "category": "industry-news",
     "source": "Music Business Worldwide",
     "author": "Unknown",
-    "publishedAt": "2026-06-29T15:17:41.000Z",
-    "url": "https://www.musicbusinessworldwide.com/tidal-to-tag-fully-ai-generated-music-and-block-it-from-earning-royalties/",
+    "publishedAt": "2026-06-30T18:03:13.000Z",
+    "url": "https://www.musicbusinessworldwide.com/us-senators-revive-bill-to-force-ai-generated-audio-video-and-images-to-carry-labels/",
     "imageUrl": null,
     "tags": [
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-06-30T02:14:59.566Z"
+    "fetchedAt": "2026-07-01T02:32:12.310Z"
   },
   {
-    "id": "news-1782785699565-5",
-    "title": "Omen AI’s plan to optimize data centers is all wet",
-    "summary": "Omen AI raised a $31 million Series A to monitor chip coolant and stop bacterial outbreaks in data centers.",
+    "id": "news-1782873132309-4",
+    "title": "Anthropic launches Claude Sonnet 5 as a cheaper way to run agents",
+    "summary": "Anthropic’s Claude Sonnet 5 brings stronger agentic capabilities, lower pricing, and improved safety, positioning the model as a cheaper alternative to Opus, GPT-5.5, and Gemini Pro.",
     "category": "ai-research",
     "source": "TechCrunch AI",
     "author": "Unknown",
-    "publishedAt": "2026-06-29T13:00:00.000Z",
-    "url": "https://techcrunch.com/2026/06/29/omen-ais-plan-to-optimize-data-centers-is-all-wet/",
+    "publishedAt": "2026-06-30T18:00:00.000Z",
+    "url": "https://techcrunch.com/2026/06/30/anthropic-launches-claude-sonnet-5-as-a-cheaper-way-to-run-agents/",
     "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
+    "tags": [],
     "readTime": 1,
-    "fetchedAt": "2026-06-30T02:14:59.565Z"
+    "fetchedAt": "2026-07-01T02:32:12.309Z"
   },
   {
-    "id": "news-1782785699566-30",
-    "title": "HYBE’s BIGHIT MUSIC cracks down on ‘egregious and unlawful conduct’ targeting CORTIS, as fans attach GPS trackers to artists’ vehicles",
-    "summary": "The complaints covered malicious online posts, the illegal sale of the members' airport ticketing information, and breaches of the artists' privacy and safety.\nSource",
+    "id": "news-1782873132310-34",
+    "title": "Virgin Music Group unveils new global leadership team across six regions, integrating Downtown executives",
+    "summary": "It follows VMG's $775 million acquisition of Downtown, which completed in February.\nSource",
     "category": "industry-news",
     "source": "Music Business Worldwide",
     "author": "Unknown",
-    "publishedAt": "2026-06-29T11:49:27.000Z",
-    "url": "https://www.musicbusinessworldwide.com/hybes-big-hit-cracks-down-on-egregious-and-unlawful-conduct-targeting-cortis-as-fans-attach-gps-trackers-to-artists-vehicles/",
+    "publishedAt": "2026-06-30T17:56:40.000Z",
+    "url": "https://www.musicbusinessworldwide.com/virgin-music-group-unveils-new-global-leadership-team-across-six-regions-integrating-downtown-executives/",
     "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
+    "tags": [],
     "readTime": 1,
-    "fetchedAt": "2026-06-30T02:14:59.566Z"
+    "fetchedAt": "2026-07-01T02:32:12.310Z"
   },
   {
-    "id": "news-1782785699565-6",
-    "title": "Ford rehires ‘gray beard’ engineers after AI falls short",
-    "summary": "\"Mistakenly we thought that by just introducing artificial intelligence ... that would produce a high-quality product.”",
+    "id": "news-1782873132309-5",
+    "title": "Acti puts AI agents directly into your smartphone keyboard",
+    "summary": "Acti is betting the smartphone keyboard is the next home for AI assistants. The startup's new keyboard for iOS and Android works across apps and lets users create custom AI-powered shortcuts using natural language.",
     "category": "ai-research",
     "source": "TechCrunch AI",
     "author": "Unknown",
-    "publishedAt": "2026-06-28T19:05:39.000Z",
-    "url": "https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-06-30T02:14:59.565Z"
-  },
-  {
-    "id": "news-1782785699565-7",
-    "title": "Apple Vision Pro exec is reportedly leaving for OpenAI",
-    "summary": "Paul Meade, the Apple vice president in charge of the Vision Pro headset, is reportedly leaving the company to join OpenAI’s hardware team.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-06-27T16:45:09.000Z",
-    "url": "https://techcrunch.com/2026/06/27/apple-vision-pro-exec-is-reportedly-leaving-for-openai/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-06-30T02:14:59.565Z"
-  },
-  {
-    "id": "news-1782785699565-8",
-    "title": "The fittest founder in the room got cancer. Here’s how he used AI to fight back.",
-    "summary": "When confronted with cancer, Conno Christou fed everything tied to his regime — blood results, scan data, wearable output, journal entries — into Claude. ",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-06-27T14:00:00.000Z",
-    "url": "https://techcrunch.com/2026/06/27/the-fittest-founder-in-the-room-got-cancer-heres-how-he-used-ai-to-fight-back/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-06-30T02:14:59.565Z"
-  },
-  {
-    "id": "news-1782785699565-9",
-    "title": "Asian AI startups launch Mythos-like  models as Anthropic’s export ban drags on",
-    "summary": "New models are launching in Asia that promise Mythos-like capabilities without fear of an export ban. U.S. AI labs may never recover this enormous market.",
-    "category": "industry-news",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-06-27T12:00:00.000Z",
-    "url": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/",
+    "publishedAt": "2026-06-30T17:52:46.000Z",
+    "url": "https://techcrunch.com/2026/06/30/acti-puts-ai-agents-directly-into-your-smartphone-keyboard/",
     "imageUrl": null,
     "tags": [
       "AI",
       "Startup"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-06-30T02:14:59.565Z"
+    "fetchedAt": "2026-07-01T02:32:12.309Z"
   },
   {
-    "id": "news-1782785699566-22",
-    "title": "Trump Administration Allows Anthropic to Release  Mythos to Select US Organizations",
-    "summary": "After weeks of negotiations, the White House permitted Anthropic to grant access to its most advanced AI model to a select group of US companies and government agencies.",
-    "category": "ai-research",
-    "source": "Wired AI",
+    "id": "news-1782873132310-35",
+    "title": "Spotify bundles three months of Premium with Vodafone Idea’s postpaid plans in its first Indian telco partnership",
+    "summary": "Vi postpaid customers on eligible plans receive three months of Spotify Premium at no extra cost.\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
     "author": "Unknown",
-    "publishedAt": "2026-06-27T00:26:14.000Z",
-    "url": "https://www.wired.com/story/anthropic-restores-access-to-mythos/",
+    "publishedAt": "2026-06-30T17:43:53.000Z",
+    "url": "https://www.musicbusinessworldwide.com/spotify-bundles-three-months-of-premium-with-vodafone-ideas-postpaid-plans-in-its-first-indian-telco-partnership/",
     "imageUrl": null,
     "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-06-30T02:14:59.566Z"
-  },
-  {
-    "id": "news-1782785699565-10",
-    "title": "OpenAI limits GPT-5.6 rollout after government request, says restrictions shouldn’t be the norm",
-    "summary": "“We don’t believe this kind of government access process should become the long-term default,” says OpenAI. “It keeps the best tools from users, developers, enterprises, cyber defenders, and global partners who need them.”",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-06-26T18:32:14.000Z",
-    "url": "https://techcrunch.com/2026/06/26/openai-limits-gpt-5-6-rollout-after-government-request-says-restrictions-shouldnt-be-the-norm/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-06-30T02:14:59.565Z"
-  },
-  {
-    "id": "news-1782785699565-11",
-    "title": "OpenAI poaches Uber India chief to lead its biggest market outside the US",
-    "summary": "The hire marks OpenAI's latest push into India, expanding offices, partnerships and hiring.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-06-26T18:19:36.000Z",
-    "url": "https://techcrunch.com/2026/06/26/openai-poaches-uber-india-chief-to-lead-its-biggest-market-outside-the-u-s/",
-    "imageUrl": null,
-    "tags": [
+      "Spotify",
       "AI",
       "Partnership"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-06-30T02:14:59.565Z"
+    "fetchedAt": "2026-07-01T02:32:12.310Z"
+  },
+  {
+    "id": "news-1782873132309-6",
+    "title": "Anthropic’s Claude Science bets on workflow, not a new model, to win over scientists",
+    "summary": "Anthropic's Claude Science is a workbench that gives scientists one environment to do computational research, saving them from the need to bounce between databases, pipelines, and tools.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-06-30T17:00:00.000Z",
+    "url": "https://techcrunch.com/2026/06/30/anthropics-claude-science-bets-on-workflow-not-a-new-model-to-win-over-scientists/",
+    "imageUrl": null,
+    "tags": [
+      "Research"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-07-01T02:32:12.309Z"
+  },
+  {
+    "id": "news-1782873132309-7",
+    "title": "X now offers an MCP server to make its platform easier for AI tools to use",
+    "summary": "X has launched a hosted MCP server, making it easier for developers to connect AI applications with the company’s API. ",
+    "category": "tech-innovation",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-06-30T15:08:42.000Z",
+    "url": "https://techcrunch.com/2026/06/30/x-now-offers-an-mcp-server-to-make-its-platform-easier-for-ai-tools-to-use/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-07-01T02:32:12.309Z"
+  },
+  {
+    "id": "news-1782873132309-8",
+    "title": "Podcasting platform Riverside enters the newsletter publishing game",
+    "summary": "Users will be able use AI to create newsletters based on their recordings.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-06-30T15:00:00.000Z",
+    "url": "https://techcrunch.com/2026/06/30/podcasting-platform-riverside-enters-the-newsletter-publishing-game/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-07-01T02:32:12.309Z"
+  },
+  {
+    "id": "news-1782873132309-9",
+    "title": "Amazon launches new $1 billion FDE org, following OpenAI and Anthropic",
+    "summary": "Engineers on the new team will embed within companies to deploy purpose-built agents, focusing on fast deployments and customer self-sufficiency.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-06-30T15:00:00.000Z",
+    "url": "https://techcrunch.com/2026/06/30/amazon-launches-new-1-billion-fde-org-following-openai-and-anthropic/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-07-01T02:32:12.309Z"
+  },
+  {
+    "id": "news-1782873132309-10",
+    "title": "Lumo, Proton’s privacy-focused AI chatbot, gets an upgrade",
+    "summary": "Proton's Lumo 2.0 is dropping this week, giving users a broader variety of capabilities. ",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-06-30T14:00:00.000Z",
+    "url": "https://techcrunch.com/2026/06/30/lumo-protons-privacy-focused-ai-chatbot-gets-an-upgrade/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-07-01T02:32:12.309Z"
+  },
+  {
+    "id": "news-1782873132310-36",
+    "title": "Responsible AI must protect the human creativity that gives culture meaning",
+    "summary": "The following MBW op/ed comes from  Rasha Khalifa Al Mubarak, founder and chairwoman of UAE-based MusicNation\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-06-30T11:51:32.000Z",
+    "url": "https://www.musicbusinessworldwide.com/responsible-ai-must-protect-the-human-creativity-that-gives-culture-meaning/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-07-01T02:32:12.310Z"
+  },
+  {
+    "id": "news-1782873132310-37",
+    "title": "Suno sued by Winamp subsidiary Jamendo over AI training, as firm files new copyright suit just a week after suing Nvidia",
+    "summary": "Jamendo accuses Suno of the unauthorized use of musical content and associated data in the development and operation of its AI technologies.\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-06-30T11:23:52.000Z",
+    "url": "https://www.musicbusinessworldwide.com/suno-sued-by-winamp-subsidiary-jamendo-as-firm-files-new-copyright-suit-just-a-week-after-suing-nvidia/",
+    "imageUrl": null,
+    "tags": [
+      "AI",
+      "Copyright"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-07-01T02:32:12.310Z"
   }
 ]
