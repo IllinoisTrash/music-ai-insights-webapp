@@ -1,20 +1,81 @@
 [
   {
-    "id": "news-1783043711771-37",
-    "title": "Hearts2Hearts on Turning Up the Brightness With ‘Lemon Tang’ & The Art of Shining Together",
-    "summary": "The eight members reflect on their global breakthrough and the summer they intend to soundtrack.",
+    "id": "news-1783130068500-0",
+    "title": "The only AI glossary you’ll need this year",
+    "summary": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-07-03T21:20:00.000Z",
+    "url": "https://techcrunch.com/2026/07/03/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-07-04T01:54:28.500Z"
+  },
+  {
+    "id": "news-1783130068502-36",
+    "title": "Madonna and Daughter Lola Leon Discuss ‘Confessions II’ Collab ‘The Test’: ‘A Very Magical Moment’",
+    "summary": "The track marks the mother-daughter duo's first musical team-up.",
     "category": "industry-news",
     "source": "Billboard",
     "author": "Unknown",
-    "publishedAt": "2026-07-03T00:57:20.000Z",
-    "url": "https://www.billboard.com/music/music-news/hearts2hearts-interview-lemon-tang-1236287225/",
+    "publishedAt": "2026-07-03T21:18:21.000Z",
+    "url": "https://www.billboard.com/music/pop/madonna-lola-leon-the-test-confessions-ii-interview-1236287600/",
     "imageUrl": null,
     "tags": [],
     "readTime": 1,
-    "fetchedAt": "2026-07-03T01:55:11.771Z"
+    "fetchedAt": "2026-07-04T01:54:28.502Z"
   },
   {
-    "id": "news-1783043711770-0",
+    "id": "news-1783130068502-37",
+    "title": "Alexi Cory-Smith, Bella Figura Co-Founder and CEO, Dies at 58",
+    "summary": "The firm, which acquires and manages rights across music publishing and recordings, announced Cory-Smith's unexpected passing on Friday (July 3).",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-07-03T19:08:01.000Z",
+    "url": "https://www.billboard.com/pro/alexi-cory-smith-death-bella-figura-music/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-07-04T01:54:28.502Z"
+  },
+  {
+    "id": "news-1783130068502-38",
+    "title": "Every Song That Topped the U.K. Chart for 8 or More Weeks, But Didn’t Make the Top 10 on the Hot 100",
+    "summary": "\"Rein Me In” by Sam Fender and Olivia Dean is now one of just two singles to log 15 or more weeks at No. 1 in the U.K. without making the top 10 on the Hot 100. ",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-07-03T17:37:59.000Z",
+    "url": "https://www.billboard.com/lists/songs-that-were-big-uk-hits-but-not-in-the-u-s/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-07-04T01:54:28.502Z"
+  },
+  {
+    "id": "news-1783130068502-29",
+    "title": "Spotify slashes streams of hit song after suspicious activity on prediction market Kalshi",
+    "summary": "Kalshi said in April that trading on the its music 'contracts' had already topped USD $400 million in 2026\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-07-03T11:01:38.000Z",
+    "url": "https://www.musicbusinessworldwide.com/spotify-slashes-streams-hit-song-after-suspicious-activity-on-prediction-market-kalshi/",
+    "imageUrl": null,
+    "tags": [
+      "Spotify",
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-07-04T01:54:28.502Z"
+  },
+  {
+    "id": "news-1783130068500-1",
     "title": "Mark Zuckerberg tells staff that AI agents haven’t progressed as quickly as he’d hoped",
     "summary": "At an internal meeting, the Meta CEO reportedly said that AI development efforts were not moving as quickly as anticipated.",
     "category": "ai-research",
@@ -27,24 +88,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-07-03T01:55:11.770Z"
+    "fetchedAt": "2026-07-04T01:54:28.500Z"
   },
   {
-    "id": "news-1783043711771-38",
-    "title": "A Timeline of Scooter Braun & Sydney Sweeney’s Relationship",
-    "summary": "The music executive & actress were spotted together shortly after Sweeney called off her engagement in 2025.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-07-02T23:31:30.000Z",
-    "url": "https://www.billboard.com/lists/scooter-braun-sydney-sweeney-relationship-timeline/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-07-03T01:55:11.771Z"
-  },
-  {
-    "id": "news-1783043711771-29",
+    "id": "news-1783130068502-30",
     "title": "Suno explores developer API, seeking apps ‘that unlock experiences generative music makes possible for the first time’",
     "summary": "\"Ahead of our partner powered model, we're exploring a developer API and want to hear from you before we start building,\" Jack Brody wrote.\nSource",
     "category": "industry-news",
@@ -55,10 +102,10 @@
     "imageUrl": null,
     "tags": [],
     "readTime": 1,
-    "fetchedAt": "2026-07-03T01:55:11.771Z"
+    "fetchedAt": "2026-07-04T01:54:28.502Z"
   },
   {
-    "id": "news-1783043711771-30",
+    "id": "news-1783130068502-31",
     "title": "Logan Light joins Warner Music Group as Chief of Staff to CEO Robert Kyncl",
     "summary": "Light joined WMG in March according to his LinkedIn profile\nSource",
     "category": "industry-news",
@@ -69,24 +116,10 @@
     "imageUrl": null,
     "tags": [],
     "readTime": 1,
-    "fetchedAt": "2026-07-03T01:55:11.771Z"
+    "fetchedAt": "2026-07-04T01:54:28.502Z"
   },
   {
-    "id": "news-1783043711771-39",
-    "title": "Pretty Lights Announces First Album Since 2013, 45-Song ‘A Trip Thru Time Fantastic’",
-    "summary": "The first three parts of the nine-part album are out now.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-07-02T20:36:12.000Z",
-    "url": "https://www.billboard.com/music/music-news/pretty-lights-new-album-a-trip-through-time-fantastic-1236287015/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-07-03T01:55:11.771Z"
-  },
-  {
-    "id": "news-1783043711770-1",
+    "id": "news-1783130068500-2",
     "title": "Jersey Mike’s IPO illustrates how bad the AI hype has become",
     "summary": "Just for kicks, I took a look at Jersey Mike's IPO documents. Surely a sandwich shop would have no need to mention AI. But lo and behold. ",
     "category": "ai-research",
@@ -99,10 +132,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-07-03T01:55:11.770Z"
+    "fetchedAt": "2026-07-04T01:54:28.500Z"
   },
   {
-    "id": "news-1783043711770-2",
+    "id": "news-1783130068500-3",
     "title": "Meta quietly launches vibe-coded gaming app Pocket",
     "summary": "Meta has quietly launched Pocket, an experimental AI app that lets users generate and share interactive mini games using text prompts.",
     "category": "tech-innovation",
@@ -115,10 +148,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-07-03T01:55:11.770Z"
+    "fetchedAt": "2026-07-04T01:54:28.500Z"
   },
   {
-    "id": "news-1783043711770-3",
+    "id": "news-1783130068500-4",
     "title": "Anthropic is discussing a new custom chip with Samsung",
     "summary": "The news comes about a week after OpenAI announced its own custom AI chip in a partnership with Broadcom. ",
     "category": "ai-research",
@@ -132,10 +165,10 @@
       "Partnership"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-07-03T01:55:11.770Z"
+    "fetchedAt": "2026-07-04T01:54:28.501Z"
   },
   {
-    "id": "news-1783043711771-22",
+    "id": "news-1783130068502-22",
     "title": "Can Cursor Remain a Platform for OpenAI and Anthropic’s Models Inside SpaceX?",
     "summary": "Cursor hopes to continue offering third-party AI models after it's acquired by SpaceX, testing the relationships between frontier AI labs.",
     "category": "ai-research",
@@ -148,10 +181,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-07-03T01:55:11.771Z"
+    "fetchedAt": "2026-07-04T01:54:28.502Z"
   },
   {
-    "id": "news-1783043711771-31",
+    "id": "news-1783130068502-32",
     "title": "Judge denies Sony Music bid to add over 30,000 recordings to Udio lawsuit",
     "summary": "The ruling from Judge Alvin K. Hellerstein keeps the case at the 333 works that Sony had originally put in suit.\nSource",
     "category": "industry-news",
@@ -162,10 +195,10 @@
     "imageUrl": null,
     "tags": [],
     "readTime": 1,
-    "fetchedAt": "2026-07-03T01:55:11.771Z"
+    "fetchedAt": "2026-07-04T01:54:28.502Z"
   },
   {
-    "id": "news-1783043711771-32",
+    "id": "news-1783130068502-33",
     "title": "A counterfeit merch crackdown, facial recognition at K-pop concerts, and 3 other things we learned from HYBE’s 2025 sustainability report",
     "summary": "The 121-page document sets out a number of disclosures, from anti-counterfeiting measures to the company's use of generative AI and expansion into physical retail.\nSource",
     "category": "ai-research",
@@ -179,10 +212,10 @@
       "Generative AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-07-03T01:55:11.771Z"
+    "fetchedAt": "2026-07-04T01:54:28.502Z"
   },
   {
-    "id": "news-1783043711771-33",
+    "id": "news-1783130068502-34",
     "title": "Warner Records partners with Sickamore’s three times LOUDER",
     "summary": "Brooklyn alternative R&B artist Laila! will be the partnership’s flagship artist.\nSource",
     "category": "industry-news",
@@ -196,10 +229,10 @@
       "Partnership"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-07-03T01:55:11.771Z"
+    "fetchedAt": "2026-07-04T01:54:28.502Z"
   },
   {
-    "id": "news-1783043711770-4",
+    "id": "news-1783130068501-5",
     "title": "OpenAI proposed donating 5% of its equity to a US sovereign wealth fund",
     "summary": "OpenAI CEO Sam Altman has reportedly proposed giving 5% of the company’s equity to a U.S. sovereign wealth fund, reviving discussions about letting the public share in the financial gains from the AI boom. ",
     "category": "ai-research",
@@ -212,10 +245,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-07-03T01:55:11.770Z"
+    "fetchedAt": "2026-07-04T01:54:28.501Z"
   },
   {
-    "id": "news-1783043711770-5",
+    "id": "news-1783130068501-6",
     "title": "Microsoft launches its own AI deployment company with $2.5 billion commitment",
     "summary": "Microsoft follows Amazon, OpenAI, and Anthropic with its new AI deployment group.",
     "category": "ai-research",
@@ -228,10 +261,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-07-03T01:55:11.770Z"
+    "fetchedAt": "2026-07-04T01:54:28.501Z"
   },
   {
-    "id": "news-1783043711770-6",
+    "id": "news-1783130068501-7",
     "title": "Yep, we’re using OpenClaw to date now",
     "summary": "Ben Guez has \"a bunch of potential international wives in [his] DMs,\" thanks to an automated script he set up using OpenClaw, Claude code, and Instagram trials.",
     "category": "ai-research",
@@ -242,10 +275,10 @@
     "imageUrl": null,
     "tags": [],
     "readTime": 1,
-    "fetchedAt": "2026-07-03T01:55:11.771Z"
+    "fetchedAt": "2026-07-04T01:54:28.501Z"
   },
   {
-    "id": "news-1783043711771-34",
+    "id": "news-1783130068502-35",
     "title": "Breaking Wave Group launched by UK music execs Nick Stewart, Marc Marot, Jeremy Marsh, James Radice, and Beth Claridge",
     "summary": "The company's first signings are 10cc, singer-songwriter Rumer and electronic duo Lemon Jelly.\nSource",
     "category": "industry-news",
@@ -256,41 +289,10 @@
     "imageUrl": null,
     "tags": [],
     "readTime": 1,
-    "fetchedAt": "2026-07-03T01:55:11.771Z"
+    "fetchedAt": "2026-07-04T01:54:28.502Z"
   },
   {
-    "id": "news-1783043711771-35",
-    "title": "Warner’s ADA Central Europe strikes exclusive distribution deal with Berlin label AIM Music",
-    "summary": "ADA Central Europe will handle global distribution, streaming strategy, and marketing across AIM Music's full roster.\nSource",
-    "category": "industry-news",
-    "source": "Music Business Worldwide",
-    "author": "Unknown",
-    "publishedAt": "2026-07-02T10:46:41.000Z",
-    "url": "https://www.musicbusinessworldwide.com/warners-ada-central-europe-strikes-exclusive-distribution-deal-with-berlin-label-aim-music/",
-    "imageUrl": null,
-    "tags": [
-      "AI",
-      "Streaming"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-07-03T01:55:11.771Z"
-  },
-  {
-    "id": "news-1783043711771-36",
-    "title": "Exceleration Music acquires catalog of Japan’s Ryuichi Sakamoto in joint venture with Tokyo-based NexTone",
-    "summary": "Exceleration will manage and collect income from Sakamoto's rights outside Asia, while NexTone will handle the catalog within Japan.\nSource",
-    "category": "industry-news",
-    "source": "Music Business Worldwide",
-    "author": "Unknown",
-    "publishedAt": "2026-07-02T10:39:33.000Z",
-    "url": "https://www.musicbusinessworldwide.com/exceleration-music-acquires-catalog-of-japans-ryuichi-sakamoto-in-joint-venture-with-tokyo-based-nextone/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-07-03T01:55:11.771Z"
-  },
-  {
-    "id": "news-1783043711771-7",
+    "id": "news-1783130068501-8",
     "title": "Indian tech tycoon bets $30M of his own money to build AI alternative to Microsoft Office",
     "summary": "Neo is Bhavin Turakhia’s fifth venture and his latest involving enterprise software. This time he's taking on Microsoft Office and Google Apps with AI.",
     "category": "ai-research",
@@ -303,6 +305,6 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-07-03T01:55:11.771Z"
+    "fetchedAt": "2026-07-04T01:54:28.501Z"
   }
 ]
