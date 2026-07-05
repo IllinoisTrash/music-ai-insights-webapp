@@ -1,6 +1,97 @@
 [
   {
-    "id": "news-1783130068500-0",
+    "id": "news-1783216933014-0",
+    "title": "New Google commercial imagines a Declaration of Independence written with help from AI",
+    "summary": "Two hundred and fifty years after the signing of the Declaration of Independence, a new commercial asks: What if the Founding Fathers had access to Google Workspace?",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-07-04T20:55:25.000Z",
+    "url": "https://techcrunch.com/2026/07/04/new-google-commercial-imagines-a-declaration-of-independence-written-with-help-from-ai/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-07-05T02:02:13.014Z"
+  },
+  {
+    "id": "news-1783216933016-37",
+    "title": "Madonna Celebrates ‘Confessions II’ Album With Limited-Time Pop-Ups",
+    "summary": "Fans can get into the groove and confess at four pop-up experiences in New York, Los Angeles and London over the July 3-5 weekend.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-07-04T19:19:02.000Z",
+    "url": "https://www.billboard.com/music/music-news/madonna-confessions-ii-album-pop-up-shop-events-1236287839/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-07-05T02:02:13.016Z"
+  },
+  {
+    "id": "news-1783216933014-1",
+    "title": "Midjourney wants Hollywood studios to reveal the details of their AI usage",
+    "summary": "As part of an ongoing legal dispute with three Hollywood studios, Midjourney is seeking to compel those studios to reveal how they use AI themselves.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-07-04T18:00:05.000Z",
+    "url": "https://techcrunch.com/2026/07/04/midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-07-05T02:02:13.014Z"
+  },
+  {
+    "id": "news-1783216933014-2",
+    "title": "Alibaba reportedly bans employees from using Claude Code",
+    "summary": "Alibaba has reportedly classified Claude Code as high-risk software.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-07-04T16:32:08.000Z",
+    "url": "https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-07-05T02:02:13.014Z"
+  },
+  {
+    "id": "news-1783216933016-38",
+    "title": "Beyoncé Drops Surprise New Song ‘Morning Dew (Donk)’ on Fourth of July",
+    "summary": "The track will appear on the upcoming 20th anniversary edition of her B'Day album.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-07-04T16:29:52.000Z",
+    "url": "https://www.billboard.com/music/music-news/beyonce-surprise-new-song-morning-dew-donk-bday-reissue-1236287816/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-07-05T02:02:13.016Z"
+  },
+  {
+    "id": "news-1783216933014-3",
+    "title": "What is Mistral AI? Everything to know about the OpenAI competitor",
+    "summary": "Mistral AI, which offers some open source AI models, has raised significant funding since its creation in 2023, with the ambition to “put frontier AI in the hands of everyone.”",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-07-04T15:51:32.000Z",
+    "url": "https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/",
+    "imageUrl": null,
+    "tags": [
+      "AI",
+      "Investment"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-07-05T02:02:13.014Z"
+  },
+  {
+    "id": "news-1783216933014-4",
     "title": "The only AI glossary you’ll need this year",
     "summary": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
     "category": "ai-research",
@@ -13,52 +104,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-07-04T01:54:28.500Z"
+    "fetchedAt": "2026-07-05T02:02:13.014Z"
   },
   {
-    "id": "news-1783130068502-36",
-    "title": "Madonna and Daughter Lola Leon Discuss ‘Confessions II’ Collab ‘The Test’: ‘A Very Magical Moment’",
-    "summary": "The track marks the mother-daughter duo's first musical team-up.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-07-03T21:18:21.000Z",
-    "url": "https://www.billboard.com/music/pop/madonna-lola-leon-the-test-confessions-ii-interview-1236287600/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-07-04T01:54:28.502Z"
-  },
-  {
-    "id": "news-1783130068502-37",
-    "title": "Alexi Cory-Smith, Bella Figura Co-Founder and CEO, Dies at 58",
-    "summary": "The firm, which acquires and manages rights across music publishing and recordings, announced Cory-Smith's unexpected passing on Friday (July 3).",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-07-03T19:08:01.000Z",
-    "url": "https://www.billboard.com/pro/alexi-cory-smith-death-bella-figura-music/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-07-04T01:54:28.502Z"
-  },
-  {
-    "id": "news-1783130068502-38",
-    "title": "Every Song That Topped the U.K. Chart for 8 or More Weeks, But Didn’t Make the Top 10 on the Hot 100",
-    "summary": "\"Rein Me In” by Sam Fender and Olivia Dean is now one of just two singles to log 15 or more weeks at No. 1 in the U.K. without making the top 10 on the Hot 100. ",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-07-03T17:37:59.000Z",
-    "url": "https://www.billboard.com/lists/songs-that-were-big-uk-hits-but-not-in-the-u-s/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-07-04T01:54:28.502Z"
-  },
-  {
-    "id": "news-1783130068502-29",
+    "id": "news-1783216933016-30",
     "title": "Spotify slashes streams of hit song after suspicious activity on prediction market Kalshi",
     "summary": "Kalshi said in April that trading on the its music 'contracts' had already topped USD $400 million in 2026\nSource",
     "category": "industry-news",
@@ -72,10 +121,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-07-04T01:54:28.502Z"
+    "fetchedAt": "2026-07-05T02:02:13.016Z"
   },
   {
-    "id": "news-1783130068500-1",
+    "id": "news-1783216933014-5",
     "title": "Mark Zuckerberg tells staff that AI agents haven’t progressed as quickly as he’d hoped",
     "summary": "At an internal meeting, the Meta CEO reportedly said that AI development efforts were not moving as quickly as anticipated.",
     "category": "ai-research",
@@ -88,10 +137,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-07-04T01:54:28.500Z"
+    "fetchedAt": "2026-07-05T02:02:13.014Z"
   },
   {
-    "id": "news-1783130068502-30",
+    "id": "news-1783216933016-31",
     "title": "Suno explores developer API, seeking apps ‘that unlock experiences generative music makes possible for the first time’",
     "summary": "\"Ahead of our partner powered model, we're exploring a developer API and want to hear from you before we start building,\" Jack Brody wrote.\nSource",
     "category": "industry-news",
@@ -102,10 +151,10 @@
     "imageUrl": null,
     "tags": [],
     "readTime": 1,
-    "fetchedAt": "2026-07-04T01:54:28.502Z"
+    "fetchedAt": "2026-07-05T02:02:13.016Z"
   },
   {
-    "id": "news-1783130068502-31",
+    "id": "news-1783216933016-32",
     "title": "Logan Light joins Warner Music Group as Chief of Staff to CEO Robert Kyncl",
     "summary": "Light joined WMG in March according to his LinkedIn profile\nSource",
     "category": "industry-news",
@@ -116,10 +165,10 @@
     "imageUrl": null,
     "tags": [],
     "readTime": 1,
-    "fetchedAt": "2026-07-04T01:54:28.502Z"
+    "fetchedAt": "2026-07-05T02:02:13.016Z"
   },
   {
-    "id": "news-1783130068500-2",
+    "id": "news-1783216933014-6",
     "title": "Jersey Mike’s IPO illustrates how bad the AI hype has become",
     "summary": "Just for kicks, I took a look at Jersey Mike's IPO documents. Surely a sandwich shop would have no need to mention AI. But lo and behold. ",
     "category": "ai-research",
@@ -132,10 +181,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-07-04T01:54:28.500Z"
+    "fetchedAt": "2026-07-05T02:02:13.014Z"
   },
   {
-    "id": "news-1783130068500-3",
+    "id": "news-1783216933014-7",
     "title": "Meta quietly launches vibe-coded gaming app Pocket",
     "summary": "Meta has quietly launched Pocket, an experimental AI app that lets users generate and share interactive mini games using text prompts.",
     "category": "tech-innovation",
@@ -148,10 +197,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-07-04T01:54:28.500Z"
+    "fetchedAt": "2026-07-05T02:02:13.014Z"
   },
   {
-    "id": "news-1783130068500-4",
+    "id": "news-1783216933014-8",
     "title": "Anthropic is discussing a new custom chip with Samsung",
     "summary": "The news comes about a week after OpenAI announced its own custom AI chip in a partnership with Broadcom. ",
     "category": "ai-research",
@@ -165,10 +214,10 @@
       "Partnership"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-07-04T01:54:28.501Z"
+    "fetchedAt": "2026-07-05T02:02:13.015Z"
   },
   {
-    "id": "news-1783130068502-22",
+    "id": "news-1783216933015-23",
     "title": "Can Cursor Remain a Platform for OpenAI and Anthropic’s Models Inside SpaceX?",
     "summary": "Cursor hopes to continue offering third-party AI models after it's acquired by SpaceX, testing the relationships between frontier AI labs.",
     "category": "ai-research",
@@ -181,10 +230,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-07-04T01:54:28.502Z"
+    "fetchedAt": "2026-07-05T02:02:13.015Z"
   },
   {
-    "id": "news-1783130068502-32",
+    "id": "news-1783216933016-33",
     "title": "Judge denies Sony Music bid to add over 30,000 recordings to Udio lawsuit",
     "summary": "The ruling from Judge Alvin K. Hellerstein keeps the case at the 333 works that Sony had originally put in suit.\nSource",
     "category": "industry-news",
@@ -195,10 +244,10 @@
     "imageUrl": null,
     "tags": [],
     "readTime": 1,
-    "fetchedAt": "2026-07-04T01:54:28.502Z"
+    "fetchedAt": "2026-07-05T02:02:13.016Z"
   },
   {
-    "id": "news-1783130068502-33",
+    "id": "news-1783216933016-34",
     "title": "A counterfeit merch crackdown, facial recognition at K-pop concerts, and 3 other things we learned from HYBE’s 2025 sustainability report",
     "summary": "The 121-page document sets out a number of disclosures, from anti-counterfeiting measures to the company's use of generative AI and expansion into physical retail.\nSource",
     "category": "ai-research",
@@ -212,10 +261,10 @@
       "Generative AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-07-04T01:54:28.502Z"
+    "fetchedAt": "2026-07-05T02:02:13.016Z"
   },
   {
-    "id": "news-1783130068502-34",
+    "id": "news-1783216933016-35",
     "title": "Warner Records partners with Sickamore’s three times LOUDER",
     "summary": "Brooklyn alternative R&B artist Laila! will be the partnership’s flagship artist.\nSource",
     "category": "industry-news",
@@ -229,10 +278,10 @@
       "Partnership"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-07-04T01:54:28.502Z"
+    "fetchedAt": "2026-07-05T02:02:13.016Z"
   },
   {
-    "id": "news-1783130068501-5",
+    "id": "news-1783216933015-9",
     "title": "OpenAI proposed donating 5% of its equity to a US sovereign wealth fund",
     "summary": "OpenAI CEO Sam Altman has reportedly proposed giving 5% of the company’s equity to a U.S. sovereign wealth fund, reviving discussions about letting the public share in the financial gains from the AI boom. ",
     "category": "ai-research",
@@ -245,10 +294,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-07-04T01:54:28.501Z"
+    "fetchedAt": "2026-07-05T02:02:13.015Z"
   },
   {
-    "id": "news-1783130068501-6",
+    "id": "news-1783216933015-10",
     "title": "Microsoft launches its own AI deployment company with $2.5 billion commitment",
     "summary": "Microsoft follows Amazon, OpenAI, and Anthropic with its new AI deployment group.",
     "category": "ai-research",
@@ -261,50 +310,6 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-07-04T01:54:28.501Z"
-  },
-  {
-    "id": "news-1783130068501-7",
-    "title": "Yep, we’re using OpenClaw to date now",
-    "summary": "Ben Guez has \"a bunch of potential international wives in [his] DMs,\" thanks to an automated script he set up using OpenClaw, Claude code, and Instagram trials.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-07-02T12:00:00.000Z",
-    "url": "https://techcrunch.com/2026/07/02/yep-were-using-openclaw-to-date-now/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-07-04T01:54:28.501Z"
-  },
-  {
-    "id": "news-1783130068502-35",
-    "title": "Breaking Wave Group launched by UK music execs Nick Stewart, Marc Marot, Jeremy Marsh, James Radice, and Beth Claridge",
-    "summary": "The company's first signings are 10cc, singer-songwriter Rumer and electronic duo Lemon Jelly.\nSource",
-    "category": "industry-news",
-    "source": "Music Business Worldwide",
-    "author": "Unknown",
-    "publishedAt": "2026-07-02T11:12:59.000Z",
-    "url": "https://www.musicbusinessworldwide.com/breaking-wave-group-launched-by-uk-music-execs-nick-stewart-marc-marot-jeremy-marsh-james-radice-and-beth-claridge/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-07-04T01:54:28.502Z"
-  },
-  {
-    "id": "news-1783130068501-8",
-    "title": "Indian tech tycoon bets $30M of his own money to build AI alternative to Microsoft Office",
-    "summary": "Neo is Bhavin Turakhia’s fifth venture and his latest involving enterprise software. This time he's taking on Microsoft Office and Google Apps with AI.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-07-02T05:30:00.000Z",
-    "url": "https://techcrunch.com/2026/07/01/indian-tech-tycoon-bets-30m-to-build-an-ai-alternative-to-microsoft-office/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-07-04T01:54:28.501Z"
+    "fetchedAt": "2026-07-05T02:02:13.015Z"
   }
 ]
