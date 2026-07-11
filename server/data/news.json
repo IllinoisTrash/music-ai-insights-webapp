@@ -1,319 +1,314 @@
 [
   {
-    "id": "news-1783648462032-38",
-    "title": "Lululemon’s Rare Sale Is Live With Align Pants, ABC Trousers & Summer Styles From $19",
-    "summary": "The high-end activewear brand seen on musicians like Kelsea Ballerini rarely goes on sale, but shoppers can now score hundreds of Lululemon favorites for up to 65% off.",
-    "category": "industry-news",
-    "source": "Billboard",
+    "id": "news-1783734187179-23",
+    "title": "OpenAI’s Head of Safety Is Leaving the Company",
+    "summary": "Johannes Heidecke’s departure comes as OpenAI tries to further integrate its research and safety teams.",
+    "category": "tech-innovation",
+    "source": "Wired AI",
     "author": "Unknown",
-    "publishedAt": "2026-07-10T00:44:25.000Z",
-    "url": "https://www.billboard.com/culture/product-recommendations/lululemon-summer-sale-2026-best-activewear-deals-buy-online-1236290891/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-07-10T01:54:22.032Z"
-  },
-  {
-    "id": "news-1783648462032-39",
-    "title": "Run-D.M.C. Celebrates 40 Years of Seminal ‘Raising Hell’ Album: ‘It’s the Sgt. Pepper’s of Hip-Hop’",
-    "summary": "The Queens-bred crew's third album was the first hip-hop LP to go platinum.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-07-10T00:26:01.000Z",
-    "url": "https://www.billboard.com/music/rb-hip-hop/run-dmc-raising-hell-album-40th-anniversary-video-1236291157/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-07-10T01:54:22.032Z"
-  },
-  {
-    "id": "news-1783648462032-40",
-    "title": "Music Orgs Seek U.S. Intervention as Europe Floats Rolling Back Radio Royalties for American Artists",
-    "summary": "Groups including the Recording Academy and SoundExchange say a new policy proposal would \"codify discrimination against American creators into EU law.\"",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-07-10T00:21:38.000Z",
-    "url": "https://www.billboard.com/pro/music-orgs-us-intervention-europe-royalty-law/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-07-10T01:54:22.032Z"
-  },
-  {
-    "id": "news-1783648462030-0",
-    "title": "OpenAI says GPT 5.6 is the ‘preferred model’ for Microsoft Copilot 365 amid breakup chatter",
-    "summary": "OpenAI's new family of models will continue to power Microsoft's suite of workplace and productivity apps. ",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-07-10T00:16:54.000Z",
-    "url": "https://techcrunch.com/2026/07/09/openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-copilot-amid-breakup-chatter/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-07-10T01:54:22.030Z"
-  },
-  {
-    "id": "news-1783648462032-41",
-    "title": "Billboard’s Music Industry Events Calendar",
-    "summary": "A complete rundown of the most important events across the music business.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-07-10T00:03:00.000Z",
-    "url": "https://www.billboard.com/pro/music-industry-events-calendar-festivals-awards-conferences/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-07-10T01:54:22.032Z"
-  },
-  {
-    "id": "news-1783648462032-42",
-    "title": "Watch an Overserved Riley Green (And His Beloved Corgi) In Tipsy New Music Video for ‘Think as You Drunk’",
-    "summary": "Green performs at his Nashville bar and gets arrested in the clip.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-07-09T23:36:45.000Z",
-    "url": "https://www.billboard.com/music/country/riley-green-think-as-you-drunk-music-video-1236291298/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-07-10T01:54:22.032Z"
-  },
-  {
-    "id": "news-1783648462032-43",
-    "title": "Opetaia Foa‘i Calls Adding ‘Authenticity’ to ‘Moana’ Through Pacific Island Languages ‘A Huge Win’",
-    "summary": "The Samoa-born artist has written music for all three Moana films.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-07-09T23:22:18.000Z",
-    "url": "https://www.billboard.com/culture/tv-film/opetaia-foai-interview-moana-pacific-island-languages-1236291310/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-07-10T01:54:22.032Z"
-  },
-  {
-    "id": "news-1783648462031-1",
-    "title": "OpenAI launches its new family of models with GPT-5.6",
-    "summary": "OpenAI's latest family of models promises improvements across a range of areas, including cybersecurity. ",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-07-09T22:24:24.000Z",
-    "url": "https://techcrunch.com/2026/07/09/openai-launches-its-new-family-of-models-with-gpt-5-6/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-07-10T01:54:22.031Z"
-  },
-  {
-    "id": "news-1783648462031-2",
-    "title": "An AI agent startup just let its agent run its $100M fundraise",
-    "summary": "Lyzr, a startup that builds AI agents for enterprises, used its own AI agent to raise a $100 million round — proof, evidently, that the product actually works.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-07-09T22:08:58.000Z",
-    "url": "https://techcrunch.com/2026/07/09/an-ai-agent-startup-just-let-its-agent-run-its-100-million-fundraise/",
+    "publishedAt": "2026-07-11T01:07:26.000Z",
+    "url": "https://www.wired.com/story/openai-head-of-safety-leaving/",
     "imageUrl": null,
     "tags": [
       "AI",
-      "Startup"
+      "Research"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-07-10T01:54:22.031Z"
+    "fetchedAt": "2026-07-11T01:43:07.179Z"
   },
   {
-    "id": "news-1783648462031-3",
-    "title": "OpenAI is shutting down Atlas, but its AI browser ambitions are still growing",
-    "summary": "OpenAI is sunsetting its AI-powered browser after less than a year. But it's moving some agentic browsing features to its desktop app and a Chrome extension. ",
-    "category": "ai-research",
+    "id": "news-1783734187179-37",
+    "title": "YEONJUN, The Rolling Stones, Beyoncé & More: Which Is Your Favorite New Music Release This Week? Vote!",
+    "summary": "We also had new releases from Future, Suki Waterhouse, Teddy Swims, The Linda Lindas & Hayley Williams, Chris Lake & Tiga, and more.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-07-11T00:48:00.000Z",
+    "url": "https://www.billboard.com/music/music-news/yeonjun-vote-favorite-new-music-release-this-week-poll-1236292228/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-07-11T01:43:07.179Z"
+  },
+  {
+    "id": "news-1783734187179-38",
+    "title": "Insomniac to Stay Involved With Miami’s Club Space & Factory Town Venues After Legal Settlement",
+    "summary": "The global dance music company has \"amicably resolved\" its lengthy legal battle with a trio of Miami club operators. ",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-07-10T23:56:40.000Z",
+    "url": "https://www.billboard.com/pro/insomniac-settles-lawsuit-miami-club-space-factory-town/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-07-11T01:43:07.179Z"
+  },
+  {
+    "id": "news-1783734187177-0",
+    "title": "Meta removes controversial AI feature on Instagram after backlash",
+    "summary": "\"Our intent was to provide a useful creative tool and to give people control over whether their public content could be referenced in this way,\" the company said in a blog post. \"We've heard the feedback that this feature missed the mark, so it's no longer available.\"",
+    "category": "tech-innovation",
     "source": "TechCrunch AI",
     "author": "Unknown",
-    "publishedAt": "2026-07-09T22:03:54.000Z",
-    "url": "https://techcrunch.com/2026/07/09/openai-is-shutting-down-atlas-but-its-ai-browser-ambitions-are-still-growing/",
+    "publishedAt": "2026-07-10T23:55:07.000Z",
+    "url": "https://techcrunch.com/2026/07/10/meta-removes-controversial-ai-feature-on-instagram-after-backlash/",
     "imageUrl": null,
     "tags": [
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-07-10T01:54:22.031Z"
+    "fetchedAt": "2026-07-11T01:43:07.177Z"
   },
   {
-    "id": "news-1783648462031-4",
-    "title": "Can AI answer the $3 trillion question?",
-    "summary": "The AI ROI debate has returned and the numbers are even bigger, as are, perhaps, the consequences.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
+    "id": "news-1783734187179-39",
+    "title": "Benny Blanco Offers First Taste of Spanish-Language Album ‘Hermoso’ With ‘Joven y Salvaje,’ Featuring Bb trickz",
+    "summary": "The Spanish rapper speaks of the carelessness that comes with being young on the new song.",
+    "category": "industry-news",
+    "source": "Billboard",
     "author": "Unknown",
-    "publishedAt": "2026-07-09T21:47:50.000Z",
-    "url": "https://techcrunch.com/2026/07/09/can-ai-answer-the-3-trillion-question/",
+    "publishedAt": "2026-07-10T22:48:42.000Z",
+    "url": "https://www.billboard.com/music/latin/benny-blanco-joven-salvaje-bb-trickz-spanish-album-hermoso-1236292176/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-07-11T01:43:07.179Z"
+  },
+  {
+    "id": "news-1783734187179-40",
+    "title": "Hilary Duff Wears Her Own 2004 Throwback Concert Tee for 2 Sold-Out Nights at L.A.’s Forum",
+    "summary": "The Lucky Me Tour continues Saturday night in Mountain View, California.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-07-10T22:20:31.000Z",
+    "url": "https://www.billboard.com/music/pop/hilary-duff-2004-throwback-concert-tee-la-forum-concerts-1236292162/",
     "imageUrl": null,
     "tags": [
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-07-10T01:54:22.031Z"
+    "fetchedAt": "2026-07-11T01:43:07.179Z"
   },
   {
-    "id": "news-1783648462031-5",
-    "title": "Meta enters the crowded AI coding battle with Muse Spark 1.1",
-    "summary": "Meta's pitch to users is Spark's ability to handle large agentic workloads, fix bugs, and help with large code migrations — the kind of automation that enterprises are increasingly turning to AI companies to provide.",
+    "id": "news-1783734187179-41",
+    "title": "‘For You Fest’ Unveils Inaugural Lineup Featuring Sets From Your Favorite Podcasters, Influencers & Musicians",
+    "summary": "Social media stars such as Trisha Paytas, Tana Mongeau, Drew Afualo and more are on the bill.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-07-10T21:44:58.000Z",
+    "url": "https://www.billboard.com/culture/events/for-you-fest-lineup-podcasters-influencers-superfans-1236292089/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-07-11T01:43:07.179Z"
+  },
+  {
+    "id": "news-1783734187179-42",
+    "title": "All of Future’s Albums Ranked From Worst to Best: Critics’ Picks",
+    "summary": "How Pluto became an Atlanta trap architect. ",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-07-10T21:18:09.000Z",
+    "url": "https://www.billboard.com/lists/future-albums-ranked/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-07-11T01:43:07.179Z"
+  },
+  {
+    "id": "news-1783734187177-1",
+    "title": "Apple sues OpenAI over alleged trade secret theft",
+    "summary": "Apple alleges the misconduct was directed by OpenAI's senior leadership, including a longtime former employee.",
     "category": "ai-research",
     "source": "TechCrunch AI",
     "author": "Unknown",
-    "publishedAt": "2026-07-09T19:40:45.000Z",
-    "url": "https://techcrunch.com/2026/07/09/meta-enters-the-crowded-ai-coding-battle-with-muse-spark-1-1/",
+    "publishedAt": "2026-07-10T21:00:29.000Z",
+    "url": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/",
     "imageUrl": null,
     "tags": [
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-07-10T01:54:22.031Z"
+    "fetchedAt": "2026-07-11T01:43:07.177Z"
   },
   {
-    "id": "news-1783648462031-6",
-    "title": "New York Times says OpenAI hid evidence in ChatGPT copyright trial",
-    "summary": "News publishers say OpenAI hid tools and datasets that could identify copyrighted journalism in ChatGPT outputs, escalating their lawsuit with a new motion for sanctions.",
+    "id": "news-1783734187179-24",
+    "title": "Apple Is Suing OpenAI for Allegedly Stealing Hardware Secrets",
+    "summary": "The iPhone maker claims OpenAI encouraged poached employees to bring over confidential presentations, secret prototypes, and key supplier details.",
+    "category": "tech-innovation",
+    "source": "Wired AI",
+    "author": "Unknown",
+    "publishedAt": "2026-07-10T20:44:05.000Z",
+    "url": "https://www.wired.com/story/apple-sues-openai-allegedly-stealing-ip-hardware/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-07-11T01:43:07.179Z"
+  },
+  {
+    "id": "news-1783734187177-2",
+    "title": "Open source AI matters more than ever, according to Hugging Face’s Clem Delangue",
+    "summary": "Open source AI is booming, according to Hugging Face CEO Clem Delangue. The company has grown into something like a GitHub for AI in recent years, where AI builders can share and download open models and datasets, now used by roughly half the Fortune 500. Delangue has seen the same story play out again and again: companies start […]",
     "category": "ai-research",
     "source": "TechCrunch AI",
     "author": "Unknown",
-    "publishedAt": "2026-07-09T19:05:58.000Z",
-    "url": "https://techcrunch.com/2026/07/09/new-york-times-says-openai-hid-evidence-in-chatgpt-copyright-trial/",
+    "publishedAt": "2026-07-10T19:00:00.000Z",
+    "url": "https://techcrunch.com/podcast/open-source-ai-matters-more-than-ever-according-to-hugging-faces-clem-delangue/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-07-11T01:43:07.177Z"
+  },
+  {
+    "id": "news-1783734187177-3",
+    "title": "SK Hynix raises $26.5B in the biggest foreign IPO in US history, is urged to build new US fabs",
+    "summary": "The AI chip boom just produced its biggest Wall Street moment yet. Now SK Hynix and Samsung are being asked to build U.S. factories.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-07-10T17:17:12.000Z",
+    "url": "https://techcrunch.com/2026/07/10/sk-hynix-raises-26-5b-in-the-biggest-foreign-ipo-in-us-history-is-urged-to-build-new-us-fabs/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-07-11T01:43:07.178Z"
+  },
+  {
+    "id": "news-1783734187179-30",
+    "title": "Sam Smith and Normani move to end ‘Dancing With a Stranger’ copyright suit, say the older song is itself built on unlicensed samples",
+    "summary": "It is the second time Smith and the other co-defendants have tried to shut the case down before trial.\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-07-10T14:24:51.000Z",
+    "url": "https://www.musicbusinessworldwide.com/sam-smith-and-normani-move-to-end-dancing-with-a-stranger-copyright-suit-say-the-older-song-is-itself-built-on-unlicensed-samples/",
+    "imageUrl": null,
+    "tags": [
+      "Copyright"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-07-11T01:43:07.179Z"
+  },
+  {
+    "id": "news-1783734187178-4",
+    "title": "Hugging Face’s CEO on why companies are done renting their AI",
+    "summary": "Open source AI is booming, according to Hugging Face CEO Clem Delangue. The company has grown into something like a GitHub for AI in recent years, where AI builders can share and download open models and datasets, now used by roughly half the Fortune 500. Delangue has seen the same story play out again and again: companies start […]",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-07-10T14:00:00.000Z",
+    "url": "https://techcrunch.com/2026/07/10/hugging-faces-ceo-on-why-companies-are-done-renting-their-ai/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-07-11T01:43:07.178Z"
+  },
+  {
+    "id": "news-1783734187179-31",
+    "title": "Streaming accelerates nostalgia-driven catalog discovery, says Vevo study",
+    "summary": "The report highlights Sabrina Carpenter's \"Manchild\" as an example of a new release built on borrowed nostalgia.\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-07-10T13:30:06.000Z",
+    "url": "https://www.musicbusinessworldwide.com/streaming-accelerates-nostalgia-driven-catalog-discovery-says-vevo-study/",
+    "imageUrl": null,
+    "tags": [
+      "Streaming",
+      "Research"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-07-11T01:43:07.179Z"
+  },
+  {
+    "id": "news-1783734187179-32",
+    "title": "Dynamite Songs acquires catalog of The Association co-founder Terry Kirkman",
+    "summary": "The deal adds 71 compositions to the specialist publisher's portfolio, including Cherish, which reached No. 1 on the Billboard Hot 100 in 1966.\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-07-10T13:14:40.000Z",
+    "url": "https://www.musicbusinessworldwide.com/dynamite-songs-acquires-catalog-of-the-association-co-founder-terry-kirkman/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-07-11T01:43:07.179Z"
+  },
+  {
+    "id": "news-1783734187179-33",
+    "title": "Record industry proposes AI labeling system for streaming platforms",
+    "summary": "Music orgs want the world's biggest streaming services to start labeling music made with artificial intelligence.\n\n\nSource",
+    "category": "ai-research",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-07-10T11:51:07.000Z",
+    "url": "https://www.musicbusinessworldwide.com/record-industry-proposes-ai-labeling-system-for-streaming-platforms/",
+    "imageUrl": null,
+    "tags": [
+      "AI",
+      "Streaming"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-07-11T01:43:07.179Z"
+  },
+  {
+    "id": "news-1783734187179-25",
+    "title": "A New Experiential Gallery Just Might Change Your Mind About AI Art",
+    "summary": "Billed as the “world’s first museum of AI arts,” Dataland uses wearables and troves of material from the Amazon to merge nature, biometrics, and art.",
+    "category": "tech-innovation",
+    "source": "Wired AI",
+    "author": "Unknown",
+    "publishedAt": "2026-07-10T10:30:00.000Z",
+    "url": "https://www.wired.com/story/a-new-experiential-gallery-just-might-change-your-mind-about-ai-art/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-07-11T01:43:07.179Z"
+  },
+  {
+    "id": "news-1783734187179-34",
+    "title": "iHeartMedia settles FCC ‘payola’ probe at its live music events, with no fine and no admission of liability",
+    "summary": "The FCC investigated whether iHeart broke rules by trading radio airplay for artist performances at its events.\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-07-10T10:27:41.000Z",
+    "url": "https://www.musicbusinessworldwide.com/iheartmedia-settles-fcc-payola-probe-at-its-live-music-events-with-no-fine-and-no-admission-of-liability/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-07-11T01:43:07.179Z"
+  },
+  {
+    "id": "news-1783734187179-35",
+    "title": "BTS label Big Hit Music rejects ‘SWIM’ copyright claim, says track was independently created",
+    "summary": "'The allegations in the lawsuit are unilateral and unsubstantiated,' Big Hit Music said\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-07-10T09:15:55.000Z",
+    "url": "https://www.musicbusinessworldwide.com/bts-label-big-hit-music-rejects-swim-copyright-claim-says-track-was-independently-created/",
     "imageUrl": null,
     "tags": [
       "AI",
       "Copyright"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-07-10T01:54:22.031Z"
-  },
-  {
-    "id": "news-1783648462031-7",
-    "title": "Google will now disclose which ads are made with AI",
-    "summary": "While Google prohibits misleading and deceptive ads, an ad can still leverage AI to create some type of synthetic or digitally altered content. Until now, that's something Google only required election ads to disclose.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-07-09T18:40:51.000Z",
-    "url": "https://techcrunch.com/2026/07/09/google-will-now-disclose-which-ads-are-made-with-ai/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-07-10T01:54:22.031Z"
-  },
-  {
-    "id": "news-1783648462031-8",
-    "title": "Paris-based AI voice startup Gradium raises $100M seed, backed by Nvidia",
-    "summary": "The company is using the cash to open an office in the Bay Area and compete for talent there, \"strengthening its position at the heart of the world's leading AI ecosystem.\"",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-07-09T18:34:35.000Z",
-    "url": "https://techcrunch.com/2026/07/09/paris-based-ai-voice-startup-gradium-raises-100m-seed-backed-by-nvidia/",
-    "imageUrl": null,
-    "tags": [
-      "AI",
-      "Startup"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-07-10T01:54:22.031Z"
-  },
-  {
-    "id": "news-1783648462032-23",
-    "title": "Anthropic Wants You to Pay Up for Claude Fable 5",
-    "summary": "Claude subscribers must soon pay usage-based fees to access Anthropic’s best consumer AI model—a sign that the golden era of AI subscriptions is ending.",
-    "category": "ai-research",
-    "source": "Wired AI",
-    "author": "Unknown",
-    "publishedAt": "2026-07-09T18:30:00.000Z",
-    "url": "https://www.wired.com/story/model-behavior-anthropic-will-charge-consumers-extra-to-use-claude-fable-5/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-07-10T01:54:22.032Z"
-  },
-  {
-    "id": "news-1783648462031-9",
-    "title": "How did the government decide OpenAI’s frontier model was safe to release?",
-    "summary": "\"Exactly what that dialog looked like between the government and Anthropic and OpenAI is unclear.\"",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-07-09T18:22:39.000Z",
-    "url": "https://techcrunch.com/2026/07/09/how-did-the-government-decide-openais-frontier-model-was-safe-to-release/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-07-10T01:54:22.031Z"
-  },
-  {
-    "id": "news-1783648462031-10",
-    "title": "Instagram users: Here’s how to stop Meta’s AI from using your photos",
-    "summary": "Muse Image allows users to generate AI images using photos from public Instagram accounts. As long as a person's profile is public, another user can tag that account and use their images as part of an AI-generated creation.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-07-09T17:56:47.000Z",
-    "url": "https://techcrunch.com/2026/07/09/how-to-stop-metas-ai-image-generator-from-using-your-instagram-photos/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-07-10T01:54:22.031Z"
-  },
-  {
-    "id": "news-1783648462031-11",
-    "title": "Meta’s new AI chips will begin production in September",
-    "summary": "The company is taking a modular approach to designing these chips, anticipating that their needs will change as AI evolves rapidly by the time the chips are in production.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-07-09T17:17:37.000Z",
-    "url": "https://techcrunch.com/2026/07/09/metas-new-ai-chips-will-begin-production-in-september/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-07-10T01:54:22.031Z"
-  },
-  {
-    "id": "news-1783648462032-30",
-    "title": "Believe restructures global organization to ‘accelerate artist development strategy’",
-    "summary": "Romain Becker named Group COO, Elsa Bahamonde Bourgain to lead combined Artist Services and Label & Artist Solutions\nSource",
-    "category": "industry-news",
-    "source": "Music Business Worldwide",
-    "author": "Unknown",
-    "publishedAt": "2026-07-09T17:00:43.000Z",
-    "url": "https://www.musicbusinessworldwide.com/believe-restructures-global-organization-romain-becker-appointed-group-coo-elsa-bahamonde-bourgain-named-president-artist-services-and-label-artist-solutions/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-07-10T01:54:22.032Z"
+    "fetchedAt": "2026-07-11T01:43:07.179Z"
   }
 ]
