@@ -1,6 +1,69 @@
 [
   {
-    "id": "news-1783734187179-23",
+    "id": "news-1783820702462-0",
+    "title": "OpenAI bets on families as ChatGPT goes deeper into households",
+    "summary": "ChatGPT is hiring a dedicated product manager to build experiences for families, caregivers, and older adults, according to a job posting. ",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-07-11T14:13:00.000Z",
+    "url": "https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-07-12T01:45:02.462Z"
+  },
+  {
+    "id": "news-1783820702464-38",
+    "title": "Karol G Creates Tropicoqueta-Themed Cocktail for Her TropiTour & More Uplifting Moments in Latin Music",
+    "summary": "Plus, Shakira surpasses Taylor Swift on Spotify, and a star-studded telethon rallies aid for Venezuela.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-07-11T14:00:00.000Z",
+    "url": "https://www.billboard.com/music/latin/karol-g-cocktail-tropitour-shakira-spotify-uplifting-moments-1236291625/",
+    "imageUrl": null,
+    "tags": [
+      "Spotify",
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-07-12T01:45:02.464Z"
+  },
+  {
+    "id": "news-1783820702464-39",
+    "title": "Madonna Dances Toward History With 13th U.K. No. 1 Album for ‘Confessions II’",
+    "summary": "Sienna Spiro also lands the biggest British debut of 2026 so far.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-07-11T13:47:13.000Z",
+    "url": "https://www.billboard.com/music/chart-beat/madonna-uk-number-one-album-chart-confessions-ii-1236291539/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-07-12T01:45:02.464Z"
+  },
+  {
+    "id": "news-1783820702464-40",
+    "title": "Jay-Z’s Yankee Stadium Night One Setlist: Every Song Played at the First Show",
+    "summary": "The star-studded affair included appearances by Beyoncé, Blue Ivy Carter, Nas, Alicia Keys and more. ",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-07-11T05:31:05.000Z",
+    "url": "https://www.billboard.com/lists/jay-z-yankee-stadium-night-one-setlist/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-07-12T01:45:02.464Z"
+  },
+  {
+    "id": "news-1783820702463-24",
     "title": "OpenAI’s Head of Safety Is Leaving the Company",
     "summary": "Johannes Heidecke’s departure comes as OpenAI tries to further integrate its research and safety teams.",
     "category": "tech-innovation",
@@ -14,10 +77,10 @@
       "Research"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-07-11T01:43:07.179Z"
+    "fetchedAt": "2026-07-12T01:45:02.463Z"
   },
   {
-    "id": "news-1783734187179-37",
+    "id": "news-1783820702464-41",
     "title": "YEONJUN, The Rolling Stones, Beyoncé & More: Which Is Your Favorite New Music Release This Week? Vote!",
     "summary": "We also had new releases from Future, Suki Waterhouse, Teddy Swims, The Linda Lindas & Hayley Williams, Chris Lake & Tiga, and more.",
     "category": "industry-news",
@@ -28,24 +91,10 @@
     "imageUrl": null,
     "tags": [],
     "readTime": 1,
-    "fetchedAt": "2026-07-11T01:43:07.179Z"
+    "fetchedAt": "2026-07-12T01:45:02.464Z"
   },
   {
-    "id": "news-1783734187179-38",
-    "title": "Insomniac to Stay Involved With Miami’s Club Space & Factory Town Venues After Legal Settlement",
-    "summary": "The global dance music company has \"amicably resolved\" its lengthy legal battle with a trio of Miami club operators. ",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-07-10T23:56:40.000Z",
-    "url": "https://www.billboard.com/pro/insomniac-settles-lawsuit-miami-club-space-factory-town/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-07-11T01:43:07.179Z"
-  },
-  {
-    "id": "news-1783734187177-0",
+    "id": "news-1783820702462-1",
     "title": "Meta removes controversial AI feature on Instagram after backlash",
     "summary": "\"Our intent was to provide a useful creative tool and to give people control over whether their public content could be referenced in this way,\" the company said in a blog post. \"We've heard the feedback that this feature missed the mark, so it's no longer available.\"",
     "category": "tech-innovation",
@@ -58,68 +107,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-07-11T01:43:07.177Z"
+    "fetchedAt": "2026-07-12T01:45:02.462Z"
   },
   {
-    "id": "news-1783734187179-39",
-    "title": "Benny Blanco Offers First Taste of Spanish-Language Album ‘Hermoso’ With ‘Joven y Salvaje,’ Featuring Bb trickz",
-    "summary": "The Spanish rapper speaks of the carelessness that comes with being young on the new song.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-07-10T22:48:42.000Z",
-    "url": "https://www.billboard.com/music/latin/benny-blanco-joven-salvaje-bb-trickz-spanish-album-hermoso-1236292176/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-07-11T01:43:07.179Z"
-  },
-  {
-    "id": "news-1783734187179-40",
-    "title": "Hilary Duff Wears Her Own 2004 Throwback Concert Tee for 2 Sold-Out Nights at L.A.’s Forum",
-    "summary": "The Lucky Me Tour continues Saturday night in Mountain View, California.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-07-10T22:20:31.000Z",
-    "url": "https://www.billboard.com/music/pop/hilary-duff-2004-throwback-concert-tee-la-forum-concerts-1236292162/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-07-11T01:43:07.179Z"
-  },
-  {
-    "id": "news-1783734187179-41",
-    "title": "‘For You Fest’ Unveils Inaugural Lineup Featuring Sets From Your Favorite Podcasters, Influencers & Musicians",
-    "summary": "Social media stars such as Trisha Paytas, Tana Mongeau, Drew Afualo and more are on the bill.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-07-10T21:44:58.000Z",
-    "url": "https://www.billboard.com/culture/events/for-you-fest-lineup-podcasters-influencers-superfans-1236292089/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-07-11T01:43:07.179Z"
-  },
-  {
-    "id": "news-1783734187179-42",
-    "title": "All of Future’s Albums Ranked From Worst to Best: Critics’ Picks",
-    "summary": "How Pluto became an Atlanta trap architect. ",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-07-10T21:18:09.000Z",
-    "url": "https://www.billboard.com/lists/future-albums-ranked/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-07-11T01:43:07.179Z"
-  },
-  {
-    "id": "news-1783734187177-1",
+    "id": "news-1783820702462-2",
     "title": "Apple sues OpenAI over alleged trade secret theft",
     "summary": "Apple alleges the misconduct was directed by OpenAI's senior leadership, including a longtime former employee.",
     "category": "ai-research",
@@ -132,10 +123,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-07-11T01:43:07.177Z"
+    "fetchedAt": "2026-07-12T01:45:02.462Z"
   },
   {
-    "id": "news-1783734187179-24",
+    "id": "news-1783820702463-25",
     "title": "Apple Is Suing OpenAI for Allegedly Stealing Hardware Secrets",
     "summary": "The iPhone maker claims OpenAI encouraged poached employees to bring over confidential presentations, secret prototypes, and key supplier details.",
     "category": "tech-innovation",
@@ -148,10 +139,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-07-11T01:43:07.179Z"
+    "fetchedAt": "2026-07-12T01:45:02.463Z"
   },
   {
-    "id": "news-1783734187177-2",
+    "id": "news-1783820702462-3",
     "title": "Open source AI matters more than ever, according to Hugging Face’s Clem Delangue",
     "summary": "Open source AI is booming, according to Hugging Face CEO Clem Delangue. The company has grown into something like a GitHub for AI in recent years, where AI builders can share and download open models and datasets, now used by roughly half the Fortune 500. Delangue has seen the same story play out again and again: companies start […]",
     "category": "ai-research",
@@ -164,10 +155,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-07-11T01:43:07.177Z"
+    "fetchedAt": "2026-07-12T01:45:02.462Z"
   },
   {
-    "id": "news-1783734187177-3",
+    "id": "news-1783820702462-4",
     "title": "SK Hynix raises $26.5B in the biggest foreign IPO in US history, is urged to build new US fabs",
     "summary": "The AI chip boom just produced its biggest Wall Street moment yet. Now SK Hynix and Samsung are being asked to build U.S. factories.",
     "category": "ai-research",
@@ -180,10 +171,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-07-11T01:43:07.178Z"
+    "fetchedAt": "2026-07-12T01:45:02.462Z"
   },
   {
-    "id": "news-1783734187179-30",
+    "id": "news-1783820702464-31",
     "title": "Sam Smith and Normani move to end ‘Dancing With a Stranger’ copyright suit, say the older song is itself built on unlicensed samples",
     "summary": "It is the second time Smith and the other co-defendants have tried to shut the case down before trial.\nSource",
     "category": "industry-news",
@@ -196,10 +187,10 @@
       "Copyright"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-07-11T01:43:07.179Z"
+    "fetchedAt": "2026-07-12T01:45:02.464Z"
   },
   {
-    "id": "news-1783734187178-4",
+    "id": "news-1783820702462-5",
     "title": "Hugging Face’s CEO on why companies are done renting their AI",
     "summary": "Open source AI is booming, according to Hugging Face CEO Clem Delangue. The company has grown into something like a GitHub for AI in recent years, where AI builders can share and download open models and datasets, now used by roughly half the Fortune 500. Delangue has seen the same story play out again and again: companies start […]",
     "category": "ai-research",
@@ -212,10 +203,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-07-11T01:43:07.178Z"
+    "fetchedAt": "2026-07-12T01:45:02.462Z"
   },
   {
-    "id": "news-1783734187179-31",
+    "id": "news-1783820702464-32",
     "title": "Streaming accelerates nostalgia-driven catalog discovery, says Vevo study",
     "summary": "The report highlights Sabrina Carpenter's \"Manchild\" as an example of a new release built on borrowed nostalgia.\nSource",
     "category": "industry-news",
@@ -229,10 +220,10 @@
       "Research"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-07-11T01:43:07.179Z"
+    "fetchedAt": "2026-07-12T01:45:02.464Z"
   },
   {
-    "id": "news-1783734187179-32",
+    "id": "news-1783820702464-33",
     "title": "Dynamite Songs acquires catalog of The Association co-founder Terry Kirkman",
     "summary": "The deal adds 71 compositions to the specialist publisher's portfolio, including Cherish, which reached No. 1 on the Billboard Hot 100 in 1966.\nSource",
     "category": "industry-news",
@@ -243,10 +234,10 @@
     "imageUrl": null,
     "tags": [],
     "readTime": 1,
-    "fetchedAt": "2026-07-11T01:43:07.179Z"
+    "fetchedAt": "2026-07-12T01:45:02.464Z"
   },
   {
-    "id": "news-1783734187179-33",
+    "id": "news-1783820702464-34",
     "title": "Record industry proposes AI labeling system for streaming platforms",
     "summary": "Music orgs want the world's biggest streaming services to start labeling music made with artificial intelligence.\n\n\nSource",
     "category": "ai-research",
@@ -260,10 +251,10 @@
       "Streaming"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-07-11T01:43:07.179Z"
+    "fetchedAt": "2026-07-12T01:45:02.464Z"
   },
   {
-    "id": "news-1783734187179-25",
+    "id": "news-1783820702463-26",
     "title": "A New Experiential Gallery Just Might Change Your Mind About AI Art",
     "summary": "Billed as the “world’s first museum of AI arts,” Dataland uses wearables and troves of material from the Amazon to merge nature, biometrics, and art.",
     "category": "tech-innovation",
@@ -276,10 +267,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-07-11T01:43:07.179Z"
+    "fetchedAt": "2026-07-12T01:45:02.463Z"
   },
   {
-    "id": "news-1783734187179-34",
+    "id": "news-1783820702464-35",
     "title": "iHeartMedia settles FCC ‘payola’ probe at its live music events, with no fine and no admission of liability",
     "summary": "The FCC investigated whether iHeart broke rules by trading radio airplay for artist performances at its events.\nSource",
     "category": "industry-news",
@@ -292,10 +283,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-07-11T01:43:07.179Z"
+    "fetchedAt": "2026-07-12T01:45:02.464Z"
   },
   {
-    "id": "news-1783734187179-35",
+    "id": "news-1783820702464-36",
     "title": "BTS label Big Hit Music rejects ‘SWIM’ copyright claim, says track was independently created",
     "summary": "'The allegations in the lawsuit are unilateral and unsubstantiated,' Big Hit Music said\nSource",
     "category": "industry-news",
@@ -309,6 +300,22 @@
       "Copyright"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-07-11T01:43:07.179Z"
+    "fetchedAt": "2026-07-12T01:45:02.464Z"
+  },
+  {
+    "id": "news-1783820702463-27",
+    "title": "Robot Dogs, Teslas, and Rescue Helicopters: The UN AI Summit Was a Lot",
+    "summary": "Amid live coding sessions and Silicon Valley optimism, the UN’s AI for Good summit wrestled with an urgent question: Can global governance catch up before the technology races beyond its control?",
+    "category": "tech-innovation",
+    "source": "Wired AI",
+    "author": "Unknown",
+    "publishedAt": "2026-07-10T06:00:00.000Z",
+    "url": "https://www.wired.com/story/robot-dogs-teslas-and-rescue-helicopters-the-un-ai-summit-was-alot/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-07-12T01:45:02.463Z"
   }
 ]
