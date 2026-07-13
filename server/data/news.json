@@ -1,6 +1,94 @@
 [
   {
-    "id": "news-1783820702462-0",
+    "id": "news-1783907280625-38",
+    "title": "Artists With the Most No. 1 Albums on the Billboard 200: The Beatles, Madonna & More",
+    "summary": "Madonna's CONFESSIONS II lands the Queen of Pop her 10th leader.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-07-12T23:03:10.000Z",
+    "url": "https://www.billboard.com/lists/drake-taylor-swift-most-billboard200-no1-albums-soloists/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-07-13T01:48:00.625Z"
+  },
+  {
+    "id": "news-1783907280625-39",
+    "title": "Fans Choose The Rolling Stones’ ‘Foreign Tongues’ as This Week’s Favorite New Music",
+    "summary": "The Stones' new 14-track collection brought in more than 42% of the vote this week.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-07-12T20:54:14.000Z",
+    "url": "https://www.billboard.com/music/music-news/rolling-stones-foreign-tongues-best-new-music-poll-results-1236292705/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-07-13T01:48:00.625Z"
+  },
+  {
+    "id": "news-1783907280625-40",
+    "title": "‘Michael’ Pulls Further Ahead of ‘Bohemian Rhapsody’ as Top-Grossing Music Biopic Worldwide: See the Top 25",
+    "summary": "It becomes the first biopic to top $1 billion in worldwide grosses.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-07-12T20:14:57.000Z",
+    "url": "https://www.billboard.com/lists/top-grossing-music-biopics-movies/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-07-13T01:48:00.625Z"
+  },
+  {
+    "id": "news-1783907280625-41",
+    "title": "Madonna & the Elite Acts With 10 or More No. 1s on Both the Billboard 200 & Hot 100",
+    "summary": "Only four artists boasts double-digital totals on each of Billboard’s premier album and song charts.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-07-12T19:14:00.000Z",
+    "url": "https://www.billboard.com/lists/acts-10-number-ones-billboard-200-hot-100/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-07-13T01:48:00.625Z"
+  },
+  {
+    "id": "news-1783907280625-42",
+    "title": "Madonna Achieves 10th No. 1 Album on Billboard 200 With ‘CONFESSIONS II’",
+    "summary": "She's the first act with a No. 1 album in the 2020s and three other decades.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-07-12T19:00:11.000Z",
+    "url": "https://www.billboard.com/lists/madonna-confessions-ii-number-one-billboard-200-chart/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-07-13T01:48:00.625Z"
+  },
+  {
+    "id": "news-1783907280625-24",
+    "title": "Scientists’ Side Hustle? Using AI and Quantum Computing to Generate New Peptides",
+    "summary": "Researchers cobbled together funding and time to show how quantum computing could aid in the development of drugs to help underserved populations and combat rare diseases.",
+    "category": "tech-innovation",
+    "source": "Wired AI",
+    "author": "Unknown",
+    "publishedAt": "2026-07-12T10:00:00.000Z",
+    "url": "https://www.wired.com/story/scientists-using-ai-and-quantum-computing-to-generate-new-peptides/",
+    "imageUrl": null,
+    "tags": [
+      "AI",
+      "Research",
+      "Investment"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-07-13T01:48:00.625Z"
+  },
+  {
+    "id": "news-1783907280623-0",
     "title": "OpenAI bets on families as ChatGPT goes deeper into households",
     "summary": "ChatGPT is hiring a dedicated product manager to build experiences for families, caregivers, and older adults, according to a job posting. ",
     "category": "ai-research",
@@ -13,57 +101,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-07-12T01:45:02.462Z"
+    "fetchedAt": "2026-07-13T01:48:00.623Z"
   },
   {
-    "id": "news-1783820702464-38",
-    "title": "Karol G Creates Tropicoqueta-Themed Cocktail for Her TropiTour & More Uplifting Moments in Latin Music",
-    "summary": "Plus, Shakira surpasses Taylor Swift on Spotify, and a star-studded telethon rallies aid for Venezuela.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-07-11T14:00:00.000Z",
-    "url": "https://www.billboard.com/music/latin/karol-g-cocktail-tropitour-shakira-spotify-uplifting-moments-1236291625/",
-    "imageUrl": null,
-    "tags": [
-      "Spotify",
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-07-12T01:45:02.464Z"
-  },
-  {
-    "id": "news-1783820702464-39",
-    "title": "Madonna Dances Toward History With 13th U.K. No. 1 Album for ‘Confessions II’",
-    "summary": "Sienna Spiro also lands the biggest British debut of 2026 so far.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-07-11T13:47:13.000Z",
-    "url": "https://www.billboard.com/music/chart-beat/madonna-uk-number-one-album-chart-confessions-ii-1236291539/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-07-12T01:45:02.464Z"
-  },
-  {
-    "id": "news-1783820702464-40",
-    "title": "Jay-Z’s Yankee Stadium Night One Setlist: Every Song Played at the First Show",
-    "summary": "The star-studded affair included appearances by Beyoncé, Blue Ivy Carter, Nas, Alicia Keys and more. ",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-07-11T05:31:05.000Z",
-    "url": "https://www.billboard.com/lists/jay-z-yankee-stadium-night-one-setlist/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-07-12T01:45:02.464Z"
-  },
-  {
-    "id": "news-1783820702463-24",
+    "id": "news-1783907280625-25",
     "title": "OpenAI’s Head of Safety Is Leaving the Company",
     "summary": "Johannes Heidecke’s departure comes as OpenAI tries to further integrate its research and safety teams.",
     "category": "tech-innovation",
@@ -77,24 +118,10 @@
       "Research"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-07-12T01:45:02.463Z"
+    "fetchedAt": "2026-07-13T01:48:00.625Z"
   },
   {
-    "id": "news-1783820702464-41",
-    "title": "YEONJUN, The Rolling Stones, Beyoncé & More: Which Is Your Favorite New Music Release This Week? Vote!",
-    "summary": "We also had new releases from Future, Suki Waterhouse, Teddy Swims, The Linda Lindas & Hayley Williams, Chris Lake & Tiga, and more.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-07-11T00:48:00.000Z",
-    "url": "https://www.billboard.com/music/music-news/yeonjun-vote-favorite-new-music-release-this-week-poll-1236292228/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-07-12T01:45:02.464Z"
-  },
-  {
-    "id": "news-1783820702462-1",
+    "id": "news-1783907280623-1",
     "title": "Meta removes controversial AI feature on Instagram after backlash",
     "summary": "\"Our intent was to provide a useful creative tool and to give people control over whether their public content could be referenced in this way,\" the company said in a blog post. \"We've heard the feedback that this feature missed the mark, so it's no longer available.\"",
     "category": "tech-innovation",
@@ -107,10 +134,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-07-12T01:45:02.462Z"
+    "fetchedAt": "2026-07-13T01:48:00.623Z"
   },
   {
-    "id": "news-1783820702462-2",
+    "id": "news-1783907280623-2",
     "title": "Apple sues OpenAI over alleged trade secret theft",
     "summary": "Apple alleges the misconduct was directed by OpenAI's senior leadership, including a longtime former employee.",
     "category": "ai-research",
@@ -123,10 +150,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-07-12T01:45:02.462Z"
+    "fetchedAt": "2026-07-13T01:48:00.623Z"
   },
   {
-    "id": "news-1783820702463-25",
+    "id": "news-1783907280625-26",
     "title": "Apple Is Suing OpenAI for Allegedly Stealing Hardware Secrets",
     "summary": "The iPhone maker claims OpenAI encouraged poached employees to bring over confidential presentations, secret prototypes, and key supplier details.",
     "category": "tech-innovation",
@@ -139,10 +166,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-07-12T01:45:02.463Z"
+    "fetchedAt": "2026-07-13T01:48:00.625Z"
   },
   {
-    "id": "news-1783820702462-3",
+    "id": "news-1783907280623-3",
     "title": "Open source AI matters more than ever, according to Hugging Face’s Clem Delangue",
     "summary": "Open source AI is booming, according to Hugging Face CEO Clem Delangue. The company has grown into something like a GitHub for AI in recent years, where AI builders can share and download open models and datasets, now used by roughly half the Fortune 500. Delangue has seen the same story play out again and again: companies start […]",
     "category": "ai-research",
@@ -155,10 +182,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-07-12T01:45:02.462Z"
+    "fetchedAt": "2026-07-13T01:48:00.624Z"
   },
   {
-    "id": "news-1783820702462-4",
+    "id": "news-1783907280624-4",
     "title": "SK Hynix raises $26.5B in the biggest foreign IPO in US history, is urged to build new US fabs",
     "summary": "The AI chip boom just produced its biggest Wall Street moment yet. Now SK Hynix and Samsung are being asked to build U.S. factories.",
     "category": "ai-research",
@@ -171,10 +198,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-07-12T01:45:02.462Z"
+    "fetchedAt": "2026-07-13T01:48:00.624Z"
   },
   {
-    "id": "news-1783820702464-31",
+    "id": "news-1783907280625-31",
     "title": "Sam Smith and Normani move to end ‘Dancing With a Stranger’ copyright suit, say the older song is itself built on unlicensed samples",
     "summary": "It is the second time Smith and the other co-defendants have tried to shut the case down before trial.\nSource",
     "category": "industry-news",
@@ -187,10 +214,10 @@
       "Copyright"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-07-12T01:45:02.464Z"
+    "fetchedAt": "2026-07-13T01:48:00.625Z"
   },
   {
-    "id": "news-1783820702462-5",
+    "id": "news-1783907280624-5",
     "title": "Hugging Face’s CEO on why companies are done renting their AI",
     "summary": "Open source AI is booming, according to Hugging Face CEO Clem Delangue. The company has grown into something like a GitHub for AI in recent years, where AI builders can share and download open models and datasets, now used by roughly half the Fortune 500. Delangue has seen the same story play out again and again: companies start […]",
     "category": "ai-research",
@@ -203,10 +230,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-07-12T01:45:02.462Z"
+    "fetchedAt": "2026-07-13T01:48:00.624Z"
   },
   {
-    "id": "news-1783820702464-32",
+    "id": "news-1783907280625-32",
     "title": "Streaming accelerates nostalgia-driven catalog discovery, says Vevo study",
     "summary": "The report highlights Sabrina Carpenter's \"Manchild\" as an example of a new release built on borrowed nostalgia.\nSource",
     "category": "industry-news",
@@ -220,10 +247,10 @@
       "Research"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-07-12T01:45:02.464Z"
+    "fetchedAt": "2026-07-13T01:48:00.625Z"
   },
   {
-    "id": "news-1783820702464-33",
+    "id": "news-1783907280625-33",
     "title": "Dynamite Songs acquires catalog of The Association co-founder Terry Kirkman",
     "summary": "The deal adds 71 compositions to the specialist publisher's portfolio, including Cherish, which reached No. 1 on the Billboard Hot 100 in 1966.\nSource",
     "category": "industry-news",
@@ -234,10 +261,10 @@
     "imageUrl": null,
     "tags": [],
     "readTime": 1,
-    "fetchedAt": "2026-07-12T01:45:02.464Z"
+    "fetchedAt": "2026-07-13T01:48:00.625Z"
   },
   {
-    "id": "news-1783820702464-34",
+    "id": "news-1783907280625-34",
     "title": "Record industry proposes AI labeling system for streaming platforms",
     "summary": "Music orgs want the world's biggest streaming services to start labeling music made with artificial intelligence.\n\n\nSource",
     "category": "ai-research",
@@ -251,10 +278,10 @@
       "Streaming"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-07-12T01:45:02.464Z"
+    "fetchedAt": "2026-07-13T01:48:00.625Z"
   },
   {
-    "id": "news-1783820702463-26",
+    "id": "news-1783907280625-27",
     "title": "A New Experiential Gallery Just Might Change Your Mind About AI Art",
     "summary": "Billed as the “world’s first museum of AI arts,” Dataland uses wearables and troves of material from the Amazon to merge nature, biometrics, and art.",
     "category": "tech-innovation",
@@ -267,10 +294,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-07-12T01:45:02.463Z"
+    "fetchedAt": "2026-07-13T01:48:00.625Z"
   },
   {
-    "id": "news-1783820702464-35",
+    "id": "news-1783907280625-35",
     "title": "iHeartMedia settles FCC ‘payola’ probe at its live music events, with no fine and no admission of liability",
     "summary": "The FCC investigated whether iHeart broke rules by trading radio airplay for artist performances at its events.\nSource",
     "category": "industry-news",
@@ -283,39 +310,6 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-07-12T01:45:02.464Z"
-  },
-  {
-    "id": "news-1783820702464-36",
-    "title": "BTS label Big Hit Music rejects ‘SWIM’ copyright claim, says track was independently created",
-    "summary": "'The allegations in the lawsuit are unilateral and unsubstantiated,' Big Hit Music said\nSource",
-    "category": "industry-news",
-    "source": "Music Business Worldwide",
-    "author": "Unknown",
-    "publishedAt": "2026-07-10T09:15:55.000Z",
-    "url": "https://www.musicbusinessworldwide.com/bts-label-big-hit-music-rejects-swim-copyright-claim-says-track-was-independently-created/",
-    "imageUrl": null,
-    "tags": [
-      "AI",
-      "Copyright"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-07-12T01:45:02.464Z"
-  },
-  {
-    "id": "news-1783820702463-27",
-    "title": "Robot Dogs, Teslas, and Rescue Helicopters: The UN AI Summit Was a Lot",
-    "summary": "Amid live coding sessions and Silicon Valley optimism, the UN’s AI for Good summit wrestled with an urgent question: Can global governance catch up before the technology races beyond its control?",
-    "category": "tech-innovation",
-    "source": "Wired AI",
-    "author": "Unknown",
-    "publishedAt": "2026-07-10T06:00:00.000Z",
-    "url": "https://www.wired.com/story/robot-dogs-teslas-and-rescue-helicopters-the-un-ai-summit-was-alot/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-07-12T01:45:02.463Z"
+    "fetchedAt": "2026-07-13T01:48:00.625Z"
   }
 ]
