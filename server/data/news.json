@@ -1,76 +1,250 @@
 [
   {
-    "id": "news-1783907280625-38",
-    "title": "Artists With the Most No. 1 Albums on the Billboard 200: The Beatles, Madonna & More",
-    "summary": "Madonna's CONFESSIONS II lands the Queen of Pop her 10th leader.",
+    "id": "news-1783992274702-0",
+    "title": "Uber’s product chief on hotels, robotaxis, and why the company doesn’t want to be “everything for everyone”",
+    "summary": "Uber Chief Product Officer Sachin Kansal walks TechCrunch through the company's financial-services ambitions, its increasingly complicated relationship with Waymo, its new AV Labs data operation, and how AI is starting to show up in ways riders and drivers will actually notice.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-07-14T00:45:00.000Z",
+    "url": "https://techcrunch.com/2026/07/13/ubers-product-chief-on-hotels-robotaxis-and-why-the-company-doesnt-want-to-be-everything-for-everyone/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-07-14T01:24:34.702Z"
+  },
+  {
+    "id": "news-1783992274703-33",
+    "title": "Billboard’s Music Industry Events Calendar",
+    "summary": "A complete rundown of the most important events across the music business.",
     "category": "industry-news",
     "source": "Billboard",
     "author": "Unknown",
-    "publishedAt": "2026-07-12T23:03:10.000Z",
-    "url": "https://www.billboard.com/lists/drake-taylor-swift-most-billboard200-no1-albums-soloists/",
+    "publishedAt": "2026-07-13T23:57:00.000Z",
+    "url": "https://www.billboard.com/pro/music-industry-events-calendar-festivals-awards-conferences/",
     "imageUrl": null,
     "tags": [],
     "readTime": 1,
-    "fetchedAt": "2026-07-13T01:48:00.625Z"
+    "fetchedAt": "2026-07-14T01:24:34.703Z"
   },
   {
-    "id": "news-1783907280625-39",
-    "title": "Fans Choose The Rolling Stones’ ‘Foreign Tongues’ as This Week’s Favorite New Music",
-    "summary": "The Stones' new 14-track collection brought in more than 42% of the vote this week.",
+    "id": "news-1783992274703-34",
+    "title": "‘KPop Demon Hunters,’ ‘Song Sung Blue,’ Billy Joel Doc & More Nominated for 2026 Humanitas Prizes: Full List",
+    "summary": "Ashley Nicole Black is set to host the Sept. 9 ceremony honoring film and TV writers across 10 categories.",
     "category": "industry-news",
     "source": "Billboard",
     "author": "Unknown",
-    "publishedAt": "2026-07-12T20:54:14.000Z",
-    "url": "https://www.billboard.com/music/music-news/rolling-stones-foreign-tongues-best-new-music-poll-results-1236292705/",
+    "publishedAt": "2026-07-13T22:50:04.000Z",
+    "url": "https://www.billboard.com/music/awards/kpop-demon-hunters-nominated-2026-humanitas-prize-full-list-1236293600/",
     "imageUrl": null,
     "tags": [],
     "readTime": 1,
-    "fetchedAt": "2026-07-13T01:48:00.625Z"
+    "fetchedAt": "2026-07-14T01:24:34.703Z"
   },
   {
-    "id": "news-1783907280625-40",
-    "title": "‘Michael’ Pulls Further Ahead of ‘Bohemian Rhapsody’ as Top-Grossing Music Biopic Worldwide: See the Top 25",
-    "summary": "It becomes the first biopic to top $1 billion in worldwide grosses.",
+    "id": "news-1783992274703-35",
+    "title": "ABBA’s Björn Ulvaeus Talks AI Training at United Nations Summit: Artists ‘Deserve a Place at the Table’",
+    "summary": "Ulvaeus, the opening keynote speaker at the UN's AI for Good Global Summit in Geneva, started his speech with a simple question: \"Good for whom?\"",
     "category": "industry-news",
     "source": "Billboard",
     "author": "Unknown",
-    "publishedAt": "2026-07-12T20:14:57.000Z",
-    "url": "https://www.billboard.com/lists/top-grossing-music-biopics-movies/",
+    "publishedAt": "2026-07-13T22:00:03.000Z",
+    "url": "https://www.billboard.com/pro/abba-bjorn-ulvaeus-music-ai-un-global-summit/",
     "imageUrl": null,
-    "tags": [],
+    "tags": [
+      "AI"
+    ],
     "readTime": 1,
-    "fetchedAt": "2026-07-13T01:48:00.625Z"
+    "fetchedAt": "2026-07-14T01:24:34.703Z"
   },
   {
-    "id": "news-1783907280625-41",
-    "title": "Madonna & the Elite Acts With 10 or More No. 1s on Both the Billboard 200 & Hot 100",
-    "summary": "Only four artists boasts double-digital totals on each of Billboard’s premier album and song charts.",
+    "id": "news-1783992274703-22",
+    "title": "Siri AI Is Becoming Apple’s Everything Tool",
+    "summary": "Apple’s revamped Siri is more than a voice assistant; it’s now the backbone of the iPhone user experience. You can try it now through the iOS 27 public beta.",
+    "category": "tech-innovation",
+    "source": "Wired AI",
+    "author": "Unknown",
+    "publishedAt": "2026-07-13T21:39:09.000Z",
+    "url": "https://www.wired.com/story/siri-ai-is-now-apple-everything-tool/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-07-14T01:24:34.703Z"
+  },
+  {
+    "id": "news-1783992274703-36",
+    "title": "NYC Mayor Zohran Mamdani Reveals Jay-Z’s ‘The Blueprint’ Was His First-Ever CD & Confirms ‘Breach of Security’ at Yankee Stadium Concert",
+    "summary": "Mamdani was not in attendance for any of Hov's three shows in the Bronx. ",
     "category": "industry-news",
     "source": "Billboard",
     "author": "Unknown",
-    "publishedAt": "2026-07-12T19:14:00.000Z",
-    "url": "https://www.billboard.com/lists/acts-10-number-ones-billboard-200-hot-100/",
+    "publishedAt": "2026-07-13T21:32:29.000Z",
+    "url": "https://www.billboard.com/music/rb-hip-hop/zohran-mamdani-jay-z-yankee-stadium-concert-1236293363/",
     "imageUrl": null,
     "tags": [],
     "readTime": 1,
-    "fetchedAt": "2026-07-13T01:48:00.625Z"
+    "fetchedAt": "2026-07-14T01:24:34.703Z"
   },
   {
-    "id": "news-1783907280625-42",
-    "title": "Madonna Achieves 10th No. 1 Album on Billboard 200 With ‘CONFESSIONS II’",
-    "summary": "She's the first act with a No. 1 album in the 2020s and three other decades.",
+    "id": "news-1783992274702-1",
+    "title": "Satya Nadella has issued a shocking warning to companies using AI",
+    "summary": "Of all the debates raging about the potential downsides of AI, there is one worry causing the most hand-wringing among AI enthusiasts in Silicon Valley — that the giant AI labs that sell proprietary models are somehow acting like Trojan horses.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-07-13T20:59:00.000Z",
+    "url": "https://techcrunch.com/2026/07/13/satya-nadella-has-issued-a-shocking-warning-to-companies-using-ai/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-07-14T01:24:34.702Z"
+  },
+  {
+    "id": "news-1783992274703-37",
+    "title": "The Beatles, Taylor Swift, Drake, Mariah Carey & More: Acts With the Most Billboard 200 & Hot 100 No. 1s Combined",
+    "summary": "These artists stand at the pinnacle of chart success with both albums and songs.",
     "category": "industry-news",
     "source": "Billboard",
     "author": "Unknown",
-    "publishedAt": "2026-07-12T19:00:11.000Z",
-    "url": "https://www.billboard.com/lists/madonna-confessions-ii-number-one-billboard-200-chart/",
+    "publishedAt": "2026-07-13T20:51:49.000Z",
+    "url": "https://www.billboard.com/lists/acts-with-most-billboard-200-hot-100-number-ones-combined/",
     "imageUrl": null,
     "tags": [],
     "readTime": 1,
-    "fetchedAt": "2026-07-13T01:48:00.625Z"
+    "fetchedAt": "2026-07-14T01:24:34.703Z"
   },
   {
-    "id": "news-1783907280625-24",
+    "id": "news-1783992274703-38",
+    "title": "The Best 4K RGB LED TVs to Buy In 2026: Here’s Where to Shop Online",
+    "summary": "From Sony to LG, Shop Billboard rounded up the best 4K TVs for watching live music performances and live sports.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-07-13T20:48:52.000Z",
+    "url": "https://www.billboard.com/culture/product-recommendations/best-4k-tv-rgb-led-shop-buy-online-1236291573/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-07-14T01:24:34.703Z"
+  },
+  {
+    "id": "news-1783992274703-30",
+    "title": "Meta scraps AI Muse Image feature that scraped Instagram accounts, following CAA backlash",
+    "summary": "Under the opt-out design, the public Instagram account of any adult artist could be referenced by other users to generate AI images unless the artist switched the feature off\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-07-13T18:54:33.000Z",
+    "url": "https://www.musicbusinessworldwide.com/meta-scraps-ai-muse-image-feature-that-scraped-instagram-accounts-following-caa-backlash/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-07-14T01:24:34.703Z"
+  },
+  {
+    "id": "news-1783992274702-2",
+    "title": "The wildest allegations in Apple’s trade secrets lawsuit against OpenAI",
+    "summary": "Apple’s trade secrets lawsuit against OpenAI contains allegations that range from employees joking about unauthorized access to Apple’s systems to claims that job candidates were asked to bring Apple hardware to interviews. Here are the complaint’s most eye-catching claims.",
+    "category": "tech-innovation",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-07-13T18:22:10.000Z",
+    "url": "https://techcrunch.com/2026/07/13/the-wildest-allegations-in-apples-trade-secrets-lawsuit-against-openai/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-07-14T01:24:34.702Z"
+  },
+  {
+    "id": "news-1783992274702-3",
+    "title": "Should AI help you get away with killing your spouse?",
+    "summary": "What does a world of total user-aligned AI actually look like?",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-07-13T16:31:23.000Z",
+    "url": "https://techcrunch.com/2026/07/13/should-ai-help-you-get-away-with-killing-your-spouse/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-07-14T01:24:34.702Z"
+  },
+  {
+    "id": "news-1783992274702-4",
+    "title": "Anthropic starts localizing Claude pricing for India, its biggest market after the US",
+    "summary": "Claude users in India are starting to see Indian rupee-denominated subscription plans.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-07-13T15:34:59.000Z",
+    "url": "https://techcrunch.com/2026/07/13/anthropic-starts-localizing-claude-pricing-for-india-its-biggest-market-after-the-us/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-07-14T01:24:34.702Z"
+  },
+  {
+    "id": "news-1783992274703-31",
+    "title": "BMG acquires remaining interests in Hal David, John Lee Hooker and ARC Music publishing catalogs",
+    "summary": "BMG says deal gives it full ownership of landmark publishing catalogs spanning  Blues, Rock & Roll, Soul, Pop, and classic American songwriting \nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-07-13T14:45:27.000Z",
+    "url": "https://www.musicbusinessworldwide.com/bmg-acquires-remaining-interests-in-hal-david-john-lee-hooker-and-arc-music-publishing-catalogs/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-07-14T01:24:34.703Z"
+  },
+  {
+    "id": "news-1783992274702-5",
+    "title": "Waze adds new AI-powered features and customization updates",
+    "summary": "Some of the new features are powered by Google's Gemini AI assistant, which reflects the tech giant's broader push to integrate Gemini across its products while also better positioning Waze to compete with rival services such as Apple Maps.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-07-13T14:18:16.000Z",
+    "url": "https://techcrunch.com/2026/07/13/waze-adds-new-ai-powered-features-and-customization-updates/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-07-14T01:24:34.702Z"
+  },
+  {
+    "id": "news-1783992274703-32",
+    "title": "John Legend joins Universal Music, Udio, Stability AI, Splice and NVIDIA to discuss AI and music at the UN’s AI for Good Summit",
+    "summary": "The panel examined how AI is changing music from discovery to fan engagement\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-07-13T13:56:30.000Z",
+    "url": "https://www.musicbusinessworldwide.com/john-legend-joins-universal-music-udio-stability-ai-splice-and-nvidia-to-discuss-ai-and-music-at-the-uns-ai-for-good-summit/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-07-14T01:24:34.703Z"
+  },
+  {
+    "id": "news-1783992274703-23",
     "title": "Scientists’ Side Hustle? Using AI and Quantum Computing to Generate New Peptides",
     "summary": "Researchers cobbled together funding and time to show how quantum computing could aid in the development of drugs to help underserved populations and combat rare diseases.",
     "category": "tech-innovation",
@@ -85,10 +259,10 @@
       "Investment"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-07-13T01:48:00.625Z"
+    "fetchedAt": "2026-07-14T01:24:34.703Z"
   },
   {
-    "id": "news-1783907280623-0",
+    "id": "news-1783992274702-6",
     "title": "OpenAI bets on families as ChatGPT goes deeper into households",
     "summary": "ChatGPT is hiring a dedicated product manager to build experiences for families, caregivers, and older adults, according to a job posting. ",
     "category": "ai-research",
@@ -101,10 +275,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-07-13T01:48:00.623Z"
+    "fetchedAt": "2026-07-14T01:24:34.702Z"
   },
   {
-    "id": "news-1783907280625-25",
+    "id": "news-1783992274703-24",
     "title": "OpenAI’s Head of Safety Is Leaving the Company",
     "summary": "Johannes Heidecke’s departure comes as OpenAI tries to further integrate its research and safety teams.",
     "category": "tech-innovation",
@@ -118,10 +292,10 @@
       "Research"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-07-13T01:48:00.625Z"
+    "fetchedAt": "2026-07-14T01:24:34.703Z"
   },
   {
-    "id": "news-1783907280623-1",
+    "id": "news-1783992274702-7",
     "title": "Meta removes controversial AI feature on Instagram after backlash",
     "summary": "\"Our intent was to provide a useful creative tool and to give people control over whether their public content could be referenced in this way,\" the company said in a blog post. \"We've heard the feedback that this feature missed the mark, so it's no longer available.\"",
     "category": "tech-innovation",
@@ -134,182 +308,6 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-07-13T01:48:00.623Z"
-  },
-  {
-    "id": "news-1783907280623-2",
-    "title": "Apple sues OpenAI over alleged trade secret theft",
-    "summary": "Apple alleges the misconduct was directed by OpenAI's senior leadership, including a longtime former employee.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-07-10T21:00:29.000Z",
-    "url": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-07-13T01:48:00.623Z"
-  },
-  {
-    "id": "news-1783907280625-26",
-    "title": "Apple Is Suing OpenAI for Allegedly Stealing Hardware Secrets",
-    "summary": "The iPhone maker claims OpenAI encouraged poached employees to bring over confidential presentations, secret prototypes, and key supplier details.",
-    "category": "tech-innovation",
-    "source": "Wired AI",
-    "author": "Unknown",
-    "publishedAt": "2026-07-10T20:44:05.000Z",
-    "url": "https://www.wired.com/story/apple-sues-openai-allegedly-stealing-ip-hardware/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-07-13T01:48:00.625Z"
-  },
-  {
-    "id": "news-1783907280623-3",
-    "title": "Open source AI matters more than ever, according to Hugging Face’s Clem Delangue",
-    "summary": "Open source AI is booming, according to Hugging Face CEO Clem Delangue. The company has grown into something like a GitHub for AI in recent years, where AI builders can share and download open models and datasets, now used by roughly half the Fortune 500. Delangue has seen the same story play out again and again: companies start […]",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-07-10T19:00:00.000Z",
-    "url": "https://techcrunch.com/podcast/open-source-ai-matters-more-than-ever-according-to-hugging-faces-clem-delangue/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-07-13T01:48:00.624Z"
-  },
-  {
-    "id": "news-1783907280624-4",
-    "title": "SK Hynix raises $26.5B in the biggest foreign IPO in US history, is urged to build new US fabs",
-    "summary": "The AI chip boom just produced its biggest Wall Street moment yet. Now SK Hynix and Samsung are being asked to build U.S. factories.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-07-10T17:17:12.000Z",
-    "url": "https://techcrunch.com/2026/07/10/sk-hynix-raises-26-5b-in-the-biggest-foreign-ipo-in-us-history-is-urged-to-build-new-us-fabs/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-07-13T01:48:00.624Z"
-  },
-  {
-    "id": "news-1783907280625-31",
-    "title": "Sam Smith and Normani move to end ‘Dancing With a Stranger’ copyright suit, say the older song is itself built on unlicensed samples",
-    "summary": "It is the second time Smith and the other co-defendants have tried to shut the case down before trial.\nSource",
-    "category": "industry-news",
-    "source": "Music Business Worldwide",
-    "author": "Unknown",
-    "publishedAt": "2026-07-10T14:24:51.000Z",
-    "url": "https://www.musicbusinessworldwide.com/sam-smith-and-normani-move-to-end-dancing-with-a-stranger-copyright-suit-say-the-older-song-is-itself-built-on-unlicensed-samples/",
-    "imageUrl": null,
-    "tags": [
-      "Copyright"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-07-13T01:48:00.625Z"
-  },
-  {
-    "id": "news-1783907280624-5",
-    "title": "Hugging Face’s CEO on why companies are done renting their AI",
-    "summary": "Open source AI is booming, according to Hugging Face CEO Clem Delangue. The company has grown into something like a GitHub for AI in recent years, where AI builders can share and download open models and datasets, now used by roughly half the Fortune 500. Delangue has seen the same story play out again and again: companies start […]",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-07-10T14:00:00.000Z",
-    "url": "https://techcrunch.com/2026/07/10/hugging-faces-ceo-on-why-companies-are-done-renting-their-ai/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-07-13T01:48:00.624Z"
-  },
-  {
-    "id": "news-1783907280625-32",
-    "title": "Streaming accelerates nostalgia-driven catalog discovery, says Vevo study",
-    "summary": "The report highlights Sabrina Carpenter's \"Manchild\" as an example of a new release built on borrowed nostalgia.\nSource",
-    "category": "industry-news",
-    "source": "Music Business Worldwide",
-    "author": "Unknown",
-    "publishedAt": "2026-07-10T13:30:06.000Z",
-    "url": "https://www.musicbusinessworldwide.com/streaming-accelerates-nostalgia-driven-catalog-discovery-says-vevo-study/",
-    "imageUrl": null,
-    "tags": [
-      "Streaming",
-      "Research"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-07-13T01:48:00.625Z"
-  },
-  {
-    "id": "news-1783907280625-33",
-    "title": "Dynamite Songs acquires catalog of The Association co-founder Terry Kirkman",
-    "summary": "The deal adds 71 compositions to the specialist publisher's portfolio, including Cherish, which reached No. 1 on the Billboard Hot 100 in 1966.\nSource",
-    "category": "industry-news",
-    "source": "Music Business Worldwide",
-    "author": "Unknown",
-    "publishedAt": "2026-07-10T13:14:40.000Z",
-    "url": "https://www.musicbusinessworldwide.com/dynamite-songs-acquires-catalog-of-the-association-co-founder-terry-kirkman/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-07-13T01:48:00.625Z"
-  },
-  {
-    "id": "news-1783907280625-34",
-    "title": "Record industry proposes AI labeling system for streaming platforms",
-    "summary": "Music orgs want the world's biggest streaming services to start labeling music made with artificial intelligence.\n\n\nSource",
-    "category": "ai-research",
-    "source": "Music Business Worldwide",
-    "author": "Unknown",
-    "publishedAt": "2026-07-10T11:51:07.000Z",
-    "url": "https://www.musicbusinessworldwide.com/record-industry-proposes-ai-labeling-system-for-streaming-platforms/",
-    "imageUrl": null,
-    "tags": [
-      "AI",
-      "Streaming"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-07-13T01:48:00.625Z"
-  },
-  {
-    "id": "news-1783907280625-27",
-    "title": "A New Experiential Gallery Just Might Change Your Mind About AI Art",
-    "summary": "Billed as the “world’s first museum of AI arts,” Dataland uses wearables and troves of material from the Amazon to merge nature, biometrics, and art.",
-    "category": "tech-innovation",
-    "source": "Wired AI",
-    "author": "Unknown",
-    "publishedAt": "2026-07-10T10:30:00.000Z",
-    "url": "https://www.wired.com/story/a-new-experiential-gallery-just-might-change-your-mind-about-ai-art/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-07-13T01:48:00.625Z"
-  },
-  {
-    "id": "news-1783907280625-35",
-    "title": "iHeartMedia settles FCC ‘payola’ probe at its live music events, with no fine and no admission of liability",
-    "summary": "The FCC investigated whether iHeart broke rules by trading radio airplay for artist performances at its events.\nSource",
-    "category": "industry-news",
-    "source": "Music Business Worldwide",
-    "author": "Unknown",
-    "publishedAt": "2026-07-10T10:27:41.000Z",
-    "url": "https://www.musicbusinessworldwide.com/iheartmedia-settles-fcc-payola-probe-at-its-live-music-events-with-no-fine-and-no-admission-of-liability/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-07-13T01:48:00.625Z"
+    "fetchedAt": "2026-07-14T01:24:34.702Z"
   }
 ]
