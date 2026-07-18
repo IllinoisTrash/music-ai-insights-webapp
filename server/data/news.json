@@ -1,52 +1,302 @@
 [
   {
-    "id": "news-1784252718016-34",
-    "title": "As the Music Catalog Investment Market Hits a High Note, Financial Investors Are Cashing Out",
-    "summary": "Iconoclast, Anthem and Crescendo are among the music rights catalog companies in the final stages of sales.",
-    "category": "industry-news",
-    "source": "Billboard",
+    "id": "news-1784337947252-0",
+    "title": "Vertu wants executives to pay $6,880 for an AI agent — here’s how it actually performs",
+    "summary": "From AI workflows to battery life and security, here's what it's really like to live with Vertu's luxury foldable every day.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
     "author": "Unknown",
-    "publishedAt": "2026-07-16T21:06:31.000Z",
-    "url": "https://www.billboard.com/pro/music-catalog-investment-market-grows-investors-cash-out/",
+    "publishedAt": "2026-07-17T22:55:09.000Z",
+    "url": "https://techcrunch.com/2026/07/17/vertu-wants-executives-to-pay-6880-for-an-ai-agent-heres-how-it-actually-performs/",
     "imageUrl": null,
     "tags": [
-      "Investment"
+      "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-07-17T01:45:18.016Z"
+    "fetchedAt": "2026-07-18T01:25:47.252Z"
   },
   {
-    "id": "news-1784252718016-35",
-    "title": "Gracie Abrams Shares Voice Notes From Upcoming ‘Daughter From Hell’ Tracks, Including One With an Alternate Melody",
-    "summary": "The pop singer-songwriter sat backstage with Billboard at her intimate Bowery Ballroom concert.",
+    "id": "news-1784337947252-1",
+    "title": "Databricks hits $188B valuation, extending its run as AI’s favorite second act",
+    "summary": "Databricks has remade its image into an AI company and has published research on the cost savings of open weight AI models for coding.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-07-17T22:12:56.000Z",
+    "url": "https://techcrunch.com/2026/07/17/databricks-hits-188b-valuation-extending-its-run-as-ais-favorite-second-act/",
+    "imageUrl": null,
+    "tags": [
+      "AI",
+      "Research"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-07-18T01:25:47.252Z"
+  },
+  {
+    "id": "news-1784337947253-34",
+    "title": "Here’s When the 2026 Primetime Emmys in Music and Variety Categories Will Be Presented",
+    "summary": "The Television Academy will hand out awards in 121 categories (!) across three nights.",
     "category": "industry-news",
     "source": "Billboard",
     "author": "Unknown",
-    "publishedAt": "2026-07-16T20:57:32.000Z",
-    "url": "https://www.billboard.com/music/pop/gracie-abrams-interview-daughter-from-hell-mews-sober-1236296116/",
+    "publishedAt": "2026-07-17T21:40:50.000Z",
+    "url": "https://www.billboard.com/lists/2026-primetime-emmys-awarded-over-3-nights-details/",
     "imageUrl": null,
     "tags": [],
     "readTime": 1,
-    "fetchedAt": "2026-07-17T01:45:18.016Z"
+    "fetchedAt": "2026-07-18T01:25:47.253Z"
   },
   {
-    "id": "news-1784252718016-36",
-    "title": "Ne-Yo Takes a Country Road With ‘Highway 79’: ‘We Wanted to Make Music People Related To’",
-    "summary": "Ne-Yo builds upon his previous country collaborations on his new country-inspired album.",
+    "id": "news-1784337947253-35",
+    "title": "Gracie Abrams, Rick Ross, Steve Lacy & More: Which Is Your Favorite New Music Release This Week? Vote!",
+    "summary": "There are also new releases from Buju Banton, Carly Rae Jepsen, Syd and others.",
     "category": "industry-news",
     "source": "Billboard",
     "author": "Unknown",
-    "publishedAt": "2026-07-16T20:57:22.000Z",
-    "url": "https://www.billboard.com/music/country/ne-yo-highway-79-album-interview-1236296024/",
+    "publishedAt": "2026-07-17T20:45:11.000Z",
+    "url": "https://www.billboard.com/music/music-news/best-new-music-poll-gracie-abrams-buju-banton-steve-lacy-1236296976/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-07-18T01:25:47.253Z"
+  },
+  {
+    "id": "news-1784337947253-36",
+    "title": "In Canada: Inside the Polaris Music Prize’s Big Period of Change, Plus Angine de Poitrine Debuts in Toronto",
+    "summary": "Also up north this week: Kneecap moves to sue after being denied entry to Canada.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-07-17T20:27:30.000Z",
+    "url": "https://www.billboard.com/pro/polaris-music-prize-changes-angine-de-poitrine-canada-news/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-07-18T01:25:47.253Z"
+  },
+  {
+    "id": "news-1784337947252-2",
+    "title": "AI-driven memory crunch jolts India’s smartphone market",
+    "summary": "India's smartphone slowdown highlights how the AI boom is reshaping consumer electronics, from pricing and demand to corporate strategy.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-07-17T20:09:27.000Z",
+    "url": "https://techcrunch.com/2026/07/17/ai-driven-memory-crunch-jolts-indias-smartphone-market/",
     "imageUrl": null,
     "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-07-18T01:25:47.252Z"
+  },
+  {
+    "id": "news-1784337947253-37",
+    "title": "Amy Winehouse, Werner Herzog & Unfinished Music: Extras From The Rolling Stones’ Billboard Cover Story",
+    "summary": "More wagging Tongues. ",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-07-17T20:07:25.000Z",
+    "url": "https://www.billboard.com/music/rock/rolling-stones-amy-winehouse-unfinished-music-1236297098/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-07-18T01:25:47.253Z"
+  },
+  {
+    "id": "news-1784337947252-3",
+    "title": "How Apple’s big lawsuit could disrupt OpenAI’s IPO plans",
+    "summary": "Apple filed a trade secrets lawsuit against OpenAI last Friday, and it’s not messing around. The complaint alleges a pattern of misconduct reaching all the way up to OpenAI’s chief hardware officer and claims more than 400 former Apple employees now work at the company. OpenAI’s response so far has been carefully hedged, and the timing couldn’t be worse with the company reportedly eyeing an IPO […]",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-07-17T17:45:46.000Z",
+    "url": "https://techcrunch.com/video/how-apples-big-lawsuit-could-disrupt-openais-ipo-plans/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-07-18T01:25:47.252Z"
+  },
+  {
+    "id": "news-1784337947253-27",
+    "title": "Apple Music hikes subscription prices citing ‘rising licensing costs’",
+    "summary": "\"As a result of rising licensing costs, Apple Music is increasing its subscription price beginning today,\" the company said.\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-07-17T16:02:52.000Z",
+    "url": "https://www.musicbusinessworldwide.com/apple-music-hikes-subscription-prices-as-a-result-of-rising-licensing-costs/",
+    "imageUrl": null,
+    "tags": [
+      "Apple Music",
+      "AI",
+      "Copyright"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-07-18T01:25:47.253Z"
+  },
+  {
+    "id": "news-1784337947253-28",
+    "title": "From Apple Music’s price hike to Iron Maiden’s Pophouse deal… it’s MBW’s Weekly Round-up",
+    "summary": "The biggest headlines from the past few days...\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-07-17T15:51:36.000Z",
+    "url": "https://www.musicbusinessworldwide.com/from-sunos-ipo-ambitions-to-iron-maidens-pophouse-deal-its-mbws-weekly-round-up/",
+    "imageUrl": null,
+    "tags": [
+      "Apple Music",
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-07-18T01:25:47.253Z"
+  },
+  {
+    "id": "news-1784337947252-4",
+    "title": "Patreon stops asking AI bots not to scrape — and starts blocking them",
+    "summary": "Patreon is strengthening its defenses against AI scraping by working with Cloudflare to block bots that train AI models on creators’ content without permission. The move marks a shift away from relying on websites using robots.txt alone to actively block unauthorized AI training.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-07-17T15:21:17.000Z",
+    "url": "https://techcrunch.com/2026/07/17/patreon-stops-asking-ai-bots-not-to-scrape-and-starts-blocking-them/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-07-18T01:25:47.252Z"
+  },
+  {
+    "id": "news-1784337947253-29",
+    "title": "Elon Musk’s X and music publishers end legal war, filing joint stipulations of dismissal",
+    "summary": "The two sides filed joint stipulations of dismissal in two US federal courts on Thursday (July 16).\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-07-17T14:59:59.000Z",
+    "url": "https://www.musicbusinessworldwide.com/elon-musks-x-and-music-publishers-end-legal-war-filing-joint-stipulations-of-dismissal/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-07-18T01:25:47.253Z"
+  },
+  {
+    "id": "news-1784337947252-5",
+    "title": "Apple’s lawsuit couldn’t come at a worse time for OpenAI",
+    "summary": "Apple filed a trade secrets lawsuit against OpenAI last Friday, and it’s not messing around. The complaint alleges a pattern of misconduct reaching all the way up to OpenAI’s chief hardware officer and claims more than 400 former Apple employees now work at the company. OpenAI’s response so far has been carefully hedged, and the timing couldn’t be worse with the company reportedly eyeing an IPO […]",
+    "category": "tech-innovation",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-07-17T14:00:00.000Z",
+    "url": "https://techcrunch.com/podcast/apples-lawsuit-couldnt-come-at-a-worse-time-for-openai/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-07-18T01:25:47.252Z"
+  },
+  {
+    "id": "news-1784337947253-30",
+    "title": "Time to end music’s greatest injustice",
+    "summary": "The following MBW op/ed comes from Scott Cohen\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-07-17T12:00:49.000Z",
+    "url": "https://www.musicbusinessworldwide.com/time-to-end-musics-greatest-injustice/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-07-18T01:25:47.253Z"
+  },
+  {
+    "id": "news-1784337947252-6",
+    "title": "Why the first GPU financiers are turning to inference chips in a $400 million deal",
+    "summary": "A $400 million chip-backed loan points to the next wave of AI infrastructure deals.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-07-17T12:00:00.000Z",
+    "url": "https://techcrunch.com/2026/07/17/why-the-first-gpu-financiers-are-turning-to-inference-chips-in-a-400-million-deal/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-07-18T01:25:47.252Z"
+  },
+  {
+    "id": "news-1784337947253-31",
+    "title": "‘Asia will become one of the primary drivers of global touring rather than simply a destination on international routes.’",
+    "summary": "MBW's Trailblazers series meets Tommy Jinho Yoon, founder and CEO of Asia-focused music promoter International Creative Agency (ICA).\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-07-17T11:22:08.000Z",
+    "url": "https://www.musicbusinessworldwide.com/asia-will-become-one-of-the-primary-drivers-of-global-touring-rather-than-simply-a-destination-on-international-routes/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-07-18T01:25:47.253Z"
+  },
+  {
+    "id": "news-1784337947253-20",
+    "title": "San Francisco Demands Apple and Google Delete AI ‘Nudify’ Apps From App Stores",
+    "summary": "The City Attorney’s Office sent the tech giants cease-and-desist letters this week telling them to stop profiting from 13 “face-swap” apps that are overwhelmingly used to target women and girls.",
+    "category": "tech-innovation",
+    "source": "Wired AI",
+    "author": "Unknown",
+    "publishedAt": "2026-07-17T10:00:00.000Z",
+    "url": "https://www.wired.com/story/san-francisco-demands-apple-and-google-delete-ai-nudify-apps-from-app-stores/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-07-18T01:25:47.253Z"
+  },
+  {
+    "id": "news-1784337947253-32",
+    "title": "Warner Music strikes multi-year licensing deal with China’s NetEase Cloud Music",
+    "summary": "Warner Music Group has renewed its licensing agreement with China’s NetEase Cloud Music. The multi-year extension covers distribution of Warner‘s recorded music and publishing catalog across the streaming platform. It also broadens the partnership beyond distribution into promotion of Warner artists and multimedia content. The companies announced the renewal on Thursday (July 16). NetEase Cloud … Continued\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-07-17T09:07:45.000Z",
+    "url": "https://www.musicbusinessworldwide.com/warner-music-strikes-new-multi-year-licensing-deal-with-chinas-netease-cloud-music/",
+    "imageUrl": null,
+    "tags": [
+      "Streaming",
+      "Copyright",
       "Partnership"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-07-17T01:45:18.016Z"
+    "fetchedAt": "2026-07-18T01:25:47.253Z"
   },
   {
-    "id": "news-1784252718015-15",
+    "id": "news-1784337947253-33",
+    "title": "Marcela Moreira appointed Country Director for Brazil at Believe",
+    "summary": "Moreira joins with more than 16 years of experience in the music industry, including roles at Sony Music and Warner Music in Brazil and internationally.\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-07-17T08:33:13.000Z",
+    "url": "https://www.musicbusinessworldwide.com/marcela-moreira-appointed-country-director-for-brazil-at-believe/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-07-18T01:25:47.253Z"
+  },
+  {
+    "id": "news-1784337947253-14",
     "title": "The AI compute gap: Enterprises are buying infrastructure faster than they can measure what it costs",
     "summary": "Across 107 enterprises, AI infrastructure spending is accelerating well ahead of the ability to see or steer its economics. Most organizations run their AI on a familiar base of hyperscalers and model-provider APIs, yet the next dollar is aimed at specialized compute almost none of them use today; a majority intend to switch or add providers within the year, many within a quarter. Buying decisions turn on integration and total cost of ownership rather than headline token price — which is fortuna",
     "category": "ai-research",
@@ -59,259 +309,6 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-07-17T01:45:18.015Z"
-  },
-  {
-    "id": "news-1784252718015-16",
-    "title": "The agent security gap: 54% of enterprises have already had an AI agent incident, and most still let agents share credentials",
-    "summary": "Across 107 enterprises, AI agents are being given real access to systems and data while the controls meant to contain them lag behind. More than half have already had a confirmed agent security incident or a near-miss; only about a third give every agent its own scoped identity, and most agents still share credentials; and only three in ten isolate their highest-risk agents. The security stack is overwhelmingly borrowed from the model providers and hyperscalers rather than purpose-built for agen",
-    "category": "ai-research",
-    "source": "VentureBeat AI",
-    "author": "Unknown",
-    "publishedAt": "2026-07-16T19:02:38.000Z",
-    "url": "https://venturebeat.com/ai/the-agent-security-gap-54-of-enterprises-have-already-had-an-ai-agent-incident-and-most-still-let-agents-share-credentials",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-07-17T01:45:18.015Z"
-  },
-  {
-    "id": "news-1784252718015-21",
-    "title": "Here’s Why Anthropic Is Pushing States to Regulate AI Faster",
-    "summary": "The company endorsed landmark AI transparency laws in California and New York last year, but its head of US state and local policy says they may already be outdated.",
-    "category": "tech-innovation",
-    "source": "Wired AI",
-    "author": "Unknown",
-    "publishedAt": "2026-07-16T18:35:18.000Z",
-    "url": "https://www.wired.com/story/why-anthropic-is-pushing-states-to-regulate-ai-faster/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-07-17T01:45:18.015Z"
-  },
-  {
-    "id": "news-1784252718013-0",
-    "title": "Google Vids now lets you star in your own AI videos",
-    "summary": "Google is adding personalized AI avatars to Vids that let users create videos starring a digital version of themselves, alongside Gemini Omni-powered tools for generating and editing videos from prompts and reference images.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-07-16T18:32:54.000Z",
-    "url": "https://techcrunch.com/2026/07/16/google-vids-now-lets-you-star-in-your-own-ai-videos/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-07-17T01:45:18.014Z"
-  },
-  {
-    "id": "news-1784252718015-17",
-    "title": "The AI context gap: Enterprise AI organizations have a trust problem, not a retrieval problem — and most are still building the fix",
-    "summary": "Across 101 enterprises, the infrastructure that feeds AI agents their business context is being built faster than it can be trusted. Retrieval-augmented generation is already the default context source, and provider-native retrieval has quietly overtaken the dedicated vector databases that define the category — yet a majority of enterprises have already watched their agents produce confident, wrong answers traced to missing or inconsistent context. A governed semantic layer is emerging as the fi",
-    "category": "ai-research",
-    "source": "VentureBeat AI",
-    "author": "Unknown",
-    "publishedAt": "2026-07-16T17:06:08.000Z",
-    "url": "https://venturebeat.com/ai/the-ai-context-gap-enterprise-ai-organizations-have-a-trust-problem-not-a-retrieval-problem-and-most-are-still-building-the-fix",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-07-17T01:45:18.015Z"
-  },
-  {
-    "id": "news-1784252718015-18",
-    "title": "The agent evaluation gap: Enterprise AI organizations have a reality-alignment problem, not a coverage problem — and most are shipping to production anyway",
-    "summary": "Across 157 enterprises, organizations are granting AI agents more autonomy while trusting the evaluations meant to gate that autonomy less. Half have already shipped an agent that passed their internal evaluations and then failed a customer in production; only one in twenty fully trusts automated evaluation today; and the most-cited weakness is that evaluations do not align with real-world outcomes. Yet two-thirds already allow, or are actively engineering toward, deploying agent changes to prod",
-    "category": "ai-research",
-    "source": "VentureBeat AI",
-    "author": "Unknown",
-    "publishedAt": "2026-07-16T16:40:48.000Z",
-    "url": "https://venturebeat.com/ai/the-agent-evaluation-gap-enterprise-ai-organizations-have-a-reality-alignment-problem-not-a-coverage-problem-and-most-are-shipping-to-production-anyway",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-07-17T01:45:18.015Z"
-  },
-  {
-    "id": "news-1784252718014-1",
-    "title": "Google’s AI Mode now lets you link and interact with select apps",
-    "summary": "With this new update, Google is expanding AI Mode beyond answering questions and into completing tasks across the apps they use regularly.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-07-16T16:00:00.000Z",
-    "url": "https://techcrunch.com/2026/07/16/googles-ai-mode-now-lets-you-link-and-interact-with-select-apps/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-07-17T01:45:18.014Z"
-  },
-  {
-    "id": "news-1784252718014-2",
-    "title": "Yes, you can now order DoorDash from the command line",
-    "summary": "DoorDash is opening a limited beta of dd-cli, a command-line tool that lets developers and AI agents search stores, build carts, and place orders from the terminal, marking another step toward software designed for AI agents instead of just humans.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-07-16T15:38:55.000Z",
-    "url": "https://techcrunch.com/2026/07/16/yes-you-can-now-order-doordash-from-the-command-line/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-07-17T01:45:18.014Z"
-  },
-  {
-    "id": "news-1784252718014-3",
-    "title": "How a former DeepMind researcher raised at a $300M pre-seed valuation before launching a product",
-    "summary": "Drawing on more than a decade spent helping build some of the world's most influential AI systems, including research that later informed the development of ChatGPT, Andrew Dai explains why he believes visual AI is one of the next major frontiers in artificial intelligence.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-07-16T15:02:00.000Z",
-    "url": "https://techcrunch.com/2026/07/16/how-a-former-deepmind-researcher-raised-at-a-300m-pre-seed-valuation-before-launching-a-product/",
-    "imageUrl": null,
-    "tags": [
-      "AI",
-      "Research"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-07-17T01:45:18.014Z"
-  },
-  {
-    "id": "news-1784252718014-4",
-    "title": "Why AMI Labs’ Alexandre LeBrun won’t call his AI ‘AGI’ or ‘superintelligence’",
-    "summary": "While everyone in AI is chasing \"superintelligence,\" Alexandre LeBrun, CEO of Yann LeCun’s world model startup, AMI Labs, dismisses the word.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-07-16T14:40:00.000Z",
-    "url": "https://techcrunch.com/2026/07/16/why-ami-labs-alexandre-lebrun-wont-call-his-ai-agi-or-superintelligence/",
-    "imageUrl": null,
-    "tags": [
-      "AI",
-      "Startup"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-07-17T01:45:18.014Z"
-  },
-  {
-    "id": "news-1784252718014-5",
-    "title": "Moonshot’s upcoming Kimi 3 is expected to close the gap with Anthropic’s Opus 4.8",
-    "summary": "The FT reports Kimi K3 will be the largest open AI model from China, with a parameter count between 2 trillion and 3 trillion. ",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-07-16T14:26:29.000Z",
-    "url": "https://techcrunch.com/2026/07/16/moonshots-upcoming-kimi-3-is-expected-to-close-the-gap-with-anthropics-opus-4-8/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-07-17T01:45:18.014Z"
-  },
-  {
-    "id": "news-1784252718015-27",
-    "title": "Cutting Edge acquires music rights and royalties of ‘Fast and Furious’ and ‘Yellowstone’ composer Brian Tyler",
-    "summary": "Company described the deal as one of the largest ever completed for the rights of a single film and TV composer\nSource",
-    "category": "industry-news",
-    "source": "Music Business Worldwide",
-    "author": "Unknown",
-    "publishedAt": "2026-07-16T13:28:28.000Z",
-    "url": "https://www.musicbusinessworldwide.com/cutting-edge-acquires-music-rights-and-royalties-of-fast-and-furious-and-yellowstone-composer-brian-tyler/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-07-17T01:45:18.016Z"
-  },
-  {
-    "id": "news-1784252718014-6",
-    "title": "Apple Intelligence approved for launch in China with Alibaba and Baidu",
-    "summary": "The deal, which was rumored to be in the works last year, marks an important step for Apple's AI ambitions in a key market. ",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-07-16T13:17:59.000Z",
-    "url": "https://techcrunch.com/2026/07/16/apple-intelligence-approved-for-launch-in-china-with-alibabas-qwen-ai/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-07-17T01:45:18.014Z"
-  },
-  {
-    "id": "news-1784252718016-28",
-    "title": "Reservoir acquires catalogs of Latin music company Nacional, strikes JV to develop artists & songwriters",
-    "summary": "Reservoir acquired the catalog of indie label Nacional Records, along with the catalog of its publishing arm, Canciones Nacionales\nSource",
-    "category": "industry-news",
-    "source": "Music Business Worldwide",
-    "author": "Unknown",
-    "publishedAt": "2026-07-16T12:58:53.000Z",
-    "url": "https://www.musicbusinessworldwide.com/reservoir-acquires-nacional-records-catalogs-strikes-jv-to-develop-latin-music-artists-songwriters/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-07-17T01:45:18.016Z"
-  },
-  {
-    "id": "news-1784252718016-29",
-    "title": "David Goldsen promoted to EVP, A&R at Warner Chappell Music",
-    "summary": "Goldsen is based at the company's Los Angeles headquarters and will continue to report to Ryan Press, President, North America, WCM.\nSource",
-    "category": "industry-news",
-    "source": "Music Business Worldwide",
-    "author": "Unknown",
-    "publishedAt": "2026-07-16T10:05:52.000Z",
-    "url": "https://www.musicbusinessworldwide.com/david-goldsen-promoted-to-evp-ar-at-warner-chappell-music/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-07-17T01:45:18.016Z"
-  },
-  {
-    "id": "news-1784252718015-22",
-    "title": "Please Stop Making Me Opt Out of AI",
-    "summary": "I’m sick of “opt-out” toggles for automatically enabled generative AI features. It’s past time to make “opt in” the default setting for sensitive features.",
-    "category": "ai-research",
-    "source": "Wired AI",
-    "author": "Unknown",
-    "publishedAt": "2026-07-16T10:00:00.000Z",
-    "url": "https://www.wired.com/story/please-stop-making-me-opt-out-of-ai/",
-    "imageUrl": null,
-    "tags": [
-      "AI",
-      "Generative AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-07-17T01:45:18.015Z"
-  },
-  {
-    "id": "news-1784252718014-7",
-    "title": "Applied Computing wants to give oil and gas operators an AI model for the entire plant",
-    "summary": "Applied Computing has raised a $20M Series A to build a foundation AI model for the oil, gas and petrochemical industry.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-07-16T04:00:00.000Z",
-    "url": "https://techcrunch.com/2026/07/15/applied-computing-wants-to-give-oil-and-gas-operators-an-ai-model-for-the-entire-plant/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-07-17T01:45:18.014Z"
+    "fetchedAt": "2026-07-18T01:25:47.253Z"
   }
 ]
