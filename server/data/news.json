@@ -1,314 +1,319 @@
 [
   {
-    "id": "news-1784598184861-32",
-    "title": "Official ‘KPop Demon Hunters’ Light Sticks Release Ahead of Global Tour — Here’s Where to Shop",
-    "summary": "Great for concerts and sing-along viewings of the film alike, the light sticks feature five LED colors and more than eight lighting sequences.",
+    "id": "news-1784684545073-35",
+    "title": "Black Friday in July? Macy’s Drops Dozens of Summertime Deals, From Under-$100 Tech to Trendy Band Tees",
+    "summary": "Macy's \"Black Friday in July\" sale knocks up to 60% off top brands like Nike, Tommy Hilfiger and Calvin Klein at discounted prices.",
     "category": "industry-news",
     "source": "Billboard",
     "author": "Unknown",
-    "publishedAt": "2026-07-21T00:35:02.000Z",
-    "url": "https://www.billboard.com/culture/product-recommendations/kpop-demon-hunters-official-tour-light-sticks-buy-online-1236298257/",
+    "publishedAt": "2026-07-22T01:32:10.000Z",
+    "url": "https://www.billboard.com/culture/product-recommendations/macys-black-friday-in-july-sale-2026-top-deals-discounts-1236299079/",
     "imageUrl": null,
     "tags": [],
     "readTime": 1,
-    "fetchedAt": "2026-07-21T01:43:04.861Z"
+    "fetchedAt": "2026-07-22T01:42:25.073Z"
   },
   {
-    "id": "news-1784598184859-0",
-    "title": "Anthropic’s landmark $1.5B copyright settlement is approved",
-    "summary": "The final approval settles one case, but it doesn't resolve the broader issue of using copyrighted works to train AI models. ",
+    "id": "news-1784684545073-36",
+    "title": "Kierra Sheard Receives BMI Impact Award at 2026 BMI Trailblazers of Gospel Music Awards",
+    "summary": "“Lead Me On” was named BMI’s gospel song of the year, while Capitol CMG Publishing received publisher of the year.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-07-22T01:07:08.000Z",
+    "url": "https://www.billboard.com/pro/kierra-sheard-2026-bmi-trailblazers-gospel-music-awards/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-07-22T01:42:25.073Z"
+  },
+  {
+    "id": "news-1784684545070-0",
+    "title": "Meta is testing an AI bedtime story app for people with no imagination",
+    "summary": "At last, a tech company has found a way to outsource humanity's oldest pastime: using our imaginations.",
     "category": "ai-research",
     "source": "TechCrunch AI",
     "author": "Unknown",
-    "publishedAt": "2026-07-21T00:12:24.000Z",
-    "url": "https://techcrunch.com/2026/07/20/anthropics-landmark-1-5b-copyright-settlement-is-approved/",
+    "publishedAt": "2026-07-21T23:55:10.000Z",
+    "url": "https://techcrunch.com/2026/07/21/meta-is-testing-an-ai-bedtime-story-app-for-people-with-no-imagination/",
     "imageUrl": null,
     "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-07-22T01:42:25.070Z"
+  },
+  {
+    "id": "news-1784684545073-37",
+    "title": "Watch 5 Seconds of Summer Choose to Eat ‘Death Wings’ Rather Than Rank Each Other’s Solo Albums",
+    "summary": "The Australian band trade loyalty for ultimate bragging rights on Hot Ones Versus while eating scorching wings & asking brutally honest questions.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-07-21T23:53:54.000Z",
+    "url": "https://www.billboard.com/music/pop/5-seconds-of-summer-hot-ones-versus-video-1236300262/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-07-22T01:42:25.073Z"
+  },
+  {
+    "id": "news-1784684545072-19",
+    "title": "OpenAI Models Escaped Containment and Hacked Hugging Face",
+    "summary": "The cybersecurity-focused models, including GPT-5.6 Sol, broke out of a testing sandbox, exploited a zero-day, and gained access to the open internet to pull off the attack.",
+    "category": "ai-research",
+    "source": "Wired AI",
+    "author": "Unknown",
+    "publishedAt": "2026-07-21T22:50:01.000Z",
+    "url": "https://www.wired.com/story/openai-models-escaped-containment-and-hacked-huggingface/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-07-22T01:42:25.072Z"
+  },
+  {
+    "id": "news-1784684545070-1",
+    "title": "OpenAI says Hugging Face was breached by its pre-release models",
+    "summary": "OpenAI has come forward to claim responsibility for the Hugging Face breach, saying it was the result of internal testing gone awry.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-07-21T20:56:55.000Z",
+    "url": "https://techcrunch.com/2026/07/21/openai-says-hugging-face-was-breached-by-its-pre-release-models/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-07-22T01:42:25.071Z"
+  },
+  {
+    "id": "news-1784684545071-2",
+    "title": "Jack Dorsey is taking on Slack with Buzz, a group chat platform for teams and their AI agents",
+    "summary": "Buzz is a group chat platform for the workplace that puts humans and their AI agents in the same conversation.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-07-21T19:43:41.000Z",
+    "url": "https://techcrunch.com/2026/07/21/jack-dorsey-is-taking-on-slack-with-buzz-a-group-chat-platform-for-teams-and-their-ai-agents/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-07-22T01:42:25.071Z"
+  },
+  {
+    "id": "news-1784684545071-3",
+    "title": "AI and the rise of the universal entertainment app",
+    "summary": "Over the past decade, streaming platforms competed by dominating individual formats like music, video, podcasts, or audiobooks. Now, as AI makes it easier to create, organize, and recommend content, those distinctions are fading, pushing companies like Spotify, Netflix, YouTube, and TikTok to become all-purpose entertainment destinations instead.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-07-21T19:39:30.000Z",
+    "url": "https://techcrunch.com/2026/07/21/ai-and-the-rise-of-the-universal-entertainment-app/",
+    "imageUrl": null,
+    "tags": [
+      "Spotify",
       "AI",
-      "Copyright"
+      "Streaming"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-07-21T01:43:04.860Z"
+    "fetchedAt": "2026-07-22T01:42:25.071Z"
   },
   {
-    "id": "news-1784598184861-33",
-    "title": "Why Sony Just Filed a New AI Music Copyright Lawsuit Against Udio",
-    "summary": "The major music company is expanding the scope of its claims against the AI platform, even after Universal and Warner made licensing peace.",
-    "category": "tech-innovation",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-07-20T22:26:34.000Z",
-    "url": "https://www.billboard.com/pro/sony-new-ai-music-copyright-lawsuit-udio-why/",
-    "imageUrl": null,
-    "tags": [
-      "AI",
-      "Copyright"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-07-21T01:43:04.861Z"
-  },
-  {
-    "id": "news-1784598184860-1",
-    "title": "Trump’s latest AI czar has already resigned",
-    "summary": "The director role for the Center for AI Standards and Innovation (CAISI) has become a revolving door since David Sacks left his position as czar.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-07-20T22:21:04.000Z",
-    "url": "https://techcrunch.com/2026/07/20/trumps-latest-ai-czar-has-already-resigned/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-07-21T01:43:04.860Z"
-  },
-  {
-    "id": "news-1784598184861-34",
-    "title": "The 25 Best K-Pop Albums of 2026 (So Far), Ranked: Staff Picks",
-    "summary": "From BTS' chart-dominating ARIRANG to standouts from SHINee, AKMU, Yves, NMIXX and more, see which album takes the No. 1 spot.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-07-20T21:57:46.000Z",
-    "url": "https://www.billboard.com/lists/best-kpop-albums-2026-so-far/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-07-21T01:43:04.861Z"
-  },
-  {
-    "id": "news-1784598184861-35",
-    "title": "Rusko Announces Indefinite Hiatus From Music & Touring: ‘It Became Clear I Was Having a Breakdown Mentally’",
-    "summary": "\"I hope in my heart one day this is not goodbye, but more 'see ya later, alligator,'\" the veteran dubstep producer writes.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-07-20T21:42:03.000Z",
-    "url": "https://www.billboard.com/music/music-news/rusko-announces-hiatus-music-touring-1236298566/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-07-21T01:43:04.862Z"
-  },
-  {
-    "id": "news-1784598184860-2",
-    "title": "Google is working on a new AI chip designed to make Gemini more efficient",
-    "summary": "Alphabet, Google's parent company, is reportedly working on a new chip designed to make its Gemini models run much more efficiently. ",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-07-20T21:21:15.000Z",
-    "url": "https://techcrunch.com/2026/07/20/google-is-working-on-a-new-ai-chip-designed-to-make-gemini-more-efficient/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-07-21T01:43:04.860Z"
-  },
-  {
-    "id": "news-1784598184862-36",
-    "title": "Future Charts 17 Songs on Hot 100 From New Album ‘The Real Me’",
-    "summary": "He’s now logged 245 career Hot 100 hits.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-07-20T21:16:03.000Z",
-    "url": "https://www.billboard.com/music/chart-beat/future-17-songs-hot-100-real-me-album-1236298639/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-07-21T01:43:04.862Z"
-  },
-  {
-    "id": "news-1784598184861-26",
-    "title": "Sony Music sues Udio again, asserting over 30,000 recordings a judge barred the major from adding to its original case",
-    "summary": "The complaint was filed on July 20 in New York\nSource",
+    "id": "news-1784684545072-27",
+    "title": "Universal Music Group has spent over $500M on its share buyback – with stage one of the process nearly complete",
+    "summary": "In total, UMG has repurchased 26,073,074 of its own shares since the program began in April, at a cost of EUR €487.7 million\nSource",
     "category": "industry-news",
     "source": "Music Business Worldwide",
     "author": "Unknown",
-    "publishedAt": "2026-07-20T19:35:10.000Z",
-    "url": "https://www.musicbusinessworldwide.com/sony-music-files-new-lawsuit-against-ai-platform-udio-asserting-over-30000-sound-recordings-a-judge-barred-it-from-adding-to-its-original-case/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-07-21T01:43:04.861Z"
-  },
-  {
-    "id": "news-1784598184860-3",
-    "title": "OpenAI is scared of open-weight models. Should the US be?",
-    "summary": "Talk of banning Chinese-made open-weight LLMs reveals the challenge of  turning AI into a business. ",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-07-20T19:33:25.000Z",
-    "url": "https://techcrunch.com/2026/07/20/openai-is-scared-of-open-weight-models-should-the-us-be/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-07-21T01:43:04.860Z"
-  },
-  {
-    "id": "news-1784598184860-4",
-    "title": "Adobe camera app’s new feature will critique your photos using AI",
-    "summary": "Adobe's Project Indigo can now remove all kinds of backgrounds from photos you snap using the app.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-07-20T15:45:00.000Z",
-    "url": "https://techcrunch.com/2026/07/20/adobe-camera-apps-new-feature-will-critique-your-photos-using-ai/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-07-21T01:43:04.860Z"
-  },
-  {
-    "id": "news-1784598184860-5",
-    "title": "YouTube clarifies policies around AI slop and upsetting videos",
-    "summary": "YouTube has updated its monetization policies to more clearly define the kinds of AI-generated and low-quality videos that can’t earn ad revenue. ",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-07-20T15:23:06.000Z",
-    "url": "https://techcrunch.com/2026/07/20/youtube-clarifies-policies-around-ai-slop-and-upsetting-videos/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-07-21T01:43:04.860Z"
-  },
-  {
-    "id": "news-1784598184861-27",
-    "title": "They’re Not ‘Major Labels.’",
-    "summary": "The latest 'Tim's Take' from Music Business Worldwide founder, Tim Ingham\nSource",
-    "category": "industry-news",
-    "source": "Music Business Worldwide",
-    "author": "Unknown",
-    "publishedAt": "2026-07-20T13:48:04.000Z",
-    "url": "https://www.musicbusinessworldwide.com/theyre-not-major-labels/",
+    "publishedAt": "2026-07-21T19:19:42.000Z",
+    "url": "https://www.musicbusinessworldwide.com/universal-music-group-has-spent-over-500m-on-its-share-buyback-with-stage-one-of-the-process-nearly-complete/",
     "imageUrl": null,
     "tags": [],
     "readTime": 1,
-    "fetchedAt": "2026-07-21T01:43:04.861Z"
+    "fetchedAt": "2026-07-22T01:42:25.072Z"
   },
   {
-    "id": "news-1784598184861-28",
-    "title": "Spotify Premium users can now ‘talk to’ the app to choose music and learn about what they’re playing",
-    "summary": "By typing or speaking, eligible Premium users can talk to Spotify across the app's Home and Now Playing views on mobile.\nSource",
+    "id": "news-1784684545072-20",
+    "title": "This Former Intel CEO Wants to Jumpstart Moore’s Law With Light",
+    "summary": "Pat Gelsinger wants to pave the way to ever more powerful artificial intelligence using tiny beams of light.",
+    "category": "ai-research",
+    "source": "Wired AI",
+    "author": "Unknown",
+    "publishedAt": "2026-07-21T19:05:00.000Z",
+    "url": "https://www.wired.com/story/pat-gelsinger-moores-law-light-chips/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-07-22T01:42:25.072Z"
+  },
+  {
+    "id": "news-1784684545072-28",
+    "title": "Spotify pushes deeper into music videos with new chart and artist pitching, stepping up its challenge to YouTube",
+    "summary": "Spotify now counts nearly 100,000 artists in a beta that lets them upload full-length videos themselves.\nSource",
     "category": "industry-news",
     "source": "Music Business Worldwide",
     "author": "Unknown",
-    "publishedAt": "2026-07-20T13:11:34.000Z",
-    "url": "https://www.musicbusinessworldwide.com/spotify-premium-users-can-now-talk-to-the-app-to-choose-music-and-learn-about-what-theyre-playing/",
+    "publishedAt": "2026-07-21T17:34:55.000Z",
+    "url": "https://www.musicbusinessworldwide.com/spotify-pushes-deeper-into-music-videos-with-new-chart-and-artist-pitching-stepping-up-its-challenge-to-youtube/",
     "imageUrl": null,
     "tags": [
       "Spotify"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-07-21T01:43:04.861Z"
+    "fetchedAt": "2026-07-22T01:42:25.072Z"
   },
   {
-    "id": "news-1784598184861-29",
-    "title": "Udio taps content-security BuyDRM to secure its AI music ‘walled garden’",
-    "summary": "BuyDRM will provide multi-DRM support across Google Widevine, Apple FairPlay, and Microsoft PlayReady through its KeyOS MultiKey Service.\nSource",
+    "id": "news-1784684545072-29",
+    "title": "Canada’s SOCAN names Musical AI as its attribution partner to credit and pay creators whose work shapes AI music",
+    "summary": "SOCAN will recognize Musical AI as an approved tech partner for attribution services, and the two will explore how the technology can be applied in Canada.\nSource",
     "category": "industry-news",
     "source": "Music Business Worldwide",
     "author": "Unknown",
-    "publishedAt": "2026-07-20T09:23:01.000Z",
-    "url": "https://www.musicbusinessworldwide.com/udio-taps-content-security-buydrm-to-secure-its-ai-music-walled-garden/",
+    "publishedAt": "2026-07-21T17:19:36.000Z",
+    "url": "https://www.musicbusinessworldwide.com/canadas-socan-names-musical-ai-as-its-attribution-partner-to-credit-and-pay-creators-whose-work-shapes-ai-music/",
     "imageUrl": null,
     "tags": [
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-07-21T01:43:04.861Z"
+    "fetchedAt": "2026-07-22T01:42:25.072Z"
   },
   {
-    "id": "news-1784598184860-6",
-    "title": "‘Odyssey’ director Christopher Nolan calls AI an obvious ‘Trojan horse’",
-    "summary": "\"Everybody knows the Greeks are inside.\"",
+    "id": "news-1784684545071-4",
+    "title": "Google releases three new Gemini models — but no 3.5 Pro",
+    "summary": "Google released Gemini 3.6 Flash, 3.5 Flash-Lite, and Flash Cyber, but the continued absence of Gemini 3.5 Pro raises fresh questions about its AI strategy.",
     "category": "ai-research",
     "source": "TechCrunch AI",
     "author": "Unknown",
-    "publishedAt": "2026-07-19T14:52:08.000Z",
-    "url": "https://techcrunch.com/2026/07/19/odyssey-director-christopher-nolan-calls-ai-an-obvious-trojan-horse/",
+    "publishedAt": "2026-07-21T17:11:50.000Z",
+    "url": "https://techcrunch.com/2026/07/21/google-releases-three-new-gemini-models-but-no-3-5-pro/",
     "imageUrl": null,
     "tags": [
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-07-21T01:43:04.860Z"
+    "fetchedAt": "2026-07-22T01:42:25.071Z"
   },
   {
-    "id": "news-1784598184860-7",
-    "title": "Kimi: Threat or menace?",
-    "summary": "Chinese company Moonshot AI released a new version of its Kimi model this week, prompting concern about \"full AI communism.\"",
+    "id": "news-1784684545072-30",
+    "title": "Nick Holmstén and Ash Pournouri officially launch superfan startup Belong – backed by Troy Carter, Chris Zarou and Hans Vestberg",
+    "summary": "Former Spotify Global Head of Music Nick Holmstén and Avicii's former manager Ash Pournouri launched new company\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-07-21T16:24:44.000Z",
+    "url": "https://www.musicbusinessworldwide.com/nick-holmsten-and-ash-pournouri-officially-launch-superfan-startup-belong-backed-by-troy-carter-chris-zarou-and-hans-vestberg/",
+    "imageUrl": null,
+    "tags": [
+      "Spotify",
+      "Startup"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-07-22T01:42:25.072Z"
+  },
+  {
+    "id": "news-1784684545072-21",
+    "title": "A Sneaky Hacking Tool Targeting AI Infrastructure Is Lurking in Victims’ Blind Spots",
+    "summary": "A new type of malware can worm deep into AI coding systems to steal data and logins—and can flip a “death switch” to destroy files and keep out real users.",
     "category": "tech-innovation",
+    "source": "Wired AI",
+    "author": "Unknown",
+    "publishedAt": "2026-07-21T16:08:44.000Z",
+    "url": "https://www.wired.com/story/a-sneaky-hacking-tool-targeting-ai-infrastructure-is-lurking-in-victims-blind-spots/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-07-22T01:42:25.072Z"
+  },
+  {
+    "id": "news-1784684545071-5",
+    "title": "US threatens sanctions against Chinese AI models over IP theft",
+    "summary": "Treasury Secretary Scott Bessent said the U.S. could sanction Chinese open AI models over alleged IP theft, expanding the Trump administration's campaign to slow China's AI advances.",
+    "category": "ai-research",
     "source": "TechCrunch AI",
     "author": "Unknown",
-    "publishedAt": "2026-07-18T18:51:07.000Z",
-    "url": "https://techcrunch.com/2026/07/18/kimi-threat-or-menace/",
+    "publishedAt": "2026-07-21T15:37:05.000Z",
+    "url": "https://techcrunch.com/2026/07/21/us-threatens-sanctions-against-chinese-ai-models-over-ip-theft/",
     "imageUrl": null,
     "tags": [
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-07-21T01:43:04.860Z"
+    "fetchedAt": "2026-07-22T01:42:25.071Z"
   },
   {
-    "id": "news-1784598184861-19",
-    "title": "Your Period Tracker Is (Probably) Spying on You",
-    "summary": "Plus: Russian cyberspies turn to infrastructure hacking, DHS repeatedly fails to realize it’d been hacked, a breach exposes an AI music generator’s scraping ways, and more.",
+    "id": "news-1784684545072-22",
+    "title": "Nvidia Wants to Own Every Chip Inside AI Data Centers",
+    "summary": "Nvidia’s Vera Rubin platform combines CPUs and GPUs into a single system, reflecting the company’s growing ambition to power every layer of AI infrastructure.",
+    "category": "tech-innovation",
+    "source": "Wired AI",
+    "author": "Unknown",
+    "publishedAt": "2026-07-21T15:00:00.000Z",
+    "url": "https://www.wired.com/story/nvidia-wants-to-own-every-chip-inside-an-ai-data-center/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-07-22T01:42:25.072Z"
+  },
+  {
+    "id": "news-1784684545072-31",
+    "title": "WMG’s Sureel teams up with Symphonic to let distro company’s artists track AI use of their music",
+    "summary": "Warner Music Group acquired Sureel in June\nSource",
     "category": "industry-news",
-    "source": "Wired AI",
+    "source": "Music Business Worldwide",
     "author": "Unknown",
-    "publishedAt": "2026-07-18T10:30:00.000Z",
-    "url": "https://www.wired.com/story/security-news-this-week-your-period-tracker-is-probably-spying-on-you/",
+    "publishedAt": "2026-07-21T14:57:48.000Z",
+    "url": "https://www.musicbusinessworldwide.com/wmgs-sureel-teams-up-with-symphonic-to-let-distro-companys-artists-track-ai-use-of-their-music/",
     "imageUrl": null,
     "tags": [
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-07-21T01:43:04.861Z"
+    "fetchedAt": "2026-07-22T01:42:25.072Z"
   },
   {
-    "id": "news-1784598184861-20",
-    "title": "How Google’s New Gemini Rates Work and How to Track Your Usage",
-    "summary": "Now that Google has changed how its usage quotas are tallied, you might not get as many AI responses as you did before.",
+    "id": "news-1784684545072-23",
+    "title": "The Army Is Burning Through Its AI Tokens",
+    "summary": "Members of the Army received an email informing them that they were rapidly depleting their AI tokens, and needed to limit use.",
     "category": "tech-innovation",
     "source": "Wired AI",
     "author": "Unknown",
-    "publishedAt": "2026-07-18T10:00:00.000Z",
-    "url": "https://www.wired.com/story/how-googles-new-gemini-rates-work-and-how-to-track-your-usage/",
+    "publishedAt": "2026-07-21T09:30:00.000Z",
+    "url": "https://www.wired.com/story/the-army-is-burning-through-its-ai-tokens/",
     "imageUrl": null,
     "tags": [
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-07-21T01:43:04.861Z"
+    "fetchedAt": "2026-07-22T01:42:25.072Z"
   },
   {
-    "id": "news-1784598184861-21",
-    "title": "Prompt Injection Attacks Are Thwarting AI Hacking Agents",
-    "summary": "“Context bombing” tricks malicious AI agents into shutting down before they can do harm.",
+    "id": "news-1784684545072-24",
+    "title": "Etsy Is In Its Flop Era, and Sellers Are Fleeing",
+    "summary": "Once a quirky bastion of amateur vulva jewelry and pet portraits, Etsy is now deluged with mass-produced goods and AI knockoffs. Some customers don’t seem to mind.",
     "category": "tech-innovation",
     "source": "Wired AI",
     "author": "Unknown",
-    "publishedAt": "2026-07-18T09:00:00.000Z",
-    "url": "https://www.wired.com/story/prompt-injection-attacks-are-thwarting-ai-hacking-agents/",
+    "publishedAt": "2026-07-21T09:00:00.000Z",
+    "url": "https://www.wired.com/story/etsy-is-in-its-flop-era-and-sellers-are-fleeing/",
     "imageUrl": null,
     "tags": [
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-07-21T01:43:04.861Z"
+    "fetchedAt": "2026-07-22T01:42:25.072Z"
   }
 ]
