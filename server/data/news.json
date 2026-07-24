@@ -1,318 +1,310 @@
 [
   {
-    "id": "news-1784771401445-37",
-    "title": "Watch Kacey Musgraves Serve Sultry & Sweet in ‘Mexico Honey’ Music Video",
-    "summary": "Filmed in Mexico, the romantic visual doubles as a love letter to the country that inspired the track.",
+    "id": "news-1784857540072-0",
+    "title": "How AI guardrails are impeding the work of offensive cybersecurity researchers",
+    "summary": "We spoke with several cybersecurity researchers, who look for unknown vulnerabilities and develop tools to exploit them, about how OpenAI’s and Anthropic’s guardrails affect their work. ",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-07-24T01:00:00.000Z",
+    "url": "https://techcrunch.com/2026/07/23/how-ai-guardrails-are-impeding-the-work-of-offensive-cybersecurity-researchers/",
+    "imageUrl": null,
+    "tags": [
+      "AI",
+      "Research"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-07-24T01:45:40.073Z"
+  },
+  {
+    "id": "news-1784857540075-37",
+    "title": "Every Surprise Song BTS Has Performed on the ARIRANG World Tour (So Far)",
+    "summary": "The K-pop group has played two surprise songs during every show's encore.",
     "category": "industry-news",
     "source": "Billboard",
     "author": "Unknown",
-    "publishedAt": "2026-07-22T23:59:23.000Z",
-    "url": "https://www.billboard.com/music/country/kacey-musgraves-mexico-honey-video-1236301157/",
+    "publishedAt": "2026-07-24T01:00:00.000Z",
+    "url": "https://www.billboard.com/lists/bts-surprise-songs-arirang-tour-every-track/",
     "imageUrl": null,
     "tags": [],
     "readTime": 1,
-    "fetchedAt": "2026-07-23T01:50:01.445Z"
+    "fetchedAt": "2026-07-24T01:45:40.075Z"
   },
   {
-    "id": "news-1784771401445-38",
-    "title": "D4vd Made Millions From His Interscope Record Deal Before Murder Investigation, Court Hears",
-    "summary": "Prosecutors are trying to prove that the singer killed Celeste Rivas Hernandez to protect his lucrative music career.  ",
+    "id": "news-1784857540075-38",
+    "title": "Nivea Reveals Leukemia Diagnosis: ‘Very Grateful for Life’",
+    "summary": "The mother of four is staying positive and focusing on her music as she continues to work on an upcoming project.",
     "category": "industry-news",
     "source": "Billboard",
     "author": "Unknown",
-    "publishedAt": "2026-07-22T23:51:03.000Z",
-    "url": "https://www.billboard.com/pro/d4vd-interscope-record-deal-murder-hearing/",
+    "publishedAt": "2026-07-23T23:03:44.000Z",
+    "url": "https://www.billboard.com/music/rb-hip-hop/nivea-cancer-diagnosis-1236301901/",
     "imageUrl": null,
     "tags": [],
     "readTime": 1,
-    "fetchedAt": "2026-07-23T01:50:01.445Z"
+    "fetchedAt": "2026-07-24T01:45:40.075Z"
   },
   {
-    "id": "news-1784771401443-0",
-    "title": "After shocking quarter, IBM insists that AI isn’t killing the mainframe",
-    "summary": "After IBM's stock crashed last week on warnings of poor mainframe sales, the CEO explained that AI wrecked corporate hardware budget, temporarily.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-07-22T23:47:54.000Z",
-    "url": "https://techcrunch.com/2026/07/22/after-shocking-quarter-ibm-insists-that-ai-isnt-killing-the-mainframe/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-07-23T01:50:01.444Z"
-  },
-  {
-    "id": "news-1784771401445-39",
-    "title": "Tony Thorpe, Guitarist & Songwriter for Glam Rockers The Rubettes, Dies at 80",
-    "summary": "The musician is remembered by family & former bandmate Alan Williams in a heartfelt tribute.",
+    "id": "news-1784857540075-39",
+    "title": "PRS For Music Names Ben McOwen Wilson as Incoming CEO",
+    "summary": "Current CEO Andrea Czapary Martin announced her departure from the role in March.",
     "category": "industry-news",
     "source": "Billboard",
     "author": "Unknown",
-    "publishedAt": "2026-07-22T22:53:21.000Z",
-    "url": "https://www.billboard.com/music/rock/tony-thorpe-death-rubettes-guitarist-songwriter-1236301131/",
+    "publishedAt": "2026-07-23T23:01:00.000Z",
+    "url": "https://www.billboard.com/pro/prs-for-music-ceo-ben-mcowen-wilson/",
     "imageUrl": null,
     "tags": [],
     "readTime": 1,
-    "fetchedAt": "2026-07-23T01:50:01.446Z"
+    "fetchedAt": "2026-07-24T01:45:40.075Z"
   },
   {
-    "id": "news-1784771401446-40",
-    "title": "Belmont University to House Johnny Cash’s Personal Archives",
-    "summary": "The archives will be part of the new Johnny Cash Learning Center at Belmont University's Mike Curb College of Entertainment & Music Business.",
+    "id": "news-1784857540075-40",
+    "title": "Tseyin Foo Appointed President, Global Supply Chain at Universal Music Group",
+    "summary": "Foo previously served as head of global supply chain planning and strategy at Skechers.",
     "category": "industry-news",
     "source": "Billboard",
     "author": "Unknown",
-    "publishedAt": "2026-07-22T22:36:37.000Z",
-    "url": "https://www.billboard.com/music/country/johnny-cash-personal-archives-belmont-university-1236300861/",
+    "publishedAt": "2026-07-23T21:11:09.000Z",
+    "url": "https://www.billboard.com/pro/umg-tseyin-foo-president-global-supply-chain/",
     "imageUrl": null,
     "tags": [
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-07-23T01:50:01.446Z"
+    "fetchedAt": "2026-07-24T01:45:40.075Z"
   },
   {
-    "id": "news-1784771401444-1",
-    "title": "Google justifies its massive AI spending with a booming cloud business",
-    "summary": "Google's cloud business is thriving, as companies adopting its AI and AI infrastructure services help the tech giant to report record profits. ",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-07-22T22:01:52.000Z",
-    "url": "https://techcrunch.com/2026/07/22/google-justifies-its-massive-ai-spending-with-a-booming-cloud-business/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-07-23T01:50:01.444Z"
-  },
-  {
-    "id": "news-1784771401445-23",
-    "title": "The White House Is Trying to Figure Out What to Do About Chinese AI",
-    "summary": "There’s a debate going on in the Trump administration over how to handle increasingly powerful Chinese AI models.",
-    "category": "ai-research",
-    "source": "Wired AI",
-    "author": "Unknown",
-    "publishedAt": "2026-07-22T21:00:00.000Z",
-    "url": "https://www.wired.com/story/the-white-house-is-trying-to-figure-out-what-to-do-about-chinese-ai/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-07-23T01:50:01.445Z"
-  },
-  {
-    "id": "news-1784771401445-31",
-    "title": "Key Principles for Ethical AI Use in Music Creation",
-    "summary": "The following MBW op/ed comes from John Meller, a Partner in the Entertainment practice at law firm Manatt, Phelps & Phillips.\nSource",
+    "id": "news-1784857540075-41",
+    "title": "Here’s How Louis Tomlinson Really Feels About These One Direction Songs on Band’s 16-Year Anniversary",
+    "summary": "\"Always reminds me of Niall for some reason,\" the Brit said of one track.",
     "category": "industry-news",
-    "source": "Music Business Worldwide",
+    "source": "Billboard",
     "author": "Unknown",
-    "publishedAt": "2026-07-22T19:22:05.000Z",
-    "url": "https://www.musicbusinessworldwide.com/key-principles-for-ethical-ai-use-in-music-creation/",
+    "publishedAt": "2026-07-23T21:10:02.000Z",
+    "url": "https://www.billboard.com/music/music-news/louis-tomlinson-one-direction-songs-1236301830/",
     "imageUrl": null,
     "tags": [
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-07-23T01:50:01.445Z"
+    "fetchedAt": "2026-07-24T01:45:40.075Z"
   },
   {
-    "id": "news-1784771401444-2",
-    "title": "How OpenAI’s human mistake led to the AI-powered hack on Hugging Face",
-    "summary": "OpenAI made a mistake setting up what it called a “highly isolated” testing environment and sandbox. According to cybersecurity experts, that human mistake is what made the AI-powered attack on Hugging Face possible.",
+    "id": "news-1784857540075-42",
+    "title": "Feid, Marc Anthony, Chayanne, Chyno y Nacho & More Set for ‘Unidos Por Venezuela’ Benefit Concert",
+    "summary": "The humanitarian initiative was created to support the country’s recovery and reconstruction.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-07-23T21:04:23.000Z",
+    "url": "https://www.billboard.com/music/latin/unidos-venezuela-benefit-concert-feid-marc-anthony-lineup-1236294353/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-07-24T01:45:40.075Z"
+  },
+  {
+    "id": "news-1784857540073-1",
+    "title": "AMD takes on Nvidia with its Helios AI rack-scale system",
+    "summary": "AMD is challenging its chipmaker rival with a new rack-scale system that will start shipping to customers later this year. ",
     "category": "ai-research",
     "source": "TechCrunch AI",
     "author": "Unknown",
-    "publishedAt": "2026-07-22T19:11:46.000Z",
-    "url": "https://techcrunch.com/2026/07/22/how-an-openais-human-mistake-led-to-the-ai-powered-hack-on-hugging-face/",
+    "publishedAt": "2026-07-23T20:33:02.000Z",
+    "url": "https://techcrunch.com/2026/07/23/amd-takes-on-nvidia-with-its-helios-ai-rack-scale-system/",
     "imageUrl": null,
     "tags": [
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-07-23T01:50:01.444Z"
+    "fetchedAt": "2026-07-24T01:45:40.073Z"
   },
   {
-    "id": "news-1784771401445-24",
-    "title": "China’s Open AI Models Are Challenging Silicon Valley’s Playbook",
-    "summary": "As access to Anthropic’s and OpenAI’s frontier models becomes more restricted, Chinese labs are pitching their open-source alternatives as stable, accessible, and increasingly capable.",
-    "category": "ai-research",
-    "source": "Wired AI",
-    "author": "Unknown",
-    "publishedAt": "2026-07-22T19:01:38.000Z",
-    "url": "https://www.wired.com/story/chinas-open-ai-models-are-challenging-silicon-valleys-playbook/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-07-23T01:50:01.445Z"
-  },
-  {
-    "id": "news-1784771401444-3",
-    "title": "Travis Kalanick’s robotics company raises $1.7B, led by a16z",
-    "summary": "Uber is also investing in Travis Kalanick's company Atoms, which has made gauzy claims about using industrial AI to modernize the world. ",
+    "id": "news-1784857540073-2",
+    "title": "Anthropic updates Claude voice mode with more capable models",
+    "summary": "Claude's new voice model will let you reschedule your meeting or draft an email.",
     "category": "ai-research",
     "source": "TechCrunch AI",
     "author": "Unknown",
-    "publishedAt": "2026-07-22T18:50:44.000Z",
-    "url": "https://techcrunch.com/2026/07/22/travis-kalanicks-robotics-company-raises-1-7b-led-by-a16z/",
+    "publishedAt": "2026-07-23T19:00:00.000Z",
+    "url": "https://techcrunch.com/2026/07/23/anthropic-updates-claude-voice-mode-with-more-capable-models/",
     "imageUrl": null,
     "tags": [
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-07-23T01:50:01.444Z"
+    "fetchedAt": "2026-07-24T01:45:40.073Z"
   },
   {
-    "id": "news-1784771401444-4",
-    "title": "Yope raises $12.3M to build a private social network without algorithms or ads",
-    "summary": "Yope, a fast-growing social app focused on private groups of friends and family, has raised $12.3 million in seed funding. Instead of chasing creators and algorithmic feeds, the startup is betting that the future of social networking lies in small, private communities powered by messaging, photo sharing, and AI features designed to strengthen real-world relationships.",
+    "id": "news-1784857540074-21",
+    "title": "Meta’s New Feel-Good AI Ad Uses a Song About the World Ending",
+    "summary": "The clip features the David Bowie track “Five Years,” which includes lyrics such as “Earth was really dying (dying).”",
     "category": "tech-innovation",
-    "source": "TechCrunch AI",
+    "source": "Wired AI",
     "author": "Unknown",
-    "publishedAt": "2026-07-22T18:13:58.000Z",
-    "url": "https://techcrunch.com/2026/07/22/yope-raises-12-3m-to-build-a-private-social-network-without-algorithms-or-ads/",
-    "imageUrl": null,
-    "tags": [
-      "AI",
-      "Startup",
-      "Investment"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-07-23T01:50:01.444Z"
-  },
-  {
-    "id": "news-1784771401444-5",
-    "title": "Monday.com lays off hundreds to focus on AI",
-    "summary": "The company said it is reducing its headcount by 20%, or about 630 staff, to \"support a leaner, more focused operating model\" as it focuses on its AI Work Platform. ",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-07-22T17:54:14.000Z",
-    "url": "https://techcrunch.com/2026/07/22/monday-com-lays-off-hundreds-to-focuses-on-ai/",
+    "publishedAt": "2026-07-23T18:45:52.000Z",
+    "url": "https://www.wired.com/story/meta-david-bowie-apocalypse-ad-is-optimistic-actually/",
     "imageUrl": null,
     "tags": [
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-07-23T01:50:01.444Z"
+    "fetchedAt": "2026-07-24T01:45:40.074Z"
   },
   {
-    "id": "news-1784771401445-32",
-    "title": "Songwriter sues Willie Colón’s publishing company over royalties from salsa hit ‘Talento de Televisión’",
-    "summary": "Amílcar Boscán also asked a judge to let him reclaim the copyrights to the song under US copyright law.\nSource",
+    "id": "news-1784857540073-3",
+    "title": "AegisAI, founded by former Google security execs, lands $36M to stop AI-driven spear phishing",
+    "summary": "AegisAI co-founders developed AI agents that quickly analyze each message as a human would, paying attention to small anomalies that even the most elaborate checklist wouldn’t catch.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-07-23T18:38:34.000Z",
+    "url": "https://techcrunch.com/2026/07/23/aegisai-founded-by-former-google-security-execs-lands-36m-to-stop-ai-driven-spear-phishing/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-07-24T01:45:40.073Z"
+  },
+  {
+    "id": "news-1784857540075-29",
+    "title": "Music publishers file amended lyrics lawsuit against Anthropic – just as AI firm’s separate $1.5B settlement with authors wins court approval",
+    "summary": "The latest filing draws heavily on Anthropic's internal records, obtained through discovery, to support claims the publishers first brought in October 2023.\nSource",
     "category": "industry-news",
     "source": "Music Business Worldwide",
     "author": "Unknown",
-    "publishedAt": "2026-07-22T16:26:48.000Z",
-    "url": "https://www.musicbusinessworldwide.com/songwriter-sues-willie-colons-publishing-company-over-royalties-from-salsa-hit-talento-de-television/",
+    "publishedAt": "2026-07-23T18:32:13.000Z",
+    "url": "https://www.musicbusinessworldwide.com/music-publishers-file-amended-lyrics-lawsuit-against-anthropic-just-as-ai-firms-separate-1-5b-piracy-settlement-with-authors-wins-court-approval/",
     "imageUrl": null,
     "tags": [
-      "AI",
-      "Copyright"
+      "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-07-23T01:50:01.445Z"
+    "fetchedAt": "2026-07-24T01:45:40.075Z"
   },
   {
-    "id": "news-1784771401444-6",
-    "title": "Arcee, a US open source AI lab, says Chinese models are not inherently dangerous",
-    "summary": "As Chinese AI models grow in capability and popularity among U.S. companies, the arguing over what should be done about them has reached a fever pitch.",
+    "id": "news-1784857540073-4",
+    "title": "Runway launches AI model router as generative media gets crowded",
+    "summary": "The Media Router is a tool that automatically selects the best image, video, or audio generation model for a request based on whether a developer prioritizes quality, speed or cost.",
     "category": "ai-research",
     "source": "TechCrunch AI",
     "author": "Unknown",
-    "publishedAt": "2026-07-22T16:24:08.000Z",
-    "url": "https://techcrunch.com/2026/07/22/arcee-a-us-open-source-ai-lab-says-chinese-models-are-not-inherently-dangerous/",
+    "publishedAt": "2026-07-23T17:07:35.000Z",
+    "url": "https://techcrunch.com/2026/07/23/runway-bets-on-ai-model-routing-as-generative-media-gets-crowded/",
     "imageUrl": null,
     "tags": [
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-07-23T01:50:01.444Z"
+    "fetchedAt": "2026-07-24T01:45:40.073Z"
   },
   {
-    "id": "news-1784771401444-7",
-    "title": "Substack’s new tool tells you who’s been writing their newsletters with AI",
-    "summary": "Substack is giving readers a way to estimate how much of a newsletter was written by AI, signaling a broader shift toward transparency around AI-assisted content. ",
+    "id": "news-1784857540073-5",
+    "title": "OpenAI makes ChatGPT Health available to all US users",
+    "summary": "Users can also integrate their personal data from services like Apple Health, Function, and MyFitnessPal.",
     "category": "ai-research",
     "source": "TechCrunch AI",
     "author": "Unknown",
-    "publishedAt": "2026-07-22T16:23:09.000Z",
-    "url": "https://techcrunch.com/2026/07/22/substacks-new-tool-tells-you-whos-been-writing-their-newsletters-with-ai/",
+    "publishedAt": "2026-07-23T17:00:00.000Z",
+    "url": "https://techcrunch.com/2026/07/23/openai-makes-chatgpt-health-available-to-all-u-s-users/",
     "imageUrl": null,
     "tags": [
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-07-23T01:50:01.444Z"
+    "fetchedAt": "2026-07-24T01:45:40.073Z"
   },
   {
-    "id": "news-1784771401444-8",
-    "title": "OpenAI’s AI spending spree has ballooned to $750B",
-    "summary": "OpenAI will spend the equivalent of Sweden's GDP on infrastructure through 2030.",
+    "id": "news-1784857540073-6",
+    "title": "Meta launched a new AI optimism ad set to a song about human extinction",
+    "summary": "David Bowie's song \"Five Years,\" which Meta used in a supposedly inspiring advertisement, is about humans learning that they have five years left to live before the apocalypse.",
     "category": "ai-research",
     "source": "TechCrunch AI",
     "author": "Unknown",
-    "publishedAt": "2026-07-22T16:13:30.000Z",
-    "url": "https://techcrunch.com/2026/07/22/openais-ai-spending-spree-has-ballooned-to-750b/",
+    "publishedAt": "2026-07-23T16:28:50.000Z",
+    "url": "https://techcrunch.com/2026/07/23/meta-launched-a-new-ai-optimism-ad-set-to-a-song-about-human-extinction/",
     "imageUrl": null,
     "tags": [
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-07-23T01:50:01.444Z"
+    "fetchedAt": "2026-07-24T01:45:40.073Z"
   },
   {
-    "id": "news-1784771401445-33",
-    "title": "SoundCloud acquires Nina Protocol, the independent music platform winding down after five years",
-    "summary": "The deal opens a migration process for Nina's artists to move their music, content, and followers to SoundCloud.\nSource",
-    "category": "industry-news",
-    "source": "Music Business Worldwide",
-    "author": "Unknown",
-    "publishedAt": "2026-07-22T16:12:33.000Z",
-    "url": "https://www.musicbusinessworldwide.com/soundcloud-acquires-nina-protocol-the-independent-music-platform-winding-down-after-five-years/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-07-23T01:50:01.445Z"
-  },
-  {
-    "id": "news-1784771401445-34",
-    "title": "Why Soundcharts is betting on music’s ‘other AI revolution’",
-    "summary": "Soundcharts founder David Weiszfeld on 'tokenmaxxing', the AI reckoning he expects in 2027, and why the jobs at the heart of the music business will outlast the tools built to serve them.\nSource",
-    "category": "industry-news",
-    "source": "Music Business Worldwide",
-    "author": "Unknown",
-    "publishedAt": "2026-07-22T14:57:32.000Z",
-    "url": "https://www.musicbusinessworldwide.com/why-soundcharts-is-betting-on-musics-other-ai-revolution/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-07-23T01:50:01.445Z"
-  },
-  {
-    "id": "news-1784771401444-9",
-    "title": "Menlo Ventures’ Matt Murphy explains what AI startups founders must do differently",
-    "summary": "Anthropic leaped to a $47 billion revenue run rate by May, compared to $9 billion in 2025. It’s the kind of growth that Menlo Ventures’ Matt Murphy says he’s never seen in 25 years of investing, not in the internet wave, not in mobile, not in the first cloud boom. Menlo led Anthropic’s $500M Series D, and Murphy has had a front-row seat as the company went from a pre-revenue, […]",
-    "category": "industry-news",
+    "id": "news-1784857540073-7",
+    "title": "AI chip startup Etched defies skeptics, hits $10.3B valuation from big-name investors",
+    "summary": "Etched, founded by three Harvard dropouts, has created new chips and memory components that speed up inference on any AI model -- no GPUs required, it says. ",
+    "category": "ai-research",
     "source": "TechCrunch AI",
     "author": "Unknown",
-    "publishedAt": "2026-07-22T14:00:00.000Z",
-    "url": "https://techcrunch.com/podcast/menlo-ventures-matt-murphy-explains-what-ai-startups-founders-must-do-differently/",
+    "publishedAt": "2026-07-23T15:00:00.000Z",
+    "url": "https://techcrunch.com/2026/07/23/ai-chip-startup-etched-defies-skeptics-hits-10-3b-valuation-from-big-name-investors/",
     "imageUrl": null,
     "tags": [
       "AI",
       "Startup"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-07-23T01:50:01.444Z"
+    "fetchedAt": "2026-07-24T01:45:40.073Z"
+  },
+  {
+    "id": "news-1784857540075-30",
+    "title": "India’s Tips Music grew revenues 21% in calendar Q2 – but profit fell 4% as content spend jumped 90%",
+    "summary": "Spending on music acquisitions pulled Tips' operating EBITDA margin down to 50.3%, from 64.2% a year earlier and 74.0% in the preceding quarter.\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-07-23T14:43:12.000Z",
+    "url": "https://www.musicbusinessworldwide.com/indias-tips-music-grew-revenues-21-in-calendar-q2-but-profit-fell-4-as-content-spend-jumped-90/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-07-24T01:45:40.075Z"
+  },
+  {
+    "id": "news-1784857540075-31",
+    "title": "Sony Music Publishing acquires Monty Norman Limited, from the estate of late James Bond Theme composer",
+    "summary": "He was the credited composer of the James Bond Theme, first heard in the 1962 film Dr. No.\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-07-23T14:30:41.000Z",
+    "url": "https://www.musicbusinessworldwide.com/james-bond-theme-composer-company-acquired-by-sony-music-publishing/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-07-24T01:45:40.075Z"
+  },
+  {
+    "id": "news-1784857540075-32",
+    "title": "YouTube’s subscription business ‘growing faster than ads,’ driven by Music and Premium, says Alphabet",
+    "summary": "Platform's ad revenues rose 13% YoY to $11bn in Q2\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-07-23T12:47:40.000Z",
+    "url": "https://www.musicbusinessworldwide.com/youtubes-subscription-business-growing-faster-than-ads-driven-by-music-and-premium-says-alphabet/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-07-24T01:45:40.075Z"
+  },
+  {
+    "id": "news-1784857540075-33",
+    "title": "Judge refuses to dismiss Reach Records’ case against UMG’s Capitol CMG over abandoned deal",
+    "summary": "Reach alleges that Capitol CMG agreed to buy the label during 2025, then pulled out months later by telling Reach the agreed price was too high.\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-07-23T12:08:51.000Z",
+    "url": "https://www.musicbusinessworldwide.com/judge-refuses-to-dismiss-reach-records-case-against-umgs-capitol-cmg-over-abandoned-deal/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-07-24T01:45:40.075Z"
   }
 ]
