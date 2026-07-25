@@ -1,310 +1,309 @@
 [
   {
-    "id": "news-1784857540072-0",
-    "title": "How AI guardrails are impeding the work of offensive cybersecurity researchers",
-    "summary": "We spoke with several cybersecurity researchers, who look for unknown vulnerabilities and develop tools to exploit them, about how OpenAI’s and Anthropic’s guardrails affect their work. ",
+    "id": "news-1784943928340-38",
+    "title": "Artists With the Most No. 1 Albums on the Billboard 200: The Beatles, Future & More",
+    "summary": "Future's The Real Me lands the rapper his 12th leader.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-07-25T01:00:00.000Z",
+    "url": "https://www.billboard.com/lists/drake-taylor-swift-most-billboard200-no1-albums-soloists/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-07-25T01:45:28.340Z"
+  },
+  {
+    "id": "news-1784943928338-0",
+    "title": "I tried out OpenAI’s new AI keypad — which will be fun for some coders and slightly mystifying to everyone else",
+    "summary": "OpenAI's fancy new AI keypad will be a lot of fun for some, while many others are probably not going to touch it. ",
     "category": "ai-research",
     "source": "TechCrunch AI",
     "author": "Unknown",
-    "publishedAt": "2026-07-24T01:00:00.000Z",
-    "url": "https://techcrunch.com/2026/07/23/how-ai-guardrails-are-impeding-the-work-of-offensive-cybersecurity-researchers/",
+    "publishedAt": "2026-07-25T00:23:11.000Z",
+    "url": "https://techcrunch.com/2026/07/24/i-tried-out-openais-new-ai-keypad-which-will-be-fun-for-coders-and-slightly-mystifying-to-everyone-else/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-07-25T01:45:28.339Z"
+  },
+  {
+    "id": "news-1784943928340-39",
+    "title": "50 Cent Teases 2Pac & Eminem Collab for ‘Street Fighter’ Soundtrack: ‘Coming Out Shortly’",
+    "summary": "Street Fighter hits theaters Oct. 16.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-07-25T00:11:15.000Z",
+    "url": "https://www.billboard.com/music/rb-hip-hop/50-cent-2pac-eminem-street-fighter-movie-collab-1236302718/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-07-25T01:45:28.340Z"
+  },
+  {
+    "id": "news-1784943928340-40",
+    "title": "Watch Charli xcx’s Full Theatrical Film That Accompanies Her New ‘Music, Fashion, Film’ Album",
+    "summary": "The pop star gives fans a deeper look into her creative process & inspiration.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-07-24T22:41:09.000Z",
+    "url": "https://www.billboard.com/music/pop/charli-xcx-music-fashion-film-full-movie-1236302663/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-07-25T01:45:28.340Z"
+  },
+  {
+    "id": "news-1784943928339-1",
+    "title": "Prentis, new AI lab co-founded by Reid Hoffman, Mark Pincus in talks to raise $100M",
+    "summary": "The neolab is betting that automating routine computer tasks will soon outpace coding as AI's biggest use case. ",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-07-24T22:25:58.000Z",
+    "url": "https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-mark-pincus-in-talks-to-raise-100m/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-07-25T01:45:28.339Z"
+  },
+  {
+    "id": "news-1784943928340-41",
+    "title": "Watch Niall Horan Surprise ‘Off Campus’ Star Ella Bright by Turning Her Cover Song Into a Duet",
+    "summary": "\"Oh my god, this is so wild,\" the shocked actress exclaimed.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-07-24T22:10:47.000Z",
+    "url": "https://www.billboard.com/culture/tv-film/niall-horan-off-campus-ella-bright-duet-1236302656/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-07-25T01:45:28.340Z"
+  },
+  {
+    "id": "news-1784943928340-42",
+    "title": "Cypress Hill Embrace Latin Roots on First All-Spanish Album ‘Dios Bendiga’: ‘It’s a Prayer for the Culture’",
+    "summary": "The legendary hip-hop group talk about making the LP, feat. Trueno, Alemán and more, and why now was the right time to do it.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-07-24T21:57:27.000Z",
+    "url": "https://www.billboard.com/music/latin/cypress-hill-dios-bendiga-latin-rap-spanish-album-interview-1236302580/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-07-25T01:45:28.340Z"
+  },
+  {
+    "id": "news-1784943928340-43",
+    "title": "In Canada: The Inside Story Behind Angine de Poitrine’s Unprecedented Global Breakthrough",
+    "summary": "Also up north this week: Canada is the No. 4 music exporter worldwide, according to Luminate's midyear report.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-07-24T21:39:39.000Z",
+    "url": "https://www.billboard.com/pro/inside-angine-de-poirtrine-global-rise-canada-music-news/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-07-25T01:45:28.340Z"
+  },
+  {
+    "id": "news-1784943928340-44",
+    "title": "Everything You Need to Know About Shakira’s Residency in Madrid: Dates, Tickets & More",
+    "summary": "The experience will go far beyond the concerts and Macondo Park, a space conceived as a celebration of Latin culture.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-07-24T21:26:28.000Z",
+    "url": "https://www.billboard.com/music/latin/shakira-madrid-residency-dates-tickets-more-1236302647/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-07-25T01:45:28.340Z"
+  },
+  {
+    "id": "news-1784943928340-45",
+    "title": "With Cosigns From Fat Joe and DJ Khaled, Boxer Edgar Berlanga Jr. Is Ready to Step Into the Music Ring",
+    "summary": "For Entry 022 of Mic Drops and Elbow Drops, Carl Lamarre speaks with boxer Edgar Berlanga Jr. about his first song \"Baby Mama,\" advice from Fat Joe and being ready for the music game.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-07-24T20:36:17.000Z",
+    "url": "https://www.billboard.com/music/rb-hip-hop/edgar-berlanga-jr-baby-mama-steven-butler-interview-1236302557/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-07-25T01:45:28.340Z"
+  },
+  {
+    "id": "news-1784943928339-2",
+    "title": "Why Cognition bought Poke: AI personality is becoming a competitive advantage",
+    "summary": "The acquisition brings Poke’s conversational style and interaction model to Cognition’s coding agent Devin, reflecting a growing belief that how AI assistants interact with users is as important as the models powering them.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-07-24T18:07:32.000Z",
+    "url": "https://techcrunch.com/2026/07/24/why-cognition-bought-poke-ai-personality-is-becoming-a-competitive-advantage/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-07-25T01:45:28.339Z"
+  },
+  {
+    "id": "news-1784943928340-22",
+    "title": "China-US AI Race Escalates, OpenAI Models Break Free, and Why You Should Check Your Car Alarm",
+    "summary": "On this episode of Uncanny Valley, we dive into accusations that China’s Moonshot AI stole from  Anthropic, and how the US Army needs to cut back on AI use.",
+    "category": "ai-research",
+    "source": "Wired AI",
+    "author": "Unknown",
+    "publishedAt": "2026-07-24T17:53:01.000Z",
+    "url": "https://www.wired.com/story/uncanny-valley-podcast/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-07-25T01:45:28.340Z"
+  },
+  {
+    "id": "news-1784943928339-3",
+    "title": "As US weighs response to Chinese AI, industry urges against broad open-weight restrictions",
+    "summary": "AI companies, including Nvidia and Mistral, urge policymakers to avoid broad restrictions on open-weight AI models as Washington debates responses to Chinese AI and alleged model distillation.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-07-24T15:51:49.000Z",
+    "url": "https://techcrunch.com/2026/07/24/as-us-weighs-response-to-chinese-ai-industry-urges-against-broad-open-weight-restrictions/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-07-25T01:45:28.339Z"
+  },
+  {
+    "id": "news-1784943928340-32",
+    "title": "As GEMA awaits its Suno copyright verdict, the German collecting society launches ‘PLAI’ – a fully licensed  dataset for training AI music tools",
+    "summary": "AI music transcription company Klangio is the dataset's first customer.\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-07-24T15:38:16.000Z",
+    "url": "https://www.musicbusinessworldwide.com/as-gema-awaits-its-suno-copyright-verdict-the-german-collecting-society-launches-plai-a-fully-licensed-dataset-for-training-ai-music-tools/",
+    "imageUrl": null,
+    "tags": [
+      "AI",
+      "Copyright"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-07-25T01:45:28.340Z"
+  },
+  {
+    "id": "news-1784943928339-4",
+    "title": "Bluesky’s AI assistant Attie expands into an open social research tool",
+    "summary": "Users can now ask Attie questions about news, trends, and conversations on Bluesky and other apps on the AT Protocol.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-07-24T15:13:57.000Z",
+    "url": "https://techcrunch.com/2026/07/24/blueskys-ai-assistant-attie-expands-into-an-open-social-research-tool/",
     "imageUrl": null,
     "tags": [
       "AI",
       "Research"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-07-24T01:45:40.073Z"
+    "fetchedAt": "2026-07-25T01:45:28.339Z"
   },
   {
-    "id": "news-1784857540075-37",
-    "title": "Every Surprise Song BTS Has Performed on the ARIRANG World Tour (So Far)",
-    "summary": "The K-pop group has played two surprise songs during every show's encore.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-07-24T01:00:00.000Z",
-    "url": "https://www.billboard.com/lists/bts-surprise-songs-arirang-tour-every-track/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-07-24T01:45:40.075Z"
-  },
-  {
-    "id": "news-1784857540075-38",
-    "title": "Nivea Reveals Leukemia Diagnosis: ‘Very Grateful for Life’",
-    "summary": "The mother of four is staying positive and focusing on her music as she continues to work on an upcoming project.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-07-23T23:03:44.000Z",
-    "url": "https://www.billboard.com/music/rb-hip-hop/nivea-cancer-diagnosis-1236301901/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-07-24T01:45:40.075Z"
-  },
-  {
-    "id": "news-1784857540075-39",
-    "title": "PRS For Music Names Ben McOwen Wilson as Incoming CEO",
-    "summary": "Current CEO Andrea Czapary Martin announced her departure from the role in March.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-07-23T23:01:00.000Z",
-    "url": "https://www.billboard.com/pro/prs-for-music-ceo-ben-mcowen-wilson/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-07-24T01:45:40.075Z"
-  },
-  {
-    "id": "news-1784857540075-40",
-    "title": "Tseyin Foo Appointed President, Global Supply Chain at Universal Music Group",
-    "summary": "Foo previously served as head of global supply chain planning and strategy at Skechers.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-07-23T21:11:09.000Z",
-    "url": "https://www.billboard.com/pro/umg-tseyin-foo-president-global-supply-chain/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-07-24T01:45:40.075Z"
-  },
-  {
-    "id": "news-1784857540075-41",
-    "title": "Here’s How Louis Tomlinson Really Feels About These One Direction Songs on Band’s 16-Year Anniversary",
-    "summary": "\"Always reminds me of Niall for some reason,\" the Brit said of one track.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-07-23T21:10:02.000Z",
-    "url": "https://www.billboard.com/music/music-news/louis-tomlinson-one-direction-songs-1236301830/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-07-24T01:45:40.075Z"
-  },
-  {
-    "id": "news-1784857540075-42",
-    "title": "Feid, Marc Anthony, Chayanne, Chyno y Nacho & More Set for ‘Unidos Por Venezuela’ Benefit Concert",
-    "summary": "The humanitarian initiative was created to support the country’s recovery and reconstruction.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-07-23T21:04:23.000Z",
-    "url": "https://www.billboard.com/music/latin/unidos-venezuela-benefit-concert-feid-marc-anthony-lineup-1236294353/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-07-24T01:45:40.075Z"
-  },
-  {
-    "id": "news-1784857540073-1",
-    "title": "AMD takes on Nvidia with its Helios AI rack-scale system",
-    "summary": "AMD is challenging its chipmaker rival with a new rack-scale system that will start shipping to customers later this year. ",
+    "id": "news-1784943928339-5",
+    "title": "Midjourney acquired the astrology app Co-Star",
+    "summary": "The AI lab Midjourney continues to expand its purview beyond image and video generation.",
     "category": "ai-research",
     "source": "TechCrunch AI",
     "author": "Unknown",
-    "publishedAt": "2026-07-23T20:33:02.000Z",
-    "url": "https://techcrunch.com/2026/07/23/amd-takes-on-nvidia-with-its-helios-ai-rack-scale-system/",
+    "publishedAt": "2026-07-24T15:09:55.000Z",
+    "url": "https://techcrunch.com/2026/07/24/midjourney-acquired-the-astrology-app-co-star/",
     "imageUrl": null,
     "tags": [
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-07-24T01:45:40.073Z"
+    "fetchedAt": "2026-07-25T01:45:28.339Z"
   },
   {
-    "id": "news-1784857540073-2",
-    "title": "Anthropic updates Claude voice mode with more capable models",
-    "summary": "Claude's new voice model will let you reschedule your meeting or draft an email.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-07-23T19:00:00.000Z",
-    "url": "https://techcrunch.com/2026/07/23/anthropic-updates-claude-voice-mode-with-more-capable-models/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-07-24T01:45:40.073Z"
-  },
-  {
-    "id": "news-1784857540074-21",
-    "title": "Meta’s New Feel-Good AI Ad Uses a Song About the World Ending",
-    "summary": "The clip features the David Bowie track “Five Years,” which includes lyrics such as “Earth was really dying (dying).”",
+    "id": "news-1784943928340-23",
+    "title": "Silicon Valley Is Completely Divided Over Chinese AI",
+    "summary": "The AI “startups” worth billions of dollars are raising alarm bells about Chinese AI. The smaller players have a totally different take.",
     "category": "tech-innovation",
     "source": "Wired AI",
     "author": "Unknown",
-    "publishedAt": "2026-07-23T18:45:52.000Z",
-    "url": "https://www.wired.com/story/meta-david-bowie-apocalypse-ad-is-optimistic-actually/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-07-24T01:45:40.074Z"
-  },
-  {
-    "id": "news-1784857540073-3",
-    "title": "AegisAI, founded by former Google security execs, lands $36M to stop AI-driven spear phishing",
-    "summary": "AegisAI co-founders developed AI agents that quickly analyze each message as a human would, paying attention to small anomalies that even the most elaborate checklist wouldn’t catch.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-07-23T18:38:34.000Z",
-    "url": "https://techcrunch.com/2026/07/23/aegisai-founded-by-former-google-security-execs-lands-36m-to-stop-ai-driven-spear-phishing/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-07-24T01:45:40.073Z"
-  },
-  {
-    "id": "news-1784857540075-29",
-    "title": "Music publishers file amended lyrics lawsuit against Anthropic – just as AI firm’s separate $1.5B settlement with authors wins court approval",
-    "summary": "The latest filing draws heavily on Anthropic's internal records, obtained through discovery, to support claims the publishers first brought in October 2023.\nSource",
-    "category": "industry-news",
-    "source": "Music Business Worldwide",
-    "author": "Unknown",
-    "publishedAt": "2026-07-23T18:32:13.000Z",
-    "url": "https://www.musicbusinessworldwide.com/music-publishers-file-amended-lyrics-lawsuit-against-anthropic-just-as-ai-firms-separate-1-5b-piracy-settlement-with-authors-wins-court-approval/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-07-24T01:45:40.075Z"
-  },
-  {
-    "id": "news-1784857540073-4",
-    "title": "Runway launches AI model router as generative media gets crowded",
-    "summary": "The Media Router is a tool that automatically selects the best image, video, or audio generation model for a request based on whether a developer prioritizes quality, speed or cost.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-07-23T17:07:35.000Z",
-    "url": "https://techcrunch.com/2026/07/23/runway-bets-on-ai-model-routing-as-generative-media-gets-crowded/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-07-24T01:45:40.073Z"
-  },
-  {
-    "id": "news-1784857540073-5",
-    "title": "OpenAI makes ChatGPT Health available to all US users",
-    "summary": "Users can also integrate their personal data from services like Apple Health, Function, and MyFitnessPal.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-07-23T17:00:00.000Z",
-    "url": "https://techcrunch.com/2026/07/23/openai-makes-chatgpt-health-available-to-all-u-s-users/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-07-24T01:45:40.073Z"
-  },
-  {
-    "id": "news-1784857540073-6",
-    "title": "Meta launched a new AI optimism ad set to a song about human extinction",
-    "summary": "David Bowie's song \"Five Years,\" which Meta used in a supposedly inspiring advertisement, is about humans learning that they have five years left to live before the apocalypse.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-07-23T16:28:50.000Z",
-    "url": "https://techcrunch.com/2026/07/23/meta-launched-a-new-ai-optimism-ad-set-to-a-song-about-human-extinction/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-07-24T01:45:40.073Z"
-  },
-  {
-    "id": "news-1784857540073-7",
-    "title": "AI chip startup Etched defies skeptics, hits $10.3B valuation from big-name investors",
-    "summary": "Etched, founded by three Harvard dropouts, has created new chips and memory components that speed up inference on any AI model -- no GPUs required, it says. ",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-07-23T15:00:00.000Z",
-    "url": "https://techcrunch.com/2026/07/23/ai-chip-startup-etched-defies-skeptics-hits-10-3b-valuation-from-big-name-investors/",
+    "publishedAt": "2026-07-24T15:00:00.000Z",
+    "url": "https://www.wired.com/story/silicon-valley-is-completely-divided-over-chinese-ai/",
     "imageUrl": null,
     "tags": [
       "AI",
       "Startup"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-07-24T01:45:40.073Z"
+    "fetchedAt": "2026-07-25T01:45:28.340Z"
   },
   {
-    "id": "news-1784857540075-30",
-    "title": "India’s Tips Music grew revenues 21% in calendar Q2 – but profit fell 4% as content spend jumped 90%",
-    "summary": "Spending on music acquisitions pulled Tips' operating EBITDA margin down to 50.3%, from 64.2% a year earlier and 74.0% in the preceding quarter.\nSource",
-    "category": "industry-news",
-    "source": "Music Business Worldwide",
+    "id": "news-1784943928339-6",
+    "title": "‘AI communism’, rogue models, and the why Kimi K3 spooked Wall Street",
+    "summary": "Chinese AI lab Moonshot’s open model Kimi went viral this week for reasons that had less to do with the model itself and more to do with how the U.S. AI industry reacted to it. Meanwhile, an unreleased OpenAI model wandered outside its test environment and ended up connected to a real security breach at Hugging Face — a reminder […]",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
     "author": "Unknown",
-    "publishedAt": "2026-07-23T14:43:12.000Z",
-    "url": "https://www.musicbusinessworldwide.com/indias-tips-music-grew-revenues-21-in-calendar-q2-but-profit-fell-4-as-content-spend-jumped-90/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-07-24T01:45:40.075Z"
-  },
-  {
-    "id": "news-1784857540075-31",
-    "title": "Sony Music Publishing acquires Monty Norman Limited, from the estate of late James Bond Theme composer",
-    "summary": "He was the credited composer of the James Bond Theme, first heard in the 1962 film Dr. No.\nSource",
-    "category": "industry-news",
-    "source": "Music Business Worldwide",
-    "author": "Unknown",
-    "publishedAt": "2026-07-23T14:30:41.000Z",
-    "url": "https://www.musicbusinessworldwide.com/james-bond-theme-composer-company-acquired-by-sony-music-publishing/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-07-24T01:45:40.075Z"
-  },
-  {
-    "id": "news-1784857540075-32",
-    "title": "YouTube’s subscription business ‘growing faster than ads,’ driven by Music and Premium, says Alphabet",
-    "summary": "Platform's ad revenues rose 13% YoY to $11bn in Q2\nSource",
-    "category": "industry-news",
-    "source": "Music Business Worldwide",
-    "author": "Unknown",
-    "publishedAt": "2026-07-23T12:47:40.000Z",
-    "url": "https://www.musicbusinessworldwide.com/youtubes-subscription-business-growing-faster-than-ads-driven-by-music-and-premium-says-alphabet/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-07-24T01:45:40.075Z"
-  },
-  {
-    "id": "news-1784857540075-33",
-    "title": "Judge refuses to dismiss Reach Records’ case against UMG’s Capitol CMG over abandoned deal",
-    "summary": "Reach alleges that Capitol CMG agreed to buy the label during 2025, then pulled out months later by telling Reach the agreed price was too high.\nSource",
-    "category": "industry-news",
-    "source": "Music Business Worldwide",
-    "author": "Unknown",
-    "publishedAt": "2026-07-23T12:08:51.000Z",
-    "url": "https://www.musicbusinessworldwide.com/judge-refuses-to-dismiss-reach-records-case-against-umgs-capitol-cmg-over-abandoned-deal/",
+    "publishedAt": "2026-07-24T14:00:00.000Z",
+    "url": "https://techcrunch.com/podcast/ai-communism-rogue-models-and-the-why-kimi-k3-spooked-wall-street/",
     "imageUrl": null,
     "tags": [
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-07-24T01:45:40.075Z"
+    "fetchedAt": "2026-07-25T01:45:28.339Z"
+  },
+  {
+    "id": "news-1784943928340-33",
+    "title": "Move Concerts CEO Phil Rodriguez: ‘I’m bullish about our business. Music and sports are the last tribal experiences.’",
+    "summary": "MBW's World Leaders series meets Phil Rodriguez, founder and CEO of Latin America-focused Move Concerts\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-07-24T13:46:36.000Z",
+    "url": "https://www.musicbusinessworldwide.com/move-concerts-ceo-phil-rodriguez-im-bullish-about-our-business-music-and-sports-are-the-last-tribal-experience/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-07-25T01:45:28.340Z"
+  },
+  {
+    "id": "news-1784943928339-7",
+    "title": "OpenAI’s new voice mode makes it to the ChatGPT desktop app",
+    "summary": "ChatGPT Voice on desktop can work with both ChatGPT Work and Codex to complete tasks and control agents.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-07-24T13:36:42.000Z",
+    "url": "https://techcrunch.com/2026/07/24/openais-new-voice-mode-makes-it-to-the-chatgpt-desktop-app/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-07-25T01:45:28.339Z"
   }
 ]
