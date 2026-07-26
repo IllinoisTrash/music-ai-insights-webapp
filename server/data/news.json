@@ -1,20 +1,126 @@
 [
   {
-    "id": "news-1784943928340-38",
-    "title": "Artists With the Most No. 1 Albums on the Billboard 200: The Beatles, Future & More",
-    "summary": "Future's The Real Me lands the rapper his 12th leader.",
+    "id": "news-1785030505429-0",
+    "title": "Monday.com is the latest tech company to blame AI for layoffs — here are 20 others",
+    "summary": "A running look — in reverse chronological order — at the bigger tech companies that have announced significant layoffs this year with AI as a stated factor.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-07-26T01:30:00.000Z",
+    "url": "https://techcrunch.com/2026/07/25/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-07-26T01:48:25.429Z"
+  },
+  {
+    "id": "news-1785030505431-39",
+    "title": "Orville Peck Opens Up About Suicide Attempt Before Canceling 2023 Tour: ‘A Big Turning Point for Me’",
+    "summary": "The experience inspired the masked country singer’s upcoming album, Mule.",
     "category": "industry-news",
     "source": "Billboard",
     "author": "Unknown",
-    "publishedAt": "2026-07-25T01:00:00.000Z",
-    "url": "https://www.billboard.com/lists/drake-taylor-swift-most-billboard200-no1-albums-soloists/",
+    "publishedAt": "2026-07-25T19:53:27.000Z",
+    "url": "https://www.billboard.com/music/music-news/orville-peck-suicide-attempt-before-canceling-2023-tour-1236303015/",
     "imageUrl": null,
     "tags": [],
     "readTime": 1,
-    "fetchedAt": "2026-07-25T01:45:28.340Z"
+    "fetchedAt": "2026-07-26T01:48:25.431Z"
   },
   {
-    "id": "news-1784943928338-0",
+    "id": "news-1785030505431-40",
+    "title": "Smokey Robinson and Gladys Knight: 7 Highlights From Their Hollywood Bowl Show",
+    "summary": "Robinson is duly recognized as one of our greatest songwriters, but he may be under-recognized as a live performer. ",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-07-25T18:58:15.000Z",
+    "url": "https://www.billboard.com/lists/smokey-robinson-gladys-knight-2026-hollywood-bowl-recap/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-07-26T01:48:25.431Z"
+  },
+  {
+    "id": "news-1785030505431-41",
+    "title": "Natanael Cano Offers 1 Million Pesos to Loyal Fan & More Uplifting Moments in Latin Music",
+    "summary": "Plus, Karol G’s Con Cora Foundation expands its U.S. impact, and Shakira brings NYC workers onstage at Barclays.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-07-25T14:00:00.000Z",
+    "url": "https://www.billboard.com/music/latin/natanael-cano-treasure-hunt-uplifting-moments-latin-music-1236302693/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-07-26T01:48:25.431Z"
+  },
+  {
+    "id": "news-1785030505429-1",
+    "title": "One fallen power line exposed a growing AI data center problem. Here’s how to fix it.",
+    "summary": "A close call in Northern Virginia revealed just how poorly data centers respond to grid disruptions. Here's how to fix the problem.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-07-25T13:05:00.000Z",
+    "url": "https://techcrunch.com/2026/07/25/one-fallen-power-line-exposed-a-growing-ai-data-center-problem-heres-how-to-fix-it/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-07-26T01:48:25.429Z"
+  },
+  {
+    "id": "news-1785030505431-23",
+    "title": "The OpenAI Models That Hacked Hugging Face Were ‘Active on the Internet’ for Days",
+    "summary": "Plus: Russian hackers are trying to steal US nuclear scientists’ emails, the State Department bans known scammers from entering the United States, and more.",
+    "category": "ai-research",
+    "source": "Wired AI",
+    "author": "Unknown",
+    "publishedAt": "2026-07-25T10:30:00.000Z",
+    "url": "https://www.wired.com/story/security-news-this-week-the-openai-models-that-hacked-hugging-face-were-active-on-the-internet-for-days/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-07-26T01:48:25.431Z"
+  },
+  {
+    "id": "news-1785030505431-42",
+    "title": "Lou Koller, Frontman of Hardcore Pioneers Sick of It All, Dies at 59",
+    "summary": "The band confirmed his death on Friday, days before their 40th anniversary.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-07-25T04:53:33.000Z",
+    "url": "https://www.billboard.com/music/music-news/lou-koller-sick-of-it-all-dies-1236302948/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-07-26T01:48:25.432Z"
+  },
+  {
+    "id": "news-1785030505432-43",
+    "title": "Karol G Kicks Off 2026 Viajando Por El Mundo Tropitour: Full Setlist",
+    "summary": "The highly-awaited tour began on Friday (July 24) at Soldier Field in Chicago. See every song from the kick-off show below.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-07-25T04:45:00.000Z",
+    "url": "https://www.billboard.com/lists/karol-g-viajando-por-el-mundo-tropitour-full-setlist/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-07-26T01:48:25.432Z"
+  },
+  {
+    "id": "news-1785030505429-2",
     "title": "I tried out OpenAI’s new AI keypad — which will be fun for some coders and slightly mystifying to everyone else",
     "summary": "OpenAI's fancy new AI keypad will be a lot of fun for some, while many others are probably not going to touch it. ",
     "category": "ai-research",
@@ -27,38 +133,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-07-25T01:45:28.339Z"
+    "fetchedAt": "2026-07-26T01:48:25.429Z"
   },
   {
-    "id": "news-1784943928340-39",
-    "title": "50 Cent Teases 2Pac & Eminem Collab for ‘Street Fighter’ Soundtrack: ‘Coming Out Shortly’",
-    "summary": "Street Fighter hits theaters Oct. 16.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-07-25T00:11:15.000Z",
-    "url": "https://www.billboard.com/music/rb-hip-hop/50-cent-2pac-eminem-street-fighter-movie-collab-1236302718/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-07-25T01:45:28.340Z"
-  },
-  {
-    "id": "news-1784943928340-40",
-    "title": "Watch Charli xcx’s Full Theatrical Film That Accompanies Her New ‘Music, Fashion, Film’ Album",
-    "summary": "The pop star gives fans a deeper look into her creative process & inspiration.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-07-24T22:41:09.000Z",
-    "url": "https://www.billboard.com/music/pop/charli-xcx-music-fashion-film-full-movie-1236302663/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-07-25T01:45:28.340Z"
-  },
-  {
-    "id": "news-1784943928339-1",
+    "id": "news-1785030505430-3",
     "title": "Prentis, new AI lab co-founded by Reid Hoffman, Mark Pincus in talks to raise $100M",
     "summary": "The neolab is betting that automating routine computer tasks will soon outpace coding as AI's biggest use case. ",
     "category": "ai-research",
@@ -71,82 +149,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-07-25T01:45:28.339Z"
+    "fetchedAt": "2026-07-26T01:48:25.430Z"
   },
   {
-    "id": "news-1784943928340-41",
-    "title": "Watch Niall Horan Surprise ‘Off Campus’ Star Ella Bright by Turning Her Cover Song Into a Duet",
-    "summary": "\"Oh my god, this is so wild,\" the shocked actress exclaimed.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-07-24T22:10:47.000Z",
-    "url": "https://www.billboard.com/culture/tv-film/niall-horan-off-campus-ella-bright-duet-1236302656/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-07-25T01:45:28.340Z"
-  },
-  {
-    "id": "news-1784943928340-42",
-    "title": "Cypress Hill Embrace Latin Roots on First All-Spanish Album ‘Dios Bendiga’: ‘It’s a Prayer for the Culture’",
-    "summary": "The legendary hip-hop group talk about making the LP, feat. Trueno, Alemán and more, and why now was the right time to do it.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-07-24T21:57:27.000Z",
-    "url": "https://www.billboard.com/music/latin/cypress-hill-dios-bendiga-latin-rap-spanish-album-interview-1236302580/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-07-25T01:45:28.340Z"
-  },
-  {
-    "id": "news-1784943928340-43",
-    "title": "In Canada: The Inside Story Behind Angine de Poitrine’s Unprecedented Global Breakthrough",
-    "summary": "Also up north this week: Canada is the No. 4 music exporter worldwide, according to Luminate's midyear report.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-07-24T21:39:39.000Z",
-    "url": "https://www.billboard.com/pro/inside-angine-de-poirtrine-global-rise-canada-music-news/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-07-25T01:45:28.340Z"
-  },
-  {
-    "id": "news-1784943928340-44",
-    "title": "Everything You Need to Know About Shakira’s Residency in Madrid: Dates, Tickets & More",
-    "summary": "The experience will go far beyond the concerts and Macondo Park, a space conceived as a celebration of Latin culture.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-07-24T21:26:28.000Z",
-    "url": "https://www.billboard.com/music/latin/shakira-madrid-residency-dates-tickets-more-1236302647/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-07-25T01:45:28.340Z"
-  },
-  {
-    "id": "news-1784943928340-45",
-    "title": "With Cosigns From Fat Joe and DJ Khaled, Boxer Edgar Berlanga Jr. Is Ready to Step Into the Music Ring",
-    "summary": "For Entry 022 of Mic Drops and Elbow Drops, Carl Lamarre speaks with boxer Edgar Berlanga Jr. about his first song \"Baby Mama,\" advice from Fat Joe and being ready for the music game.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-07-24T20:36:17.000Z",
-    "url": "https://www.billboard.com/music/rb-hip-hop/edgar-berlanga-jr-baby-mama-steven-butler-interview-1236302557/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-07-25T01:45:28.340Z"
-  },
-  {
-    "id": "news-1784943928339-2",
+    "id": "news-1785030505430-4",
     "title": "Why Cognition bought Poke: AI personality is becoming a competitive advantage",
     "summary": "The acquisition brings Poke’s conversational style and interaction model to Cognition’s coding agent Devin, reflecting a growing belief that how AI assistants interact with users is as important as the models powering them.",
     "category": "ai-research",
@@ -159,10 +165,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-07-25T01:45:28.339Z"
+    "fetchedAt": "2026-07-26T01:48:25.430Z"
   },
   {
-    "id": "news-1784943928340-22",
+    "id": "news-1785030505431-24",
     "title": "China-US AI Race Escalates, OpenAI Models Break Free, and Why You Should Check Your Car Alarm",
     "summary": "On this episode of Uncanny Valley, we dive into accusations that China’s Moonshot AI stole from  Anthropic, and how the US Army needs to cut back on AI use.",
     "category": "ai-research",
@@ -175,10 +181,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-07-25T01:45:28.340Z"
+    "fetchedAt": "2026-07-26T01:48:25.431Z"
   },
   {
-    "id": "news-1784943928339-3",
+    "id": "news-1785030505430-5",
     "title": "As US weighs response to Chinese AI, industry urges against broad open-weight restrictions",
     "summary": "AI companies, including Nvidia and Mistral, urge policymakers to avoid broad restrictions on open-weight AI models as Washington debates responses to Chinese AI and alleged model distillation.",
     "category": "ai-research",
@@ -191,10 +197,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-07-25T01:45:28.339Z"
+    "fetchedAt": "2026-07-26T01:48:25.430Z"
   },
   {
-    "id": "news-1784943928340-32",
+    "id": "news-1785030505431-33",
     "title": "As GEMA awaits its Suno copyright verdict, the German collecting society launches ‘PLAI’ – a fully licensed  dataset for training AI music tools",
     "summary": "AI music transcription company Klangio is the dataset's first customer.\nSource",
     "category": "industry-news",
@@ -208,10 +214,10 @@
       "Copyright"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-07-25T01:45:28.340Z"
+    "fetchedAt": "2026-07-26T01:48:25.431Z"
   },
   {
-    "id": "news-1784943928339-4",
+    "id": "news-1785030505430-6",
     "title": "Bluesky’s AI assistant Attie expands into an open social research tool",
     "summary": "Users can now ask Attie questions about news, trends, and conversations on Bluesky and other apps on the AT Protocol.",
     "category": "ai-research",
@@ -225,10 +231,10 @@
       "Research"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-07-25T01:45:28.339Z"
+    "fetchedAt": "2026-07-26T01:48:25.430Z"
   },
   {
-    "id": "news-1784943928339-5",
+    "id": "news-1785030505430-7",
     "title": "Midjourney acquired the astrology app Co-Star",
     "summary": "The AI lab Midjourney continues to expand its purview beyond image and video generation.",
     "category": "ai-research",
@@ -241,10 +247,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-07-25T01:45:28.339Z"
+    "fetchedAt": "2026-07-26T01:48:25.430Z"
   },
   {
-    "id": "news-1784943928340-23",
+    "id": "news-1785030505431-25",
     "title": "Silicon Valley Is Completely Divided Over Chinese AI",
     "summary": "The AI “startups” worth billions of dollars are raising alarm bells about Chinese AI. The smaller players have a totally different take.",
     "category": "tech-innovation",
@@ -258,10 +264,10 @@
       "Startup"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-07-25T01:45:28.340Z"
+    "fetchedAt": "2026-07-26T01:48:25.431Z"
   },
   {
-    "id": "news-1784943928339-6",
+    "id": "news-1785030505430-8",
     "title": "‘AI communism’, rogue models, and the why Kimi K3 spooked Wall Street",
     "summary": "Chinese AI lab Moonshot’s open model Kimi went viral this week for reasons that had less to do with the model itself and more to do with how the U.S. AI industry reacted to it. Meanwhile, an unreleased OpenAI model wandered outside its test environment and ended up connected to a real security breach at Hugging Face — a reminder […]",
     "category": "ai-research",
@@ -274,10 +280,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-07-25T01:45:28.339Z"
+    "fetchedAt": "2026-07-26T01:48:25.430Z"
   },
   {
-    "id": "news-1784943928340-33",
+    "id": "news-1785030505431-34",
     "title": "Move Concerts CEO Phil Rodriguez: ‘I’m bullish about our business. Music and sports are the last tribal experiences.’",
     "summary": "MBW's World Leaders series meets Phil Rodriguez, founder and CEO of Latin America-focused Move Concerts\nSource",
     "category": "industry-news",
@@ -288,10 +294,10 @@
     "imageUrl": null,
     "tags": [],
     "readTime": 1,
-    "fetchedAt": "2026-07-25T01:45:28.340Z"
+    "fetchedAt": "2026-07-26T01:48:25.431Z"
   },
   {
-    "id": "news-1784943928339-7",
+    "id": "news-1785030505430-9",
     "title": "OpenAI’s new voice mode makes it to the ChatGPT desktop app",
     "summary": "ChatGPT Voice on desktop can work with both ChatGPT Work and Codex to complete tasks and control agents.",
     "category": "ai-research",
@@ -304,6 +310,6 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-07-25T01:45:28.339Z"
+    "fetchedAt": "2026-07-26T01:48:25.430Z"
   }
 ]
