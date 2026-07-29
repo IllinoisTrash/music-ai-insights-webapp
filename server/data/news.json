@@ -1,20 +1,238 @@
 [
   {
-    "id": "news-1785202184734-41",
-    "title": "Ariana Grande Sues Hackers Over Leaks of Unreleased Music: ‘Unlawful and Egregious’",
-    "summary": "The star says she has faced hundreds of leaks and wants to use legal action to unmask \"wrongdoers who hide in the shadows.\"",
+    "id": "news-1785288599972-32",
+    "title": "Lollapalooza, Daisy Chain Fields & Ocean Way: 2026 Summer Festival Season Is Just Heating Up",
+    "summary": "On the new Billboard Pop Shop Podcast, we're talking about Lolla in Chicago this weekend and two brand-new festivals that lie ahead.",
     "category": "industry-news",
     "source": "Billboard",
     "author": "Unknown",
-    "publishedAt": "2026-07-28T00:56:02.000Z",
-    "url": "https://www.billboard.com/pro/ariana-grande-lawsuit-sues-hackers-music-leaks/",
+    "publishedAt": "2026-07-29T00:35:13.000Z",
+    "url": "https://www.billboard.com/media/podcasts/lollapalooza-daisy-chain-ocean-way-festivals-pop-shop-podcast-1236302558/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-07-29T01:29:59.972Z"
+  },
+  {
+    "id": "news-1785288599972-19",
+    "title": "OpenAI’s Rogue AI Agent Hacked More Than Just Hugging Face",
+    "summary": "In a new disclosure, OpenAI says its agent used exposed logins to gain access to at least four “publicly available services” in its unhinged quest to solve a test.",
+    "category": "tech-innovation",
+    "source": "Wired AI",
+    "author": "Unknown",
+    "publishedAt": "2026-07-29T00:15:30.000Z",
+    "url": "https://www.wired.com/story/openais-rogue-ai-agent-hacked-more-than-just-hugging-face/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-07-29T01:29:59.972Z"
+  },
+  {
+    "id": "news-1785288599971-0",
+    "title": "Cyera agrees to acquire Oasis Security for $1B to safeguard proliferating AI agents",
+    "summary": "The deal is Cyera's third acquisition this year. ",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-07-29T00:09:05.000Z",
+    "url": "https://techcrunch.com/2026/07/28/cyera-agrees-to-acquire-oasis-security-for-1b-to-safeguard-proliferating-ai-agents/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-07-29T01:29:59.971Z"
+  },
+  {
+    "id": "news-1785288599972-33",
+    "title": "All Things Go 2026: Here’s Where to Shop Affordable Music Festival Tickets Online",
+    "summary": "Starting on Friday (Sept. 25), the women-forward music festival takes place in New York City and Washington D.C.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-07-28T22:45:44.000Z",
+    "url": "https://www.billboard.com/culture/product-recommendations/all-things-go-2026-tickets-best-deals-buy-shop-online-1236304477/",
     "imageUrl": null,
     "tags": [],
     "readTime": 1,
-    "fetchedAt": "2026-07-28T01:29:44.734Z"
+    "fetchedAt": "2026-07-29T01:29:59.972Z"
   },
   {
-    "id": "news-1785202184733-0",
+    "id": "news-1785288599972-34",
+    "title": "Billboard Hot Latin Songs Top 10 Countdown For August 1 2026 | Billboard Latin",
+    "summary": "Bad Bunny continues his strong run on the Billboard Hot Latin Songs chart with several tracks off his album Debí Tirar Más Fotos. Narrator:This is the top 10 of the Hot Latin Songs from Billboard for the week of August 1. Netón Vega parks at No. 10. “Todo Lo Fue” holds at No. 9. “Daño” […]",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-07-28T22:34:24.000Z",
+    "url": "https://www.billboard.com/video/billboard-hot-latin-songs-top-10-countdown-august-1-2026/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-07-29T01:29:59.972Z"
+  },
+  {
+    "id": "news-1785288599972-35",
+    "title": "Refresh Your Concert Wardrobe With These Nordstrom Anniversary Sale Finds, Starting at $18",
+    "summary": "From Nirvana and Smashing Pumpkins tees to Adidas and New Balance sneakers, these hidden Nordstrom Anniversary Sale finds are made for your next concert.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-07-28T21:49:32.000Z",
+    "url": "https://www.billboard.com/culture/product-recommendations/nordstrom-anniversary-sale-music-fan-best-deals-online-1236304359/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-07-29T01:29:59.972Z"
+  },
+  {
+    "id": "news-1785288599972-36",
+    "title": "Billboard’s Music Industry Events Calendar",
+    "summary": "A complete rundown of the most important events across the music business.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-07-28T21:16:00.000Z",
+    "url": "https://www.billboard.com/pro/music-industry-events-calendar-festivals-awards-conferences/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-07-29T01:29:59.972Z"
+  },
+  {
+    "id": "news-1785288599971-1",
+    "title": "Fish Audio raises $52M seed to build AI voice models for creators and enterprises",
+    "summary": "Since launching last year, the startup today has more than 8 million people using the open source or hosted version of its models, and now generates annual recurring revenue of $21 million.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-07-28T14:00:00.000Z",
+    "url": "https://techcrunch.com/2026/07/28/fish-audio-raises-50m-seed-to-build-ai-voice-models-for-creators-and-enterprises/",
+    "imageUrl": null,
+    "tags": [
+      "AI",
+      "Startup"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-07-29T01:29:59.971Z"
+  },
+  {
+    "id": "news-1785288599972-28",
+    "title": "US musicians’ union files amended lawsuit against Universal and Warner over Suno and Udio AI deals",
+    "summary": "The union alleges that Universal and Warner licensed recordings made by its members to the two AI companies \"without compensation or credit.\"\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-07-28T13:31:57.000Z",
+    "url": "https://www.musicbusinessworldwide.com/us-musicians-union-files-amended-lawsuit-against-universal-and-warner-over-suno-and-udio-ai-deals/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-07-29T01:29:59.972Z"
+  },
+  {
+    "id": "news-1785288599971-2",
+    "title": "Recursive Superintelligence signs $410M compute deal with Amazon",
+    "summary": "Recursive’s emphasis on self-improving AI systems means much of the budget that would traditionally go toward headcount and operations is put straight into compute, as the company seeks to automate its own product development process. ",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-07-28T13:19:17.000Z",
+    "url": "https://techcrunch.com/2026/07/28/recursive-superintelligence-signs-400-compute-deal-with-amazon/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-07-29T01:29:59.971Z"
+  },
+  {
+    "id": "news-1785288599972-29",
+    "title": "Ariana Grande sues unnamed hackers over theft of unreleased music sold on the dark web",
+    "summary": "The complaint does not name any defendants, instead identifying them as \"John Doe\" parties.\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-07-28T13:15:50.000Z",
+    "url": "https://www.musicbusinessworldwide.com/ariana-grande-sues-unnamed-hackers-over-theft-of-unreleased-music-sold-on-the-dark-web/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-07-29T01:29:59.972Z"
+  },
+  {
+    "id": "news-1785288599972-30",
+    "title": "BTS powers HYBE to record Q2 as ARIRANG world tour drives concert revenue boom for K-pop giant",
+    "summary": "Recorded music revenue grew 43.0% YoY to KRW 326.8 billion ($218m), also led by ARIRANG.\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-07-28T11:23:38.000Z",
+    "url": "https://www.musicbusinessworldwide.com/bts-arirang-powers-hybe-to-record-q2-as-concert-revenue-soars-243-yoy/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-07-29T01:29:59.972Z"
+  },
+  {
+    "id": "news-1785288599972-31",
+    "title": "Too Lost partners with Roblox to bring catalog of independent music to games and virtual spaces",
+    "summary": "Tracks from The All-American Rejects, A$AP Ferg, Teddy Swims, and Alex Warren will be available to Roblox creators to use in games and virtual spaces.\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-07-28T10:31:41.000Z",
+    "url": "https://www.musicbusinessworldwide.com/too-lost-partners-with-roblox-to-bring-catalog-of-independent-music-to-games-and-virtual-spaces/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-07-29T01:29:59.972Z"
+  },
+  {
+    "id": "news-1785288599972-20",
+    "title": "Can the New York Times Save Journalism From Our AI Overlords?",
+    "summary": "In 2023, the Times sued OpenAI and Microsoft for copyright infringement. They’ve since spent more than $20 million on the case, and publisher A.G. Sulzberger has no plans to stop fighting it.",
+    "category": "tech-innovation",
+    "source": "Wired AI",
+    "author": "Unknown",
+    "publishedAt": "2026-07-28T10:30:00.000Z",
+    "url": "https://www.wired.com/story/the-big-interview-podcast-a-g-sulzberger-new-york-times/",
+    "imageUrl": null,
+    "tags": [
+      "AI",
+      "Copyright"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-07-29T01:29:59.972Z"
+  },
+  {
+    "id": "news-1785288599972-21",
+    "title": "Silicon Valley’s Next IPO Billionaires Are Coming. Nonprofits Are Ready for Them",
+    "summary": "Anthropic and OpenAI employees are expected to give generously after their companies go public. “It’s going to be a wild ride,” says one nonprofit leader.",
+    "category": "tech-innovation",
+    "source": "Wired AI",
+    "author": "Unknown",
+    "publishedAt": "2026-07-28T10:00:00.000Z",
+    "url": "https://www.wired.com/story/nonprofits-are-getting-ready-for-the-funding-anthropalypse/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-07-29T01:29:59.972Z"
+  },
+  {
+    "id": "news-1785288599971-3",
     "title": "Anthropic’s Dario Amodei responds: doesn’t oppose open-weight models, but fears Chinese AI",
     "summary": "Anthropic founder and CEO Dario Amodei made his views clear about open-weight models and China's growing AI capabilities. ",
     "category": "ai-research",
@@ -27,82 +245,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-07-28T01:29:44.733Z"
+    "fetchedAt": "2026-07-29T01:29:59.971Z"
   },
   {
-    "id": "news-1785202184734-42",
-    "title": "Natanael Cano Announces Stadium Tour in Mexico: Here Are the First Confirmed Dates",
-    "summary": "Titled after his upcoming album, Natanael Cano Vol. 1, the new trek by the “King of Corridos Tumbados” will mark his return to the genre he propelled to the top.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-07-27T23:30:00.000Z",
-    "url": "https://www.billboard.com/music/latin/natanael-cano-announces-stadium-tour-in-mexico-dates-1236303866/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-07-28T01:29:44.734Z"
-  },
-  {
-    "id": "news-1785202184734-43",
-    "title": "Tate McRae Sparks New Era Speculation Ahead of Lollapalooza",
-    "summary": "The pop star's latest social media moves have fans wondering if new music is on the way.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-07-27T22:21:13.000Z",
-    "url": "https://www.billboard.com/music/pop/tate-mcrae-new-posters-tease-lollapalooza-1236303835/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-07-28T01:29:44.734Z"
-  },
-  {
-    "id": "news-1785202184734-44",
-    "title": "Fred again.. & Latin Mafia to Host Mixtape Production Livestream That Won’t End Until the Mixtape Is Done",
-    "summary": "The British producer and Mexican trio will start the stream 1 p.m. CT on July 28.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-07-27T22:09:00.000Z",
-    "url": "https://www.billboard.com/music/music-news/fred-again-latin-mafia-mixtape-creation-livestream-mexico-1236303864/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-07-28T01:29:44.734Z"
-  },
-  {
-    "id": "news-1785202184734-45",
-    "title": "Calibre 50 Celebrates Its Historic 28th No. 1 Hit at Billboard’s First-Ever Mazatlán Pop-Up Moment",
-    "summary": "Billboard hosted the event at the birthplace of banda music to honor the regional Mexican band.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-07-27T22:00:00.000Z",
-    "url": "https://www.billboard.com/music/latin/calibre-50-celebrates-number-1-hits-mazatlan-pop-up-moment-1236302646/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-07-28T01:29:44.734Z"
-  },
-  {
-    "id": "news-1785202184734-46",
-    "title": "Calibre 50 Celebrates Historic 28th No. 1 Hit at Billboard’s First-Ever Mazatlán Pop-Up Moment | Noticias Billboard",
-    "summary": "For the first time ever, Billboard brought its signature Pop-Up Moment beyond U.S. borders—landing in the vibrant, sun-soaked city of Mazatlán, along the Pacific coast in Sinaloa, Mexico. Known as the birthplace of banda and a heartbeat of regional Mexican music, Mazatlán provided a powerful backdrop for this milestone celebration. The occasion was especially meaningful […]",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-07-27T22:00:00.000Z",
-    "url": "https://www.billboard.com/video/calibre-50-28th-no-1-hit-billboard-mazatlan-pop-up-moment/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-07-28T01:29:44.734Z"
-  },
-  {
-    "id": "news-1785202184733-1",
+    "id": "news-1785288599971-4",
     "title": "Satya Nadella says companies that trust one AI for everything may not survive",
     "summary": "Companies without their own models — or without a layer of AI infrastructure known as AI gateways to separate their prompts from the model itself — will be in trouble, Nadella says.",
     "category": "ai-research",
@@ -115,10 +261,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-07-28T01:29:44.733Z"
+    "fetchedAt": "2026-07-29T01:29:59.971Z"
   },
   {
-    "id": "news-1785202184733-2",
+    "id": "news-1785288599971-5",
     "title": "PSA: Your Claude shared chats and Artifacts may have ended up on Google",
     "summary": "The issue appears to have originated from Claude’s “share chat” feature, which allows users to create links that enable anyone with the assigned URL view a conversation or project.",
     "category": "ai-research",
@@ -129,10 +275,10 @@
     "imageUrl": null,
     "tags": [],
     "readTime": 1,
-    "fetchedAt": "2026-07-28T01:29:44.733Z"
+    "fetchedAt": "2026-07-29T01:29:59.971Z"
   },
   {
-    "id": "news-1785202184734-23",
+    "id": "news-1785288599972-22",
     "title": "Private Claude Chats Exposed in Google and Bing Search Results",
     "summary": "The screwup shows how tricky it can be to stop web crawlers from making ostensibly private conversations with AI chatbots entirely too public.",
     "category": "tech-innovation",
@@ -145,10 +291,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-07-28T01:29:44.734Z"
+    "fetchedAt": "2026-07-29T01:29:59.972Z"
   },
   {
-    "id": "news-1785202184733-3",
+    "id": "news-1785288599971-6",
     "title": "Microsoft launches its first cybersecurity model, plus a new agentic cybersecurity system",
     "summary": "Microsoft bolstered its AI cybersecurity offerings this week with the launch of its first AI security model and a new security platform. ",
     "category": "ai-research",
@@ -161,153 +307,6 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-07-28T01:29:44.733Z"
-  },
-  {
-    "id": "news-1785202184734-33",
-    "title": "‘Respect your fans above everything else.’",
-    "summary": "As heavy metal giants Iron Maiden mark their 50th anniversary with a global stadium tour, long-time manager Rod Smallwood OBE tells MBW in this exclusive interview about the honesty that sustains a decades-long artist partnership, his war on ticket touts, and what the industry gets wrong about superfans…\nSource",
-    "category": "industry-news",
-    "source": "Music Business Worldwide",
-    "author": "Unknown",
-    "publishedAt": "2026-07-27T18:11:34.000Z",
-    "url": "https://www.musicbusinessworldwide.com/iron-maiden-manager-rod-smallwood-talks-eddfest-eddie-fan-clubs-anti-touting-and-the-secret-to-a-near-50-year-management-partnership/",
-    "imageUrl": null,
-    "tags": [
-      "AI",
-      "Partnership"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-07-28T01:29:44.734Z"
-  },
-  {
-    "id": "news-1785202184733-4",
-    "title": "OpenAI’s Hugging Face breach has reignited the debate over alignment and control",
-    "summary": "OpenAI's Hugging Face breach has reignited debate over AI alignment and control, exposing competing views on whether increasingly capable AI should be better aligned, better contained, or both.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-07-27T17:28:42.000Z",
-    "url": "https://techcrunch.com/2026/07/27/openais-hugging-face-breach-has-reignited-the-debate-over-alignment-and-control/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-07-28T01:29:44.733Z"
-  },
-  {
-    "id": "news-1785202184733-5",
-    "title": "Threads users can now chat with Meta AI in their DMs",
-    "summary": "Meta on Monday said it is rolling out its Meta AI chatbot within Threads' DMs, giving users a way to chat with the AI assistant. ",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-07-27T16:45:24.000Z",
-    "url": "https://techcrunch.com/2026/07/27/threads-users-can-now-chat-with-meta-ai-in-their-dms/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-07-28T01:29:44.733Z"
-  },
-  {
-    "id": "news-1785202184734-34",
-    "title": "Universal Music Group completes €500 million share buyback program",
-    "summary": "The company has repurchased 26,707,529 of its own shares under the program, UMG said on Monday (July 27)\nSource",
-    "category": "industry-news",
-    "source": "Music Business Worldwide",
-    "author": "Unknown",
-    "publishedAt": "2026-07-27T16:44:01.000Z",
-    "url": "https://www.musicbusinessworldwide.com/universal-music-group-completes-e500-million-share-buyback-program/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-07-28T01:29:44.734Z"
-  },
-  {
-    "id": "news-1785202184733-6",
-    "title": "Google’s AI search is rapidly becoming the default, new data shows",
-    "summary": "Google’s AI Overviews now appear in 43% of searches, underscoring how quickly AI-generated answers are becoming the default way people discover information online.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-07-27T15:57:12.000Z",
-    "url": "https://techcrunch.com/2026/07/27/googles-ai-search-is-rapidly-becoming-the-default-new-data-shows/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-07-28T01:29:44.733Z"
-  },
-  {
-    "id": "news-1785202184734-35",
-    "title": "Ari Gelaw promoted to SVP, Creative A&R at Sony Music Publishing",
-    "summary": "Gelaw will remain based in the company's Los Angeles office, reporting to SMP President, Head of US A&R Katie Welle.\nSource",
-    "category": "industry-news",
-    "source": "Music Business Worldwide",
-    "author": "Unknown",
-    "publishedAt": "2026-07-27T15:52:22.000Z",
-    "url": "https://www.musicbusinessworldwide.com/ari-gelaw-promoted-to-svp-creative-ar-at-sony-music-publishing/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-07-28T01:29:44.734Z"
-  },
-  {
-    "id": "news-1785202184733-7",
-    "title": "Power up your AI infrastructure! A first look at the Smart Systems Stage agenda at TechCrunch Disrupt 2026",
-    "summary": "At TechCrunch Disrupt 2026, the Smart Systems Stage will be where energy, infrastructure, and technology collide, covering everything from fusion breakthroughs to the grid strain AI is putting on the entire economy.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-07-27T15:30:00.000Z",
-    "url": "https://techcrunch.com/2026/07/27/power-up-your-ai-infrastructure-a-first-look-at-the-smart-systems-stage-agenda-at-techcrunch-disrupt-2026/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-07-28T01:29:44.733Z"
-  },
-  {
-    "id": "news-1785202184734-36",
-    "title": "Snapchat now lets users share and save Spotify songs via Snap Map, used by 450m people a month",
-    "summary": "Social media platform Snap has launched Now Playing on Snap Map, a feature that lets Snapchat users share the music they are listening to\nSource",
-    "category": "industry-news",
-    "source": "Music Business Worldwide",
-    "author": "Unknown",
-    "publishedAt": "2026-07-27T15:27:23.000Z",
-    "url": "https://www.musicbusinessworldwide.com/snapchat-now-lets-users-share-and-save-spotify-songs-via-snap-map-used-by-450m-people-a-month/",
-    "imageUrl": null,
-    "tags": [
-      "Spotify"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-07-28T01:29:44.734Z"
-  },
-  {
-    "id": "news-1785202184733-8",
-    "title": "Ilya Sutskever’s Safe Superintelligence partners with Nvidia to scale its AI research",
-    "summary": "After two years in stealth, Safe Superintelligence has announced a long-term partnership with Nvidia as it prepares to scale to its next phase. ",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-07-27T15:01:50.000Z",
-    "url": "https://techcrunch.com/2026/07/27/ilya-sutskevers-safe-superintelligence-partners-with-nvidia-to-scale-its-ai-research/",
-    "imageUrl": null,
-    "tags": [
-      "AI",
-      "Research",
-      "Partnership"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-07-28T01:29:44.733Z"
+    "fetchedAt": "2026-07-29T01:29:59.971Z"
   }
 ]
