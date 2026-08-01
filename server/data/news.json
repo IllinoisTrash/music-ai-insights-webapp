@@ -1,311 +1,310 @@
 [
   {
-    "id": "news-1785462600915-23",
-    "title": "Anthropic Says Claude Hacked Real Systems During Cybersecurity Tests",
-    "summary": "In a review triggered by OpenAI's Hugging Face incident, Anthropic discovered three of its AI models had breached real organizations during third-party evaluations.",
+    "id": "news-1785549048364-40",
+    "title": "In Canada: Angine de Poitrine, PUP & More Make SOCAN Polaris Song Prize Short List",
+    "summary": "Also this week: SOCAN acquires the Canadian Musical Reproduction Rights Agency (CMRRA).",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-08-01T00:45:45.000Z",
+    "url": "https://www.billboard.com/pro/angine-de-poitrine-polaris-song-prize-list-canada-news/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-08-01T01:50:48.364Z"
+  },
+  {
+    "id": "news-1785549048364-41",
+    "title": "What Every Music Company Made in Q2 2026 (Updating)",
+    "summary": "From Live Nation to UMG to SiriusXM, a roundup of what the biggest publicly traded music companies have reported so far for the quarter ending June 30. ",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-07-31T23:57:37.000Z",
+    "url": "https://www.billboard.com/lists/music-company-earnings-q2-2026-umg-live-nation-hybe-made/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-08-01T01:50:48.364Z"
+  },
+  {
+    "id": "news-1785549048364-42",
+    "title": "BE:FIRST Is Ready for the World: Inside the J-Pop Superstars’ Long-Planned U.S. Breakthrough",
+    "summary": "The chart-topping Japanese boy band is taking on the U.S. market with new partners including The Orchard, THE·TEAM and Nebula17.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-07-31T23:12:31.000Z",
+    "url": "https://www.billboard.com/business/record-labels/befirst-us-partners-new-song-ep-interview-1236307108/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-08-01T01:50:48.364Z"
+  },
+  {
+    "id": "news-1785549048362-0",
+    "title": "OpenAI reportedly finds evidence that more of its agents ran amok",
+    "summary": "OpenAI has reportedly found evidence of additional agent misbehavior as it looks into the incident that occurred with Hugging Face. ",
+    "category": "trends-analysis",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-07-31T22:47:26.000Z",
+    "url": "https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-08-01T01:50:48.362Z"
+  },
+  {
+    "id": "news-1785549048364-43",
+    "title": "Karol G Invites ‘Everyone To Be A Little More Dramatic, A Little More Extra’ With New Album ‘No Me Arrepiento de Sentir Tanto’",
+    "summary": "The Colombian artist’s sixth studio album arrives on Aug. 7.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-07-31T22:32:23.000Z",
+    "url": "https://www.billboard.com/music/latin/karol-g-new-album-no-me-arrepiento-de-sentir-tanto-2-1236307475/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-08-01T01:50:48.364Z"
+  },
+  {
+    "id": "news-1785549048364-44",
+    "title": "SB19 Talks Performing ‘Lawless’ At Lollapalooza For the First Time & Being the First Filipino Group to Perform At the Festival | Billboard News",
+    "summary": "SB19 talks about performing “Lawless” at Lollapalooza, being the first Filipino group to perform at the Chicago festival, giving the fans a little taste of their song for the upcoming Dreamworks animated movie Forgotten Island, performing at the Grammy Museum and who they’re excited to watch at Lollapalooza while they’re at the festival. Tetris Kelly   […]",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-07-31T22:15:12.000Z",
+    "url": "https://www.billboard.com/video/sb19-lawless-lollapalooza-interview/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-08-01T01:50:48.364Z"
+  },
+  {
+    "id": "news-1785549048364-45",
+    "title": "Tom Corson Named COO at Warner Music Group",
+    "summary": "The executive, who succeeds Armin Zerza in the role, has served as co-chairman and COO at Warner Records since 2018.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-07-31T21:30:25.000Z",
+    "url": "https://www.billboard.com/pro/tom-corson-coo-warner-music-group/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-08-01T01:50:48.364Z"
+  },
+  {
+    "id": "news-1785549048363-32",
+    "title": "Tom Corson promoted to new role as COO of Warner Music Group",
+    "summary": "Warner Records Co-Chairman and COO Tom Corson has been promoted to Chief Operating Officer (COO) of Warner Music Group, reporting directly to WMG CEO Robert Kyncl. Corson succeeds the outgoing Armin Zerza, who WMG announced earlier is leaving his dual CFO/COO role at the company. In his new role, Corson will bring global marketing, merch, … Continued\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-07-31T21:07:54.000Z",
+    "url": "https://www.musicbusinessworldwide.com/tom-corson-promoted-to-new-role-as-coo-of-warner-music-group/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-08-01T01:50:48.363Z"
+  },
+  {
+    "id": "news-1785549048363-33",
+    "title": "Armin Zerza exits as Warner Music Group CFO and COO",
+    "summary": "Zerza will remain available to WMG through the end of the fiscal year to support the transition.\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-07-31T21:04:31.000Z",
+    "url": "https://www.musicbusinessworldwide.com/warner-music-groups-armin-zerza-lou-dickler-appointed-acting-cfo/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-08-01T01:50:48.363Z"
+  },
+  {
+    "id": "news-1785549048362-1",
+    "title": "Google nixes its Earth AI feature one day after launch, amid criticism it would spread misinformation",
+    "summary": "A tool that allowed anyone to generate fake AI-generated imagery and superimpose it over real Google Earth maps quickly spurred backlash.",
+    "category": "tech-innovation",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-07-31T19:47:28.000Z",
+    "url": "https://techcrunch.com/2026/07/31/google-nixes-its-earth-ai-feature-one-day-after-launch-amid-criticism-it-would-spread-misinformation/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-08-01T01:50:48.362Z"
+  },
+  {
+    "id": "news-1785549048363-22",
+    "title": "Chinese AI Researchers Are Finding Their Voice on X",
+    "summary": "As OpenAI and Anthropic employees grow quieter online, researchers at Chinese AI labs are flocking to X to explain their work, recruit talent, and shape the global conversation on AI.",
     "category": "ai-research",
     "source": "Wired AI",
     "author": "Unknown",
-    "publishedAt": "2026-07-31T01:24:26.000Z",
-    "url": "https://www.wired.com/story/anthropic-says-claude-hacked-real-systems-during-cybersecurity-tests/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-07-31T01:50:00.915Z"
-  },
-  {
-    "id": "news-1785462600914-0",
-    "title": "Anthropic says its own AI models breached three companies during security tests",
-    "summary": "After OpenAI's models broke into Hugging Face, Anthropic checked its own history and found three similar incidents",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-07-31T01:06:54.000Z",
-    "url": "https://techcrunch.com/2026/07/30/anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-07-31T01:50:00.914Z"
-  },
-  {
-    "id": "news-1785462600914-1",
-    "title": "AI hedge fund Situational Awareness may have sold its public portfolio, but it still has its Anthropic shares",
-    "summary": "The former OpenAI researcher’s fund was forced to unwind public equities after leveraged public bets plummeted. But he still has cards to play.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-07-30T23:25:58.000Z",
-    "url": "https://techcrunch.com/2026/07/30/ai-hedge-fund-situational-awareness-may-have-sold-its-public-portfolio-but-it-still-has-its-anthropic-shares/",
+    "publishedAt": "2026-07-31T18:14:43.000Z",
+    "url": "https://www.wired.com/story/chinese-ai-researchers-are-finding-their-voice-on-x/",
     "imageUrl": null,
     "tags": [
       "AI",
       "Research"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-07-31T01:50:00.914Z"
+    "fetchedAt": "2026-08-01T01:50:48.363Z"
   },
   {
-    "id": "news-1785462600916-39",
-    "title": "Desert Hearts Returns With Intimate Microfest After Pausing Flagship Festival",
-    "summary": "The house and techno collective will host a new five-day event featuring DJ Minx, Stacey Pullen, Danny Daze and more, and has also released a new collaborative single.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-07-30T22:40:35.000Z",
-    "url": "https://www.billboard.com/music/music-news/desert-hearts-returns-with-microfest-after-pausing-festival-1236306749/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-07-31T01:50:00.916Z"
-  },
-  {
-    "id": "news-1785462600916-40",
-    "title": "Here’s Where to Get Last-Minute Guns N’ Roses Tour Tickets Online",
-    "summary": "The legendary rock band has tour dates across the United States in August and September.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-07-30T21:37:41.000Z",
-    "url": "https://www.billboard.com/culture/product-recommendations/guns-n-roses-2026-tour-tickets-shop-buy-online-1236306281/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-07-31T01:50:00.916Z"
-  },
-  {
-    "id": "news-1785462600916-41",
-    "title": "Julieta Venegas Turns Memory Into ‘Norteña’ at LAMC: ‘It Made Sense to Write a Memoir About My Relationship to Music’",
-    "summary": "The Mexican singer-songwriter reflected on homecoming and the emotional threads connecting her new album and book.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-07-30T21:35:26.000Z",
-    "url": "https://www.billboard.com/music/latin/julieta-venegas-nortena-album-memoir-lamc-panel-2026-1236306575/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-07-31T01:50:00.916Z"
-  },
-  {
-    "id": "news-1785462600916-42",
-    "title": "The 21 Best Songs About Being Uncool, From Taylor Swift to Echosmith (Staff Picks)",
-    "summary": "Let your freak flag fly with more songs by Pink, Weezer, Olivia Rodrigo and Beck.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-07-30T21:19:01.000Z",
-    "url": "https://www.billboard.com/lists/taylor-swift-echosmith-top-songs-about-being-uncool/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-07-31T01:50:00.916Z"
-  },
-  {
-    "id": "news-1785462600916-43",
-    "title": "Universal Music Group Sees Healthy Revenue Gain of 5.3% to $7.2B in First Half of 2026",
-    "summary": "Releases by Olivia Rodrigo and Noah Kahan boosted its performance, though overall net profitability was impacted by Downtown acquisition-related costs.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-07-30T20:58:37.000Z",
-    "url": "https://www.billboard.com/pro/universal-music-q2-earnings-revenue-up-first-half-2026/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-07-31T01:50:00.916Z"
-  },
-  {
-    "id": "news-1785462600916-44",
-    "title": "Here’s How to Get Disney+ Online for Free",
-    "summary": "Disney+ doesn't offer a free trial. However, there's a way to get streaming access at no cost.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-07-30T20:46:52.000Z",
-    "url": "https://www.billboard.com/culture/product-recommendations/how-to-get-disney-plus-free-trial-streaming-online-1236306188/",
-    "imageUrl": null,
-    "tags": [
-      "Streaming"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-07-31T01:50:00.916Z"
-  },
-  {
-    "id": "news-1785462600916-45",
-    "title": "Cole Swindell’s ‘Girl Dad’ Connects Three Generations in a New Life Chapter: ‘These Kinds of Songs Are Why I Love Country Music’",
-    "summary": " Billboard's Makin' Tracks column looks at the writing and recording behind Cole Swindell's \"Girl Dad.\"",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-07-30T20:42:22.000Z",
-    "url": "https://www.billboard.com/music/country/cole-swindell-girl-dad-makin-tracks-1236306544/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-07-31T01:50:00.916Z"
-  },
-  {
-    "id": "news-1785462600916-46",
-    "title": "Milo J & Trueno Double Down on Their Argentine Roots at LAMC: ‘The Best Thing We Could Do Was Make Music With Our Identity’",
-    "summary": "In a conversation with Billboard's Leila Cobo, the Argentine artists reflected on authenticity, belonging and the road to global reach.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-07-30T20:35:33.000Z",
-    "url": "https://www.billboard.com/music/latin/milo-j-trueno-lamc-panel-2026-1236306496/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-07-31T01:50:00.916Z"
-  },
-  {
-    "id": "news-1785462600914-2",
-    "title": "Judge says Trump admin still lacks evidence for Anthropic ‘supply-chain risk’ label",
-    "summary": "A federal judge said the Trump administration has not presented enough evidence to justify labeling Anthropic a supply-chain risk, casting doubt on the government's ban on its AI technology.",
+    "id": "news-1785549048362-2",
+    "title": "Sam Altman isn’t the only one who wants to pump the brakes on AI",
+    "summary": "After years of pushing full speed ahead on AI, OpenAI CEO Sam Altman says maybe it’s time for the AI industry to “pace” itself. The comments came just days after one of OpenAI’s own models broke out of its test environment and got tangled up in a breach at Hugging Face — though as Equity’s hosts point out, sloppy security seems to have […]",
     "category": "ai-research",
     "source": "TechCrunch AI",
     "author": "Unknown",
-    "publishedAt": "2026-07-30T20:26:38.000Z",
-    "url": "https://techcrunch.com/2026/07/30/judge-says-trump-admin-still-lacks-evidence-for-anthropic-supply-chain-risk-label/",
+    "publishedAt": "2026-07-31T17:26:32.000Z",
+    "url": "https://techcrunch.com/video/sam-altman-isnt-the-only-one-who-wants-to-pump-the-brakes-on-ai/",
     "imageUrl": null,
     "tags": [
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-07-31T01:50:00.914Z"
+    "fetchedAt": "2026-08-01T01:50:48.362Z"
   },
   {
-    "id": "news-1785462600915-24",
-    "title": "Everyone Is Freaking Out About OpenAI and Anthropic’s Race for Dominance",
-    "summary": "Researchers fear AI is moving too fast, while Mark Zuckerberg is worried about who owns it. Plus: Inside Black Forest Labs’ push into robotics.",
-    "category": "tech-innovation",
-    "source": "Wired AI",
-    "author": "Unknown",
-    "publishedAt": "2026-07-30T20:12:57.000Z",
-    "url": "https://www.wired.com/story/everyone-is-freaking-out-about-openai-and-anthropics-race-for-dominance/",
-    "imageUrl": null,
-    "tags": [
-      "AI",
-      "Research"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-07-31T01:50:00.915Z"
-  },
-  {
-    "id": "news-1785462600915-3",
-    "title": "Friend, the lonely AI wearable, returns with a new voice and a much bigger price tag",
-    "summary": "Friend, the AI wearable, can now talk to its users — for an enhanced price. ",
+    "id": "news-1785549048363-3",
+    "title": "Snapchat no longer rewards fully AI-generated Spotlight content",
+    "summary": "Snapchat has adjusted its recommendation systems to ensure that only videos created by real people are eligible for Spotlight recommendations, taking a stance against AI slop.",
     "category": "ai-research",
     "source": "TechCrunch AI",
     "author": "Unknown",
-    "publishedAt": "2026-07-30T19:44:16.000Z",
-    "url": "https://techcrunch.com/2026/07/30/friend-the-lonely-ai-wearable-returns-with-a-new-voice-and-a-much-bigger-price-tag/",
+    "publishedAt": "2026-07-31T16:49:08.000Z",
+    "url": "https://techcrunch.com/2026/07/31/snapchat-no-longer-rewards-fully-ai-generated-spotlight-content/",
     "imageUrl": null,
     "tags": [
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-07-31T01:50:00.915Z"
+    "fetchedAt": "2026-08-01T01:50:48.363Z"
   },
   {
-    "id": "news-1785462600915-4",
-    "title": "Google says it fixed more Chrome bugs in June than over the past two years, thanks to AI",
-    "summary": "As experts have warned for the last two years, some companies — like Microsoft and now Google — are finding and patching an exponential number of bugs in their products, thanks to the use of LLMs and AI tools.",
+    "id": "news-1785549048363-4",
+    "title": "Siri AI could come with a paywall for power users",
+    "summary": "Apple CEO Tim Cook envisions users being able to buy more compute for Siri AI via Apple's existing iCloud+ subscriptions.",
     "category": "ai-research",
     "source": "TechCrunch AI",
     "author": "Unknown",
-    "publishedAt": "2026-07-30T18:57:58.000Z",
-    "url": "https://techcrunch.com/2026/07/30/google-says-it-fixed-more-chrome-bugs-in-june-than-over-the-past-two-years-thanks-to-ai/",
+    "publishedAt": "2026-07-31T16:08:18.000Z",
+    "url": "https://techcrunch.com/2026/07/31/siri-ai-could-come-with-a-paywall-for-power-users/",
     "imageUrl": null,
     "tags": [
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-07-31T01:50:00.915Z"
+    "fetchedAt": "2026-08-01T01:50:48.363Z"
   },
   {
-    "id": "news-1785462600915-5",
-    "title": "LinkedIn adds a button to report AI-generated ‘slop’",
-    "summary": "LinkedIn is introducing new ways to reduce low-quality AI-generated posts, including a “seems like AI slop” reporting option. It's also replacing its own AI writing feature with a proofreading tool.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-07-30T18:05:21.000Z",
-    "url": "https://techcrunch.com/2026/07/30/linkedin-adds-a-button-to-report-ai-generated-slop/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-07-31T01:50:00.915Z"
-  },
-  {
-    "id": "news-1785462600916-32",
-    "title": "Universal Music Group generated $3.83bn in Q2, up 13.3% YoY – driven by Noah Kahan, BTS, Olivia Rodrigo, Drake, and Olivia Dean",
-    "summary": "Universal Music Group generated revenues of EUR €3.294 billion (USD $3.83bn) across all of its divisions (including recorded music, publishing, and more) in Q2 (the three months ending June 30, 2026). That’s according to UMG‘s fresh set of quarterly results, published today (July 30). They reveal that UMG’s overall Q2 revenue grew 13.3% YoY at … Continued\nSource",
+    "id": "news-1785549048363-34",
+    "title": "From Universal Music’s $3.83B quarter to Suno’s German court defeat… it’s MBW’s Weekly Round-up",
+    "summary": "The biggest headlines from the past few days...\nSource",
     "category": "industry-news",
     "source": "Music Business Worldwide",
     "author": "Unknown",
-    "publishedAt": "2026-07-30T17:59:26.000Z",
-    "url": "https://www.musicbusinessworldwide.com/universal-music-group-generated-3-83bn-in-q2-up-13-3-yoy-driven-by-noah-kahan-bts-olivia-rodrigo-drake-and-olivia-dean/",
+    "publishedAt": "2026-07-31T15:32:50.000Z",
+    "url": "https://www.musicbusinessworldwide.com/from-universal-musics-3-83b-quarter-to-sunos-german-court-defeat-its-mbws-weekly-round-up/",
     "imageUrl": null,
     "tags": [],
     "readTime": 1,
-    "fetchedAt": "2026-07-31T01:50:00.916Z"
+    "fetchedAt": "2026-08-01T01:50:48.363Z"
   },
   {
-    "id": "news-1785462600915-25",
-    "title": "Nvidia’s Open Source Alliance Is Missing Some Key Names: OpenAI and Anthropic",
-    "summary": "This week on Uncanny Valley, we discuss the open- vs. closed-source debate in AI, key players in White House AI policy, and how to stop your chatbot logs from showing up in search-engine results.",
+    "id": "news-1785549048363-23",
+    "title": "AI Slop Melodramas Are Taking Over X—and Their Creators Are Cashing In",
+    "summary": "Viral tales of good triumphing over evil are racking up millions of views. They’re almost entirely AI-generated clickbait.",
     "category": "tech-innovation",
     "source": "Wired AI",
     "author": "Unknown",
-    "publishedAt": "2026-07-30T17:51:10.000Z",
-    "url": "https://www.wired.com/story/nvidias-open-source-alliance-snubs-openai-and-anthropic/",
+    "publishedAt": "2026-07-31T15:00:09.000Z",
+    "url": "https://www.wired.com/story/ai-slop-melodramas-are-taking-over-x-and-their-creators-are-cashing-in/",
     "imageUrl": null,
     "tags": [
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-07-31T01:50:00.915Z"
+    "fetchedAt": "2026-08-01T01:50:48.363Z"
   },
   {
-    "id": "news-1785462600915-26",
-    "title": "Chrome Needs Twice-a-Week Patching Thanks to AI Bug Hunting",
-    "summary": "The two Chrome updates in June patched more bugs than the 23 updates before them. Now, Google is ramping up its patching schedule thanks to AI-assisted vulnerability discovery.",
+    "id": "news-1785549048363-24",
+    "title": "This AI Assistant Wants to Make Up for Your Boyfriend’s Incompetence",
+    "summary": "An ad for Orchid suggests the AI agent can fix relationship problems by simply doing everything for inconsiderate partners.",
     "category": "tech-innovation",
     "source": "Wired AI",
     "author": "Unknown",
-    "publishedAt": "2026-07-30T17:00:00.000Z",
-    "url": "https://www.wired.com/story/chrome-needs-twice-a-week-patching-thanks-to-ai-bug-hunting-for-now/",
+    "publishedAt": "2026-07-31T14:47:26.000Z",
+    "url": "https://www.wired.com/story/this-ai-assistants-whole-pitch-is-making-up-for-your-boyfriends-incompetence/",
     "imageUrl": null,
     "tags": [
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-07-31T01:50:00.915Z"
+    "fetchedAt": "2026-08-01T01:50:48.363Z"
   },
   {
-    "id": "news-1785462600916-33",
-    "title": "UMG’s new releases in India will go exclusively to paid streaming subscribers for first 72 hours",
-    "summary": "Sir Lucian Grainge, Chairman and CEO of UMG, announced the move on the company's earnings call on Thursday (July 30).\nSource",
-    "category": "industry-news",
-    "source": "Music Business Worldwide",
+    "id": "news-1785549048363-5",
+    "title": "Smallest.ai raises $13M to build ultra-fast voice AI that sounds genuinely human",
+    "summary": "The startup is building voice models designed to make AI phone calls pass the Turing test.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
     "author": "Unknown",
-    "publishedAt": "2026-07-30T16:29:38.000Z",
-    "url": "https://www.musicbusinessworldwide.com/universal-musics-new-releases-in-india-will-go-exclusively-to-paying-subscribers-for-first-72-hours/",
+    "publishedAt": "2026-07-31T14:47:11.000Z",
+    "url": "https://techcrunch.com/2026/07/31/smallest-ai-raises-13m-to-build-ultra-fast-voice-ai-that-sounds-genuinely-human/",
     "imageUrl": null,
     "tags": [
       "AI",
-      "Streaming"
+      "Startup"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-07-31T01:50:00.916Z"
+    "fetchedAt": "2026-08-01T01:50:48.363Z"
+  },
+  {
+    "id": "news-1785549048363-6",
+    "title": "AI labs want to pump the brakes, but Amazon and SpaceX are still blasting off",
+    "summary": "After years of pushing full speed ahead on AI, OpenAI CEO Sam Altman says maybe it’s time for the AI industry to “pace” itself. The comments came just days after one of OpenAI’s own models broke out of its test environment and got tangled up in a breach at Hugging Face — though as Equity’s hosts point out, sloppy security seems to have […]",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-07-31T14:00:00.000Z",
+    "url": "https://techcrunch.com/podcast/ai-labs-want-to-pump-the-brakes-but-amazon-and-spacex-are-still-blasting-off/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-08-01T01:50:48.363Z"
+  },
+  {
+    "id": "news-1785549048364-35",
+    "title": "Live Nation generated $7.7B in Q2 revenue, up 9% YoY, driven by a 10% rise in fan attendance",
+    "summary": "Live Nation's Concerts division drew 49 million fans in Q2\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-07-31T12:30:24.000Z",
+    "url": "https://www.musicbusinessworldwide.com/live-nation-generated-7-7bn-in-q2-revenue-up-9-yoy-driven-by-a-10-rise-in-fan-attendance/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-08-01T01:50:48.364Z"
   }
 ]
