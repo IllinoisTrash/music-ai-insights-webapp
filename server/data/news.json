@@ -1,6 +1,144 @@
 [
   {
-    "id": "news-1785549048364-40",
+    "id": "news-1785635262203-38",
+    "title": "Billie Eilish’s ‘Hit Me Hard and Soft: The Tour’ Film Hits Streaming This Week",
+    "summary": "The concert film, made with James Cameron, debuts on streaming on Aug. 6 via Paramount+.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-08-02T00:24:23.000Z",
+    "url": "https://www.billboard.com/culture/tv-film/billie-eilishs-hit-me-hard-and-soft-tour-film-streaming-1236307658/",
+    "imageUrl": null,
+    "tags": [
+      "Streaming"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-08-02T01:47:42.203Z"
+  },
+  {
+    "id": "news-1785635262202-0",
+    "title": "YouTuber Hank Green says his AI usage is ‘not healthy’",
+    "summary": "Green offered a remarkable apology, saying that \"the level of dopamine that I've been getting from interacting with LLMs ... is not healthy for me or good for the world.\"",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-08-01T19:45:45.000Z",
+    "url": "https://techcrunch.com/2026/08/01/youtuber-hank-green-says-his-ai-usage-is-not-healthy/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-08-02T01:47:42.202Z"
+  },
+  {
+    "id": "news-1785635262203-39",
+    "title": "‘¡Viva México!’ Harry Styles Kicks Off His GNP Seguros Stadium Residency: 5 Best Moments",
+    "summary": "The British superstar performed the first of six concerts in Mexico City on July 31, on a night that sealed his love for the Latin American country.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-08-01T19:22:03.000Z",
+    "url": "https://www.billboard.com/lists/harry-styles-together-together-tour-mexico-best-moments/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-08-02T01:47:42.203Z"
+  },
+  {
+    "id": "news-1785635262203-40",
+    "title": "Modest Mouse Replaces Guitarist Simon O’Connor Amid Allegations",
+    "summary": "Les Savy Fav guitarist Seth Jabour will fill in on the band's upcoming tour.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-08-01T19:09:20.000Z",
+    "url": "https://www.billboard.com/music/music-news/modest-mouse-replaces-guitarist-simon-oconnor-allegations-1236307608/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-08-02T01:47:42.203Z"
+  },
+  {
+    "id": "news-1785635262202-1",
+    "title": "Sam Altman is still making the case for parenting via ChatGPT",
+    "summary": "OpenAI's CEO seemed excited to share a \"cool use case\" for parents.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-08-01T17:07:34.000Z",
+    "url": "https://techcrunch.com/2026/08/01/sam-altman-is-still-making-the-case-for-parenting-via-chatgpt/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-08-02T01:47:42.202Z"
+  },
+  {
+    "id": "news-1785635262203-41",
+    "title": "Glen Hansard’s Family Announces Public Memorial and Funeral Details in Dublin",
+    "summary": "“Music at the funeral will be provided by Glen’s friends and family,\" the singer-songwriter's family said.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-08-01T16:57:54.000Z",
+    "url": "https://www.billboard.com/music/music-news/glen-hansard-funeral-memorial-details-announced-1236307573/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-08-02T01:47:42.203Z"
+  },
+  {
+    "id": "news-1785635262203-20",
+    "title": "7 States’ Water Systems Hit by Cyberattacks Likely Tied to Iran",
+    "summary": "Plus: The FBI eyes AI-powered tech to detect future crimes, Russia charges Telegram’s founder, xAI sues to stop a state’s “nudification” ban, and the Democrats learn a lesson about getting scammed.",
+    "category": "tech-innovation",
+    "source": "Wired AI",
+    "author": "Unknown",
+    "publishedAt": "2026-08-01T10:30:00.000Z",
+    "url": "https://www.wired.com/story/security-news-this-week-7-states-water-systems-hit-by-cyberattacks-likely-tied-to-iran/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-08-02T01:47:42.203Z"
+  },
+  {
+    "id": "news-1785635262203-21",
+    "title": "The OpenAI and Anthropic AI Hacking Sprees Are a Messy New Legal Frontier",
+    "summary": "Both major AI labs’ models broke containment, escaped onto the internet, and hacked other companies. If a human had done that, the law would likely be against them. But a bot?",
+    "category": "tech-innovation",
+    "source": "Wired AI",
+    "author": "Unknown",
+    "publishedAt": "2026-08-01T09:30:00.000Z",
+    "url": "https://www.wired.com/story/openai-anthropic-ai-hacking-sprees-illegal/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-08-02T01:47:42.203Z"
+  },
+  {
+    "id": "news-1785635262203-42",
+    "title": "Olivia Rodrigo and Yungblud Join Smashing Pumpkins for Surprise Lollapalooza Set",
+    "summary": "The set marked the Chicago-bred band's first Lollapalooza headlining slot in 32 years — they last played the festival in 1994.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-08-01T07:27:22.000Z",
+    "url": "https://www.billboard.com/music/rock/olivia-rodrigo-yungblud-join-smashing-pumpkins-lollapalooza-set-1236307547/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-08-02T01:47:42.203Z"
+  },
+  {
+    "id": "news-1785635262203-43",
     "title": "In Canada: Angine de Poitrine, PUP & More Make SOCAN Polaris Song Prize Short List",
     "summary": "Also this week: SOCAN acquires the Canadian Musical Reproduction Rights Agency (CMRRA).",
     "category": "industry-news",
@@ -11,38 +149,10 @@
     "imageUrl": null,
     "tags": [],
     "readTime": 1,
-    "fetchedAt": "2026-08-01T01:50:48.364Z"
+    "fetchedAt": "2026-08-02T01:47:42.203Z"
   },
   {
-    "id": "news-1785549048364-41",
-    "title": "What Every Music Company Made in Q2 2026 (Updating)",
-    "summary": "From Live Nation to UMG to SiriusXM, a roundup of what the biggest publicly traded music companies have reported so far for the quarter ending June 30. ",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-07-31T23:57:37.000Z",
-    "url": "https://www.billboard.com/lists/music-company-earnings-q2-2026-umg-live-nation-hybe-made/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-08-01T01:50:48.364Z"
-  },
-  {
-    "id": "news-1785549048364-42",
-    "title": "BE:FIRST Is Ready for the World: Inside the J-Pop Superstars’ Long-Planned U.S. Breakthrough",
-    "summary": "The chart-topping Japanese boy band is taking on the U.S. market with new partners including The Orchard, THE·TEAM and Nebula17.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-07-31T23:12:31.000Z",
-    "url": "https://www.billboard.com/business/record-labels/befirst-us-partners-new-song-ep-interview-1236307108/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-08-01T01:50:48.364Z"
-  },
-  {
-    "id": "news-1785549048362-0",
+    "id": "news-1785635262202-2",
     "title": "OpenAI reportedly finds evidence that more of its agents ran amok",
     "summary": "OpenAI has reportedly found evidence of additional agent misbehavior as it looks into the incident that occurred with Hugging Face. ",
     "category": "trends-analysis",
@@ -55,54 +165,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-08-01T01:50:48.362Z"
+    "fetchedAt": "2026-08-02T01:47:42.202Z"
   },
   {
-    "id": "news-1785549048364-43",
-    "title": "Karol G Invites ‘Everyone To Be A Little More Dramatic, A Little More Extra’ With New Album ‘No Me Arrepiento de Sentir Tanto’",
-    "summary": "The Colombian artist’s sixth studio album arrives on Aug. 7.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-07-31T22:32:23.000Z",
-    "url": "https://www.billboard.com/music/latin/karol-g-new-album-no-me-arrepiento-de-sentir-tanto-2-1236307475/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-08-01T01:50:48.364Z"
-  },
-  {
-    "id": "news-1785549048364-44",
-    "title": "SB19 Talks Performing ‘Lawless’ At Lollapalooza For the First Time & Being the First Filipino Group to Perform At the Festival | Billboard News",
-    "summary": "SB19 talks about performing “Lawless” at Lollapalooza, being the first Filipino group to perform at the Chicago festival, giving the fans a little taste of their song for the upcoming Dreamworks animated movie Forgotten Island, performing at the Grammy Museum and who they’re excited to watch at Lollapalooza while they’re at the festival. Tetris Kelly   […]",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-07-31T22:15:12.000Z",
-    "url": "https://www.billboard.com/video/sb19-lawless-lollapalooza-interview/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-08-01T01:50:48.364Z"
-  },
-  {
-    "id": "news-1785549048364-45",
-    "title": "Tom Corson Named COO at Warner Music Group",
-    "summary": "The executive, who succeeds Armin Zerza in the role, has served as co-chairman and COO at Warner Records since 2018.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-07-31T21:30:25.000Z",
-    "url": "https://www.billboard.com/pro/tom-corson-coo-warner-music-group/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-08-01T01:50:48.364Z"
-  },
-  {
-    "id": "news-1785549048363-32",
+    "id": "news-1785635262203-30",
     "title": "Tom Corson promoted to new role as COO of Warner Music Group",
     "summary": "Warner Records Co-Chairman and COO Tom Corson has been promoted to Chief Operating Officer (COO) of Warner Music Group, reporting directly to WMG CEO Robert Kyncl. Corson succeeds the outgoing Armin Zerza, who WMG announced earlier is leaving his dual CFO/COO role at the company. In his new role, Corson will bring global marketing, merch, … Continued\nSource",
     "category": "industry-news",
@@ -115,10 +181,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-08-01T01:50:48.363Z"
+    "fetchedAt": "2026-08-02T01:47:42.203Z"
   },
   {
-    "id": "news-1785549048363-33",
+    "id": "news-1785635262203-31",
     "title": "Armin Zerza exits as Warner Music Group CFO and COO",
     "summary": "Zerza will remain available to WMG through the end of the fiscal year to support the transition.\nSource",
     "category": "industry-news",
@@ -131,10 +197,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-08-01T01:50:48.363Z"
+    "fetchedAt": "2026-08-02T01:47:42.203Z"
   },
   {
-    "id": "news-1785549048362-1",
+    "id": "news-1785635262202-3",
     "title": "Google nixes its Earth AI feature one day after launch, amid criticism it would spread misinformation",
     "summary": "A tool that allowed anyone to generate fake AI-generated imagery and superimpose it over real Google Earth maps quickly spurred backlash.",
     "category": "tech-innovation",
@@ -147,10 +213,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-08-01T01:50:48.362Z"
+    "fetchedAt": "2026-08-02T01:47:42.202Z"
   },
   {
-    "id": "news-1785549048363-22",
+    "id": "news-1785635262203-22",
     "title": "Chinese AI Researchers Are Finding Their Voice on X",
     "summary": "As OpenAI and Anthropic employees grow quieter online, researchers at Chinese AI labs are flocking to X to explain their work, recruit talent, and shape the global conversation on AI.",
     "category": "ai-research",
@@ -164,10 +230,10 @@
       "Research"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-08-01T01:50:48.363Z"
+    "fetchedAt": "2026-08-02T01:47:42.203Z"
   },
   {
-    "id": "news-1785549048362-2",
+    "id": "news-1785635262202-4",
     "title": "Sam Altman isn’t the only one who wants to pump the brakes on AI",
     "summary": "After years of pushing full speed ahead on AI, OpenAI CEO Sam Altman says maybe it’s time for the AI industry to “pace” itself. The comments came just days after one of OpenAI’s own models broke out of its test environment and got tangled up in a breach at Hugging Face — though as Equity’s hosts point out, sloppy security seems to have […]",
     "category": "ai-research",
@@ -180,10 +246,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-08-01T01:50:48.362Z"
+    "fetchedAt": "2026-08-02T01:47:42.202Z"
   },
   {
-    "id": "news-1785549048363-3",
+    "id": "news-1785635262202-5",
     "title": "Snapchat no longer rewards fully AI-generated Spotlight content",
     "summary": "Snapchat has adjusted its recommendation systems to ensure that only videos created by real people are eligible for Spotlight recommendations, taking a stance against AI slop.",
     "category": "ai-research",
@@ -196,10 +262,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-08-01T01:50:48.363Z"
+    "fetchedAt": "2026-08-02T01:47:42.202Z"
   },
   {
-    "id": "news-1785549048363-4",
+    "id": "news-1785635262202-6",
     "title": "Siri AI could come with a paywall for power users",
     "summary": "Apple CEO Tim Cook envisions users being able to buy more compute for Siri AI via Apple's existing iCloud+ subscriptions.",
     "category": "ai-research",
@@ -212,10 +278,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-08-01T01:50:48.363Z"
+    "fetchedAt": "2026-08-02T01:47:42.202Z"
   },
   {
-    "id": "news-1785549048363-34",
+    "id": "news-1785635262203-32",
     "title": "From Universal Music’s $3.83B quarter to Suno’s German court defeat… it’s MBW’s Weekly Round-up",
     "summary": "The biggest headlines from the past few days...\nSource",
     "category": "industry-news",
@@ -226,10 +292,10 @@
     "imageUrl": null,
     "tags": [],
     "readTime": 1,
-    "fetchedAt": "2026-08-01T01:50:48.363Z"
+    "fetchedAt": "2026-08-02T01:47:42.203Z"
   },
   {
-    "id": "news-1785549048363-23",
+    "id": "news-1785635262203-23",
     "title": "AI Slop Melodramas Are Taking Over X—and Their Creators Are Cashing In",
     "summary": "Viral tales of good triumphing over evil are racking up millions of views. They’re almost entirely AI-generated clickbait.",
     "category": "tech-innovation",
@@ -242,69 +308,6 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-08-01T01:50:48.363Z"
-  },
-  {
-    "id": "news-1785549048363-24",
-    "title": "This AI Assistant Wants to Make Up for Your Boyfriend’s Incompetence",
-    "summary": "An ad for Orchid suggests the AI agent can fix relationship problems by simply doing everything for inconsiderate partners.",
-    "category": "tech-innovation",
-    "source": "Wired AI",
-    "author": "Unknown",
-    "publishedAt": "2026-07-31T14:47:26.000Z",
-    "url": "https://www.wired.com/story/this-ai-assistants-whole-pitch-is-making-up-for-your-boyfriends-incompetence/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-08-01T01:50:48.363Z"
-  },
-  {
-    "id": "news-1785549048363-5",
-    "title": "Smallest.ai raises $13M to build ultra-fast voice AI that sounds genuinely human",
-    "summary": "The startup is building voice models designed to make AI phone calls pass the Turing test.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-07-31T14:47:11.000Z",
-    "url": "https://techcrunch.com/2026/07/31/smallest-ai-raises-13m-to-build-ultra-fast-voice-ai-that-sounds-genuinely-human/",
-    "imageUrl": null,
-    "tags": [
-      "AI",
-      "Startup"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-08-01T01:50:48.363Z"
-  },
-  {
-    "id": "news-1785549048363-6",
-    "title": "AI labs want to pump the brakes, but Amazon and SpaceX are still blasting off",
-    "summary": "After years of pushing full speed ahead on AI, OpenAI CEO Sam Altman says maybe it’s time for the AI industry to “pace” itself. The comments came just days after one of OpenAI’s own models broke out of its test environment and got tangled up in a breach at Hugging Face — though as Equity’s hosts point out, sloppy security seems to have […]",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-07-31T14:00:00.000Z",
-    "url": "https://techcrunch.com/podcast/ai-labs-want-to-pump-the-brakes-but-amazon-and-spacex-are-still-blasting-off/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-08-01T01:50:48.363Z"
-  },
-  {
-    "id": "news-1785549048364-35",
-    "title": "Live Nation generated $7.7B in Q2 revenue, up 9% YoY, driven by a 10% rise in fan attendance",
-    "summary": "Live Nation's Concerts division drew 49 million fans in Q2\nSource",
-    "category": "industry-news",
-    "source": "Music Business Worldwide",
-    "author": "Unknown",
-    "publishedAt": "2026-07-31T12:30:24.000Z",
-    "url": "https://www.musicbusinessworldwide.com/live-nation-generated-7-7bn-in-q2-revenue-up-9-yoy-driven-by-a-10-rise-in-fan-attendance/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-08-01T01:50:48.364Z"
+    "fetchedAt": "2026-08-02T01:47:42.203Z"
   }
 ]
