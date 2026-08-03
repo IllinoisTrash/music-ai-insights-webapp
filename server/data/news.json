@@ -1,22 +1,122 @@
 [
   {
-    "id": "news-1785635262203-38",
-    "title": "Billie Eilish’s ‘Hit Me Hard and Soft: The Tour’ Film Hits Streaming This Week",
-    "summary": "The concert film, made with James Cameron, debuts on streaming on Aug. 6 via Paramount+.",
+    "id": "news-1785721800078-38",
+    "title": "Fans Choose Ariana Grande’s ‘Petal’ as This Week’s Favorite New Music",
+    "summary": "The pop star's much-anticipated eighth album brought in more than 41% of the vote this week.",
     "category": "industry-news",
     "source": "Billboard",
     "author": "Unknown",
-    "publishedAt": "2026-08-02T00:24:23.000Z",
-    "url": "https://www.billboard.com/culture/tv-film/billie-eilishs-hit-me-hard-and-soft-tour-film-streaming-1236307658/",
+    "publishedAt": "2026-08-03T00:04:01.000Z",
+    "url": "https://www.billboard.com/music/music-news/ariana-grande-petal-best-new-music-poll-results-1236307916/",
     "imageUrl": null,
-    "tags": [
-      "Streaming"
-    ],
+    "tags": [],
     "readTime": 1,
-    "fetchedAt": "2026-08-02T01:47:42.203Z"
+    "fetchedAt": "2026-08-03T01:50:00.078Z"
   },
   {
-    "id": "news-1785635262202-0",
+    "id": "news-1785721800077-0",
+    "title": "Sam Altman and AI’s decel debate",
+    "summary": "On the latest episode of Equity, we discuss why Sam Altman has calling on the industry to \"pace the rate of AI development.\"",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-08-02T20:54:22.000Z",
+    "url": "https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-08-03T01:50:00.077Z"
+  },
+  {
+    "id": "news-1785721800078-39",
+    "title": "‘Michael’ Pulls Further Ahead of ‘Bohemian Rhapsody’ as Top-Grossing Music Biopic Worldwide: See the Top 25",
+    "summary": "It is the first biopic to top $1 billion in worldwide grosses.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-08-02T20:17:09.000Z",
+    "url": "https://www.billboard.com/lists/top-grossing-music-biopics-movies/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-08-03T01:50:00.078Z"
+  },
+  {
+    "id": "news-1785721800078-40",
+    "title": "Morgan Wallen, Garth Brooks, Taylor Swift & More Artists With Most Weeks at No. 1 on Top Country Albums Chart: Full List",
+    "summary": "Male solo artists dominate, though three female solo artists and two groups have also achieved the feat.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-08-02T20:13:53.000Z",
+    "url": "https://www.billboard.com/lists/top-country-albums-number-ones-biggest/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-08-03T01:50:00.078Z"
+  },
+  {
+    "id": "news-1785721800078-41",
+    "title": "Taylor Swift, The Beatles, Elvis & More Artists With the Most Weeks at No. 1 on the Billboard 200: Full List",
+    "summary": "Morgan Wallen is just nine weeks behind Garth Brooks as the core country artist with the most weeks at No. 1.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-08-02T20:00:12.000Z",
+    "url": "https://www.billboard.com/lists/most-weeks-at-no-1-billboard-200-taylor-swift-the-beatles/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-08-03T01:50:00.078Z"
+  },
+  {
+    "id": "news-1785721800078-42",
+    "title": "The Best Moments So Far From Lollapalooza 2026",
+    "summary": "Olivia Dean's elegance and JENNIE's new music previews led night three. ",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-08-02T19:56:56.000Z",
+    "url": "https://www.billboard.com/lists/lollapalooza-2026-best-moments-recap/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-08-03T01:50:00.078Z"
+  },
+  {
+    "id": "news-1785721800078-43",
+    "title": "Morgan Wallen’s ‘I’m the Problem’ Back at No. 1 on Billboard 200 for 14th Week",
+    "summary": "Plus, Charli xcx’s Music, Fashion, Film debuts in the top three.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-08-02T19:00:12.000Z",
+    "url": "https://www.billboard.com/music/chart-beat/morgan-wallen-problem-14th-week-number-one-billboard-200-1236307852/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-08-03T01:50:00.078Z"
+  },
+  {
+    "id": "news-1785721800078-20",
+    "title": "Europeans Are About to Find Out How Entrenched AI Is in Their Daily Lives",
+    "summary": "New EU rules stipulate that people must be told when they’re interacting with AI or looking at AI-generated or -edited content, leading to fear of “disclosure fatigue.”",
+    "category": "tech-innovation",
+    "source": "Wired AI",
+    "author": "Unknown",
+    "publishedAt": "2026-08-02T10:00:00.000Z",
+    "url": "https://www.wired.com/story/europeans-are-about-to-find-out-how-entrenched-ai-is-in-their-daily-lives/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-08-03T01:50:00.078Z"
+  },
+  {
+    "id": "news-1785721800077-1",
     "title": "YouTuber Hank Green says his AI usage is ‘not healthy’",
     "summary": "Green offered a remarkable apology, saying that \"the level of dopamine that I've been getting from interacting with LLMs ... is not healthy for me or good for the world.\"",
     "category": "ai-research",
@@ -29,38 +129,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-08-02T01:47:42.202Z"
+    "fetchedAt": "2026-08-03T01:50:00.077Z"
   },
   {
-    "id": "news-1785635262203-39",
-    "title": "‘¡Viva México!’ Harry Styles Kicks Off His GNP Seguros Stadium Residency: 5 Best Moments",
-    "summary": "The British superstar performed the first of six concerts in Mexico City on July 31, on a night that sealed his love for the Latin American country.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-08-01T19:22:03.000Z",
-    "url": "https://www.billboard.com/lists/harry-styles-together-together-tour-mexico-best-moments/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-08-02T01:47:42.203Z"
-  },
-  {
-    "id": "news-1785635262203-40",
-    "title": "Modest Mouse Replaces Guitarist Simon O’Connor Amid Allegations",
-    "summary": "Les Savy Fav guitarist Seth Jabour will fill in on the band's upcoming tour.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-08-01T19:09:20.000Z",
-    "url": "https://www.billboard.com/music/music-news/modest-mouse-replaces-guitarist-simon-oconnor-allegations-1236307608/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-08-02T01:47:42.203Z"
-  },
-  {
-    "id": "news-1785635262202-1",
+    "id": "news-1785721800077-2",
     "title": "Sam Altman is still making the case for parenting via ChatGPT",
     "summary": "OpenAI's CEO seemed excited to share a \"cool use case\" for parents.",
     "category": "ai-research",
@@ -73,26 +145,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-08-02T01:47:42.202Z"
+    "fetchedAt": "2026-08-03T01:50:00.077Z"
   },
   {
-    "id": "news-1785635262203-41",
-    "title": "Glen Hansard’s Family Announces Public Memorial and Funeral Details in Dublin",
-    "summary": "“Music at the funeral will be provided by Glen’s friends and family,\" the singer-songwriter's family said.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-08-01T16:57:54.000Z",
-    "url": "https://www.billboard.com/music/music-news/glen-hansard-funeral-memorial-details-announced-1236307573/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-08-02T01:47:42.203Z"
-  },
-  {
-    "id": "news-1785635262203-20",
+    "id": "news-1785721800078-21",
     "title": "7 States’ Water Systems Hit by Cyberattacks Likely Tied to Iran",
     "summary": "Plus: The FBI eyes AI-powered tech to detect future crimes, Russia charges Telegram’s founder, xAI sues to stop a state’s “nudification” ban, and the Democrats learn a lesson about getting scammed.",
     "category": "tech-innovation",
@@ -105,10 +161,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-08-02T01:47:42.203Z"
+    "fetchedAt": "2026-08-03T01:50:00.078Z"
   },
   {
-    "id": "news-1785635262203-21",
+    "id": "news-1785721800078-22",
     "title": "The OpenAI and Anthropic AI Hacking Sprees Are a Messy New Legal Frontier",
     "summary": "Both major AI labs’ models broke containment, escaped onto the internet, and hacked other companies. If a human had done that, the law would likely be against them. But a bot?",
     "category": "tech-innovation",
@@ -121,38 +177,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-08-02T01:47:42.203Z"
+    "fetchedAt": "2026-08-03T01:50:00.078Z"
   },
   {
-    "id": "news-1785635262203-42",
-    "title": "Olivia Rodrigo and Yungblud Join Smashing Pumpkins for Surprise Lollapalooza Set",
-    "summary": "The set marked the Chicago-bred band's first Lollapalooza headlining slot in 32 years — they last played the festival in 1994.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-08-01T07:27:22.000Z",
-    "url": "https://www.billboard.com/music/rock/olivia-rodrigo-yungblud-join-smashing-pumpkins-lollapalooza-set-1236307547/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-08-02T01:47:42.203Z"
-  },
-  {
-    "id": "news-1785635262203-43",
-    "title": "In Canada: Angine de Poitrine, PUP & More Make SOCAN Polaris Song Prize Short List",
-    "summary": "Also this week: SOCAN acquires the Canadian Musical Reproduction Rights Agency (CMRRA).",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-08-01T00:45:45.000Z",
-    "url": "https://www.billboard.com/pro/angine-de-poitrine-polaris-song-prize-list-canada-news/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-08-02T01:47:42.203Z"
-  },
-  {
-    "id": "news-1785635262202-2",
+    "id": "news-1785721800077-3",
     "title": "OpenAI reportedly finds evidence that more of its agents ran amok",
     "summary": "OpenAI has reportedly found evidence of additional agent misbehavior as it looks into the incident that occurred with Hugging Face. ",
     "category": "trends-analysis",
@@ -165,10 +193,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-08-02T01:47:42.202Z"
+    "fetchedAt": "2026-08-03T01:50:00.077Z"
   },
   {
-    "id": "news-1785635262203-30",
+    "id": "news-1785721800078-30",
     "title": "Tom Corson promoted to new role as COO of Warner Music Group",
     "summary": "Warner Records Co-Chairman and COO Tom Corson has been promoted to Chief Operating Officer (COO) of Warner Music Group, reporting directly to WMG CEO Robert Kyncl. Corson succeeds the outgoing Armin Zerza, who WMG announced earlier is leaving his dual CFO/COO role at the company. In his new role, Corson will bring global marketing, merch, … Continued\nSource",
     "category": "industry-news",
@@ -181,10 +209,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-08-02T01:47:42.203Z"
+    "fetchedAt": "2026-08-03T01:50:00.078Z"
   },
   {
-    "id": "news-1785635262203-31",
+    "id": "news-1785721800078-31",
     "title": "Armin Zerza exits as Warner Music Group CFO and COO",
     "summary": "Zerza will remain available to WMG through the end of the fiscal year to support the transition.\nSource",
     "category": "industry-news",
@@ -197,10 +225,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-08-02T01:47:42.203Z"
+    "fetchedAt": "2026-08-03T01:50:00.078Z"
   },
   {
-    "id": "news-1785635262202-3",
+    "id": "news-1785721800077-4",
     "title": "Google nixes its Earth AI feature one day after launch, amid criticism it would spread misinformation",
     "summary": "A tool that allowed anyone to generate fake AI-generated imagery and superimpose it over real Google Earth maps quickly spurred backlash.",
     "category": "tech-innovation",
@@ -213,10 +241,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-08-02T01:47:42.202Z"
+    "fetchedAt": "2026-08-03T01:50:00.077Z"
   },
   {
-    "id": "news-1785635262203-22",
+    "id": "news-1785721800078-23",
     "title": "Chinese AI Researchers Are Finding Their Voice on X",
     "summary": "As OpenAI and Anthropic employees grow quieter online, researchers at Chinese AI labs are flocking to X to explain their work, recruit talent, and shape the global conversation on AI.",
     "category": "ai-research",
@@ -230,10 +258,10 @@
       "Research"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-08-02T01:47:42.203Z"
+    "fetchedAt": "2026-08-03T01:50:00.078Z"
   },
   {
-    "id": "news-1785635262202-4",
+    "id": "news-1785721800077-5",
     "title": "Sam Altman isn’t the only one who wants to pump the brakes on AI",
     "summary": "After years of pushing full speed ahead on AI, OpenAI CEO Sam Altman says maybe it’s time for the AI industry to “pace” itself. The comments came just days after one of OpenAI’s own models broke out of its test environment and got tangled up in a breach at Hugging Face — though as Equity’s hosts point out, sloppy security seems to have […]",
     "category": "ai-research",
@@ -246,10 +274,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-08-02T01:47:42.202Z"
+    "fetchedAt": "2026-08-03T01:50:00.077Z"
   },
   {
-    "id": "news-1785635262202-5",
+    "id": "news-1785721800077-6",
     "title": "Snapchat no longer rewards fully AI-generated Spotlight content",
     "summary": "Snapchat has adjusted its recommendation systems to ensure that only videos created by real people are eligible for Spotlight recommendations, taking a stance against AI slop.",
     "category": "ai-research",
@@ -262,10 +290,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-08-02T01:47:42.202Z"
+    "fetchedAt": "2026-08-03T01:50:00.077Z"
   },
   {
-    "id": "news-1785635262202-6",
+    "id": "news-1785721800077-7",
     "title": "Siri AI could come with a paywall for power users",
     "summary": "Apple CEO Tim Cook envisions users being able to buy more compute for Siri AI via Apple's existing iCloud+ subscriptions.",
     "category": "ai-research",
@@ -278,36 +306,6 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-08-02T01:47:42.202Z"
-  },
-  {
-    "id": "news-1785635262203-32",
-    "title": "From Universal Music’s $3.83B quarter to Suno’s German court defeat… it’s MBW’s Weekly Round-up",
-    "summary": "The biggest headlines from the past few days...\nSource",
-    "category": "industry-news",
-    "source": "Music Business Worldwide",
-    "author": "Unknown",
-    "publishedAt": "2026-07-31T15:32:50.000Z",
-    "url": "https://www.musicbusinessworldwide.com/from-universal-musics-3-83b-quarter-to-sunos-german-court-defeat-its-mbws-weekly-round-up/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-08-02T01:47:42.203Z"
-  },
-  {
-    "id": "news-1785635262203-23",
-    "title": "AI Slop Melodramas Are Taking Over X—and Their Creators Are Cashing In",
-    "summary": "Viral tales of good triumphing over evil are racking up millions of views. They’re almost entirely AI-generated clickbait.",
-    "category": "tech-innovation",
-    "source": "Wired AI",
-    "author": "Unknown",
-    "publishedAt": "2026-07-31T15:00:09.000Z",
-    "url": "https://www.wired.com/story/ai-slop-melodramas-are-taking-over-x-and-their-creators-are-cashing-in/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-08-02T01:47:42.203Z"
+    "fetchedAt": "2026-08-03T01:50:00.077Z"
   }
 ]
