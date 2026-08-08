@@ -1,22 +1,238 @@
 [
   {
-    "id": "news-1786068347384-38",
-    "title": "‘CoComelon: The Movie’ Brings Baby JJ (And SZA) To the Big Screen: Watch the First Teaser Trailer",
-    "summary": "The R&B star is bringing her voice to the first CoComelon movie, with original music from Justin Tranter.",
-    "category": "industry-news",
-    "source": "Billboard",
+    "id": "news-1786150271583-0",
+    "title": "OpenAI says it slowed Astra model development over security concerns",
+    "summary": "OpenAI said this model, which is still in development, reached its \"critical cybersecurity threshold,\" meaning it could independently identify and carry out cyberattacks against traditionally well-protected real-world systems.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
     "author": "Unknown",
-    "publishedAt": "2026-08-07T01:29:14.000Z",
-    "url": "https://www.billboard.com/culture/tv-film/cocomelon-movie-trailer-sza-justin-tranter-music-1236311181/",
+    "publishedAt": "2026-08-07T22:48:24.000Z",
+    "url": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
     "imageUrl": null,
     "tags": [
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-08-07T02:05:47.384Z"
+    "fetchedAt": "2026-08-08T00:51:11.583Z"
   },
   {
-    "id": "news-1786068347384-20",
+    "id": "news-1786150271583-1",
+    "title": "After Rippling blew millions on AI in months, it built an employee ROI tool",
+    "summary": "After its own AI usage wake-up call, Rippling this week unveiled AI Spend Console, a product that tracks individual and team employee AI spending.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-08-07T21:30:11.000Z",
+    "url": "https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-08-08T00:51:11.583Z"
+  },
+  {
+    "id": "news-1786150271585-40",
+    "title": "Charlie Worsham Shares Which Vince Gill Album Was ‘Monumental For Me’",
+    "summary": "Worsham issues his first independent album, Once Upon a Second Time Around, including collabs with Lainey Wilson, Stephen Wilson Jr. and The Travelin' McCourys.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-08-07T20:56:39.000Z",
+    "url": "https://www.billboard.com/music/country/charlie-worsham-once-upon-a-second-time-around-interview-1236312119/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-08-08T00:51:11.585Z"
+  },
+  {
+    "id": "news-1786150271585-41",
+    "title": "CORTIS Tells NYC to Put Their Phones Down at First U.S. Solo Concert: The 7 Best Moments",
+    "summary": "With less than a year on the scene, the five-piece performed like pros at its first full concert in the States for a sold-out show at Infosys Theater at Madison Square Garden.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-08-07T20:32:51.000Z",
+    "url": "https://www.billboard.com/lists/cortis-put-your-phone-down-tour-nyc-best-moments-review/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-08-08T00:51:11.585Z"
+  },
+  {
+    "id": "news-1786150271585-42",
+    "title": "Stray Kids’ ‘THIS & THAT’ Album: All 7 Tracks Ranked",
+    "summary": "After eight years together, the group best known for maximalism makes a strong case for pulling back.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-08-07T20:09:42.000Z",
+    "url": "https://www.billboard.com/lists/stray-kids-this-that-album-tracks-ranked-review/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-08-08T00:51:11.585Z"
+  },
+  {
+    "id": "news-1786150271585-43",
+    "title": "Ryan Castro and Feid’s ‘Mentira’ & More: Vote for the Best New Latin Music Release This Week",
+    "summary": "Which new Latin music release is your favorite? Vote below!",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-08-07T20:04:30.000Z",
+    "url": "https://www.billboard.com/music/latin/feid-ryan-castro-mentira-vote-best-new-latin-music-1236311860/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-08-08T00:51:11.585Z"
+  },
+  {
+    "id": "news-1786150271585-44",
+    "title": "Karol G Says Her Power Ballad With Bruno Mars ‘Expressed Exactly What I Was Feeling’",
+    "summary": "\"Still\" is part of Karol's new studio album, No Me Arrepiento de Sentir Tanto.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-08-07T19:57:33.000Z",
+    "url": "https://www.billboard.com/music/latin/karol-g-bruno-mars-still-song-new-album-1236311948/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-08-08T00:51:11.585Z"
+  },
+  {
+    "id": "news-1786150271583-2",
+    "title": "Cloudflare launches Kitesurf, a browser built for AI agents",
+    "summary": "Kitesurf is a cloud-hosted browser designed for AI agents instead of people. It uses less computing power than Chromium for common automation tasks, helping developers build browser-based AI agents more efficiently.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-08-07T16:16:09.000Z",
+    "url": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-08-08T00:51:11.583Z"
+  },
+  {
+    "id": "news-1786150271585-31",
+    "title": "From Suno’s vinyl move to Spotify’s ‘fan-made’ Merlin deal… it’s MBW’s Weekly Round-up",
+    "summary": "The biggest headlines from the past few days...\n\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-08-07T16:14:34.000Z",
+    "url": "https://www.musicbusinessworldwide.com/from-sunos-vinyl-move-to-spotifys-fan-made-merlin-deal-its-mbws-weekly-round-up/",
+    "imageUrl": null,
+    "tags": [
+      "Spotify"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-08-08T00:51:11.585Z"
+  },
+  {
+    "id": "news-1786150271585-32",
+    "title": "Feel The Club boss Juan Carlos Dominguez talks promoting shows for Shakira – and putting Ecuador on the map for stadium tours",
+    "summary": "MBW's Trailblazers series meets Juan Carlos Dominguez, founder and CEO of Latin America-focused concert powerhouse Feel The Club\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-08-07T15:19:06.000Z",
+    "url": "https://www.musicbusinessworldwide.com/feel-the-club-boss-juan-carlos-dominguez-talks-promoting-shows-for-shakira-and-putting-ecuador-on-the-map-for-stadium-tours/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-08-08T00:51:11.585Z"
+  },
+  {
+    "id": "news-1786150271585-33",
+    "title": "SM Entertainment revenues rose 15.4% YoY to $233M in Q2, driven by concerts and merch",
+    "summary": "K-pop company's latest quarterly report was published on Wednesday, August 5\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-08-07T14:39:04.000Z",
+    "url": "https://www.musicbusinessworldwide.com/sm-entertainment-revenues-rose-15-4-yoy-to-233m-in-q2-driven-by-concerts-and-merch/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-08-08T00:51:11.585Z"
+  },
+  {
+    "id": "news-1786150271584-3",
+    "title": "Airbnb says AI is helping it ship features faster as it tests a new search function",
+    "summary": "Airbnb will debut a new AI-powered search experience with a toggle.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-08-07T14:22:49.000Z",
+    "url": "https://techcrunch.com/2026/08/07/airbnb-says-ai-is-helping-it-ship-features-faster-as-it-tests-a-new-search-function/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-08-08T00:51:11.584Z"
+  },
+  {
+    "id": "news-1786150271585-21",
+    "title": "Scientists Used AI to Create 16 New Viruses",
+    "summary": "The use of AI systems to create viruses opens up new possibilities for combating bacterial resistance. It also raises concerns about the pace at which technology is outstripping regulation.",
+    "category": "tech-innovation",
+    "source": "Wired AI",
+    "author": "Unknown",
+    "publishedAt": "2026-08-07T14:13:57.000Z",
+    "url": "https://www.wired.com/story/scientists-used-ai-to-create-16-new-viruses/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-08-08T00:51:11.585Z"
+  },
+  {
+    "id": "news-1786150271584-4",
+    "title": "Jill Lepore on the ‘Artificial State’ and why Silicon Valley’s leaders are bad sci-fi readers",
+    "summary": "Historian Jill Lepore has a theory about why tech companies often use soaring language to describe their products — almost as if they’re forming a new government. And whether you’re thinking of Twitter’s old “town hall in your pocket” or Anthropic’s Claude constitution, it’s a theory that doesn’t paint Silicon Valley in a very flattering light.   In Lepore’s upcoming book, Th",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-08-07T14:00:00.000Z",
+    "url": "https://techcrunch.com/podcast/jill-lepore-on-the-artificial-state-and-why-silicon-valleys-leaders-are-bad-sci-fi-readers/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-08-08T00:51:11.584Z"
+  },
+  {
+    "id": "news-1786150271585-22",
+    "title": "The Hottest New AI Chatbot Is Just a Guy Answering Your Questions",
+    "summary": "WIRED spoke with Tucker Bryant, an artist and former Google employee who created ChatTJB to get people to reflect on the “strange moment” we’re in.",
+    "category": "tech-innovation",
+    "source": "Wired AI",
+    "author": "Unknown",
+    "publishedAt": "2026-08-07T10:00:00.000Z",
+    "url": "https://www.wired.com/story/this-chatbot-is-just-a-random-guy-lol/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-08-08T00:51:11.585Z"
+  },
+  {
+    "id": "news-1786150271585-23",
     "title": "One of China’s Most Powerful AI Models Has Also Escaped Containment",
     "summary": "Security researchers say that Kimi K3, an open-weight model from China, wandered off to the internet in an attempt to cheat on a test it was given.",
     "category": "ai-research",
@@ -30,71 +246,10 @@
       "Research"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-08-07T02:05:47.384Z"
+    "fetchedAt": "2026-08-08T00:51:11.585Z"
   },
   {
-    "id": "news-1786068347384-39",
-    "title": "Cam’ron Threatens to Expose Members of Cardi B’s Team Over Unreleased Song: ‘Take This as a Warning’",
-    "summary": "The Harlem rapper & media personality was asked to contribute to a remake of his hit song \"What Means the World to You\" that was released in 2000.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-08-07T00:20:52.000Z",
-    "url": "https://www.billboard.com/music/rb-hip-hop/camron-threatens-expose-cardi-b-team-scrapped-feature-1236311115/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-08-07T02:05:47.384Z"
-  },
-  {
-    "id": "news-1786068347384-40",
-    "title": "Universal & Sony Music Take Legal Action in Canada Against ‘Parasitic’ Streaming App Musi",
-    "summary": "IFPI and Music Canada are coordinating the action against the app, which unlawfully sources music from YouTube.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-08-07T00:01:17.000Z",
-    "url": "https://www.billboard.com/pro/umg-sony-music-copyright-lawsuit-canadian-streaming-app/",
-    "imageUrl": null,
-    "tags": [
-      "AI",
-      "Streaming"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-08-07T02:05:47.385Z"
-  },
-  {
-    "id": "news-1786068347385-41",
-    "title": "Here’s How Miley Cyrus & Taylor Swift Make Cameos in New Sabrina Carpenter Children’s Book",
-    "summary": "Sabrina Carpenter: A Little Golden Book Biography highlights major milestones in the singer's career, including interactions with a few familiar musical faces.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-08-06T23:55:55.000Z",
-    "url": "https://www.billboard.com/culture/product-recommendations/sabrina-carpenter-little-golden-book-biography-buy-online-1236310663/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-08-07T02:05:47.385Z"
-  },
-  {
-    "id": "news-1786068347385-42",
-    "title": "Peter Katsis, Veteran Music Manager Who Guided Backstreet Boys & Smashing Pumpkins, Dies at 69",
-    "summary": "The longtime manager was a co-founder of Prospect Park Entertainment, the firm he started with Jeff Kwatinetz and Rich Frank in 2008. ",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-08-06T23:26:09.000Z",
-    "url": "https://www.billboard.com/pro/peter-katsis-death-backstreet-boys-korn-manager-dead/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-08-07T02:05:47.385Z"
-  },
-  {
-    "id": "news-1786068347383-0",
+    "id": "news-1786150271584-5",
     "title": "OpenAI’s new AI smart speaker will reportedly sell for between $300 and $400",
     "summary": "Additional details about OpenAI's mysterious new AI device make it sound like a pricey smart speaker.",
     "category": "ai-research",
@@ -107,10 +262,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-08-07T02:05:47.383Z"
+    "fetchedAt": "2026-08-08T00:51:11.584Z"
   },
   {
-    "id": "news-1786068347384-21",
+    "id": "news-1786150271585-24",
     "title": "Why Normal People Aren’t Using AI Agents",
     "summary": "The tech industry is realizing it needs to build agents based on what regular consumers want, not just what its AI models can do.",
     "category": "ai-research",
@@ -123,10 +278,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-08-07T02:05:47.384Z"
+    "fetchedAt": "2026-08-08T00:51:11.585Z"
   },
   {
-    "id": "news-1786068347384-22",
+    "id": "news-1786150271585-25",
     "title": "ICE’s DNA Collection Increases, SpaceX’s Rocket Crashes Into the Moon, and the AI Backlash Grows",
     "summary": "In today’s episode of Uncanny Valley, we discuss how ICE has been collecting DNA samples of people who have no criminal convictions, including children, which end up in an FBI database indefinitely.",
     "category": "tech-innovation",
@@ -139,10 +294,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-08-07T02:05:47.384Z"
+    "fetchedAt": "2026-08-08T00:51:11.585Z"
   },
   {
-    "id": "news-1786068347384-29",
+    "id": "news-1786150271585-34",
     "title": "The Music Industry Is Trying to Guess the AI Recipe After Dinner Was Served",
     "summary": "The following MBW op-ed comes from Andreea Gleeson, former CEO of TuneCore and founder of AGA (Andreea Gleeson Advisory)\nSource",
     "category": "industry-news",
@@ -155,170 +310,6 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-08-07T02:05:47.384Z"
-  },
-  {
-    "id": "news-1786068347384-30",
-    "title": "On… Universal Music Group, Downtown, India, and Streaming 2.0",
-    "summary": "The latest 'Tim's Take' from Music Business Worldwide founder, Tim Ingham\nSource",
-    "category": "industry-news",
-    "source": "Music Business Worldwide",
-    "author": "Unknown",
-    "publishedAt": "2026-08-06T17:53:15.000Z",
-    "url": "https://www.musicbusinessworldwide.com/on-universal-music-group-downtown-india-and-streaming-2-0/",
-    "imageUrl": null,
-    "tags": [
-      "Streaming"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-08-07T02:05:47.384Z"
-  },
-  {
-    "id": "news-1786068347384-31",
-    "title": "Warner Music expects AI music deals to boost subscription streaming revenue from late 2026",
-    "summary": "Robert Kyncl said WMG expected its \"licensing deals to contribute materially to our subscription streaming revenue growth starting in fiscal '27.\"\nSource",
-    "category": "industry-news",
-    "source": "Music Business Worldwide",
-    "author": "Unknown",
-    "publishedAt": "2026-08-06T17:40:29.000Z",
-    "url": "https://www.musicbusinessworldwide.com/warner-music-expects-ai-music-deals-to-boost-subscription-streaming-revenue-from-late-2026/",
-    "imageUrl": null,
-    "tags": [
-      "AI",
-      "Streaming",
-      "Copyright"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-08-07T02:05:47.384Z"
-  },
-  {
-    "id": "news-1786068347383-1",
-    "title": "ChatGPT brings unlimited text chats to free users",
-    "summary": "OpenAI said that ChatGPT free and Go users are also getting a new think button for complex queries.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-08-06T17:34:42.000Z",
-    "url": "https://techcrunch.com/2026/08/06/openai-brings-unlimited-chatgpt-text-chats-to-free-users/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-08-07T02:05:47.383Z"
-  },
-  {
-    "id": "news-1786068347384-32",
-    "title": "Sony Music Group and Universal Music Group take legal action against ‘parasitic’ streaming app Musi in Canada",
-    "summary": "The action is coordinated by IFPI, which represents the recorded music industry worldwide\nSource",
-    "category": "industry-news",
-    "source": "Music Business Worldwide",
-    "author": "Unknown",
-    "publishedAt": "2026-08-06T16:26:47.000Z",
-    "url": "https://www.musicbusinessworldwide.com/sony-music-umg-take-legal-action-against-parasitic-streaming-app-musi-in-canada/",
-    "imageUrl": null,
-    "tags": [
-      "AI",
-      "Streaming"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-08-07T02:05:47.384Z"
-  },
-  {
-    "id": "news-1786068347384-23",
-    "title": "DeepMind Says Its AI Can Predict Hurricanes Earlier Than Everyone Else",
-    "summary": "Its WeatherNext model, which will be open-sourced, can accurately predict a storm’s track and intensity using lower-resolution weather data. Researchers don’t yet fully understand how it does this.",
-    "category": "tech-innovation",
-    "source": "Wired AI",
-    "author": "Unknown",
-    "publishedAt": "2026-08-06T16:23:04.000Z",
-    "url": "https://www.wired.com/story/deepmind-ai-model-can-predict-hurricanes-earlier/",
-    "imageUrl": null,
-    "tags": [
-      "AI",
-      "Research"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-08-07T02:05:47.384Z"
-  },
-  {
-    "id": "news-1786068347383-2",
-    "title": "Gen Z dating apps like Ditto ditch swiping in favor of AI matchmaking",
-    "summary": "This generation of twentysomethings is so disillusioned with swipe-based dating apps that they'll try literally anything else — even an AI matchmaker. ",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-08-06T15:53:03.000Z",
-    "url": "https://techcrunch.com/2026/08/06/gen-z-dating-apps-like-ditto-ditch-swiping-in-favor-of-ai-matchmaking/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-08-07T02:05:47.383Z"
-  },
-  {
-    "id": "news-1786068347383-3",
-    "title": "OpenAI says Apple’s own security practices undermine its trade secrets case",
-    "summary": "Newly filed court exhibits show OpenAI’s legal strategy in Apple’s trade secrets lawsuit: argue that Apple’s own security and offboarding practices — including allowing an Apple manager to access a former engineer’s iCloud account after he left the company —undermine its claims that the allegedly stolen information was properly protected.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-08-06T15:10:32.000Z",
-    "url": "https://techcrunch.com/2026/08/06/openai-says-apples-own-security-practices-undermine-its-trade-secrets-case/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-08-07T02:05:47.383Z"
-  },
-  {
-    "id": "news-1786068347384-33",
-    "title": "‘India at its core is a song-driven economy, moving toward a personality-led, show business economy.’",
-    "summary": "Times Music CEO Mandar Thakur talks catalog acquisitions, India’s subscription challenge, and why he believes Indian music’s biggest opportunity lies abroad...\nSource",
-    "category": "industry-news",
-    "source": "Music Business Worldwide",
-    "author": "Unknown",
-    "publishedAt": "2026-08-06T14:38:50.000Z",
-    "url": "https://www.musicbusinessworldwide.com/india-at-its-core-is-a-song-driven-economy-moving-toward-a-personality-led-show-business-economy/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-08-07T02:05:47.384Z"
-  },
-  {
-    "id": "news-1786068347384-34",
-    "title": "Suno muscles into vinyl market, plans to let users press their AI songs onto 12-inch records",
-    "summary": "Company has opened a waitlist for Suno Vinyl, a service that turns songs made on its platform into physical records\nSource",
-    "category": "industry-news",
-    "source": "Music Business Worldwide",
-    "author": "Unknown",
-    "publishedAt": "2026-08-06T13:13:31.000Z",
-    "url": "https://www.musicbusinessworldwide.com/suno-muscles-into-vinyl-market-plans-to-let-users-press-their-ai-songs-onto-12-inch-records/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-08-07T02:05:47.384Z"
-  },
-  {
-    "id": "news-1786068347383-4",
-    "title": "Ex-Spotify employees raise $10M to bring the AI behind its recommendations to e-commerce",
-    "summary": "The startup's platform predicts which product a shopper wants next, learns their general taste, and fine-tunes continuously based on what they do in real time. ",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-08-06T13:00:00.000Z",
-    "url": "https://techcrunch.com/2026/08/06/ex-spotify-employees-raise-10m-to-bring-the-ai-behind-its-recommendations-to-e-commerce/",
-    "imageUrl": null,
-    "tags": [
-      "Spotify",
-      "AI",
-      "Startup"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-08-07T02:05:47.383Z"
+    "fetchedAt": "2026-08-08T00:51:11.585Z"
   }
 ]
