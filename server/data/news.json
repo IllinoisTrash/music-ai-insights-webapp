@@ -1,6 +1,155 @@
 [
   {
-    "id": "news-1786150271583-0",
+    "id": "news-1786236871323-39",
+    "title": "aespa Kicks Off SYNK : COMPLæXITY Tour in Seoul: 6 Best Moments",
+    "summary": "aespa opened its fourth world tour at with 27 songs, an expanded universe and a show that brought the group's many sides into full view.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-08-08T21:49:46.000Z",
+    "url": "https://www.billboard.com/lists/aespa-synk-complaexity-tour-seoul-best-moments/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-08-09T00:54:31.323Z"
+  },
+  {
+    "id": "news-1786236871321-0",
+    "title": "OpenAI acquires presentation startup NextSlide",
+    "summary": "NextSlide says its team members are now working on ChatGPT.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-08-08T19:41:13.000Z",
+    "url": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/",
+    "imageUrl": null,
+    "tags": [
+      "AI",
+      "Startup"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-08-09T00:54:31.322Z"
+  },
+  {
+    "id": "news-1786236871323-40",
+    "title": "Taylor Swift’s ‘August,’ ‘Father Figure’ & Other Songs Removed From Trump-Related TikTok Posts",
+    "summary": "A White House TikTok featuring “The Fate of Ophelia” has also been removed.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-08-08T19:36:25.000Z",
+    "url": "https://www.billboard.com/music/music-news/taylor-swift-songs-removed-trump-tiktok-posts-1236312291/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-08-09T00:54:31.323Z"
+  },
+  {
+    "id": "news-1786236871323-41",
+    "title": "Madonna Remembers William Orbit With Emotional Tribute: ‘You Were My Ray of Light’",
+    "summary": "The pair collaborated on Madonna’s Grammy-winning 1998 album, Ray of Light.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-08-08T17:37:18.000Z",
+    "url": "https://www.billboard.com/music/music-news/madonna-william-orbit-tribute-ray-of-light-producer-1236312283/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-08-09T00:54:31.323Z"
+  },
+  {
+    "id": "news-1786236871323-42",
+    "title": "Fuerza Regida Wraps Stadium Tour at New York’s Citi Field Alongside 50 Cent, Bobby Shmurda, J Balvin & More",
+    "summary": "Fenix Flexin also joined the Aug. 7 concert, which marked the end of the This Is Our Dream Tour.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-08-08T16:21:47.000Z",
+    "url": "https://www.billboard.com/music/latin/fuerza-regida-citi-field-50-cent-bobby-shmurda-new-york-1236312217/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-08-09T00:54:31.323Z"
+  },
+  {
+    "id": "news-1786236871323-43",
+    "title": "Chris Brown & Usher’s Raymond & Brown Tour at MetLife Stadium: 7 Best Moments From Night 1",
+    "summary": "The iconic R&B acts didn’t let the rain stop their parade, as they delivered more than 50 songs and brought out some of New York’s favorite legends.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-08-08T16:02:32.000Z",
+    "url": "https://www.billboard.com/lists/chris-brown-usher-tour-metlife-stadium-show-recap/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-08-09T00:54:31.323Z"
+  },
+  {
+    "id": "news-1786236871323-44",
+    "title": "Mon Laferte Will Receive Social Justice Award & More Uplifting Moments in Latin Music",
+    "summary": "Additionally, Marc Anthony & Yandel will be honored as Agents of Change at Premios Juventud.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-08-08T14:00:00.000Z",
+    "url": "https://www.billboard.com/music/latin/mon-laferte-social-justice-award-hispanic-heritage-1236312148/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-08-09T00:54:31.323Z"
+  },
+  {
+    "id": "news-1786236871323-20",
+    "title": "How to Disable Gemini in Gmail and Google Docs",
+    "summary": "New AI toolbars and prompts are showing up in Google Docs and Gmail. If you don’t want Gemini’s help in writing documents and emails, here’s how to turn that stuff off.",
+    "category": "tech-innovation",
+    "source": "Wired AI",
+    "author": "Unknown",
+    "publishedAt": "2026-08-08T10:00:00.000Z",
+    "url": "https://www.wired.com/story/how-to-disable-the-gemini-ai-features-in-gmail-and-google-docs/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-08-09T00:54:31.323Z"
+  },
+  {
+    "id": "news-1786236871323-45",
+    "title": "Vera Blue covers Radiohead’s ‘Creep’ for triple j’s Like A Version",
+    "summary": "Blue also performed \"Maze,\" a track from her forthcoming album Modern Rituals.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-08-08T07:29:29.000Z",
+    "url": "https://www.billboard.com/music/music-news/vera-blue-radiohead-creep-triple-j-like-a-version-1236312212/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-08-09T00:54:31.323Z"
+  },
+  {
+    "id": "news-1786236871323-46",
+    "title": "Angélique Kidjo to Become First African Musician to Receive a Star on Hollywood Walk of Fame",
+    "summary": "Kidjo’s star ceremony is set for Aug. 18 at 11:30 a.m. PT.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-08-08T02:05:19.000Z",
+    "url": "https://www.billboard.com/music/awards/angelique-kidjo-star-hollywood-walk-of-fame-history-making-1236312196/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-08-09T00:54:31.323Z"
+  },
+  {
+    "id": "news-1786236871322-1",
     "title": "OpenAI says it slowed Astra model development over security concerns",
     "summary": "OpenAI said this model, which is still in development, reached its \"critical cybersecurity threshold,\" meaning it could independently identify and carry out cyberattacks against traditionally well-protected real-world systems.",
     "category": "ai-research",
@@ -13,10 +162,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-08-08T00:51:11.583Z"
+    "fetchedAt": "2026-08-09T00:54:31.322Z"
   },
   {
-    "id": "news-1786150271583-1",
+    "id": "news-1786236871322-2",
     "title": "After Rippling blew millions on AI in months, it built an employee ROI tool",
     "summary": "After its own AI usage wake-up call, Rippling this week unveiled AI Spend Console, a product that tracks individual and team employee AI spending.",
     "category": "ai-research",
@@ -29,82 +178,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-08-08T00:51:11.583Z"
+    "fetchedAt": "2026-08-09T00:54:31.322Z"
   },
   {
-    "id": "news-1786150271585-40",
-    "title": "Charlie Worsham Shares Which Vince Gill Album Was ‘Monumental For Me’",
-    "summary": "Worsham issues his first independent album, Once Upon a Second Time Around, including collabs with Lainey Wilson, Stephen Wilson Jr. and The Travelin' McCourys.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-08-07T20:56:39.000Z",
-    "url": "https://www.billboard.com/music/country/charlie-worsham-once-upon-a-second-time-around-interview-1236312119/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-08-08T00:51:11.585Z"
-  },
-  {
-    "id": "news-1786150271585-41",
-    "title": "CORTIS Tells NYC to Put Their Phones Down at First U.S. Solo Concert: The 7 Best Moments",
-    "summary": "With less than a year on the scene, the five-piece performed like pros at its first full concert in the States for a sold-out show at Infosys Theater at Madison Square Garden.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-08-07T20:32:51.000Z",
-    "url": "https://www.billboard.com/lists/cortis-put-your-phone-down-tour-nyc-best-moments-review/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-08-08T00:51:11.585Z"
-  },
-  {
-    "id": "news-1786150271585-42",
-    "title": "Stray Kids’ ‘THIS & THAT’ Album: All 7 Tracks Ranked",
-    "summary": "After eight years together, the group best known for maximalism makes a strong case for pulling back.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-08-07T20:09:42.000Z",
-    "url": "https://www.billboard.com/lists/stray-kids-this-that-album-tracks-ranked-review/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-08-08T00:51:11.585Z"
-  },
-  {
-    "id": "news-1786150271585-43",
-    "title": "Ryan Castro and Feid’s ‘Mentira’ & More: Vote for the Best New Latin Music Release This Week",
-    "summary": "Which new Latin music release is your favorite? Vote below!",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-08-07T20:04:30.000Z",
-    "url": "https://www.billboard.com/music/latin/feid-ryan-castro-mentira-vote-best-new-latin-music-1236311860/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-08-08T00:51:11.585Z"
-  },
-  {
-    "id": "news-1786150271585-44",
-    "title": "Karol G Says Her Power Ballad With Bruno Mars ‘Expressed Exactly What I Was Feeling’",
-    "summary": "\"Still\" is part of Karol's new studio album, No Me Arrepiento de Sentir Tanto.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-08-07T19:57:33.000Z",
-    "url": "https://www.billboard.com/music/latin/karol-g-bruno-mars-still-song-new-album-1236311948/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-08-08T00:51:11.585Z"
-  },
-  {
-    "id": "news-1786150271583-2",
+    "id": "news-1786236871322-3",
     "title": "Cloudflare launches Kitesurf, a browser built for AI agents",
     "summary": "Kitesurf is a cloud-hosted browser designed for AI agents instead of people. It uses less computing power than Chromium for common automation tasks, helping developers build browser-based AI agents more efficiently.",
     "category": "ai-research",
@@ -117,10 +194,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-08-08T00:51:11.583Z"
+    "fetchedAt": "2026-08-09T00:54:31.322Z"
   },
   {
-    "id": "news-1786150271585-31",
+    "id": "news-1786236871323-30",
     "title": "From Suno’s vinyl move to Spotify’s ‘fan-made’ Merlin deal… it’s MBW’s Weekly Round-up",
     "summary": "The biggest headlines from the past few days...\n\nSource",
     "category": "industry-news",
@@ -133,10 +210,10 @@
       "Spotify"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-08-08T00:51:11.585Z"
+    "fetchedAt": "2026-08-09T00:54:31.323Z"
   },
   {
-    "id": "news-1786150271585-32",
+    "id": "news-1786236871323-31",
     "title": "Feel The Club boss Juan Carlos Dominguez talks promoting shows for Shakira – and putting Ecuador on the map for stadium tours",
     "summary": "MBW's Trailblazers series meets Juan Carlos Dominguez, founder and CEO of Latin America-focused concert powerhouse Feel The Club\nSource",
     "category": "industry-news",
@@ -149,10 +226,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-08-08T00:51:11.585Z"
+    "fetchedAt": "2026-08-09T00:54:31.323Z"
   },
   {
-    "id": "news-1786150271585-33",
+    "id": "news-1786236871323-32",
     "title": "SM Entertainment revenues rose 15.4% YoY to $233M in Q2, driven by concerts and merch",
     "summary": "K-pop company's latest quarterly report was published on Wednesday, August 5\nSource",
     "category": "industry-news",
@@ -165,10 +242,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-08-08T00:51:11.585Z"
+    "fetchedAt": "2026-08-09T00:54:31.323Z"
   },
   {
-    "id": "news-1786150271584-3",
+    "id": "news-1786236871322-4",
     "title": "Airbnb says AI is helping it ship features faster as it tests a new search function",
     "summary": "Airbnb will debut a new AI-powered search experience with a toggle.",
     "category": "ai-research",
@@ -181,10 +258,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-08-08T00:51:11.584Z"
+    "fetchedAt": "2026-08-09T00:54:31.322Z"
   },
   {
-    "id": "news-1786150271585-21",
+    "id": "news-1786236871323-21",
     "title": "Scientists Used AI to Create 16 New Viruses",
     "summary": "The use of AI systems to create viruses opens up new possibilities for combating bacterial resistance. It also raises concerns about the pace at which technology is outstripping regulation.",
     "category": "tech-innovation",
@@ -197,10 +274,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-08-08T00:51:11.585Z"
+    "fetchedAt": "2026-08-09T00:54:31.323Z"
   },
   {
-    "id": "news-1786150271584-4",
+    "id": "news-1786236871322-5",
     "title": "Jill Lepore on the ‘Artificial State’ and why Silicon Valley’s leaders are bad sci-fi readers",
     "summary": "Historian Jill Lepore has a theory about why tech companies often use soaring language to describe their products — almost as if they’re forming a new government. And whether you’re thinking of Twitter’s old “town hall in your pocket” or Anthropic’s Claude constitution, it’s a theory that doesn’t paint Silicon Valley in a very flattering light.   In Lepore’s upcoming book, Th",
     "category": "ai-research",
@@ -213,10 +290,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-08-08T00:51:11.584Z"
+    "fetchedAt": "2026-08-09T00:54:31.322Z"
   },
   {
-    "id": "news-1786150271585-22",
+    "id": "news-1786236871323-22",
     "title": "The Hottest New AI Chatbot Is Just a Guy Answering Your Questions",
     "summary": "WIRED spoke with Tucker Bryant, an artist and former Google employee who created ChatTJB to get people to reflect on the “strange moment” we’re in.",
     "category": "tech-innovation",
@@ -229,87 +306,6 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-08-08T00:51:11.585Z"
-  },
-  {
-    "id": "news-1786150271585-23",
-    "title": "One of China’s Most Powerful AI Models Has Also Escaped Containment",
-    "summary": "Security researchers say that Kimi K3, an open-weight model from China, wandered off to the internet in an attempt to cheat on a test it was given.",
-    "category": "ai-research",
-    "source": "Wired AI",
-    "author": "Unknown",
-    "publishedAt": "2026-08-07T01:16:55.000Z",
-    "url": "https://www.wired.com/story/moonshot-kimi-k3-ai-model-escape-sandbox/",
-    "imageUrl": null,
-    "tags": [
-      "AI",
-      "Research"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-08-08T00:51:11.585Z"
-  },
-  {
-    "id": "news-1786150271584-5",
-    "title": "OpenAI’s new AI smart speaker will reportedly sell for between $300 and $400",
-    "summary": "Additional details about OpenAI's mysterious new AI device make it sound like a pricey smart speaker.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-08-06T22:43:53.000Z",
-    "url": "https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-08-08T00:51:11.584Z"
-  },
-  {
-    "id": "news-1786150271585-24",
-    "title": "Why Normal People Aren’t Using AI Agents",
-    "summary": "The tech industry is realizing it needs to build agents based on what regular consumers want, not just what its AI models can do.",
-    "category": "ai-research",
-    "source": "Wired AI",
-    "author": "Unknown",
-    "publishedAt": "2026-08-06T19:55:45.000Z",
-    "url": "https://www.wired.com/story/why-normal-people-arent-using-ai-agents/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-08-08T00:51:11.585Z"
-  },
-  {
-    "id": "news-1786150271585-25",
-    "title": "ICE’s DNA Collection Increases, SpaceX’s Rocket Crashes Into the Moon, and the AI Backlash Grows",
-    "summary": "In today’s episode of Uncanny Valley, we discuss how ICE has been collecting DNA samples of people who have no criminal convictions, including children, which end up in an FBI database indefinitely.",
-    "category": "tech-innovation",
-    "source": "Wired AI",
-    "author": "Unknown",
-    "publishedAt": "2026-08-06T19:30:46.000Z",
-    "url": "https://www.wired.com/story/ice-dna-collection-increases-spacex-rocket-crashes-into-the-moon-and-the-ai-backlash-grows/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-08-08T00:51:11.585Z"
-  },
-  {
-    "id": "news-1786150271585-34",
-    "title": "The Music Industry Is Trying to Guess the AI Recipe After Dinner Was Served",
-    "summary": "The following MBW op-ed comes from Andreea Gleeson, former CEO of TuneCore and founder of AGA (Andreea Gleeson Advisory)\nSource",
-    "category": "industry-news",
-    "source": "Music Business Worldwide",
-    "author": "Unknown",
-    "publishedAt": "2026-08-06T18:06:28.000Z",
-    "url": "https://www.musicbusinessworldwide.com/the-music-industry-is-trying-to-guess-the-ai-recipe-after-dinner-was-served/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-08-08T00:51:11.585Z"
+    "fetchedAt": "2026-08-09T00:54:31.323Z"
   }
 ]
