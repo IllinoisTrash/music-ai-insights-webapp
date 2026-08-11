@@ -1,20 +1,285 @@
 [
   {
-    "id": "news-1786323369831-38",
-    "title": "Ariana Grande Reacts to ‘Petal’ Debuting at No. 1 on Billboard 200",
-    "summary": "She also celebrated the making of the album, her seventh No. 1, with behind-the-scenes footage from the studio captioned \"petal forever.\"",
+    "id": "news-1786409733723-0",
+    "title": "OpenAI reportedly completed a $7 billion employee tender offer",
+    "summary": "San Francisco's housing market is in trouble again. ",
+    "category": "trends-analysis",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-08-11T00:03:18.000Z",
+    "url": "https://techcrunch.com/2026/08/10/openai-reportedly-completed-a-7-billion-employee-tender-offer/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-08-11T00:55:33.723Z"
+  },
+  {
+    "id": "news-1786409733723-1",
+    "title": "As AI-led attacks multiply, OpenAI launches a new cyber model",
+    "summary": "OpenAI is expanding its AI cybersecurity defense program Daybreak, and rolling out a new cyber-trained AI model with it.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-08-10T23:56:15.000Z",
+    "url": "https://techcrunch.com/2026/08/10/as-ai-led-attacks-multiply-openai-launches-a-new-cyber-model/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-08-11T00:55:33.724Z"
+  },
+  {
+    "id": "news-1786409733726-38",
+    "title": "What Every Music Company Made in Q2 2026 (Updating)",
+    "summary": "From Live Nation to UMG to SiriusXM, a roundup of what the biggest publicly traded music companies have reported so far for the quarter ending June 30. ",
     "category": "industry-news",
     "source": "Billboard",
     "author": "Unknown",
-    "publishedAt": "2026-08-09T22:30:49.000Z",
-    "url": "https://www.billboard.com/music/music-news/ariana-grande-petal-number-1-album-reaction-1236312364/",
+    "publishedAt": "2026-08-10T23:39:00.000Z",
+    "url": "https://www.billboard.com/lists/music-company-earnings-q2-2026-umg-live-nation-hybe-made/",
     "imageUrl": null,
     "tags": [],
     "readTime": 1,
-    "fetchedAt": "2026-08-10T00:56:09.831Z"
+    "fetchedAt": "2026-08-11T00:55:33.726Z"
   },
   {
-    "id": "news-1786323369828-0",
+    "id": "news-1786409733726-39",
+    "title": "Pentatonix’s Scott Hoying & Husband Mark Bring Their Baby Girl Along for New Children’s Album ‘Little Birdie’s Big Symphony’",
+    "summary": "The Aug. 20 album will feature Christina Perri, Kina Grannis & Trout Fishing for America, plus the couple's newborn daughter Birdie.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-08-10T23:37:16.000Z",
+    "url": "https://www.billboard.com/music/music-news/scott-hoying-mark-daughter-birdie-childrens-album-1236313179/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-08-11T00:55:33.726Z"
+  },
+  {
+    "id": "news-1786409733726-40",
+    "title": "Jon Glass Named General Counsel of Merlin, Leading Legal Affairs and Partnerships",
+    "summary": "Glass joins the indie licensing organization after 16 years with Warner Music Group. ",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-08-10T23:01:00.000Z",
+    "url": "https://www.billboard.com/pro/merlin-hires-jon-glass-general-counsel/",
+    "imageUrl": null,
+    "tags": [
+      "AI",
+      "Copyright",
+      "Partnership"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-08-11T00:55:33.726Z"
+  },
+  {
+    "id": "news-1786409733726-41",
+    "title": "Every Surprise Song BTS Has Performed on the ARIRANG World Tour (So Far)",
+    "summary": "The K-pop group has played two surprise songs during every show's encore.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-08-10T23:00:00.000Z",
+    "url": "https://www.billboard.com/lists/bts-surprise-songs-arirang-tour-every-track/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-08-11T00:55:33.726Z"
+  },
+  {
+    "id": "news-1786409733724-2",
+    "title": "Mark Zuckerberg’s AI manifesto is exactly why people don’t like AI",
+    "summary": "On Monday, Mark Zuckerberg published a 6,500-word manifesto about personal AI, largely about the possibilities for the \"personal superintelligence\" systems Meta AI is building. ",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-08-10T20:53:02.000Z",
+    "url": "https://techcrunch.com/2026/08/10/mark-zuckerbergs-ai-manifesto-is-exactly-why-people-dont-like-ai/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-08-11T00:55:33.724Z"
+  },
+  {
+    "id": "news-1786409733724-3",
+    "title": "Tech industry is buzzing after a Claude agent hacked into a gym",
+    "summary": "An OpenClaw agent hacked into a gym's reservation system to bump its human boss higher on a class' waitlist. And the tech industry took notice.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-08-10T20:04:24.000Z",
+    "url": "https://techcrunch.com/2026/08/10/tech-industry-is-buzzing-after-a-claude-agent-hacked-into-a-gym/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-08-11T00:55:33.724Z"
+  },
+  {
+    "id": "news-1786409733724-4",
+    "title": "Meta’s new Glimmer AI model offers a hint at Zuckerberg’s personal intelligence vision",
+    "summary": "Meta’s new open-weight Muse Glimmer model offers a glimpse of Mark Zuckerberg’s personal superintelligence vision, as well as  the emerging divide between AI users can own and access.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-08-10T16:20:13.000Z",
+    "url": "https://techcrunch.com/2026/08/10/metas-new-glimmer-ai-model-offers-a-hint-at-zuckerbergs-personal-intelligence-vision/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-08-11T00:55:33.724Z"
+  },
+  {
+    "id": "news-1786409733725-32",
+    "title": "Apple asks court to rule its products don’t infringe Boomcloud 360’s spatial audio patents",
+    "summary": "Apple Music rolled out Spatial Audio with support for Dolby Atmos in June 2021\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-08-10T16:18:20.000Z",
+    "url": "https://www.musicbusinessworldwide.com/apple-asks-court-to-rule-its-products-dont-infringe-boomcloud-360s-spatial-audio-patents/",
+    "imageUrl": null,
+    "tags": [
+      "Apple Music"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-08-11T00:55:33.725Z"
+  },
+  {
+    "id": "news-1786409733726-33",
+    "title": "AI is capable of breaking the music industry. But it does not have to.",
+    "summary": "The following MBW op-ed comes from MusicInfra CEO and Co-founder Björn Lindvall\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-08-10T15:57:18.000Z",
+    "url": "https://www.musicbusinessworldwide.com/ai-is-capable-of-breaking-the-music-industry-but-it-does-not-have-to/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-08-11T00:55:33.726Z"
+  },
+  {
+    "id": "news-1786409733726-34",
+    "title": "Universal Music Group kicks off additional €250M share buyback program",
+    "summary": "UMG completed the first €500 million program, its first-ever share repurchase, in July\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-08-10T12:00:33.000Z",
+    "url": "https://www.musicbusinessworldwide.com/universal-music-group-kicks-off-additional-e250m-share-buyback-program/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-08-11T00:55:33.726Z"
+  },
+  {
+    "id": "news-1786409733724-5",
+    "title": "Discovered Materials is playing AI whack-a-mole to hunt cooler chips",
+    "summary": "Discovered Materials raised $9 million to fund the hunt for more novel materials to build more efficient chips. ",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-08-10T12:00:00.000Z",
+    "url": "https://techcrunch.com/2026/08/10/discovered-materials-is-playing-ai-whack-a-mole-to-hunt-cooler-chips/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-08-11T00:55:33.724Z"
+  },
+  {
+    "id": "news-1786409733725-23",
+    "title": "The AI Slop Backlash Is Actually Having an Impact",
+    "summary": "Platforms are finally recognizing that people don’t want to consume AI slop. A growing number of sites and apps now have tools and policies to flag, label, and ban AI-generated content.",
+    "category": "tech-innovation",
+    "source": "Wired AI",
+    "author": "Unknown",
+    "publishedAt": "2026-08-10T11:30:00.000Z",
+    "url": "https://www.wired.com/story/the-ai-slop-backlash-is-actually-having-an-impact/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-08-11T00:55:33.725Z"
+  },
+  {
+    "id": "news-1786409733726-35",
+    "title": "Suno brings its voice clone tool to iOS and Android, opens a limited version to free users",
+    "summary": "Voices lets a user record or upload audio of themselves singing, which Suno then uses to generate new songs in that person's voice.\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-08-10T11:27:15.000Z",
+    "url": "https://www.musicbusinessworldwide.com/suno-brings-its-voice-clone-tool-to-ios-and-android-opens-a-limited-version-to-free-users/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-08-11T00:55:33.726Z"
+  },
+  {
+    "id": "news-1786409733726-36",
+    "title": "Live Nation-backed Veeps lays off nearly all editorial staff at BrooklynVegan, Revolver and other music publications (report)",
+    "summary": "Veeps is the ticketed livestream service in which Live Nation owns a majority stake.\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-08-10T10:58:35.000Z",
+    "url": "https://www.musicbusinessworldwide.com/live-nation-backed-veeps-lays-off-nearly-all-editorial-staff-at-brooklynvegan-revolver-and-other-music-publications-report/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-08-11T00:55:33.726Z"
+  },
+  {
+    "id": "news-1786409733726-37",
+    "title": "Judge tosses shoe retailer DSW’s preemptive copyright suit against Sony Music",
+    "summary": "A federal judge dismissed the part of DSW's declaratory judgment lawsuit that targeted Sony Music Entertainment and Sony Music Publishing.\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-08-10T10:58:26.000Z",
+    "url": "https://www.musicbusinessworldwide.com/judge-tosses-shoe-retailer-dsws-preemptive-copyright-suit-against-sony-music/",
+    "imageUrl": null,
+    "tags": [
+      "AI",
+      "Copyright"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-08-11T00:55:33.726Z"
+  },
+  {
+    "id": "news-1786409733725-24",
+    "title": "The Rise of the 1 am Job Interview",
+    "summary": "An AI interview is increasingly the first step of a hiring process. Since there’s no human on the other end, candidates are scheduling them whenever—even deep into the night.",
+    "category": "tech-innovation",
+    "source": "Wired AI",
+    "author": "Unknown",
+    "publishedAt": "2026-08-10T10:30:00.000Z",
+    "url": "https://www.wired.com/story/the-rise-of-the-1-am-job-interview/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-08-11T00:55:33.725Z"
+  },
+  {
+    "id": "news-1786409733724-6",
     "title": "Anthropic is turning Claude Code’s auto mode on by default",
     "summary": "Programming with Claude Code will soon require even less human oversight.",
     "category": "ai-research",
@@ -25,54 +290,12 @@
     "imageUrl": null,
     "tags": [],
     "readTime": 1,
-    "fetchedAt": "2026-08-10T00:56:09.829Z"
+    "fetchedAt": "2026-08-11T00:55:33.724Z"
   },
   {
-    "id": "news-1786323369831-39",
-    "title": "Morgan Wallen, Garth Brooks, Taylor Swift & More Artists With Most Weeks at No. 1 on Top Country Albums Chart: Full List",
-    "summary": "Male solo artists dominate, though three female solo artists and two groups have also achieved the feat.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-08-09T19:14:52.000Z",
-    "url": "https://www.billboard.com/lists/top-country-albums-number-ones-biggest/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-08-10T00:56:09.831Z"
-  },
-  {
-    "id": "news-1786323369831-40",
-    "title": "Ariana Grande Achieves Seventh No. 1 Album on Billboard 200 With ‘petal’",
-    "summary": "The set scores Grande her biggest week by units earned this decade.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-08-09T19:00:18.000Z",
-    "url": "https://www.billboard.com/music/chart-beat/ariana-grande-petal-number-one-billboard-200-chart-1236312334/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-08-10T00:56:09.831Z"
-  },
-  {
-    "id": "news-1786323369831-41",
-    "title": "LA Jazz Festival Featuring John Legend & Janelle Monáe Canceled at Last Minute",
-    "summary": "The 17-day event has been postponed to 2027, organizers announced. ",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-08-09T17:41:32.000Z",
-    "url": "https://www.billboard.com/music/concerts/la-jazz-festival-canceled-postponed-2027-john-legend-1236312333/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-08-10T00:56:09.831Z"
-  },
-  {
-    "id": "news-1786323369829-1",
+    "id": "news-1786409733724-7",
     "title": "The AI safety test is becoming a safety risk",
-    "summary": "AI agents are escaping cybersecurity testing environments and reaching real-world systems, raising questions about whether safety infrastructure, industry standards and regulation can keep pace with increasingly powerful models.",
+    "summary": "AI agents are escaping cybersecurity testing environments and reaching real-world systems, raising questions about whether safety infrastructure, industry standards, and regulation can keep pace with increasingly powerful models.",
     "category": "ai-research",
     "source": "TechCrunch AI",
     "author": "Unknown",
@@ -83,225 +306,6 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-08-10T00:56:09.829Z"
-  },
-  {
-    "id": "news-1786323369830-20",
-    "title": "These AI Barons Are Ready to Give Away Their Fortunes",
-    "summary": "A new generation of philanthropists made rich by artificial intelligence are preparing to give away their vast wealth. What should we make of a multi-billion-dollar pinky promise?",
-    "category": "ai-research",
-    "source": "Wired AI",
-    "author": "Unknown",
-    "publishedAt": "2026-08-09T09:30:00.000Z",
-    "url": "https://www.wired.com/story/ai-billionaires-are-pledging-their-wealth-good-or-bad/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-08-10T00:56:09.830Z"
-  },
-  {
-    "id": "news-1786323369831-42",
-    "title": "Joe Jonas Says He Sought Therapy After His Solo Album Underperformed",
-    "summary": "Fastlife peaked at No. 15 on the Billboard 200, while its lead single \"See No More\" reached No. 92 on the Hot 100.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-08-09T06:52:55.000Z",
-    "url": "https://www.billboard.com/music/music-news/joe-jonas-therapy-solo-album-1236312330/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-08-10T00:56:09.831Z"
-  },
-  {
-    "id": "news-1786323369831-43",
-    "title": "Baker Boy Takes Album, Song and Film Clip of the Year at 2026 NIMAs",
-    "summary": "The Yolŋu rapper first broke through in 2017 after winning triple j's Unearthed National Indigenous Music Awards competition.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-08-09T05:41:32.000Z",
-    "url": "https://www.billboard.com/music/awards/baker-boy-2026-nimas-1236312328/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-08-10T00:56:09.831Z"
-  },
-  {
-    "id": "news-1786323369831-44",
-    "title": "aespa Kicks Off SYNK : COMPLæXITY Tour in Seoul: 6 Best Moments",
-    "summary": "aespa opened its fourth world tour at with 27 songs, an expanded universe and a show that brought the group's many sides into full view.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-08-08T21:49:46.000Z",
-    "url": "https://www.billboard.com/lists/aespa-synk-complaexity-tour-seoul-best-moments/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-08-10T00:56:09.831Z"
-  },
-  {
-    "id": "news-1786323369829-2",
-    "title": "OpenAI acquires presentation startup NextSlide",
-    "summary": "NextSlide says its team members are now working on ChatGPT.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-08-08T19:41:13.000Z",
-    "url": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/",
-    "imageUrl": null,
-    "tags": [
-      "AI",
-      "Startup"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-08-10T00:56:09.829Z"
-  },
-  {
-    "id": "news-1786323369830-21",
-    "title": "How to Disable Gemini in Gmail and Google Docs",
-    "summary": "New AI toolbars and prompts are showing up in Google Docs and Gmail. If you don’t want Gemini’s help in writing documents and emails, here’s how to turn that stuff off.",
-    "category": "tech-innovation",
-    "source": "Wired AI",
-    "author": "Unknown",
-    "publishedAt": "2026-08-08T10:00:00.000Z",
-    "url": "https://www.wired.com/story/how-to-disable-the-gemini-ai-features-in-gmail-and-google-docs/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-08-10T00:56:09.830Z"
-  },
-  {
-    "id": "news-1786323369829-3",
-    "title": "OpenAI says it slowed Astra model development over security concerns",
-    "summary": "OpenAI said this model, which is still in development, reached its \"critical cybersecurity threshold,\" meaning it could independently identify and carry out cyberattacks against traditionally well-protected real-world systems.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-08-07T22:48:24.000Z",
-    "url": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-08-10T00:56:09.829Z"
-  },
-  {
-    "id": "news-1786323369829-4",
-    "title": "After Rippling blew millions on AI in months, it built an employee ROI tool",
-    "summary": "After its own AI usage wake-up call, Rippling this week unveiled AI Spend Console, a product that tracks individual and team employee AI spending.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-08-07T21:30:11.000Z",
-    "url": "https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-08-10T00:56:09.829Z"
-  },
-  {
-    "id": "news-1786323369829-5",
-    "title": "Cloudflare launches Kitesurf, a browser built for AI agents",
-    "summary": "Kitesurf is a cloud-hosted browser designed for AI agents instead of people. It uses less computing power than Chromium for common automation tasks, helping developers build browser-based AI agents more efficiently.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-08-07T16:16:09.000Z",
-    "url": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-08-10T00:56:09.829Z"
-  },
-  {
-    "id": "news-1786323369830-29",
-    "title": "From Suno’s vinyl move to Spotify’s ‘fan-made’ Merlin deal… it’s MBW’s Weekly Round-up",
-    "summary": "The biggest headlines from the past few days...\n\nSource",
-    "category": "industry-news",
-    "source": "Music Business Worldwide",
-    "author": "Unknown",
-    "publishedAt": "2026-08-07T16:14:34.000Z",
-    "url": "https://www.musicbusinessworldwide.com/from-sunos-vinyl-move-to-spotifys-fan-made-merlin-deal-its-mbws-weekly-round-up/",
-    "imageUrl": null,
-    "tags": [
-      "Spotify"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-08-10T00:56:09.830Z"
-  },
-  {
-    "id": "news-1786323369830-30",
-    "title": "Feel The Club boss Juan Carlos Dominguez talks promoting shows for Shakira – and putting Ecuador on the map for stadium tours",
-    "summary": "MBW's Trailblazers series meets Juan Carlos Dominguez, founder and CEO of Latin America-focused concert powerhouse Feel The Club\nSource",
-    "category": "industry-news",
-    "source": "Music Business Worldwide",
-    "author": "Unknown",
-    "publishedAt": "2026-08-07T15:19:06.000Z",
-    "url": "https://www.musicbusinessworldwide.com/feel-the-club-boss-juan-carlos-dominguez-talks-promoting-shows-for-shakira-and-putting-ecuador-on-the-map-for-stadium-tours/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-08-10T00:56:09.830Z"
-  },
-  {
-    "id": "news-1786323369830-31",
-    "title": "SM Entertainment revenues rose 15.4% YoY to $233M in Q2, driven by concerts and merch",
-    "summary": "K-pop company's latest quarterly report was published on Wednesday, August 5\nSource",
-    "category": "industry-news",
-    "source": "Music Business Worldwide",
-    "author": "Unknown",
-    "publishedAt": "2026-08-07T14:39:04.000Z",
-    "url": "https://www.musicbusinessworldwide.com/sm-entertainment-revenues-rose-15-4-yoy-to-233m-in-q2-driven-by-concerts-and-merch/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-08-10T00:56:09.830Z"
-  },
-  {
-    "id": "news-1786323369829-6",
-    "title": "Airbnb says AI is helping it ship features faster as it tests a new search function",
-    "summary": "Airbnb will debut a new AI-powered search experience with a toggle.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-08-07T14:22:49.000Z",
-    "url": "https://techcrunch.com/2026/08/07/airbnb-says-ai-is-helping-it-ship-features-faster-as-it-tests-a-new-search-function/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-08-10T00:56:09.829Z"
-  },
-  {
-    "id": "news-1786323369830-22",
-    "title": "Scientists Used AI to Create 16 New Viruses",
-    "summary": "The use of AI systems to create viruses opens up new possibilities for combating bacterial resistance. It also raises concerns about the pace at which technology is outstripping regulation.",
-    "category": "tech-innovation",
-    "source": "Wired AI",
-    "author": "Unknown",
-    "publishedAt": "2026-08-07T14:13:57.000Z",
-    "url": "https://www.wired.com/story/scientists-used-ai-to-create-16-new-viruses/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-08-10T00:56:09.830Z"
+    "fetchedAt": "2026-08-11T00:55:33.724Z"
   }
 ]
