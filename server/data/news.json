@@ -1,78 +1,277 @@
 [
   {
-    "id": "news-1786496526593-36",
-    "title": "AEG Presents Partners With Japanese Concert Promoter Creativeman",
-    "summary": "The Japanese promotion giant's portfolio includes events like Summer Sonic, Sonicmania, Loud Park and Springroove.",
+    "id": "news-1786583004732-33",
+    "title": "Vanessa Williams Says Two Music Legends Passed on ‘Save the Best for Last’ Before It Came Her Way: ‘I Was Third One Up’",
+    "summary": "The ballad became a career-defining hit for Williams, spending five weeks at No. 1 on the Hot 100.",
     "category": "industry-news",
     "source": "Billboard",
     "author": "Unknown",
-    "publishedAt": "2026-08-12T01:00:00.000Z",
-    "url": "https://www.billboard.com/pro/aeg-presents-partners-with-creativeman-productions/",
+    "publishedAt": "2026-08-13T00:50:37.000Z",
+    "url": "https://www.billboard.com/music/pop/vanessa-williams-save-the-best-for-last-barbra-bette-passed-1236315438/",
     "imageUrl": null,
     "tags": [],
     "readTime": 1,
-    "fetchedAt": "2026-08-12T01:02:06.593Z"
+    "fetchedAt": "2026-08-13T01:03:24.732Z"
   },
   {
-    "id": "news-1786496526593-37",
-    "title": "NCT 127 Release ‘Piñata’ Video Ahead of 5-Piece ‘BLINGY’ Album Release",
-    "summary": "The group will be headlining KCON LA, where fans can get an early preview of the album this weekend.",
-    "category": "industry-news",
-    "source": "Billboard",
+    "id": "news-1786583004730-0",
+    "title": "Some Claude users are mad that Anthropic’s new watermarks will catch them using it at their jobs, classes",
+    "summary": "Is Anthropic's new watermarking system a travesty? Some have taken to social media to complain that it is.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
     "author": "Unknown",
-    "publishedAt": "2026-08-12T00:20:27.000Z",
-    "url": "https://www.billboard.com/music/pop/nct-127-pinata-video-blingy-album-1236314556/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-08-12T01:02:06.593Z"
-  },
-  {
-    "id": "news-1786496526593-38",
-    "title": "Fleetwood Mac’s ‘Greatest Hits’ Reaches Even Greater Heights, Hitting New Peak on Album Charts",
-    "summary": "After its expanded reissue, the best-of bounds to new highs on multiple charts.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-08-11T23:42:09.000Z",
-    "url": "https://www.billboard.com/music/chart-beat/fleetwood-mac-greatest-hits-reissue-billboard-charts-1236314533/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-08-12T01:02:06.593Z"
-  },
-  {
-    "id": "news-1786496526593-39",
-    "title": "The Davido Dozen: 12 ‘Oriade’ Tracks Stack U.S. Afrobeats Songs Chart",
-    "summary": "Among Davido’s dozen entries this week is his 12th top 10 on the 4-year-old list.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-08-11T22:54:42.000Z",
-    "url": "https://www.billboard.com/music/chart-beat/davido-oriade-album-b4-12-songs-us-afrobeats-chart-1236314487/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-08-12T01:02:06.593Z"
-  },
-  {
-    "id": "news-1786496526593-40",
-    "title": "Rod Stewart Cancels More Concerts After Heart Stent Procedure: ‘Sorry to Let My Fans Down’",
-    "summary": "\"On the advice of his doctors, he will take the next four weeks to recuperate and regain full fitness before returning to the stage.\"",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-08-11T22:52:21.000Z",
-    "url": "https://www.billboard.com/music/rock/rod-stewart-cancels-tour-dates-heart-stent-procedure-1236314469/",
+    "publishedAt": "2026-08-12T22:26:37.000Z",
+    "url": "https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes/",
     "imageUrl": null,
     "tags": [
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-08-12T01:02:06.593Z"
+    "fetchedAt": "2026-08-13T01:03:24.730Z"
   },
   {
-    "id": "news-1786496526593-29",
+    "id": "news-1786583004732-34",
+    "title": "Neil Perry Opens Up About The Band Perry’s Shifting Lineup, Says He Was ‘Terminated’ From Family Band",
+    "summary": "\"I explicitly asked my sister not to misrepresent my support for the current version of the band,\" Neil writes of Kimberly Perry moving forward with her husband.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-08-12T22:19:54.000Z",
+    "url": "https://www.billboard.com/music/country/neil-perry-band-perry-fired-kimberly-perry-1236315102/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-08-13T01:03:24.732Z"
+  },
+  {
+    "id": "news-1786583004732-17",
+    "title": "The White House Is Going to Expand Its AI Policy",
+    "summary": "Open models may soon be added to an updated AI framework, sources tell WIRED, as the White House continues to grapple with how to regulate a technology it has tried not to regulate.",
+    "category": "tech-innovation",
+    "source": "Wired AI",
+    "author": "Unknown",
+    "publishedAt": "2026-08-12T21:00:00.000Z",
+    "url": "https://www.wired.com/story/the-white-house-is-going-to-expand-its-ai-policy/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-08-13T01:03:24.732Z"
+  },
+  {
+    "id": "news-1786583004732-35",
+    "title": "What Every Music Company Made in Q2 2026 (Updating)",
+    "summary": "From Live Nation to UMG to SiriusXM, a roundup of what the biggest publicly traded music companies have reported so far for the quarter ending June 30. ",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-08-12T21:00:00.000Z",
+    "url": "https://www.billboard.com/lists/music-company-earnings-q2-2026-umg-live-nation-hybe-made/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-08-13T01:03:24.732Z"
+  },
+  {
+    "id": "news-1786583004732-18",
+    "title": "Rogue AI Agents Aren’t Evil. They’re Just Eager to Please",
+    "summary": "AI agents that break free and hack into other systems are only trying to make us happy.",
+    "category": "tech-innovation",
+    "source": "Wired AI",
+    "author": "Unknown",
+    "publishedAt": "2026-08-12T18:45:00.000Z",
+    "url": "https://www.wired.com/story/rogue-ai-is-just-misunderstood/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-08-13T01:03:24.732Z"
+  },
+  {
+    "id": "news-1786583004730-1",
+    "title": "AI coding startup Cognition reportedly already in talks to raise at $40B valuation",
+    "summary": "Cognition may be looking to raise another mega round just a few months after raising $1 billion at a $26 billion valuation. ",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-08-12T18:19:12.000Z",
+    "url": "https://techcrunch.com/2026/08/12/ai-coding-startup-cognition-reportedly-already-in-talks-to-raise-at-40b-valuation/",
+    "imageUrl": null,
+    "tags": [
+      "AI",
+      "Startup"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-08-13T01:03:24.731Z"
+  },
+  {
+    "id": "news-1786583004731-2",
+    "title": "As AI safety concerns mount, three pioneers make the case for staying open",
+    "summary": "At Ai4, three of the world's most respected AI experts — Geoffrey Hinton, Fei-Fei Li, and Andrew Ng — debated regulation, open source access, and how America can compete as China advances in Asia.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-08-12T17:51:00.000Z",
+    "url": "https://techcrunch.com/2026/08/12/as-ai-safety-concerns-mount-three-pioneers-make-the-case-for-staying-open/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-08-13T01:03:24.731Z"
+  },
+  {
+    "id": "news-1786583004731-3",
+    "title": "OpenAI-backed Thrive Holdings raises $2B to bring AI to the enterprise",
+    "summary": "Thrive Holdings has raised $2 billion in new funding at a $12 billion valuation from investors like SoftBank, D1 Capital Partners, and Altimeter Capital. ",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-08-12T17:41:29.000Z",
+    "url": "https://techcrunch.com/2026/08/12/openai-backed-thrive-holdings-raises-2b-to-bring-ai-to-the-enterprise/",
+    "imageUrl": null,
+    "tags": [
+      "AI",
+      "Investment"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-08-13T01:03:24.731Z"
+  },
+  {
+    "id": "news-1786583004731-4",
+    "title": "Why Stream ring-maker Sandbar says the future of AI wearables is voice",
+    "summary": "AI notetaking hardware has taken off over the past couple of years, with credit-card-sized devices, pendants, pins, and even transcribing earbuds all promising to capture your meetings and turn them into summaries and action items. Now, a whole wave of wearables — rings especially — are betting people want to capture stray thoughts and ideas the same way.  One of […]",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-08-12T16:46:02.000Z",
+    "url": "https://techcrunch.com/video/why-stream-ring-maker-sandbar-says-the-future-of-ai-wearables-is-voice/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-08-13T01:03:24.731Z"
+  },
+  {
+    "id": "news-1786583004731-5",
+    "title": "Why Sandbar thinks it’s voice-enabled ring can avoid the AI hardware graveyard",
+    "summary": "AI notetaking hardware has taken off over the past couple of years, with credit-card-sized devices, pendants, pins, and even transcribing earbuds all promising to capture your meetings and turn them into summaries and action items. Now, a whole wave of wearables — rings especially — are betting people want to capture stray thoughts and ideas the same way.  One of […]",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-08-12T14:22:00.000Z",
+    "url": "https://techcrunch.com/podcast/why-sandbar-thinks-its-voice-enabled-ring-can-avoid-the-ai-hardware-graveyard/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-08-13T01:03:24.731Z"
+  },
+  {
+    "id": "news-1786583004732-25",
+    "title": "Anghami co-founder Eddy Maroun launches Arabic music IP platform IPNation, targeting $100m with backing from Influence Media Partners",
+    "summary": "IPNation describes itself as the first investment platform dedicated exclusively to Arabic music catalogs and entertainment IP.\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-08-12T12:17:56.000Z",
+    "url": "https://www.musicbusinessworldwide.com/anghami-co-founder-eddy-maroun-launches-arabic-music-ip-platform-ipnation-targeting-100m-with-backing-from-influence-media-partners/",
+    "imageUrl": null,
+    "tags": [
+      "AI",
+      "Investment"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-08-13T01:03:24.732Z"
+  },
+  {
+    "id": "news-1786583004731-6",
+    "title": "AI code-testing startup Blacksmith’s valuation jumps almost 10x in less than a year",
+    "summary": "Blacksmith says revenue has grown more than tenfold over the past year.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-08-12T11:00:00.000Z",
+    "url": "https://techcrunch.com/2026/08/12/blacksmiths-valuation-jumps-10x-to-550m-as-ai-coding-fuels-software-validation/",
+    "imageUrl": null,
+    "tags": [
+      "AI",
+      "Startup"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-08-13T01:03:24.731Z"
+  },
+  {
+    "id": "news-1786583004732-19",
+    "title": "Oh Lord, AI Reporters Are Actually Breaking Big News",
+    "summary": "Last week, an AI newsroom beat mainstream journalists—including WIRED—to a story about OpenAI and hacking. It’s just the beginning.",
+    "category": "trends-analysis",
+    "source": "Wired AI",
+    "author": "Unknown",
+    "publishedAt": "2026-08-12T10:30:00.000Z",
+    "url": "https://www.wired.com/story/ai-newsrooms-are-breaking-news-now-haha-im-in-danger/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-08-13T01:03:24.732Z"
+  },
+  {
+    "id": "news-1786583004732-26",
+    "title": "Suno inks global licensing deal with BMG, ahead of launching new music model",
+    "summary": "BMG is the first significant rightsholder to ink a licensing deal with Suno since Warner Music Group announced an alliance with the AI company nine months ago.\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-08-12T09:58:34.000Z",
+    "url": "https://www.musicbusinessworldwide.com/suno-inks-global-licensing-deal-with-bmg/",
+    "imageUrl": null,
+    "tags": [
+      "AI",
+      "Copyright"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-08-13T01:03:24.732Z"
+  },
+  {
+    "id": "news-1786583004732-20",
+    "title": "You’re Thinking About Online Trends All Wrong",
+    "summary": "From pessimism around dating to AI reshaping culture, cyber-ethnographer Ruby J. Thelot tells WIRED why people are putting too much stock into things that go viral.",
+    "category": "tech-innovation",
+    "source": "Wired AI",
+    "author": "Unknown",
+    "publishedAt": "2026-08-12T09:30:00.000Z",
+    "url": "https://www.wired.com/story/youre-thinking-about-online-trends-all-wrong/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-08-13T01:03:24.732Z"
+  },
+  {
+    "id": "news-1786583004732-27",
+    "title": "AEG Presents strikes strategic partnership with Creativeman Productions, promoter of Japan’s Summer Sonic festival",
+    "summary": "AEG Presents and Creativeman announced the deal on Tuesday (August 11), expanding AEG Presents' presence in Japan.\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-08-12T01:00:28.000Z",
+    "url": "https://www.musicbusinessworldwide.com/aeg-presents-strikes-strategic-partnership-with-creativeman-productions-promoter-of-japans-summer-sonic-festival/",
+    "imageUrl": null,
+    "tags": [
+      "Partnership"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-08-13T01:03:24.732Z"
+  },
+  {
+    "id": "news-1786583004732-28",
     "title": "Suno limits Pro subscribers to 20 song downloads per month, while promising new models ‘developed in partnership with the music industry’",
     "summary": "Suno stated in a blog post on Monday (August 10) that the download restrictions \"will make it harder for bad actors to mass-export music\"\nSource",
     "category": "industry-news",
@@ -85,68 +284,10 @@
       "Partnership"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-08-12T01:02:06.593Z"
+    "fetchedAt": "2026-08-13T01:03:24.732Z"
   },
   {
-    "id": "news-1786496526593-41",
-    "title": "Billboard’s Music Industry Events Calendar",
-    "summary": "A complete rundown of the most important events across the music business.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-08-11T22:38:00.000Z",
-    "url": "https://www.billboard.com/pro/music-industry-events-calendar-festivals-awards-conferences/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-08-12T01:02:06.593Z"
-  },
-  {
-    "id": "news-1786496526593-42",
-    "title": "Cardi B Earns a Hot Rap Songs Top 10 for a 10th Straight Year With ‘AH HA’",
-    "summary": "The standalone single is Cardi's 30th top 10 on the chart.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-08-11T22:37:29.000Z",
-    "url": "https://www.billboard.com/music/chart-beat/cardi-b-ah-ha-top-10-debut-hot-rap-songs-chart-hot-100-1236314443/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-08-12T01:02:06.594Z"
-  },
-  {
-    "id": "news-1786496526594-43",
-    "title": "Shyne, Patra, Calypso Rose & Alan Cavé Among Special Honorees at 2026 Caribbean Music Awards",
-    "summary": "This year's ceremony is set to honor Caribbean music giants across hip-hop, dancehall, reggae, calypso and konpa.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-08-11T22:30:00.000Z",
-    "url": "https://www.billboard.com/music/awards/caribbean-music-awards-move-trinidad-tobago-2026-ceremony-1236305677/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-08-12T01:02:06.594Z"
-  },
-  {
-    "id": "news-1786496526594-44",
-    "title": "Trump’s Kennedy Center Ordered to Pay $250,000 to Jazz Musician Who Defeated Lawsuit",
-    "summary": "Chuck Redd faced litigation after pulling out of a Christmas Eve concert in protest of the venue adding Donald Trump's name to its moniker. ",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-08-11T22:18:44.000Z",
-    "url": "https://www.billboard.com/pro/trump-kennedy-center-lawsuit-jazz-musician-wins-legal-fees/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-08-12T01:02:06.594Z"
-  },
-  {
-    "id": "news-1786496526591-0",
+    "id": "news-1786583004731-7",
     "title": "OpenAI launches ChatGPT desktop app for Linux",
     "summary": "OpenAI is finally bringing a dedicated ChatGPT desktop app to Linux operating systems. ",
     "category": "ai-research",
@@ -159,10 +300,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-08-12T01:02:06.592Z"
+    "fetchedAt": "2026-08-13T01:03:24.731Z"
   },
   {
-    "id": "news-1786496526593-30",
+    "id": "news-1786583004732-29",
     "title": "Exceleration Music strikes strategic partnership with Christian hip-hop label Reach Records",
     "summary": "Exceleration's distribution company Redeye Worldwide will handle global physical and digital distribution for Reach's new releases\nSource",
     "category": "industry-news",
@@ -175,137 +316,6 @@
       "Partnership"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-08-12T01:02:06.593Z"
-  },
-  {
-    "id": "news-1786496526592-1",
-    "title": "General Catalyst leads $1.1B round into 2-month-old River AI",
-    "summary": "River AI, a startup founded by xAI co-founder Igor Babuschkin, has a fascinating vision for personal agents and secured $1.1 billion out of the gate.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-08-11T17:41:22.000Z",
-    "url": "https://techcrunch.com/2026/08/11/general-catalyst-leads-1-1b-round-into-2-month-old-river-ai/",
-    "imageUrl": null,
-    "tags": [
-      "AI",
-      "Startup"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-08-12T01:02:06.592Z"
-  },
-  {
-    "id": "news-1786496526593-31",
-    "title": "Global Music Rights and Music Choice settle 95-song copyright case",
-    "summary": "GMR filed the complaint on June 8, alleging that Music Choice continued performing songs from its catalog after the companies' license agreement lapsed.\nSource",
-    "category": "industry-news",
-    "source": "Music Business Worldwide",
-    "author": "Unknown",
-    "publishedAt": "2026-08-11T13:53:16.000Z",
-    "url": "https://www.musicbusinessworldwide.com/global-music-rights-and-music-choice-settle-95-song-copyright-case/",
-    "imageUrl": null,
-    "tags": [
-      "AI",
-      "Copyright"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-08-12T01:02:06.593Z"
-  },
-  {
-    "id": "news-1786496526593-32",
-    "title": "‘The real debate isn’t AI versus artists – it’s whether innovation and rightsholder participation can coexist.’",
-    "summary": "Hook founder and CEO Gaurav Sharma explains why fan-made creations and remixes on social media are becoming the music industry’s next major consumption category…\nSource",
-    "category": "industry-news",
-    "source": "Music Business Worldwide",
-    "author": "Unknown",
-    "publishedAt": "2026-08-11T13:30:40.000Z",
-    "url": "https://www.musicbusinessworldwide.com/the-real-debate-isnt-ai-versus-artists-its-whether-innovation-and-rightsholder-participation-can-coexist/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-08-12T01:02:06.593Z"
-  },
-  {
-    "id": "news-1786496526592-2",
-    "title": "Spotify will label ‘AI Persona’ profiles and exclude their music from recommendations",
-    "summary": "Spotify is introducing “AI Persona” labels for artist profiles that represent AI-generated identities and will exclude their music from editorial, algorithmic, and personalized recommendations by default.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-08-11T13:00:00.000Z",
-    "url": "https://techcrunch.com/2026/08/11/spotify-will-label-ai-persona-profiles-and-exclude-their-music-from-recommendations/",
-    "imageUrl": null,
-    "tags": [
-      "Spotify",
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-08-12T01:02:06.592Z"
-  },
-  {
-    "id": "news-1786496526593-20",
-    "title": "A Zoom Screen-Sharing Bug Let Anyone Take Over Other Devices on a Call",
-    "summary": "Researchers say it took fewer than 20 prompts for a public AI tool to find a flaw (now fixed) allowing anyone on a Zoom call to hijack another participants’ device.",
-    "category": "tech-innovation",
-    "source": "Wired AI",
-    "author": "Unknown",
-    "publishedAt": "2026-08-11T12:37:12.000Z",
-    "url": "https://www.wired.com/story/a-zoom-screen-sharing-bug-let-anyone-take-over-other-devices-on-a-call/",
-    "imageUrl": null,
-    "tags": [
-      "AI",
-      "Research"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-08-12T01:02:06.593Z"
-  },
-  {
-    "id": "news-1786496526593-33",
-    "title": "Spotify to label AI artists with new ‘AI Persona’ badge – and keep their music out of recommendations by default",
-    "summary": "The badge is designed to tell listeners that an artist's identity \"may be AI-generated and does not represent a real person\"\nSource",
-    "category": "industry-news",
-    "source": "Music Business Worldwide",
-    "author": "Unknown",
-    "publishedAt": "2026-08-11T12:26:23.000Z",
-    "url": "https://www.musicbusinessworldwide.com/spotifys-ai-persona-label-ai-generated-artists-and-keeps-them-out-of-recommendations-by-default/",
-    "imageUrl": null,
-    "tags": [
-      "Spotify",
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-08-12T01:02:06.593Z"
-  },
-  {
-    "id": "news-1786496526592-3",
-    "title": "Anthropic says it will watermark text generated by its AI models",
-    "summary": "Anthropic will extend support for watermarking AI generations for older models as well.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-08-11T12:13:47.000Z",
-    "url": "https://techcrunch.com/2026/08/11/anthropic-says-it-will-watermark-text-generated-by-its-ai-models/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-08-12T01:02:06.592Z"
-  },
-  {
-    "id": "news-1786496526593-34",
-    "title": "Tencent Music generated $1.32B in Q2, up 5.8% YoY – driven by concert growth and the integration of Ximalaya",
-    "summary": "Overall revenues were driven by an 11% YoY rise in the company's music-related services division\nSource",
-    "category": "industry-news",
-    "source": "Music Business Worldwide",
-    "author": "Unknown",
-    "publishedAt": "2026-08-11T11:00:16.000Z",
-    "url": "https://www.musicbusinessworldwide.com/tencent-music-generated-1-32b-in-q2-up-5-8-yoy-driven-by-concert-growth-and-the-integration-of-ximalaya/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-08-12T01:02:06.593Z"
+    "fetchedAt": "2026-08-13T01:03:24.732Z"
   }
 ]

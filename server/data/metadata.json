@@ -1,16 +1,17 @@
 {
-  "lastUpdated": "2026-08-12T01:02:06.594Z",
+  "lastUpdated": "2026-08-13T01:03:24.733Z",
   "totalArticles": 20,
   "categories": {
-    "industry-news": 15,
-    "ai-research": 4,
-    "tech-innovation": 1
+    "industry-news": 8,
+    "ai-research": 8,
+    "tech-innovation": 3,
+    "trends-analysis": 1
   },
   "sources": [
     "Billboard",
-    "Music Business Worldwide",
     "TechCrunch AI",
-    "Wired AI"
+    "Wired AI",
+    "Music Business Worldwide"
   ],
   "updateSource": "github-actions-auto"
 }
