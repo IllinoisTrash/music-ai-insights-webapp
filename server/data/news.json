@@ -1,20 +1,278 @@
 [
   {
-    "id": "news-1786583004732-33",
-    "title": "Vanessa Williams Says Two Music Legends Passed on ‘Save the Best for Last’ Before It Came Her Way: ‘I Was Third One Up’",
-    "summary": "The ballad became a career-defining hit for Williams, spending five weeks at No. 1 on the Hot 100.",
+    "id": "news-1786669368316-20",
+    "title": "The Safety Reckoning Inside OpenAI",
+    "summary": "OpenAI’s rogue agent hack was a watershed moment for AI safety and cybersecurity. It also sparked internal questions about the culture that led to it.",
+    "category": "tech-innovation",
+    "source": "Wired AI",
+    "author": "Unknown",
+    "publishedAt": "2026-08-13T22:37:19.000Z",
+    "url": "https://www.wired.com/story/openai-safety-security-ai-agents-culture/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-08-14T01:02:48.316Z"
+  },
+  {
+    "id": "news-1786669368317-36",
+    "title": "LOS40 Primavera Pop to Make Latin American Debut in Buenos Aires",
+    "summary": "The Buenos Aires lineup will feature Luis Fonsi, Argentine artists Abel Pintos, Luck Ra, Ángela Torres, Emanero, Coti and more.",
     "category": "industry-news",
     "source": "Billboard",
     "author": "Unknown",
-    "publishedAt": "2026-08-13T00:50:37.000Z",
-    "url": "https://www.billboard.com/music/pop/vanessa-williams-save-the-best-for-last-barbra-bette-passed-1236315438/",
+    "publishedAt": "2026-08-13T22:13:28.000Z",
+    "url": "https://www.billboard.com/music/latin/los40-primavera-pop-debut-argentina-buenos-aires-2026-1236316189/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-08-14T01:02:48.317Z"
+  },
+  {
+    "id": "news-1786669368317-37",
+    "title": "‘Damn Unk!’ Chris Brown Reacts After Lionel Richie Roasts Him During Concert",
+    "summary": "Richie joked about Brown’s legal history while comparing Usher and Brown’s tour to his own with Earth, Wind & Fire.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-08-13T22:11:24.000Z",
+    "url": "https://www.billboard.com/music/rb-hip-hop/chris-brown-lionel-richie-legal-troubles-concert-video-1236316135/",
     "imageUrl": null,
     "tags": [],
     "readTime": 1,
-    "fetchedAt": "2026-08-13T01:03:24.732Z"
+    "fetchedAt": "2026-08-14T01:02:48.317Z"
   },
   {
-    "id": "news-1786583004730-0",
+    "id": "news-1786669368317-38",
+    "title": "Beatport Strengthens AI Music Ban With AI Detection Tool, Says 77% of Users Want Fully Human-Made Music",
+    "summary": "The newly added Beatdapp tool will ensure fully AI-generated music does not appear on Beatport, per the company's AI policy. ",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-08-13T22:11:05.000Z",
+    "url": "https://www.billboard.com/pro/beatport-ai-music-ban-new-ai-detection-tool/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-08-14T01:02:48.317Z"
+  },
+  {
+    "id": "news-1786669368316-28",
+    "title": "Suno launches Studio 2.0 with MIDI support, an AI chat bar… and no download limit",
+    "summary": "Suno claims that \"Grammy-winning artists\" have used Suno Studio in the past to \"make chart-topping hits\"\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-08-13T21:21:27.000Z",
+    "url": "https://www.musicbusinessworldwide.com/suno-launches-studio-2-0-with-midi-support/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-08-14T01:02:48.316Z"
+  },
+  {
+    "id": "news-1786669368316-21",
+    "title": "Mark Zuckerberg’s AI Manifesto Is 6,500 Words—and Barely Says Anything",
+    "summary": "AI is shifting the culture, from tech CEO manifestos to 1 am job interviews. We unpack some of the latest, along with the top findings from Black Hat and Defcon, this week on Uncanny Valley.",
+    "category": "tech-innovation",
+    "source": "Wired AI",
+    "author": "Unknown",
+    "publishedAt": "2026-08-13T21:14:43.000Z",
+    "url": "https://www.wired.com/story/mark-zuckerbergs-ai-manifesto-is-6500-words-and-barely-says-anything/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-08-14T01:02:48.316Z"
+  },
+  {
+    "id": "news-1786669368315-0",
+    "title": "Writer introduces new AI model and upgraded harness to contain token costs",
+    "summary": "Built as a post-training variation on Z.ai's open source model GLM-5.2, Writer says the new system should provide deployment-ready capabilities at a much lower price.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-08-13T21:13:24.000Z",
+    "url": "https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-08-14T01:02:48.315Z"
+  },
+  {
+    "id": "news-1786669368315-1",
+    "title": "Databricks wanted to raise $1B, investors wanted $15B. It settled on $5B at a $190B valuation.",
+    "summary": "AI is expensive, Ali Ghodsi tells TechCrunch. With so many investors wanting into his latest round, he said yes to more than planned.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-08-13T20:14:39.000Z",
+    "url": "https://techcrunch.com/2026/08/13/databricks-wanted-to-raise-1b-investors-wanted-15b-it-settled-on-5b-at-a-190b-valuation/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-08-14T01:02:48.315Z"
+  },
+  {
+    "id": "news-1786669368315-2",
+    "title": "OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT-5.6 Sol work at 14x the speed",
+    "summary": "OpenAI is launching a preview of a sped up version of its latest, most powerful model, in an effort to court enterprise users. ",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-08-13T19:22:40.000Z",
+    "url": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-08-14T01:02:48.315Z"
+  },
+  {
+    "id": "news-1786669368315-3",
+    "title": "IBM partners with OpenAI to bolster enterprise AI push",
+    "summary": "IBM plans to train and certify tens of thousands of consultants on OpenAI's technologies as part of this deal.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-08-13T19:19:49.000Z",
+    "url": "https://techcrunch.com/2026/08/13/ibm-partners-with-openai-to-bolster-enterprise-ai-push/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-08-14T01:02:48.315Z"
+  },
+  {
+    "id": "news-1786669368315-4",
+    "title": "Anthropic set AI agents loose on the same task. They started a turf war.",
+    "summary": "Anthropic researchers found AI agents can clash, collude, and coordinate in unexpected ways, raising new questions about whether today’s safety tests capture the risks of multi-agent systems.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-08-13T18:28:14.000Z",
+    "url": "https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war/",
+    "imageUrl": null,
+    "tags": [
+      "AI",
+      "Research"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-08-14T01:02:48.315Z"
+  },
+  {
+    "id": "news-1786669368315-5",
+    "title": "OpenAI hires new CRO as executive shake-up continues",
+    "summary": "OpenAI has replaced chief revenue officer Denise Dresser after just nine months on the job, tapping Wiz president and chief operating officer Dali Rajic to take on frontier lab's top sales job.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-08-13T17:07:13.000Z",
+    "url": "https://techcrunch.com/2026/08/13/openai-hires-new-cro-as-executive-shake-up-continues/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-08-14T01:02:48.315Z"
+  },
+  {
+    "id": "news-1786669368316-29",
+    "title": "After Universal and Merlin deals, Spotify inks agreement with Kobalt for AI-powered ‘fan-made’ covers and remixes",
+    "summary": "It is the first deal for the tool with a music publisher outside Universal Music Group.\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-08-13T15:44:07.000Z",
+    "url": "https://www.musicbusinessworldwide.com/after-universal-and-merlin-deals-spotify-inks-agreement-with-kobalt-for-ai-powered-fan-made-covers-and-remixes/",
+    "imageUrl": null,
+    "tags": [
+      "Spotify",
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-08-14T01:02:48.316Z"
+  },
+  {
+    "id": "news-1786669368316-30",
+    "title": "Virgin Music Group appoints Syaheed MSBI as Vice President of AMEA region",
+    "summary": "Syaheed joins from Believe to oversee Virgin’s operations across Africa, the Middle East and Asia\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-08-13T15:32:17.000Z",
+    "url": "https://www.musicbusinessworldwide.com/virgin-music-group-appoints-syaheed-msbi-as-vice-president-of-amea-region/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-08-14T01:02:48.316Z"
+  },
+  {
+    "id": "news-1786669368315-6",
+    "title": "Microsoft kills off unsuccessful AI features while merging its separate Copilot apps",
+    "summary": "Microsoft is simplifying Copilot by combining its consumer and business apps, and dropping AI-generated podcasts, Group Chats, Deep Research, and its Mico character.",
+    "category": "tech-innovation",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-08-13T15:30:52.000Z",
+    "url": "https://techcrunch.com/2026/08/13/microsoft-kills-off-unsuccessful-ai-features-while-merging-its-separate-copilot-apps/",
+    "imageUrl": null,
+    "tags": [
+      "AI",
+      "Research"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-08-14T01:02:48.315Z"
+  },
+  {
+    "id": "news-1786669368315-7",
+    "title": "Nvidia’s new $500B plan is risky but brilliant, especially for aging GPUs",
+    "summary": "Nvidia has a plan to make sure its GPUs won't lose value. It wants to convince a new crop of financiers to keep lending for AI buildouts.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-08-13T15:08:00.000Z",
+    "url": "https://techcrunch.com/2026/08/13/nvidias-new-500b-plan-is-risky-but-brilliant-especially-for-aging-gpus/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-08-14T01:02:48.315Z"
+  },
+  {
+    "id": "news-1786669368316-22",
+    "title": "There’s a Fatty Liver Epidemic. AI Could Help Get Ahead of It",
+    "summary": "Over a billion people worldwide have livers with excess fat, which can lead to a host of medical problems. Researchers think AI tools can spot the condition—and help stop it—early enough to save lives.",
+    "category": "tech-innovation",
+    "source": "Wired AI",
+    "author": "Unknown",
+    "publishedAt": "2026-08-13T09:00:00.000Z",
+    "url": "https://www.wired.com/story/fatty-liver-disease-ai-detection-cancer/",
+    "imageUrl": null,
+    "tags": [
+      "AI",
+      "Research"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-08-14T01:02:48.316Z"
+  },
+  {
+    "id": "news-1786669368315-8",
     "title": "Some Claude users are mad that Anthropic’s new watermarks will catch them using it at their jobs, classes",
     "summary": "Is Anthropic's new watermarking system a travesty? Some have taken to social media to complain that it is.",
     "category": "ai-research",
@@ -27,24 +285,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-08-13T01:03:24.730Z"
+    "fetchedAt": "2026-08-14T01:02:48.315Z"
   },
   {
-    "id": "news-1786583004732-34",
-    "title": "Neil Perry Opens Up About The Band Perry’s Shifting Lineup, Says He Was ‘Terminated’ From Family Band",
-    "summary": "\"I explicitly asked my sister not to misrepresent my support for the current version of the band,\" Neil writes of Kimberly Perry moving forward with her husband.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-08-12T22:19:54.000Z",
-    "url": "https://www.billboard.com/music/country/neil-perry-band-perry-fired-kimberly-perry-1236315102/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-08-13T01:03:24.732Z"
-  },
-  {
-    "id": "news-1786583004732-17",
+    "id": "news-1786669368316-23",
     "title": "The White House Is Going to Expand Its AI Policy",
     "summary": "Open models may soon be added to an updated AI framework, sources tell WIRED, as the White House continues to grapple with how to regulate a technology it has tried not to regulate.",
     "category": "tech-innovation",
@@ -57,24 +301,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-08-13T01:03:24.732Z"
+    "fetchedAt": "2026-08-14T01:02:48.316Z"
   },
   {
-    "id": "news-1786583004732-35",
-    "title": "What Every Music Company Made in Q2 2026 (Updating)",
-    "summary": "From Live Nation to UMG to SiriusXM, a roundup of what the biggest publicly traded music companies have reported so far for the quarter ending June 30. ",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-08-12T21:00:00.000Z",
-    "url": "https://www.billboard.com/lists/music-company-earnings-q2-2026-umg-live-nation-hybe-made/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-08-13T01:03:24.732Z"
-  },
-  {
-    "id": "news-1786583004732-18",
+    "id": "news-1786669368316-24",
     "title": "Rogue AI Agents Aren’t Evil. They’re Just Eager to Please",
     "summary": "AI agents that break free and hack into other systems are only trying to make us happy.",
     "category": "tech-innovation",
@@ -87,235 +317,6 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-08-13T01:03:24.732Z"
-  },
-  {
-    "id": "news-1786583004730-1",
-    "title": "AI coding startup Cognition reportedly already in talks to raise at $40B valuation",
-    "summary": "Cognition may be looking to raise another mega round just a few months after raising $1 billion at a $26 billion valuation. ",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-08-12T18:19:12.000Z",
-    "url": "https://techcrunch.com/2026/08/12/ai-coding-startup-cognition-reportedly-already-in-talks-to-raise-at-40b-valuation/",
-    "imageUrl": null,
-    "tags": [
-      "AI",
-      "Startup"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-08-13T01:03:24.731Z"
-  },
-  {
-    "id": "news-1786583004731-2",
-    "title": "As AI safety concerns mount, three pioneers make the case for staying open",
-    "summary": "At Ai4, three of the world's most respected AI experts — Geoffrey Hinton, Fei-Fei Li, and Andrew Ng — debated regulation, open source access, and how America can compete as China advances in Asia.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-08-12T17:51:00.000Z",
-    "url": "https://techcrunch.com/2026/08/12/as-ai-safety-concerns-mount-three-pioneers-make-the-case-for-staying-open/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-08-13T01:03:24.731Z"
-  },
-  {
-    "id": "news-1786583004731-3",
-    "title": "OpenAI-backed Thrive Holdings raises $2B to bring AI to the enterprise",
-    "summary": "Thrive Holdings has raised $2 billion in new funding at a $12 billion valuation from investors like SoftBank, D1 Capital Partners, and Altimeter Capital. ",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-08-12T17:41:29.000Z",
-    "url": "https://techcrunch.com/2026/08/12/openai-backed-thrive-holdings-raises-2b-to-bring-ai-to-the-enterprise/",
-    "imageUrl": null,
-    "tags": [
-      "AI",
-      "Investment"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-08-13T01:03:24.731Z"
-  },
-  {
-    "id": "news-1786583004731-4",
-    "title": "Why Stream ring-maker Sandbar says the future of AI wearables is voice",
-    "summary": "AI notetaking hardware has taken off over the past couple of years, with credit-card-sized devices, pendants, pins, and even transcribing earbuds all promising to capture your meetings and turn them into summaries and action items. Now, a whole wave of wearables — rings especially — are betting people want to capture stray thoughts and ideas the same way.  One of […]",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-08-12T16:46:02.000Z",
-    "url": "https://techcrunch.com/video/why-stream-ring-maker-sandbar-says-the-future-of-ai-wearables-is-voice/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-08-13T01:03:24.731Z"
-  },
-  {
-    "id": "news-1786583004731-5",
-    "title": "Why Sandbar thinks it’s voice-enabled ring can avoid the AI hardware graveyard",
-    "summary": "AI notetaking hardware has taken off over the past couple of years, with credit-card-sized devices, pendants, pins, and even transcribing earbuds all promising to capture your meetings and turn them into summaries and action items. Now, a whole wave of wearables — rings especially — are betting people want to capture stray thoughts and ideas the same way.  One of […]",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-08-12T14:22:00.000Z",
-    "url": "https://techcrunch.com/podcast/why-sandbar-thinks-its-voice-enabled-ring-can-avoid-the-ai-hardware-graveyard/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-08-13T01:03:24.731Z"
-  },
-  {
-    "id": "news-1786583004732-25",
-    "title": "Anghami co-founder Eddy Maroun launches Arabic music IP platform IPNation, targeting $100m with backing from Influence Media Partners",
-    "summary": "IPNation describes itself as the first investment platform dedicated exclusively to Arabic music catalogs and entertainment IP.\nSource",
-    "category": "industry-news",
-    "source": "Music Business Worldwide",
-    "author": "Unknown",
-    "publishedAt": "2026-08-12T12:17:56.000Z",
-    "url": "https://www.musicbusinessworldwide.com/anghami-co-founder-eddy-maroun-launches-arabic-music-ip-platform-ipnation-targeting-100m-with-backing-from-influence-media-partners/",
-    "imageUrl": null,
-    "tags": [
-      "AI",
-      "Investment"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-08-13T01:03:24.732Z"
-  },
-  {
-    "id": "news-1786583004731-6",
-    "title": "AI code-testing startup Blacksmith’s valuation jumps almost 10x in less than a year",
-    "summary": "Blacksmith says revenue has grown more than tenfold over the past year.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-08-12T11:00:00.000Z",
-    "url": "https://techcrunch.com/2026/08/12/blacksmiths-valuation-jumps-10x-to-550m-as-ai-coding-fuels-software-validation/",
-    "imageUrl": null,
-    "tags": [
-      "AI",
-      "Startup"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-08-13T01:03:24.731Z"
-  },
-  {
-    "id": "news-1786583004732-19",
-    "title": "Oh Lord, AI Reporters Are Actually Breaking Big News",
-    "summary": "Last week, an AI newsroom beat mainstream journalists—including WIRED—to a story about OpenAI and hacking. It’s just the beginning.",
-    "category": "trends-analysis",
-    "source": "Wired AI",
-    "author": "Unknown",
-    "publishedAt": "2026-08-12T10:30:00.000Z",
-    "url": "https://www.wired.com/story/ai-newsrooms-are-breaking-news-now-haha-im-in-danger/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-08-13T01:03:24.732Z"
-  },
-  {
-    "id": "news-1786583004732-26",
-    "title": "Suno inks global licensing deal with BMG, ahead of launching new music model",
-    "summary": "BMG is the first significant rightsholder to ink a licensing deal with Suno since Warner Music Group announced an alliance with the AI company nine months ago.\nSource",
-    "category": "industry-news",
-    "source": "Music Business Worldwide",
-    "author": "Unknown",
-    "publishedAt": "2026-08-12T09:58:34.000Z",
-    "url": "https://www.musicbusinessworldwide.com/suno-inks-global-licensing-deal-with-bmg/",
-    "imageUrl": null,
-    "tags": [
-      "AI",
-      "Copyright"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-08-13T01:03:24.732Z"
-  },
-  {
-    "id": "news-1786583004732-20",
-    "title": "You’re Thinking About Online Trends All Wrong",
-    "summary": "From pessimism around dating to AI reshaping culture, cyber-ethnographer Ruby J. Thelot tells WIRED why people are putting too much stock into things that go viral.",
-    "category": "tech-innovation",
-    "source": "Wired AI",
-    "author": "Unknown",
-    "publishedAt": "2026-08-12T09:30:00.000Z",
-    "url": "https://www.wired.com/story/youre-thinking-about-online-trends-all-wrong/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-08-13T01:03:24.732Z"
-  },
-  {
-    "id": "news-1786583004732-27",
-    "title": "AEG Presents strikes strategic partnership with Creativeman Productions, promoter of Japan’s Summer Sonic festival",
-    "summary": "AEG Presents and Creativeman announced the deal on Tuesday (August 11), expanding AEG Presents' presence in Japan.\nSource",
-    "category": "industry-news",
-    "source": "Music Business Worldwide",
-    "author": "Unknown",
-    "publishedAt": "2026-08-12T01:00:28.000Z",
-    "url": "https://www.musicbusinessworldwide.com/aeg-presents-strikes-strategic-partnership-with-creativeman-productions-promoter-of-japans-summer-sonic-festival/",
-    "imageUrl": null,
-    "tags": [
-      "Partnership"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-08-13T01:03:24.732Z"
-  },
-  {
-    "id": "news-1786583004732-28",
-    "title": "Suno limits Pro subscribers to 20 song downloads per month, while promising new models ‘developed in partnership with the music industry’",
-    "summary": "Suno stated in a blog post on Monday (August 10) that the download restrictions \"will make it harder for bad actors to mass-export music\"\nSource",
-    "category": "industry-news",
-    "source": "Music Business Worldwide",
-    "author": "Unknown",
-    "publishedAt": "2026-08-11T22:47:25.000Z",
-    "url": "https://www.musicbusinessworldwide.com/suno-limits-subscribers-downloads-per-month/",
-    "imageUrl": null,
-    "tags": [
-      "Partnership"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-08-13T01:03:24.732Z"
-  },
-  {
-    "id": "news-1786583004731-7",
-    "title": "OpenAI launches ChatGPT desktop app for Linux",
-    "summary": "OpenAI is finally bringing a dedicated ChatGPT desktop app to Linux operating systems. ",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-08-11T19:15:35.000Z",
-    "url": "https://techcrunch.com/2026/08/11/openai-launches-chatgpt-desktop-app-for-linux/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-08-13T01:03:24.731Z"
-  },
-  {
-    "id": "news-1786583004732-29",
-    "title": "Exceleration Music strikes strategic partnership with Christian hip-hop label Reach Records",
-    "summary": "Exceleration's distribution company Redeye Worldwide will handle global physical and digital distribution for Reach's new releases\nSource",
-    "category": "industry-news",
-    "source": "Music Business Worldwide",
-    "author": "Unknown",
-    "publishedAt": "2026-08-11T18:52:26.000Z",
-    "url": "https://www.musicbusinessworldwide.com/exceleration-music-strikes-strategic-alliance-with-christian-hip-hop-label-reach-records/",
-    "imageUrl": null,
-    "tags": [
-      "Partnership"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-08-13T01:03:24.732Z"
+    "fetchedAt": "2026-08-14T01:02:48.316Z"
   }
 ]
