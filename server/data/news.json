@@ -1,6 +1,171 @@
 [
   {
-    "id": "news-1786840752527-0",
+    "id": "news-1786927071683-38",
+    "title": "Fans Choose Ayra Starr’s ‘Starrgirl’ as This Week’s Favorite New Music",
+    "summary": "The Nigerian singer's new album brought in more than 87% of the vote.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-08-16T23:27:11.000Z",
+    "url": "https://www.billboard.com/music/music-news/ayra-starrs-starrgirl-best-new-music-poll-results-1236317440/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-08-17T00:37:51.683Z"
+  },
+  {
+    "id": "news-1786927071683-39",
+    "title": "The Best Moments From KCON LA 2026 (So Far)",
+    "summary": "Day two delivered delightful covers of Justin Timberlake, One Direction, BLACKPINK and ATEEZ songs as ZEROBASEONE headlined the concert.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-08-16T21:07:59.000Z",
+    "url": "https://www.billboard.com/lists/kcon-2026-la-best-moments-recap/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-08-17T00:37:51.683Z"
+  },
+  {
+    "id": "news-1786927071681-0",
+    "title": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
+    "summary": "OpenRouter's CEO recently described the startup as Stripe for AI.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-08-16T20:57:04.000Z",
+    "url": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
+    "imageUrl": null,
+    "tags": [
+      "AI",
+      "Startup"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-08-17T00:37:51.681Z"
+  },
+  {
+    "id": "news-1786927071681-1",
+    "title": "Why people aren’t buying Mark Zuckerberg’s AI future",
+    "summary": "On the latest episode of Equity podcast, we discuss why not everyone is buying Zuckerberg’s vision.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-08-16T20:32:01.000Z",
+    "url": "https://techcrunch.com/2026/08/16/why-people-arent-buying-mark-zuckerbergs-ai-future/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-08-17T00:37:51.681Z"
+  },
+  {
+    "id": "news-1786927071683-40",
+    "title": "Olivia Dean at MSG: The 5 Best Moments From the Second of Her Four Sold-Out Shows",
+    "summary": "The English singer-songwriter proves she's at the peak of her powers. ",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-08-16T20:28:59.000Z",
+    "url": "https://www.billboard.com/lists/olivia-dean-msg-tour-dates-concert/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-08-17T00:37:51.683Z"
+  },
+  {
+    "id": "news-1786927071683-41",
+    "title": "Karol G Brings Out Bruno Mars for Surprise Live Debut of ‘Still’ at L.A. Concert",
+    "summary": "The pair performed the song as cameras rolled for its official music video.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-08-16T19:47:25.000Z",
+    "url": "https://www.billboard.com/music/latin/karol-g-bruno-mars-perform-still-la-show-music-video-1236317332/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-08-17T00:37:51.683Z"
+  },
+  {
+    "id": "news-1786927071683-42",
+    "title": "Stray Kids’ Latest Becomes Milestone 25th K-pop Album to Top Billboard 200: Full List",
+    "summary": "BTS was the first K-pop act to top the all-genre chart; BLACKPINK was the first female K-pop act to do so.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-08-16T19:28:36.000Z",
+    "url": "https://www.billboard.com/lists/k-pop-albums-number-one-billboard-200-albums-full-list/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-08-17T00:37:51.683Z"
+  },
+  {
+    "id": "news-1786927071683-43",
+    "title": "Stray Kids Score Ninth No. 1 on Billboard 200 With ‘THIS & THAT’",
+    "summary": "The act ties for the second-most No. 1 albums among groups, trailing only The Beatles.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-08-16T19:00:20.000Z",
+    "url": "https://www.billboard.com/music/chart-beat/stray-kids-this-and-that-number-one-billboard-200-chart-1236317298/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-08-17T00:37:51.683Z"
+  },
+  {
+    "id": "news-1786927071683-44",
+    "title": "Noah Kahan Brings Out Chappell Roan for Surprise ‘California’ Performance at Rose Bowl Show",
+    "summary": "The L.A. stadium concert marked Kahan’s biggest headlining performance to date.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-08-16T17:57:05.000Z",
+    "url": "https://www.billboard.com/music/music-news/noah-kahan-chappell-roan-california-rose-bowl-1236317310/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-08-17T00:37:51.683Z"
+  },
+  {
+    "id": "news-1786927071683-45",
+    "title": "P1Harmony Talks About What Inspired the Sound of Their 9th Mini-Album ‘Unique’ & Connecting With Their Fans On Tour | KCON LA 2026",
+    "summary": "K-Pop boy band P1Harmony talks about what inspired the sound of their 9th mini-album ‘Unique’ and how much they love connecting with their fans on tour.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-08-16T17:42:45.000Z",
+    "url": "https://www.billboard.com/video/p1harmony-talks-about-what-inspired-the-sound-of-their-9th-mini-album-unique-connecting-with-their-fans-on-tour/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-08-17T00:37:51.683Z"
+  },
+  {
+    "id": "news-1786927071681-2",
+    "title": "Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’",
+    "summary": "Dario Amodei is pushing back against the idea that he's been painting an overly pessimistic picture of AI.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-08-16T16:53:51.000Z",
+    "url": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-08-17T00:37:51.681Z"
+  },
+  {
+    "id": "news-1786927071681-3",
     "title": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
     "summary": "The woman claimed that AI tools are \"taking everyday life and turning it into child sexual abuse.\"",
     "category": "tech-innovation",
@@ -13,24 +178,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-08-16T00:39:12.528Z"
+    "fetchedAt": "2026-08-17T00:37:51.681Z"
   },
   {
-    "id": "news-1786840752530-37",
-    "title": "‘The Greatest Showman’ Musical Sets London’s West End Premiere for 2027",
-    "summary": "Oliver Tompsett and Samantha Barks lead the cast of the stage adaptation of the hit 2017 film.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-08-15T20:01:26.000Z",
-    "url": "https://www.billboard.com/music/music-news/the-greatest-showman-musical-london-west-end-2027-1236317122/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-08-16T00:39:12.530Z"
-  },
-  {
-    "id": "news-1786840752528-1",
+    "id": "news-1786927071681-4",
     "title": "Anthropic shares more details about how Claude’s new watermarks will work",
     "summary": "How will the watermarking actually work? Can it be hidden with editing? And how does this affect code?",
     "category": "ai-research",
@@ -43,24 +194,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-08-16T00:39:12.528Z"
+    "fetchedAt": "2026-08-17T00:37:51.681Z"
   },
   {
-    "id": "news-1786840752530-38",
-    "title": "‘Frozen 3’ Stars Kristen Bell, Idina Menzel & Josh Gad Tease New Music at D23",
-    "summary": "The third installment in Disney’s hit franchise will hit theaters in November 2027.",
-    "category": "ai-research",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-08-15T18:27:21.000Z",
-    "url": "https://www.billboard.com/culture/tv-film/frozen-3-kristen-bell-idina-menzel-josh-gad-new-music-d23-1236317103/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-08-16T00:39:12.530Z"
-  },
-  {
-    "id": "news-1786840752528-2",
+    "id": "news-1786927071681-5",
     "title": "SpaceX officially closes its Cursor acquisition",
     "summary": "AI coding startup Cursor is now officially a part of SpaceX.",
     "category": "ai-research",
@@ -74,24 +211,10 @@
       "Startup"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-08-16T00:39:12.528Z"
+    "fetchedAt": "2026-08-17T00:37:51.681Z"
   },
   {
-    "id": "news-1786840752530-39",
-    "title": "Romeo Santos Launches Fundación Los Santos to Support Children With Autism & More Uplifting Moments in Latin Music",
-    "summary": "Plus, Eladio Carrión brings Saucegiving back to Puerto Rico, and Rosalía honors Caetano Veloso and Fito Páez in Rio.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-08-15T14:00:00.000Z",
-    "url": "https://www.billboard.com/music/latin/romeo-santos-autism-foundation-eladio-carrion-saucegiving-1236316797/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-08-16T00:39:12.530Z"
-  },
-  {
-    "id": "news-1786840752529-22",
+    "id": "news-1786927071682-23",
     "title": "Amazon Can Use Your Twitch Content to Train Its AI—Unless You Opt Out",
     "summary": "When Twitch announced that streamers could opt out, thousands of users questioned why their content was being used to train AI models in the first place.",
     "category": "ai-research",
@@ -104,24 +227,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-08-16T00:39:12.529Z"
+    "fetchedAt": "2026-08-17T00:37:51.682Z"
   },
   {
-    "id": "news-1786840752530-40",
-    "title": "Here Are Events Marc Anthony, Feid, Karol G & More Latin Music Artists Are Joining in Support of Colombia and Venezuela Earthquake Relief",
-    "summary": "Benefit concerts are set to take place during the weekend of Aug. 15-16.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-08-14T23:09:39.000Z",
-    "url": "https://www.billboard.com/music/latin/colombia-venezuela-earthquake-benefit-concerts-latin-music-1236316953/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-08-16T00:39:12.530Z"
-  },
-  {
-    "id": "news-1786840752528-3",
+    "id": "news-1786927071681-6",
     "title": "Google will now allow users to remove visible watermark from its AI generations",
     "summary": "Turning off this setting won't affect invisible benchmarks used to identify an AI generated file.",
     "category": "ai-research",
@@ -134,10 +243,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-08-16T00:39:12.528Z"
+    "fetchedAt": "2026-08-17T00:37:51.682Z"
   },
   {
-    "id": "news-1786840752528-4",
+    "id": "news-1786927071682-7",
     "title": "Does Mark Zuckerberg really believe AI is ‘for everyone’?",
     "summary": "Meta released Glimmer this week, an open-weight AI model anyone can download and run on their own hardware — a contrast to Muse Spark, the company’s more powerful model that stays locked behind its own APIs. The release landed alongside a letter from Mark Zuckerberg arguing AI should be “for everyone” rather than controlled by a handful of labs, but as Equity’s […]",
     "category": "ai-research",
@@ -150,10 +259,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-08-16T00:39:12.528Z"
+    "fetchedAt": "2026-08-17T00:37:51.682Z"
   },
   {
-    "id": "news-1786840752529-23",
+    "id": "news-1786927071682-24",
     "title": "Tech Visionary Says the Big AI Labs Don’t Get What People Want",
     "summary": "Tim O’Reilly built a publishing empire that AI is helping to destroy. Yet he loves AI—as long as it’s open source.",
     "category": "tech-innovation",
@@ -166,10 +275,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-08-16T00:39:12.529Z"
+    "fetchedAt": "2026-08-17T00:37:51.682Z"
   },
   {
-    "id": "news-1786840752528-5",
+    "id": "news-1786927071682-8",
     "title": "Meta’s ‘open’ AI, and a $250M deal gone very wrong",
     "summary": "Meta released Glimmer this week, an open-weight AI model anyone can download and run on their own hardware — a contrast to Muse Spark, the company’s more powerful model that stays locked behind its own APIs. The release landed alongside a letter from Mark Zuckerberg arguing AI should be “for everyone” rather than controlled by a handful of labs, but as Equity’s […]",
     "category": "ai-research",
@@ -182,10 +291,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-08-16T00:39:12.528Z"
+    "fetchedAt": "2026-08-17T00:37:51.682Z"
   },
   {
-    "id": "news-1786840752529-31",
+    "id": "news-1786927071683-32",
     "title": "Bill Ackman, who called Universal Music ‘one of the best businesses we have ever owned’, steers clear of music in Pershing Square stock-buying splurge",
     "summary": "Bill Ackman‘s Pershing Square has disclosed six new stock investments in its first quarterly shareholder letter as a publicly listed company. None of the six is a music company. The new positions in Visa, Mastercard, Netflix, S&P Global, Intercontinental Exchange, and Alcon were disclosed in a letter published on Wednesday (August 12). Pershing Square Inc. … Continued\nSource",
     "category": "industry-news",
@@ -198,119 +307,6 @@
       "Investment"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-08-16T00:39:12.529Z"
-  },
-  {
-    "id": "news-1786840752529-24",
-    "title": "These ‘Masturbation Consultants’ Were Hired to Pleasure Themselves With AI",
-    "summary": "Joi AI hired 10 people to masturbate using AI companions as part of a monthlong “wellness” study. The company claims the practice could help “solve male loneliness.”",
-    "category": "tech-innovation",
-    "source": "Wired AI",
-    "author": "Unknown",
-    "publishedAt": "2026-08-14T10:45:00.000Z",
-    "url": "https://www.wired.com/story/these-masturbation-consultants-were-hired-to-pleasure-themselves-using-ai/",
-    "imageUrl": null,
-    "tags": [
-      "AI",
-      "Research"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-08-16T00:39:12.529Z"
-  },
-  {
-    "id": "news-1786840752529-25",
-    "title": "People Are ‘Marrying’ Chatbots. These Lawmakers Want to Stop Them",
-    "summary": "Human-AI marriages are not currently recognized by US law. Some Republican state policymakers are drafting legislation to keep it that way.",
-    "category": "tech-innovation",
-    "source": "Wired AI",
-    "author": "Unknown",
-    "publishedAt": "2026-08-14T10:15:00.000Z",
-    "url": "https://www.wired.com/story/people-are-marrying-chatbots-these-lawmakers-want-to-stop-them/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-08-16T00:39:12.529Z"
-  },
-  {
-    "id": "news-1786840752529-26",
-    "title": "The Safety Reckoning Inside OpenAI",
-    "summary": "OpenAI’s rogue agent hack was a watershed moment for AI safety and cybersecurity. It also sparked internal questions about the culture that led to it.",
-    "category": "tech-innovation",
-    "source": "Wired AI",
-    "author": "Unknown",
-    "publishedAt": "2026-08-13T22:37:19.000Z",
-    "url": "https://www.wired.com/story/openai-safety-security-ai-agents-culture/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-08-16T00:39:12.529Z"
-  },
-  {
-    "id": "news-1786840752529-32",
-    "title": "Suno launches Studio 2.0 with MIDI support, an AI chat bar… and no download limit",
-    "summary": "Suno claims that \"Grammy-winning artists\" have used Suno Studio in the past to \"make chart-topping hits\"\nSource",
-    "category": "industry-news",
-    "source": "Music Business Worldwide",
-    "author": "Unknown",
-    "publishedAt": "2026-08-13T21:21:27.000Z",
-    "url": "https://www.musicbusinessworldwide.com/suno-launches-studio-2-0-with-midi-support/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-08-16T00:39:12.529Z"
-  },
-  {
-    "id": "news-1786840752529-27",
-    "title": "Mark Zuckerberg’s AI Manifesto Is 6,500 Words—and Barely Says Anything",
-    "summary": "AI is shifting the culture, from tech CEO manifestos to 1 am job interviews. We unpack some of the latest, along with the top findings from Black Hat and Defcon, this week on Uncanny Valley.",
-    "category": "tech-innovation",
-    "source": "Wired AI",
-    "author": "Unknown",
-    "publishedAt": "2026-08-13T21:14:43.000Z",
-    "url": "https://www.wired.com/story/mark-zuckerbergs-ai-manifesto-is-6500-words-and-barely-says-anything/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-08-16T00:39:12.529Z"
-  },
-  {
-    "id": "news-1786840752528-6",
-    "title": "Writer introduces new AI model and upgraded harness to contain token costs",
-    "summary": "Built as a post-training variation on Z.ai's open source model GLM-5.2, Writer says the new system should provide deployment-ready capabilities at a much lower price.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-08-13T21:13:24.000Z",
-    "url": "https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-08-16T00:39:12.528Z"
-  },
-  {
-    "id": "news-1786840752528-7",
-    "title": "Databricks wanted to raise $1B, investors wanted $15B. It settled on $5B at a $190B valuation.",
-    "summary": "AI is expensive, Ali Ghodsi tells TechCrunch. With so many investors wanting into his latest round, he said yes to more than planned.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-08-13T20:14:39.000Z",
-    "url": "https://techcrunch.com/2026/08/13/databricks-wanted-to-raise-1b-investors-wanted-15b-it-settled-on-5b-at-a-190b-valuation/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-08-16T00:39:12.528Z"
+    "fetchedAt": "2026-08-17T00:37:51.683Z"
   }
 ]
