@@ -1,34 +1,211 @@
 [
   {
-    "id": "news-1786927071683-38",
-    "title": "Fans Choose Ayra Starr’s ‘Starrgirl’ as This Week’s Favorite New Music",
-    "summary": "The Nigerian singer's new album brought in more than 87% of the vote.",
+    "id": "news-1787013437435-37",
+    "title": "Ricky Martin & Pedro Sampaio to Headline NFL Halftime Show in Rio: ‘There’s Nothing Quite Like the Energy of the Brazilian People’",
+    "summary": "The Puerto Rican megastar & Brazilian DJ/singer/producer will perform at the Sept. 27 Ravens vs. Cowboys game.",
     "category": "industry-news",
     "source": "Billboard",
     "author": "Unknown",
-    "publishedAt": "2026-08-16T23:27:11.000Z",
-    "url": "https://www.billboard.com/music/music-news/ayra-starrs-starrgirl-best-new-music-poll-results-1236317440/",
+    "publishedAt": "2026-08-17T23:30:00.000Z",
+    "url": "https://www.billboard.com/music/latin/ricky-martin-pedro-sampaio-2026-nfl-rio-halftime-show-1236318223/",
     "imageUrl": null,
-    "tags": [],
+    "tags": [
+      "AI"
+    ],
     "readTime": 1,
-    "fetchedAt": "2026-08-17T00:37:51.683Z"
+    "fetchedAt": "2026-08-18T00:37:17.435Z"
   },
   {
-    "id": "news-1786927071683-39",
-    "title": "The Best Moments From KCON LA 2026 (So Far)",
-    "summary": "Day two delivered delightful covers of Justin Timberlake, One Direction, BLACKPINK and ATEEZ songs as ZEROBASEONE headlined the concert.",
+    "id": "news-1787013437435-38",
+    "title": "Billboard’s Music Industry Events Calendar",
+    "summary": "A complete rundown of the most important events across the music business.",
     "category": "industry-news",
     "source": "Billboard",
     "author": "Unknown",
-    "publishedAt": "2026-08-16T21:07:59.000Z",
-    "url": "https://www.billboard.com/lists/kcon-2026-la-best-moments-recap/",
+    "publishedAt": "2026-08-17T22:16:00.000Z",
+    "url": "https://www.billboard.com/pro/music-industry-events-calendar-festivals-awards-conferences/",
     "imageUrl": null,
     "tags": [],
     "readTime": 1,
-    "fetchedAt": "2026-08-17T00:37:51.683Z"
+    "fetchedAt": "2026-08-18T00:37:17.435Z"
   },
   {
-    "id": "news-1786927071681-0",
+    "id": "news-1787013437435-39",
+    "title": "System of a Down to Headline Massive ‘One Night Only’ Concert in Rio de Janeiro",
+    "summary": "The band will be joined for the single-day event by Faith No More as special guests.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-08-17T22:05:33.000Z",
+    "url": "https://www.billboard.com/music/rock/system-of-a-down-concert-one-night-rio-de-janeiro-brazil-1236318220/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-08-18T00:37:17.435Z"
+  },
+  {
+    "id": "news-1787013437433-0",
+    "title": "AI automation startup Relay shuts down, staff joins Google’s Chrome team",
+    "summary": "\"We have some really ambitious plans to help you work with AI in Chrome to get things done, and I’ll have more to share soon,\" Jacob Bank, Relay founder and CEO, said.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-08-17T21:27:05.000Z",
+    "url": "https://techcrunch.com/2026/08/17/ai-automation-startup-relay-shuts-down-staff-joins-googles-chrome-team/",
+    "imageUrl": null,
+    "tags": [
+      "AI",
+      "Startup"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-08-18T00:37:17.433Z"
+  },
+  {
+    "id": "news-1787013437435-31",
+    "title": "Robert Kyncl justifies Suno deal, as UMG and Sony press on with lawsuit: ‘In my opinion, you embrace it.’",
+    "summary": "Kyncl appeared on Semafor's Mixed Signals podcast on Friday (August 14), where he discussed Suno – and why he'd start a music service at Netflix.\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-08-17T19:52:38.000Z",
+    "url": "https://www.musicbusinessworldwide.com/robert-kyncl-justifies-suno-deal-as-umg-and-sony-press-on-with-lawsuit-in-my-opinion-you-embrace-it/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-08-18T00:37:17.435Z"
+  },
+  {
+    "id": "news-1787013437435-32",
+    "title": "Live Nation settles lawsuit over injury at Luke Bryan concert",
+    "summary": "A concertgoer sued Live Nation in 2024, alleging he suffered a traumatic brain injury during a Luke Bryan show at a US amphitheater the company operates.\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-08-17T18:41:21.000Z",
+    "url": "https://www.musicbusinessworldwide.com/live-nation-settles-lawsuit-over-injury-at-luke-bryan-concert/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-08-18T00:37:17.435Z"
+  },
+  {
+    "id": "news-1787013437433-1",
+    "title": "Amazon, which started off selling books, is destroying rare texts to train AI",
+    "summary": "Rare books are incredibly valuable for training LLMs, since these models have already trained on whatever's available online.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-08-17T16:38:44.000Z",
+    "url": "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-08-18T00:37:17.433Z"
+  },
+  {
+    "id": "news-1787013437435-33",
+    "title": "Jamendo drops its copyright infringement lawsuit against Suno, six weeks after filing it",
+    "summary": "The withdrawal arrives as Suno rewrites the rules of its platform, saying it will adopt audio watermarking and fingerprinting technology in the coming weeks.\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-08-17T16:24:18.000Z",
+    "url": "https://www.musicbusinessworldwide.com/jamendo-drops-its-copyright-infringement-lawsuit-against-suno-six-weeks-after-filing-it/",
+    "imageUrl": null,
+    "tags": [
+      "AI",
+      "Copyright"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-08-18T00:37:17.435Z"
+  },
+  {
+    "id": "news-1787013437433-2",
+    "title": "Groq raises $350M to fuel its pivot from AI chips to neocloud",
+    "summary": "Groq raised $350 million at a $3.5 billion valuation as the former AI chipmaker pivots to a neocloud business and expands its Nvidia-powered data center footprint.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-08-17T16:15:12.000Z",
+    "url": "https://techcrunch.com/2026/08/17/groq-raises-350m-to-fuel-its-pivot-from-ai-chips-to-neocloud/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-08-18T00:37:17.434Z"
+  },
+  {
+    "id": "news-1787013437435-34",
+    "title": "After BTS snub, the Grammys reconsiders new ‘Asian Pop’ category",
+    "summary": "Harvey Mason jr. and other Grammy leaders have been in talks with music communities across K-pop, J-pop, C-pop, India and more, the Academy said.\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-08-17T15:52:25.000Z",
+    "url": "https://www.musicbusinessworldwide.com/after-bts-boycott-the-grammys-reconsiders-new-asian-pop-category/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-08-18T00:37:17.435Z"
+  },
+  {
+    "id": "news-1787013437435-35",
+    "title": "Megan Thee Stallion inks deal with UMG’s Interscope – and keeps ownership of her masters",
+    "summary": "Megan retains complete ownership of her masters and publishing, and will keep releasing music through her own company, Hot Girl Productions.\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-08-17T15:50:40.000Z",
+    "url": "https://www.musicbusinessworldwide.com/megan-thee-stallion-inks-deal-with-umgs-interscope-and-keeps-ownership-of-her-masters/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-08-18T00:37:17.435Z"
+  },
+  {
+    "id": "news-1787013437435-36",
+    "title": "Let’s reinvent the Libera Awards as a platform for independent music",
+    "summary": "Bill Werde argues that while there is much to admire about The Libera Awards, there is also much, much more it could be doing with and for independent music...\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-08-17T15:37:12.000Z",
+    "url": "https://www.musicbusinessworldwide.com/lets-reinvent-the-libera-awards-as-a-platform-for-independent-music/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-08-18T00:37:17.435Z"
+  },
+  {
+    "id": "news-1787013437434-3",
+    "title": "Nvidia investing $1.5B in SoftBank data center developer behind OpenAI project",
+    "summary": "Nvidia's investment in SoftBank's data center developer will guarantee its chips power an OpenAI data center.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-08-17T15:16:24.000Z",
+    "url": "https://techcrunch.com/2026/08/17/nvidia-investing-1-5b-in-softbank-data-center-developer-behind-openai-project/",
+    "imageUrl": null,
+    "tags": [
+      "AI",
+      "Investment"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-08-18T00:37:17.434Z"
+  },
+  {
+    "id": "news-1787013437434-4",
     "title": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
     "summary": "OpenRouter's CEO recently described the startup as Stripe for AI.",
     "category": "ai-research",
@@ -42,10 +219,10 @@
       "Startup"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-08-17T00:37:51.681Z"
+    "fetchedAt": "2026-08-18T00:37:17.434Z"
   },
   {
-    "id": "news-1786927071681-1",
+    "id": "news-1787013437434-5",
     "title": "Why people aren’t buying Mark Zuckerberg’s AI future",
     "summary": "On the latest episode of Equity podcast, we discuss why not everyone is buying Zuckerberg’s vision.",
     "category": "ai-research",
@@ -58,98 +235,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-08-17T00:37:51.681Z"
+    "fetchedAt": "2026-08-18T00:37:17.434Z"
   },
   {
-    "id": "news-1786927071683-40",
-    "title": "Olivia Dean at MSG: The 5 Best Moments From the Second of Her Four Sold-Out Shows",
-    "summary": "The English singer-songwriter proves she's at the peak of her powers. ",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-08-16T20:28:59.000Z",
-    "url": "https://www.billboard.com/lists/olivia-dean-msg-tour-dates-concert/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-08-17T00:37:51.683Z"
-  },
-  {
-    "id": "news-1786927071683-41",
-    "title": "Karol G Brings Out Bruno Mars for Surprise Live Debut of ‘Still’ at L.A. Concert",
-    "summary": "The pair performed the song as cameras rolled for its official music video.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-08-16T19:47:25.000Z",
-    "url": "https://www.billboard.com/music/latin/karol-g-bruno-mars-perform-still-la-show-music-video-1236317332/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-08-17T00:37:51.683Z"
-  },
-  {
-    "id": "news-1786927071683-42",
-    "title": "Stray Kids’ Latest Becomes Milestone 25th K-pop Album to Top Billboard 200: Full List",
-    "summary": "BTS was the first K-pop act to top the all-genre chart; BLACKPINK was the first female K-pop act to do so.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-08-16T19:28:36.000Z",
-    "url": "https://www.billboard.com/lists/k-pop-albums-number-one-billboard-200-albums-full-list/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-08-17T00:37:51.683Z"
-  },
-  {
-    "id": "news-1786927071683-43",
-    "title": "Stray Kids Score Ninth No. 1 on Billboard 200 With ‘THIS & THAT’",
-    "summary": "The act ties for the second-most No. 1 albums among groups, trailing only The Beatles.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-08-16T19:00:20.000Z",
-    "url": "https://www.billboard.com/music/chart-beat/stray-kids-this-and-that-number-one-billboard-200-chart-1236317298/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-08-17T00:37:51.683Z"
-  },
-  {
-    "id": "news-1786927071683-44",
-    "title": "Noah Kahan Brings Out Chappell Roan for Surprise ‘California’ Performance at Rose Bowl Show",
-    "summary": "The L.A. stadium concert marked Kahan’s biggest headlining performance to date.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-08-16T17:57:05.000Z",
-    "url": "https://www.billboard.com/music/music-news/noah-kahan-chappell-roan-california-rose-bowl-1236317310/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-08-17T00:37:51.683Z"
-  },
-  {
-    "id": "news-1786927071683-45",
-    "title": "P1Harmony Talks About What Inspired the Sound of Their 9th Mini-Album ‘Unique’ & Connecting With Their Fans On Tour | KCON LA 2026",
-    "summary": "K-Pop boy band P1Harmony talks about what inspired the sound of their 9th mini-album ‘Unique’ and how much they love connecting with their fans on tour.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-08-16T17:42:45.000Z",
-    "url": "https://www.billboard.com/video/p1harmony-talks-about-what-inspired-the-sound-of-their-9th-mini-album-unique-connecting-with-their-fans-on-tour/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-08-17T00:37:51.683Z"
-  },
-  {
-    "id": "news-1786927071681-2",
+    "id": "news-1787013437434-6",
     "title": "Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’",
     "summary": "Dario Amodei is pushing back against the idea that he's been painting an overly pessimistic picture of AI.",
     "category": "ai-research",
@@ -162,10 +251,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-08-17T00:37:51.681Z"
+    "fetchedAt": "2026-08-18T00:37:17.434Z"
   },
   {
-    "id": "news-1786927071681-3",
+    "id": "news-1787013437434-7",
     "title": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
     "summary": "The woman claimed that AI tools are \"taking everyday life and turning it into child sexual abuse.\"",
     "category": "tech-innovation",
@@ -178,10 +267,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-08-17T00:37:51.681Z"
+    "fetchedAt": "2026-08-18T00:37:17.434Z"
   },
   {
-    "id": "news-1786927071681-4",
+    "id": "news-1787013437434-8",
     "title": "Anthropic shares more details about how Claude’s new watermarks will work",
     "summary": "How will the watermarking actually work? Can it be hidden with editing? And how does this affect code?",
     "category": "ai-research",
@@ -194,10 +283,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-08-17T00:37:51.681Z"
+    "fetchedAt": "2026-08-18T00:37:17.434Z"
   },
   {
-    "id": "news-1786927071681-5",
+    "id": "news-1787013437434-9",
     "title": "SpaceX officially closes its Cursor acquisition",
     "summary": "AI coding startup Cursor is now officially a part of SpaceX.",
     "category": "ai-research",
@@ -211,102 +300,22 @@
       "Startup"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-08-17T00:37:51.681Z"
+    "fetchedAt": "2026-08-18T00:37:17.434Z"
   },
   {
-    "id": "news-1786927071682-23",
-    "title": "Amazon Can Use Your Twitch Content to Train Its AI—Unless You Opt Out",
-    "summary": "When Twitch announced that streamers could opt out, thousands of users questioned why their content was being used to train AI models in the first place.",
-    "category": "ai-research",
-    "source": "Wired AI",
-    "author": "Unknown",
-    "publishedAt": "2026-08-15T09:00:00.000Z",
-    "url": "https://www.wired.com/story/amazon-uses-your-twitch-content-to-train-its-ai-how-to-opt-out/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-08-17T00:37:51.682Z"
-  },
-  {
-    "id": "news-1786927071681-6",
-    "title": "Google will now allow users to remove visible watermark from its AI generations",
-    "summary": "Turning off this setting won't affect invisible benchmarks used to identify an AI generated file.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-08-14T16:13:40.000Z",
-    "url": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-08-17T00:37:51.682Z"
-  },
-  {
-    "id": "news-1786927071682-7",
-    "title": "Does Mark Zuckerberg really believe AI is ‘for everyone’?",
-    "summary": "Meta released Glimmer this week, an open-weight AI model anyone can download and run on their own hardware — a contrast to Muse Spark, the company’s more powerful model that stays locked behind its own APIs. The release landed alongside a letter from Mark Zuckerberg arguing AI should be “for everyone” rather than controlled by a handful of labs, but as Equity’s […]",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-08-14T15:43:28.000Z",
-    "url": "https://techcrunch.com/video/does-mark-zuckerberg-really-believe-ai-is-for-everyone/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-08-17T00:37:51.682Z"
-  },
-  {
-    "id": "news-1786927071682-24",
-    "title": "Tech Visionary Says the Big AI Labs Don’t Get What People Want",
-    "summary": "Tim O’Reilly built a publishing empire that AI is helping to destroy. Yet he loves AI—as long as it’s open source.",
+    "id": "news-1787013437434-10",
+    "title": "How to tell if your AI platforms’ accounts have been hacked",
+    "summary": "A guide on how to check if hackers have broken into your accounts on the most popular AI platforms.",
     "category": "tech-innovation",
-    "source": "Wired AI",
-    "author": "Unknown",
-    "publishedAt": "2026-08-14T15:00:00.000Z",
-    "url": "https://www.wired.com/story/tech-visionary-says-the-big-ai-labs-dont-get-what-people-want/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-08-17T00:37:51.682Z"
-  },
-  {
-    "id": "news-1786927071682-8",
-    "title": "Meta’s ‘open’ AI, and a $250M deal gone very wrong",
-    "summary": "Meta released Glimmer this week, an open-weight AI model anyone can download and run on their own hardware — a contrast to Muse Spark, the company’s more powerful model that stays locked behind its own APIs. The release landed alongside a letter from Mark Zuckerberg arguing AI should be “for everyone” rather than controlled by a handful of labs, but as Equity’s […]",
-    "category": "ai-research",
     "source": "TechCrunch AI",
     "author": "Unknown",
-    "publishedAt": "2026-08-14T14:00:00.000Z",
-    "url": "https://techcrunch.com/podcast/metas-open-ai-and-a-250m-deal-gone-very-wrong/",
+    "publishedAt": "2026-08-15T16:10:00.000Z",
+    "url": "https://techcrunch.com/2026/08/15/how-to-tell-if-your-ai-platforms-accounts-have-been-hacked/",
     "imageUrl": null,
     "tags": [
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-08-17T00:37:51.682Z"
-  },
-  {
-    "id": "news-1786927071683-32",
-    "title": "Bill Ackman, who called Universal Music ‘one of the best businesses we have ever owned’, steers clear of music in Pershing Square stock-buying splurge",
-    "summary": "Bill Ackman‘s Pershing Square has disclosed six new stock investments in its first quarterly shareholder letter as a publicly listed company. None of the six is a music company. The new positions in Visa, Mastercard, Netflix, S&P Global, Intercontinental Exchange, and Alcon were disclosed in a letter published on Wednesday (August 12). Pershing Square Inc. … Continued\nSource",
-    "category": "industry-news",
-    "source": "Music Business Worldwide",
-    "author": "Unknown",
-    "publishedAt": "2026-08-14T13:13:33.000Z",
-    "url": "https://www.musicbusinessworldwide.com/bill-ackman-who-called-universal-music-one-of-the-best-businesses-we-have-ever-owned-steers-clear-of-music-in-pershing-square-stock-buying-splurge/",
-    "imageUrl": null,
-    "tags": [
-      "Investment"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-08-17T00:37:51.683Z"
+    "fetchedAt": "2026-08-18T00:37:17.434Z"
   }
 ]
