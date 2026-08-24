@@ -1,6 +1,143 @@
 [
   {
-    "id": "news-1787445633765-0",
+    "id": "news-1787531946513-38",
+    "title": "Fans Choose ENHYPEN’s ‘THE SIN : BLISS’ as This Week’s Favorite New Music",
+    "summary": "The K-pop heavyweights’ eighth mini album brought in nearly 73% of the vote.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-08-23T22:02:17.000Z",
+    "url": "https://www.billboard.com/music/pop/enhypen-the-sin-bliss-best-new-music-poll-results-1236322619/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-08-24T00:39:06.513Z"
+  },
+  {
+    "id": "news-1787531946513-39",
+    "title": "These $32 Running Headphones Light Up at Night to Keep You Safe On Your Evening Walk or Run",
+    "summary": "The HAKII Light 2 headphones feature a light up headband that emits a bright green glow to keep you visible in dark conditions.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-08-23T20:54:22.000Z",
+    "url": "https://www.billboard.com/culture/product-recommendations/best-light-up-wireless-headphones-for-safe-evening-run-walk-1236321918/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-08-24T00:39:06.513Z"
+  },
+  {
+    "id": "news-1787531946513-40",
+    "title": "Here’s What Dr. Dre Really Thinks About AI in Music",
+    "summary": "The legendary producer’s perspective may come as a surprise.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-08-23T20:47:44.000Z",
+    "url": "https://www.billboard.com/music/music-news/dr-dre-ai-music-1236322613/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-08-24T00:39:06.513Z"
+  },
+  {
+    "id": "news-1787531946511-0",
+    "title": "Who’s behind the new ‘stealth model’ Ox Alpha?",
+    "summary": "A mysterious new AI model called Ox Alpha has driven certain corners of the internet into a frenzy of speculation.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-08-23T20:01:36.000Z",
+    "url": "https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-08-24T00:39:06.511Z"
+  },
+  {
+    "id": "news-1787531946511-1",
+    "title": "Linkdaze’s smart calendar is built to run a household, not just track a schedule",
+    "summary": "Linkdaze's smart digital calendar stands out for not putting its features behind a paywall, including an AI meal planner tool. ",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-08-23T19:14:08.000Z",
+    "url": "https://techcrunch.com/2026/08/23/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-08-24T00:39:06.511Z"
+  },
+  {
+    "id": "news-1787531946513-41",
+    "title": "KATSEYE Achieves First No. 1 Album on Billboard 200 With ‘WILD’",
+    "summary": "Plus, Phoebe Bridgers earns her first solo top 10 with Lost Weekend bowing at No. 2.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-08-23T19:00:05.000Z",
+    "url": "https://www.billboard.com/music/chart-beat/katseye-wild-number-one-billboard-200-albums-chart-1236322567/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-08-24T00:39:06.513Z"
+  },
+  {
+    "id": "news-1787531946513-42",
+    "title": "A Step-by-Step Guide to HBO Max: Here’s What to Watch & How to Get the Streaming Service for Free",
+    "summary": "Here's what you need to know about streaming The Pitt, House of the Dragon, Euphoria, The Last of Us and other hit originals online for free.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-08-23T18:48:47.000Z",
+    "url": "https://www.billboard.com/culture/product-recommendations/how-to-get-hbo-max-free-trial-1235032083/",
+    "imageUrl": null,
+    "tags": [
+      "Streaming"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-08-24T00:39:06.513Z"
+  },
+  {
+    "id": "news-1787531946511-2",
+    "title": "Is it legal to train AI models on copyrighted books? It’s complicated",
+    "summary": "Most published authors have, without their knowledge or consent, contributed to the development of the same AI tools that threaten to undermine their livelihoods. That seems illegal, right?",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-08-23T15:00:00.000Z",
+    "url": "https://techcrunch.com/2026/08/23/is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated/",
+    "imageUrl": null,
+    "tags": [
+      "AI",
+      "Copyright"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-08-24T00:39:06.511Z"
+  },
+  {
+    "id": "news-1787531946513-43",
+    "title": "King Gizzard and the Lizard Wizard Bring Out Max Weinberg at Forest Hills Stadium",
+    "summary": "The E Street Band drummer filled in for his son Jay Weinberg, who has become a recurring guest with the band.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-08-23T04:26:12.000Z",
+    "url": "https://www.billboard.com/music/rock/king-gizzard-and-the-lizard-wizard-max-weinberg-1236322524/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-08-24T00:39:06.513Z"
+  },
+  {
+    "id": "news-1787531946511-3",
     "title": "Harvard’s $699 startup bootcamp offers AI avatars of its instructors",
     "summary": "In the HBS Foundry program, AI avatars provide feedback during practice pitches and board meetings.",
     "category": "ai-research",
@@ -14,26 +151,10 @@
       "Startup"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-08-23T00:40:33.765Z"
+    "fetchedAt": "2026-08-24T00:39:06.511Z"
   },
   {
-    "id": "news-1787445633767-38",
-    "title": "Olivia Rodrigo Drops ‘Handmaid’s Tale’-Inspired ‘Serena Joy’ as CD Single at Indie Record Store",
-    "summary": "A limited number of copies were available at Analog Music Shop, near the site of her upcoming Daisy Chain Fields festival in SoCal.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-08-22T20:10:55.000Z",
-    "url": "https://www.billboard.com/music/music-news/olivia-rodrigo-serena-joy-cd-single-indie-record-store-1236322505/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-08-23T00:40:33.767Z"
-  },
-  {
-    "id": "news-1787445633765-1",
+    "id": "news-1787531946512-4",
     "title": "Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research",
     "summary": "Built by DeepMind alumni, British AI lab Inherent released Faraday, an AI agent whose ability to replicate scientific papers could be a stepping stone for innovation. ",
     "category": "ai-research",
@@ -47,52 +168,10 @@
       "Research"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-08-23T00:40:33.766Z"
+    "fetchedAt": "2026-08-24T00:39:06.512Z"
   },
   {
-    "id": "news-1787445633767-39",
-    "title": "Janie Bradford, Early Motown Songwriter & ‘Money (That’s What I Want)’ Co-Writer, Dies at 87",
-    "summary": "She also co-wrote songs recorded by Marvin Gaye, Stevie Wonder and Mary Wells.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-08-22T18:05:19.000Z",
-    "url": "https://www.billboard.com/music/music-news/janie-bradford-death-motown-songwriter-dies-1236322487/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-08-23T00:40:33.767Z"
-  },
-  {
-    "id": "news-1787445633767-40",
-    "title": "BigXthaPlug Faces Drug and Gun Charges One Year After Last Arrest",
-    "summary": "The rapper was forced to miss his performance at Winnipeg’s Country Rising Festival.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-08-22T17:24:22.000Z",
-    "url": "https://www.billboard.com/music/music-news/bigxthaplug-arrested-texas-drug-gun-charges-1236322443/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-08-23T00:40:33.767Z"
-  },
-  {
-    "id": "news-1787445633767-41",
-    "title": "‘The Vampire Lestat: One Night Only LIVE’: Here’s How to Watch the Concert Special Online for Free",
-    "summary": "The actor took the stage in character as Lestat for a special performance featuring six songs written by the series’ composer Daniel Hart.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-08-22T16:32:58.000Z",
-    "url": "https://www.billboard.com/culture/product-recommendations/vampire-lestat-one-night-only-live-watch-stream-online-free-1236320217/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-08-23T00:40:33.767Z"
-  },
-  {
-    "id": "news-1787445633766-2",
+    "id": "news-1787531946512-5",
     "title": "OpenAI says California should strengthen its AI safety bill",
     "summary": "OpenAI is calling for California to strengthen SB 53, an AI safety bill that the company previously opposed.",
     "category": "ai-research",
@@ -105,10 +184,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-08-23T00:40:33.766Z"
+    "fetchedAt": "2026-08-24T00:39:06.512Z"
   },
   {
-    "id": "news-1787445633766-3",
+    "id": "news-1787531946512-6",
     "title": "Frontier AI labs still won’t say how they’d contain a rogue model",
     "summary": "A new study finds leading AI labs have few publicly documented plans for containing rogue models, raising questions about preparedness as AI systems increasingly demonstrate unexpected and potentially dangerous behavior.",
     "category": "ai-research",
@@ -122,40 +201,10 @@
       "Research"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-08-23T00:40:33.766Z"
+    "fetchedAt": "2026-08-24T00:39:06.512Z"
   },
   {
-    "id": "news-1787445633767-42",
-    "title": "Karol G, Maluma & More Unite for Colombia Earthquake Relief & More Uplifting Moments in Latin Music",
-    "summary": "Plus, Maná becomes the first Latin act to perform for Apple Music's Rediscovered series, and Elvis Crespo returns to NYC for a free concert.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-08-22T15:34:02.000Z",
-    "url": "https://www.billboard.com/music/latin/karol-g-maluma-colombia-earthquake-relief-mana-apple-music-1236322398/",
-    "imageUrl": null,
-    "tags": [
-      "Apple Music"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-08-23T00:40:33.767Z"
-  },
-  {
-    "id": "news-1787445633767-43",
-    "title": "Holly Humberstone Sets Biggest Australian Tour Yet for 2027",
-    "summary": "The run supports Cruel World, Humberstone's second studio album, released April 10 through Polydor Records.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-08-22T08:29:44.000Z",
-    "url": "https://www.billboard.com/music/concerts/holly-humberstone-australian-tour-2027-1236322391/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-08-23T00:40:33.767Z"
-  },
-  {
-    "id": "news-1787445633766-20",
+    "id": "news-1787531946512-20",
     "title": "The Unlikely Place at the Center of China’s AI Boom",
     "summary": "Cheap energy, abundant land, and proximity to Beijing have turned a city in Inner Mongolia into a crucial hub for data centers.",
     "category": "tech-innovation",
@@ -168,10 +217,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-08-23T00:40:33.766Z"
+    "fetchedAt": "2026-08-24T00:39:06.512Z"
   },
   {
-    "id": "news-1787445633766-4",
+    "id": "news-1787531946512-7",
     "title": "Anthropic’s Opus 4.6 is a smut-machine",
     "summary": "Anthropic forbids its Claude models from generating sexually explicit content. But a series of tests conducted by TechCrunch found that it didn't take much to get past the restriction. ",
     "category": "ai-research",
@@ -182,10 +231,10 @@
     "imageUrl": null,
     "tags": [],
     "readTime": 1,
-    "fetchedAt": "2026-08-23T00:40:33.766Z"
+    "fetchedAt": "2026-08-24T00:39:06.512Z"
   },
   {
-    "id": "news-1787445633766-5",
+    "id": "news-1787531946512-8",
     "title": "Nvidia partners with data center developer Cloverleaf",
     "summary": "Nvidia continues to pour money into data center development — just as AI data centers bring lots of money into Nvidia. ",
     "category": "ai-research",
@@ -198,10 +247,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-08-23T00:40:33.766Z"
+    "fetchedAt": "2026-08-24T00:39:06.512Z"
   },
   {
-    "id": "news-1787445633766-6",
+    "id": "news-1787531946512-9",
     "title": "Nvidia just showed that the harness, not the AI model, is now the real hero",
     "summary": "Nvidia research shows that AI agents can perform well, and not go off the deep end, through fine-tuning, even if the AI model isn't that great at the task.",
     "category": "ai-research",
@@ -215,10 +264,10 @@
       "Research"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-08-23T00:40:33.766Z"
+    "fetchedAt": "2026-08-24T00:39:06.512Z"
   },
   {
-    "id": "news-1787445633767-28",
+    "id": "news-1787531946512-28",
     "title": "Vanessa Bosåen exits Virgin Music Group, where she’s led the UK business since 2021",
     "summary": "She joined UMG in 2021 from Regent Street Records, the independent label and publisher she founded in 2014, having spent 15 years as a touring musician.\nSource",
     "category": "industry-news",
@@ -229,10 +278,10 @@
     "imageUrl": null,
     "tags": [],
     "readTime": 1,
-    "fetchedAt": "2026-08-23T00:40:33.767Z"
+    "fetchedAt": "2026-08-24T00:39:06.512Z"
   },
   {
-    "id": "news-1787445633767-29",
+    "id": "news-1787531946512-29",
     "title": "Universal Music Poland acquires the Kayax Records catalog and brand, home to recordings by Brodka, Nosowska and Zakopower",
     "summary": "Universal Music Poland also entered a strategic deal with Kayax's separate management business, Kayax Management, which is not part of the acquisition.\nSource",
     "category": "industry-news",
@@ -243,10 +292,10 @@
     "imageUrl": null,
     "tags": [],
     "readTime": 1,
-    "fetchedAt": "2026-08-23T00:40:33.767Z"
+    "fetchedAt": "2026-08-24T00:39:06.512Z"
   },
   {
-    "id": "news-1787445633767-30",
+    "id": "news-1787531946512-30",
     "title": "From Apple Music’s AI labeling plan to Spotify’s $1.5B buyback… it’s MBW’s Weekly Round-Up",
     "summary": "The biggest headlines from the past few days...\nSource",
     "category": "industry-news",
@@ -261,53 +310,6 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-08-23T00:40:33.767Z"
-  },
-  {
-    "id": "news-1787445633766-7",
-    "title": "AI data startup Micro1 reaches $500M gross run rate amid AI training boom",
-    "summary": "Surging demand for AI training data is driving rapid growth for the startup and its rivals.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-08-21T00:13:44.000Z",
-    "url": "https://techcrunch.com/2026/08/20/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom/",
-    "imageUrl": null,
-    "tags": [
-      "AI",
-      "Startup"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-08-23T00:40:33.766Z"
-  },
-  {
-    "id": "news-1787445633766-8",
-    "title": "OpenAI is gaining on Anthropic with business users, new data indicates",
-    "summary": "Businesses are willing to flop back and forth as each lab releases new models, volatility that should give both companies' investors pause about how \"sticky\" enterprise AI spending really is.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-08-20T22:36:37.000Z",
-    "url": "https://techcrunch.com/2026/08/20/openai-is-gaining-on-anthropic-with-business-users-new-data-indicates/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-08-23T00:40:33.766Z"
-  },
-  {
-    "id": "news-1787445633766-9",
-    "title": "ChatGPT can now send texts for you with new Apple Messages plug-in",
-    "summary": "Ever wanted someone else to do your texting for you? ChatGPT is being offered up as an automated text scribe via a new Apple Messages integration. ",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-08-20T22:09:51.000Z",
-    "url": "https://techcrunch.com/2026/08/20/chatgpt-can-now-send-texts-for-you-with-new-apple-messages-plugin/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-08-23T00:40:33.766Z"
+    "fetchedAt": "2026-08-24T00:39:06.512Z"
   }
 ]
