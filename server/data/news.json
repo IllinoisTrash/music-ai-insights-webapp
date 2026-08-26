@@ -1,6 +1,193 @@
 [
   {
-    "id": "news-1787618318071-0",
+    "id": "news-1787704769175-34",
+    "title": "Courtney Love Shares Photos With Slayyyter & Praises Her as a ‘Talented Witch Queen Genius’",
+    "summary": "\"Protect our once in a generational talented witch queen geniuses with all we've got,\" the rock star said of the emerging pop artist.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-08-26T00:39:20.000Z",
+    "url": "https://www.billboard.com/music/pop/courtney-love-calls-slayyyter-a-once-in-a-generation-genius-1236324576/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-08-26T00:39:29.175Z"
+  },
+  {
+    "id": "news-1787704769175-35",
+    "title": "Britney Spears’ Son Jayden James Lands MAC Cosmetics Campaign & Says He’ll Release Music ‘When He’s Ready’",
+    "summary": "The 19-year-old is adding another fashion credit to his career after walking the Vetements runway at Paris Men's Fashion Week.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-08-26T00:24:20.000Z",
+    "url": "https://www.billboard.com/culture/lifestyle/britney-spears-son-jayden-james-mac-campaign-music-1236324561/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-08-26T00:39:29.175Z"
+  },
+  {
+    "id": "news-1787704769175-36",
+    "title": "Dolly Parton Dead at 80: Music Executives Remember the Country Icon",
+    "summary": "Following the music legend's passing at the age of 80, industry executives are sharing their reactions and condolences",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-08-26T00:17:00.000Z",
+    "url": "https://www.billboard.com/pro/dolly-parton-death-music-industry-reactions/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-08-26T00:39:29.175Z"
+  },
+  {
+    "id": "news-1787704769175-37",
+    "title": "Youth Music Awards Heads to Liverpool for 2026 Ceremony: See Full List of Nominations",
+    "summary": "The judging panel features artists Myles Smith, Bicep & ALT BLK ERA.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-08-26T00:15:18.000Z",
+    "url": "https://www.billboard.com/music/awards/youth-music-awards-2026-nominations-full-list-liverpool-1236323805/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-08-26T00:39:29.175Z"
+  },
+  {
+    "id": "news-1787704769173-0",
+    "title": "OpenAI loses a top data center exec, as stream of high-profile departures continues",
+    "summary": "Before Malone left, OpenAI had already reshuffled its infrastructure org, shifting his reporting line away from President Greg Brockman and putting Vice President Sachin Katti in charge of the group.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-08-26T00:06:20.000Z",
+    "url": "https://techcrunch.com/2026/08/25/openai-loses-a-top-data-center-exec-as-stream-of-high-profile-departures-continues/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-08-26T00:39:29.173Z"
+  },
+  {
+    "id": "news-1787704769175-38",
+    "title": "Fearless, Fabulous Dolly Parton and What We Can All Learn From Her: A Remembrance",
+    "summary": "Parton died Aug. 25 at the age of 80, leaving far more than just her incredible career in music behind.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-08-25T23:48:02.000Z",
+    "url": "https://www.billboard.com/music/country/dolly-parton-tribute-death-rememberance-1236324563/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-08-26T00:39:29.175Z"
+  },
+  {
+    "id": "news-1787704769175-26",
+    "title": "The Amazon Pain Forest",
+    "summary": "The latest 'Tim's Take' from Music Business Worldwide founder, Tim Ingham\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-08-25T18:15:56.000Z",
+    "url": "https://www.musicbusinessworldwide.com/the-amazon-pain-forest/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-08-26T00:39:29.175Z"
+  },
+  {
+    "id": "news-1787704769173-1",
+    "title": "Claude Cowork finally remembers what you told the app in chat",
+    "summary": "Anthropic is giving Claude a shared memory across chat and Cowork, so users no longer have to repeatedly brief the AI on projects, preferences, and other context.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-08-25T17:50:33.000Z",
+    "url": "https://techcrunch.com/2026/08/25/claude-cowork-finally-remembers-what-you-told-the-app-in-chat/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-08-26T00:39:29.173Z"
+  },
+  {
+    "id": "news-1787704769175-27",
+    "title": "Universal, Sony, Warner join $76M funding round in Stability AI",
+    "summary": "The three major music companies have all just banked equity in Stability AI – by joining a USD $76 million Series B investment into the gen-AI company. Universal Music Group, Sony Music Group, and Warner Music Group join a Series B investor coalition that also includes gaming giant Electronic Arts, plus investment firms AMD Ventures … Continued\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-08-25T16:22:20.000Z",
+    "url": "https://www.musicbusinessworldwide.com/universal-sony-warner-join-76m-funding-round-in-stability-ai/",
+    "imageUrl": null,
+    "tags": [
+      "AI",
+      "Investment"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-08-26T00:39:29.175Z"
+  },
+  {
+    "id": "news-1787704769173-2",
+    "title": "Accel-backed Keenable is indexing the web for AI agents",
+    "summary": "Now exiting stealth mode with a $26 million seed round, Keenable has been building a vast web search index for AI agents.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-08-25T13:00:00.000Z",
+    "url": "https://techcrunch.com/2026/08/25/accel-backed-keenable-is-indexing-the-web-for-ai-agents/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-08-26T00:39:29.174Z"
+  },
+  {
+    "id": "news-1787704769174-3",
+    "title": "‘The world seems to be ready’: An interview with OpenAI head of product Thibault Sottiaux",
+    "summary": "TechCrunch talks agents, UX, and reporting to Greg Brockman with OpenAI's head of product. ",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-08-25T12:00:00.000Z",
+    "url": "https://techcrunch.com/2026/08/25/the-world-seems-to-be-ready-an-interview-with-openai-head-of-product-thibault-sottiaux/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-08-26T00:39:29.174Z"
+  },
+  {
+    "id": "news-1787704769174-19",
+    "title": "It Should Be Harder to Apply for a Job. No, Really",
+    "summary": "Thanks to a dwindling supply of open roles, “one-click” applications, and the rise of artificial intelligence, it’s easier than ever to apply for a job. We’re all paying the price.",
+    "category": "ai-research",
+    "source": "Wired AI",
+    "author": "Unknown",
+    "publishedAt": "2026-08-25T09:30:00.000Z",
+    "url": "https://www.wired.com/story/applying-for-a-job-is-too-damn-easy/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-08-26T00:39:29.175Z"
+  },
+  {
+    "id": "news-1787704769174-4",
     "title": "Situational Awareness, star AI hedge fund that nearly imploded, now being probed by the SEC",
     "summary": "The AI hedge fund went from \"the talk of Wall Street\" to \"subject of federal subpoenas\" faster than you can say \"diversify your portfolio.\"",
     "category": "ai-research",
@@ -13,112 +200,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-08-25T00:38:38.072Z"
+    "fetchedAt": "2026-08-26T00:39:29.174Z"
   },
   {
-    "id": "news-1787618318073-37",
-    "title": "ALL’N Is Billboard’s K-Pop Up & Comer of the Month for August: Exclusive Photos",
-    "summary": "The meaning behind his stage name ALL’N — both a play on “all in,” meaning to give it your all, and “olin,” a shortened form of “violin” — are important clues to understanding his music.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-08-25T00:00:16.000Z",
-    "url": "https://www.billboard.com/photos/alln-k-pop-up-and-comer-month-august-photos-1236321284/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-08-25T00:38:38.073Z"
-  },
-  {
-    "id": "news-1787618318073-38",
-    "title": "Rick Ross Responds to 50 Cent’s Aging in Hip-Hop Comments: ‘F— What Your Age Is’",
-    "summary": "50 recently told Apple Music that he doesn't release much music anymore because at his age, he doesn't want to be \"in the way.\"",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-08-24T23:34:17.000Z",
-    "url": "https://www.billboard.com/music/rb-hip-hop/rick-ross-50-cent-aging-in-hip-hop-1236323435/",
-    "imageUrl": null,
-    "tags": [
-      "Apple Music"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-08-25T00:38:38.073Z"
-  },
-  {
-    "id": "news-1787618318073-39",
-    "title": "Reggie Watts Dropped From Podcast Intro & Comedy Festivals After Report Alleging Disturbing Behavior in Romantic Relationships",
-    "summary": "A recent piece brought to light several claims of \"reckless\" drug use, psychological abuse & more.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-08-24T22:46:48.000Z",
-    "url": "https://www.billboard.com/music/music-news/reggie-watts-dropped-comedy-festivals-disturbing-report-1236323431/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-08-25T00:38:38.073Z"
-  },
-  {
-    "id": "news-1787618318073-40",
-    "title": "Jessica Simpson Updates Her Fashion Line for Fall as She Returns to Music & Preps New Documentary",
-    "summary": "A lineup of sweater tops, faux fur & denim builds on Simpson’s fashion legacy at Walmart as she steps back into music after a 15-year hiatus.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-08-24T21:48:42.000Z",
-    "url": "https://www.billboard.com/culture/product-recommendations/jessica-simpson-walmart-fall-fashion-august-2026-1236323023/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-08-25T00:38:38.073Z"
-  },
-  {
-    "id": "news-1787618318073-41",
-    "title": "Hilary Duff Reveals Why She Declared ‘I’m Going to Be a Pop Star’ After ‘Lizzie McGuire’",
-    "summary": "\"I'm going to make music and I'm going to get a record deal and I'm going to be a pop star,\" the 38-year-old manifested.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-08-24T21:26:12.000Z",
-    "url": "https://www.billboard.com/music/pop/hilary-duff-pop-star-after-lizzie-mcguire-1236323354/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-08-25T00:38:38.073Z"
-  },
-  {
-    "id": "news-1787618318073-42",
-    "title": "Stray Kids’ ‘The dominATE Experience’ Concert Film Is Out on Blu-ray & It Includes a Bonus Performance",
-    "summary": "The concert film follows the global K-pop stars onstage & backstage during their SoFi Stadium dates on their Dominate World Tour last year.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-08-24T21:08:29.000Z",
-    "url": "https://www.billboard.com/culture/product-recommendations/stray-kids-the-dominate-experience-blu-ray-dvd-watch-online-1236322622/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-08-25T00:38:38.073Z"
-  },
-  {
-    "id": "news-1787618318073-43",
-    "title": "Looking Ahead: A Release Calendar of Upcoming Albums in 2026",
-    "summary": "We'll be updating our list as musicians announce their new music, so keep checking back for the latest!",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-08-24T21:00:51.000Z",
-    "url": "https://www.billboard.com/lists/new-albums-2026-calendar-new-music-releases-this-year/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-08-25T00:38:38.073Z"
-  },
-  {
-    "id": "news-1787618318073-29",
+    "id": "news-1787704769175-28",
     "title": "Sony Music sues Ralphs parent Kroger over alleged copyright infringement in social media ads",
     "summary": "The complaint states that Kroger disclosed advertising costs of approximately $1.18 billion in 2025.\nSource",
     "category": "industry-news",
@@ -132,10 +217,10 @@
       "Copyright"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-08-25T00:38:38.073Z"
+    "fetchedAt": "2026-08-26T00:39:29.175Z"
   },
   {
-    "id": "news-1787618318073-30",
+    "id": "news-1787704769175-29",
     "title": "DSW reaches settlement in principle with Sony Music over music used in social media ads",
     "summary": "Financial terms were not disclosed in the filing, and the agreement between Sony and the retailer has yet to be executed.\nSource",
     "category": "industry-news",
@@ -148,10 +233,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-08-25T00:38:38.073Z"
+    "fetchedAt": "2026-08-26T00:39:29.175Z"
   },
   {
-    "id": "news-1787618318073-31",
+    "id": "news-1787704769175-30",
     "title": "Gabz Landman promoted to Executive Vice President, A&R at Warner Chappell Music",
     "summary": "Landman is based at the company's Los Angeles headquarters and will continue to report to Ryan Press, President, North America, WCM.\nSource",
     "category": "industry-news",
@@ -162,10 +247,10 @@
     "imageUrl": null,
     "tags": [],
     "readTime": 1,
-    "fetchedAt": "2026-08-25T00:38:38.073Z"
+    "fetchedAt": "2026-08-26T00:39:29.175Z"
   },
   {
-    "id": "news-1787618318072-1",
+    "id": "news-1787704769174-5",
     "title": "Instinct’s powerful AI assistant is raising privacy and security concerns",
     "summary": "Early testers are raving about what Instinct can do, but some say the AI assistant’s sweeping access, broad terms and ability to act on users’ behalf come with uncomfortable trade-offs.",
     "category": "ai-research",
@@ -178,10 +263,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-08-25T00:38:38.072Z"
+    "fetchedAt": "2026-08-26T00:39:29.174Z"
   },
   {
-    "id": "news-1787618318072-2",
+    "id": "news-1787704769174-6",
     "title": "Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics",
     "summary": "General Intuition, the startup building a foundation model that trains generalized AI agents how to move through space and time, is in talks to raise at a $6 billion pre-money valuation from new investors including Valor Ventures, Point72 Ventures, and Seven Seven Six.",
     "category": "industry-news",
@@ -195,10 +280,10 @@
       "Startup"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-08-25T00:38:38.072Z"
+    "fetchedAt": "2026-08-26T00:39:29.174Z"
   },
   {
-    "id": "news-1787618318072-3",
+    "id": "news-1787704769174-7",
     "title": "OpenAI is building AI agents for everything. Will everyone use them?",
     "summary": "Inside the frontier lab’s push to bring AI agents from software engineers to the masses.\n",
     "category": "ai-research",
@@ -211,10 +296,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-08-25T00:38:38.072Z"
+    "fetchedAt": "2026-08-26T00:39:29.174Z"
   },
   {
-    "id": "news-1787618318072-4",
+    "id": "news-1787704769174-8",
     "title": "Who’s behind the new ‘stealth model’ Ox Alpha?",
     "summary": "A mysterious new AI model called Ox Alpha has driven certain corners of the internet into a frenzy of speculation.",
     "category": "ai-research",
@@ -227,89 +312,6 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-08-25T00:38:38.072Z"
-  },
-  {
-    "id": "news-1787618318072-5",
-    "title": "Linkdaze’s smart calendar is built to run a household, not just track a schedule",
-    "summary": "Linkdaze's smart digital calendar stands out for not putting its features behind a paywall, including an AI meal planner tool. ",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-08-23T19:14:08.000Z",
-    "url": "https://techcrunch.com/2026/08/23/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-08-25T00:38:38.072Z"
-  },
-  {
-    "id": "news-1787618318072-6",
-    "title": "Is it legal to train AI models on copyrighted books? It’s complicated",
-    "summary": "Most published authors have, without their knowledge or consent, contributed to the development of the same AI tools that threaten to undermine their livelihoods. That seems illegal, right?",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-08-23T15:00:00.000Z",
-    "url": "https://techcrunch.com/2026/08/23/is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated/",
-    "imageUrl": null,
-    "tags": [
-      "AI",
-      "Copyright"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-08-25T00:38:38.072Z"
-  },
-  {
-    "id": "news-1787618318072-7",
-    "title": "Harvard’s $699 startup bootcamp offers AI avatars of its instructors",
-    "summary": "In the HBS Foundry program, AI avatars provide feedback during practice pitches and board meetings.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-08-22T21:46:56.000Z",
-    "url": "https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/",
-    "imageUrl": null,
-    "tags": [
-      "AI",
-      "Startup"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-08-25T00:38:38.072Z"
-  },
-  {
-    "id": "news-1787618318072-8",
-    "title": "Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research",
-    "summary": "Built by DeepMind alumni, British AI lab Inherent released Faraday, an AI agent whose ability to replicate scientific papers could be a stepping stone for innovation. ",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-08-22T19:00:00.000Z",
-    "url": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/",
-    "imageUrl": null,
-    "tags": [
-      "AI",
-      "Research"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-08-25T00:38:38.072Z"
-  },
-  {
-    "id": "news-1787618318072-9",
-    "title": "OpenAI says California should strengthen its AI safety bill",
-    "summary": "OpenAI's global affairs team post also referenced “recent incidents” that “underscore both the need for these protections and the importance of updating them” as new risks emerge. ",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-08-22T16:30:34.000Z",
-    "url": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-08-25T00:38:38.072Z"
+    "fetchedAt": "2026-08-26T00:39:29.174Z"
   }
 ]
