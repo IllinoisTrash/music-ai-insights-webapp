@@ -1,104 +1,209 @@
 [
   {
-    "id": "news-1788142566500-32",
-    "title": "Fans Choose JENNIE’s ‘Fallen Angel’ as This Week’s Favorite New Music",
-    "summary": "JENNIE's new digital EP brought in more than 82% of the vote.",
+    "id": "news-1788230063515-31",
+    "title": "Did Dolly Parton Make Pop Music? Yes, But She Preferred to Call It ‘Dolly Parton Music’",
+    "summary": "On the Billboard Pop Shop Podcast, Katie & Keith chat about the late country icon's relationship with pop music over the years.",
     "category": "industry-news",
     "source": "Billboard",
     "author": "Unknown",
-    "publishedAt": "2026-08-31T02:02:27.000Z",
-    "url": "https://www.billboard.com/music/music-news/jennie-fallen-angel-best-new-music-poll-results-1236328446/",
+    "publishedAt": "2026-09-01T01:23:36.000Z",
+    "url": "https://www.billboard.com/media/podcasts/dolly-parton-pop-music-pop-shop-podcast-1236329442/",
     "imageUrl": null,
     "tags": [],
     "readTime": 1,
-    "fetchedAt": "2026-08-31T02:16:06.500Z"
+    "fetchedAt": "2026-09-01T02:34:23.515Z"
   },
   {
-    "id": "news-1788142566500-33",
-    "title": "Dolly Parton’s Legacy on the Billboard 200 Chart: 7 Decades of Hit Albums",
-    "summary": "She scored more top 40-charted sets in the 2020s than in any other decade.",
+    "id": "news-1788230063514-0",
+    "title": "Apple shares ‘shocking evidence’ against former employee accused of stealing company data for OpenAI",
+    "summary": "Apple says it has evidence that a former employee destroyed evidence of data theft after learning he was under investigation.",
+    "category": "tech-innovation",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-09-01T00:13:00.000Z",
+    "url": "https://techcrunch.com/2026/08/31/apple-shares-shocking-evidence-against-former-employee-accused-of-stealing-company-data-for-openai/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-09-01T02:34:23.514Z"
+  },
+  {
+    "id": "news-1788230063515-32",
+    "title": "Olivia Rodrigo, Chappell Roan, Doechii & More Rock Out & Raise Money at Daisy Chain Fields | All Access",
+    "summary": "Olivia Rodrigo kicked off her inaugural Daisy Chain Fields festival with an all-female lineup including Chappell Roan, Doechii, Rachel Chinouriri, Eli, Mitski and more. Rodrigo also included special guests like Sarah McLachlan, Alanis Morissette and Stevie Nicks. In a press conference, Rodrigo talked about how ticket sales from the Daisy Chain Fields festival are going […]",
     "category": "industry-news",
     "source": "Billboard",
     "author": "Unknown",
-    "publishedAt": "2026-08-30T23:05:25.000Z",
-    "url": "https://www.billboard.com/music/chart-beat/dolly-parton-albums-history-billboard-200-chart-1236325511/",
+    "publishedAt": "2026-08-31T23:42:18.000Z",
+    "url": "https://www.billboard.com/video/olivia-rodrigo-daisy-chain-fields-festival-all-access-recap/",
     "imageUrl": null,
-    "tags": [],
+    "tags": [
+      "AI"
+    ],
     "readTime": 1,
-    "fetchedAt": "2026-08-31T02:16:06.500Z"
+    "fetchedAt": "2026-09-01T02:34:23.515Z"
   },
   {
-    "id": "news-1788142566500-34",
-    "title": "YSL’s ‘Slime Language 3’: All 41 Tracks Ranked",
-    "summary": "The 41-song compilation is a peek into the present and future of Young Thug's label.",
+    "id": "news-1788230063515-33",
+    "title": "Suno Sued Again, Accused of Training Model on Mexican Music Catalog to Make Spanish AI Songs",
+    "summary": "A regional Mexican label and publisher claims its catalog helped Suno \"capture a significant share of the Spanish language AI user market.\"",
     "category": "industry-news",
     "source": "Billboard",
     "author": "Unknown",
-    "publishedAt": "2026-08-30T22:58:29.000Z",
-    "url": "https://www.billboard.com/lists/young-thug-ysl-slime-language-3-tracks-ranked/",
+    "publishedAt": "2026-08-31T23:08:09.000Z",
+    "url": "https://www.billboard.com/pro/suno-lawsuit-mexican-music-spanish-ai-songs/",
     "imageUrl": null,
-    "tags": [],
+    "tags": [
+      "AI"
+    ],
     "readTime": 1,
-    "fetchedAt": "2026-08-31T02:16:06.500Z"
+    "fetchedAt": "2026-09-01T02:34:23.515Z"
   },
   {
-    "id": "news-1788142566500-35",
-    "title": "Here Are All the K-pop Albums That Have Topped the Billboard 200: Full List",
-    "summary": "BTS was the first K-pop act to top the all-genre chart; BLACKPINK was the first female K-pop act to do so.",
+    "id": "news-1788230063515-34",
+    "title": "Dolly Parton Returns to Billboard 200 Top 5, Notching Second-Highest-Charting Album Ever",
+    "summary": "The greatest-hits collection Ultimate Dolly Parton soars back onto the ranking following the icon's Aug. 25 death.",
     "category": "industry-news",
     "source": "Billboard",
     "author": "Unknown",
-    "publishedAt": "2026-08-30T21:14:42.000Z",
-    "url": "https://www.billboard.com/lists/k-pop-albums-number-one-billboard-200-albums-full-list/",
+    "publishedAt": "2026-08-31T22:19:51.000Z",
+    "url": "https://www.billboard.com/music/chart-beat/dolly-parton-returns-billboard-200-top-five-after-death-1236329330/",
     "imageUrl": null,
     "tags": [],
     "readTime": 1,
-    "fetchedAt": "2026-08-31T02:16:06.500Z"
+    "fetchedAt": "2026-09-01T02:34:23.515Z"
   },
   {
-    "id": "news-1788142566500-36",
-    "title": "ENHYPEN Scores First No. 1 Album on Billboard 200 With ‘THE SIN : BLISS’",
-    "summary": "Plus, Dolly Parton soars into the top five after her passing.",
+    "id": "news-1788230063515-35",
+    "title": "A ‘Lion King’ Composer Sued a Comedian Over a Joke. Now He Owes $40K in Legal Bills.",
+    "summary": "A questionable lawsuit over a \"Circle of Life\" comedy bit has backfired on the composer who filed the case.",
     "category": "industry-news",
     "source": "Billboard",
     "author": "Unknown",
-    "publishedAt": "2026-08-30T20:31:03.000Z",
-    "url": "https://www.billboard.com/music/chart-beat/enhypen-number-one-billboard-200-the-sin-bliss-1236328323/",
+    "publishedAt": "2026-08-31T22:03:36.000Z",
+    "url": "https://www.billboard.com/pro/lion-king-composer-must-repay-comedian-legal-bill/",
     "imageUrl": null,
     "tags": [],
     "readTime": 1,
-    "fetchedAt": "2026-08-31T02:16:06.500Z"
+    "fetchedAt": "2026-09-01T02:34:23.515Z"
   },
   {
-    "id": "news-1788142566500-37",
-    "title": "‘Remembering Dolly: A Rhinestone Life’: Here’s Where to Watch the Dolly Parton Tribute TV Special Online Free",
-    "summary": "The special pays tribute to Parton's life and music legacy — it broadcasts coast-to-coast on Aug. 30.",
-    "category": "industry-news",
-    "source": "Billboard",
+    "id": "news-1788230063514-1",
+    "title": "The Pentagon now has its own version of ChatGPT and Grok",
+    "summary": "Versions of OpenAI's ChatGPT and SpaceXAI's Grok will join Google's Gemini on the Pentagon's central portal for AI tools.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
     "author": "Unknown",
-    "publishedAt": "2026-08-30T16:54:24.000Z",
-    "url": "https://www.billboard.com/culture/product-recommendations/dolly-parton-remembering-rhinestone-life-watch-online-free-1236326627/",
+    "publishedAt": "2026-08-31T20:13:45.000Z",
+    "url": "https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/",
     "imageUrl": null,
-    "tags": [],
+    "tags": [
+      "AI"
+    ],
     "readTime": 1,
-    "fetchedAt": "2026-08-31T02:16:06.500Z"
+    "fetchedAt": "2026-09-01T02:34:23.514Z"
   },
   {
-    "id": "news-1788142566500-38",
-    "title": "Every Song That Topped the U.K. Chart for 8 or More Weeks, But Didn’t Make the Top 10 on the Hot 100",
-    "summary": "\"Rein Me In” by Sam Fender and Olivia Dean is the first single to log 23 weeks at No. 1 in the U.K. It hasn't even made the top 40 on the Hot 100, but it's closing in.",
-    "category": "industry-news",
-    "source": "Billboard",
+    "id": "news-1788230063514-2",
+    "title": "Instagram puts new limits on undisclosed AI profiles",
+    "summary": "As frustration over AI influencers has been growing, Instagram is limiting the reach of undisclosed AI profiles.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
     "author": "Unknown",
-    "publishedAt": "2026-08-30T15:36:27.000Z",
-    "url": "https://www.billboard.com/lists/songs-that-were-big-uk-hits-but-not-in-the-u-s/",
+    "publishedAt": "2026-08-31T19:16:59.000Z",
+    "url": "https://techcrunch.com/2026/08/31/instagram-puts-new-limits-on-undisclosed-ai-profiles/",
     "imageUrl": null,
-    "tags": [],
+    "tags": [
+      "AI"
+    ],
     "readTime": 1,
-    "fetchedAt": "2026-08-31T02:16:06.500Z"
+    "fetchedAt": "2026-09-01T02:34:23.514Z"
   },
   {
-    "id": "news-1788142566498-0",
+    "id": "news-1788230063514-3",
+    "title": "Harvard Law dropout raises $6M for Blue Voice to build a ‘Harvey for police officers’",
+    "summary": "Blue Voice is trained on department-specific laws, local ordinances, protocols, and guidelines that general-purpose AI tools can't access on the public internet. ",
+    "category": "tech-innovation",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-08-31T18:35:11.000Z",
+    "url": "https://techcrunch.com/2026/08/31/harvard-law-dropout-raises-6m-for-blue-voice-to-build-a-harvey-for-police-officers/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-09-01T02:34:23.514Z"
+  },
+  {
+    "id": "news-1788230063514-4",
+    "title": "Clipto uses AI to search terabytes of video and is now valued at $250M",
+    "summary": "The three-year-old startup says it reached $15 million in ARR and profitability before raising its latest $15 million round.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-08-31T16:00:00.000Z",
+    "url": "https://techcrunch.com/2026/08/31/three-year-old-ai-media-search-startup-clipto-hits-a-250m-valuation/",
+    "imageUrl": null,
+    "tags": [
+      "AI",
+      "Startup"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-09-01T02:34:23.514Z"
+  },
+  {
+    "id": "news-1788230063514-5",
+    "title": "Nvidia’s $3.5B MediaTek bet reveals its plan for tackling Big Tech’s AI chip buildout",
+    "summary": "Nvidia invests $3.5 billion into Taiwanese chipmaker MediaTek. The deal shows how Nvidia plans to stay essential to AI infrastructure as Big Tech begins to build its own AI chips.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-08-31T15:15:25.000Z",
+    "url": "https://techcrunch.com/2026/08/31/nvidias-3-5b-mediatek-bet-reveals-its-plan-for-tackling-big-techs-ai-chip-buildout/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-09-01T02:34:23.514Z"
+  },
+  {
+    "id": "news-1788230063515-25",
+    "title": "Jermaine Dupri’s So So Def drops $18m royalty lawsuit against Sony Music after parties ‘resolved the matter’",
+    "summary": "The dismissal was without prejudice, leaving Dupri and his companies free to bring the claims again.\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-08-31T11:29:06.000Z",
+    "url": "https://www.musicbusinessworldwide.com/jermaine-dupris-so-so-def-drops-18m-royalty-lawsuit-against-sony-music-after-parties-resolved-the-matter/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-09-01T02:34:23.515Z"
+  },
+  {
+    "id": "news-1788230063515-20",
+    "title": "You Know Who Really Hates AI? Insurance Claims Adjusters",
+    "summary": "Of the Glassdoor reviews from claims adjusters that mentioned AI, a staggering 98 percent were negative. “AI is just a tool,” one person tells WIRED. “It should never be given the keys.”",
+    "category": "tech-innovation",
+    "source": "Wired AI",
+    "author": "Unknown",
+    "publishedAt": "2026-08-31T10:30:00.000Z",
+    "url": "https://www.wired.com/story/insurance-claims-adjusters-really-hate-ai/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-09-01T02:34:23.515Z"
+  },
+  {
+    "id": "news-1788230063514-6",
     "title": "Caterpillar is bringing to AI deployment what it learned from automating mining",
     "summary": "Caterpillar has spent decades putting autonomous machines to work at remote mining sites. It's now bringing that experience to AI deployment.",
     "category": "ai-research",
@@ -111,11 +216,27 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-08-31T02:16:06.498Z"
+    "fetchedAt": "2026-09-01T02:34:23.514Z"
   },
   {
-    "id": "news-1788142566498-1",
-    "title": "“We’re not doing 30 bets a year”: Vijay Pande on betting small after running $4 billion at a16z",
+    "id": "news-1788230063514-7",
+    "title": "At TechBBQ, Europe’s AI conversations kept coming back to: Who’s actually in control?",
+    "summary": "Investors, founders, and operators from across Europe arrived for the annual Nordic TechBBQ conference to talk about how humans can have agency over AI. ",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-08-29T17:51:10.000Z",
+    "url": "https://techcrunch.com/2026/08/29/at-techbbq-europes-ai-conversations-kept-coming-back-to-whos-actually-in-control/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-09-01T02:34:23.514Z"
+  },
+  {
+    "id": "news-1788230063514-8",
+    "title": "‘We’re not doing 30 bets a year’: Vijay Pande on betting small after running $4B at a16z",
     "summary": "Vijay Pande — who left a16z's roughly $4 billion biotech practice last year to start the much smaller, AI-native VZVC — talks about why biology is finally shifting from a \"discovery\" science to an \"engineering\" one, why clinical trials are still brutally expensive, and why he thinks open, shared datasets (not walled-off ones) are what will actually let AI transform medicine.",
     "category": "ai-research",
     "source": "TechCrunch AI",
@@ -127,10 +248,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-08-31T02:16:06.499Z"
+    "fetchedAt": "2026-09-01T02:34:23.515Z"
   },
   {
-    "id": "news-1788142566499-2",
+    "id": "news-1788230063515-9",
     "title": "Nvidia’s AI advantage is moving beyond the GPU",
     "summary": "The new generation of data center systems is increasing efficiency with smarter traffic control instead of just more processor cycles.",
     "category": "ai-research",
@@ -143,10 +264,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-08-31T02:16:06.499Z"
+    "fetchedAt": "2026-09-01T02:34:23.515Z"
   },
   {
-    "id": "news-1788142566500-26",
+    "id": "news-1788230063515-26",
     "title": "Now Sony Music Publishing and Warner Chappell sue Anthropic in multi-billion dollar lawsuit: ‘One of the largest and most blatant ongoing thefts of intellectual property in history.’",
     "summary": "The publishing arms of all three major music companies are now litigating against the Claude maker\nSource",
     "category": "industry-news",
@@ -159,10 +280,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-08-31T02:16:06.500Z"
+    "fetchedAt": "2026-09-01T02:34:23.515Z"
   },
   {
-    "id": "news-1788142566499-21",
+    "id": "news-1788230063515-21",
     "title": "The Cybersecurity Apocalypse Is Coming in ‘Months,’ AI Giants Warn",
     "summary": "Plus: Hackers target over 100 US water systems, ICE puts in an order for robot dogs, and you’ll never guess what “MrChildPorn” was arrested for.",
     "category": "tech-innovation",
@@ -175,10 +296,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-08-31T02:16:06.499Z"
+    "fetchedAt": "2026-09-01T02:34:23.515Z"
   },
   {
-    "id": "news-1788142566499-22",
+    "id": "news-1788230063515-22",
     "title": "How to Run a Chatbot on Your Own Computer",
     "summary": "Installing a large language model on your personal computer gives you a handy digital assistant that won’t compromise your data privacy.",
     "category": "ai-research",
@@ -189,120 +310,6 @@
     "imageUrl": null,
     "tags": [],
     "readTime": 1,
-    "fetchedAt": "2026-08-31T02:16:06.499Z"
-  },
-  {
-    "id": "news-1788142566499-3",
-    "title": "Neocloud Lambda secures $1B in debt to buy more chips",
-    "summary": "Neocloud Lambda has raised $1B in private debt to buy Nvidia AI chips and lease them to Microsoft. It's the latest in a string of loans, underscoring the high cost of the AI boom. ",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-08-28T20:24:11.000Z",
-    "url": "https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-08-31T02:16:06.499Z"
-  },
-  {
-    "id": "news-1788142566499-4",
-    "title": "An Anthropic researcher just gave us a peek at self-improving AI",
-    "summary": "Given 10 benchmarks for specific misaligned behaviors, the automated systems were able to improve performance on every single one without degrading overall performance.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-08-28T19:30:38.000Z",
-    "url": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/",
-    "imageUrl": null,
-    "tags": [
-      "AI",
-      "Research"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-08-31T02:16:06.499Z"
-  },
-  {
-    "id": "news-1788142566499-5",
-    "title": "Open-weight AI companies are the Valley’s hottest acquisition targets",
-    "summary": "There's a lot of capital pouring into the business of giving models away.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-08-28T18:19:40.000Z",
-    "url": "https://techcrunch.com/2026/08/28/open-weight-ai-companies-are-the-valleys-hottest-acquisition-targets/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-08-31T02:16:06.499Z"
-  },
-  {
-    "id": "news-1788142566500-27",
-    "title": "Spotify promotes Joe Hadley to VP of Global Music Content, Partnerships; J.J. Italiano named Head of Editorial",
-    "summary": "Spotify says the new structure will preserve Editorial's \"distinct voice, expertise, and decision-making,\" while creating \"a more connected Music team.\"\nSource",
-    "category": "industry-news",
-    "source": "Music Business Worldwide",
-    "author": "Unknown",
-    "publishedAt": "2026-08-28T17:15:38.000Z",
-    "url": "https://www.musicbusinessworldwide.com/spotify-promotes-joe-hadley-to-vp-of-global-music-content-partnerships-j-j-italiano-named-head-of-editorial/",
-    "imageUrl": null,
-    "tags": [
-      "Spotify",
-      "Partnership"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-08-31T02:16:06.500Z"
-  },
-  {
-    "id": "news-1788142566499-23",
-    "title": "AI Has Human Doctors Asking: What’s Left for Us?",
-    "summary": "A recent paper argues that AI is often better at doctoring than doctors. Guess who isn't thrilled.",
-    "category": "tech-innovation",
-    "source": "Wired AI",
-    "author": "Unknown",
-    "publishedAt": "2026-08-28T15:00:00.000Z",
-    "url": "https://www.wired.com/story/ai-has-human-doctors-asking-whats-left-for-us/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-08-31T02:16:06.499Z"
-  },
-  {
-    "id": "news-1788142566499-6",
-    "title": "Anthropic gets its first court win over the Pentagon’s supply-chain risk label",
-    "summary": "A federal judge ruled the Trump administration illegally labeled Anthropic a supply-chain risk, handing the AI company a victory as its second Pentagon lawsuit continues in Washington.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-08-28T12:46:12.000Z",
-    "url": "https://techcrunch.com/2026/08/28/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-08-31T02:16:06.499Z"
-  },
-  {
-    "id": "news-1788142566499-7",
-    "title": "Meta executive leaves for OpenAI as the social media giant faces growing scrutiny in India",
-    "summary": "Sandhya Devanathan will oversee some OpenAI operations across Southeast Asia and Australia in her new role.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-08-28T12:21:06.000Z",
-    "url": "https://techcrunch.com/2026/08/28/meta-executive-leaves-for-openai-as-the-social-media-giant-faces-growing-scrutiny-in-india/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-08-31T02:16:06.499Z"
+    "fetchedAt": "2026-09-01T02:34:23.515Z"
   }
 ]
