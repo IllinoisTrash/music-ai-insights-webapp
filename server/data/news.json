@@ -1,324 +1,310 @@
 [
   {
-    "id": "news-1788400862370-19",
-    "title": "Meta Pushes Its New AI Agent on Employees—but Eases Off on Tokenmaxxing",
-    "summary": "The company is reducing pressure on workers to use artificial intelligence tools while encouraging them to experiment with Hatch, its most advanced AI project yet.",
+    "id": "news-1788487186514-28",
+    "title": "Feminist Icon Gloria Steinem Remembered by Madonna, Olivia Rodrigo, Jennifer Lopez & More Musicians: ‘The O.G. Baddie’",
+    "summary": "The statement announcing the activist's death remembered Steinem for her greatest gift of people feel \"seen and heard.\"",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-09-04T00:39:36.000Z",
+    "url": "https://www.billboard.com/music/music-news/gloria-steinem-death-tributes-madonna-carole-jennifer-lopez-1236333384/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-09-04T01:59:46.514Z"
+  },
+  {
+    "id": "news-1788487186514-29",
+    "title": "Miley Cyrus Turns a Bustling City Into Her Personal Dance Floor for Grungy ‘Bass Persuades’ Video: Watch",
+    "summary": "Miley's 10th studio album is set to arrive on Sept. 18. ",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-09-04T00:18:44.000Z",
+    "url": "https://www.billboard.com/music/pop/miley-cyrus-bass-persuades-single-1236332800/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-09-04T01:59:46.514Z"
+  },
+  {
+    "id": "news-1788487186514-30",
+    "title": "Chino Pacas Wants ‘Que Sigan Llegando Las Pacas V2’ to Show How Far He Can Go: Stream It Now",
+    "summary": "\"With Volume 2, I want to showcase the versatility I can bring as a musician and composer,\" the Mexican artist tells Billboard.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-09-04T00:00:00.000Z",
+    "url": "https://www.billboard.com/music/latin/chino-pacas-que-sigan-llegando-las-pacas-v2-stream-it-now-1236333251/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-09-04T01:59:46.514Z"
+  },
+  {
+    "id": "news-1788487186514-31",
+    "title": "AEG & SeatGeek Slam Live Nation’s ‘Feeble’ DOJ Settlement: ‘Divestiture Is Needed’",
+    "summary": "In a public comment, AEG says live music won't have meaningful competition \"as long as Ticketmaster remains vertically integrated with Live Nation.\"",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-09-03T23:13:42.000Z",
+    "url": "https://www.billboard.com/pro/aeg-seatgeek-live-nation-doj-deal-ticketmaster/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-09-04T01:59:46.514Z"
+  },
+  {
+    "id": "news-1788487186514-32",
+    "title": "Suno Pulls Controversial Mary J. Blige Ad in Which She Calls AI Music Generator ‘Pretty Dope’",
+    "summary": "The company says it entered an agreement with someone who falsely presented as Blige's rep.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-09-03T22:03:20.000Z",
+    "url": "https://www.billboard.com/pro/suno-mary-j-blige-ad-dropped-ai-music-generation/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-09-04T01:59:46.514Z"
+  },
+  {
+    "id": "news-1788487186513-13",
+    "title": "Nobody Is Saying Why OpenAI and Anthropic Had Outages Today",
+    "summary": "ChatGPT, Claude, and Grok all suffered outages at nearly the exact same time for reasons that remain murky.",
     "category": "ai-research",
     "source": "Wired AI",
     "author": "Unknown",
-    "publishedAt": "2026-09-03T01:32:02.000Z",
-    "url": "https://www.wired.com/story/meta-pushes-its-new-ai-agent-on-employees-but-eases-off-on-tokenmaxxing/",
+    "publishedAt": "2026-09-03T21:56:21.000Z",
+    "url": "https://www.wired.com/story/nobody-is-saying-why-openai-and-anthropic-had-outages-today/",
     "imageUrl": null,
     "tags": [
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-09-03T02:01:02.371Z"
+    "fetchedAt": "2026-09-04T01:59:46.513Z"
   },
   {
-    "id": "news-1788400862371-35",
-    "title": "Suno Sued by Canadian Music Rights Organization SOCAN for Copyright Infringement",
-    "summary": "The organization filed a lawsuit against the AI music platform for allegedly infringing at least 150 songs within its repertoire.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-09-02T23:18:50.000Z",
-    "url": "https://www.billboard.com/pro/ai-music-platform-suno-sued-canadian-music-socan/",
-    "imageUrl": null,
-    "tags": [
-      "AI",
-      "Copyright"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-09-03T02:01:02.371Z"
-  },
-  {
-    "id": "news-1788400862371-36",
-    "title": "UMusic Hotel Set to Open in London in 2026: Here’s Where It’ll Be Located",
-    "summary": "The deal also encompasses expanded hospitality and entertainment experiences across Denmark Street in Soho.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-09-02T23:01:00.000Z",
-    "url": "https://www.billboard.com/pro/umusic-hotel-london-outernet-partnership-2026/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-09-03T02:01:02.371Z"
-  },
-  {
-    "id": "news-1788400862369-0",
-    "title": "Palo Alto Networks paid $500M for Thrive-backed Console, sources say",
-    "summary": "The acquisition also leaves Sequoia-backed Serval as the de facto startup leader in AI IT service automation, industry watchers believe.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-09-02T22:44:56.000Z",
-    "url": "https://techcrunch.com/2026/09/02/palo-alto-networks-paid-500m-for-thrive-backed-console-sources-say/",
-    "imageUrl": null,
-    "tags": [
-      "AI",
-      "Startup"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-09-03T02:01:02.369Z"
-  },
-  {
-    "id": "news-1788400862369-1",
-    "title": "TechCrunch Disrupt 2026’s new Real World AI Stage features Nvidia, robots, and extinct animals",
-    "summary": "On our new Real World AI stage, we’ll be focusing on the intersection between the digital and physical, and all the ways we’ll continue to see a blending of the two.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-09-02T22:24:09.000Z",
-    "url": "https://techcrunch.com/2026/09/02/techcrunch-disrupt-2026s-new-real-world-ai-stage-features-nvidia-robots-and-extinct-animals/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-09-03T02:01:02.369Z"
-  },
-  {
-    "id": "news-1788400862371-37",
-    "title": "The Warning to Make GNP Seguros Stadium Debut in 2027: ‘We’ve Dreamed & Worked So Hard to Reach This Moment’",
-    "summary": "The Villarreal Vélez sisters will become the first all-female band to perform at the iconic stadium in the Mexico City.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-09-02T22:18:02.000Z",
-    "url": "https://www.billboard.com/music/latin/the-warning-mexico-city-gnp-seguros-stadium-debut-2027-1236330710/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-09-03T02:01:02.371Z"
-  },
-  {
-    "id": "news-1788400862371-38",
-    "title": "Wisin Launches ‘Universidad del Perreo’ & Signs New Management: ‘The Music Speaks’",
-    "summary": "Wisin's new album brings together legendary reggaetón figures like Ivy Queen, Don Chezina and Jowell & Randy.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-09-02T21:52:08.000Z",
-    "url": "https://www.billboard.com/music/latin/wisin-universidad-del-perreo-new-management-interview-1236331708/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-09-03T02:01:02.371Z"
-  },
-  {
-    "id": "news-1788400862371-39",
-    "title": "Olivia Rodrigo Opens Up About ‘GUTS’ Pressure & Finding Joy on ‘Sad’ New Album at Grammy Museum",
-    "summary": "”I try not to be precious. Perfectionism doesn't serve you when you're writing songs,” the singer/songwriter says Tuesday night.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-09-02T21:43:39.000Z",
-    "url": "https://www.billboard.com/music/pop/olivia-rodrigo-grammy-museum-interview-performance-1236331705/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-09-03T02:01:02.371Z"
-  },
-  {
-    "id": "news-1788400862371-28",
-    "title": "Donald Trump’s administration just sided with OpenAI in a key ‘fair use’ case. Here’s what it means for music’s fight with Anthropic and Suno.",
-    "summary": "It appears to be the first time Washington has intervened in any of the copyright cases now stacked up against AI companies\nSource",
-    "category": "industry-news",
-    "source": "Music Business Worldwide",
-    "author": "Unknown",
-    "publishedAt": "2026-09-02T21:20:17.000Z",
-    "url": "https://www.musicbusinessworldwide.com/donald-trumps-administration-just-sided-with-openai-in-a-key-fair-use-case-heres-what-it-means-for-musics-fight-with-anthropic-and-suno/",
-    "imageUrl": null,
-    "tags": [
-      "AI",
-      "Copyright"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-09-03T02:01:02.371Z"
-  },
-  {
-    "id": "news-1788400862369-2",
-    "title": "OpenAI’s new reasoning technique alarms AI safety experts",
-    "summary": "OpenAI’s new Astra model will use “recurrent depth,” a technique that allows the model to operate outside of the sequential thinking that characterizes most reasoning models.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-09-02T20:19:14.000Z",
-    "url": "https://techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-09-03T02:01:02.369Z"
-  },
-  {
-    "id": "news-1788400862371-29",
-    "title": "SM Entertainment and Tencent Music establish Beijing joint venture STE, with Super Junior-M’s Zhoumi as CEO",
-    "summary": "STE will develop and manage artists for the Greater China market, and says it's preparing a new Chinese idol group for a debut within two to three years\nSource",
-    "category": "industry-news",
-    "source": "Music Business Worldwide",
-    "author": "Unknown",
-    "publishedAt": "2026-09-02T19:37:28.000Z",
-    "url": "https://www.musicbusinessworldwide.com/sm-entertainment-and-tencent-music-establish-beijing-joint-venture-ste-with-super-junior-ms-zhoumi-as-ceo/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-09-03T02:01:02.371Z"
-  },
-  {
-    "id": "news-1788400862371-30",
-    "title": "Mateusz Smółka named Managing Director of Warner Music Eastern Europe",
-    "summary": "Smółka, who joins from Spotify after eight years at the company, will take up the newly created role on Monday (September 7).\nSource",
-    "category": "industry-news",
-    "source": "Music Business Worldwide",
-    "author": "Unknown",
-    "publishedAt": "2026-09-02T19:17:56.000Z",
-    "url": "https://www.musicbusinessworldwide.com/mateusz-smolka-named-managing-director-of-warner-music-eastern-europe/",
-    "imageUrl": null,
-    "tags": [
-      "Spotify"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-09-03T02:01:02.371Z"
-  },
-  {
-    "id": "news-1788400862371-20",
-    "title": "Trump Administration Sides With OpenAI in New York Times Copyright Lawsuit",
-    "summary": "The US government wrote a letter in support of OpenAI’s argument that training AI on others' intellectual property is fair use.",
+    "id": "news-1788487186513-14",
+    "title": "Prediction Market Betting Is Getting People Banned and Arrested",
+    "summary": "This week on Uncanny Valley, we dig into the latest prediction market buzz, Flock’s AI-powered police search tool, and how tech bros don’t know how to talk about “rouge” AI agents",
     "category": "tech-innovation",
     "source": "Wired AI",
     "author": "Unknown",
-    "publishedAt": "2026-09-02T18:41:02.000Z",
-    "url": "https://www.wired.com/story/trump-administration-sides-with-ai-giants-new-york-times-lawsuit/",
+    "publishedAt": "2026-09-03T21:48:24.000Z",
+    "url": "https://www.wired.com/story/prediction-market-betting-is-getting-people-banned-and-arrested/",
     "imageUrl": null,
     "tags": [
-      "AI",
-      "Copyright"
+      "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-09-03T02:01:02.371Z"
+    "fetchedAt": "2026-09-04T01:59:46.513Z"
   },
   {
-    "id": "news-1788400862371-21",
-    "title": "These Russian Mathematicians Taught AI Models How to Talk to Each Other Without Using Words",
-    "summary": "A startup called Mostik has a wild new approach to combining the capabilities of AI models.",
+    "id": "news-1788487186514-33",
+    "title": "KISS Hits Highest Mark on Top Album Sales Chart in Over a Decade With ‘Destroys Anaheim ’76’",
+    "summary": "The newly mixed archival live set celebrates the 50th anniversary of an August 1976 Anaheim Stadium show.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-09-03T21:34:04.000Z",
+    "url": "https://www.billboard.com/music/chart-beat/kiss-destroys-anaheim-76-top-10-debut-billboard-album-sales-1236333279/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-09-04T01:59:46.514Z"
+  },
+  {
+    "id": "news-1788487186514-34",
+    "title": "Slayyyter Reacts to Lady Gaga Using Her Song in a New TikTok & She’s Feeling the ‘Love’",
+    "summary": "Mother Monster does her makeup in a one-minute TikTok video using the rising pop star's song, \"I'M ACTUALLY KINDA FAMOUS.\"",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-09-03T21:31:31.000Z",
+    "url": "https://www.billboard.com/music/pop/slayyyter-reacts-lady-gaga-song-tiktok-1236333276/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-09-04T01:59:46.514Z"
+  },
+  {
+    "id": "news-1788487186512-0",
+    "title": "Abliteration.ai is making a business out of removing AI guardrails",
+    "summary": "Abliteration.AI is making powerful AI models without guardrails easier to access, arguing that giving defenders the same tools as bad actors could ultimately improve cybersecurity.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-09-03T18:37:57.000Z",
+    "url": "https://techcrunch.com/2026/09/03/abliteration-ai-is-making-a-business-out-of-removing-ai-guardrails/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-09-04T01:59:46.513Z"
+  },
+  {
+    "id": "news-1788487186513-1",
+    "title": "Meta is paying to peek at how you use their latest AI model",
+    "summary": "For its new Muse Spark model, intended for operating coding and other agents, Meta is offering an explicit discount averaging out to about 95% for users who \"contribute\" to the development of future models by sharing their prompts and model outputs.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-09-03T18:19:56.000Z",
+    "url": "https://techcrunch.com/2026/09/03/meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-09-04T01:59:46.513Z"
+  },
+  {
+    "id": "news-1788487186513-15",
+    "title": "GPT-6 Astra Is Here—and OpenAI Thinks It May Kick Off the AGI Era",
+    "summary": "OpenAI leaders think the company’s next generation model, which excels at computer use and coding, may mark a major milestone in AI development.",
     "category": "ai-research",
     "source": "Wired AI",
     "author": "Unknown",
-    "publishedAt": "2026-09-02T18:20:00.000Z",
-    "url": "https://www.wired.com/story/russian-startup-mostik-ai-models-communication/",
+    "publishedAt": "2026-09-03T18:06:24.000Z",
+    "url": "https://www.wired.com/story/openai-says-gpt-6-can-use-a-computer-better-than-a-human/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-09-04T01:59:46.513Z"
+  },
+  {
+    "id": "news-1788487186513-2",
+    "title": "OpenAI launches Astra, its powerful (and controversial) new model",
+    "summary": "OpenAI claims that Astra represents \"a new frontier on computer and browser use,\" and that it handles tasks with unmatched \"speed, accuracy, and safety.\" ",
+    "category": "tech-innovation",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-09-03T18:01:45.000Z",
+    "url": "https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-09-04T01:59:46.513Z"
+  },
+  {
+    "id": "news-1788487186513-23",
+    "title": "UMG’s hospitality arm to open its first UK hotel on London’s Denmark Street",
+    "summary": "It will be UMHL's first hotel in the UK, and its second in Europe after UMusic Hotel Madrid, with Madrid the only UMusic Hotel currently operating.\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-09-03T17:53:14.000Z",
+    "url": "https://www.musicbusinessworldwide.com/umgs-hospitality-arm-to-open-its-first-uk-hotel-on-londons-denmark-street/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-09-04T01:59:46.513Z"
+  },
+  {
+    "id": "news-1788487186513-24",
+    "title": "HarbourView, on track to surpass $4B in assets under management, acquires David Kershenbaum’s producer royalties – including Tracy Chapman’s Fast Car",
+    "summary": "The transaction was announced on Thursday (September 3). Financial terms were not disclosed.\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-09-03T16:53:25.000Z",
+    "url": "https://www.musicbusinessworldwide.com/harbourview-assets-fast-car/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-09-04T01:59:46.513Z"
+  },
+  {
+    "id": "news-1788487186513-16",
+    "title": "OpenAI Cut Off a Billion-Dollar Customer to Avoid Elon Musk",
+    "summary": "OpenAI recently estimated its Cursor partnership would make more than $1 billion in revenue a year, WIRED has learned. It still walked away after Elon Musk’s SpaceX acquired the AI coding startup.",
+    "category": "tech-innovation",
+    "source": "Wired AI",
+    "author": "Unknown",
+    "publishedAt": "2026-09-03T16:42:40.000Z",
+    "url": "https://www.wired.com/story/openai-elon-musk-cursor-billion-revenue/",
     "imageUrl": null,
     "tags": [
       "AI",
-      "Startup"
+      "Startup",
+      "Partnership"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-09-03T02:01:02.371Z"
+    "fetchedAt": "2026-09-04T01:59:46.513Z"
   },
   {
-    "id": "news-1788400862370-3",
-    "title": "Pangram’s Max Spero on why AI detection is harder than ‘Real or Fake’",
-    "summary": "The internet has a trust problem, and it’s not just because social media feeds are filling up with AI slop. AI-generated text and images are now making their way into job applications, product reviews, and even insurance claims, leaving platforms and users alike scrambling to figure out what’s real.  A handful of startups have cropped up in the past couple of […]",
+    "id": "news-1788487186513-3",
+    "title": "Ollie is betting its focus on privacy can help it win the AI assistant race",
+    "summary": "The family-focused AI assistant wants access to the details of your everyday life, but says it won’t use that data to train AI models or share it with others.",
     "category": "ai-research",
     "source": "TechCrunch AI",
     "author": "Unknown",
-    "publishedAt": "2026-09-02T17:18:13.000Z",
-    "url": "https://techcrunch.com/video/pangrams-max-spero-on-why-ai-detection-is-harder-than-real-or-fake/",
+    "publishedAt": "2026-09-03T16:09:01.000Z",
+    "url": "https://techcrunch.com/2026/09/03/ollie-is-betting-privacy-can-win-the-ai-assistant-race/",
     "imageUrl": null,
     "tags": [
-      "AI",
-      "Startup"
+      "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-09-03T02:01:02.370Z"
+    "fetchedAt": "2026-09-04T01:59:46.513Z"
   },
   {
-    "id": "news-1788400862370-4",
-    "title": "We’re ‘dangerously close’ to dead internet theory, says Pangram’s CEO",
-    "summary": "The internet has a trust problem, and it’s not just because social media feeds are filling up with AI slop. AI-generated text and images are now making their way into job applications, product reviews, and even insurance claims, leaving platforms and users alike scrambling to figure out what’s real.  A handful of startups have cropped up in the past couple of […]",
+    "id": "news-1788487186513-4",
+    "title": "Google’s latest AI weather model gives you no excuse to forget your umbrella",
+    "summary": "WeatherNext 3 is the latest wave of a sea change in meteorology brought out by deep learning techniques. Google says it will start feeding into weather information users see in search, Google Maps, and Gemini.",
     "category": "ai-research",
     "source": "TechCrunch AI",
     "author": "Unknown",
-    "publishedAt": "2026-09-02T17:09:57.000Z",
-    "url": "https://techcrunch.com/podcast/were-dangerously-close-to-dead-internet-theory-says-pangrams-ceo/",
+    "publishedAt": "2026-09-03T15:00:00.000Z",
+    "url": "https://techcrunch.com/2026/09/03/googles-latest-ai-weather-model-gives-you-no-excuse-to-forget-your-umbrella/",
     "imageUrl": null,
     "tags": [
-      "AI",
-      "Startup"
+      "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-09-03T02:01:02.370Z"
+    "fetchedAt": "2026-09-04T01:59:46.513Z"
   },
   {
-    "id": "news-1788400862370-5",
-    "title": "US government sides with OpenAI on issue of training LLMs on copyrighted material",
-    "summary": "\"The United States has a strong interest in continuing to develop a robust and competitive artificial intelligence industry that sets the standard for the practice and procedure of AI use\nglobally,\" the brief reads.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-09-02T17:09:06.000Z",
-    "url": "https://techcrunch.com/2026/09/02/u-s-government-sides-with-openai-on-issue-of-training-llms-on-copyrighted-material/",
-    "imageUrl": null,
-    "tags": [
-      "AI",
-      "Copyright"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-09-03T02:01:02.370Z"
-  },
-  {
-    "id": "news-1788400862371-22",
-    "title": "The Logical End Point of AI Job Interviews Is Two Bots Talking to Each Other",
-    "summary": "Christopher was sick of being ghosted by AI recruiters. So he unleashed ChatGPT on his robot interviewer.",
+    "id": "news-1788487186513-17",
+    "title": "Nvidia RTX Spark ‘Superchip’: The First AI PCs Are Here",
+    "summary": "At IFA 2026, Nvidia and its partners showed off the first RTX Spark-powered laptops and mini PCs, designed to run AI models right on your computer.",
     "category": "ai-research",
     "source": "Wired AI",
     "author": "Unknown",
-    "publishedAt": "2026-09-02T15:51:46.000Z",
-    "url": "https://www.wired.com/story/bot-vs-bot-job-interview-ai/",
+    "publishedAt": "2026-09-03T13:00:00.000Z",
+    "url": "https://www.wired.com/story/nvidia-rtx-spark-laptops-first-look/",
     "imageUrl": null,
     "tags": [
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-09-03T02:01:02.371Z"
+    "fetchedAt": "2026-09-04T01:59:46.513Z"
   },
   {
-    "id": "news-1788400862370-6",
-    "title": "HiddenLayer nabs $100M as enterprises rush to secure their AI deployments",
-    "summary": "Security companies are scrambling to build products that can monitor not just agents but also the tools and add-ons they use. ",
+    "id": "news-1788487186513-18",
+    "title": "Nvidia’s Hugging Face Acquisition Is a $12.9 Billion Bet on Open-Source AI",
+    "summary": "The long-rumored deal will give the chip giant access to—and help it promote—a huge repository of open-source AI models and data sets.",
     "category": "ai-research",
-    "source": "TechCrunch AI",
+    "source": "Wired AI",
     "author": "Unknown",
-    "publishedAt": "2026-09-02T15:01:23.000Z",
-    "url": "https://techcrunch.com/2026/09/02/hiddenlayer-nabs-100m-as-enterprises-rush-to-secure-their-ai-deployments/",
+    "publishedAt": "2026-09-03T12:43:09.000Z",
+    "url": "https://www.wired.com/story/nvidias-hugging-face-acquisition-is-a-dollar129-billion-bet-on-open-source-ai/",
     "imageUrl": null,
     "tags": [
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-09-03T02:01:02.370Z"
-  },
-  {
-    "id": "news-1788400862370-7",
-    "title": "PSA: Amazon’s shopping AI can now tell you if that message is a scam",
-    "summary": "Amazon is adding a scam-detection feature to Alexa for Shopping that can verify whether suspicious emails, texts, and other messages actually came from the retailer.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-09-02T14:56:34.000Z",
-    "url": "https://techcrunch.com/2026/09/02/psa-amazons-shopping-ai-can-now-tell-you-if-that-message-is-a-scam/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-09-03T02:01:02.370Z"
+    "fetchedAt": "2026-09-04T01:59:46.513Z"
   }
 ]
