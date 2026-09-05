@@ -1,80 +1,210 @@
 [
   {
-    "id": "news-1788487186514-28",
-    "title": "Feminist Icon Gloria Steinem Remembered by Madonna, Olivia Rodrigo, Jennifer Lopez & More Musicians: ‘The O.G. Baddie’",
-    "summary": "The statement announcing the activist's death remembered Steinem for her greatest gift of people feel \"seen and heard.\"",
+    "id": "news-1788573429075-27",
+    "title": "Billboard’s Music Industry Events Calendar",
+    "summary": "A complete rundown of the most important events across the music business.",
     "category": "industry-news",
     "source": "Billboard",
     "author": "Unknown",
-    "publishedAt": "2026-09-04T00:39:36.000Z",
-    "url": "https://www.billboard.com/music/music-news/gloria-steinem-death-tributes-madonna-carole-jennifer-lopez-1236333384/",
+    "publishedAt": "2026-09-05T00:47:00.000Z",
+    "url": "https://www.billboard.com/pro/music-industry-events-calendar-festivals-awards-conferences/",
     "imageUrl": null,
     "tags": [],
     "readTime": 1,
-    "fetchedAt": "2026-09-04T01:59:46.514Z"
+    "fetchedAt": "2026-09-05T01:57:09.075Z"
   },
   {
-    "id": "news-1788487186514-29",
-    "title": "Miley Cyrus Turns a Bustling City Into Her Personal Dance Floor for Grungy ‘Bass Persuades’ Video: Watch",
-    "summary": "Miley's 10th studio album is set to arrive on Sept. 18. ",
+    "id": "news-1788573429075-28",
+    "title": "Diddy Can Sue NewsNation Over Drug-Laced Baby Oil Claims, Judge Rules",
+    "summary": "The disgraced music mogul can move forward with his defamation lawsuit against the cable network. ",
     "category": "industry-news",
     "source": "Billboard",
     "author": "Unknown",
-    "publishedAt": "2026-09-04T00:18:44.000Z",
-    "url": "https://www.billboard.com/music/pop/miley-cyrus-bass-persuades-single-1236332800/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-09-04T01:59:46.514Z"
-  },
-  {
-    "id": "news-1788487186514-30",
-    "title": "Chino Pacas Wants ‘Que Sigan Llegando Las Pacas V2’ to Show How Far He Can Go: Stream It Now",
-    "summary": "\"With Volume 2, I want to showcase the versatility I can bring as a musician and composer,\" the Mexican artist tells Billboard.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-09-04T00:00:00.000Z",
-    "url": "https://www.billboard.com/music/latin/chino-pacas-que-sigan-llegando-las-pacas-v2-stream-it-now-1236333251/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-09-04T01:59:46.514Z"
-  },
-  {
-    "id": "news-1788487186514-31",
-    "title": "AEG & SeatGeek Slam Live Nation’s ‘Feeble’ DOJ Settlement: ‘Divestiture Is Needed’",
-    "summary": "In a public comment, AEG says live music won't have meaningful competition \"as long as Ticketmaster remains vertically integrated with Live Nation.\"",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-09-03T23:13:42.000Z",
-    "url": "https://www.billboard.com/pro/aeg-seatgeek-live-nation-doj-deal-ticketmaster/",
+    "publishedAt": "2026-09-05T00:02:06.000Z",
+    "url": "https://www.billboard.com/pro/diddy-newsnation-lawsuit-drug-laced-baby-oil-claims/",
     "imageUrl": null,
     "tags": [
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-09-04T01:59:46.514Z"
+    "fetchedAt": "2026-09-05T01:57:09.075Z"
   },
   {
-    "id": "news-1788487186514-32",
-    "title": "Suno Pulls Controversial Mary J. Blige Ad in Which She Calls AI Music Generator ‘Pretty Dope’",
-    "summary": "The company says it entered an agreement with someone who falsely presented as Blige's rep.",
+    "id": "news-1788573429073-0",
+    "title": "OpenAI’s rogue agents keep escaping, with no formal process to investigate them",
+    "summary": "OpenAI’s latest agent swarm incident adds urgency to calls for independent investigations as researchers and lawmakers question whether AI labs should control the scope of their own safety reviews.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-09-04T23:15:11.000Z",
+    "url": "https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/",
+    "imageUrl": null,
+    "tags": [
+      "AI",
+      "Research"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-09-05T01:57:09.073Z"
+  },
+  {
+    "id": "news-1788573429075-29",
+    "title": "Victony’s ‘STARLIFE’ Sparks 8 Debuts on U.S. Afrobeats Songs Chart",
+    "summary": "The set’s “Slick” repeats at No. 2 for a third consecutive week.",
     "category": "industry-news",
     "source": "Billboard",
     "author": "Unknown",
-    "publishedAt": "2026-09-03T22:03:20.000Z",
-    "url": "https://www.billboard.com/pro/suno-mary-j-blige-ad-dropped-ai-music-generation/",
+    "publishedAt": "2026-09-04T23:07:08.000Z",
+    "url": "https://www.billboard.com/music/chart-beat/victony-starlife-slick-eight-debuts-afrobeats-songs-chart-1236334821/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-09-05T01:57:09.075Z"
+  },
+  {
+    "id": "news-1788573429073-1",
+    "title": "AI compute provider Nscale is looking for $3.5B in pre-IPO financing",
+    "summary": "Nscale, which recently struck a $45 billion deal with Anthropic, is in talks to raise additional funds in anticipation of an upcoming IPO. ",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-09-04T21:12:11.000Z",
+    "url": "https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing/",
     "imageUrl": null,
     "tags": [
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-09-04T01:59:46.514Z"
+    "fetchedAt": "2026-09-05T01:57:09.073Z"
   },
   {
-    "id": "news-1788487186513-13",
+    "id": "news-1788573429075-30",
+    "title": "Beyoncé Gets a ‘B’Day’ No. 1 as ‘Morning Dew (Donk)’ Tops Adult R&B Airplay",
+    "summary": "The new radio champ appears on the 20th-anniversary deluxe edition of her 2006 studio album.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-09-04T20:56:57.000Z",
+    "url": "https://www.billboard.com/music/chart-beat/beyonce-morning-dew-donk-bday-number-1-adult-rb-radio-chart-1236334804/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-09-05T01:57:09.075Z"
+  },
+  {
+    "id": "news-1788573429075-31",
+    "title": "Jason Aldean Guarantees Ronnie Milsap Won’t Be Forgotten ‘Anytime Soon’ With New Song: ‘I Knew Immediately That We Were Going to Cut It’",
+    "summary": "Billboard looks at the writing and recording behind Jason Aldean's \"Anytime Soon.\"",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-09-04T20:43:09.000Z",
+    "url": "https://www.billboard.com/music/country/jason-aldean-makin-tracks-anytime-soon-1236334780/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-09-05T01:57:09.075Z"
+  },
+  {
+    "id": "news-1788573429073-2",
+    "title": "Another swarm of OpenAI agents reached the open internet without the frontier lab’s knowledge",
+    "summary": "It's the latest failure of OpenAI's internal monitoring and security systems.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-09-04T16:21:11.000Z",
+    "url": "https://techcrunch.com/2026/09/04/another-swarm-of-openai-agents-reached-the-open-internet-without-the-frontier-labs-knowledge/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-09-05T01:57:09.073Z"
+  },
+  {
+    "id": "news-1788573429073-3",
+    "title": "Apple’s Ternus era begins as Nvidia bets on the whole AI stack",
+    "summary": "It’s officially the Ternus era at Apple.   Tim Cook stepped down as CEO this week, handing the company to former hardware chief John Ternus, whose first memo promised a “huge launch next week” — timing that puts Apple’s next iPhone event on his desk before he’s even settled in. Cook isn’t going far, though: he’s staying on as Executive Chairman, focused on the kind of policy […]",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-09-04T16:04:08.000Z",
+    "url": "https://techcrunch.com/podcast/apples-ternus-era-begins-as-nvidia-bets-on-the-whole-ai-stack/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-09-05T01:57:09.073Z"
+  },
+  {
+    "id": "news-1788573429074-12",
+    "title": "Who Cares if AI Is Conscious—It’s Basically Alive",
+    "summary": "While philosophers ponder AI consciousness, the models have ideas of their own.",
+    "category": "tech-innovation",
+    "source": "Wired AI",
+    "author": "Unknown",
+    "publishedAt": "2026-09-04T15:00:00.000Z",
+    "url": "https://www.wired.com/story/who-cares-if-ai-is-conscious-its-basically-alive/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-09-05T01:57:09.074Z"
+  },
+  {
+    "id": "news-1788573429073-4",
+    "title": "Google’s Gemini Spark can now manage your Google Photos library",
+    "summary": "Gemini Spark can edit and curate photo albums, create shared collections, turn photos into calendar events, and handle other Google Photos tasks for AI Pro and Ultra subscribers.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-09-04T14:47:11.000Z",
+    "url": "https://techcrunch.com/2026/09/04/googles-gemini-spark-can-now-manage-your-google-photos-library/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-09-05T01:57:09.073Z"
+  },
+  {
+    "id": "news-1788573429074-13",
+    "title": "AI Use in the Job Market Is Creating an Infinite Doom Loop",
+    "summary": "Job seekers are trying to game the application process using AI. It’s not working, and not for the reasons you might think.",
+    "category": "tech-innovation",
+    "source": "Wired AI",
+    "author": "Unknown",
+    "publishedAt": "2026-09-04T10:00:00.000Z",
+    "url": "https://www.wired.com/story/ai-job-market-infinite-doom-loop/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-09-05T01:57:09.074Z"
+  },
+  {
+    "id": "news-1788573429073-5",
+    "title": "The sameness problem behind those unappetizing AI-generated menus",
+    "summary": "While restaurant owners might look to generative AI as a shortcut to sprucing up their menu, customers can viscerally sense that something is wrong with the food.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-09-04T04:21:03.000Z",
+    "url": "https://techcrunch.com/2026/09/03/the-sameness-problem-behind-those-unappetizing-ai-generated-menus/",
+    "imageUrl": null,
+    "tags": [
+      "AI",
+      "Generative AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-09-05T01:57:09.073Z"
+  },
+  {
+    "id": "news-1788573429074-14",
     "title": "Nobody Is Saying Why OpenAI and Anthropic Had Outages Today",
     "summary": "ChatGPT, Claude, and Grok all suffered outages at nearly the exact same time for reasons that remain murky.",
     "category": "ai-research",
@@ -87,10 +217,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-09-04T01:59:46.513Z"
+    "fetchedAt": "2026-09-05T01:57:09.074Z"
   },
   {
-    "id": "news-1788487186513-14",
+    "id": "news-1788573429074-15",
     "title": "Prediction Market Betting Is Getting People Banned and Arrested",
     "summary": "This week on Uncanny Valley, we dig into the latest prediction market buzz, Flock’s AI-powered police search tool, and how tech bros don’t know how to talk about “rouge” AI agents",
     "category": "tech-innovation",
@@ -103,38 +233,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-09-04T01:59:46.513Z"
+    "fetchedAt": "2026-09-05T01:57:09.074Z"
   },
   {
-    "id": "news-1788487186514-33",
-    "title": "KISS Hits Highest Mark on Top Album Sales Chart in Over a Decade With ‘Destroys Anaheim ’76’",
-    "summary": "The newly mixed archival live set celebrates the 50th anniversary of an August 1976 Anaheim Stadium show.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-09-03T21:34:04.000Z",
-    "url": "https://www.billboard.com/music/chart-beat/kiss-destroys-anaheim-76-top-10-debut-billboard-album-sales-1236333279/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-09-04T01:59:46.514Z"
-  },
-  {
-    "id": "news-1788487186514-34",
-    "title": "Slayyyter Reacts to Lady Gaga Using Her Song in a New TikTok & She’s Feeling the ‘Love’",
-    "summary": "Mother Monster does her makeup in a one-minute TikTok video using the rising pop star's song, \"I'M ACTUALLY KINDA FAMOUS.\"",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-09-03T21:31:31.000Z",
-    "url": "https://www.billboard.com/music/pop/slayyyter-reacts-lady-gaga-song-tiktok-1236333276/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-09-04T01:59:46.514Z"
-  },
-  {
-    "id": "news-1788487186512-0",
+    "id": "news-1788573429073-6",
     "title": "Abliteration.ai is making a business out of removing AI guardrails",
     "summary": "Abliteration.AI is making powerful AI models without guardrails easier to access, arguing that giving defenders the same tools as bad actors could ultimately improve cybersecurity.",
     "category": "ai-research",
@@ -147,10 +249,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-09-04T01:59:46.513Z"
+    "fetchedAt": "2026-09-05T01:57:09.073Z"
   },
   {
-    "id": "news-1788487186513-1",
+    "id": "news-1788573429073-7",
     "title": "Meta is paying to peek at how you use their latest AI model",
     "summary": "For its new Muse Spark model, intended for operating coding and other agents, Meta is offering an explicit discount averaging out to about 95% for users who \"contribute\" to the development of future models by sharing their prompts and model outputs.",
     "category": "ai-research",
@@ -163,10 +265,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-09-04T01:59:46.513Z"
+    "fetchedAt": "2026-09-05T01:57:09.073Z"
   },
   {
-    "id": "news-1788487186513-15",
+    "id": "news-1788573429074-16",
     "title": "GPT-6 Astra Is Here—and OpenAI Thinks It May Kick Off the AGI Era",
     "summary": "OpenAI leaders think the company’s next generation model, which excels at computer use and coding, may mark a major milestone in AI development.",
     "category": "ai-research",
@@ -179,10 +281,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-09-04T01:59:46.513Z"
+    "fetchedAt": "2026-09-05T01:57:09.074Z"
   },
   {
-    "id": "news-1788487186513-2",
+    "id": "news-1788573429073-8",
     "title": "OpenAI launches Astra, its powerful (and controversial) new model",
     "summary": "OpenAI claims that Astra represents \"a new frontier on computer and browser use,\" and that it handles tasks with unmatched \"speed, accuracy, and safety.\" ",
     "category": "tech-innovation",
@@ -195,10 +297,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-09-04T01:59:46.513Z"
+    "fetchedAt": "2026-09-05T01:57:09.073Z"
   },
   {
-    "id": "news-1788487186513-23",
+    "id": "news-1788573429075-22",
     "title": "UMG’s hospitality arm to open its first UK hotel on London’s Denmark Street",
     "summary": "It will be UMHL's first hotel in the UK, and its second in Europe after UMusic Hotel Madrid, with Madrid the only UMusic Hotel currently operating.\nSource",
     "category": "industry-news",
@@ -209,102 +311,6 @@
     "imageUrl": null,
     "tags": [],
     "readTime": 1,
-    "fetchedAt": "2026-09-04T01:59:46.513Z"
-  },
-  {
-    "id": "news-1788487186513-24",
-    "title": "HarbourView, on track to surpass $4B in assets under management, acquires David Kershenbaum’s producer royalties – including Tracy Chapman’s Fast Car",
-    "summary": "The transaction was announced on Thursday (September 3). Financial terms were not disclosed.\nSource",
-    "category": "industry-news",
-    "source": "Music Business Worldwide",
-    "author": "Unknown",
-    "publishedAt": "2026-09-03T16:53:25.000Z",
-    "url": "https://www.musicbusinessworldwide.com/harbourview-assets-fast-car/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-09-04T01:59:46.513Z"
-  },
-  {
-    "id": "news-1788487186513-16",
-    "title": "OpenAI Cut Off a Billion-Dollar Customer to Avoid Elon Musk",
-    "summary": "OpenAI recently estimated its Cursor partnership would make more than $1 billion in revenue a year, WIRED has learned. It still walked away after Elon Musk’s SpaceX acquired the AI coding startup.",
-    "category": "tech-innovation",
-    "source": "Wired AI",
-    "author": "Unknown",
-    "publishedAt": "2026-09-03T16:42:40.000Z",
-    "url": "https://www.wired.com/story/openai-elon-musk-cursor-billion-revenue/",
-    "imageUrl": null,
-    "tags": [
-      "AI",
-      "Startup",
-      "Partnership"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-09-04T01:59:46.513Z"
-  },
-  {
-    "id": "news-1788487186513-3",
-    "title": "Ollie is betting its focus on privacy can help it win the AI assistant race",
-    "summary": "The family-focused AI assistant wants access to the details of your everyday life, but says it won’t use that data to train AI models or share it with others.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-09-03T16:09:01.000Z",
-    "url": "https://techcrunch.com/2026/09/03/ollie-is-betting-privacy-can-win-the-ai-assistant-race/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-09-04T01:59:46.513Z"
-  },
-  {
-    "id": "news-1788487186513-4",
-    "title": "Google’s latest AI weather model gives you no excuse to forget your umbrella",
-    "summary": "WeatherNext 3 is the latest wave of a sea change in meteorology brought out by deep learning techniques. Google says it will start feeding into weather information users see in search, Google Maps, and Gemini.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-09-03T15:00:00.000Z",
-    "url": "https://techcrunch.com/2026/09/03/googles-latest-ai-weather-model-gives-you-no-excuse-to-forget-your-umbrella/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-09-04T01:59:46.513Z"
-  },
-  {
-    "id": "news-1788487186513-17",
-    "title": "Nvidia RTX Spark ‘Superchip’: The First AI PCs Are Here",
-    "summary": "At IFA 2026, Nvidia and its partners showed off the first RTX Spark-powered laptops and mini PCs, designed to run AI models right on your computer.",
-    "category": "ai-research",
-    "source": "Wired AI",
-    "author": "Unknown",
-    "publishedAt": "2026-09-03T13:00:00.000Z",
-    "url": "https://www.wired.com/story/nvidia-rtx-spark-laptops-first-look/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-09-04T01:59:46.513Z"
-  },
-  {
-    "id": "news-1788487186513-18",
-    "title": "Nvidia’s Hugging Face Acquisition Is a $12.9 Billion Bet on Open-Source AI",
-    "summary": "The long-rumored deal will give the chip giant access to—and help it promote—a huge repository of open-source AI models and data sets.",
-    "category": "ai-research",
-    "source": "Wired AI",
-    "author": "Unknown",
-    "publishedAt": "2026-09-03T12:43:09.000Z",
-    "url": "https://www.wired.com/story/nvidias-hugging-face-acquisition-is-a-dollar129-billion-bet-on-open-source-ai/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-09-04T01:59:46.513Z"
+    "fetchedAt": "2026-09-05T01:57:09.075Z"
   }
 ]
