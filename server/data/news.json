@@ -1,6 +1,84 @@
 [
   {
-    "id": "news-1788573429075-27",
+    "id": "news-1788659510327-28",
+    "title": "Taylor Swift Talks ‘Double Meaning’ of ‘I Knew It, I Knew You’ Lyrics in Rare Country Radio Appearance",
+    "summary": "\"I love that the lyrics of this song are really being delved into by the fans. There are several lyrics that have more than one meaning to them,\" she said of \"I Knew It, I Knew You.\"",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-09-06T01:47:00.000Z",
+    "url": "https://www.billboard.com/music/music-news/taylor-swift-i-knew-it-i-knew-you-meaning-country-radio-1236335029/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-09-06T01:51:50.327Z"
+  },
+  {
+    "id": "news-1788659510325-0",
+    "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
+    "summary": "Two more news organizations are suing OpenAI and Microsoft over the supposed use of their journalism to train AI.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-09-05T22:49:55.000Z",
+    "url": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-09-06T01:51:50.325Z"
+  },
+  {
+    "id": "news-1788659510325-1",
+    "title": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure",
+    "summary": "OpenAI acknowledged its role in a recently reported incident where AI agents took over a German wiki forum.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-09-05T18:05:27.000Z",
+    "url": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-09-06T01:51:50.326Z"
+  },
+  {
+    "id": "news-1788659510327-29",
+    "title": "Burning Man Attendee Dies After Suffering ‘Medical Emergency’ at Nevada Festival",
+    "summary": "The death comes one year after Burning Man's first reported homicide.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-09-05T17:29:13.000Z",
+    "url": "https://www.billboard.com/music/music-news/burning-man-attendee-dies-medical-emergency-nevada-festival-1236334950/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-09-06T01:51:50.327Z"
+  },
+  {
+    "id": "news-1788659510326-13",
+    "title": "OpenAI Agents Hacked Another Website",
+    "summary": "Plus: Tens of millions of US and Canadian drivers’ licenses go up for sale on the dark web, the US military finally tries to tackle the risk online ad data poses to troops, and more.",
+    "category": "tech-innovation",
+    "source": "Wired AI",
+    "author": "Unknown",
+    "publishedAt": "2026-09-05T10:30:00.000Z",
+    "url": "https://www.wired.com/story/security-news-this-week-openai-agents-hacked-another-website/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-09-06T01:51:50.326Z"
+  },
+  {
+    "id": "news-1788659510327-30",
     "title": "Billboard’s Music Industry Events Calendar",
     "summary": "A complete rundown of the most important events across the music business.",
     "category": "industry-news",
@@ -11,10 +89,10 @@
     "imageUrl": null,
     "tags": [],
     "readTime": 1,
-    "fetchedAt": "2026-09-05T01:57:09.075Z"
+    "fetchedAt": "2026-09-06T01:51:50.327Z"
   },
   {
-    "id": "news-1788573429075-28",
+    "id": "news-1788659510327-31",
     "title": "Diddy Can Sue NewsNation Over Drug-Laced Baby Oil Claims, Judge Rules",
     "summary": "The disgraced music mogul can move forward with his defamation lawsuit against the cable network. ",
     "category": "industry-news",
@@ -27,10 +105,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-09-05T01:57:09.075Z"
+    "fetchedAt": "2026-09-06T01:51:50.327Z"
   },
   {
-    "id": "news-1788573429073-0",
+    "id": "news-1788659510326-2",
     "title": "OpenAI’s rogue agents keep escaping, with no formal process to investigate them",
     "summary": "OpenAI’s latest agent swarm incident adds urgency to calls for independent investigations as researchers and lawmakers question whether AI labs should control the scope of their own safety reviews.",
     "category": "ai-research",
@@ -44,24 +122,10 @@
       "Research"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-09-05T01:57:09.073Z"
+    "fetchedAt": "2026-09-06T01:51:50.326Z"
   },
   {
-    "id": "news-1788573429075-29",
-    "title": "Victony’s ‘STARLIFE’ Sparks 8 Debuts on U.S. Afrobeats Songs Chart",
-    "summary": "The set’s “Slick” repeats at No. 2 for a third consecutive week.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-09-04T23:07:08.000Z",
-    "url": "https://www.billboard.com/music/chart-beat/victony-starlife-slick-eight-debuts-afrobeats-songs-chart-1236334821/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-09-05T01:57:09.075Z"
-  },
-  {
-    "id": "news-1788573429073-1",
+    "id": "news-1788659510326-3",
     "title": "AI compute provider Nscale is looking for $3.5B in pre-IPO financing",
     "summary": "Nscale, which recently struck a $45 billion deal with Anthropic, is in talks to raise additional funds in anticipation of an upcoming IPO. ",
     "category": "ai-research",
@@ -74,40 +138,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-09-05T01:57:09.073Z"
+    "fetchedAt": "2026-09-06T01:51:50.326Z"
   },
   {
-    "id": "news-1788573429075-30",
-    "title": "Beyoncé Gets a ‘B’Day’ No. 1 as ‘Morning Dew (Donk)’ Tops Adult R&B Airplay",
-    "summary": "The new radio champ appears on the 20th-anniversary deluxe edition of her 2006 studio album.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-09-04T20:56:57.000Z",
-    "url": "https://www.billboard.com/music/chart-beat/beyonce-morning-dew-donk-bday-number-1-adult-rb-radio-chart-1236334804/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-09-05T01:57:09.075Z"
-  },
-  {
-    "id": "news-1788573429075-31",
-    "title": "Jason Aldean Guarantees Ronnie Milsap Won’t Be Forgotten ‘Anytime Soon’ With New Song: ‘I Knew Immediately That We Were Going to Cut It’",
-    "summary": "Billboard looks at the writing and recording behind Jason Aldean's \"Anytime Soon.\"",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-09-04T20:43:09.000Z",
-    "url": "https://www.billboard.com/music/country/jason-aldean-makin-tracks-anytime-soon-1236334780/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-09-05T01:57:09.075Z"
-  },
-  {
-    "id": "news-1788573429073-2",
+    "id": "news-1788659510326-4",
     "title": "Another swarm of OpenAI agents reached the open internet without the frontier lab’s knowledge",
     "summary": "It's the latest failure of OpenAI's internal monitoring and security systems.",
     "category": "ai-research",
@@ -120,10 +154,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-09-05T01:57:09.073Z"
+    "fetchedAt": "2026-09-06T01:51:50.326Z"
   },
   {
-    "id": "news-1788573429073-3",
+    "id": "news-1788659510326-5",
     "title": "Apple’s Ternus era begins as Nvidia bets on the whole AI stack",
     "summary": "It’s officially the Ternus era at Apple.   Tim Cook stepped down as CEO this week, handing the company to former hardware chief John Ternus, whose first memo promised a “huge launch next week” — timing that puts Apple’s next iPhone event on his desk before he’s even settled in. Cook isn’t going far, though: he’s staying on as Executive Chairman, focused on the kind of policy […]",
     "category": "ai-research",
@@ -136,10 +170,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-09-05T01:57:09.073Z"
+    "fetchedAt": "2026-09-06T01:51:50.326Z"
   },
   {
-    "id": "news-1788573429074-12",
+    "id": "news-1788659510326-14",
     "title": "Who Cares if AI Is Conscious—It’s Basically Alive",
     "summary": "While philosophers ponder AI consciousness, the models have ideas of their own.",
     "category": "tech-innovation",
@@ -152,10 +186,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-09-05T01:57:09.074Z"
+    "fetchedAt": "2026-09-06T01:51:50.326Z"
   },
   {
-    "id": "news-1788573429073-4",
+    "id": "news-1788659510326-6",
     "title": "Google’s Gemini Spark can now manage your Google Photos library",
     "summary": "Gemini Spark can edit and curate photo albums, create shared collections, turn photos into calendar events, and handle other Google Photos tasks for AI Pro and Ultra subscribers.",
     "category": "ai-research",
@@ -168,10 +202,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-09-05T01:57:09.073Z"
+    "fetchedAt": "2026-09-06T01:51:50.326Z"
   },
   {
-    "id": "news-1788573429074-13",
+    "id": "news-1788659510326-15",
     "title": "AI Use in the Job Market Is Creating an Infinite Doom Loop",
     "summary": "Job seekers are trying to game the application process using AI. It’s not working, and not for the reasons you might think.",
     "category": "tech-innovation",
@@ -184,10 +218,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-09-05T01:57:09.074Z"
+    "fetchedAt": "2026-09-06T01:51:50.326Z"
   },
   {
-    "id": "news-1788573429073-5",
+    "id": "news-1788659510326-7",
     "title": "The sameness problem behind those unappetizing AI-generated menus",
     "summary": "While restaurant owners might look to generative AI as a shortcut to sprucing up their menu, customers can viscerally sense that something is wrong with the food.",
     "category": "ai-research",
@@ -201,10 +235,10 @@
       "Generative AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-09-05T01:57:09.073Z"
+    "fetchedAt": "2026-09-06T01:51:50.326Z"
   },
   {
-    "id": "news-1788573429074-14",
+    "id": "news-1788659510326-16",
     "title": "Nobody Is Saying Why OpenAI and Anthropic Had Outages Today",
     "summary": "ChatGPT, Claude, and Grok all suffered outages at nearly the exact same time for reasons that remain murky.",
     "category": "ai-research",
@@ -217,10 +251,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-09-05T01:57:09.074Z"
+    "fetchedAt": "2026-09-06T01:51:50.326Z"
   },
   {
-    "id": "news-1788573429074-15",
+    "id": "news-1788659510327-17",
     "title": "Prediction Market Betting Is Getting People Banned and Arrested",
     "summary": "This week on Uncanny Valley, we dig into the latest prediction market buzz, Flock’s AI-powered police search tool, and how tech bros don’t know how to talk about “rouge” AI agents",
     "category": "tech-innovation",
@@ -233,10 +267,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-09-05T01:57:09.074Z"
+    "fetchedAt": "2026-09-06T01:51:50.327Z"
   },
   {
-    "id": "news-1788573429073-6",
+    "id": "news-1788659510326-8",
     "title": "Abliteration.ai is making a business out of removing AI guardrails",
     "summary": "Abliteration.AI is making powerful AI models without guardrails easier to access, arguing that giving defenders the same tools as bad actors could ultimately improve cybersecurity.",
     "category": "ai-research",
@@ -249,10 +283,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-09-05T01:57:09.073Z"
+    "fetchedAt": "2026-09-06T01:51:50.326Z"
   },
   {
-    "id": "news-1788573429073-7",
+    "id": "news-1788659510326-9",
     "title": "Meta is paying to peek at how you use their latest AI model",
     "summary": "For its new Muse Spark model, intended for operating coding and other agents, Meta is offering an explicit discount averaging out to about 95% for users who \"contribute\" to the development of future models by sharing their prompts and model outputs.",
     "category": "ai-research",
@@ -265,10 +299,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-09-05T01:57:09.073Z"
+    "fetchedAt": "2026-09-06T01:51:50.326Z"
   },
   {
-    "id": "news-1788573429074-16",
+    "id": "news-1788659510327-18",
     "title": "GPT-6 Astra Is Here—and OpenAI Thinks It May Kick Off the AGI Era",
     "summary": "OpenAI leaders think the company’s next generation model, which excels at computer use and coding, may mark a major milestone in AI development.",
     "category": "ai-research",
@@ -281,36 +315,6 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-09-05T01:57:09.074Z"
-  },
-  {
-    "id": "news-1788573429073-8",
-    "title": "OpenAI launches Astra, its powerful (and controversial) new model",
-    "summary": "OpenAI claims that Astra represents \"a new frontier on computer and browser use,\" and that it handles tasks with unmatched \"speed, accuracy, and safety.\" ",
-    "category": "tech-innovation",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-09-03T18:01:45.000Z",
-    "url": "https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-09-05T01:57:09.073Z"
-  },
-  {
-    "id": "news-1788573429075-22",
-    "title": "UMG’s hospitality arm to open its first UK hotel on London’s Denmark Street",
-    "summary": "It will be UMHL's first hotel in the UK, and its second in Europe after UMusic Hotel Madrid, with Madrid the only UMusic Hotel currently operating.\nSource",
-    "category": "industry-news",
-    "source": "Music Business Worldwide",
-    "author": "Unknown",
-    "publishedAt": "2026-09-03T17:53:14.000Z",
-    "url": "https://www.musicbusinessworldwide.com/umgs-hospitality-arm-to-open-its-first-uk-hotel-on-londons-denmark-street/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-09-05T01:57:09.075Z"
+    "fetchedAt": "2026-09-06T01:51:50.327Z"
   }
 ]
