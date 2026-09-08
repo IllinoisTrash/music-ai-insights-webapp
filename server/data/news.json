@@ -1,50 +1,153 @@
 [
   {
-    "id": "news-1788745741121-25",
-    "title": "Rod Wave Achieves Fourth No. 1 Album on Billboard 200 With ‘Don’t Look Down’",
-    "summary": "Plus, Alex Warren’s WILDCHILD debuts at No. 2.",
+    "id": "news-1788832820906-27",
+    "title": "Country Splash Cabo Fest With Riley Green, Jon Pardi and More Combines Song, Sand & Surf: 7 Best Moments",
+    "summary": "From Riley Green's grounding set to Tucker Wetmore's keyboard musings and Cameron Whitcomb's elevated performance, here are the highlights.",
     "category": "industry-news",
     "source": "Billboard",
     "author": "Unknown",
-    "publishedAt": "2026-09-06T19:03:39.000Z",
-    "url": "https://www.billboard.com/music/chart-beat/rod-wave-dont-look-down-number-one-billboard-200-chart-1236335185/",
+    "publishedAt": "2026-09-08T01:30:15.000Z",
+    "url": "https://www.billboard.com/lists/country-splash-cabo-festival-seven-highlights-riley-green/",
     "imageUrl": null,
     "tags": [],
     "readTime": 1,
-    "fetchedAt": "2026-09-07T01:49:01.121Z"
+    "fetchedAt": "2026-09-08T02:00:20.906Z"
   },
   {
-    "id": "news-1788745741121-26",
-    "title": "14 Concertgoers Hospitalized at The Chainsmokers’ San Jose Show",
-    "summary": "The duo took the stage at Discovery Meadow on Sept. 4.",
+    "id": "news-1788832820906-28",
+    "title": "Fans Choose JISOO’s ‘Click’ as This Week’s Favorite New Music",
+    "summary": "Her new solo song brought in more than 50% of the vote.",
     "category": "industry-news",
     "source": "Billboard",
     "author": "Unknown",
-    "publishedAt": "2026-09-06T18:03:49.000Z",
-    "url": "https://www.billboard.com/music/music-news/the-chainsmokers-san-jose-concert-14-people-hospitalized-1236335176/",
+    "publishedAt": "2026-09-07T23:27:27.000Z",
+    "url": "https://www.billboard.com/music/music-news/jisoo-click-best-new-music-poll-results-1236335367/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-09-08T02:00:20.906Z"
+  },
+  {
+    "id": "news-1788832820903-0",
+    "title": "Opaque recurrence, and other AI terms that you should probably know",
+    "summary": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-09-07T19:24:00.000Z",
+    "url": "https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
     "imageUrl": null,
     "tags": [
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-09-07T01:49:01.121Z"
+    "fetchedAt": "2026-09-08T02:00:20.903Z"
   },
   {
-    "id": "news-1788745741121-27",
-    "title": "Oasis Reunion Tour Documentary Rocks Venice Film Festival",
-    "summary": "The Gallagher brothers attended the Italian event to promote their new film, Oasis: Don’t Look Back in Anger.",
+    "id": "news-1788832820906-29",
+    "title": "Second Festivalgoer Death Reported at Burning Man 2026",
+    "summary": "A 60-year-old man was found dead at his camp in Black Rock City, Nev., on Sept. 5.",
     "category": "industry-news",
     "source": "Billboard",
     "author": "Unknown",
-    "publishedAt": "2026-09-06T14:57:43.000Z",
-    "url": "https://www.billboard.com/culture/tv-film/oasis-venice-film-festival-documentary-liam-noel-gallagher-1236335165/",
+    "publishedAt": "2026-09-07T18:25:46.000Z",
+    "url": "https://www.billboard.com/music/music-news/burning-man-2026-second-death-nevada-festival-1236335341/",
     "imageUrl": null,
     "tags": [],
     "readTime": 1,
-    "fetchedAt": "2026-09-07T01:49:01.121Z"
+    "fetchedAt": "2026-09-08T02:00:20.906Z"
   },
   {
-    "id": "news-1788745741120-11",
+    "id": "news-1788832820906-20",
+    "title": "Tencent Music prices USD $1B bond offering, with proceeds earmarked for refinancing and buybacks",
+    "summary": "TME is selling $500 million of 5.050% senior unsecured notes due 2031 and $500 million of 5.650% senior unsecured notes due 2036.\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-09-07T17:29:47.000Z",
+    "url": "https://www.musicbusinessworldwide.com/tencent-music-prices-usd-1bn-bond-offering-with-proceeds-earmarked-for-refinancing-and-buybacks/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-09-08T02:00:20.906Z"
+  },
+  {
+    "id": "news-1788832820906-21",
+    "title": "AEG and SeatGeek ask court to reject Live Nation’s DOJ settlement, with AEG warning it ‘does not break Ticketmaster’s grip; it tightens it’",
+    "summary": "AEG wants a court-ordered sale of Ticketmaster, and a ban on the long-term exclusive contracts Ticketmaster signs with major concert venues.\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-09-07T16:06:19.000Z",
+    "url": "https://www.musicbusinessworldwide.com/aeg-and-seatgeek-ask-court-to-reject-live-nations-doj-settlement-with-aeg-warning-it-does-not-break-ticketmasters-grip-it-tightens-it/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-09-08T02:00:20.906Z"
+  },
+  {
+    "id": "news-1788832820906-30",
+    "title": "Geese, Pulp & CMAT Smash End of The Road’s 20th Birthday Celebrations: 7 Best Moments",
+    "summary": "Held in the southwest of England, the indie festival brought the party for its anniversary celebrations.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-09-07T14:35:11.000Z",
+    "url": "https://www.billboard.com/lists/end-of-the-road-festival-2026-best-moments-geese-pulp-cmat/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-09-08T02:00:20.906Z"
+  },
+  {
+    "id": "news-1788832820906-22",
+    "title": "Heidi O’Neill resigns from Spotify’s board after nearly nine years, days before starting as Lululemon CEO",
+    "summary": "O'Neill becomes Chief Executive Officer of Lululemon on September 8, five days after her Spotify exit took effect. She will also join the Lululemon board.\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-09-07T13:20:20.000Z",
+    "url": "https://www.musicbusinessworldwide.com/heidi-oneill-resigns-from-spotifys-board-after-nearly-nine-years-days-before-starting-as-lululemon-ceo/",
+    "imageUrl": null,
+    "tags": [
+      "Spotify"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-09-08T02:00:20.906Z"
+  },
+  {
+    "id": "news-1788832820906-23",
+    "title": "Spain’s recorded music market grew 11.6% in H1 2026… with subscription streaming revenues up 15.1% YoY",
+    "summary": "Promusicae reported that paid subscription streaming generated €121 million ($141m) in the six months to the end of June, up 15.1% YoY.\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-09-07T13:08:03.000Z",
+    "url": "https://www.musicbusinessworldwide.com/spains-recorded-music-market-grew-11-6-in-h1-2026-with-subscription-streaming-revenues-up-15-1-yoy/",
+    "imageUrl": null,
+    "tags": [
+      "AI",
+      "Streaming"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-09-08T02:00:20.906Z"
+  },
+  {
+    "id": "news-1788832820906-31",
+    "title": "ARIA Award for Best Music Festival Returns for Second Year",
+    "summary": "Laneway Festival won the inaugural award in 2025.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-09-07T05:10:11.000Z",
+    "url": "https://www.billboard.com/pro/aria-award-best-music-festival-returns/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-09-08T02:00:20.906Z"
+  },
+  {
+    "id": "news-1788832820904-12",
     "title": "My Brief Summer Fling With Siri AI",
     "summary": "I was initially enamored with the beta version of Apple’s revamped smartphone assistant. As the full release approaches, I’ve forgotten Siri AI even exists.",
     "category": "tech-innovation",
@@ -57,26 +160,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-09-07T01:49:01.120Z"
+    "fetchedAt": "2026-09-08T02:00:20.904Z"
   },
   {
-    "id": "news-1788745741121-28",
-    "title": "System of a Down Release ‘Johnny’ to Streaming for the First Time",
-    "summary": "The 25th anniversary Toxicity reissue also corrects a two-decade tracklist error and arrives alongside a run of stadium tour dates.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-09-06T09:03:02.000Z",
-    "url": "https://www.billboard.com/music/rock/system-of-a-down-1236335101/",
-    "imageUrl": null,
-    "tags": [
-      "Streaming"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-09-07T01:49:01.121Z"
-  },
-  {
-    "id": "news-1788745741119-0",
+    "id": "news-1788832820903-1",
     "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
     "summary": "Two more news organizations are suing OpenAI and Microsoft over the supposed use of their journalism to train AI.",
     "category": "ai-research",
@@ -89,10 +176,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-09-07T01:49:01.120Z"
+    "fetchedAt": "2026-09-08T02:00:20.903Z"
   },
   {
-    "id": "news-1788745741120-1",
+    "id": "news-1788832820903-2",
     "title": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure",
     "summary": "OpenAI acknowledged its role in a recently reported incident where AI agents took over a German wiki forum.",
     "category": "ai-research",
@@ -105,10 +192,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-09-07T01:49:01.120Z"
+    "fetchedAt": "2026-09-08T02:00:20.904Z"
   },
   {
-    "id": "news-1788745741120-12",
+    "id": "news-1788832820904-13",
     "title": "OpenAI Agents Hacked Another Website",
     "summary": "Plus: Tens of millions of US and Canadian drivers’ licenses go up for sale on the dark web, the US military finally tries to tackle the risk online ad data poses to troops, and more.",
     "category": "tech-innovation",
@@ -121,10 +208,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-09-07T01:49:01.120Z"
+    "fetchedAt": "2026-09-08T02:00:20.904Z"
   },
   {
-    "id": "news-1788745741120-2",
+    "id": "news-1788832820904-3",
     "title": "OpenAI’s rogue agents keep escaping, with no formal process to investigate them",
     "summary": "OpenAI’s latest agent swarm incident adds urgency to calls for independent investigations as researchers and lawmakers question whether AI labs should control the scope of their own safety reviews.",
     "category": "ai-research",
@@ -138,10 +225,10 @@
       "Research"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-09-07T01:49:01.120Z"
+    "fetchedAt": "2026-09-08T02:00:20.904Z"
   },
   {
-    "id": "news-1788745741120-3",
+    "id": "news-1788832820904-4",
     "title": "AI compute provider Nscale is looking for $3.5B in pre-IPO financing",
     "summary": "Nscale, which recently struck a $45 billion deal with Anthropic, is in talks to raise additional funds in anticipation of an upcoming IPO. ",
     "category": "ai-research",
@@ -154,10 +241,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-09-07T01:49:01.120Z"
+    "fetchedAt": "2026-09-08T02:00:20.904Z"
   },
   {
-    "id": "news-1788745741120-4",
+    "id": "news-1788832820904-5",
     "title": "Another swarm of OpenAI agents reached the open internet without the frontier lab’s knowledge",
     "summary": "It's the latest failure of OpenAI's internal monitoring and security systems.",
     "category": "ai-research",
@@ -170,10 +257,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-09-07T01:49:01.120Z"
+    "fetchedAt": "2026-09-08T02:00:20.904Z"
   },
   {
-    "id": "news-1788745741120-5",
+    "id": "news-1788832820904-6",
     "title": "Apple’s Ternus era begins as Nvidia bets on the whole AI stack",
     "summary": "It’s officially the Ternus era at Apple.   Tim Cook stepped down as CEO this week, handing the company to former hardware chief John Ternus, whose first memo promised a “huge launch next week” — timing that puts Apple’s next iPhone event on his desk before he’s even settled in. Cook isn’t going far, though: he’s staying on as Executive Chairman, focused on the kind of policy […]",
     "category": "ai-research",
@@ -186,10 +273,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-09-07T01:49:01.120Z"
+    "fetchedAt": "2026-09-08T02:00:20.904Z"
   },
   {
-    "id": "news-1788745741121-13",
+    "id": "news-1788832820905-14",
     "title": "Who Cares if AI Is Conscious—It’s Basically Alive",
     "summary": "While philosophers ponder AI consciousness, the models have ideas of their own.",
     "category": "tech-innovation",
@@ -202,10 +289,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-09-07T01:49:01.121Z"
+    "fetchedAt": "2026-09-08T02:00:20.905Z"
   },
   {
-    "id": "news-1788745741120-6",
+    "id": "news-1788832820904-7",
     "title": "Google’s Gemini Spark can now manage your Google Photos library",
     "summary": "Gemini Spark can edit and curate photo albums, create shared collections, turn photos into calendar events, and handle other Google Photos tasks for AI Pro and Ultra subscribers.",
     "category": "ai-research",
@@ -218,103 +305,6 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-09-07T01:49:01.120Z"
-  },
-  {
-    "id": "news-1788745741121-14",
-    "title": "AI Use in the Job Market Is Creating an Infinite Doom Loop",
-    "summary": "Job seekers are trying to game the application process using AI. It’s not working, and not for the reasons you might think.",
-    "category": "tech-innovation",
-    "source": "Wired AI",
-    "author": "Unknown",
-    "publishedAt": "2026-09-04T10:00:00.000Z",
-    "url": "https://www.wired.com/story/ai-job-market-infinite-doom-loop/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-09-07T01:49:01.121Z"
-  },
-  {
-    "id": "news-1788745741120-7",
-    "title": "The sameness problem behind those unappetizing AI-generated menus",
-    "summary": "While restaurant owners might look to generative AI as a shortcut to sprucing up their menu, customers can viscerally sense that something is wrong with the food.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-09-04T04:21:03.000Z",
-    "url": "https://techcrunch.com/2026/09/03/the-sameness-problem-behind-those-unappetizing-ai-generated-menus/",
-    "imageUrl": null,
-    "tags": [
-      "AI",
-      "Generative AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-09-07T01:49:01.120Z"
-  },
-  {
-    "id": "news-1788745741121-15",
-    "title": "Nobody Is Saying Why OpenAI and Anthropic Had Outages Today",
-    "summary": "ChatGPT, Claude, and Grok all suffered outages at nearly the exact same time for reasons that remain murky.",
-    "category": "ai-research",
-    "source": "Wired AI",
-    "author": "Unknown",
-    "publishedAt": "2026-09-03T21:56:21.000Z",
-    "url": "https://www.wired.com/story/nobody-is-saying-why-openai-and-anthropic-had-outages-today/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-09-07T01:49:01.121Z"
-  },
-  {
-    "id": "news-1788745741121-16",
-    "title": "Prediction Market Betting Is Getting People Banned and Arrested",
-    "summary": "This week on Uncanny Valley, we dig into the latest prediction market buzz, Flock’s AI-powered police search tool, and how tech bros don’t know how to talk about “rouge” AI agents",
-    "category": "tech-innovation",
-    "source": "Wired AI",
-    "author": "Unknown",
-    "publishedAt": "2026-09-03T21:48:24.000Z",
-    "url": "https://www.wired.com/story/prediction-market-betting-is-getting-people-banned-and-arrested/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-09-07T01:49:01.121Z"
-  },
-  {
-    "id": "news-1788745741120-8",
-    "title": "Abliteration.ai is making a business out of removing AI guardrails",
-    "summary": "Abliteration.AI is making powerful AI models without guardrails easier to access, arguing that giving defenders the same tools as bad actors could ultimately improve cybersecurity.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-09-03T18:37:57.000Z",
-    "url": "https://techcrunch.com/2026/09/03/abliteration-ai-is-making-a-business-out-of-removing-ai-guardrails/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-09-07T01:49:01.120Z"
-  },
-  {
-    "id": "news-1788745741120-9",
-    "title": "Meta is paying to peek at how you use their latest AI model",
-    "summary": "For its new Muse Spark model, intended for operating coding and other agents, Meta is offering an explicit discount averaging out to about 95% for users who \"contribute\" to the development of future models by sharing their prompts and model outputs.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-09-03T18:19:56.000Z",
-    "url": "https://techcrunch.com/2026/09/03/meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-09-07T01:49:01.120Z"
+    "fetchedAt": "2026-09-08T02:00:20.904Z"
   }
 ]
