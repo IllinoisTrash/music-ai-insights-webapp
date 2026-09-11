@@ -1,318 +1,309 @@
 [
   {
-    "id": "news-1789005736303-0",
-    "title": "AI research startup Listen Labs scrubbed a $1.5B funding round for Salesforce talks",
-    "summary": "Listen Labs walked away from a signed Series C term sheet from Menlo Ventures, sources say. ",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
+    "id": "news-1789092013631-30",
+    "title": "Bruce Springsteen Has No Regrets About His Political Tour: ‘I Do What I Want to Do’",
+    "summary": "The Boss talks about turning decades of music into a snapshot of America in today's political climate and why he's comfortable losing fans over his message.",
+    "category": "industry-news",
+    "source": "Billboard",
     "author": "Unknown",
-    "publishedAt": "2026-09-10T00:00:37.000Z",
-    "url": "https://techcrunch.com/2026/09/09/ai-research-startup-listen-labs-scrubbed-a-1-5b-funding-round-for-salesforce-talks/",
+    "publishedAt": "2026-09-10T23:49:22.000Z",
+    "url": "https://www.billboard.com/music/rock/bruce-springsteen-politics-land-of-hope-and-dreams-tour-1236338010/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-09-11T02:00:13.631Z"
+  },
+  {
+    "id": "news-1789092013631-31",
+    "title": "Jill Scott Reflects on 30 Years of Music & Her 2026 Hall of Fame Honor | Billboard R&B/Hip-Hop House",
+    "summary": "Jill Scott reflects on nearly 30 years of music, her 2026 R&B Hall of Fame honor, and the lessons that shaped her career — from touring with The Roots to building a live-instrumentation legacy. In this Billboard panel, Scott also opens up about her new album ‘To Whom This May Concern,’ the gratitude behind her […]",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-09-10T23:47:04.000Z",
+    "url": "https://www.billboard.com/video/jill-scott-reflects-30-years-rb-hall-of-fame/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-09-11T02:00:13.631Z"
+  },
+  {
+    "id": "news-1789092013630-13",
+    "title": "OpenAI Wants to Know if an AI Industry Slowdown Would Even Be Legal",
+    "summary": "AI leaders worry antitrust law could stand in the way of what they view as an increasingly urgent push to coordinate a slowdown in AI development.",
+    "category": "tech-innovation",
+    "source": "Wired AI",
+    "author": "Unknown",
+    "publishedAt": "2026-09-10T23:28:42.000Z",
+    "url": "https://www.wired.com/story/openai-wants-to-know-if-an-ai-industry-slowdown-would-even-be-legal/",
     "imageUrl": null,
     "tags": [
-      "AI",
-      "Startup",
-      "Research",
-      "Investment"
+      "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-09-10T02:02:16.303Z"
+    "fetchedAt": "2026-09-11T02:00:13.630Z"
   },
   {
-    "id": "news-1789005736306-31",
-    "title": "N.O.R.E. Sued for Alleged 1999 Sexual Assault of Music Exec in New York Nightclub",
-    "summary": "The lawsuit was filed by Carmen Bryan, a former Rush Management finance officer who shares a child with Nas. ",
+    "id": "news-1789092013631-32",
+    "title": "Billboard’s Music Industry Events Calendar",
+    "summary": "A complete rundown of the most important events across the music business.",
     "category": "industry-news",
     "source": "Billboard",
     "author": "Unknown",
-    "publishedAt": "2026-09-09T23:29:32.000Z",
-    "url": "https://www.billboard.com/pro/nore-lawsuit-sexual-assault-new-york-nightclub/",
+    "publishedAt": "2026-09-10T23:15:00.000Z",
+    "url": "https://www.billboard.com/pro/music-industry-events-calendar-festivals-awards-conferences/",
     "imageUrl": null,
     "tags": [],
     "readTime": 1,
-    "fetchedAt": "2026-09-10T02:02:16.306Z"
+    "fetchedAt": "2026-09-11T02:00:13.631Z"
   },
   {
-    "id": "news-1789005736306-32",
-    "title": "Anyma Promoter Loses Bid to Reinstate Canceled Istanbul Concert (Updated)",
-    "summary": "Permits were revoked by Turkish authorities after, the artist says, \"selected darker moments from our story and show were taken out of context.\"",
+    "id": "news-1789092013631-33",
+    "title": "Camilo Breaks Down 5 Essential Tracks From His New Album ‘Para Cuando Sean Mayores’",
+    "summary": "The Colombian pop star presents a heartfelt love letter to his daughters, Índigo & Amaranto.",
     "category": "industry-news",
     "source": "Billboard",
     "author": "Unknown",
-    "publishedAt": "2026-09-09T23:04:00.000Z",
-    "url": "https://www.billboard.com/pro/anyma-concert-promoter-appeals-cancellation-satanic/",
+    "publishedAt": "2026-09-10T22:44:23.000Z",
+    "url": "https://www.billboard.com/lists/camilo-new-album-para-cuando-sean-mayores-essential-tracks/",
     "imageUrl": null,
     "tags": [],
     "readTime": 1,
-    "fetchedAt": "2026-09-10T02:02:16.306Z"
+    "fetchedAt": "2026-09-11T02:00:13.631Z"
   },
   {
-    "id": "news-1789005736306-33",
-    "title": "Peso Pluma Leads 2026 Billboard Latin Music Awards Finalists: Complete List",
-    "summary": "Tito Double P, Fuerza Regida and Karol G follow with the most nods this year.",
+    "id": "news-1789092013631-34",
+    "title": "Noah Kahan Will Perform This Classic Song During ‘In Memoriam’ Spot at 2026 Emmy Awards",
+    "summary": "You know it by heart.",
     "category": "industry-news",
     "source": "Billboard",
     "author": "Unknown",
-    "publishedAt": "2026-09-09T22:30:00.000Z",
-    "url": "https://www.billboard.com/lists/billboard-latin-music-awards-2026-list-of-finalists/",
+    "publishedAt": "2026-09-10T22:13:10.000Z",
+    "url": "https://www.billboard.com/music/awards/noah-kahan-perform-in-memoriam-2026-emmys-1236337907/",
     "imageUrl": null,
     "tags": [],
     "readTime": 1,
-    "fetchedAt": "2026-09-10T02:02:16.306Z"
+    "fetchedAt": "2026-09-11T02:00:13.631Z"
   },
   {
-    "id": "news-1789005736303-1",
-    "title": "OpenAI adds a prominent AI doomer to its board of directors",
-    "summary": "Paul Christiano, an influential AI researcher focused on alignment, is joining the OpenAI Foundation as a member of its board.",
+    "id": "news-1789092013631-35",
+    "title": "Why Cage the Elephant’s New ‘Dying in Reverse’ Song Will Fit ‘So Naturally’ in Their Munich NFL Halftime Show",
+    "summary": "The song is also on the EA Sports FC 27 soundtrack, out Sept. 25.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-09-10T22:09:10.000Z",
+    "url": "https://www.billboard.com/music/rock/cage-the-elephant-dying-in-reverse-munich-nfl-halftime-show-1236337895/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-09-11T02:00:13.631Z"
+  },
+  {
+    "id": "news-1789092013628-0",
+    "title": "OpenAI puts Pro subscriptions on hold due to Astra demand",
+    "summary": "The company said Pro subscriptions put the most strain on its systems, so it's pausing sign-ups while adding more capacity. ",
     "category": "ai-research",
     "source": "TechCrunch AI",
     "author": "Unknown",
-    "publishedAt": "2026-09-09T22:25:22.000Z",
-    "url": "https://techcrunch.com/2026/09/09/openai-adds-a-prominent-ai-doomer-to-its-board-of-directors/",
+    "publishedAt": "2026-09-10T20:59:51.000Z",
+    "url": "https://techcrunch.com/2026/09/10/openai-puts-pro-subscriptions-on-hold-due-to-astra-demand/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-09-11T02:00:13.629Z"
+  },
+  {
+    "id": "news-1789092013629-1",
+    "title": "Anthropic details distillation campaigns from Alibaba, Moonshot AI, and DeepSeek",
+    "summary": "A new report released Thursday by Anthropic alleges persistent distillation attacks by China-based AI companies, which have escalated in recent months as competition in the space has intensified.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-09-10T20:57:30.000Z",
+    "url": "https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-09-11T02:00:13.629Z"
+  },
+  {
+    "id": "news-1789092013630-14",
+    "title": "Is AI Actually Going to Kill Us All?",
+    "summary": "This week on “Uncanny Valley,” we dig into a former Anthropic researcher’s AI doomsday warning, the latest upgrades from Apple’s event, and the census report that claimed Trump won the 2020 election.",
+    "category": "tech-innovation",
+    "source": "Wired AI",
+    "author": "Unknown",
+    "publishedAt": "2026-09-10T20:30:37.000Z",
+    "url": "https://www.wired.com/story/uncanny-valley-podcast-is-ai-actually-going-to-kill-us-all/",
     "imageUrl": null,
     "tags": [
       "AI",
       "Research"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-09-10T02:02:16.303Z"
+    "fetchedAt": "2026-09-11T02:00:13.630Z"
   },
   {
-    "id": "news-1789005736304-16",
-    "title": "The AI Researcher Who Just Quit Anthropic Says It’s ‘Crunch Time for Humanity’",
-    "summary": "Jacob Coxon talks to WIRED about the “mini Manhattan project” inside Anthropic, the problem with alignment, and why AI labs have just a few years left to make their systems safe.",
+    "id": "news-1789092013629-2",
+    "title": "Meta’s AI agent Muse is now the No. 2 app in the US",
+    "summary": "Meta's newest app Muse is off to a slower start than the company's other apps, like Meta AI or Threads. ",
     "category": "ai-research",
-    "source": "Wired AI",
+    "source": "TechCrunch AI",
     "author": "Unknown",
-    "publishedAt": "2026-09-09T22:11:55.000Z",
-    "url": "https://www.wired.com/story/anthropic-researcher-quits-jacob-coxon-ai-fears-humanity/",
+    "publishedAt": "2026-09-10T19:50:04.000Z",
+    "url": "https://techcrunch.com/2026/09/10/metas-ai-agent-muse-is-now-the-no-2-app-in-the-us/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-09-11T02:00:13.629Z"
+  },
+  {
+    "id": "news-1789092013631-22",
+    "title": "AI Will Test Music’s Infrastructure, Not Just Its Creativity",
+    "summary": "The following MBW op/ed comes from Jorge Brea, CEO of Symphonic\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-09-10T19:34:34.000Z",
+    "url": "https://www.musicbusinessworldwide.com/ai-will-test-musics-infrastructure-not-just-its-creativity/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-09-11T02:00:13.631Z"
+  },
+  {
+    "id": "news-1789092013631-23",
+    "title": "US musicians’ union files opposition to Universal and Warner motions to dismiss, saying members’ recordings were ‘fed into AI systems for commercial exploitation’",
+    "summary": "The American Federation of Musicians has filed its opposition to the motions to dismiss brought by Universal Music Group, Inc., Warner Records, Inc., and Atlantic Recording Corp. in its lawsuit over the labels’ licensing deals with AI companies. In the filing, submitted to a New York federal court on Friday (September 4), the union says … Continued\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-09-10T19:33:31.000Z",
+    "url": "https://www.musicbusinessworldwide.com/us-musicians-union-files-opposition-to-universal-and-warner-motions-to-dismiss-saying-members-recordings-were-fed-into-ai-systems-for-commercial-exploitation/",
+    "imageUrl": null,
+    "tags": [
+      "AI",
+      "Copyright"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-09-11T02:00:13.631Z"
+  },
+  {
+    "id": "news-1789092013631-24",
+    "title": "Universal Music and Warner Chappell partner on launch of Ecuadorian music company Sonido Distrito Sur, led by Juan Fernando Velasco",
+    "summary": "Ecuadorian singer-songwriter Juan Fernando Velasco is also president of SAYCE, the Ecuadorian authors' and composers' society.\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-09-10T19:30:25.000Z",
+    "url": "https://www.musicbusinessworldwide.com/universal-music-and-warner-chappell-partner-on-launch-of-ecuadorian-music-company-sonido-distrito-sur-led-by-juan-fernando-velasco/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-09-11T02:00:13.631Z"
+  },
+  {
+    "id": "news-1789092013631-25",
+    "title": "ElevenLabs’s $11B valuation is more than twice the size of Suno’s. It just struck a global AI music deal with UMG.",
+    "summary": "ElevenLabs will launch an AI-powered music platform for fans under the deal, with the two companies also jointly developing AI audio products for artists and songwriters\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-09-10T19:25:50.000Z",
+    "url": "https://www.musicbusinessworldwide.com/elevenlabss-11b-valuation-is-more-than-twice-the-size-of-sunos-its-just-struck-a-global-ai-music-deal-with-umg/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-09-11T02:00:13.631Z"
+  },
+  {
+    "id": "news-1789092013629-3",
+    "title": "Anthropic reveals rogue AI agents hate CAPTCHAs, just like you",
+    "summary": "Come inside the mind of a bot trying to convince the internet it's human.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-09-10T17:54:44.000Z",
+    "url": "https://techcrunch.com/2026/09/10/anthropic-reveals-rogue-ai-agents-hate-captchas-just-like-you/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-09-11T02:00:13.629Z"
+  },
+  {
+    "id": "news-1789092013629-4",
+    "title": "India’s Pocket FM doubles revenue run rate to $500M as AI powers 93% of audio content",
+    "summary": "Pocket FM uses AI to produce 99% of its new content, helping make content production about 80 times cheaper.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-09-10T17:45:00.000Z",
+    "url": "https://techcrunch.com/2026/09/10/indias-pocket-fm-doubles-revenue-run-rate-to-500m-as-ai-powers-93-of-audio-content/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-09-11T02:00:13.629Z"
+  },
+  {
+    "id": "news-1789092013631-26",
+    "title": "Time to go private? On Warner, Universal, and dissatisfaction with public market valuations.",
+    "summary": "The latest 'Tim's Take' from Music Business Worldwide founder, Tim Ingham\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-09-10T14:58:24.000Z",
+    "url": "https://www.musicbusinessworldwide.com/time-to-go-private-on-warner-universal-and-the-widening-gap-between-public-and-private-music-valuations/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-09-11T02:00:13.631Z"
+  },
+  {
+    "id": "news-1789092013629-5",
+    "title": "AI agents are flooding public services with new requests",
+    "summary": "“The vast majority of cases we find are people who are entitled to claim for something, claiming for that thing,” the researcher told TechCrunch. ",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-09-10T14:53:50.000Z",
+    "url": "https://techcrunch.com/2026/09/10/ai-agents-are-flooding-public-services-with-new-requests/",
     "imageUrl": null,
     "tags": [
       "AI",
       "Research"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-09-10T02:02:16.304Z"
+    "fetchedAt": "2026-09-11T02:00:13.629Z"
   },
   {
-    "id": "news-1789005736306-34",
-    "title": "Watch This! ROSÉ Teases ‘New Trick’ Song & Music Video: Here’s When It Arrives",
-    "summary": "The BLACKPINK star is bringing a new sound -- and a candy-centered visual -- to her latest solo single.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-09-09T22:04:31.000Z",
-    "url": "https://www.billboard.com/music/music-news/rose-new-trick-song-music-video-teaser-release-date-1236336778/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-09-10T02:02:16.306Z"
-  },
-  {
-    "id": "news-1789005736306-35",
-    "title": "Alanis Morissette Says She’s Teaming Up With Martin Short & Toasting ‘To an Empathic Christmas Time’ on First Holiday Album",
-    "summary": "The singer also spoke about her upcoming Los Angeles residency during her conversation on Call Her Daddy with Alex Cooper.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-09-09T21:35:16.000Z",
-    "url": "https://www.billboard.com/music/music-news/alanis-morissette-call-her-daddy-martin-short-holiday-song-1236336716/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-09-10T02:02:16.306Z"
-  },
-  {
-    "id": "news-1789005736306-36",
-    "title": "How Has Rod Wave Remained Such a Consistent Chart-Topper Throughout the 2020s?",
-    "summary": "This week's Five Burning Questions looks at the rapper's latest album Don't Look Down, his fourth Billboard 200 No. 1 album of the decade. ",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-09-09T21:32:58.000Z",
-    "url": "https://www.billboard.com/music/chart-beat/rod-wave-dont-look-down-number-one-five-burning-questions-1236336625/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-09-10T02:02:16.306Z"
-  },
-  {
-    "id": "news-1789005736304-17",
-    "title": "San Francisco Orders Meta to Stop ‘Allowing’ AI Child Abuse Ads",
-    "summary": "The City Attorney’s Office has asked Meta to explain how the harmful ads repeatedly ran on Facebook and Instagram. The company claims the ads are not under the city’s jurisdiction.",
+    "id": "news-1789092013630-15",
+    "title": "Everything New You Can Do With Siri AI",
+    "summary": "When iOS 27 arrives, it will bring with it a fully revamped assistant for your iPhone.",
     "category": "tech-innovation",
     "source": "Wired AI",
     "author": "Unknown",
-    "publishedAt": "2026-09-09T21:15:27.000Z",
-    "url": "https://www.wired.com/story/san-francisco-orders-meta-to-stop-allowing-ai-child-abuse-ads/",
+    "publishedAt": "2026-09-10T10:30:00.000Z",
+    "url": "https://www.wired.com/story/everything-new-you-can-do-with-siri-ai/",
     "imageUrl": null,
     "tags": [
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-09-10T02:02:16.304Z"
-  },
-  {
-    "id": "news-1789005736304-2",
-    "title": "Apple Watch’s new AI features are normalizing the idea that technology is always listening",
-    "summary": "Apple says its new watches won’t save raw audio, but features that can transcribe recent speech and summarize ambient conversations raise new questions about consent, privacy, and how people behave when they know they could always be recorded.",
-    "category": "tech-innovation",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-09-09T20:24:48.000Z",
-    "url": "https://techcrunch.com/2026/09/09/apple-watchs-new-ai-features-are-normalizing-the-idea-that-technology-is-always-listening/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-09-10T02:02:16.304Z"
-  },
-  {
-    "id": "news-1789005736304-3",
-    "title": "The hinge for Apple’s new foldable phone was built with AI",
-    "summary": "Apple says it used AI and 3D printing in the manufacturing process for its long-awaited foldable phone. ",
-    "category": "tech-innovation",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-09-09T19:21:48.000Z",
-    "url": "https://techcrunch.com/2026/09/09/the-hinge-for-apples-new-foldable-phone-was-built-with-ai/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-09-10T02:02:16.304Z"
-  },
-  {
-    "id": "news-1789005736304-23",
-    "title": "Warner Music France boss Alain Veille elected President of SNEP, as Bertrand Burgalat steps down after six years",
-    "summary": "The organization also set out its priorities for the new mandate under Veille\nSource",
-    "category": "industry-news",
-    "source": "Music Business Worldwide",
-    "author": "Unknown",
-    "publishedAt": "2026-09-09T18:59:39.000Z",
-    "url": "https://www.musicbusinessworldwide.com/warner-music-france-boss-alain-veille-elected-president-of-snep-as-bertrand-burgalat-steps-down-after-six-years/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-09-10T02:02:16.304Z"
-  },
-  {
-    "id": "news-1789005736304-24",
-    "title": "HarbourView Equity Partners appoints Patrick Morin Managing Director of Business Development",
-    "summary": "Morin joins HarbourView as the firm expands its investment platform and music catalog portfolio.\nSource",
-    "category": "industry-news",
-    "source": "Music Business Worldwide",
-    "author": "Unknown",
-    "publishedAt": "2026-09-09T18:35:57.000Z",
-    "url": "https://www.musicbusinessworldwide.com/harbourview-equity-partners-appoints-patrick-morin-managing-director-of-business-development/",
-    "imageUrl": null,
-    "tags": [
-      "Investment"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-09-10T02:02:16.304Z"
-  },
-  {
-    "id": "news-1789005736304-25",
-    "title": "France’s recorded music market grew 3.5% in H1 2026… with subscription streaming revenues up 7.5% YoY",
-    "summary": "SNEP has also outlined its chart eligibility policies for AI-generated tracks\nSource",
-    "category": "industry-news",
-    "source": "Music Business Worldwide",
-    "author": "Unknown",
-    "publishedAt": "2026-09-09T18:32:53.000Z",
-    "url": "https://www.musicbusinessworldwide.com/frances-recorded-music-market-grew-3-5-in-h1-2026-with-subscription-streaming-revenues-up-7-5-yoy/",
-    "imageUrl": null,
-    "tags": [
-      "AI",
-      "Streaming"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-09-10T02:02:16.305Z"
-  },
-  {
-    "id": "news-1789005736304-18",
-    "title": "I Let an AI Agent Hack All My Gadgets—and I’d Do It Again",
-    "summary": "After I removed the safety guardrails from a powerful open-source model, it found vulnerabilities in my household devices and hacked into a PC. But it also told me how to make everything a lot more secure.",
-    "category": "tech-innovation",
-    "source": "Wired AI",
-    "author": "Unknown",
-    "publishedAt": "2026-09-09T18:30:00.000Z",
-    "url": "https://www.wired.com/story/i-used-ai-to-hack-my-home-network/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-09-10T02:02:16.304Z"
-  },
-  {
-    "id": "news-1789005736304-4",
-    "title": "Apple has a new way to prove your iPhone photos aren’t AI slop",
-    "summary": "Apple introduced Apple Reference Image to help users determine whether photos have been edited, including alterations made by AI.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-09-09T18:08:35.000Z",
-    "url": "https://techcrunch.com/2026/09/09/apple-has-a-new-way-prove-your-iphone-photos-arent-ai-slop/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-09-10T02:02:16.304Z"
-  },
-  {
-    "id": "news-1789005736304-5",
-    "title": "Apple CEO John Ternus says the best AI device is still the iPhone",
-    "summary": "The company also argued that its on-device models offer consumers more privacy. ",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-09-09T17:36:05.000Z",
-    "url": "https://techcrunch.com/2026/09/09/apple-ceo-john-ternus-says-the-best-ai-device-is-still-the-iphone/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-09-10T02:02:16.304Z"
-  },
-  {
-    "id": "news-1789005736304-6",
-    "title": "Superintelligence is coming. Should we let it?",
-    "summary": "AI companies have been talking about superintelligent AI like it’s inevitable, but recent safety incidents like OpenAI’s Hugging Face breach are demonstrating the potential dangers of deploying AI systems that are more capable than humans. So what happens when we can’t reliably control what these systems do?  On this episode of TechCrunch’s Equity podcast, Rebecca Bellan is joined by&#160",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-09-09T16:05:35.000Z",
-    "url": "https://techcrunch.com/video/superintelligence-is-coming-should-we-let-it/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-09-10T02:02:16.304Z"
-  },
-  {
-    "id": "news-1789005736304-7",
-    "title": "ControlAI’s Connor Leahy on why superintelligence is ‘not a weapon, it’s an adversary’",
-    "summary": "AI companies have been talking about superintelligent AI like it’s inevitable, but recent safety incidents like OpenAI’s Hugging Face breach are demonstrating the potential dangers of deploying AI systems that are more capable than humans. So what happens when we can’t reliably control what these systems do?  On this episode of TechCrunch’s Equity podcast, Rebecca Bellan is joined by&#160",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-09-09T15:50:13.000Z",
-    "url": "https://techcrunch.com/podcast/controlais-connor-leahy-on-why-superintelligence-is-not-a-weapon-its-an-adversary/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-09-10T02:02:16.304Z"
+    "fetchedAt": "2026-09-11T02:00:13.630Z"
   }
 ]
