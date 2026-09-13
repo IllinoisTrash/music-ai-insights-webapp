@@ -1,50 +1,124 @@
 [
   {
-    "id": "news-1789178712850-29",
-    "title": "Jessica Simpson Brings a Little Texas to Her Walmart Fall Collection Amid Music Comeback",
-    "summary": "Simpson's newest Walmart collection arrived Sept. 10, tapping into her Cali-boho style & Texas roots as she continues her music comeback and documentary rollout.",
+    "id": "news-1789264817536-29",
+    "title": "Céline Dion’s Paris 2026 Setlist: Every Song Played at the First Show",
+    "summary": "The Canadian icon launched her 26-night Paris residency with a 29-song, two-and-a-half-hour comeback that moved from intimate French ballads to an a cappella \"All by Myself.\"",
     "category": "industry-news",
     "source": "Billboard",
     "author": "Unknown",
-    "publishedAt": "2026-09-12T00:25:16.000Z",
-    "url": "https://www.billboard.com/culture/product-recommendations/jessica-simpson-walmart-fall-fashion-collection-sept-2026-1236338759/",
+    "publishedAt": "2026-09-13T00:02:54.000Z",
+    "url": "https://www.billboard.com/lists/celine-dion-paris-setlist-2026-songs/",
     "imageUrl": null,
     "tags": [],
     "readTime": 1,
-    "fetchedAt": "2026-09-12T02:05:12.850Z"
+    "fetchedAt": "2026-09-13T02:00:17.536Z"
   },
   {
-    "id": "news-1789178712850-30",
-    "title": "In Canada: Inside Danielle Smith’s Plans to Make the Calgary Music Industry ‘Nashville North’",
-    "summary": "Also up north this week: The Beaches scores its first gold-certified record in the U.S. and Vancouver's Reliant Music Group signs a global distribution deal.",
-    "category": "industry-news",
-    "source": "Billboard",
+    "id": "news-1789264817535-0",
+    "title": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
+    "summary": "While OpenAI has filed confidentially for an IPO, the company will not be going public this year, according to CEO Sam Altman.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
     "author": "Unknown",
-    "publishedAt": "2026-09-11T23:22:32.000Z",
-    "url": "https://www.billboard.com/pro/calgary-plans-nashville-north-canada-music-news/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-09-12T02:05:12.850Z"
-  },
-  {
-    "id": "news-1789178712850-31",
-    "title": "Jamaican Dancehall Singer Shabba Ranks Sues to Claw Back Publishing Catalog",
-    "summary": "The reggae star wants to reclaim the rights to his Billboard Hot 100 hits, plus the foundational 1990 song “Dem Bow.”",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-09-11T23:05:22.000Z",
-    "url": "https://www.billboard.com/pro/jamaican-dancehall-singer-shabba-ranks-lawsuit-catalog/",
+    "publishedAt": "2026-09-12T20:19:16.000Z",
+    "url": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
     "imageUrl": null,
     "tags": [
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-09-12T02:05:12.850Z"
+    "fetchedAt": "2026-09-13T02:00:17.535Z"
   },
   {
-    "id": "news-1789178712848-0",
+    "id": "news-1789264817535-1",
+    "title": "Anthropic CEO outlines plan to slow AI development",
+    "summary": "Anthropic's Dario Amodei and OpenAI's Sam Altman seem to agree that it's time to \"pace the frontier.\" What would that actually look like?",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-09-12T19:34:44.000Z",
+    "url": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-09-13T02:00:17.535Z"
+  },
+  {
+    "id": "news-1789264817536-30",
+    "title": "Carín León Returns to the Sphere With Pepe Aguilar and José Guadalupe Esparza as Guests",
+    "summary": "The Sept. 11 concert marked the continuation of the Sonoran star’s historic residency at the innovative Las Vegas venue.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-09-12T17:57:20.000Z",
+    "url": "https://www.billboard.com/music/latin/carin-leon-sphere-pepe-aguilar-jose-guadalupe-esparza-recap-1236338962/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-09-13T02:00:17.536Z"
+  },
+  {
+    "id": "news-1789264817537-31",
+    "title": "Stray Kids Drives Fans Wild in Historic Rock in Rio Debut",
+    "summary": "The group becomes the first K-pop act to headline the festival.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-09-12T17:19:04.000Z",
+    "url": "https://www.billboard.com/music/music-news/stray-kids-rock-in-rio-brazil-debut-review-recap-1236338948/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-09-13T02:00:17.537Z"
+  },
+  {
+    "id": "news-1789264817537-32",
+    "title": "‘Saturday Night Live U.K.’: Here’s Where to Watch the Season 2 Premiere Online",
+    "summary": "For the season two opener, SNL U.K. has Jeff Goldblum as host and CMAT as musical guest.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-09-12T16:39:24.000Z",
+    "url": "https://www.billboard.com/culture/product-recommendations/saturday-night-live-uk-season-2-watch-stream-online-1236338739/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-09-13T02:00:17.537Z"
+  },
+  {
+    "id": "news-1789264817537-33",
+    "title": "Minneapolis Declares Sept. 9 Los Tigres del Norte Day & More Uplifting Moments in Latin Music",
+    "summary": "Plus, Feid's short film El Green Print heads to U.S. theaters, Mariachi Vargas to headline Mariachi Fest and Women In Music announces Mexico chapter.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-09-12T14:00:00.000Z",
+    "url": "https://www.billboard.com/music/latin/los-tigres-del-norte-day-minneapolis-uplifting-moments-1236338423/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-09-13T02:00:17.537Z"
+  },
+  {
+    "id": "news-1789264817536-13",
+    "title": "From Hacks to Bioweapons, Claude Misuse Is Now Everywhere",
+    "summary": "Plus: The US disrupts the internet’s biggest black market, a Conti ransomware hacker gets prison time, Meta fails to stop AI-generated videos of child abuse.",
+    "category": "tech-innovation",
+    "source": "Wired AI",
+    "author": "Unknown",
+    "publishedAt": "2026-09-12T10:30:00.000Z",
+    "url": "https://www.wired.com/story/security-news-this-week-from-hacks-to-bioweapons-claude-misuse-is-now-everywhere/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-09-13T02:00:17.536Z"
+  },
+  {
+    "id": "news-1789264817535-2",
     "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
     "summary": "The round for the two-year-old startup is coming together months after Mecka announced its Series A.",
     "category": "ai-research",
@@ -58,52 +132,10 @@
       "Startup"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-09-12T02:05:12.848Z"
+    "fetchedAt": "2026-09-13T02:00:17.535Z"
   },
   {
-    "id": "news-1789178712850-32",
-    "title": "‘Have You Forgotten?’ Hell, No: A Reflection on Country’s 9/11 Songs, 25 Years Later",
-    "summary": "A look at how the music of Alan Jackson, Darryl Worley, Toby Keith and The Chicks helped connect the nation with difficult emotions.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-09-11T22:51:56.000Z",
-    "url": "https://www.billboard.com/music/country/911-country-songs-darryl-worley-reflect-significance-1236338824/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-09-12T02:05:12.850Z"
-  },
-  {
-    "id": "news-1789178712850-33",
-    "title": "Ella Langley’s Dandelion Tour 2026: Here’s Where to Buy Last-Minute Concert Tickets Online",
-    "summary": "The country music singer/songwriter continues her tour across the United States.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-09-11T22:30:41.000Z",
-    "url": "https://www.billboard.com/culture/product-recommendations/ella-langley-tour-sept-oct-2026-buy-shop-tickets-online-1236338450/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-09-12T02:05:12.850Z"
-  },
-  {
-    "id": "news-1789178712850-34",
-    "title": "Ocean Way Festival in Santa Monica Canceled Weeks Before Planned Debut",
-    "summary": "The debut festival from Coachella promoter Goldenvoice, scheduled to take place Sept. 26-27, was canceled due to hurricane damage.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-09-11T22:20:50.000Z",
-    "url": "https://www.billboard.com/music/music-news/ocean-way-festival-canceled-santa-monica-hurricane-marie-1236338821/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-09-12T02:05:12.850Z"
-  },
-  {
-    "id": "news-1789178712848-1",
+    "id": "news-1789264817536-3",
     "title": "Y Combinator’s Garry Tan wants US open-weight AI labs to ‘distill’ frontier models, too",
     "summary": "Tan wants smaller, American open-weight AI labs to use the same kind of training techniques on American frontier AI labs, giving the U.S. a more robust set of open-weight options that aren’t Chinese.",
     "category": "ai-research",
@@ -116,10 +148,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-09-12T02:05:12.848Z"
+    "fetchedAt": "2026-09-13T02:00:17.536Z"
   },
   {
-    "id": "news-1789178712848-2",
+    "id": "news-1789264817536-4",
     "title": "OpenAI’s feud with mathematicians is only escalating",
     "summary": "Twenty-five leading mathematicians signed an open letter arguing that AI labs are threatening their intellectual work.",
     "category": "ai-research",
@@ -132,10 +164,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-09-12T02:05:12.848Z"
+    "fetchedAt": "2026-09-13T02:00:17.536Z"
   },
   {
-    "id": "news-1789178712849-3",
+    "id": "news-1789264817536-5",
     "title": "Kimi-maker Moonshot AI targets $2B in annual revenue",
     "summary": "While K3's usage figures have declined slightly in recent months, OpenRouter data currently shows as many as 300 billion tokens being generated each day by K3 models on the system.",
     "category": "ai-research",
@@ -148,10 +180,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-09-12T02:05:12.849Z"
+    "fetchedAt": "2026-09-13T02:00:17.536Z"
   },
   {
-    "id": "news-1789178712849-13",
+    "id": "news-1789264817536-14",
     "title": "Meta Sued Over Training Data for Its AI and Face-Recognition Systems",
     "summary": "The proposed class action alleges Meta illegally harvested people’s Facebook and Instagram photos to train its AI image-generation models and to build its unreleased “NameTag” face recognition feature.",
     "category": "tech-innovation",
@@ -164,10 +196,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-09-12T02:05:12.849Z"
+    "fetchedAt": "2026-09-13T02:00:17.536Z"
   },
   {
-    "id": "news-1789178712849-4",
+    "id": "news-1789264817536-6",
     "title": "Nscale adds former OpenAI exec Fidji Simo to its board ahead of potential IPO",
     "summary": "The No. 2 exec at OpenAI also led Instacart through its IPO in 2023. ",
     "category": "ai-research",
@@ -180,10 +212,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-09-12T02:05:12.849Z"
+    "fetchedAt": "2026-09-13T02:00:17.536Z"
   },
   {
-    "id": "news-1789178712849-14",
+    "id": "news-1789264817536-15",
     "title": "One of AI’s Fiercest Critics Says All the Doom Talk Is ‘Meant to Distract Us’",
     "summary": "Timnit Gebru argues that AI companies are stoking fears of extinction to avoid discussing actual harms, like autonomous weapons.",
     "category": "tech-innovation",
@@ -196,10 +228,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-09-12T02:05:12.849Z"
+    "fetchedAt": "2026-09-13T02:00:17.536Z"
   },
   {
-    "id": "news-1789178712849-23",
+    "id": "news-1789264817536-23",
     "title": "Spotify co-founder Martin Lorentzon says he’ll leave Sweden ‘immediately’ if a wealth tax is introduced (report)",
     "summary": "Sweden votes in a general election on Sunday (September 13), with taxation of the country’s wealthiest one of the campaign’s live issues.\nSource",
     "category": "industry-news",
@@ -213,10 +245,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-09-12T02:05:12.849Z"
+    "fetchedAt": "2026-09-13T02:00:17.536Z"
   },
   {
-    "id": "news-1789178712849-15",
+    "id": "news-1789264817536-16",
     "title": "Why So Many AI Researchers Think the Machines Could Kill Everyone",
     "summary": "A combination of rapid advances, recursive self-improvement, and agentic swarms are genuinely “spooking people” inside big labs.",
     "category": "ai-research",
@@ -230,10 +262,10 @@
       "Research"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-09-12T02:05:12.849Z"
+    "fetchedAt": "2026-09-13T02:00:17.536Z"
   },
   {
-    "id": "news-1789178712849-16",
+    "id": "news-1789264817536-17",
     "title": "OpenAI Wants to Know if an AI Industry Slowdown Would Even Be Legal",
     "summary": "AI leaders worry antitrust law could stand in the way of what they view as an increasingly urgent push to coordinate a slowdown in AI development.",
     "category": "tech-innovation",
@@ -246,10 +278,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-09-12T02:05:12.849Z"
+    "fetchedAt": "2026-09-13T02:00:17.536Z"
   },
   {
-    "id": "news-1789178712849-5",
+    "id": "news-1789264817536-7",
     "title": "OpenAI puts Pro subscriptions on hold due to Astra demand",
     "summary": "The company said Pro subscriptions put the most strain on its systems, so it's pausing sign-ups while adding more capacity. ",
     "category": "ai-research",
@@ -262,10 +294,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-09-12T02:05:12.849Z"
+    "fetchedAt": "2026-09-13T02:00:17.536Z"
   },
   {
-    "id": "news-1789178712849-6",
+    "id": "news-1789264817536-8",
     "title": "Anthropic details distillation campaigns from Alibaba, Moonshot AI, and DeepSeek",
     "summary": "A new report released Thursday by Anthropic alleges persistent distillation attacks by China-based AI companies, which have escalated in recent months as competition in the space has intensified.",
     "category": "ai-research",
@@ -278,39 +310,6 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-09-12T02:05:12.849Z"
-  },
-  {
-    "id": "news-1789178712849-17",
-    "title": "Is AI Actually Going to Kill Us All?",
-    "summary": "This week on “Uncanny Valley,” we dig into a former Anthropic researcher’s AI doomsday warning, the latest upgrades from Apple’s event, and the census report that claimed Trump won the 2020 election.",
-    "category": "tech-innovation",
-    "source": "Wired AI",
-    "author": "Unknown",
-    "publishedAt": "2026-09-10T20:30:37.000Z",
-    "url": "https://www.wired.com/story/uncanny-valley-podcast-is-ai-actually-going-to-kill-us-all/",
-    "imageUrl": null,
-    "tags": [
-      "AI",
-      "Research"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-09-12T02:05:12.849Z"
-  },
-  {
-    "id": "news-1789178712849-7",
-    "title": "Meta’s AI agent Muse is now the No. 2 app in the US",
-    "summary": "Meta's newest app Muse is off to a slower start than the company's other apps, like Meta AI or Threads. ",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-09-10T19:50:04.000Z",
-    "url": "https://techcrunch.com/2026/09/10/metas-ai-agent-muse-is-now-the-no-2-app-in-the-us/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-09-12T02:05:12.849Z"
+    "fetchedAt": "2026-09-13T02:00:17.536Z"
   }
 ]
