@@ -1,52 +1,259 @@
 [
   {
-    "id": "news-1789957069435-25",
-    "title": "Fans Choose Freya Skye’s ‘Bad Taste’ as This Week’s Favorite New Music",
-    "summary": "Skye's playful pop track brought in more than 82% of the vote.",
-    "category": "industry-news",
-    "source": "Billboard",
+    "id": "news-1790043702568-0",
+    "title": "The man who built Apple’s stores doesn’t buy Silicon Valley’s bet on AI shopping",
+    "summary": "Apple Store architect Ron Johnson says Apple's secret sauce has always been its people.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
     "author": "Unknown",
-    "publishedAt": "2026-09-21T01:20:34.000Z",
-    "url": "https://www.billboard.com/music/pop/freya-skyes-bad-taste-best-new-music-poll-results-1236344248/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-09-21T02:17:49.435Z"
-  },
-  {
-    "id": "news-1789957069435-26",
-    "title": "Chad Gilbert, New Found Glory Guitarist, Dies at 45",
-    "summary": "The musician’s death comes six months after he revealed his cancer battle.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-09-20T19:54:36.000Z",
-    "url": "https://www.billboard.com/music/rock/chad-gilbert-death-new-found-glory-guitarist-dies-obituary-1236344213/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-09-21T02:17:49.435Z"
-  },
-  {
-    "id": "news-1789957069435-27",
-    "title": "Jhené Aiko Achieves First No. 1 Album on Billboard 200 With ‘Westside Whimsy’",
-    "summary": "It’s the first R&B album by a woman to top the chart this year.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-09-20T19:00:03.000Z",
-    "url": "https://www.billboard.com/music/chart-beat/jhene-aiko-westwide-whimsy-number-one-billboard-200-chart-1236344193/",
+    "publishedAt": "2026-09-21T23:44:28.000Z",
+    "url": "https://techcrunch.com/2026/09/21/the-man-who-built-apples-stores-doesnt-buy-silicon-valleys-bet-on-ai-shopping/",
     "imageUrl": null,
     "tags": [
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-09-21T02:17:49.435Z"
+    "fetchedAt": "2026-09-22T02:21:42.568Z"
   },
   {
-    "id": "news-1789957069433-0",
+    "id": "news-1790043702568-1",
+    "title": "OpenAI forms math advisory group as its AI resolves more than 100 open problems",
+    "summary": "The group won't be given leeway to slow down or redirect OpenAI's ongoing mathematical research.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-09-21T20:15:58.000Z",
+    "url": "https://techcrunch.com/2026/09/21/openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open-problems/",
+    "imageUrl": null,
+    "tags": [
+      "AI",
+      "Research"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-09-22T02:21:42.568Z"
+  },
+  {
+    "id": "news-1790043702568-22",
+    "title": "Madonna & Charli xcx Set ‘Danceteria Afterhours’ Release Date",
+    "summary": "The new track marks the pop stars’ first musical collaboration.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-09-21T19:45:00.000Z",
+    "url": "https://www.billboard.com/music/music-news/madonna-charli-xcx-danceteria-afterhours-release-date-1236344326/",
+    "imageUrl": null,
+    "tags": [
+      "Partnership"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-09-22T02:21:42.568Z"
+  },
+  {
+    "id": "news-1790043702568-2",
+    "title": "Meta’s Muse is outpacing ChatGPT’s early mobile launch",
+    "summary": "Meta’s new AI agent Muse has racked up more downloads and daily active users in the U.S. and Canada than ChatGPT did over the same period after its mobile debut, according to new estimates from Appfigures.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-09-21T19:19:21.000Z",
+    "url": "https://techcrunch.com/2026/09/21/metas-muse-is-outpacing-chatgpts-early-mobile-launch/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-09-22T02:21:42.568Z"
+  },
+  {
+    "id": "news-1790043702568-17",
+    "title": "American Music Tourism Act heads to Trump’s desk after House vote",
+    "summary": "The bill would add music to the tourism-promotion duties the Commerce Department already carries under the Visit America Act.\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-09-21T18:33:17.000Z",
+    "url": "https://www.musicbusinessworldwide.com/american-music-tourism-act-heads-to-trumps-desk-after-house-vote/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-09-22T02:21:42.568Z"
+  },
+  {
+    "id": "news-1790043702568-10",
+    "title": "AI, Tariffs, Rare Minerals: What to Expect From Trump’s Upcoming Summit With Xi Jinping",
+    "summary": "Washington and Beijing have grown ever more linked in the AI boom, making hardware exports and technological restrictions hefty bargaining chips in negotiations.",
+    "category": "tech-innovation",
+    "source": "Wired AI",
+    "author": "Unknown",
+    "publishedAt": "2026-09-21T18:33:02.000Z",
+    "url": "https://www.wired.com/story/ai-tariffs-rare-minerals-what-to-expect-from-trumps-upcoming-summit-with-xi-jinping/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-09-22T02:21:42.568Z"
+  },
+  {
+    "id": "news-1790043702568-23",
+    "title": "Taylor Swift to Be First Recipient of Artist Director Honors at 2026 MTV VMAs",
+    "summary": "The 2026 VMAs will air live from Los Angeles’ Peacock Theater on Sept. 27.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-09-21T18:30:44.000Z",
+    "url": "https://www.billboard.com/music/awards/taylor-swift-artist-director-honors-2026-mtv-vmas-1236344313/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-09-22T02:21:42.568Z"
+  },
+  {
+    "id": "news-1790043702568-18",
+    "title": "HYBE’s CEO and Musicow’s Chair named vice chairs of the Korea Venture Business Association",
+    "summary": "KOVA said it expects HYBE's arrival as a vice chair company to widen the connections between the content industry and Korea's venture ecosystem.\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-09-21T18:30:10.000Z",
+    "url": "https://www.musicbusinessworldwide.com/hybes-ceo-and-musicows-chair-named-vice-chairs-of-the-korea-venture-business-association/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-09-22T02:21:42.568Z"
+  },
+  {
+    "id": "news-1790043702568-24",
+    "title": "Rolling Loud Coming Back to California in 2027: Co-Founder Matt Zingler Discusses Its Return",
+    "summary": "“We don’t have competition,\" Zingler tells Billboard of the stalwart festival brand, which is returning to San Bernardino next December.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-09-21T18:00:00.000Z",
+    "url": "https://www.billboard.com/pro/rolling-loud-festival-returns-california-2027-interview/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-09-22T02:21:42.568Z"
+  },
+  {
+    "id": "news-1790043702568-3",
+    "title": "Meta’s AI agent has been blocked from using Amazon.com",
+    "summary": "Amazon has its own cohort of foundation models, along with one of the most popular inference platforms on the internet. As long as they're under no legal obligation to open the doors to Muse, why would they?",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-09-21T17:55:18.000Z",
+    "url": "https://techcrunch.com/2026/09/21/metas-ai-agent-has-been-blocked-from-using-amazon-com/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-09-22T02:21:42.568Z"
+  },
+  {
+    "id": "news-1790043702568-25",
+    "title": "Warner Chappell COO/Co-Chair Carianne Marshall Leaves Role After Seven Years",
+    "summary": "The respected music publishing executive will transition out of her role at the end of the month.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-09-21T16:58:29.000Z",
+    "url": "https://www.billboard.com/pro/carianne-marshall-leaves-warner-chappell-coo-co-chair/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-09-22T02:21:42.568Z"
+  },
+  {
+    "id": "news-1790043702568-19",
+    "title": "T.J. Martell Foundation raises more than $3.2M at gala honoring Red Light Management’s Coran Capshaw – with Dave Matthews, Chris Stapleton, and Trey Anastasio performing",
+    "summary": "The sold-out gala honored Red Light Management founder Coran Capshaw with its Lifetime Music Industry Award.\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-09-21T16:57:05.000Z",
+    "url": "https://www.musicbusinessworldwide.com/t-j-martell-foundation-raises-more-than-3-2m-at-gala-honoring-red-light-managements-coran-capshaw-with-dave-matthews-chris-stapleton-and-trey-anastasio-performing/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-09-22T02:21:42.568Z"
+  },
+  {
+    "id": "news-1790043702568-4",
+    "title": "With Tabby, a former accountant is using AI to make accountants obsolete",
+    "summary": "Tabby is designed to be a real-time bookkeeping interface, handling clients’ paperwork as it gives them up-to-the-minute data on their business’s profit and loss.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-09-21T16:38:51.000Z",
+    "url": "https://techcrunch.com/2026/09/21/with-tabby-a-former-accountant-is-using-ai-to-make-accountants-obsolete/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-09-22T02:21:42.568Z"
+  },
+  {
+    "id": "news-1790043702568-26",
+    "title": "Taylor Swift Shows Off Wedding Ring as Travis Kelce Scores First Touchdown of the Season",
+    "summary": "“That’s my husband,” the pop superstar declared.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-09-21T16:34:36.000Z",
+    "url": "https://www.billboard.com/music/music-news/taylor-swift-points-to-wedding-ring-travis-kelce-touchdown-1236344303/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-09-22T02:21:42.568Z"
+  },
+  {
+    "id": "news-1790043702568-20",
+    "title": "Carianne Marshall to exit Warner Chappell Music",
+    "summary": "A WMG media release said Marshall's exit comes as the company \"streamlines its leadership structure.\"\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-09-21T16:24:34.000Z",
+    "url": "https://www.musicbusinessworldwide.com/carianne-marshall-to-exit-warner-chappell-music/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-09-22T02:21:42.568Z"
+  },
+  {
+    "id": "news-1790043702568-11",
+    "title": "US and China Discuss Alerting Each Other to AI National Security Threats",
+    "summary": "Officials discussed setting up a mechanism for the two countries to notify each other of AI incidents which could threaten national security.",
+    "category": "tech-innovation",
+    "source": "Wired AI",
+    "author": "Unknown",
+    "publishedAt": "2026-09-21T10:34:43.000Z",
+    "url": "https://www.wired.com/story/us-and-china-discuss-alerting-each-other-to-ai-national-security-threats/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-09-22T02:21:42.568Z"
+  },
+  {
+    "id": "news-1790043702568-5",
     "title": "Is the AI industry really ready to slow down?",
-    "summary": "On Equity, we debated whether Ai executives are serious about wanting to slow down.",
+    "summary": "On Equity, we debated whether AI executives are serious about wanting to slow down.",
     "category": "ai-research",
     "source": "TechCrunch AI",
     "author": "Unknown",
@@ -57,10 +264,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-09-21T02:17:49.434Z"
+    "fetchedAt": "2026-09-22T02:21:42.568Z"
   },
   {
-    "id": "news-1789957069434-12",
+    "id": "news-1790043702568-12",
     "title": "Meta's Muse Is Better at Surveilling Than Helping Me",
     "summary": "The Muse app continues Meta’s trend of opting users into data collection for AI training. It also nudges you to share your bank account, email, and passport information.",
     "category": "tech-innovation",
@@ -73,38 +280,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-09-21T02:17:49.434Z"
+    "fetchedAt": "2026-09-22T02:21:42.568Z"
   },
   {
-    "id": "news-1789957069435-28",
-    "title": "Ed Sheeran Addresses Controversy at First Show Since Openers, Backing Band Dropped Off Tour, Calls It ‘The Best Show of My Life’",
-    "summary": "Before his show in Philadelphia, Sheeran read a statement acknowledging the issue of Israel and Palestine, but still tried to keep things neutral.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-09-20T06:30:04.000Z",
-    "url": "https://www.billboard.com/music/music-news/ed-sheeran-show-recap-philadelphia-macklemore-controversy-1236344180/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-09-21T02:17:49.435Z"
-  },
-  {
-    "id": "news-1789957069435-29",
-    "title": "Papa Roach’s Louder Than Life Set Scrapped Amid Bassist’s ‘Unexpected’ Emergency",
-    "summary": "The band says its bassist needs time to recover, with a return targeted for November's European tour.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-09-20T05:08:39.000Z",
-    "url": "https://www.billboard.com/music/concerts/papa-roach-cancel-louder-than-life-1236344171/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-09-21T02:17:49.435Z"
-  },
-  {
-    "id": "news-1789957069434-1",
+    "id": "news-1790043702568-6",
     "title": "Trump says it’s time to rebrand AI with a new name — and he’s also creating an AI Force",
     "summary": "Trump claimed, without evidence, that the AI backlash is a Democratic hoax.",
     "category": "ai-research",
@@ -117,10 +296,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-09-21T02:17:49.434Z"
+    "fetchedAt": "2026-09-22T02:21:42.568Z"
   },
   {
-    "id": "news-1789957069434-2",
+    "id": "news-1790043702568-7",
     "title": "Google’s Gemini is the latest AI model to hack other companies",
     "summary": "Google said Gemini had \"acted appropriately\" by ending each hack immediately.",
     "category": "ai-research",
@@ -133,186 +312,6 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-09-21T02:17:49.434Z"
-  },
-  {
-    "id": "news-1789957069434-3",
-    "title": "Petlibro’s new AI-powered feeder is a game changer for multi-cat homes",
-    "summary": "Petlibro's new Granary 2 smart feeders use a built-in scale and (on pricier models) an AI camera to track exactly how much your cat is eating and when — though the fanciest health-monitoring features will cost you an extra subscription.\n",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-09-19T15:00:00.000Z",
-    "url": "https://techcrunch.com/2026/09/19/petlibros-new-ai-powered-feeder-is-a-game-changer-for-multi-cat-homes/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-09-21T02:17:49.434Z"
-  },
-  {
-    "id": "news-1789957069434-4",
-    "title": "AI safety conversations have gotten unbelievable",
-    "summary": "This week two conversations about AI safety went viral that demonstrate just how hard it is to discern AI fact from fiction.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-09-19T15:00:00.000Z",
-    "url": "https://techcrunch.com/2026/09/19/ai-safety-conversations-have-gotten-unbelievable/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-09-21T02:17:49.434Z"
-  },
-  {
-    "id": "news-1789957069434-5",
-    "title": "Vals, backed by Andreessen Horowitz, is looking to become the gold standard for AI benchmarking",
-    "summary": "Vals AI is hoping to make AI benchmarking a more neutral and trustworthy resource in a world increasingly inundated by AI models.  ",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-09-19T13:00:00.000Z",
-    "url": "https://techcrunch.com/2026/09/19/vals-backed-by-andreessen-horowitz-is-looking-to-become-the-gold-standard-for-ai-benchmarking/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-09-21T02:17:49.434Z"
-  },
-  {
-    "id": "news-1789957069434-13",
-    "title": "Forget the AI Slowdown—the Vulnerability Explosion Is Already Happening",
-    "summary": "AI labs are toying with an industry-wide pact to slow development. Meanwhile, widely available AI chatbots are already helping uncover a tidal wave of security flaws.",
-    "category": "tech-innovation",
-    "source": "Wired AI",
-    "author": "Unknown",
-    "publishedAt": "2026-09-19T11:00:00.000Z",
-    "url": "https://www.wired.com/story/kernel-panic-ai-vulnerability-explosion/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-09-21T02:17:49.434Z"
-  },
-  {
-    "id": "news-1789957069434-14",
-    "title": "Mathematicians Hate AI. They Can’t Quit It",
-    "summary": "Powerful AI models have created an existential risk to the field, but researchers can’t stop relying on them because they’re too useful.",
-    "category": "ai-research",
-    "source": "Wired AI",
-    "author": "Unknown",
-    "publishedAt": "2026-09-19T10:00:00.000Z",
-    "url": "https://www.wired.com/story/mathematicians-cant-quit-ai/",
-    "imageUrl": null,
-    "tags": [
-      "AI",
-      "Research"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-09-21T02:17:49.434Z"
-  },
-  {
-    "id": "news-1789957069434-6",
-    "title": "Tilly Norwood’s press tour is going about as well as you’d expect for an AI",
-    "summary": "In one particularly odd interview, Norwood seems to malfunction and begin speaking Chinese.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-09-19T00:12:07.000Z",
-    "url": "https://techcrunch.com/2026/09/18/tilly-norwoods-press-tour-is-going-about-as-well-as-youd-expect-for-an-ai/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-09-21T02:17:49.434Z"
-  },
-  {
-    "id": "news-1789957069434-7",
-    "title": "A startup that builds other startups raised $100M and is all-in on physical AI",
-    "summary": "UP.Labs, now doing business under the name Vantora, is building startups for industrial corporations.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-09-18T23:25:01.000Z",
-    "url": "https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai/",
-    "imageUrl": null,
-    "tags": [
-      "AI",
-      "Startup"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-09-21T02:17:49.434Z"
-  },
-  {
-    "id": "news-1789957069434-8",
-    "title": "Anthropic is operating a lab that conducts biology experiments",
-    "summary": "AI leaders have been promising that AI is the key to curing human disease. Anthropic researchers have also been warning that AI might kill us all.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-09-18T23:13:31.000Z",
-    "url": "https://techcrunch.com/2026/09/18/anthropic-is-operating-a-lab-that-conducts-biology-experiments/",
-    "imageUrl": null,
-    "tags": [
-      "AI",
-      "Research"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-09-21T02:17:49.434Z"
-  },
-  {
-    "id": "news-1789957069434-9",
-    "title": "AI hallucination nearly triggers US military operation",
-    "summary": "“It’s important for service members to understand the uncertainty inherent to LLMs,\" a GovAI research scholar warns. ",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-09-18T23:12:32.000Z",
-    "url": "https://techcrunch.com/2026/09/18/ai-hallucination-nearly-triggers-us-military-operation/",
-    "imageUrl": null,
-    "tags": [
-      "AI",
-      "Research"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-09-21T02:17:49.434Z"
-  },
-  {
-    "id": "news-1789957069434-15",
-    "title": "Here’s How an AI Slowdown Could Actually Be Enforced",
-    "summary": "Even if big AI companies agree to a pause, ensuring that nobody tries to sneak ahead could prove tricky.",
-    "category": "tech-innovation",
-    "source": "Wired AI",
-    "author": "Unknown",
-    "publishedAt": "2026-09-18T19:21:09.000Z",
-    "url": "https://www.wired.com/story/heres-how-an-ai-slowdown-could-actually-work/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-09-21T02:17:49.434Z"
-  },
-  {
-    "id": "news-1789957069434-10",
-    "title": "A new kind of AI model from a ChatGPT inventor is thrilling developers",
-    "summary": "Jev, a new kind of AI model, is showing developers a cheaper and faster path to software intelligence. ",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-09-18T18:49:30.000Z",
-    "url": "https://techcrunch.com/2026/09/18/a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling-developers/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-09-21T02:17:49.434Z"
+    "fetchedAt": "2026-09-22T02:21:42.568Z"
   }
 ]
