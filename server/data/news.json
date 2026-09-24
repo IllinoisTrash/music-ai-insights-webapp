@@ -1,319 +1,308 @@
 [
   {
-    "id": "news-1790130120126-28",
-    "title": "Walker Hayes Puts On His Puppy Voice for New Song Dedicated to His Dogs: Listen",
-    "summary": "The country star teams up with pet food brand Canidae Heartland to promote the bond we all have with our four-legged friends.",
+    "id": "news-1790215793638-0",
+    "title": "Everything new coming to Meta’s AI agent Muse",
+    "summary": "CEO Mark Zuckerberg kicked off the company’s annual Connect event in Menlo Park on Wednesday with a keynote that made one thing clear: Meta is going all-in on Muse. It's even coming to Meta's AI glasses.\n\n",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-09-24T01:13:32.000Z",
+    "url": "https://techcrunch.com/2026/09/23/everything-new-coming-to-metas-ai-agent-muse/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-09-24T02:09:53.638Z"
+  },
+  {
+    "id": "news-1790215793638-1",
+    "title": "Meta made a Tamagotchi-like wearable for its Muse AI agent",
+    "summary": "The tiny hardware device creates  another mobile home for its AI agent Muse. ",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-09-24T00:46:17.000Z",
+    "url": "https://techcrunch.com/2026/09/23/meta-made-a-tamagotchi-like-wearable-for-its-muse-ai-agent/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-09-24T02:09:53.638Z"
+  },
+  {
+    "id": "news-1790215793640-29",
+    "title": "Ray-Ban Meta Creates First Audio-Only Glasses Amid Online Discussions Over Camera Recording & Privacy",
+    "summary": "The new glasses are for those who want all the audio and microphone features without the built-in camera.",
     "category": "industry-news",
     "source": "Billboard",
     "author": "Unknown",
-    "publishedAt": "2026-09-23T00:46:55.000Z",
-    "url": "https://www.billboard.com/culture/product-recommendations/walker-hayes-canidae-dog-food-campaign-song-review-buy-1236344969/",
+    "publishedAt": "2026-09-24T00:00:00.000Z",
+    "url": "https://www.billboard.com/culture/product-recommendations/ray-ban-meta-audio-only-ai-glasses-no-camera-shop-online-1236345627/",
     "imageUrl": null,
     "tags": [],
     "readTime": 1,
-    "fetchedAt": "2026-09-23T02:22:00.126Z"
+    "fetchedAt": "2026-09-24T02:09:53.640Z"
   },
   {
-    "id": "news-1790130120126-29",
-    "title": "Here’s How Independent Artists Are Actually Selling Merch Online Now",
-    "summary": "Direct powered by DistroKid is one of the best ways for indie artists to find and connect with fans.",
+    "id": "news-1790215793638-2",
+    "title": "Meta introduces camera-free AI glasses",
+    "summary": "Meta says the camera-free glasses will be lighter and have up to 12 hours battery life. ",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-09-23T23:39:44.000Z",
+    "url": "https://techcrunch.com/2026/09/23/meta-introduces-camera-free-ai-glasses/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-09-24T02:09:53.638Z"
+  },
+  {
+    "id": "news-1790215793640-30",
+    "title": "The Wanted’s Nathan Sykes Is Going to Be a Dad: ‘Been Keeping This Secret’",
+    "summary": "The former boy band heartthrob and his wife shared their baby news in a series of sweet photobooth snapshots on their Instagram accounts.",
     "category": "industry-news",
     "source": "Billboard",
     "author": "Unknown",
-    "publishedAt": "2026-09-23T00:28:39.000Z",
-    "url": "https://www.billboard.com/culture/product-recommendations/distrokid-independent-artists-merch-online-1236339561/",
+    "publishedAt": "2026-09-23T23:06:52.000Z",
+    "url": "https://www.billboard.com/music/music-news/the-wanted-nathan-sykes-baby-wife-charlotte-pregnant-1236345956/",
     "imageUrl": null,
     "tags": [],
     "readTime": 1,
-    "fetchedAt": "2026-09-23T02:22:00.126Z"
+    "fetchedAt": "2026-09-24T02:09:53.640Z"
   },
   {
-    "id": "news-1790130120126-30",
-    "title": "BMI to Help Songwriters Navigate Healthcare Coverage Via New Service",
-    "summary": "BMI Health Connect will review songwriters' and composers' needs and help them choose among available insurance options.",
+    "id": "news-1790215793640-31",
+    "title": "Partisan Music Expands Publishing Arm With OTM Acquisition",
+    "summary": "OTM Music marks the label's second publishing acquisition after Left Music.",
     "category": "industry-news",
     "source": "Billboard",
     "author": "Unknown",
-    "publishedAt": "2026-09-22T23:43:10.000Z",
-    "url": "https://www.billboard.com/pro/bmi-service-members-healthcare-coverage/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-09-23T02:22:00.127Z"
-  },
-  {
-    "id": "news-1790130120127-31",
-    "title": "Niall Horan Honors Liam Payne by Playing Late One Direction Bandmate’s Voice Onstage for ‘End of an Era’",
-    "summary": "In footage shared from the show, Payne can be heard reflecting on the extraordinary rise he and his bandmates experienced with 1D.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-09-22T23:20:45.000Z",
-    "url": "https://www.billboard.com/music/music-news/niall-horan-liam-payne-with-voice-recording-end-of-an-era-1236344942/",
+    "publishedAt": "2026-09-23T23:01:00.000Z",
+    "url": "https://www.billboard.com/pro/partisan-music-expands-publishing-arm-otm-acquisition/",
     "imageUrl": null,
     "tags": [],
     "readTime": 1,
-    "fetchedAt": "2026-09-23T02:22:00.127Z"
+    "fetchedAt": "2026-09-24T02:09:53.640Z"
   },
   {
-    "id": "news-1790130120124-0",
-    "title": "Snorkel AI triples valuation to $3.5B as demand for AI training data booms",
-    "summary": "The seven-year-old startup has raised a $350 million Series E to fuel its data-as-a-service approach.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-09-22T21:56:43.000Z",
-    "url": "https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms/",
-    "imageUrl": null,
-    "tags": [
-      "AI",
-      "Startup"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-09-23T02:22:00.124Z"
-  },
-  {
-    "id": "news-1790130120125-1",
-    "title": "Qualcomm launches two new smartphone chips with emphasis on AI",
-    "summary": "Qualcomm said that its new top chip can run 30B mixture-of-expert model locally.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-09-22T20:00:00.000Z",
-    "url": "https://techcrunch.com/2026/09/22/qualcomm-launches-two-new-smartphone-chips-with-emphasis-on-ai/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-09-23T02:22:00.125Z"
-  },
-  {
-    "id": "news-1790130120125-2",
-    "title": "Meta admits Muse’s likeness to OpenClaw isn’t a coincidence",
-    "summary": "Meta says Muse was built from scratch, but acknowledges the AI assistant was \"heavily inspired\" by OpenClaw — down to some of its workspace filenames and content.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-09-22T19:09:11.000Z",
-    "url": "https://techcrunch.com/2026/09/22/meta-admits-muses-likeness-to-openclaw-isnt-a-coincidence/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-09-23T02:22:00.125Z"
-  },
-  {
-    "id": "news-1790130120125-3",
-    "title": "OpenAI launches GPT-6 Sol and Luna, boasting lower cost and fewer mistakes",
-    "summary": "OpenAI is launching two new models, which it says are cut from the same cloth as Astra. ",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-09-22T18:00:00.000Z",
-    "url": "https://techcrunch.com/2026/09/22/openai-launches-gpt-6-sol-and-luna/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-09-23T02:22:00.125Z"
-  },
-  {
-    "id": "news-1790130120126-21",
-    "title": "Charles Goldstuck’s GoldState makes minority investment in Podium Entertainment, as Flexpoint Ford and Shamrock Capital buy audiobook publisher in reported $400M+ deal",
-    "summary": "'Podium is poised to take full advantage of the changing landscape for audio around the globe,' said Goldstuck\nSource",
+    "id": "news-1790215793640-32",
+    "title": "History in the Making! Beyoncé & Jay-Z’s ‘Crazy in Love’ Enters YouTube’s Billion Views Club",
+    "summary": "The iconic 2003 collaboration becomes the singer's third music video to cross the massive YouTube milestone.",
     "category": "industry-news",
-    "source": "Music Business Worldwide",
+    "source": "Billboard",
     "author": "Unknown",
-    "publishedAt": "2026-09-22T16:21:43.000Z",
-    "url": "https://www.musicbusinessworldwide.com/charles-goldstucks-goldstate-music-takes-minority-stake-in-podium-entertainment-as-flexpoint-ford-and-shamrock-capital-acquire-the-audiobook-publisher/",
+    "publishedAt": "2026-09-23T22:53:48.000Z",
+    "url": "https://www.billboard.com/music/music-news/beyonce-jay-z-crazy-in-love-video-youtube-billion-views-1236345927/",
     "imageUrl": null,
     "tags": [
-      "AI",
-      "Investment"
+      "Partnership"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-09-23T02:22:00.126Z"
+    "fetchedAt": "2026-09-24T02:09:53.640Z"
   },
   {
-    "id": "news-1790130120125-14",
-    "title": "Rabbit Is Back, This Time With an AI Agent App",
-    "summary": "Two years after trying to sidestep mobile apps with dedicated AI hardware, Rabbit is launching OS3, a cross-platform agent that lives on the screens you already use.",
+    "id": "news-1790215793640-33",
+    "title": "‘Ay! San Miguel’: Romeo Santos & Prince Royce Cheer Third Latin Airplay No. 1",
+    "summary": "The Better Late Than Never song follows rulers “Lokita Por Mí” and “Dardos.”",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-09-23T22:31:03.000Z",
+    "url": "https://www.billboard.com/music/chart-beat/romeo-santos-prince-royce-latin-airplay-ay-san-miguel-chart-1236345918/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-09-24T02:09:53.640Z"
+  },
+  {
+    "id": "news-1790215793638-3",
+    "title": "Anthropic says its biology lab has already found something big",
+    "summary": "But maybe the biggest reveal is that Anthropic has not let Claude run loose in its biology lab. Humans are still, so far, in the loop.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-09-23T22:17:39.000Z",
+    "url": "https://techcrunch.com/2026/09/23/anthropic-says-its-biology-lab-has-already-found-something-big/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-09-24T02:09:53.638Z"
+  },
+  {
+    "id": "news-1790215793639-16",
+    "title": "A US-China AI Hotline Won't Be Ready For a While",
+    "summary": "As the US and China race to become the dominant power in the AI industry, the countries also appear to be figuring out ways to communicate on national security issues.",
     "category": "tech-innovation",
     "source": "Wired AI",
     "author": "Unknown",
-    "publishedAt": "2026-09-22T16:00:00.000Z",
-    "url": "https://www.wired.com/story/rabbit-r1-os3-jesse-lyu/",
+    "publishedAt": "2026-09-23T21:00:00.000Z",
+    "url": "https://www.wired.com/story/a-us-china-ai-hotline-wont-be-ready-for-a-while/",
     "imageUrl": null,
     "tags": [
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-09-23T02:22:00.125Z"
+    "fetchedAt": "2026-09-24T02:09:53.639Z"
   },
   {
-    "id": "news-1790130120125-4",
-    "title": "AstroForge is putting AI in command of its next spacecraft",
-    "summary": "Autonomy-1 will have a small, transformer-based AI model taking charge of a space probe. ",
+    "id": "news-1790215793638-4",
+    "title": "Enveda secures $311M to bring more nature-derived AI drugs into clinical trials",
+    "summary": "The round valued the AI biotech at $2 billion. It is currently testing drugs that treat skin conditions and preserve weight loss after stopping GLP-1s.",
     "category": "ai-research",
     "source": "TechCrunch AI",
     "author": "Unknown",
-    "publishedAt": "2026-09-22T15:00:00.000Z",
-    "url": "https://techcrunch.com/2026/09/22/astroforge-is-putting-ai-in-command-of-its-next-spacecraft/",
+    "publishedAt": "2026-09-23T19:31:28.000Z",
+    "url": "https://techcrunch.com/2026/09/23/enveda-secures-311m-to-bring-more-nature-derived-ai-drugs-into-clinical-trials/",
     "imageUrl": null,
     "tags": [
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-09-23T02:22:00.125Z"
+    "fetchedAt": "2026-09-24T02:09:53.638Z"
   },
   {
-    "id": "news-1790130120125-5",
-    "title": "Five AI safety sessions every founder should have on their TechCrunch Disrupt 2026 agenda",
-    "summary": "At TechCrunch Disrupt 2026, five sessions across the AI Stage and Real World AI Stage cover AI safety, featuring leaders from Anthropic, Nvidia, AWS, Waabi, and more. Register before September 25 to save up to $200.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-09-22T15:00:00.000Z",
-    "url": "https://techcrunch.com/2026/09/22/five-ai-safety-sessions-every-founder-should-have-on-their-techcrunch-disrupt-2026-agenda/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-09-23T02:22:00.125Z"
-  },
-  {
-    "id": "news-1790130120126-22",
-    "title": "Snoop Dogg’s Doggyland joins Big Feelings Music, a new children’s music company from CoComelon owner Moonbug Entertainment",
-    "summary": "Initial partners include Snoop Dogg's Doggyland, Baby Bandstand, Badanamu, Bob Zoom, English Tree TV, Lotty Friends, Mooseclumps, and Skyvibe.\nSource",
-    "category": "industry-news",
-    "source": "Music Business Worldwide",
-    "author": "Unknown",
-    "publishedAt": "2026-09-22T14:48:01.000Z",
-    "url": "https://www.musicbusinessworldwide.com/snoop-doggs-doggyland-joins-big-feelings-music-a-new-childrens-music-company-from-cocomelon-owner-moonbug-entertainment/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-09-23T02:22:00.126Z"
-  },
-  {
-    "id": "news-1790130120125-6",
-    "title": "TechCrunch Disrupt 2026: Aaron Edsinger brings Hello Robot’s Stretch 4 to life onstage",
-    "summary": "Hello Robot CEO and co-founder Aaron Edsinger will bring Stretch 4 for a live demo on the Real World AI Stage at TechCrunch Disrupt 2026. Register before September 25 to save up to $200, plus get a second pass at 50% off.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-09-22T14:30:00.000Z",
-    "url": "https://techcrunch.com/2026/09/22/techcrunch-disrupt-2026-aaron-edsinger-brings-hello-robots-stretch-4-to-life-onstage/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-09-23T02:22:00.125Z"
-  },
-  {
-    "id": "news-1790130120126-23",
-    "title": "Suno confirms V6 model was trained on ‘creations’ from users, as it blasts latest Sony and Universal lawsuit",
-    "summary": "The company set out that description in a statement responding to a second copyright lawsuit filed by Universal Music Group and Sony Music Entertainment.\nSource",
-    "category": "industry-news",
-    "source": "Music Business Worldwide",
-    "author": "Unknown",
-    "publishedAt": "2026-09-22T14:25:56.000Z",
-    "url": "https://www.musicbusinessworldwide.com/suno-confirms-v6-model-was-trained-on-creations-from-users-as-it-blasts-latest-sony-and-universal-lawsuit/",
-    "imageUrl": null,
-    "tags": [
-      "AI",
-      "Copyright"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-09-23T02:22:00.126Z"
-  },
-  {
-    "id": "news-1790130120126-24",
-    "title": "Khosla Ventures-backed AI music company GRAI acquires social music platform Hangout",
-    "summary": "Hangout launched in November 2024 with a catalog of over 100 million tracks, licensed from Sony Music Entertainment, Universal Music Group, Warner Music Group, and Merlin.\nSource",
-    "category": "industry-news",
-    "source": "Music Business Worldwide",
-    "author": "Unknown",
-    "publishedAt": "2026-09-22T13:00:28.000Z",
-    "url": "https://www.musicbusinessworldwide.com/khosla-ventures-backed-ai-music-company-grai-acquires-social-music-platform-hangout/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-09-23T02:22:00.126Z"
-  },
-  {
-    "id": "news-1790130120125-7",
-    "title": "Everyone can find a reason to dislike data center construction",
-    "summary": "Inside two years of fraught AI data center debates in Pennsylvania. ",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-09-22T13:00:00.000Z",
-    "url": "https://techcrunch.com/2026/09/22/everyone-can-find-a-reason-to-dislike-data-center-construction/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-09-23T02:22:00.125Z"
-  },
-  {
-    "id": "news-1790130120125-15",
-    "title": "AI Models Built From Rat Brains Just Got Closer to Reality",
-    "summary": "The Biological Computing Company is bringing its AI tools to Amazon Web Services in a major boost for a once-fringe field that aims to marry nature with code.",
-    "category": "ai-research",
+    "id": "news-1790215793639-17",
+    "title": "AI Agents Teamed Up to Cheat at Blackjack. Their Collusion Is Getting Harder to Spot",
+    "summary": "A clandestine card-counting operation suggests we may need new ways to spot agent-to-agent deception.",
+    "category": "tech-innovation",
     "source": "Wired AI",
     "author": "Unknown",
-    "publishedAt": "2026-09-22T13:00:00.000Z",
-    "url": "https://www.wired.com/story/ai-models-built-from-rat-brains-are-about-to-become-a-reality/",
+    "publishedAt": "2026-09-23T18:30:00.000Z",
+    "url": "https://www.wired.com/story/ai-agent-collusion-card-counting-secrets/",
     "imageUrl": null,
     "tags": [
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-09-23T02:22:00.125Z"
+    "fetchedAt": "2026-09-24T02:09:53.639Z"
   },
   {
-    "id": "news-1790130120125-8",
-    "title": "Nscale’s IPO will test Wall Street’s appetite for concentrated AI bets once again",
-    "summary": "The British AI data center developer depends on tech giants Microsoft and Anthropic for most of its revenue.",
+    "id": "news-1790215793639-18",
+    "title": "The Pope’s AI Guy Is Worried About ‘Cartel’ Behavior Among Big Labs",
+    "summary": "Paolo Benanti tells WIRED that hysteria over whether godlike AI could destroy humanity is distracting from the need for public debate about how to govern the technology.",
+    "category": "tech-innovation",
+    "source": "Wired AI",
+    "author": "Unknown",
+    "publishedAt": "2026-09-23T18:03:00.000Z",
+    "url": "https://www.wired.com/story/popes-ai-advisor-warns-of-cartel-behavior-big-labs/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-09-24T02:09:53.639Z"
+  },
+  {
+    "id": "news-1790215793638-5",
+    "title": "ChatGPT mobile app gets voice-based agentic features",
+    "summary": "Pro and Plus users will be able to use the Work tab on their phones to complete agentic tasks.",
     "category": "ai-research",
     "source": "TechCrunch AI",
     "author": "Unknown",
-    "publishedAt": "2026-09-22T12:23:05.000Z",
-    "url": "https://techcrunch.com/2026/09/22/nscales-ipo-will-test-wall-streets-appetite-for-concentrated-ai-bets-once-again/",
+    "publishedAt": "2026-09-23T17:00:00.000Z",
+    "url": "https://techcrunch.com/2026/09/23/chatgpt-mobile-app-gets-voice-based-agentic-features/",
     "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
+    "tags": [],
     "readTime": 1,
-    "fetchedAt": "2026-09-23T02:22:00.125Z"
+    "fetchedAt": "2026-09-24T02:09:53.639Z"
   },
   {
-    "id": "news-1790130120126-25",
-    "title": "UK-based avatar concert producer Unit1 Studio raises $20M led by Balderton Capital",
-    "summary": "The fundraise lands alongside what Unit1 calls a world first: the transfer of an avatar concert production from one venue to another.\nSource",
+    "id": "news-1790215793639-22",
+    "title": "Operation LUMEN targets 317 music piracy sites reaching 5.4 million visitors across Latin America",
+    "summary": "IFPI says the operation brings together authorities from Peru, Paraguay, Brazil, the Dominican Republic, and Ecuador\nSource",
     "category": "industry-news",
     "source": "Music Business Worldwide",
     "author": "Unknown",
-    "publishedAt": "2026-09-22T11:21:28.000Z",
-    "url": "https://www.musicbusinessworldwide.com/uk-based-avatar-concert-producer-unit1-studio-raises-20m-led-by-balderton-capital/",
+    "publishedAt": "2026-09-23T16:55:04.000Z",
+    "url": "https://www.musicbusinessworldwide.com/operation-lumen-targets-317-music-piracy-sites-reaching-5-4-million-visitors-across-latin-america/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-09-24T02:09:53.639Z"
+  },
+  {
+    "id": "news-1790215793639-6",
+    "title": "Even Americans who use AI every day are worried about it",
+    "summary": "The report suggests that greater exposure will not resolve the unease around the technology, nor reduce public support for AI regulation.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-09-23T16:49:58.000Z",
+    "url": "https://techcrunch.com/2026/09/23/even-americans-who-use-ai-every-day-are-worried-about-it/",
     "imageUrl": null,
     "tags": [
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-09-23T02:22:00.126Z"
+    "fetchedAt": "2026-09-24T02:09:53.639Z"
+  },
+  {
+    "id": "news-1790215793639-7",
+    "title": "YouTube Music gets more conversational with new AI features",
+    "summary": "Built directly into the YouTube Music app, Ask Music lets users describe what they want to hear in everyday language rather than searching for individual songs or artists.",
+    "category": "tech-innovation",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-09-23T15:19:30.000Z",
+    "url": "https://techcrunch.com/2026/09/23/youtube-music-gets-more-conversational-with-new-ai-features/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-09-24T02:09:53.639Z"
+  },
+  {
+    "id": "news-1790215793639-23",
+    "title": "Robert Palmer estate strikes deal with Primary Wave covering publishing and recording catalogs, plus name, image & likeness rights",
+    "summary": "Palmer recorded 14 studio albums and three live albums\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-09-23T15:03:25.000Z",
+    "url": "https://www.musicbusinessworldwide.com/robert-palmer-estate-strikes-deal-with-primary-wave-covering-publishing-and-recording-catalogs-plus-name-image-likeness-rights/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-09-24T02:09:53.639Z"
+  },
+  {
+    "id": "news-1790215793639-24",
+    "title": "YouTube extends exclusive Coachella livestream deal with Goldenvoice through 2030",
+    "summary": "Alphabet-owned platform and festival promoter Goldenvoice have renewed their exclusive livestream and content partnership\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-09-23T14:30:31.000Z",
+    "url": "https://www.musicbusinessworldwide.com/coachella-stays-exclusive-to-youtube-through-2030-as-goldenvoice-renews-livestream-deal/",
+    "imageUrl": null,
+    "tags": [
+      "Partnership"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-09-24T02:09:53.639Z"
+  },
+  {
+    "id": "news-1790215793639-8",
+    "title": "YouTube will let you build your own algorithm with AI",
+    "summary": "YouTube’s new custom feeds let users describe the videos they want to see in their own words, then use Gemini to build a personalized feed around the request.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-09-23T14:30:00.000Z",
+    "url": "https://techcrunch.com/2026/09/23/youtube-will-let-you-build-your-own-algorithm-with-ai/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-09-24T02:09:53.639Z"
   }
 ]
