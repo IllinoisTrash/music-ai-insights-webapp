@@ -1,54 +1,142 @@
 [
   {
-    "id": "news-1790389819109-27",
-    "title": "Interscope’s Nicole Wyskoarko & Common Among Black Music Action Coalition Gala Honorees",
-    "summary": "Presented by Live Nation, the sixth annual fundraiser also celebrated Patti LaBelle and Public Enemy, among others.",
-    "category": "industry-news",
-    "source": "Billboard",
+    "id": "news-1790476037805-0",
+    "title": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India",
+    "summary": "The limited test covers select products and users, with a broader rollout planned for later in October.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
     "author": "Unknown",
-    "publishedAt": "2026-09-26T01:38:45.000Z",
-    "url": "https://www.billboard.com/pro/common-patti-labelle-honored-black-music-action-coalition/",
+    "publishedAt": "2026-09-27T01:30:00.000Z",
+    "url": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/",
     "imageUrl": null,
     "tags": [
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-09-26T02:30:19.109Z"
+    "fetchedAt": "2026-09-27T02:27:17.805Z"
   },
   {
-    "id": "news-1790389819109-28",
-    "title": "Billboard’s Music Industry Events Calendar",
-    "summary": "A complete rundown of the most important events across the music business.",
+    "id": "news-1790476037805-1",
+    "title": "Insurers claim AI is already increasing healthcare costs",
+    "summary": "Blue Cross Blue Shield says hospital use of AI tools led to an additional $942M in healthcare spending over a two-year period.",
+    "category": "tech-innovation",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-09-26T21:02:06.000Z",
+    "url": "https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-09-27T02:27:17.805Z"
+  },
+  {
+    "id": "news-1790476037807-28",
+    "title": "Chuck Varga, GWAR Founding Member, Dies at 68 After Cancer Battle",
+    "summary": "He portrayed the heavy metal band's Sexecutioner character for nearly four decades.",
     "category": "industry-news",
     "source": "Billboard",
     "author": "Unknown",
-    "publishedAt": "2026-09-26T00:33:00.000Z",
-    "url": "https://www.billboard.com/pro/music-industry-events-calendar-festivals-awards-conferences/",
+    "publishedAt": "2026-09-26T19:52:56.000Z",
+    "url": "https://www.billboard.com/music/rock/chuck-varga-death-gwar-founding-member-dies-cancer-battle-1236348335/",
     "imageUrl": null,
     "tags": [],
     "readTime": 1,
-    "fetchedAt": "2026-09-26T02:30:19.109Z"
+    "fetchedAt": "2026-09-27T02:27:17.807Z"
   },
   {
-    "id": "news-1790389819109-29",
-    "title": "Taylor Swift Sets 2026 Single-Day Spotify Record, Thanks to ‘The Life of a Showgirl: The Encore’",
-    "summary": "Swift became the most-streamed female artist in a single day this year on the platform.",
+    "id": "news-1790476037807-29",
+    "title": "Stray Kids Close Latin American Tour in Mexico With Festival STRAYCITY: ‘Did You Miss Us?’",
+    "summary": "The president and first lady of South Korea attended the show on Sept. 25 at GNP Seguros Stadium.",
     "category": "industry-news",
     "source": "Billboard",
     "author": "Unknown",
-    "publishedAt": "2026-09-26T00:04:51.000Z",
-    "url": "https://www.billboard.com/music/pop/taylor-swift-spotify-record-single-day-patient-zero-1236348113/",
+    "publishedAt": "2026-09-26T17:16:28.000Z",
+    "url": "https://www.billboard.com/music/latin/stray-kids-mexico-straycity-show-night-one-review-1236348306/",
     "imageUrl": null,
-    "tags": [
-      "Spotify"
-    ],
+    "tags": [],
     "readTime": 1,
-    "fetchedAt": "2026-09-26T02:30:19.109Z"
+    "fetchedAt": "2026-09-27T02:27:17.807Z"
   },
   {
-    "id": "news-1790389819107-0",
+    "id": "news-1790476037807-30",
+    "title": "Kenny Chesney Welcomes Fans Into ‘Silver Sands Marina’ During Intimate Nashville Show: 5 Best Moments",
+    "summary": "The Country Music Hall of Fame member brought fans into the world of Silver Sands Marina with his show at Nashville's The Pinnacle.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-09-26T16:47:39.000Z",
+    "url": "https://www.billboard.com/lists/kenny-chesney-sands-marina-nashville-show-pinnacle-review/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-09-27T02:27:17.807Z"
+  },
+  {
+    "id": "news-1790476037807-31",
+    "title": "Here’s the Host & Musical Guest for Every ‘Saturday Night Live’ Season Premiere",
+    "summary": "Steve Martin has hosted four season openers, more than anyone else. But who is the most frequent musical guest on a season premiere?",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-09-26T15:32:58.000Z",
+    "url": "https://www.billboard.com/lists/saturday-night-live-host-and-musical-guest-every-season-premiere-episode/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-09-27T02:27:17.807Z"
+  },
+  {
+    "id": "news-1790476037805-2",
+    "title": "I created an interactive digital avatar of myself — and you can talk to it",
+    "summary": "After obtaining an interactive avatar and training it to discuss venture fraud, I have mixed feelings about making AI clones of ourselves. ",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-09-26T14:00:00.000Z",
+    "url": "https://techcrunch.com/2026/09/26/i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-09-27T02:27:17.805Z"
+  },
+  {
+    "id": "news-1790476037807-32",
+    "title": "‘Saturday Night Live U.K.’: Here’s Where to Watch the Season 2 Online",
+    "summary": "For this weekend, SNL U.K. has Amelia Dimoldenberg as host and Rachel Chinouriri as musical guest.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-09-26T12:01:26.000Z",
+    "url": "https://www.billboard.com/culture/product-recommendations/saturday-night-live-uk-season-2-watch-stream-online-1236338739/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-09-27T02:27:17.807Z"
+  },
+  {
+    "id": "news-1790476037805-12",
+    "title": "Meta’s Muse Is Adults-Only. Why Does It Look Like a Kids’ Toy?",
+    "summary": "Meta says Muse is just for adults, though its cuddly, Labubu-like mascot—and upcoming Tamagotchi-style AI device—may be disarming for users of all ages.",
+    "category": "tech-innovation",
+    "source": "Wired AI",
+    "author": "Unknown",
+    "publishedAt": "2026-09-26T10:30:00.000Z",
+    "url": "https://www.wired.com/story/meta-muse-is-adults-only-why-does-it-look-like-a-cute-kids-toy/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-09-27T02:27:17.805Z"
+  },
+  {
+    "id": "news-1790476037805-3",
     "title": "Crusoe abandons $1.25B plan to use Boom turbines at AI data centers",
-    "summary": "Boom Supersonic CEO Blake Scholl said its new stationary power plants were no longer in Crusoe's near-term plans.",
+    "summary": "Boom Supersonic CEO Blake Scholl said the company's new stationary power plants were no longer in Crusoe's near-term plans.",
     "category": "ai-research",
     "source": "TechCrunch AI",
     "author": "Unknown",
@@ -59,54 +147,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-09-26T02:30:19.107Z"
+    "fetchedAt": "2026-09-27T02:27:17.805Z"
   },
   {
-    "id": "news-1790389819109-30",
-    "title": "Sabrina Carpenter & Margaret Qualley Join Fred Astaire Biopic Cast",
-    "summary": "It will be a \"House Tour\" music video reunion in the new Tom Holland-starring film.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-09-25T23:07:23.000Z",
-    "url": "https://www.billboard.com/culture/tv-film/sabrina-carpenter-margaret-qualley-fred-astaire-movie-cast-1236348083/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-09-26T02:30:19.109Z"
-  },
-  {
-    "id": "news-1790389819109-31",
-    "title": "Common Accepts SAG-AFTRA & SoundExchange’s Artist Impact Award: ‘Makes Me Feel Like I’ve Got to Do More’",
-    "summary": "The new award honors an artist whose work crosses creative boundaries.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-09-25T22:57:49.000Z",
-    "url": "https://www.billboard.com/pro/common-honored-sag-aftra-soundexchange-artist-impact-award/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-09-26T02:30:19.109Z"
-  },
-  {
-    "id": "news-1790389819109-32",
-    "title": "‘Gilded Age’ Cast Comes Together for First Holiday Album: Full Track List",
-    "summary": "Noted producer/songwriter Desmond Child helmed the project, which includes many Tony Award-winning performers.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-09-25T22:21:13.000Z",
-    "url": "https://www.billboard.com/music/pop/gilded-age-cast-christmas-album-audra-mcdonald-baranski-1236347953/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-09-26T02:30:19.109Z"
-  },
-  {
-    "id": "news-1790389819107-1",
+    "id": "news-1790476037805-4",
     "title": "Unsecured OpenAI agents posted 53 user images on the internet without the lab’s knowledge",
     "summary": "AI agents operating in OpenAI's research environment posted user images on public image-hosting sites without the lab's knowledge. ",
     "category": "ai-research",
@@ -120,40 +164,10 @@
       "Research"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-09-26T02:30:19.107Z"
+    "fetchedAt": "2026-09-27T02:27:17.805Z"
   },
   {
-    "id": "news-1790389819109-33",
-    "title": "In Canada: Nashville’s Grand Ole Opry to Celebrate 50th Anniversary of Canadian Country Music Association",
-    "summary": "Also up north this week: Riley Green is set to headline the Grey Cup halftime show.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-09-25T21:40:23.000Z",
-    "url": "https://www.billboard.com/pro/grand-ole-opry-celebrate-canadian-country-music-canada-news/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-09-26T02:30:19.109Z"
-  },
-  {
-    "id": "news-1790389819109-34",
-    "title": "Lady Gaga Shouldn’t Get $230K ‘Consolation Prize’ After ‘Mayhem’ Lawsuit, Surf Brand Tells Judge",
-    "summary": "Lost Surfboards tried and failed to sue the pop superstar for infringing its \"Mayhem\" trademark on her chart-topping album.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-09-25T21:08:58.000Z",
-    "url": "https://www.billboard.com/pro/lady-gaga-mayhem-lawsuit-surf-brand-legal-fees/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-09-26T02:30:19.109Z"
-  },
-  {
-    "id": "news-1790389819107-2",
+    "id": "news-1790476037805-5",
     "title": "Anthropic to pay Akamai $11.6 billion over seven years in cloud deal",
     "summary": "Anthropic has committed $11.6 billion over seven years to Akamai's cloud infrastructure, a bet on CPUs that could grow to about $20 billion, and in an unusual arrangement, Akamai is giving Anthropic a potential stake of up to 5% of its stock that grows as Anthropic spends more.",
     "category": "ai-research",
@@ -166,10 +180,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-09-26T02:30:19.107Z"
+    "fetchedAt": "2026-09-27T02:27:17.805Z"
   },
   {
-    "id": "news-1790389819107-3",
+    "id": "news-1790476037805-6",
     "title": "Ahead of US IPO, British AI neocloud Nscale secures $3.36B in convertible financing",
     "summary": "The funding, which comes from Third Point, Nvidia, and others, will  fuel the company's massive AI data center buildout.",
     "category": "ai-research",
@@ -183,10 +197,10 @@
       "Investment"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-09-26T02:30:19.107Z"
+    "fetchedAt": "2026-09-27T02:27:17.805Z"
   },
   {
-    "id": "news-1790389819107-4",
+    "id": "news-1790476037805-7",
     "title": "Meta’s Muse just stole the AI spotlight from OpenAI and Anthropic",
     "summary": "When AI leaders at OpenAI and Anthropic started talking about “pacing the frontier,” maybe someone should have asked: what pace? Now it’s turned into model drop week for both companies as Anthropic rolled out Opus 5.5, followed by OpenAI’s GPT-6 model updates just 90 minutes later. But the company that stole the spotlight was Meta, whose personal AI agent Muse is reportedly outpacing ChatGPT’s early numbers and is he",
     "category": "ai-research",
@@ -199,10 +213,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-09-26T02:30:19.107Z"
+    "fetchedAt": "2026-09-27T02:27:17.805Z"
   },
   {
-    "id": "news-1790389819107-5",
+    "id": "news-1790476037805-8",
     "title": "Astra and Opus just passed Turing’s other test",
     "summary": "Frontier AI models are finishing Alan Turing's World War II codebreaking work. ",
     "category": "ai-research",
@@ -215,10 +229,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-09-26T02:30:19.107Z"
+    "fetchedAt": "2026-09-27T02:27:17.805Z"
   },
   {
-    "id": "news-1790389819108-11",
+    "id": "news-1790476037805-13",
     "title": "Appeals Court Lets the Pentagon Designate Anthropic a Supply-Chain Risk",
     "summary": "The AI lab had argued multiple violations of its rights, but a divided panel of judges sided with the Trump administration.",
     "category": "tech-innovation",
@@ -231,10 +245,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-09-26T02:30:19.109Z"
+    "fetchedAt": "2026-09-27T02:27:17.806Z"
   },
   {
-    "id": "news-1790389819109-18",
+    "id": "news-1790476037806-19",
     "title": "From Warner Music’s leadership shake-up to Suno’s courtroom defiance… it’s MBW’s Weekly Round-Up",
     "summary": "The biggest headlines from the past few days...\n\nSource",
     "category": "industry-news",
@@ -245,10 +259,10 @@
     "imageUrl": null,
     "tags": [],
     "readTime": 1,
-    "fetchedAt": "2026-09-26T02:30:19.109Z"
+    "fetchedAt": "2026-09-27T02:27:17.806Z"
   },
   {
-    "id": "news-1790389819107-6",
+    "id": "news-1790476037805-9",
     "title": "Meta is putting its muscle behind Muse as the AI app takes off",
     "summary": "Muse is topping the app store charts and adding users at a rapid clip, while Meta ramps up the personal AI agent's promotion across its own apps and beyond.",
     "category": "tech-innovation",
@@ -261,10 +275,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-09-26T02:30:19.107Z"
+    "fetchedAt": "2026-09-27T02:27:17.805Z"
   },
   {
-    "id": "news-1790389819107-7",
+    "id": "news-1790476037805-10",
     "title": "Meta’s AI Tamagotchi bet is…working?",
     "summary": "When AI leaders at OpenAI and Anthropic started talking about “pacing the frontier,” maybe someone should have asked: what pace? Now it’s turned into model drop week for both companies as Anthropic rolled out Opus 5.5, followed by OpenAI’s GPT-6 model updates just 90 minutes later. But the company that stole the spotlight was Meta, whose personal AI agent Muse is reportedly outpacing ChatGPT’s early numbers and is he",
     "category": "ai-research",
@@ -277,10 +291,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-09-26T02:30:19.107Z"
+    "fetchedAt": "2026-09-27T02:27:17.805Z"
   },
   {
-    "id": "news-1790389819107-8",
+    "id": "news-1790476037805-11",
     "title": "TechCrunch Disrupt 2026: Ricursive Intelligence’s Anna Goldie and Azalia Mirhoseini on when AI starts designing its own hardware",
     "summary": "At TechCrunch Disrupt 2026, Ricursive Intelligence co-founders Anna Goldie and Azalia Mirhoseini will take the Disrupt Stage to discuss closing the loop between AI and chip development. Save up to $200 on your pass before today ends.",
     "category": "ai-research",
@@ -293,22 +307,6 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-09-26T02:30:19.107Z"
-  },
-  {
-    "id": "news-1790389819109-19",
-    "title": "Josh Remsberg appointed Head of Commercial Partnerships at direct-to-fan platform EVEN",
-    "summary": "Remsberg will run EVEN's commercial relationships across the music business, dealing with labels, distributors, managers, artist teams, and other partners.\nSource",
-    "category": "industry-news",
-    "source": "Music Business Worldwide",
-    "author": "Unknown",
-    "publishedAt": "2026-09-25T14:20:14.000Z",
-    "url": "https://www.musicbusinessworldwide.com/josh-remsberg-appointed-head-of-commercial-partnerships-at-direct-to-fan-platform-even/",
-    "imageUrl": null,
-    "tags": [
-      "Partnership"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-09-26T02:30:19.109Z"
+    "fetchedAt": "2026-09-27T02:27:17.805Z"
   }
 ]
