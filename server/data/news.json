@@ -1,316 +1,324 @@
 [
   {
-    "id": "news-1790562678845-29",
-    "title": "RAYE Goes Vintage As She Performs “I Will Overcome.’ & ‘Where Is My Husband!’ at VMAs",
-    "summary": "The singer-songwriter gave an impressive performance that included a brief interlude from her grandma.",
+    "id": "news-1790651642830-0",
+    "title": "OpenAI reportedly ditches model over safety concerns",
+    "summary": "A top executive at the AI lab told the Wall Street Journal that the model in question had displayed a poor aptitude for following orders.  ",
+    "category": "trends-analysis",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-09-28T23:39:20.000Z",
+    "url": "https://techcrunch.com/2026/09/28/openai-reportedly-ditches-model-over-safety-concerns/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-09-29T03:14:02.830Z"
+  },
+  {
+    "id": "news-1790651642831-27",
+    "title": "Bruno Mars Has Playful Response to Seeing Drake Dancing With His ‘Latina Crush’ Karol G: ‘I Will Get Her Back’",
+    "summary": "Drizzy made a surprise appearance at Karol G's Houston concert on Sunday. ",
     "category": "industry-news",
     "source": "Billboard",
     "author": "Unknown",
-    "publishedAt": "2026-09-28T02:05:11.000Z",
-    "url": "https://www.billboard.com/music/awards/raye-where-is-my-husband-vmas-performance-1236348651/",
+    "publishedAt": "2026-09-28T23:25:35.000Z",
+    "url": "https://www.billboard.com/music/pop/bruno-mars-responds-drake-karol-g-houston-show-1236349374/",
     "imageUrl": null,
     "tags": [],
     "readTime": 1,
-    "fetchedAt": "2026-09-28T02:31:18.846Z"
+    "fetchedAt": "2026-09-29T03:14:02.831Z"
   },
   {
-    "id": "news-1790562678846-30",
-    "title": "Madonna Recalls Being Told Her ‘Career Was Over’ at First VMAs While Winning Artist of the Year in 2026",
-    "summary": "\"I want you to know I spent the last year and a half finding myself,\" the superstar said during her speech.",
+    "id": "news-1790651642831-28",
+    "title": "Billboard’s Music Industry Events Calendar",
+    "summary": "A complete rundown of the most important events across the music business.",
     "category": "industry-news",
     "source": "Billboard",
     "author": "Unknown",
-    "publishedAt": "2026-09-28T01:55:20.000Z",
-    "url": "https://www.billboard.com/music/awards/madonna-wins-artist-of-the-year-vmas-2026-1236348734/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-09-28T02:31:18.846Z"
-  },
-  {
-    "id": "news-1790562678846-31",
-    "title": "Taylor Swift Receives Artist Director Honors at 2026 MTV VMAs: Here’s Her Speech",
-    "summary": "Swift accepted the honor at the VMAs just before premiering her latest project as a director, the music video for \"Patient Zero.\"",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-09-28T01:45:35.000Z",
-    "url": "https://www.billboard.com/music/awards/taylor-swift-vmas-speech-artist-director-honors-award-2026-1236348631/",
+    "publishedAt": "2026-09-28T23:22:00.000Z",
+    "url": "https://www.billboard.com/pro/music-industry-events-calendar-festivals-awards-conferences/",
     "imageUrl": null,
     "tags": [],
     "readTime": 1,
-    "fetchedAt": "2026-09-28T02:31:18.846Z"
+    "fetchedAt": "2026-09-29T03:14:02.831Z"
   },
   {
-    "id": "news-1790562678846-32",
-    "title": "Shaboozey Brings a Cocktail of Country, Hip-Hop to VMAs With ‘Cowgirl’ & ‘High Noon’ Featuring Gunna",
-    "summary": "The tracks are from 'Boozey's latest album, The Outlaw Cherie Lee & Other Western Tales.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-09-28T01:40:05.000Z",
-    "url": "https://www.billboard.com/music/awards/shaboozey-gunna-high-noon-cowgirl-performance-vmas-1236348693/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-09-28T02:31:18.846Z"
-  },
-  {
-    "id": "news-1790562678846-33",
-    "title": "Nirvana Accepts MTV Video Vanguard Award: Krist Novoselic Says Band Still Resonates ‘Because People Are Still Hungry for Authenticity’",
-    "summary": "The band was presented the award by rap legend Chuck D, with the bassist giving the trio's acceptance speech. ",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-09-28T01:20:15.000Z",
-    "url": "https://www.billboard.com/music/awards/nirvana-wins-vmas-video-vanguard-award-2026-1236348713/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-09-28T02:31:18.846Z"
-  },
-  {
-    "id": "news-1790562678843-0",
-    "title": "Can Muse overcome Meta’s trust issues?",
-    "summary": "On Equity, we discussed how Meta's AI announcement managed to steal the spotlight from OpenAI and Anthropic.",
+    "id": "news-1790651642830-1",
+    "title": "Source: Inference provider Modal Labs closing in on $750M round at $15.75B valuation",
+    "summary": "The new financing is expected to more than triples the AI infrastructure startup's valuation from just four months ago.",
     "category": "ai-research",
     "source": "TechCrunch AI",
     "author": "Unknown",
-    "publishedAt": "2026-09-27T19:57:30.000Z",
-    "url": "https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-09-28T02:31:18.843Z"
-  },
-  {
-    "id": "news-1790562678843-1",
-    "title": "Anthropic’s Dario Amodei gets the SNL treatment",
-    "summary": "\"AI is the devil and I its maker.\"",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-09-27T16:30:00.000Z",
-    "url": "https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-09-28T02:31:18.843Z"
-  },
-  {
-    "id": "news-1790562678843-2",
-    "title": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India",
-    "summary": "The limited test covers select products and users, with a broader rollout planned for later in October.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-09-27T01:30:00.000Z",
-    "url": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-09-28T02:31:18.843Z"
-  },
-  {
-    "id": "news-1790562678843-3",
-    "title": "Insurers claim AI is already increasing healthcare costs",
-    "summary": "Blue Cross Blue Shield says hospital use of AI tools led to an additional $942M in healthcare spending over a two-year period.",
-    "category": "tech-innovation",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-09-26T21:02:06.000Z",
-    "url": "https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-09-28T02:31:18.843Z"
-  },
-  {
-    "id": "news-1790562678843-4",
-    "title": "I created an interactive digital avatar of myself — and you can talk to it",
-    "summary": "After obtaining an interactive avatar and training it to discuss venture fraud, I have mixed feelings about making AI clones of ourselves. ",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-09-26T14:00:00.000Z",
-    "url": "https://techcrunch.com/2026/09/26/i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-09-28T02:31:18.843Z"
-  },
-  {
-    "id": "news-1790562678844-13",
-    "title": "Meta’s Muse Is Adults-Only. Why Does It Look Like a Kids’ Toy?",
-    "summary": "Meta says Muse is just for adults, though its cuddly, Labubu-like mascot—and upcoming Tamagotchi-style AI device—may be disarming for users of all ages.",
-    "category": "tech-innovation",
-    "source": "Wired AI",
-    "author": "Unknown",
-    "publishedAt": "2026-09-26T10:30:00.000Z",
-    "url": "https://www.wired.com/story/meta-muse-is-adults-only-why-does-it-look-like-a-cute-kids-toy/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-09-28T02:31:18.844Z"
-  },
-  {
-    "id": "news-1790562678843-5",
-    "title": "Crusoe abandons $1.25B plan to use Boom turbines at AI data centers",
-    "summary": "Boom Supersonic CEO Blake Scholl said the company's new stationary power plants were no longer in Crusoe's near-term plans.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-09-25T23:11:10.000Z",
-    "url": "https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-09-28T02:31:18.844Z"
-  },
-  {
-    "id": "news-1790562678844-6",
-    "title": "Unsecured OpenAI agents posted 53 user images on the internet without the lab’s knowledge",
-    "summary": "AI agents operating in OpenAI's research environment posted user images on public image-hosting sites without the lab's knowledge. ",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-09-25T22:20:47.000Z",
-    "url": "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/",
+    "publishedAt": "2026-09-28T21:29:18.000Z",
+    "url": "https://techcrunch.com/2026/09/28/source-inference-provider-modal-labs-closing-in-on-750m-round-at-15-75b-valuation/",
     "imageUrl": null,
     "tags": [
       "AI",
-      "Research"
+      "Startup"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-09-28T02:31:18.844Z"
+    "fetchedAt": "2026-09-29T03:14:02.830Z"
   },
   {
-    "id": "news-1790562678844-7",
-    "title": "Anthropic to pay Akamai $11.6 billion over seven years in cloud deal",
-    "summary": "Anthropic has committed $11.6 billion over seven years to Akamai's cloud infrastructure, a bet on CPUs that could grow to about $20 billion, and in an unusual arrangement, Akamai is giving Anthropic a potential stake of up to 5% of its stock that grows as Anthropic spends more.",
+    "id": "news-1790651642830-2",
+    "title": "Shopify opens checkout to browser-based AI agents",
+    "summary": "Shopify is expanding WebMCP support to checkout, allowing browser-based AI agents to update order details and complete purchases with a buyer’s authorization.",
     "category": "ai-research",
     "source": "TechCrunch AI",
     "author": "Unknown",
-    "publishedAt": "2026-09-25T19:13:38.000Z",
-    "url": "https://techcrunch.com/2026/09/25/anthropic-to-pay-akamai-11-6-billion-over-seven-years-in-cloud-deal/",
+    "publishedAt": "2026-09-28T19:33:57.000Z",
+    "url": "https://techcrunch.com/2026/09/28/shopify-opens-checkout-to-browser-based-ai-agents/",
     "imageUrl": null,
     "tags": [
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-09-28T02:31:18.844Z"
+    "fetchedAt": "2026-09-29T03:14:02.830Z"
   },
   {
-    "id": "news-1790562678844-8",
-    "title": "Ahead of US IPO, British AI neocloud Nscale secures $3.36B in convertible financing",
-    "summary": "The funding, which comes from Third Point, Nvidia, and others, will  fuel the company's massive AI data center buildout.",
+    "id": "news-1790651642830-3",
+    "title": "The AI boom took over Climate Week and not everyone is happy about it",
+    "summary": "Just like the rest of the U.S., data centers and AI are dividing climate tech founders and investors. ",
     "category": "ai-research",
     "source": "TechCrunch AI",
     "author": "Unknown",
-    "publishedAt": "2026-09-25T18:33:59.000Z",
-    "url": "https://techcrunch.com/2026/09/25/ahead-of-u-s-ipo-british-ai-neocloud-nscale-secures-3-36b-in-convertible-finacing/",
+    "publishedAt": "2026-09-28T19:21:59.000Z",
+    "url": "https://techcrunch.com/2026/09/28/the-ai-boom-took-over-climate-week-and-not-everyone-is-happy-about-it/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-09-29T03:14:02.830Z"
+  },
+  {
+    "id": "news-1790651642830-21",
+    "title": "Universal Music Group appoints Òscar Celma, who helped lead development of Spotify’s AI DJ, as SVP of Applied AI and Machine Learning",
+    "summary": "Celma will report to Hannah Poferl, UMG's Chief Data Officer\nSource",
+    "category": "ai-research",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-09-28T18:37:29.000Z",
+    "url": "https://www.musicbusinessworldwide.com/universal-music-group-appoints-oscar-celma-who-helped-lead-development-of-spotifys-ai-dj-as-svp-of-applied-ai-and-machine-learning/",
+    "imageUrl": null,
+    "tags": [
+      "Spotify",
+      "AI",
+      "Machine Learning"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-09-29T03:14:02.830Z"
+  },
+  {
+    "id": "news-1790651642830-4",
+    "title": "Nvidia launches new platform for reining in rogue AI agents",
+    "summary": "Nvidia CEO Jensen Huang on Monday introduced a toolkit of software and hardware products that add independent security layers around AI agents to ensure they stay within their test environments even if they attempt to break out.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-09-28T18:31:23.000Z",
+    "url": "https://techcrunch.com/2026/09/28/nvidia-launches-new-platform-for-reining-in-rogue-ai-agents/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-09-29T03:14:02.830Z"
+  },
+  {
+    "id": "news-1790651642830-5",
+    "title": "Google is killing off Gemini’s Gems in favor of ‘skills’",
+    "summary": "As all-in-one AI agents like Meta's Muse and Instinct take off, Google is opting to end a feature that built task-specific agents.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-09-28T17:29:50.000Z",
+    "url": "https://techcrunch.com/2026/09/28/google-is-killing-off-geminis-gems-in-favor-of-skills/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-09-29T03:14:02.830Z"
+  },
+  {
+    "id": "news-1790651642830-6",
+    "title": "OpenAI still doesn’t seem to have a handle on all of its rogue AI activity",
+    "summary": "On Friday, OpenAI published a new site devoted to “misalignment reports” and the breadth of the incidents is alarming.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-09-28T17:09:02.000Z",
+    "url": "https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-09-29T03:14:02.830Z"
+  },
+  {
+    "id": "news-1790651642830-7",
+    "title": "Meta launches enterprise AI platform, hires MongoDB CEO to lead new initiative",
+    "summary": "Meta says it will focus on bringing its full technology stack, including Muse, Meta Business Agent, Muse API, Muse Code, and more to businesses and developers. ",
+    "category": "tech-innovation",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-09-28T16:52:38.000Z",
+    "url": "https://techcrunch.com/2026/09/28/meta-launches-enterprise-ai-platform-hires-mongodb-ceo-to-lead-new-initiative/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-09-29T03:14:02.830Z"
+  },
+  {
+    "id": "news-1790651642830-8",
+    "title": "Anthropic, Gamma, and Clay share what happens when enterprises actually deploy AI at TechCrunch Disrupt 2026",
+    "summary": "Anthropic, Clay, and Gamma on what it takes for an AI product to go beyond the demo at the AI Stage at TechCrunchDisrupt 2026. Register to join and get 50% off a second pass.",
+    "category": "tech-innovation",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-09-28T15:30:00.000Z",
+    "url": "https://techcrunch.com/2026/09/28/anthropic-gamma-and-clay-share-what-happens-when-enterprises-actually-deploy-ai-at-techcrunch-disrupt-2026/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-09-29T03:14:02.830Z"
+  },
+  {
+    "id": "news-1790651642831-22",
+    "title": "Sonny Takhar named Chairman and CEO of Warner Music UK & Ireland",
+    "summary": "Takhar will report to Val Blavatnik, who was confirmed last week in his new position as Managing Director of Warner Music North America, UK & Corporate Development\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-09-28T15:00:12.000Z",
+    "url": "https://www.musicbusinessworldwide.com/sonny-takhar-named-chairman-and-ceo-of-warner-music-uk-ireland/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-09-29T03:14:02.831Z"
+  },
+  {
+    "id": "news-1790651642830-9",
+    "title": "After a deepfake voice fooled her grandfather, this founder sprang into action",
+    "summary": "After her grandfather was scammed by a deepfake of his brother's voice, Tarini Padmanabhuni founded DetectifAI, a San Francisco startup building AI models small enough to run directly on smartphones and flag fake voices in real time, and it's now one of the companies competing in Startup Battlefield at TechCrunch Disrupt.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-09-28T15:00:00.000Z",
+    "url": "https://techcrunch.com/2026/09/28/after-a-deepfake-voice-fooled-her-grandfather-this-founder-sprang-into-action/",
+    "imageUrl": null,
+    "tags": [
+      "AI",
+      "Startup"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-09-29T03:14:02.830Z"
+  },
+  {
+    "id": "news-1790651642830-10",
+    "title": "Insurtech Outmarket raises $34.5M just months after prior round",
+    "summary": "The startup uses AI to automate tedious paperwork for insurance agencies and brokers.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-09-28T14:00:00.000Z",
+    "url": "https://techcrunch.com/2026/09/28/insuretech-outmarket-raises-34-5m-just-months-after-prior-round/",
+    "imageUrl": null,
+    "tags": [
+      "AI",
+      "Startup"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-09-29T03:14:02.830Z"
+  },
+  {
+    "id": "news-1790651642830-11",
+    "title": "Viral AI agent Instinct raises $1B Series C at a $10B valuation",
+    "summary": "\"This funding helps us bring Instinct to more people and continue building the future of personal AI. It’s an exciting, creative time, and we're just getting started,\" founder Noah Shinn said in a statement.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-09-28T13:38:48.000Z",
+    "url": "https://techcrunch.com/2026/09/28/viral-ai-agent-instinct-raises-1b-series-c-at-a-10b-valuation/",
     "imageUrl": null,
     "tags": [
       "AI",
       "Investment"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-09-28T02:31:18.844Z"
+    "fetchedAt": "2026-09-29T03:14:02.830Z"
   },
   {
-    "id": "news-1790562678844-9",
-    "title": "Meta’s Muse just stole the AI spotlight from OpenAI and Anthropic",
-    "summary": "When AI leaders at OpenAI and Anthropic started talking about “pacing the frontier,” maybe someone should have asked: what pace? Now it’s turned into model drop week for both companies as Anthropic rolled out Opus 5.5, followed by OpenAI’s GPT-6 model updates just 90 minutes later. But the company that stole the spotlight was Meta, whose personal AI agent Muse is reportedly outpacing ChatGPT’s early numbers and is he",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-09-25T18:22:47.000Z",
-    "url": "https://techcrunch.com/podcast/metas-muse-just-stole-the-ai-spotlight-from-openai-and-anthropic/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-09-28T02:31:18.844Z"
-  },
-  {
-    "id": "news-1790562678844-10",
-    "title": "Astra and Opus just passed Turing’s other test",
-    "summary": "Frontier AI models are finishing Alan Turing's World War II codebreaking work. ",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-09-25T17:24:36.000Z",
-    "url": "https://techcrunch.com/2026/09/25/astra-and-opus-just-passed-turings-other-test/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-09-28T02:31:18.844Z"
-  },
-  {
-    "id": "news-1790562678844-14",
-    "title": "Appeals Court Lets the Pentagon Designate Anthropic a Supply-Chain Risk",
-    "summary": "The AI lab had argued multiple violations of its rights, but a divided panel of judges sided with the Trump administration.",
+    "id": "news-1790651642830-13",
+    "title": "OpenAI Pauses Training Its Most Powerful Models After Rogue Agents Target Government",
+    "summary": "Sam Altman says the company “have not been as fast as we would have liked” at dealing with security breaches, after news of further incidents over the summer forces another temporary halt.",
     "category": "tech-innovation",
     "source": "Wired AI",
     "author": "Unknown",
-    "publishedAt": "2026-09-25T16:58:20.000Z",
-    "url": "https://www.wired.com/story/appeals-court-lets-the-pentagon-designate-anthropic-a-supply-chain-risk/",
+    "publishedAt": "2026-09-28T11:32:19.000Z",
+    "url": "https://www.wired.com/story/openai-pauses-training-most-powerful-models-after-rogue-agents-target-government/",
     "imageUrl": null,
     "tags": [
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-09-28T02:31:18.844Z"
+    "fetchedAt": "2026-09-29T03:14:02.830Z"
   },
   {
-    "id": "news-1790562678844-20",
-    "title": "From Warner Music’s leadership shake-up to Suno’s courtroom defiance… it’s MBW’s Weekly Round-Up",
-    "summary": "The biggest headlines from the past few days...\n\nSource",
+    "id": "news-1790651642831-23",
+    "title": "Qobuz starts tagging AI-generated music in its app – and says 60% of streams on AI tracks are fraudulent",
+    "summary": "The tag appears at release level, flagging albums that include content Qobuz has identified as AI-generated.\nSource",
     "category": "industry-news",
     "source": "Music Business Worldwide",
     "author": "Unknown",
-    "publishedAt": "2026-09-25T16:18:29.000Z",
-    "url": "https://www.musicbusinessworldwide.com/from-warner-musics-leadership-shake-up-to-sunos-courtroom-defiance-its-mbws-weekly-round-up/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-09-28T02:31:18.844Z"
-  },
-  {
-    "id": "news-1790562678844-11",
-    "title": "Meta is putting its muscle behind Muse as the AI app takes off",
-    "summary": "Muse is topping the app store charts and adding users at a rapid clip, while Meta ramps up the personal AI agent's promotion across its own apps and beyond.",
-    "category": "tech-innovation",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-09-25T16:16:52.000Z",
-    "url": "https://techcrunch.com/2026/09/25/meta-is-putting-its-muscle-behind-muse-as-the-ai-app-takes-off/",
+    "publishedAt": "2026-09-28T10:54:34.000Z",
+    "url": "https://www.musicbusinessworldwide.com/qobuz-starts-tagging-ai-generated-music-in-its-app-and-says-60-of-streams-on-ai-tracks-are-fraudulent/",
     "imageUrl": null,
     "tags": [
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-09-28T02:31:18.844Z"
+    "fetchedAt": "2026-09-29T03:14:02.831Z"
+  },
+  {
+    "id": "news-1790651642831-24",
+    "title": "Jermaine Dupri and Jacquees sued by 1990s duo Home Team, who claim 2023 single ‘Pick It Up’ copies their 1992 song of the same name",
+    "summary": "The duo Home Team claim the 2023 track copies the lyrics and melody of their own \"Pick It Up,\" released on or around July 3, 1992.\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-09-28T10:54:16.000Z",
+    "url": "https://www.musicbusinessworldwide.com/jermaine-dupri-and-jacquees-sued-by-1990s-duo-home-team-who-claim-2023-single-pick-it-up-copies-their-1992-song-of-the-same-name/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-09-29T03:14:02.831Z"
+  },
+  {
+    "id": "news-1790651642831-25",
+    "title": "Musixmatch: ‘Lyrics are becoming the LLM of the music industry’",
+    "summary": "Max Ciociola turned Musixmatch into the world’s largest lyrics company. Now, with backing from TPG – and having struck a deal with Suno for a copyright-detection tool called Sentinel – it’s on a path to becoming something much bigger…\nSource",
+    "category": "ai-research",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-09-28T10:41:20.000Z",
+    "url": "https://www.musicbusinessworldwide.com/musixmatch-lyrics-are-becoming-the-llm-of-the-music-industry/",
+    "imageUrl": null,
+    "tags": [
+      "Copyright"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-09-29T03:14:02.831Z"
   }
 ]
