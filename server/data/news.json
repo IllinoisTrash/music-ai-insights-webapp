@@ -1,324 +1,312 @@
 [
   {
-    "id": "news-1790651642830-0",
-    "title": "OpenAI reportedly ditches model over safety concerns",
-    "summary": "A top executive at the AI lab told the Wall Street Journal that the model in question had displayed a poor aptitude for following orders.  ",
+    "id": "news-1790736982471-30",
+    "title": "Becca Hatch, Lewis Love Tapped For Spotify’s RADAR Program",
+    "summary": "Hatch and Love are the latest acts from Australia and New Zealand to secure support from Spotify’s global emerging artist program.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-09-30T02:50:01.000Z",
+    "url": "https://www.billboard.com/music/music-news/becca-hatch-lewis-love-spotify-radar-program-anz-1236350584/",
+    "imageUrl": null,
+    "tags": [
+      "Spotify"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-09-30T02:56:22.471Z"
+  },
+  {
+    "id": "news-1790736982471-31",
+    "title": "Troye Sivan Says He’s ‘Happiest’ in the ‘Orbit of a Woman’: ‘I’m So Comfortable in That World’",
+    "summary": "The pop star opened up about the women who have shaped his life and music while celebrating his new single \"Party\" with Zane Lowe.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-09-30T01:45:14.000Z",
+    "url": "https://www.billboard.com/music/pop/troye-sivan-says-hes-happiest-in-the-orbit-of-a-woman-1236350550/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-09-30T02:56:22.471Z"
+  },
+  {
+    "id": "news-1790736982471-32",
+    "title": "The Best Halloween Costume Ideas Inspired by 2026’s Biggest Music & Pop Culture Moments",
+    "summary": "Bad Bunny’s Super Bowl shrubs & Pitbull’s signature bald head are just a few of the looks worth re-creating this spooky season.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-09-30T01:30:09.000Z",
+    "url": "https://www.billboard.com/culture/product-recommendations/best-celebrity-pop-culture-halloween-costume-ideas-2026-1236350415/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-09-30T02:56:22.471Z"
+  },
+  {
+    "id": "news-1790736982471-33",
+    "title": "Tyla, Slayyyter, Troye Sivan & More Share Which Music Videos They Would Want to Be In | VMAs 2026",
+    "summary": "Tyla, Slayyyter, Troye Sivan and more share which music videos they would want to be a part of on the VMAs 2026 red carpet. Tetris Kelly  If you could go back and be in any music video, what would it be?  Fuerza Regida  “BYOB” by System of Down.  Tetris Kelly  What? Not System of a […]",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-09-29T22:40:45.000Z",
+    "url": "https://www.billboard.com/video/which-music-videos-would-want-to-be-in-vmas-2026/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-09-30T02:56:22.471Z"
+  },
+  {
+    "id": "news-1790736982471-34",
+    "title": "‘We’re Parting Ways’: Monsieur Periné Announce Indefinite Hiatus After Nearly 2 Decades Together",
+    "summary": "\"May time, the great counselor, give us the breath to keep dreaming,\" the Colombian band writes on social media.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-09-29T22:30:04.000Z",
+    "url": "https://www.billboard.com/music/latin/monsieur-perine-hiatus-message-1236350437/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-09-30T02:56:22.471Z"
+  },
+  {
+    "id": "news-1790736982469-0",
+    "title": "The internet is convinced Elon Musk’s xAI trolled OpenAI’s ‘Dots’ launch",
+    "summary": "Before OpenAI launched its new AI agent, Dots, on Tuesday, Elon Musk's xAI had already acquired the domain name \"dot.com,\" which now redirects to the Grok chatbot download page.",
+    "category": "tech-innovation",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-09-29T22:20:59.000Z",
+    "url": "https://techcrunch.com/2026/09/29/the-internet-is-convinced-elon-musks-xai-trolled-openais-dots-launch/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-09-30T02:56:22.470Z"
+  },
+  {
+    "id": "news-1790736982470-1",
+    "title": "OpenAI’s latest features take direct aim at the app store model",
+    "summary": "OpenAI is building out the pieces of an alternative to the traditional app store model, turning ChatGPT into a place where software can be discovered and used by people and AI agents alike.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-09-29T20:15:47.000Z",
+    "url": "https://techcrunch.com/2026/09/29/openais-latest-features-take-direct-aim-at-the-app-store-model/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-09-30T02:56:22.470Z"
+  },
+  {
+    "id": "news-1790736982470-2",
+    "title": "OpenAI reportedly in talks to raise $30B round at $1.4T valuation",
+    "summary": "The new round is anticipated to be the company's last before its delayed 2027 public debut.",
     "category": "trends-analysis",
     "source": "TechCrunch AI",
     "author": "Unknown",
-    "publishedAt": "2026-09-28T23:39:20.000Z",
-    "url": "https://techcrunch.com/2026/09/28/openai-reportedly-ditches-model-over-safety-concerns/",
+    "publishedAt": "2026-09-29T19:52:37.000Z",
+    "url": "https://techcrunch.com/2026/09/29/openai-reportedly-in-talks-to-raise-30b-round-at-1-4t-valuation/",
     "imageUrl": null,
     "tags": [
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-09-29T03:14:02.830Z"
+    "fetchedAt": "2026-09-30T02:56:22.470Z"
   },
   {
-    "id": "news-1790651642831-27",
-    "title": "Bruno Mars Has Playful Response to Seeing Drake Dancing With His ‘Latina Crush’ Karol G: ‘I Will Get Her Back’",
-    "summary": "Drizzy made a surprise appearance at Karol G's Houston concert on Sunday. ",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-09-28T23:25:35.000Z",
-    "url": "https://www.billboard.com/music/pop/bruno-mars-responds-drake-karol-g-houston-show-1236349374/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-09-29T03:14:02.831Z"
-  },
-  {
-    "id": "news-1790651642831-28",
-    "title": "Billboard’s Music Industry Events Calendar",
-    "summary": "A complete rundown of the most important events across the music business.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-09-28T23:22:00.000Z",
-    "url": "https://www.billboard.com/pro/music-industry-events-calendar-festivals-awards-conferences/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-09-29T03:14:02.831Z"
-  },
-  {
-    "id": "news-1790651642830-1",
-    "title": "Source: Inference provider Modal Labs closing in on $750M round at $15.75B valuation",
-    "summary": "The new financing is expected to more than triples the AI infrastructure startup's valuation from just four months ago.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-09-28T21:29:18.000Z",
-    "url": "https://techcrunch.com/2026/09/28/source-inference-provider-modal-labs-closing-in-on-750m-round-at-15-75b-valuation/",
-    "imageUrl": null,
-    "tags": [
-      "AI",
-      "Startup"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-09-29T03:14:02.830Z"
-  },
-  {
-    "id": "news-1790651642830-2",
-    "title": "Shopify opens checkout to browser-based AI agents",
-    "summary": "Shopify is expanding WebMCP support to checkout, allowing browser-based AI agents to update order details and complete purchases with a buyer’s authorization.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-09-28T19:33:57.000Z",
-    "url": "https://techcrunch.com/2026/09/28/shopify-opens-checkout-to-browser-based-ai-agents/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-09-29T03:14:02.830Z"
-  },
-  {
-    "id": "news-1790651642830-3",
-    "title": "The AI boom took over Climate Week and not everyone is happy about it",
-    "summary": "Just like the rest of the U.S., data centers and AI are dividing climate tech founders and investors. ",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-09-28T19:21:59.000Z",
-    "url": "https://techcrunch.com/2026/09/28/the-ai-boom-took-over-climate-week-and-not-everyone-is-happy-about-it/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-09-29T03:14:02.830Z"
-  },
-  {
-    "id": "news-1790651642830-21",
-    "title": "Universal Music Group appoints Òscar Celma, who helped lead development of Spotify’s AI DJ, as SVP of Applied AI and Machine Learning",
-    "summary": "Celma will report to Hannah Poferl, UMG's Chief Data Officer\nSource",
-    "category": "ai-research",
-    "source": "Music Business Worldwide",
-    "author": "Unknown",
-    "publishedAt": "2026-09-28T18:37:29.000Z",
-    "url": "https://www.musicbusinessworldwide.com/universal-music-group-appoints-oscar-celma-who-helped-lead-development-of-spotifys-ai-dj-as-svp-of-applied-ai-and-machine-learning/",
-    "imageUrl": null,
-    "tags": [
-      "Spotify",
-      "AI",
-      "Machine Learning"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-09-29T03:14:02.830Z"
-  },
-  {
-    "id": "news-1790651642830-4",
-    "title": "Nvidia launches new platform for reining in rogue AI agents",
-    "summary": "Nvidia CEO Jensen Huang on Monday introduced a toolkit of software and hardware products that add independent security layers around AI agents to ensure they stay within their test environments even if they attempt to break out.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-09-28T18:31:23.000Z",
-    "url": "https://techcrunch.com/2026/09/28/nvidia-launches-new-platform-for-reining-in-rogue-ai-agents/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-09-29T03:14:02.830Z"
-  },
-  {
-    "id": "news-1790651642830-5",
-    "title": "Google is killing off Gemini’s Gems in favor of ‘skills’",
-    "summary": "As all-in-one AI agents like Meta's Muse and Instinct take off, Google is opting to end a feature that built task-specific agents.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-09-28T17:29:50.000Z",
-    "url": "https://techcrunch.com/2026/09/28/google-is-killing-off-geminis-gems-in-favor-of-skills/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-09-29T03:14:02.830Z"
-  },
-  {
-    "id": "news-1790651642830-6",
-    "title": "OpenAI still doesn’t seem to have a handle on all of its rogue AI activity",
-    "summary": "On Friday, OpenAI published a new site devoted to “misalignment reports” and the breadth of the incidents is alarming.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-09-28T17:09:02.000Z",
-    "url": "https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-09-29T03:14:02.830Z"
-  },
-  {
-    "id": "news-1790651642830-7",
-    "title": "Meta launches enterprise AI platform, hires MongoDB CEO to lead new initiative",
-    "summary": "Meta says it will focus on bringing its full technology stack, including Muse, Meta Business Agent, Muse API, Muse Code, and more to businesses and developers. ",
-    "category": "tech-innovation",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-09-28T16:52:38.000Z",
-    "url": "https://techcrunch.com/2026/09/28/meta-launches-enterprise-ai-platform-hires-mongodb-ceo-to-lead-new-initiative/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-09-29T03:14:02.830Z"
-  },
-  {
-    "id": "news-1790651642830-8",
-    "title": "Anthropic, Gamma, and Clay share what happens when enterprises actually deploy AI at TechCrunch Disrupt 2026",
-    "summary": "Anthropic, Clay, and Gamma on what it takes for an AI product to go beyond the demo at the AI Stage at TechCrunchDisrupt 2026. Register to join and get 50% off a second pass.",
-    "category": "tech-innovation",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-09-28T15:30:00.000Z",
-    "url": "https://techcrunch.com/2026/09/28/anthropic-gamma-and-clay-share-what-happens-when-enterprises-actually-deploy-ai-at-techcrunch-disrupt-2026/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-09-29T03:14:02.830Z"
-  },
-  {
-    "id": "news-1790651642831-22",
-    "title": "Sonny Takhar named Chairman and CEO of Warner Music UK & Ireland",
-    "summary": "Takhar will report to Val Blavatnik, who was confirmed last week in his new position as Managing Director of Warner Music North America, UK & Corporate Development\nSource",
-    "category": "industry-news",
-    "source": "Music Business Worldwide",
-    "author": "Unknown",
-    "publishedAt": "2026-09-28T15:00:12.000Z",
-    "url": "https://www.musicbusinessworldwide.com/sonny-takhar-named-chairman-and-ceo-of-warner-music-uk-ireland/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-09-29T03:14:02.831Z"
-  },
-  {
-    "id": "news-1790651642830-9",
-    "title": "After a deepfake voice fooled her grandfather, this founder sprang into action",
-    "summary": "After her grandfather was scammed by a deepfake of his brother's voice, Tarini Padmanabhuni founded DetectifAI, a San Francisco startup building AI models small enough to run directly on smartphones and flag fake voices in real time, and it's now one of the companies competing in Startup Battlefield at TechCrunch Disrupt.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-09-28T15:00:00.000Z",
-    "url": "https://techcrunch.com/2026/09/28/after-a-deepfake-voice-fooled-her-grandfather-this-founder-sprang-into-action/",
-    "imageUrl": null,
-    "tags": [
-      "AI",
-      "Startup"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-09-29T03:14:02.830Z"
-  },
-  {
-    "id": "news-1790651642830-10",
-    "title": "Insurtech Outmarket raises $34.5M just months after prior round",
-    "summary": "The startup uses AI to automate tedious paperwork for insurance agencies and brokers.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-09-28T14:00:00.000Z",
-    "url": "https://techcrunch.com/2026/09/28/insuretech-outmarket-raises-34-5m-just-months-after-prior-round/",
-    "imageUrl": null,
-    "tags": [
-      "AI",
-      "Startup"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-09-29T03:14:02.830Z"
-  },
-  {
-    "id": "news-1790651642830-11",
-    "title": "Viral AI agent Instinct raises $1B Series C at a $10B valuation",
-    "summary": "\"This funding helps us bring Instinct to more people and continue building the future of personal AI. It’s an exciting, creative time, and we're just getting started,\" founder Noah Shinn said in a statement.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-09-28T13:38:48.000Z",
-    "url": "https://techcrunch.com/2026/09/28/viral-ai-agent-instinct-raises-1b-series-c-at-a-10b-valuation/",
-    "imageUrl": null,
-    "tags": [
-      "AI",
-      "Investment"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-09-29T03:14:02.830Z"
-  },
-  {
-    "id": "news-1790651642830-13",
-    "title": "OpenAI Pauses Training Its Most Powerful Models After Rogue Agents Target Government",
-    "summary": "Sam Altman says the company “have not been as fast as we would have liked” at dealing with security breaches, after news of further incidents over the summer forces another temporary halt.",
+    "id": "news-1790736982470-16",
+    "title": "OpenAI Gets Sued Over the Hugging Face Hack",
+    "summary": "A nonprofit in California is doing what Hugging Face has not—attempting to hold OpenAI legally accountable for the actions of its agents.",
     "category": "tech-innovation",
     "source": "Wired AI",
     "author": "Unknown",
-    "publishedAt": "2026-09-28T11:32:19.000Z",
-    "url": "https://www.wired.com/story/openai-pauses-training-most-powerful-models-after-rogue-agents-target-government/",
+    "publishedAt": "2026-09-29T19:05:00.000Z",
+    "url": "https://www.wired.com/story/openai-sued-over-the-hugging-face-hack/",
     "imageUrl": null,
     "tags": [
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-09-29T03:14:02.830Z"
+    "fetchedAt": "2026-09-30T02:56:22.470Z"
   },
   {
-    "id": "news-1790651642831-23",
-    "title": "Qobuz starts tagging AI-generated music in its app – and says 60% of streams on AI tracks are fraudulent",
-    "summary": "The tag appears at release level, flagging albums that include content Qobuz has identified as AI-generated.\nSource",
-    "category": "industry-news",
-    "source": "Music Business Worldwide",
-    "author": "Unknown",
-    "publishedAt": "2026-09-28T10:54:34.000Z",
-    "url": "https://www.musicbusinessworldwide.com/qobuz-starts-tagging-ai-generated-music-in-its-app-and-says-60-of-streams-on-ai-tracks-are-fraudulent/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-09-29T03:14:02.831Z"
-  },
-  {
-    "id": "news-1790651642831-24",
-    "title": "Jermaine Dupri and Jacquees sued by 1990s duo Home Team, who claim 2023 single ‘Pick It Up’ copies their 1992 song of the same name",
-    "summary": "The duo Home Team claim the 2023 track copies the lyrics and melody of their own \"Pick It Up,\" released on or around July 3, 1992.\nSource",
-    "category": "industry-news",
-    "source": "Music Business Worldwide",
-    "author": "Unknown",
-    "publishedAt": "2026-09-28T10:54:16.000Z",
-    "url": "https://www.musicbusinessworldwide.com/jermaine-dupri-and-jacquees-sued-by-1990s-duo-home-team-who-claim-2023-single-pick-it-up-copies-their-1992-song-of-the-same-name/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-09-29T03:14:02.831Z"
-  },
-  {
-    "id": "news-1790651642831-25",
-    "title": "Musixmatch: ‘Lyrics are becoming the LLM of the music industry’",
-    "summary": "Max Ciociola turned Musixmatch into the world’s largest lyrics company. Now, with backing from TPG – and having struck a deal with Suno for a copyright-detection tool called Sentinel – it’s on a path to becoming something much bigger…\nSource",
+    "id": "news-1790736982470-3",
+    "title": "Here’s why OpenAI is absent from Nvidia’s industry-wide effort to end rogue AI agents",
+    "summary": "OpenAI isn't a public supporter of Nvidia's Open Agent Safety Platform, but it is privately working with Nvidia, TechCrunch has learned.",
     "category": "ai-research",
-    "source": "Music Business Worldwide",
+    "source": "TechCrunch AI",
     "author": "Unknown",
-    "publishedAt": "2026-09-28T10:41:20.000Z",
-    "url": "https://www.musicbusinessworldwide.com/musixmatch-lyrics-are-becoming-the-llm-of-the-music-industry/",
+    "publishedAt": "2026-09-29T18:35:00.000Z",
+    "url": "https://techcrunch.com/2026/09/29/heres-why-openai-is-absent-from-nvidias-industry-wide-effort-to-end-rogue-ai-agents/",
     "imageUrl": null,
     "tags": [
-      "Copyright"
+      "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-09-29T03:14:02.831Z"
+    "fetchedAt": "2026-09-30T02:56:22.470Z"
+  },
+  {
+    "id": "news-1790736982470-4",
+    "title": "OpenAI takes on Microsoft with the launch of what feels a whole lot like ChatGPT’s own office suite",
+    "summary": "OpenAI's newly announced suite of office features puts it into more direct competition with more traditional software companies. ",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-09-29T17:45:51.000Z",
+    "url": "https://techcrunch.com/2026/09/29/openai-takes-on-microsoft-with-the-launch-of-what-feels-a-whole-lot-like-chatgpts-own-office-suite/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-09-30T02:56:22.470Z"
+  },
+  {
+    "id": "news-1790736982470-5",
+    "title": "AI-powered app maker Wabi pivots to a messaging experience",
+    "summary": "Wabi is repositioning its prompt-based app builder as a personal AI agent that can create interfaces on demand, combining chat, apps, and ongoing tasks.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-09-29T17:20:00.000Z",
+    "url": "https://techcrunch.com/2026/09/29/ai-powered-app-maker-wabi-pivots-to-a-messaging-experience/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-09-30T02:56:22.470Z"
+  },
+  {
+    "id": "news-1790736982470-6",
+    "title": "OpenAI launches Dots, its bubbly agentic avatar",
+    "summary": "Dots are meant to operate independent of any specific hardware or interface, pursuing user-defined goals continuously in the background with minimal oversight.",
+    "category": "tech-innovation",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-09-29T17:17:15.000Z",
+    "url": "https://techcrunch.com/2026/09/29/openai-launches-dots-its-bubbly-agentic-avatar/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-09-30T02:56:22.470Z"
+  },
+  {
+    "id": "news-1790736982470-7",
+    "title": "OpenAI gives Codex reusable cloud environments that work across devices",
+    "summary": "OpenAI is expanding Codex with reusable cloud development environments, a revamped CLI with voice controls, new code review tools, and a security-focused product for scanning repositories and preparing fixes.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-09-29T17:15:00.000Z",
+    "url": "https://techcrunch.com/2026/09/29/openai-gives-codex-reusable-cloud-environments-that-work-across-devices/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-09-30T02:56:22.470Z"
+  },
+  {
+    "id": "news-1790736982470-8",
+    "title": "OpenAI expands ChatGPT’s plug-ins with app-like interfaces and automations",
+    "summary": "OpenAI is expanding ChatGPT plug-ins with dedicated sidebar homes, interactive panels, file viewers, improved discovery, and support for automations.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-09-29T17:15:00.000Z",
+    "url": "https://techcrunch.com/2026/09/29/openai-expands-chatgpts-plugins-with-app-like-interfaces-and-automations/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-09-30T02:56:22.470Z"
+  },
+  {
+    "id": "news-1790736982470-9",
+    "title": "OpenAI launches GPT-6.1 Sol, says it nearly matches GPT-6 Astra and costs less",
+    "summary": "OpenAI says GPT-6.1 Sol delivers significant improvements over GPT-6 Sol across complex professional tasks, including code writing and debugging, document understanding, and executing multistep business workflows. ",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-09-29T17:15:00.000Z",
+    "url": "https://techcrunch.com/2026/09/29/openai-launches-gpt-6-1-sol-says-it-nearly-matches-gpt-6-astra-and-costs-less/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-09-30T02:56:22.470Z"
+  },
+  {
+    "id": "news-1790736982470-17",
+    "title": "OpenAI’s Dots Are Always-On AI Agents—and Its Answer to Meta’s Muse",
+    "summary": "These cute agents are designed to connect to your apps and tackle multistep tasks.",
+    "category": "tech-innovation",
+    "source": "Wired AI",
+    "author": "Unknown",
+    "publishedAt": "2026-09-29T17:15:00.000Z",
+    "url": "https://www.wired.com/story/openai-dots-always-on-ai-agents-that-proactively-help/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-09-30T02:56:22.470Z"
+  },
+  {
+    "id": "news-1790736982470-10",
+    "title": "Can a chatbot fix the government maze? The White House is about to find out",
+    "summary": "America.gov is intended to simplify the process of navigating government bureaucracy, but large language models are imperfect and remain prone to hallucinations, which could cause new issues.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-09-29T16:55:56.000Z",
+    "url": "https://techcrunch.com/2026/09/29/can-a-chatbot-fix-the-government-maze-the-white-house-is-about-to-find-out/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-09-30T02:56:22.470Z"
+  },
+  {
+    "id": "news-1790736982471-25",
+    "title": "Universal Music appoints CAA’s Libby Bush as President, Global Brands and Commercial Partnerships",
+    "summary": "Bush will lead a new global function that brings together UMG's brands, media, and commercial partnership businesses\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-09-29T16:10:53.000Z",
+    "url": "https://www.musicbusinessworldwide.com/universal-music-appoints-caas-libby-bush-as-president-global-brands-and-commercial-partnerships/",
+    "imageUrl": null,
+    "tags": [
+      "Partnership"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-09-30T02:56:22.471Z"
+  },
+  {
+    "id": "news-1790736982471-26",
+    "title": "Direct-to-fan platform EVEN launches STUDIO, giving artists a standalone destination to sell music, tickets and merch",
+    "summary": "Artists can use STUDIO to release music or other content, sell tickets and merch, host livestreams, and more\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-09-29T16:00:11.000Z",
+    "url": "https://www.musicbusinessworldwide.com/direct-to-fan-platform-even-launches-studio-giving-artists-a-standalone-destination-to-sell-music-tickets-and-merch/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-09-30T02:56:22.471Z"
   }
 ]
