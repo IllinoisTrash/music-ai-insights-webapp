@@ -1,6 +1,96 @@
 [
   {
-    "id": "news-1790995911479-33",
+    "id": "news-1791084087083-31",
+    "title": "Dakota Johnson & Turnstile on ‘SNL’: Here’s Where to Watch ‘Saturday Night Live’ Online for Free",
+    "summary": "Livestream the Fifty Shades of Grey actress host and Baltimore hardcore punk band perform on Saturday, Oct. 3 — watch live online for free.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-10-04T00:30:00.000Z",
+    "url": "https://www.billboard.com/culture/product-recommendations/snl-2026-dakota-johnson-turnstile-watch-live-online-free-1236352925/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-10-04T03:21:27.083Z"
+  },
+  {
+    "id": "news-1791084087083-32",
+    "title": "How Paul McCartney Wound Up Performing at Taylor Swift’s Wedding",
+    "summary": "The music legend shared his perspective from Swift and Travis Kelce's summer event at Madison Square Garden.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-10-03T23:55:36.000Z",
+    "url": "https://www.billboard.com/music/pop/paul-mccartney-taylor-swift-wedding-song-performance-1236353877/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-10-04T03:21:27.083Z"
+  },
+  {
+    "id": "news-1791084087084-33",
+    "title": "AC/DC Brings Out Foo Fighters’ Dave Grohl for ‘Highway to Hell’ at MetLife Show",
+    "summary": "The iconic rockers played the final concert of their Power Up Tour on Oct. 2.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-10-03T20:08:34.000Z",
+    "url": "https://www.billboard.com/music/rock/acdc-dave-grohl-highway-to-hell-metlife-stadium-1236353873/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-10-04T03:21:27.084Z"
+  },
+  {
+    "id": "news-1791084087082-0",
+    "title": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
+    "summary": "By his own admission, David Robinson is “something of a cliché”: an employee at a leading AI company who issues a dire warning while resigning from their job.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-10-03T16:30:01.000Z",
+    "url": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-10-04T03:21:27.082Z"
+  },
+  {
+    "id": "news-1791084087082-1",
+    "title": "All the AI agents that can live in your text messages",
+    "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-10-03T14:00:00.000Z",
+    "url": "https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-10-04T03:21:27.083Z"
+  },
+  {
+    "id": "news-1791084087083-13",
+    "title": "Muse Creates Detailed Profiles of All Your Friends and Family",
+    "summary": "Millions have downloaded Meta’s AI agent Muse. But getting it to do your bidding comes with privacy costs.",
+    "category": "tech-innovation",
+    "source": "Wired AI",
+    "author": "Unknown",
+    "publishedAt": "2026-10-03T12:00:00.000Z",
+    "url": "https://www.wired.com/story/muse-creates-detailed-profiles-of-all-your-friends-and-family/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-10-04T03:21:27.083Z"
+  },
+  {
+    "id": "news-1791084087084-34",
     "title": "Ye’s Two Russian Stadium Concerts Canceled, Promoters Announce: ‘Sincere Regret’",
     "summary": "The two announced gigs at St. Peterburg's Gazprom Arena were in limbo from the start after the venue stated that it had not signed a rental agreement.",
     "category": "industry-news",
@@ -11,80 +101,10 @@
     "imageUrl": null,
     "tags": [],
     "readTime": 1,
-    "fetchedAt": "2026-10-03T02:51:51.479Z"
+    "fetchedAt": "2026-10-04T03:21:27.084Z"
   },
   {
-    "id": "news-1790995911479-34",
-    "title": "Watch Panteón Rococó Bring Pro-Immigrant Struggle to Tiny Desk Concert",
-    "summary": "The iconic Mexican ska-rock band joins the famous NPR series during Hispanic Heritage Month.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-10-02T22:48:44.000Z",
-    "url": "https://www.billboard.com/music/latin/panteon-rococo-tiny-desk-concert-pro-immigrant-struggle-1236353681/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-10-03T02:51:51.479Z"
-  },
-  {
-    "id": "news-1790995911479-35",
-    "title": "Billboard’s Music Industry Events Calendar",
-    "summary": "A complete rundown of the most important events across the music business.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-10-02T22:09:00.000Z",
-    "url": "https://www.billboard.com/pro/music-industry-events-calendar-festivals-awards-conferences/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-10-03T02:51:51.479Z"
-  },
-  {
-    "id": "news-1790995911479-36",
-    "title": "Are You an Independent Artist? Here Are 6 Billboard Latin Music Week 2026 Panels You Can’t Miss",
-    "summary": "If you're starting your career and will be attending the event this month, these conversations are key for you.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-10-02T22:01:27.000Z",
-    "url": "https://www.billboard.com/lists/latin-music-week-2026-key-panels-independent-artists/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-10-03T02:51:51.479Z"
-  },
-  {
-    "id": "news-1790995911479-37",
-    "title": "In Canada: Universal Music Canada Lays Off Staff Across Several Departments",
-    "summary": "Also this week: Billboard Canada 40 Under 40 is returning in November.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-10-02T22:00:59.000Z",
-    "url": "https://www.billboard.com/pro/universal-music-canada-lays-off-employees-canada-news/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-10-03T02:51:51.479Z"
-  },
-  {
-    "id": "news-1790995911479-38",
-    "title": "PLAVE: Out of the Tunnel, Into ‘HYPERDRIVE’",
-    "summary": "From stadium stages in Incheon to their upcoming U.S. dates, YEJUN, NOAH, BAMBY, EUNHO & HAMIN reflect on the music, creative instincts & ambitions shaping their next chapter.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-10-02T21:18:53.000Z",
-    "url": "https://www.billboard.com/lists/plave-interview-out-of-tunnel-into-hyperdrive/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-10-03T02:51:51.479Z"
-  },
-  {
-    "id": "news-1790995911476-0",
+    "id": "news-1791084087083-2",
     "title": "Sean Parker is rebuilding Stability AI around music",
     "summary": "Sean Parker, who once taught the music industry what asking for forgiveness looks like, is now back with the labels' blessing and money.",
     "category": "ai-research",
@@ -97,10 +117,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-10-03T02:51:51.476Z"
+    "fetchedAt": "2026-10-04T03:21:27.083Z"
   },
   {
-    "id": "news-1790995911476-1",
+    "id": "news-1791084087083-3",
     "title": "Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents",
     "summary": "Apple says it will add new controls around macOS’s Full Disk Access permission, warning that increasingly capable AI agents make broad access to users’ files, messages, mail, and browsing history riskier.",
     "category": "ai-research",
@@ -113,10 +133,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-10-03T02:51:51.476Z"
+    "fetchedAt": "2026-10-04T03:21:27.083Z"
   },
   {
-    "id": "news-1790995911476-2",
+    "id": "news-1791084087083-4",
     "title": "Call it AI, call it Super Intelligence, only 2% of consumers are buying it",
     "summary": "This week, the White House got nearly every major tech CEO in one room — Zuckerberg, Bezos, Musk, and Anthropic’s Dario Amodei among them — to sign an AI safety pledge that President Donald Trump called “morally binding.” Trump also signed an executive order officially rebranding AI as “super intelligence,” and meanwhile, Meta and OpenAI are putting friendlier faces on their AI products, even as the biggest money […]",
     "category": "tech-innovation",
@@ -129,10 +149,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-10-03T02:51:51.476Z"
+    "fetchedAt": "2026-10-04T03:21:27.083Z"
   },
   {
-    "id": "news-1790995911477-3",
+    "id": "news-1791084087083-5",
     "title": "It’s not AI anymore, it’s ‘super intelligence’ (according to the White House)",
     "summary": "This week, the White House got nearly every major tech CEO in one room — Zuckerberg, Bezos, Musk, and Anthropic’s Dario Amodei among them — to sign an AI safety pledge that President Donald Trump called “morally binding.” Trump also signed an executive order officially rebranding AI as “super intelligence,” and meanwhile, Meta and OpenAI are putting friendlier faces on their AI products, even as the biggest money […]",
     "category": "tech-innovation",
@@ -145,10 +165,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-10-03T02:51:51.477Z"
+    "fetchedAt": "2026-10-04T03:21:27.083Z"
   },
   {
-    "id": "news-1790995911477-4",
+    "id": "news-1791084087083-6",
     "title": "TechCrunch Disrupt 2026: Blackstone’s Jas Khaira on building the next generation of AI giants",
     "summary": "Blackstone's Jas Khaira will take the Builders Stage at TechCrunch Disrupt 2026 on building next-gen AI. Register for your pass and get 50% off a second.",
     "category": "ai-research",
@@ -161,10 +181,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-10-03T02:51:51.477Z"
+    "fetchedAt": "2026-10-04T03:21:27.083Z"
   },
   {
-    "id": "news-1790995911477-5",
+    "id": "news-1791084087083-7",
     "title": "Circuit Breaker Labs hopes to make AI safer for your kids (and you)",
     "summary": "With all the talk about how AI might one day kill us all, it's easy to forget that AI has already harmed some people psychologically. Circuit Breaker Labs has created \"crash-test  dummies\" to solve that. ",
     "category": "ai-research",
@@ -177,10 +197,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-10-03T02:51:51.477Z"
+    "fetchedAt": "2026-10-04T03:21:27.083Z"
   },
   {
-    "id": "news-1790995911478-24",
+    "id": "news-1791084087083-22",
     "title": "From Warner’s EMP sell-off to Universal Music’s Briegmann promotion… it’s MBW’s Weekly Round-Up",
     "summary": "The biggest headlines from the past few days...\n\nSource",
     "category": "industry-news",
@@ -191,10 +211,10 @@
     "imageUrl": null,
     "tags": [],
     "readTime": 1,
-    "fetchedAt": "2026-10-03T02:51:51.478Z"
+    "fetchedAt": "2026-10-04T03:21:27.083Z"
   },
   {
-    "id": "news-1790995911478-25",
+    "id": "news-1791084087083-23",
     "title": "Bill Withers’ publisher sues UMG, Sony, and Kobalt, claiming Olivia Dean’s ‘I’ve Seen It’ copies ‘Just the Two of Us’",
     "summary": "The plaintiff says its representatives came to what they considered to be the \"obvious and inescapable conclusion\" that Dean's song copied the Withers track.\nSource",
     "category": "industry-news",
@@ -207,10 +227,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-10-03T02:51:51.478Z"
+    "fetchedAt": "2026-10-04T03:21:27.083Z"
   },
   {
-    "id": "news-1790995911478-26",
+    "id": "news-1791084087083-24",
     "title": "‘I would rather have 1% of a hit record than 100% of a record that wasn’t.’",
     "summary": "Tyler Brown, founder of London-based Funfair, on hits, loyalty, and why songwriters should be taking a share of master income\nSource",
     "category": "industry-news",
@@ -223,10 +243,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-10-03T02:51:51.478Z"
+    "fetchedAt": "2026-10-04T03:21:27.083Z"
   },
   {
-    "id": "news-1790995911478-27",
+    "id": "news-1791084087083-25",
     "title": "Suno is ‘far beyond’ 2m subscribers and $300m in revenue, says Mikey Shulman – who argues it’s ‘good’ that AI music has no ‘firm rules of the road’ yet",
     "summary": "Shulman also set out what WMG and BMG get from their deals, and who should be setting AI's rules.\nSource",
     "category": "industry-news",
@@ -239,10 +259,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-10-03T02:51:51.478Z"
+    "fetchedAt": "2026-10-04T03:21:27.083Z"
   },
   {
-    "id": "news-1790995911478-28",
+    "id": "news-1791084087083-26",
     "title": "An $8M streaming fraud, two plays a day. Here’s the pro-rata math behind the bot scheme – and the rule change that would have killed it.",
     "summary": "Ahead of Tuesday's sentencing in the first US criminal streaming fraud case, MBW breaks down the pro-rata arithmetic behind Michael Smith's bot scheme.\nSource",
     "category": "industry-news",
@@ -255,10 +275,10 @@
       "Streaming"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-10-03T02:51:51.478Z"
+    "fetchedAt": "2026-10-04T03:21:27.083Z"
   },
   {
-    "id": "news-1790995911479-29",
+    "id": "news-1791084087083-27",
     "title": "Yusim Aladro promoted to General Manager at Warner Music Mexico",
     "summary": "She reports to Tomas Rodríguez, President of Warner Music Mexico and Música Mexicana.\nSource",
     "category": "industry-news",
@@ -269,10 +289,10 @@
     "imageUrl": null,
     "tags": [],
     "readTime": 1,
-    "fetchedAt": "2026-10-03T02:51:51.479Z"
+    "fetchedAt": "2026-10-04T03:21:27.083Z"
   },
   {
-    "id": "news-1790995911477-14",
+    "id": "news-1791084087083-14",
     "title": "These AI Experts Want to Do High-Stakes Research Out in the Open",
     "summary": "Many frontier labs keep their risky research locked away. Trillium Labs wants to show off its work when it comes to self-improvement and model behavior.",
     "category": "tech-innovation",
@@ -286,22 +306,6 @@
       "Research"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-10-03T02:51:51.477Z"
-  },
-  {
-    "id": "news-1790995911477-15",
-    "title": "Trump’s Crazy AI Rebrand Was a Loyalty Test for Tech Execs—and It Worked",
-    "summary": "For years these billionaires gushed obsessively about AI. But they meekly went along when Trump canceled the term.",
-    "category": "tech-innovation",
-    "source": "Wired AI",
-    "author": "Unknown",
-    "publishedAt": "2026-10-02T15:00:00.000Z",
-    "url": "https://www.wired.com/story/trumps-crazy-ai-rebrand-was-a-loyalty-test-for-tech-execs-and-it-worked/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-10-03T02:51:51.477Z"
+    "fetchedAt": "2026-10-04T03:21:27.083Z"
   }
 ]
