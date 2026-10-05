@@ -1,48 +1,110 @@
 [
   {
-    "id": "news-1791084087083-31",
-    "title": "Dakota Johnson & Turnstile on ‘SNL’: Here’s Where to Watch ‘Saturday Night Live’ Online for Free",
-    "summary": "Livestream the Fifty Shades of Grey actress host and Baltimore hardcore punk band perform on Saturday, Oct. 3 — watch live online for free.",
+    "id": "news-1791169097166-35",
+    "title": "Fans Choose Victoria Monét’s ‘Frequency of Love’ as This Week’s Favorite New Music",
+    "summary": "Her 22-song sophomore set brought in 40% of the vote.",
     "category": "industry-news",
     "source": "Billboard",
     "author": "Unknown",
-    "publishedAt": "2026-10-04T00:30:00.000Z",
-    "url": "https://www.billboard.com/culture/product-recommendations/snl-2026-dakota-johnson-turnstile-watch-live-online-free-1236352925/",
+    "publishedAt": "2026-10-05T02:41:40.000Z",
+    "url": "https://www.billboard.com/music/rb-hip-hop/victoria-monet-frequency-of-love-new-music-poll-results-1236354023/",
     "imageUrl": null,
     "tags": [],
     "readTime": 1,
-    "fetchedAt": "2026-10-04T03:21:27.083Z"
+    "fetchedAt": "2026-10-05T02:58:17.166Z"
   },
   {
-    "id": "news-1791084087083-32",
-    "title": "How Paul McCartney Wound Up Performing at Taylor Swift’s Wedding",
-    "summary": "The music legend shared his perspective from Swift and Travis Kelce's summer event at Madison Square Garden.",
+    "id": "news-1791169097166-36",
+    "title": "Shakira’s Madrid Concert Sets an Amazon Music Livestreaming Record",
+    "summary": "Shakira's show, featuring surprise guest Dua Lipa, marked a milestone for female artists who've livestreamed performances on the platform.",
     "category": "industry-news",
     "source": "Billboard",
     "author": "Unknown",
-    "publishedAt": "2026-10-03T23:55:36.000Z",
-    "url": "https://www.billboard.com/music/pop/paul-mccartney-taylor-swift-wedding-song-performance-1236353877/",
+    "publishedAt": "2026-10-05T00:42:16.000Z",
+    "url": "https://www.billboard.com/music/latin/shakira-madrid-concert-livestream-amazon-music-record-1236353979/",
     "imageUrl": null,
-    "tags": [],
+    "tags": [
+      "Streaming"
+    ],
     "readTime": 1,
-    "fetchedAt": "2026-10-04T03:21:27.083Z"
+    "fetchedAt": "2026-10-05T02:58:17.166Z"
   },
   {
-    "id": "news-1791084087084-33",
-    "title": "AC/DC Brings Out Foo Fighters’ Dave Grohl for ‘Highway to Hell’ at MetLife Show",
-    "summary": "The iconic rockers played the final concert of their Power Up Tour on Oct. 2.",
+    "id": "news-1791169097166-37",
+    "title": "All the Guests at Shakira’s Madrid Residency (Updating)",
+    "summary": "Laura Pausini, Alejandro Sanz, Dua Lipa and more: These are the artists who have joined the Colombian superstar onstage at Shakira Stadium.",
     "category": "industry-news",
     "source": "Billboard",
     "author": "Unknown",
-    "publishedAt": "2026-10-03T20:08:34.000Z",
-    "url": "https://www.billboard.com/music/rock/acdc-dave-grohl-highway-to-hell-metlife-stadium-1236353873/",
+    "publishedAt": "2026-10-04T23:27:34.000Z",
+    "url": "https://www.billboard.com/lists/shakiras-madrid-residency-guests-list/",
     "imageUrl": null,
     "tags": [],
     "readTime": 1,
-    "fetchedAt": "2026-10-04T03:21:27.084Z"
+    "fetchedAt": "2026-10-05T02:58:17.166Z"
   },
   {
-    "id": "news-1791084087082-0",
+    "id": "news-1791169097166-38",
+    "title": "Taylor Swift, The Beatles, Elvis & More Artists With the Most Weeks at No. 1 on the Billboard 200: Full List",
+    "summary": "Will Swift eventually equal or top the Fab Four's record?",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-10-04T21:29:11.000Z",
+    "url": "https://www.billboard.com/lists/most-weeks-at-no-1-billboard-200-taylor-swift-the-beatles/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-10-05T02:58:17.166Z"
+  },
+  {
+    "id": "news-1791169097165-13",
+    "title": "GPT-6 Astra vs GPT-6.1 Sol vs Gemini 4 Argon vs Claude Fable 5.1: Which Frontier Model Fits Which Job",
+    "summary": "Astra leads computer use, Argon leads legal and finance work, and Sol wins on price for coding agents.\nThe post GPT-6 Astra vs GPT-6.1 Sol vs Gemini 4 Argon vs Claude Fable 5.1: Which Frontier Model Fits Which Job appeared first on MarkTechPost.\n",
+    "category": "ai-research",
+    "source": "MarkTechPost",
+    "author": "Unknown",
+    "publishedAt": "2026-10-04T20:59:56.000Z",
+    "url": "https://www.marktechpost.com/2026/10/04/gpt-6-astra-vs-gpt-6-1-sol-vs-gemini-4-argon-vs-claude-fable-5-1-which-frontier-model-fits-which-job/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-10-05T02:58:17.165Z"
+  },
+  {
+    "id": "news-1791169097164-0",
+    "title": "Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions",
+    "summary": "AI slop seems to be overwhelming bug bounty programs.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-10-04T20:31:07.000Z",
+    "url": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-10-05T02:58:17.164Z"
+  },
+  {
+    "id": "news-1791169097164-1",
+    "title": "Trump unveils his new Super Intelligence Force",
+    "summary": "This new task force is Trump's latest response to the debate over AI safety.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-10-04T15:15:10.000Z",
+    "url": "https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-10-05T02:58:17.164Z"
+  },
+  {
+    "id": "news-1791169097164-2",
     "title": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
     "summary": "By his own admission, David Robinson is “something of a cliché”: an employee at a leading AI company who issues a dire warning while resigning from their job.",
     "category": "ai-research",
@@ -55,10 +117,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-10-04T03:21:27.082Z"
+    "fetchedAt": "2026-10-05T02:58:17.164Z"
   },
   {
-    "id": "news-1791084087082-1",
+    "id": "news-1791169097164-3",
     "title": "All the AI agents that can live in your text messages",
     "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
     "category": "ai-research",
@@ -71,10 +133,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-10-04T03:21:27.083Z"
+    "fetchedAt": "2026-10-05T02:58:17.164Z"
   },
   {
-    "id": "news-1791084087083-13",
+    "id": "news-1791169097165-18",
     "title": "Muse Creates Detailed Profiles of All Your Friends and Family",
     "summary": "Millions have downloaded Meta’s AI agent Muse. But getting it to do your bidding comes with privacy costs.",
     "category": "tech-innovation",
@@ -87,24 +149,75 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-10-04T03:21:27.083Z"
+    "fetchedAt": "2026-10-05T02:58:17.165Z"
   },
   {
-    "id": "news-1791084087084-34",
-    "title": "Ye’s Two Russian Stadium Concerts Canceled, Promoters Announce: ‘Sincere Regret’",
-    "summary": "The two announced gigs at St. Peterburg's Gazprom Arena were in limbo from the start after the venue stated that it had not signed a rental agreement.",
-    "category": "industry-news",
-    "source": "Billboard",
+    "id": "news-1791169097165-14",
+    "title": "Meta, OpenAI and Uber Just Taught AI Agents to Talk First. What About When to Stay Quiet?",
+    "summary": "TL;DR: Meta’s Muse, OpenAI’s Dots and Uber’s driver assistant share one bet: the agent speaks first. That moves the hard problem from what to answer to when to interrupt, on which channel, and with what offer. Classic ML and new decision models can solve it. Three launches, one pattern From pull to push Chatbots were […]\nThe post Meta, OpenAI and Uber Just Taught AI Agents to Talk First. What About When to Stay Quiet? appeared first on MarkTechPost.\n",
+    "category": "ai-research",
+    "source": "MarkTechPost",
     "author": "Unknown",
-    "publishedAt": "2026-10-03T00:36:09.000Z",
-    "url": "https://www.billboard.com/music/rb-hip-hop/kanye-west-russian-stadium-concerts-canceled-1236351799/",
+    "publishedAt": "2026-10-03T07:05:11.000Z",
+    "url": "https://www.marktechpost.com/2026/10/03/meta-openai-and-uber-just-taught-ai-agents-to-talk-first-what-about-when-to-stay-quiet/",
     "imageUrl": null,
-    "tags": [],
+    "tags": [
+      "AI"
+    ],
     "readTime": 1,
-    "fetchedAt": "2026-10-04T03:21:27.084Z"
+    "fetchedAt": "2026-10-05T02:58:17.165Z"
   },
   {
-    "id": "news-1791084087083-2",
+    "id": "news-1791169097165-15",
+    "title": "IBM Brings Bob to Self-Hosted and Air-Gapped Environments: Agentic Software Development Without Moving Your Code",
+    "summary": "IBM has made a self-hosted deployment of IBM Bob, its agentic software development platform, generally available. Enterprises can now run Bob on premises, in private or sovereign clouds, and in air-gapped networks. They bring their own model: NVIDIA Nemotron or Poolside Laguna for full isolation, or Claude, Gemini or GPT models through hybrid setups. Optional Premium Packages extend Bob to Java, IBM i and IBM Z modernization.\nThe post IBM Brings Bob to Self-Hosted and Air-Gapped Environments: Ag",
+    "category": "ai-research",
+    "source": "MarkTechPost",
+    "author": "Unknown",
+    "publishedAt": "2026-10-03T06:55:15.000Z",
+    "url": "https://www.marktechpost.com/2026/10/02/ibm-brings-bob-to-self-hosted-and-air-gapped-environments/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-10-05T02:58:17.165Z"
+  },
+  {
+    "id": "news-1791169097165-16",
+    "title": "Prime Intellect Launches Prime Inference: Serverless and Reserved Serving for Frontier Open Models",
+    "summary": "Prime Intellect has launched Prime Inference, an OpenAI-compatible platform for serving frontier open models on NVIDIA Blackwell. Its GLM-5.3 deployment uses Dynamo, vLLM and NVFP4 KV compression to serve 66 sessions per prefill group at 101 tok/s per user.\nThe post Prime Intellect Launches Prime Inference: Serverless and Reserved Serving for Frontier Open Models appeared first on MarkTechPost.\n",
+    "category": "ai-research",
+    "source": "MarkTechPost",
+    "author": "Unknown",
+    "publishedAt": "2026-10-03T05:37:18.000Z",
+    "url": "https://www.marktechpost.com/2026/10/02/prime-intellect-launches-prime-inference-serverless-and-reserved-serving-for-frontier-open-models/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-10-05T02:58:17.165Z"
+  },
+  {
+    "id": "news-1791169097165-17",
+    "title": "Microsoft AI Releases MAI-Transcribe-2-Streaming: #1 Real-Time Speech-to-Text Model on Artificial Analysis",
+    "summary": "Microsoft AI has released MAI-Transcribe-2-Streaming, its first real-time speech-to-text model. It ranks #1 of 38 models on Artificial Analysis AA-WER Streaming. It scores 2.5% WER at 0.13s on final transcripts and 2.5% at 0.12s on first partials. It covers 60 languages with continuous language detection and costs $0.54 per hour during the introductory period. It is available now in public preview on Microsoft Foundry.\nThe post Microsoft AI Releases MAI-Transcribe-2-Streaming: #1 Real-Time Speec",
+    "category": "tech-innovation",
+    "source": "MarkTechPost",
+    "author": "Unknown",
+    "publishedAt": "2026-10-03T05:09:53.000Z",
+    "url": "https://www.marktechpost.com/2026/10/02/microsoft-ai-releases-mai-transcribe-2-streaming-1-real-time-speech-to-text-model-on-artificial-analysis/",
+    "imageUrl": null,
+    "tags": [
+      "AI",
+      "Streaming"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-10-05T02:58:17.165Z"
+  },
+  {
+    "id": "news-1791169097165-4",
     "title": "Sean Parker is rebuilding Stability AI around music",
     "summary": "Sean Parker, who once taught the music industry what asking for forgiveness looks like, is now back with the labels' blessing and money.",
     "category": "ai-research",
@@ -117,10 +230,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-10-04T03:21:27.083Z"
+    "fetchedAt": "2026-10-05T02:58:17.165Z"
   },
   {
-    "id": "news-1791084087083-3",
+    "id": "news-1791169097165-5",
     "title": "Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents",
     "summary": "Apple says it will add new controls around macOS’s Full Disk Access permission, warning that increasingly capable AI agents make broad access to users’ files, messages, mail, and browsing history riskier.",
     "category": "ai-research",
@@ -133,10 +246,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-10-04T03:21:27.083Z"
+    "fetchedAt": "2026-10-05T02:58:17.165Z"
   },
   {
-    "id": "news-1791084087083-4",
+    "id": "news-1791169097165-6",
     "title": "Call it AI, call it Super Intelligence, only 2% of consumers are buying it",
     "summary": "This week, the White House got nearly every major tech CEO in one room — Zuckerberg, Bezos, Musk, and Anthropic’s Dario Amodei among them — to sign an AI safety pledge that President Donald Trump called “morally binding.” Trump also signed an executive order officially rebranding AI as “super intelligence,” and meanwhile, Meta and OpenAI are putting friendlier faces on their AI products, even as the biggest money […]",
     "category": "tech-innovation",
@@ -149,10 +262,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-10-04T03:21:27.083Z"
+    "fetchedAt": "2026-10-05T02:58:17.165Z"
   },
   {
-    "id": "news-1791084087083-5",
+    "id": "news-1791169097165-7",
     "title": "It’s not AI anymore, it’s ‘super intelligence’ (according to the White House)",
     "summary": "This week, the White House got nearly every major tech CEO in one room — Zuckerberg, Bezos, Musk, and Anthropic’s Dario Amodei among them — to sign an AI safety pledge that President Donald Trump called “morally binding.” Trump also signed an executive order officially rebranding AI as “super intelligence,” and meanwhile, Meta and OpenAI are putting friendlier faces on their AI products, even as the biggest money […]",
     "category": "tech-innovation",
@@ -165,10 +278,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-10-04T03:21:27.083Z"
+    "fetchedAt": "2026-10-05T02:58:17.165Z"
   },
   {
-    "id": "news-1791084087083-6",
+    "id": "news-1791169097165-8",
     "title": "TechCrunch Disrupt 2026: Blackstone’s Jas Khaira on building the next generation of AI giants",
     "summary": "Blackstone's Jas Khaira will take the Builders Stage at TechCrunch Disrupt 2026 on building next-gen AI. Register for your pass and get 50% off a second.",
     "category": "ai-research",
@@ -181,10 +294,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-10-04T03:21:27.083Z"
+    "fetchedAt": "2026-10-05T02:58:17.165Z"
   },
   {
-    "id": "news-1791084087083-7",
+    "id": "news-1791169097165-9",
     "title": "Circuit Breaker Labs hopes to make AI safer for your kids (and you)",
     "summary": "With all the talk about how AI might one day kill us all, it's easy to forget that AI has already harmed some people psychologically. Circuit Breaker Labs has created \"crash-test  dummies\" to solve that. ",
     "category": "ai-research",
@@ -197,115 +310,6 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-10-04T03:21:27.083Z"
-  },
-  {
-    "id": "news-1791084087083-22",
-    "title": "From Warner’s EMP sell-off to Universal Music’s Briegmann promotion… it’s MBW’s Weekly Round-Up",
-    "summary": "The biggest headlines from the past few days...\n\nSource",
-    "category": "industry-news",
-    "source": "Music Business Worldwide",
-    "author": "Unknown",
-    "publishedAt": "2026-10-02T16:52:54.000Z",
-    "url": "https://www.musicbusinessworldwide.com/from-warners-emp-sell-off-to-universal-musics-briegmann-promotion-its-mbws-weekly-round-up/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-10-04T03:21:27.083Z"
-  },
-  {
-    "id": "news-1791084087083-23",
-    "title": "Bill Withers’ publisher sues UMG, Sony, and Kobalt, claiming Olivia Dean’s ‘I’ve Seen It’ copies ‘Just the Two of Us’",
-    "summary": "The plaintiff says its representatives came to what they considered to be the \"obvious and inescapable conclusion\" that Dean's song copied the Withers track.\nSource",
-    "category": "industry-news",
-    "source": "Music Business Worldwide",
-    "author": "Unknown",
-    "publishedAt": "2026-10-02T16:51:23.000Z",
-    "url": "https://www.musicbusinessworldwide.com/bill-withers-publisher-sues-umg-sony-and-kobalt-claiming-olivia-deans-ive-seen-it-copies-just-the-two-of-us/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-10-04T03:21:27.083Z"
-  },
-  {
-    "id": "news-1791084087083-24",
-    "title": "‘I would rather have 1% of a hit record than 100% of a record that wasn’t.’",
-    "summary": "Tyler Brown, founder of London-based Funfair, on hits, loyalty, and why songwriters should be taking a share of master income\nSource",
-    "category": "industry-news",
-    "source": "Music Business Worldwide",
-    "author": "Unknown",
-    "publishedAt": "2026-10-02T16:49:40.000Z",
-    "url": "https://www.musicbusinessworldwide.com/tyler-brown-i-would-rather-have-1-of-a-hit-record-than-100-of-a-record-that-wasnt/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-10-04T03:21:27.083Z"
-  },
-  {
-    "id": "news-1791084087083-25",
-    "title": "Suno is ‘far beyond’ 2m subscribers and $300m in revenue, says Mikey Shulman – who argues it’s ‘good’ that AI music has no ‘firm rules of the road’ yet",
-    "summary": "Shulman also set out what WMG and BMG get from their deals, and who should be setting AI's rules.\nSource",
-    "category": "industry-news",
-    "source": "Music Business Worldwide",
-    "author": "Unknown",
-    "publishedAt": "2026-10-02T16:42:55.000Z",
-    "url": "https://www.musicbusinessworldwide.com/suno-is-far-beyond-2m-subscribers-and-300m-in-revenue-says-mikey-shulman-who-argues-its-good-that-ai-music-has-no-firm-rules-of-the-road-yet/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-10-04T03:21:27.083Z"
-  },
-  {
-    "id": "news-1791084087083-26",
-    "title": "An $8M streaming fraud, two plays a day. Here’s the pro-rata math behind the bot scheme – and the rule change that would have killed it.",
-    "summary": "Ahead of Tuesday's sentencing in the first US criminal streaming fraud case, MBW breaks down the pro-rata arithmetic behind Michael Smith's bot scheme.\nSource",
-    "category": "industry-news",
-    "source": "Music Business Worldwide",
-    "author": "Unknown",
-    "publishedAt": "2026-10-02T16:42:39.000Z",
-    "url": "https://www.musicbusinessworldwide.com/an-8m-streaming-fraud-two-plays-a-day-heres-the-pro-rata-math-behind-the-bot-scheme-and-the-rule-change-that-would-have-killed-it/",
-    "imageUrl": null,
-    "tags": [
-      "Streaming"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-10-04T03:21:27.083Z"
-  },
-  {
-    "id": "news-1791084087083-27",
-    "title": "Yusim Aladro promoted to General Manager at Warner Music Mexico",
-    "summary": "She reports to Tomas Rodríguez, President of Warner Music Mexico and Música Mexicana.\nSource",
-    "category": "industry-news",
-    "source": "Music Business Worldwide",
-    "author": "Unknown",
-    "publishedAt": "2026-10-02T16:42:21.000Z",
-    "url": "https://www.musicbusinessworldwide.com/yusim-aladro-promoted-to-general-manager-at-warner-music-mexico/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-10-04T03:21:27.083Z"
-  },
-  {
-    "id": "news-1791084087083-14",
-    "title": "These AI Experts Want to Do High-Stakes Research Out in the Open",
-    "summary": "Many frontier labs keep their risky research locked away. Trillium Labs wants to show off its work when it comes to self-improvement and model behavior.",
-    "category": "tech-innovation",
-    "source": "Wired AI",
-    "author": "Unknown",
-    "publishedAt": "2026-10-02T16:00:00.000Z",
-    "url": "https://www.wired.com/story/trillium-labs-wants-to-do-high-risk-ai-research-in-the-open/",
-    "imageUrl": null,
-    "tags": [
-      "AI",
-      "Research"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-10-04T03:21:27.083Z"
+    "fetchedAt": "2026-10-05T02:58:17.165Z"
   }
 ]
