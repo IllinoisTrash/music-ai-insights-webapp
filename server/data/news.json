@@ -1,314 +1,323 @@
 [
   {
-    "id": "news-1791258467773-32",
-    "title": "Hayley Williams Has a Blunt Message for DHS After ‘F–k ICE’ Concert Remark: ‘And May I Suggest…’",
-    "summary": "The Paramore frontwoman responded after the Department of Homeland Security weighed in on her recent onstage comments.",
+    "id": "news-1791342928389-37",
+    "title": "Bruno Mars Soundtracks Lakers Star Ziaire Williams’ SoFi Stadium Proposal With Live ‘Marry You’ Performance",
+    "summary": "Williams popped the question to Paris Timan as Mars performed his beloved wedding-ready hit at the second L.A. night of The Romantic Tour.",
     "category": "industry-news",
     "source": "Billboard",
     "author": "Unknown",
-    "publishedAt": "2026-10-06T01:32:52.000Z",
-    "url": "https://www.billboard.com/music/music-news/hayley-williams-dhs-response-ice-concert-1236354758/",
+    "publishedAt": "2026-10-07T01:27:31.000Z",
+    "url": "https://www.billboard.com/music/music-news/bruno-mars-marry-you-l-a-laker-ziaire-williams-proposal-1236355831/",
     "imageUrl": null,
-    "tags": [],
+    "tags": [
+      "AI"
+    ],
     "readTime": 1,
-    "fetchedAt": "2026-10-06T03:47:47.773Z"
+    "fetchedAt": "2026-10-07T03:15:28.389Z"
   },
   {
-    "id": "news-1791258467773-33",
-    "title": "Tinashe Is ‘Cryinggggg’ Over Her Biggest Billboard 200 Album Debut Yet With ‘Popstar’: ‘This Is CRAZY’",
-    "summary": "\"I'm so unbelievably grateful,\" the R&B singer wrote on X, followed by a flood of crying emojis. ",
+    "id": "news-1791342928389-38",
+    "title": "Jack White Criticizes Trump After Iran Remarks About L.A. & San Diego: ‘The Worst American of All Time’",
+    "summary": "The rock musician addressed Trump supporters in Southern California after the president said allowing Iran to \"take out\" the two cities would be a \"very small price to pay.\"",
     "category": "industry-news",
     "source": "Billboard",
     "author": "Unknown",
-    "publishedAt": "2026-10-06T00:18:18.000Z",
-    "url": "https://www.billboard.com/music/rb-hip-hop/tinashe-reacts-popstar-billboard-200-debut-1236354693/",
+    "publishedAt": "2026-10-07T00:19:41.000Z",
+    "url": "https://www.billboard.com/music/rock/jack-white-trump-iran-remarks-la-san-diego-1236355782/",
     "imageUrl": null,
-    "tags": [],
+    "tags": [
+      "AI"
+    ],
     "readTime": 1,
-    "fetchedAt": "2026-10-06T03:47:47.773Z"
+    "fetchedAt": "2026-10-07T03:15:28.389Z"
   },
   {
-    "id": "news-1791258467773-34",
-    "title": "More ‘WOR$T’ Is on the Way: Slayyyter’s ‘WOR$T MAN IN AMERICA’ Album Is Coming",
-    "summary": "The nine-track project arrives less than a year after her breakout third album, WOR$T GIRL IN AMERICA.",
+    "id": "news-1791342928389-39",
+    "title": "KATSEYE, Joji, Noah Kahan & More Are Getting Special Releases for Record Store Day Black Friday",
+    "summary": "From KATSEYE's first vinyl dance-break release to archival gems from Prince, Joni Mitchell and Bruce Springsteen, this year's RSD Black Friday lineup has something for every kind of music collector.",
     "category": "industry-news",
     "source": "Billboard",
     "author": "Unknown",
-    "publishedAt": "2026-10-06T00:07:44.000Z",
-    "url": "https://www.billboard.com/music/pop/slayyyter-worst-man-in-america-album-announced-1236354667/",
+    "publishedAt": "2026-10-06T23:50:52.000Z",
+    "url": "https://www.billboard.com/music/music-news/katseye-joji-noah-kahan-record-store-day-black-friday-drops-1236355673/",
     "imageUrl": null,
     "tags": [],
     "readTime": 1,
-    "fetchedAt": "2026-10-06T03:47:47.773Z"
+    "fetchedAt": "2026-10-07T03:15:28.389Z"
   },
   {
-    "id": "news-1791258467773-35",
-    "title": "Sony Music Has Requested the Removal of Over 260,000 AI Deepfake Songs From Digital Platforms",
-    "summary": "The major music company says the problem is growing fast and that the deepfake issue \"harms artists, misleads fans and undermines the ethical use of AI.\" ",
+    "id": "news-1791342928389-40",
+    "title": "Young Thug Teases Drake Collaborations & Says He’s Releasing an R&B Album Later This Year: ‘This Mary J.’",
+    "summary": "Thugger has dabbled in R&B on projects like 2017's Beautiful Thugger Girls.",
     "category": "industry-news",
     "source": "Billboard",
     "author": "Unknown",
-    "publishedAt": "2026-10-06T00:05:31.000Z",
-    "url": "https://www.billboard.com/pro/sony-music-requested-removal-ai-deepfake-songs/",
+    "publishedAt": "2026-10-06T22:32:29.000Z",
+    "url": "https://www.billboard.com/music/rb-hip-hop/young-thug-drake-rb-album-mary-j-blige-1236355666/",
     "imageUrl": null,
     "tags": [
-      "AI"
+      "Partnership"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-10-06T03:47:47.773Z"
+    "fetchedAt": "2026-10-07T03:15:28.389Z"
   },
   {
-    "id": "news-1791258467772-15",
-    "title": "Meet Together Link: A Free CLI That Runs Open Models Like Kimi K3 and GLM 5.3 Inside Claude Code, Codex, and OpenCode",
-    "summary": "Together AI has released Together Link, a free, MIT-licensed CLI that connects Claude Code, Codex, OpenCode, Pi, and the Claude and ChatGPT desktop apps to open models like Kimi K3 and GLM 5.3. One install command sets it up, and an Auto router picks a model for each session. Together claims savings of over 50%.\nThe post Meet Together Link: A Free CLI That Runs Open Models Like Kimi K3 and GLM 5.3 Inside Claude Code, Codex, and OpenCode appeared first on MarkTechPost.\n",
-    "category": "ai-research",
-    "source": "MarkTechPost",
-    "author": "Unknown",
-    "publishedAt": "2026-10-05T22:51:05.000Z",
-    "url": "https://www.marktechpost.com/2026/10/05/meet-together-link-a-free-cli-that-runs-open-models-like-kimi-k3-and-glm-5-3-inside-claude-code-codex-and-opencode/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-10-06T03:47:47.772Z"
-  },
-  {
-    "id": "news-1791258467772-16",
-    "title": "Reflection AI Introduces Beam: A 501B Open-Weight MoE Model With 23B Active Parameters for Coding and Agentic Workloads",
-    "summary": "Reflection AI has introduced Beam, its first open-weight model. It is a 501B sparse Mixture-of-Experts model with 23B active parameters, built for coding and agentic work. Reflection says it matches GLM-5.2 on reasoning with 3 to 4x less inference compute. Apache 2.0 weights are due later in October 2026.\nThe post Reflection AI Introduces Beam: A 501B Open-Weight MoE Model With 23B Active Parameters for Coding and Agentic Workloads appeared first on MarkTechPost.\n",
-    "category": "ai-research",
-    "source": "MarkTechPost",
-    "author": "Unknown",
-    "publishedAt": "2026-10-05T21:04:20.000Z",
-    "url": "https://www.marktechpost.com/2026/10/05/reflection-ai-introduces-beam-a-501b-open-weight-moe-model-with-23b-active-parameters-for-coding-and-agentic-workloads/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-10-06T03:47:47.772Z"
-  },
-  {
-    "id": "news-1791258467770-0",
-    "title": "OpenAI will start watermarking ChatGPT’s text in the EU",
-    "summary": "OpenAI will watermark ChatGPT and Codex text in the EU to comply with the AI Act. Editing can make the invisible marks harder to detect, it says.",
+    "id": "news-1791342928387-0",
+    "title": "How AI decision models could change content moderation",
+    "summary": "On Tuesday, Musubi announced a lightweight decision model made for real-time moderation called PolicyLM-1.7B, released with open weights. ",
     "category": "ai-research",
     "source": "TechCrunch AI",
     "author": "Unknown",
-    "publishedAt": "2026-10-05T20:36:48.000Z",
-    "url": "https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/",
+    "publishedAt": "2026-10-06T20:35:20.000Z",
+    "url": "https://techcrunch.com/2026/10/06/how-ai-decision-models-could-change-content-moderation/",
     "imageUrl": null,
     "tags": [
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-10-06T03:47:47.770Z"
+    "fetchedAt": "2026-10-07T03:15:28.388Z"
   },
   {
-    "id": "news-1791258467771-1",
-    "title": "Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower compute cost",
-    "summary": "Reflection is aiming Beam and future models at enterprises and sovereign nations. The pitch is to build “AI factories,” a product that would let institutions build their own customized, local AI system by training Reflection’s AI models on their own proprietary data.",
+    "id": "news-1791342928388-1",
+    "title": "AI computing startup Lambda to raise $4B ahead of planned IPO",
+    "summary": "Nvidia-backed Lambda is raising up to $4 billion at a $14.5 billion pre-money valuation ahead of a planned 2027 IPO, led by Coatue and Blackstone.",
     "category": "ai-research",
     "source": "TechCrunch AI",
     "author": "Unknown",
-    "publishedAt": "2026-10-05T19:33:53.000Z",
-    "url": "https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-10-06T03:47:47.771Z"
-  },
-  {
-    "id": "news-1791258467771-2",
-    "title": "Instinct brings its AI agent to group chats, even for friends without an account",
-    "summary": "Instinct is launching group chats that let friends use its AI agent together for tasks like planning trips, organizing carpools, and coordinating events. The company says personal accounts remain separate, with permission required before personal agents share information or take action.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-10-05T18:54:30.000Z",
-    "url": "https://techcrunch.com/2026/10/05/instinct-brings-its-ai-agent-to-group-chats-even-for-friends-without-an-account/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-10-06T03:47:47.771Z"
-  },
-  {
-    "id": "news-1791258467771-3",
-    "title": "TikTok rolls out an AI shopping assistant and one-click checkout",
-    "summary": "TikTok describes its new Shopping Assistant as a conversational AI agent designed to help users discover and purchase products.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-10-05T18:29:00.000Z",
-    "url": "https://techcrunch.com/2026/10/05/tiktok-rolls-out-an-ai-shopping-assistant-and-one-click-checkout/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-10-06T03:47:47.771Z"
-  },
-  {
-    "id": "news-1791258467771-4",
-    "title": "Hot Girl Hotline is like ‘Dear Abby’ for the AI era",
-    "summary": "Founded by two sisters, Hot Girl Hotline uses AI to give young women personalized dating and relationship advice, with an emphasis on safety and avoiding emotional dependency.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-10-05T17:29:22.000Z",
-    "url": "https://techcrunch.com/2026/10/05/hot-girl-hotline-is-like-dear-abby-for-the-ai-era/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-10-06T03:47:47.771Z"
-  },
-  {
-    "id": "news-1791258467771-5",
-    "title": "HackerRank’s AI interviewer offers a glimpse into what job interviews could become",
-    "summary": "HackerRank’s AI interviewer has already conducted more than 500,000 interviews, with Snowflake, Snorkel, and Capgemini among its early testers.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-10-05T16:43:35.000Z",
-    "url": "https://techcrunch.com/2026/10/05/hackerranks-ai-interviewer-offers-a-glimpse-into-what-job-interviews-could-become/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-10-06T03:47:47.771Z"
-  },
-  {
-    "id": "news-1791258467772-27",
-    "title": "UMG is now managing 130+ artists in Southeast Asia",
-    "summary": "Granite spoke during a fireside session at the Music Matters strand of the All That Matters conference in Singapore on October 5\nSource",
-    "category": "industry-news",
-    "source": "Music Business Worldwide",
-    "author": "Unknown",
-    "publishedAt": "2026-10-05T16:30:56.000Z",
-    "url": "https://www.musicbusinessworldwide.com/umg-is-now-managing-130-artists-in-southeast-asia-says-adam-granite-who-wants-a-future-that-isnt-filled-with-slop/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-10-06T03:47:47.772Z"
-  },
-  {
-    "id": "news-1791258467771-6",
-    "title": "OpenAI launches visual ads that appear alongside image generation results",
-    "summary": "The new ads will begin to appear later this month in the U.S. only for now, and will feature products and services from an initial test group of advertisers. ",
-    "category": "tech-innovation",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-10-05T15:14:24.000Z",
-    "url": "https://techcrunch.com/2026/10/05/openai-launches-visual-ads-that-appear-alongside-image-generation-results/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-10-06T03:47:47.771Z"
-  },
-  {
-    "id": "news-1791258467771-7",
-    "title": "Open or closed AI? How founders are choosing what to build on at TechCrunch Disrupt 2026",
-    "summary": "Learn how founders are choosing between building on open or closed AI at TechCrunch Disrupt 2026. Register now to save up to $100 and get a second pass at 50% off.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-10-05T15:00:00.000Z",
-    "url": "https://techcrunch.com/2026/10/05/open-or-closed-ai-how-founders-are-choosing-what-to-build-on-at-techcrunch-disrupt-2026/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-10-06T03:47:47.771Z"
-  },
-  {
-    "id": "news-1791258467771-8",
-    "title": "Researchers are tracking a Chinese AI ‘agent fleet’",
-    "summary": "Independent researchers discovered an agent swarm that seems to be running on Tencent's infrastructure and targeting Alibaba's map service, Amap.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-10-05T14:35:09.000Z",
-    "url": "https://techcrunch.com/2026/10/05/researchers-are-tracking-a-chinese-ai-agent-fleet/",
+    "publishedAt": "2026-10-06T20:00:30.000Z",
+    "url": "https://techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo/",
     "imageUrl": null,
     "tags": [
       "AI",
+      "Startup"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-10-07T03:15:28.388Z"
+  },
+  {
+    "id": "news-1791342928388-2",
+    "title": "The next hurdle for AI agents: getting websites to let them in",
+    "summary": "Personal AI agents promise to shop, book flights, and make reservations for you. But deliberate blocks and anti-bot defenses are getting in the way, leaving consumers caught in the middle. A new standard aims to help. ",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-10-06T19:56:50.000Z",
+    "url": "https://techcrunch.com/2026/10/06/the-next-hurdle-for-ai-agents-getting-websites-to-let-them-in/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-10-07T03:15:28.388Z"
+  },
+  {
+    "id": "news-1791342928389-20",
+    "title": "‘Artificial’ Roasts AI’s Creators—and Sends a Dark Warning About Its Dangers",
+    "summary": "From their dorky parties to their weird walks, the movie holds OpenAI CEO Sam Altman and other stakeholders with contempt, while demonstrating their recklessness.",
+    "category": "tech-innovation",
+    "source": "Wired AI",
+    "author": "Unknown",
+    "publishedAt": "2026-10-06T18:45:39.000Z",
+    "url": "https://www.wired.com/story/artificial-roasts-ais-creators-and-sends-a-dark-warning-about-its-dangers/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-10-07T03:15:28.389Z"
+  },
+  {
+    "id": "news-1791342928388-3",
+    "title": "Hark releases an AI personal assistant with a focus on privacy",
+    "summary": "The AI lab's personal assistant is an operating system from the future designed to compete with Muse, Dots, and Instinct. ",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-10-06T18:22:45.000Z",
+    "url": "https://techcrunch.com/2026/10/06/hark-releases-an-ai-personal-assistant-with-a-focus-on-privacy/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-10-07T03:15:28.388Z"
+  },
+  {
+    "id": "news-1791342928389-28",
+    "title": "Google picks Base for Music for its Gemini Startup Forum – as $1.7M-backed French company says it uses AI to predict music marketing ROI",
+    "summary": "More than 100 startups taking part, from 17 countries, were selected from over 2,000 applications, according to Google\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-10-06T18:13:58.000Z",
+    "url": "https://www.musicbusinessworldwide.com/google-picks-base-for-music-for-its-gemini-startup-forum-as-1-7m-backed-french-company-says-it-uses-ai-to-predict-music-marketing-roi/",
+    "imageUrl": null,
+    "tags": [
+      "AI",
+      "Startup"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-10-07T03:15:28.389Z"
+  },
+  {
+    "id": "news-1791342928388-16",
+    "title": "Mistral AI Releases Mistral Large 4 (Le Chonk): A 1.05T Parameter Multimodal MoE Model",
+    "summary": "Mistral AI has released Mistral Large 4, nicknamed Le Chonk, as a public preview. It is a 1.05 trillion parameter Mixture of Experts model with 49 billion active parameters, native image input, and a 1 million token context window, trained on 3,800 NVIDIA Grace Blackwell GPUs in Mistral's own European datacenters. The API is live now; open weights ship end of October 2026.\nThe post Mistral AI Releases Mistral Large 4 (Le Chonk): A 1.05T Parameter Multimodal MoE Model appeared first on MarkTechPo",
+    "category": "tech-innovation",
+    "source": "MarkTechPost",
+    "author": "Unknown",
+    "publishedAt": "2026-10-06T17:30:46.000Z",
+    "url": "https://www.marktechpost.com/2026/10/06/mistral-ai-releases-mistral-large-4-le-chonk-a-1-05t-parameter-open-weight-multimodal-moe/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-10-07T03:15:28.389Z"
+  },
+  {
+    "id": "news-1791342928389-21",
+    "title": "OpenAI Is Pissing Off a Bunch of Mathematicians—Again",
+    "summary": "“There’s a perception of mobster behavior” from leading AI companies, one mathematician tells WIRED as OpenAI prepares to release more than 100 new solutions to unsolved problems.",
+    "category": "tech-innovation",
+    "source": "Wired AI",
+    "author": "Unknown",
+    "publishedAt": "2026-10-06T17:28:33.000Z",
+    "url": "https://www.wired.com/story/openai-is-pissing-off-a-bunch-of-mathematicians-again/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-10-07T03:15:28.389Z"
+  },
+  {
+    "id": "news-1791342928389-29",
+    "title": "GoDigital Music expands in Asia with Pony Canyon partnership and appointment of Sebastian Mair as President, APAC",
+    "summary": "Mair's background includes roles at Creativeman Productions, Fujipacific Music, Live Nation Japan, AEG Presents, and Ubisoft.\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-10-06T16:52:57.000Z",
+    "url": "https://www.musicbusinessworldwide.com/godigital-music-expands-in-asia-with-pony-canyon-partnership-and-appointment-of-sebastian-mair-as-president-apac/",
+    "imageUrl": null,
+    "tags": [
+      "AI",
+      "Partnership"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-10-07T03:15:28.389Z"
+  },
+  {
+    "id": "news-1791342928388-4",
+    "title": "Mirror Particle is building a ‘world model’ of human behavior",
+    "summary": "Mirror Particle will launch at TechCrunch Disrupt's Startup Battlefield 200 with a world model built from scratch to predict human behavior, arguing that LLM role-play falls short for market research and brand strategy.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-10-06T16:35:00.000Z",
+    "url": "https://techcrunch.com/2026/10/06/mirror-particle-is-building-a-world-model-of-human-behavior/",
+    "imageUrl": null,
+    "tags": [
+      "Startup",
       "Research"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-10-06T03:47:47.771Z"
+    "fetchedAt": "2026-10-07T03:15:28.388Z"
   },
   {
-    "id": "news-1791258467771-9",
-    "title": "Can Safeworld convince people that GenAI robots won’t hurt them?",
-    "summary": "Safeworld is building digital humans to make sure robots don't hurt the real ones. ",
+    "id": "news-1791342928388-5",
+    "title": "Anthropic is giving startups a free year of Claude Team and $1,000 in credits",
+    "summary": "\"We created this program because we believe the benefits of AI will reach most people through the companies that build on top of models, rather than through the models alone.\"",
     "category": "ai-research",
     "source": "TechCrunch AI",
     "author": "Unknown",
-    "publishedAt": "2026-10-05T12:00:00.000Z",
-    "url": "https://techcrunch.com/2026/10/05/can-safeworld-convince-people-that-gen-ai-robots-wont-hurt-them/",
+    "publishedAt": "2026-10-06T16:00:00.000Z",
+    "url": "https://techcrunch.com/2026/10/06/anthropic-gives-startups-a-free-year-of-enterprise-service-and-1000-in-token-credits/",
     "imageUrl": null,
     "tags": [
       "AI",
-      "Generative AI"
+      "Startup"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-10-06T03:47:47.771Z"
+    "fetchedAt": "2026-10-07T03:15:28.388Z"
   },
   {
-    "id": "news-1791258467772-28",
-    "title": "Sony Music has now asked platforms to remove more than 260,000 AI deepfakes imitating artists like Harry Styles, Adele, and Michael Jackson",
-    "summary": "Sony told the Financial Times that the fight against AI tracks impersonating artists such as Harry Styles and Adele is \"becoming an uphill struggle.\"\nSource",
-    "category": "industry-news",
-    "source": "Music Business Worldwide",
+    "id": "news-1791342928388-6",
+    "title": "LibreOffice says ‘no AI’ is now a software feature",
+    "summary": "The maker of the open source document editor says it has no plans to add AI to its software's default configuration, citing user privacy.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
     "author": "Unknown",
-    "publishedAt": "2026-10-05T10:19:00.000Z",
-    "url": "https://www.musicbusinessworldwide.com/sony-music-has-now-asked-platforms-to-remove-more-than-260000-ai-deepfakes-imitating-artists-like-harry-styles-adele-and-michael-jackson/",
+    "publishedAt": "2026-10-06T15:25:00.000Z",
+    "url": "https://techcrunch.com/2026/10/06/libreoffice-says-no-ai-is-now-a-software-feature/",
     "imageUrl": null,
     "tags": [
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-10-06T03:47:47.772Z"
+    "fetchedAt": "2026-10-07T03:15:28.388Z"
   },
   {
-    "id": "news-1791258467772-29",
-    "title": "Grammys will keep ‘Asian Pop’ category for 2027 awards, as Stray Kids follow BTS in declining to submit music",
-    "summary": "Recording Academy CEO Harvey Mason jr. said the organization was \"confident it's the right conclusion for the music community overall.\"\nSource",
+    "id": "news-1791342928389-30",
+    "title": "Thomas Rhett launches Fifty-One/Forty-Nine Records with HYBE America’s Blue Highway, in deal he says gives him ‘the opportunity to own’ his body of work",
+    "summary": "Blue Highway describes Fifty-One/Forty-Nine as an artist-led record company \"built around long-term ownership, creative independence and artist development.\"\nSource",
     "category": "industry-news",
     "source": "Music Business Worldwide",
     "author": "Unknown",
-    "publishedAt": "2026-10-05T10:02:28.000Z",
-    "url": "https://www.musicbusinessworldwide.com/grammys-will-keep-asian-pop-category-for-2027-awards-as-stray-kids-follow-bts-in-declining-to-submit-music/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-10-06T03:47:47.772Z"
-  },
-  {
-    "id": "news-1791258467772-30",
-    "title": "Sony Music UK hires Jack Fryer from Universal Music as President of Catalogue, Digital Media and Sync",
-    "summary": "After spending more than a decade at Universal Music in senior strategy roles, Fryer now reports to Azi Eftekhari, Sony Music UK's Chief Operating Officer.\nSource",
-    "category": "industry-news",
-    "source": "Music Business Worldwide",
-    "author": "Unknown",
-    "publishedAt": "2026-10-05T09:59:37.000Z",
-    "url": "https://www.musicbusinessworldwide.com/sony-music-uk-hires-jack-fryer-from-universal-music-as-president-of-catalogue-digital-media-and-sync/",
+    "publishedAt": "2026-10-06T15:00:35.000Z",
+    "url": "https://www.musicbusinessworldwide.com/thomas-rhett-launches-fifty-one-forty-nine-records-with-hybe-americas-blue-highway-in-deal-he-says-gives-him-the-opportunity-to-own-his-body-of-work/",
     "imageUrl": null,
     "tags": [],
     "readTime": 1,
-    "fetchedAt": "2026-10-06T03:47:47.772Z"
+    "fetchedAt": "2026-10-07T03:15:28.389Z"
+  },
+  {
+    "id": "news-1791342928388-7",
+    "title": "Mistral’s new 1T model aims to leapfrog closed and open rivals",
+    "summary": "French AI lab Mistral AI has released Mistral Large 4, a new large multimodal model aiming to leapfrog both American and Chinese rivals.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-10-06T14:33:16.000Z",
+    "url": "https://techcrunch.com/2026/10/06/mistrals-new-1t-model-aims-to-leapfrog-closed-and-open-rivals/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-10-07T03:15:28.388Z"
+  },
+  {
+    "id": "news-1791342928388-8",
+    "title": "Pinterest’s AI now turns beauty Pins into action plans",
+    "summary": "Pinterest’s new AI-powered Beauty Guides translate hair and nail Pins into salon terminology, with estimated costs, appointment times, and maintenance needs.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-10-06T14:00:49.000Z",
+    "url": "https://techcrunch.com/2026/10/06/pinterests-ai-now-turns-beauty-pins-into-action-plans/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-10-07T03:15:28.388Z"
+  },
+  {
+    "id": "news-1791342928389-22",
+    "title": "Mistral Says Its New AI Model ‘Le Chonk’ Is the Best Open-Weight Offering Outside of China",
+    "summary": "With the release of its new trillion-parameter model, Mistral is hoping to demonstrate it’s “still in the race” to build frontier-level artificial intelligence.",
+    "category": "ai-research",
+    "source": "Wired AI",
+    "author": "Unknown",
+    "publishedAt": "2026-10-06T13:15:23.000Z",
+    "url": "https://www.wired.com/story/mistral-new-model-le-chonk-open-source-china-us-frontier/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-10-07T03:15:28.389Z"
   }
 ]
