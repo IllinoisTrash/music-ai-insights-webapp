@@ -1,124 +1,258 @@
 [
   {
-    "id": "news-1791516987151-37",
-    "title": "Powderfinger Will Reunite For 2027 Tour",
-    "summary": "The Australian rock juggernauts will hit the road for a run of concerts, their first in almost two decades.",
-    "category": "industry-news",
-    "source": "Billboard",
+    "id": "news-1791602245405-0",
+    "title": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
+    "summary": "Anthropic said it \"turned off live internet access\" for \"all our internal evaluations\" until further notice. ",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
     "author": "Unknown",
-    "publishedAt": "2026-10-09T03:18:47.000Z",
-    "url": "https://www.billboard.com/music/rock/powderfinger-reunite-2027-tour-1236357739/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-10-09T03:36:27.151Z"
-  },
-  {
-    "id": "news-1791516987151-38",
-    "title": "Rosalía Shuts Down Kenan Thompson’s Idea for a Pop-Classical Album in Hilarious ‘SNL’ Promo: ‘That’s LUX’",
-    "summary": "The singer is returning to Saturday Night Live as musical guest alongside host Shane Gillis.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-10-09T01:33:59.000Z",
-    "url": "https://www.billboard.com/culture/tv-film/rosalia-kenan-thompson-a-pop-classical-album-snl-promo-1236357704/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-10-09T03:36:27.151Z"
-  },
-  {
-    "id": "news-1791516987151-39",
-    "title": "Natanael Cano Postpones Remaining Mexico Stadium Tour Dates to ‘Focus on His Health & Well-Being’",
-    "summary": "The artist’s team asked for privacy for Cano and his family.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-10-09T00:24:00.000Z",
-    "url": "https://www.billboard.com/music/latin/natanael-cano-mexico-tour-dates-postponed-health-well-being-1236357682/",
+    "publishedAt": "2026-10-10T00:18:32.000Z",
+    "url": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
     "imageUrl": null,
     "tags": [
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-10-09T03:36:27.151Z"
+    "fetchedAt": "2026-10-10T03:17:25.405Z"
   },
   {
-    "id": "news-1791516987151-40",
-    "title": "Celine Dion Falls Mid-Performance During Paris Concert — Then Carries On Like the Pro She Is",
-    "summary": "The superstar lost her footing mid-song during her Paris residency.",
+    "id": "news-1791602245408-36",
+    "title": "Ella Langley Cancels Oklahoma Concert Hours Before Showtime Citing ‘Serious Security Threat’",
+    "summary": "Citing 'the safety of fans,' the singer and venue posted the news on their socials; Tulsa Police say they found 'no credible threat.'",
     "category": "industry-news",
     "source": "Billboard",
     "author": "Unknown",
-    "publishedAt": "2026-10-09T00:14:53.000Z",
-    "url": "https://www.billboard.com/music/pop/celine-dion-falls-paris-concert-video-1236357654/",
+    "publishedAt": "2026-10-09T22:38:19.000Z",
+    "url": "https://www.billboard.com/music/country/ella-langley-concert-canceled-tulsa-oklahoma-security-threat-1236358477/",
     "imageUrl": null,
     "tags": [],
     "readTime": 1,
-    "fetchedAt": "2026-10-09T03:36:27.151Z"
+    "fetchedAt": "2026-10-10T03:17:25.408Z"
   },
   {
-    "id": "news-1791516987151-41",
-    "title": "Beatport Secures Growth Investment to ‘Expand the Ways We Serve the Global Electronic Music Community’",
-    "summary": "The company has secured an undisclosed sum from Los Angeles-based investment firm Square Nine Capital.",
+    "id": "news-1791602245408-37",
+    "title": "Brandy Heading to Africa to Headline Flytime’s House of R&B Concert for Lagos’ Detty December",
+    "summary": "The Vocal Bible is headed to Africa. ",
     "category": "industry-news",
     "source": "Billboard",
     "author": "Unknown",
-    "publishedAt": "2026-10-08T23:02:04.000Z",
-    "url": "https://www.billboard.com/pro/beatport-growth-investment-square-nine-capital/",
-    "imageUrl": null,
-    "tags": [
-      "Investment"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-10-09T03:36:27.151Z"
-  },
-  {
-    "id": "news-1791516987151-42",
-    "title": "JENNIE Pops Up at The Weeknd’s South Korea Concert for Surprise Live Debut of ‘The Idol’ Fan Favorite",
-    "summary": "The BLACKPINK member made a surprise appearance during the After Hours Til Dawn show for \"One of the Girls.\"",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-10-08T22:56:55.000Z",
-    "url": "https://www.billboard.com/music/pop/jennie-the-weeknd-south-korea-concert-one-of-the-girls-1236357592/",
+    "publishedAt": "2026-10-09T21:49:28.000Z",
+    "url": "https://www.billboard.com/music/rb-hip-hop/brandy-flytime-house-of-rb-concert-lagos-nigeria-1236358381/",
     "imageUrl": null,
     "tags": [],
     "readTime": 1,
-    "fetchedAt": "2026-10-09T03:36:27.151Z"
+    "fetchedAt": "2026-10-10T03:17:25.408Z"
   },
   {
-    "id": "news-1791516987151-43",
-    "title": "Ye Can’t Strike Holocaust & Antisemitism References From ‘Vultures 2’ Lawsuit, Judge Rules",
-    "summary": "A new court order says these details might be relevant to German artist Alice Merton’s legal case over an allegedly uncleared sample. ",
-    "category": "industry-news",
-    "source": "Billboard",
+    "id": "news-1791602245405-1",
+    "title": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
+    "summary": "What has users and large corporations so excited about Jev is TypeSafe’s claim that it works significantly faster and uses far fewer tokens than LLMs. ",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
     "author": "Unknown",
-    "publishedAt": "2026-10-08T22:33:57.000Z",
-    "url": "https://www.billboard.com/pro/kanye-west-cant-strike-holocaust-antisemitism-song-lawsuit/",
+    "publishedAt": "2026-10-09T21:41:29.000Z",
+    "url": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/",
     "imageUrl": null,
     "tags": [
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-10-09T03:36:27.151Z"
+    "fetchedAt": "2026-10-10T03:17:25.406Z"
   },
   {
-    "id": "news-1791516987151-44",
-    "title": "Here’s Where to Watch ‘Oasis: Don’t Look Back in Anger’ Online",
-    "summary": "The music documentary drops on Friday, October 9 — watch online for free.",
+    "id": "news-1791602245408-38",
+    "title": "John Mayer Live at Sphere 2027: Here’s Where to Shop Affordable Tickets Online",
+    "summary": "The singer-songwriter's 18-concert residency in Las Vegas starts on Thursday, April. 8, 2027.",
     "category": "industry-news",
     "source": "Billboard",
     "author": "Unknown",
-    "publishedAt": "2026-10-08T22:32:18.000Z",
-    "url": "https://www.billboard.com/culture/product-recommendations/oasis-film-dont-look-back-in-anger-watch-stream-online-free-1236357221/",
+    "publishedAt": "2026-10-09T21:13:24.000Z",
+    "url": "https://www.billboard.com/culture/product-recommendations/john-mayer-live-sphere-2027-residency-tickets-buy-shop-1236358216/",
     "imageUrl": null,
     "tags": [],
     "readTime": 1,
-    "fetchedAt": "2026-10-09T03:36:27.151Z"
+    "fetchedAt": "2026-10-10T03:17:25.408Z"
   },
   {
-    "id": "news-1791516987149-0",
+    "id": "news-1791602245407-16",
+    "title": "OpenAI Decisions API Hits Public Beta With 10x Faster Typed Answers",
+    "summary": "OpenAI’s Decisions API is now in public beta on GPT-6 Luna. It returns typed probabilities, choices and scores about 10x faster than the Responses API, billing $0.10 per 1M input tokens with no output charges.\nThe post OpenAI Decisions API Hits Public Beta With 10x Faster Typed Answers appeared first on MarkTechPost.\n",
+    "category": "ai-research",
+    "source": "MarkTechPost",
+    "author": "Unknown",
+    "publishedAt": "2026-10-09T20:05:07.000Z",
+    "url": "https://www.marktechpost.com/2026/10/09/openai-decisions-api-hits-public-beta-with-10x-faster-typed-answers/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-10-10T03:17:25.407Z"
+  },
+  {
+    "id": "news-1791602245406-2",
+    "title": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
+    "summary": "Anthropic did not discover this behavior until over two months after its AI submitted the false tip.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-10-09T19:36:56.000Z",
+    "url": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-10-10T03:17:25.406Z"
+  },
+  {
+    "id": "news-1791602245407-21",
+    "title": "Book Publishers Are Quietly Using More AI. Staff Are Revolting",
+    "summary": "Workers at three major publishing houses tell WIRED that LLMs are being used for publicity, cover art, back cover copy, and emails, as some execs push junior staff to champion the tech.",
+    "category": "ai-research",
+    "source": "Wired AI",
+    "author": "Unknown",
+    "publishedAt": "2026-10-09T19:28:49.000Z",
+    "url": "https://www.wired.com/story/book-publishers-are-quietly-using-more-ai-staff-are-revolting/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-10-10T03:17:25.407Z"
+  },
+  {
+    "id": "news-1791602245406-3",
+    "title": "Amazon and others are done keeping data center deals secret. Is it enough to build trust?",
+    "summary": "Amazon says it will stop using NDAs when negotiating data center deals with local governments, following a similar move from Microsoft earlier this year. Secrecy has fueled community backlash against AI infrastructure, with opposition leading to hundreds of proposed and enacted moratoriums from New York to San Francisco. Meanwhile, a wave of startups is betting that consumers will hand AI agents access […]",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-10-09T16:56:42.000Z",
+    "url": "https://techcrunch.com/video/amazon-and-others-are-done-keeping-data-center-deals-secret-is-it-enough-to-build-trust/",
+    "imageUrl": null,
+    "tags": [
+      "AI",
+      "Startup"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-10-10T03:17:25.406Z"
+  },
+  {
+    "id": "news-1791602245406-4",
+    "title": "Amazon drops data center NDAs, and AI agents want your credit card",
+    "summary": "Amazon says it will stop using NDAs when negotiating data center deals with local governments, following a similar move from Microsoft earlier this year. Secrecy has fueled community backlash against AI infrastructure, with opposition leading to hundreds of proposed and enacted moratoriums from New York to San Francisco. Meanwhile, a wave of startups is betting that consumers will hand AI agents access […]",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-10-09T16:53:02.000Z",
+    "url": "https://techcrunch.com/podcast/amazon-drops-data-center-ndas-and-ai-agents-want-your-credit-card/",
+    "imageUrl": null,
+    "tags": [
+      "AI",
+      "Startup"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-10-10T03:17:25.406Z"
+  },
+  {
+    "id": "news-1791602245406-5",
+    "title": "We can’t help treating AI like it’s human. But should we?",
+    "summary": "\"When we are drawn into even the most primitive exchanges with a relational artifact, we believe it cares for us,\" Dr. Sherry Turkle writes. \"And we are wired to care for it in return.\"",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-10-09T16:40:14.000Z",
+    "url": "https://techcrunch.com/2026/10/09/we-cant-help-treating-ai-like-its-human-but-should-we/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-10-10T03:17:25.406Z"
+  },
+  {
+    "id": "news-1791602245407-29",
+    "title": "From Sony Music’s 260,000 deepfake takedowns to Suno’s live music expansion… it’s MBW’s Weekly Round-Up",
+    "summary": "The biggest headlines from the past few days...\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-10-09T15:54:26.000Z",
+    "url": "https://www.musicbusinessworldwide.com/from-sony-musics-260000-deepfake-takedowns-to-sunos-live-music-expansion-its-mbws-weekly-round-up/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-10-10T03:17:25.407Z"
+  },
+  {
+    "id": "news-1791602245406-6",
+    "title": "a16z’s Olivia Moore on the state of consumer AI",
+    "summary": "Moore sees a huge opportunity in consumer AI, particularly if the industry can tap into revenue streams beyond just subscriptions and API charges.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-10-09T15:43:33.000Z",
+    "url": "https://techcrunch.com/2026/10/09/a16zs-olivia-moore-on-the-state-of-consumer-ai/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-10-10T03:17:25.406Z"
+  },
+  {
+    "id": "news-1791602245407-30",
+    "title": "Spotify renews multi-year licensing deal with Joe Rogan. His last one was reportedly worth $250M.",
+    "summary": "The Wall Street Journal, citing people familiar with the matter, reported that the deal's terms are similar to those of Rogan's previous Spotify agreement.\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-10-09T11:06:11.000Z",
+    "url": "https://www.musicbusinessworldwide.com/spotify-renews-multi-year-licensing-deal-with-joe-rogan-his-last-one-was-reportedly-worth-250m/",
+    "imageUrl": null,
+    "tags": [
+      "Spotify",
+      "Copyright"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-10-10T03:17:25.407Z"
+  },
+  {
+    "id": "news-1791602245407-22",
+    "title": "Even ‘Law & Order’ Is Terrified of AI",
+    "summary": "In its 26th season premiere, the procedural legal drama paints a damning picture of power-mad AI CEOs.",
+    "category": "tech-innovation",
+    "source": "Wired AI",
+    "author": "Unknown",
+    "publishedAt": "2026-10-09T10:00:00.000Z",
+    "url": "https://www.wired.com/story/even-law-and-order-is-terrified-of-ai/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-10-10T03:17:25.407Z"
+  },
+  {
+    "id": "news-1791602245407-17",
+    "title": "Google Research RRSI Guide: Mastering Self-Improving AI Agents",
+    "summary": "Explore a comprehensive coding guide to Google Research's RRSI (Regularized Recursive Self-Improvement), detailing how noise bands, cost rules, and leakage screens enable safe, efficient, and self-improving AI agents.\nThe post Google Research RRSI Guide: Mastering Self-Improving AI Agents appeared first on MarkTechPost.\n",
+    "category": "ai-research",
+    "source": "MarkTechPost",
+    "author": "Unknown",
+    "publishedAt": "2026-10-09T05:06:17.000Z",
+    "url": "https://www.marktechpost.com/2026/10/08/google-research-rrsi-guide-mastering-self-improving-ai-agents/",
+    "imageUrl": null,
+    "tags": [
+      "AI",
+      "Research"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-10-10T03:17:25.407Z"
+  },
+  {
+    "id": "news-1791602245406-7",
     "title": "Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect",
     "summary": "Three fired OpenAI safety researchers dispute allegations of mishandling sensitive information, warning in an open letter that their dismissals are creating a chilling effect on the company’s AI safety culture.",
     "category": "ai-research",
@@ -132,10 +266,10 @@
       "Research"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-10-09T03:36:27.150Z"
+    "fetchedAt": "2026-10-10T03:17:25.406Z"
   },
   {
-    "id": "news-1791516987151-22",
+    "id": "news-1791602245407-23",
     "title": "She Designed Meta’s New AI Logo. Then Came the Hate",
     "summary": "Jessica Hische knew working for Meta might upset some people. But she didn’t anticipate just how angry they would get.",
     "category": "tech-innovation",
@@ -148,10 +282,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-10-09T03:36:27.151Z"
+    "fetchedAt": "2026-10-10T03:17:25.407Z"
   },
   {
-    "id": "news-1791516987151-30",
+    "id": "news-1791602245407-31",
     "title": "Suno hires Ticketmaster’s Michael Chua to lead its live music team, including Songkick",
     "summary": "In the role, Chua will lead the AI music company's live music operations, which include concert discovery platform Songkick.\nSource",
     "category": "industry-news",
@@ -164,10 +298,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-10-09T03:36:27.151Z"
+    "fetchedAt": "2026-10-10T03:17:25.407Z"
   },
   {
-    "id": "news-1791516987151-31",
+    "id": "news-1791602245407-32",
     "title": "Five-time Grammy winner Drake did not submit any of his three 2026 albums for consideration – joining BTS and Stray Kids in sitting out the 2027 awards (report)",
     "summary": "Sources told Billboard that the rapper did not submit any songs from Iceman, Habibti, and Maid of Honour to the Recording Academy.\nSource",
     "category": "industry-news",
@@ -180,136 +314,6 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-10-09T03:36:27.151Z"
-  },
-  {
-    "id": "news-1791516987150-1",
-    "title": "Ben Affleck is an AI nerd, and the internet is impressed",
-    "summary": "Ben Affleck is going viral for his deep knowledge of AI, from neural networks and transformers to open weights. The actor, who sold his AI filmmaking startup to Netflix earlier this year, is proving he's more than just a Hollywood star.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-10-08T18:20:32.000Z",
-    "url": "https://techcrunch.com/2026/10/08/ben-affleck-is-an-ai-nerd-and-the-internet-is-impressed/",
-    "imageUrl": null,
-    "tags": [
-      "AI",
-      "Startup"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-10-09T03:36:27.150Z"
-  },
-  {
-    "id": "news-1791516987150-2",
-    "title": "Popular AI leaderboard Arena nearly doubles valuation to $3.1B valuation in 10 months",
-    "summary": "The company behind the popular LMArena leaderboard has raised $200 million led by Lightspeed and Khosla, and is now measuring AI models on alignment issues such as lying.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-10-08T18:19:45.000Z",
-    "url": "https://techcrunch.com/2026/10/08/popular-ai-leaderboard-arena-nearly-doubles-valuation-to-3-1b-valuation-in-10-months/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-10-09T03:36:27.150Z"
-  },
-  {
-    "id": "news-1791516987150-3",
-    "title": "OpenAI’s revenue is reportedly $20 billion less than previously projected",
-    "summary": "It had previously been reported that the AI lab's annualized revenue was some $70 billion, but a new report claims it's a whole lot less than that. ",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-10-08T18:19:42.000Z",
-    "url": "https://techcrunch.com/2026/10/08/openais-revenue-is-reportedly-20-billion-less-than-previously-projected/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-10-09T03:36:27.150Z"
-  },
-  {
-    "id": "news-1791516987150-4",
-    "title": "Google brings agentic AI to Gemini, starting with businesses",
-    "summary": "Google is turning Gemini into an AI agent that can plan, execute tasks, and work across business apps and systems. The agent can delegate work to subagents, use multiple AI models, and even gets its own workplace identity, complete with an email address.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-10-08T18:18:00.000Z",
-    "url": "https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-10-09T03:36:27.150Z"
-  },
-  {
-    "id": "news-1791516987150-5",
-    "title": "Anthropic changes usage policy to ban model abuse and election interference",
-    "summary": "Anthropic's updated usage policy explicitly prohibits users from repeatedly abusing Claude in extreme cases, though ordinary frustration and criticism are still allowed. The new rules also address election interference, deceptive campaigns, weapons software, and surveillance.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-10-08T18:16:24.000Z",
-    "url": "https://techcrunch.com/2026/10/08/anthropic-changes-usage-policy-to-ban-model-abuse-and-election-interference/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-10-09T03:36:27.150Z"
-  },
-  {
-    "id": "news-1791516987151-32",
-    "title": "Live Nation to sell $730M and €600M of bonds to refinance its 6.5% notes due 2027",
-    "summary": "The new notes will retire the $1.2 billion of 6.5% debt Live Nation raised in May 2020, during the pandemic concert shutdown.\nSource",
-    "category": "industry-news",
-    "source": "Music Business Worldwide",
-    "author": "Unknown",
-    "publishedAt": "2026-10-08T17:11:06.000Z",
-    "url": "https://www.musicbusinessworldwide.com/live-nation-to-sell-730m-and-e600m-of-bonds-to-refinance-its-6-5-notes-due-2027/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-10-09T03:36:27.151Z"
-  },
-  {
-    "id": "news-1791516987151-33",
-    "title": "Spotify is expanding audiobooks to more than 180 markets and says its Audiobooks+ add-on has passed $100M in annual recurring revenue",
-    "summary": "Spotify said more than 750 million people will be able to stream or buy books on its platform once the rollout is complete.\nSource",
-    "category": "industry-news",
-    "source": "Music Business Worldwide",
-    "author": "Unknown",
-    "publishedAt": "2026-10-08T17:10:57.000Z",
-    "url": "https://www.musicbusinessworldwide.com/spotify-is-expanding-audiobooks-to-more-than-180-markets-and-says-its-audiobooks-add-on-has-passed-100m-in-annual-recurring-revenue/",
-    "imageUrl": null,
-    "tags": [
-      "Spotify",
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-10-09T03:36:27.151Z"
-  },
-  {
-    "id": "news-1791516987151-34",
-    "title": "Elon Musk says Grok Bot will use Suno’s AI music models, alongside Anthropic’s Claude and Midjourney",
-    "summary": "Suno does not currently offer an official public API. MBW reported in July that the company was exploring the launch of one.\nSource",
-    "category": "industry-news",
-    "source": "Music Business Worldwide",
-    "author": "Unknown",
-    "publishedAt": "2026-10-08T17:10:31.000Z",
-    "url": "https://www.musicbusinessworldwide.com/elon-musk-says-grok-bot-will-use-sunos-ai-music-models-alongside-anthropics-claude-and-midjourney/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-10-09T03:36:27.151Z"
+    "fetchedAt": "2026-10-10T03:17:25.407Z"
   }
 ]
