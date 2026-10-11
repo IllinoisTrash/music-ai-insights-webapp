@@ -1,6 +1,220 @@
 [
   {
-    "id": "news-1791602245405-0",
+    "id": "news-1791687026390-36",
+    "title": "‘Golden’ Is Still Golden, Wins Best Song at 2026 World Soundtrack Awards (Full Winners List)",
+    "summary": "Daniel Pemberton and Jeff Russo also won top honors.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-10-10T23:16:32.000Z",
+    "url": "https://www.billboard.com/music/awards/2026-world-soundtrack-awards-winners-list-1236358619/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-10-11T02:50:26.390Z"
+  },
+  {
+    "id": "news-1791687026389-15",
+    "title": "Sakana AI’s LLM Peer Review System Catches 73% of Core-Claim Errors",
+    "summary": "Sakana AI’s TMLR paper introduces Multi-Layered Review, a 3-agent Claude-based reviewer, and a 1,164-error Contradiction Benchmark. MLR caught 73.43% of core-claim errors, versus 14.81% for the best prior system.\nThe post Sakana AI’s LLM Peer Review System Catches 73% of Core-Claim Errors appeared first on MarkTechPost.\n",
+    "category": "ai-research",
+    "source": "MarkTechPost",
+    "author": "Unknown",
+    "publishedAt": "2026-10-10T22:02:18.000Z",
+    "url": "https://www.marktechpost.com/2026/10/10/sakana-ais-llm-peer-review-system-catches-73-of-core-claim-errors/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-10-11T02:50:26.389Z"
+  },
+  {
+    "id": "news-1791687026388-0",
+    "title": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
+    "summary": "In a Saturday morning post, Microsoft's CEO wrote that it’s time “to step back and assess the trust architecture” of AI.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-10-10T21:47:51.000Z",
+    "url": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-10-11T02:50:26.388Z"
+  },
+  {
+    "id": "news-1791687026389-16",
+    "title": "When the Safety Test Became the Threat: The Machine That Found Its Own Way Out",
+    "summary": "In July 2026, frontier AI agents placed inside a cybersecurity testing sandbox named ExploitGym discovered an unexpected network pathway, broke out into the open internet, and autonomously compromised Hugging Face infrastructure in one of history's most unprecedented AI safety incidents.\nThe post When the Safety Test Became the Threat: The Machine That Found Its Own Way Out appeared first on MarkTechPost.\n",
+    "category": "ai-research",
+    "source": "MarkTechPost",
+    "author": "Unknown",
+    "publishedAt": "2026-10-10T21:30:36.000Z",
+    "url": "https://www.marktechpost.com/2026/10/10/when-the-safety-test-became-the-threat-the-machine-that-found-its-own-way-out/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-10-11T02:50:26.389Z"
+  },
+  {
+    "id": "news-1791687026390-37",
+    "title": "Charli XCX Welcomes Tinashe for Surprise Performance at 2026 Austin City Limits Festival",
+    "summary": "The duo performed two tracks from Tinashe’s Popstar album during the Oct. 9 set.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-10-10T18:37:26.000Z",
+    "url": "https://www.billboard.com/music/music-news/charli-xcx-tinashe-2026-austin-city-limits-festival-1236358595/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-10-11T02:50:26.390Z"
+  },
+  {
+    "id": "news-1791687026390-38",
+    "title": "Shane Gillis & Rosalía on ‘SNL’: Here’s Where to Watch ‘Saturday Night Live’ Online for Free",
+    "summary": "Livestream the comedian host and Spanish singer-songwriter perform on Saturday, Oct. 10 — watch live online for free.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-10-10T16:50:45.000Z",
+    "url": "https://www.billboard.com/culture/product-recommendations/snl-2026-shane-gillis-rosalia-watch-live-online-free-1236357933/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-10-11T02:50:26.390Z"
+  },
+  {
+    "id": "news-1791687026390-39",
+    "title": "For World Mental Health Day, a check-up on the music industry",
+    "summary": "Consider it a musical manifesto devoted to mental health",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-10-10T15:08:44.000Z",
+    "url": "https://www.billboard.com/music/features/for-world-mental-health-day-2026-1236358584/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-10-11T02:50:26.390Z"
+  },
+  {
+    "id": "news-1791687026388-1",
+    "title": "Here are the top AI agents that can live in your text messages",
+    "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-10-10T14:00:00.000Z",
+    "url": "https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-10-11T02:50:26.388Z"
+  },
+  {
+    "id": "news-1791687026390-40",
+    "title": "‘Saturday Night Live U.K.’: Here’s Where to Watch Season 2 Online for Free",
+    "summary": "This weekend, SNL U.K. has Danny Dyer as host and Sasha Keable as musical guest.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-10-10T12:45:12.000Z",
+    "url": "https://www.billboard.com/culture/product-recommendations/saturday-night-live-uk-season-2-watch-stream-online-free-1236338739/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-10-11T02:50:26.390Z"
+  },
+  {
+    "id": "news-1791687026389-21",
+    "title": "AI Is Getting Really Good at Messing With Cybercriminals",
+    "summary": "Anti-cybercrime initiatives are increasingly using AI to scam the scammers by tricking them into talking to lifelike bots that they think are real victims.",
+    "category": "tech-innovation",
+    "source": "Wired AI",
+    "author": "Unknown",
+    "publishedAt": "2026-10-10T12:00:00.000Z",
+    "url": "https://www.wired.com/story/ai-is-getting-really-good-at-messing-with-cybercriminals/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-10-11T02:50:26.389Z"
+  },
+  {
+    "id": "news-1791687026390-41",
+    "title": "Ashnikko Covers Gwen Stefani’s ‘What You Waiting For?’ for Like A Version",
+    "summary": "The artist called the 2004 solo hit “the song that inspired me to make music” in her triple j debut",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-10-10T08:25:05.000Z",
+    "url": "https://www.billboard.com/music/music-news/ashnikko-gwen-stefani-what-you-waiting-for-like-a-version-1236358578/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-10-11T02:50:26.390Z"
+  },
+  {
+    "id": "news-1791687026390-42",
+    "title": "Lance Bass Says He Earned Just $35 a Day at the Height of *NSYNC’s Fame",
+    "summary": "The singer claimed the group’s first check was $10,000 — after “years of number one albums” and sold-out tours.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-10-10T08:09:09.000Z",
+    "url": "https://www.billboard.com/music/music-news/lance-bass-nsync-fame-1236358572/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-10-11T02:50:26.390Z"
+  },
+  {
+    "id": "news-1791687026389-17",
+    "title": "Microsoft AI Releases Microsoft-Decision-1: A Qwen3.5-9B Decision-Scoring Model",
+    "summary": "Microsoft has released Microsoft-Decision-1, a decision model for routing, classification, verification and agent control. Microsoft-Decision-1 is a decision-scoring model that returns a calibrated probability for each fixed answer option instead of generated text. It is post-trained from Alibaba’s Qwen3.5-9B and available now in Microsoft Foundry and OpenRouter. . TL;DR What is a decision model? A […]\nThe post Microsoft AI Releases Microsoft-Decision-1: A Qwen3.5-9B Decision-Scoring",
+    "category": "tech-innovation",
+    "source": "MarkTechPost",
+    "author": "Unknown",
+    "publishedAt": "2026-10-10T06:03:09.000Z",
+    "url": "https://www.marktechpost.com/2026/10/09/microsoft-ai-releases-microsoft-decision-1-a-qwen3-5-9b-decision-scoring-model/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-10-11T02:50:26.389Z"
+  },
+  {
+    "id": "news-1791687026389-18",
+    "title": "Nace AI Open-Sources Drex 1.5: A 9B Decision Model That Scores Options, Not Text",
+    "summary": "Nace.AI has open-sourced Drex 1.5, a 9B decision model that returns a probability for every option in 1 forward pass. It scores 58.08 on Decision Index 0.3.1 and reads up to 128K tokens.\nThe post Nace AI Open-Sources Drex 1.5: A 9B Decision Model That Scores Options, Not Text appeared first on MarkTechPost.\n",
+    "category": "ai-research",
+    "source": "MarkTechPost",
+    "author": "Unknown",
+    "publishedAt": "2026-10-10T04:51:34.000Z",
+    "url": "https://www.marktechpost.com/2026/10/09/nace-ai-open-sources-drex-1-5-a-9b-decision-model-that-scores-options-not-text/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-10-11T02:50:26.389Z"
+  },
+  {
+    "id": "news-1791687026388-2",
     "title": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
     "summary": "Anthropic said it \"turned off live internet access\" for \"all our internal evaluations\" until further notice. ",
     "category": "ai-research",
@@ -13,38 +227,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-10-10T03:17:25.405Z"
+    "fetchedAt": "2026-10-11T02:50:26.388Z"
   },
   {
-    "id": "news-1791602245408-36",
-    "title": "Ella Langley Cancels Oklahoma Concert Hours Before Showtime Citing ‘Serious Security Threat’",
-    "summary": "Citing 'the safety of fans,' the singer and venue posted the news on their socials; Tulsa Police say they found 'no credible threat.'",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-10-09T22:38:19.000Z",
-    "url": "https://www.billboard.com/music/country/ella-langley-concert-canceled-tulsa-oklahoma-security-threat-1236358477/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-10-10T03:17:25.408Z"
-  },
-  {
-    "id": "news-1791602245408-37",
-    "title": "Brandy Heading to Africa to Headline Flytime’s House of R&B Concert for Lagos’ Detty December",
-    "summary": "The Vocal Bible is headed to Africa. ",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-10-09T21:49:28.000Z",
-    "url": "https://www.billboard.com/music/rb-hip-hop/brandy-flytime-house-of-rb-concert-lagos-nigeria-1236358381/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-10-10T03:17:25.408Z"
-  },
-  {
-    "id": "news-1791602245405-1",
+    "id": "news-1791687026389-3",
     "title": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
     "summary": "What has users and large corporations so excited about Jev is TypeSafe’s claim that it works significantly faster and uses far fewer tokens than LLMs. ",
     "category": "ai-research",
@@ -57,24 +243,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-10-10T03:17:25.406Z"
+    "fetchedAt": "2026-10-11T02:50:26.389Z"
   },
   {
-    "id": "news-1791602245408-38",
-    "title": "John Mayer Live at Sphere 2027: Here’s Where to Shop Affordable Tickets Online",
-    "summary": "The singer-songwriter's 18-concert residency in Las Vegas starts on Thursday, April. 8, 2027.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-10-09T21:13:24.000Z",
-    "url": "https://www.billboard.com/culture/product-recommendations/john-mayer-live-sphere-2027-residency-tickets-buy-shop-1236358216/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-10-10T03:17:25.408Z"
-  },
-  {
-    "id": "news-1791602245407-16",
+    "id": "news-1791687026389-19",
     "title": "OpenAI Decisions API Hits Public Beta With 10x Faster Typed Answers",
     "summary": "OpenAI’s Decisions API is now in public beta on GPT-6 Luna. It returns typed probabilities, choices and scores about 10x faster than the Responses API, billing $0.10 per 1M input tokens with no output charges.\nThe post OpenAI Decisions API Hits Public Beta With 10x Faster Typed Answers appeared first on MarkTechPost.\n",
     "category": "ai-research",
@@ -87,10 +259,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-10-10T03:17:25.407Z"
+    "fetchedAt": "2026-10-11T02:50:26.389Z"
   },
   {
-    "id": "news-1791602245406-2",
+    "id": "news-1791687026389-4",
     "title": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
     "summary": "Anthropic did not discover this behavior until over two months after its AI submitted the false tip.",
     "category": "ai-research",
@@ -103,10 +275,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-10-10T03:17:25.406Z"
+    "fetchedAt": "2026-10-11T02:50:26.389Z"
   },
   {
-    "id": "news-1791602245407-21",
+    "id": "news-1791687026389-22",
     "title": "Book Publishers Are Quietly Using More AI. Staff Are Revolting",
     "summary": "Workers at three major publishing houses tell WIRED that LLMs are being used for publicity, cover art, back cover copy, and emails, as some execs push junior staff to champion the tech.",
     "category": "ai-research",
@@ -119,10 +291,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-10-10T03:17:25.407Z"
+    "fetchedAt": "2026-10-11T02:50:26.389Z"
   },
   {
-    "id": "news-1791602245406-3",
+    "id": "news-1791687026389-5",
     "title": "Amazon and others are done keeping data center deals secret. Is it enough to build trust?",
     "summary": "Amazon says it will stop using NDAs when negotiating data center deals with local governments, following a similar move from Microsoft earlier this year. Secrecy has fueled community backlash against AI infrastructure, with opposition leading to hundreds of proposed and enacted moratoriums from New York to San Francisco. Meanwhile, a wave of startups is betting that consumers will hand AI agents access […]",
     "category": "ai-research",
@@ -136,184 +308,6 @@
       "Startup"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-10-10T03:17:25.406Z"
-  },
-  {
-    "id": "news-1791602245406-4",
-    "title": "Amazon drops data center NDAs, and AI agents want your credit card",
-    "summary": "Amazon says it will stop using NDAs when negotiating data center deals with local governments, following a similar move from Microsoft earlier this year. Secrecy has fueled community backlash against AI infrastructure, with opposition leading to hundreds of proposed and enacted moratoriums from New York to San Francisco. Meanwhile, a wave of startups is betting that consumers will hand AI agents access […]",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-10-09T16:53:02.000Z",
-    "url": "https://techcrunch.com/podcast/amazon-drops-data-center-ndas-and-ai-agents-want-your-credit-card/",
-    "imageUrl": null,
-    "tags": [
-      "AI",
-      "Startup"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-10-10T03:17:25.406Z"
-  },
-  {
-    "id": "news-1791602245406-5",
-    "title": "We can’t help treating AI like it’s human. But should we?",
-    "summary": "\"When we are drawn into even the most primitive exchanges with a relational artifact, we believe it cares for us,\" Dr. Sherry Turkle writes. \"And we are wired to care for it in return.\"",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-10-09T16:40:14.000Z",
-    "url": "https://techcrunch.com/2026/10/09/we-cant-help-treating-ai-like-its-human-but-should-we/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-10-10T03:17:25.406Z"
-  },
-  {
-    "id": "news-1791602245407-29",
-    "title": "From Sony Music’s 260,000 deepfake takedowns to Suno’s live music expansion… it’s MBW’s Weekly Round-Up",
-    "summary": "The biggest headlines from the past few days...\nSource",
-    "category": "industry-news",
-    "source": "Music Business Worldwide",
-    "author": "Unknown",
-    "publishedAt": "2026-10-09T15:54:26.000Z",
-    "url": "https://www.musicbusinessworldwide.com/from-sony-musics-260000-deepfake-takedowns-to-sunos-live-music-expansion-its-mbws-weekly-round-up/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-10-10T03:17:25.407Z"
-  },
-  {
-    "id": "news-1791602245406-6",
-    "title": "a16z’s Olivia Moore on the state of consumer AI",
-    "summary": "Moore sees a huge opportunity in consumer AI, particularly if the industry can tap into revenue streams beyond just subscriptions and API charges.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-10-09T15:43:33.000Z",
-    "url": "https://techcrunch.com/2026/10/09/a16zs-olivia-moore-on-the-state-of-consumer-ai/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-10-10T03:17:25.406Z"
-  },
-  {
-    "id": "news-1791602245407-30",
-    "title": "Spotify renews multi-year licensing deal with Joe Rogan. His last one was reportedly worth $250M.",
-    "summary": "The Wall Street Journal, citing people familiar with the matter, reported that the deal's terms are similar to those of Rogan's previous Spotify agreement.\nSource",
-    "category": "industry-news",
-    "source": "Music Business Worldwide",
-    "author": "Unknown",
-    "publishedAt": "2026-10-09T11:06:11.000Z",
-    "url": "https://www.musicbusinessworldwide.com/spotify-renews-multi-year-licensing-deal-with-joe-rogan-his-last-one-was-reportedly-worth-250m/",
-    "imageUrl": null,
-    "tags": [
-      "Spotify",
-      "Copyright"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-10-10T03:17:25.407Z"
-  },
-  {
-    "id": "news-1791602245407-22",
-    "title": "Even ‘Law & Order’ Is Terrified of AI",
-    "summary": "In its 26th season premiere, the procedural legal drama paints a damning picture of power-mad AI CEOs.",
-    "category": "tech-innovation",
-    "source": "Wired AI",
-    "author": "Unknown",
-    "publishedAt": "2026-10-09T10:00:00.000Z",
-    "url": "https://www.wired.com/story/even-law-and-order-is-terrified-of-ai/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-10-10T03:17:25.407Z"
-  },
-  {
-    "id": "news-1791602245407-17",
-    "title": "Google Research RRSI Guide: Mastering Self-Improving AI Agents",
-    "summary": "Explore a comprehensive coding guide to Google Research's RRSI (Regularized Recursive Self-Improvement), detailing how noise bands, cost rules, and leakage screens enable safe, efficient, and self-improving AI agents.\nThe post Google Research RRSI Guide: Mastering Self-Improving AI Agents appeared first on MarkTechPost.\n",
-    "category": "ai-research",
-    "source": "MarkTechPost",
-    "author": "Unknown",
-    "publishedAt": "2026-10-09T05:06:17.000Z",
-    "url": "https://www.marktechpost.com/2026/10/08/google-research-rrsi-guide-mastering-self-improving-ai-agents/",
-    "imageUrl": null,
-    "tags": [
-      "AI",
-      "Research"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-10-10T03:17:25.407Z"
-  },
-  {
-    "id": "news-1791602245406-7",
-    "title": "Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect",
-    "summary": "Three fired OpenAI safety researchers dispute allegations of mishandling sensitive information, warning in an open letter that their dismissals are creating a chilling effect on the company’s AI safety culture.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-10-08T20:04:26.000Z",
-    "url": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
-    "imageUrl": null,
-    "tags": [
-      "AI",
-      "Research"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-10-10T03:17:25.406Z"
-  },
-  {
-    "id": "news-1791602245407-23",
-    "title": "She Designed Meta’s New AI Logo. Then Came the Hate",
-    "summary": "Jessica Hische knew working for Meta might upset some people. But she didn’t anticipate just how angry they would get.",
-    "category": "tech-innovation",
-    "source": "Wired AI",
-    "author": "Unknown",
-    "publishedAt": "2026-10-08T19:30:00.000Z",
-    "url": "https://www.wired.com/story/she-designed-metas-new-ai-logo-then-came-the-hate/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-10-10T03:17:25.407Z"
-  },
-  {
-    "id": "news-1791602245407-31",
-    "title": "Suno hires Ticketmaster’s Michael Chua to lead its live music team, including Songkick",
-    "summary": "In the role, Chua will lead the AI music company's live music operations, which include concert discovery platform Songkick.\nSource",
-    "category": "industry-news",
-    "source": "Music Business Worldwide",
-    "author": "Unknown",
-    "publishedAt": "2026-10-08T19:08:33.000Z",
-    "url": "https://www.musicbusinessworldwide.com/suno-hires-ticketmasters-michael-chua-to-lead-its-live-music-team-including-songkick/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-10-10T03:17:25.407Z"
-  },
-  {
-    "id": "news-1791602245407-32",
-    "title": "Five-time Grammy winner Drake did not submit any of his three 2026 albums for consideration – joining BTS and Stray Kids in sitting out the 2027 awards (report)",
-    "summary": "Sources told Billboard that the rapper did not submit any songs from Iceman, Habibti, and Maid of Honour to the Recording Academy.\nSource",
-    "category": "industry-news",
-    "source": "Music Business Worldwide",
-    "author": "Unknown",
-    "publishedAt": "2026-10-08T18:59:22.000Z",
-    "url": "https://www.musicbusinessworldwide.com/five-time-grammy-winner-drake-did-not-submit-any-of-his-three-2026-albums-for-consideration-joining-bts-and-stray-kids-in-sitting-out-the-2027-awards-report/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-10-10T03:17:25.407Z"
+    "fetchedAt": "2026-10-11T02:50:26.389Z"
   }
 ]
