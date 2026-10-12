@@ -1,20 +1,140 @@
 [
   {
-    "id": "news-1791687026390-36",
-    "title": "‘Golden’ Is Still Golden, Wins Best Song at 2026 World Soundtrack Awards (Full Winners List)",
-    "summary": "Daniel Pemberton and Jeff Russo also won top honors.",
+    "id": "news-1791774826101-34",
+    "title": "Fans Choose Troye Sivan’s ‘She’s the Best’ as This Week’s Favorite New Music",
+    "summary": "His fourth full-length album brought in 56% of the vote.",
     "category": "industry-news",
     "source": "Billboard",
     "author": "Unknown",
-    "publishedAt": "2026-10-10T23:16:32.000Z",
-    "url": "https://www.billboard.com/music/awards/2026-world-soundtrack-awards-winners-list-1236358619/",
+    "publishedAt": "2026-10-11T22:42:06.000Z",
+    "url": "https://www.billboard.com/music/music-news/troye-sivan-shes-the-best-new-music-poll-results-1236358805/",
     "imageUrl": null,
     "tags": [],
     "readTime": 1,
-    "fetchedAt": "2026-10-11T02:50:26.390Z"
+    "fetchedAt": "2026-10-12T03:13:46.101Z"
   },
   {
-    "id": "news-1791687026389-15",
+    "id": "news-1791774826100-13",
+    "title": "What is Decision 3.0? vLLM Semantic Router’s New Open Decision Models",
+    "summary": "vLLM Semantic Router released Decision 3.0, 5 Apache-2.0 multimodal decision models from 0.8B to 27B. They answer choice, yes/no and score questions about text and images in one call, without generating text.\nThe post What is Decision 3.0? vLLM Semantic Router’s New Open Decision Models appeared first on MarkTechPost.\n",
+    "category": "ai-research",
+    "source": "MarkTechPost",
+    "author": "Unknown",
+    "publishedAt": "2026-10-11T21:43:41.000Z",
+    "url": "https://www.marktechpost.com/2026/10/11/what-is-decision-3-0-vllm-semantic-routers-new-open-decision-models/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-10-12T03:13:46.100Z"
+  },
+  {
+    "id": "news-1791774826101-35",
+    "title": "Ella Langley Addresses Bomb Threat That Led to Show Cancellation: ‘A Concert’s Not Worth a Human Life’",
+    "summary": "\"I know yesterday was scary,\" the country star said onstage after dealing with a security threat at her previous tour date. \"It was scary for all of us.\"",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-10-11T21:19:17.000Z",
+    "url": "https://www.billboard.com/music/country/ella-langley-concert-bomb-threat-stage-return-1236358808/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-10-12T03:13:46.101Z"
+  },
+  {
+    "id": "news-1791774826101-36",
+    "title": "The Beatles, Drake & Taylor Swift Are Together in Top 10 on Billboard 200 for First Time",
+    "summary": "The superstar acts have the three highest totals of career No. 1 albums.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-10-11T19:11:36.000Z",
+    "url": "https://www.billboard.com/music/chart-beat/beatles-drake-taylor-swift-top-ten-billboard-200-first-time-1236358742/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-10-12T03:13:46.102Z"
+  },
+  {
+    "id": "news-1791774826102-37",
+    "title": "Taylor Swift Joins The Beatles as Only Acts With 100 Weeks at No. 1 on Billboard 200 Albums Chart",
+    "summary": "Swift’s The Life of a Showgirl spends a 14th week atop the chart, bringing her career total weeks at No. 1 to 100.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-10-11T19:07:29.000Z",
+    "url": "https://www.billboard.com/music/chart-beat/taylor-swift-beatles-100-weeks-number-one-billboard-200-1236358736/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-10-12T03:13:46.102Z"
+  },
+  {
+    "id": "news-1791774826102-38",
+    "title": "Taylor Swift, The Beatles, Elvis & More Artists With the Most Weeks at No. 1 on the Billboard 200: Full List",
+    "summary": "Will Swift eventually equal or top the Fab Four's record?",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-10-11T19:03:28.000Z",
+    "url": "https://www.billboard.com/lists/most-weeks-at-no-1-billboard-200-taylor-swift-the-beatles/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-10-12T03:13:46.102Z"
+  },
+  {
+    "id": "news-1791774826099-0",
+    "title": "Can the AI industry persuade data center opponents by getting rid of NDAs?",
+    "summary": "On Equity, we debate the impact of data center moratoriums and whether the AI industry has a communication problem.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-10-11T16:52:33.000Z",
+    "url": "https://techcrunch.com/2026/10/11/can-the-ai-industry-persuade-data-center-opponents-by-getting-rid-of-ndas/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-10-12T03:13:46.100Z"
+  },
+  {
+    "id": "news-1791774826100-1",
+    "title": "These execs think voice AI hasn’t reached its ChatGPT moment yet",
+    "summary": "Voice AI's often misses important points for its context layer, and causes the whole pipeline to break",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-10-11T14:00:00.000Z",
+    "url": "https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-10-12T03:13:46.100Z"
+  },
+  {
+    "id": "news-1791774826101-19",
+    "title": "I Made Terrible Games With Google’s AI Playground",
+    "summary": "A long day’s haul in the video game slop mines.",
+    "category": "tech-innovation",
+    "source": "Wired AI",
+    "author": "Unknown",
+    "publishedAt": "2026-10-11T11:30:00.000Z",
+    "url": "https://www.wired.com/story/i-made-terrible-games-with-googles-ai-playground/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-10-12T03:13:46.101Z"
+  },
+  {
+    "id": "news-1791774826100-14",
     "title": "Sakana AI’s LLM Peer Review System Catches 73% of Core-Claim Errors",
     "summary": "Sakana AI’s TMLR paper introduces Multi-Layered Review, a 3-agent Claude-based reviewer, and a 1,164-error Contradiction Benchmark. MLR caught 73.43% of core-claim errors, versus 14.81% for the best prior system.\nThe post Sakana AI’s LLM Peer Review System Catches 73% of Core-Claim Errors appeared first on MarkTechPost.\n",
     "category": "ai-research",
@@ -27,10 +147,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-10-11T02:50:26.389Z"
+    "fetchedAt": "2026-10-12T03:13:46.100Z"
   },
   {
-    "id": "news-1791687026388-0",
+    "id": "news-1791774826100-2",
     "title": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
     "summary": "In a Saturday morning post, Microsoft's CEO wrote that it’s time “to step back and assess the trust architecture” of AI.",
     "category": "ai-research",
@@ -43,10 +163,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-10-11T02:50:26.388Z"
+    "fetchedAt": "2026-10-12T03:13:46.100Z"
   },
   {
-    "id": "news-1791687026389-16",
+    "id": "news-1791774826100-15",
     "title": "When the Safety Test Became the Threat: The Machine That Found Its Own Way Out",
     "summary": "In July 2026, frontier AI agents placed inside a cybersecurity testing sandbox named ExploitGym discovered an unexpected network pathway, broke out into the open internet, and autonomously compromised Hugging Face infrastructure in one of history's most unprecedented AI safety incidents.\nThe post When the Safety Test Became the Threat: The Machine That Found Its Own Way Out appeared first on MarkTechPost.\n",
     "category": "ai-research",
@@ -59,52 +179,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-10-11T02:50:26.389Z"
+    "fetchedAt": "2026-10-12T03:13:46.100Z"
   },
   {
-    "id": "news-1791687026390-37",
-    "title": "Charli XCX Welcomes Tinashe for Surprise Performance at 2026 Austin City Limits Festival",
-    "summary": "The duo performed two tracks from Tinashe’s Popstar album during the Oct. 9 set.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-10-10T18:37:26.000Z",
-    "url": "https://www.billboard.com/music/music-news/charli-xcx-tinashe-2026-austin-city-limits-festival-1236358595/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-10-11T02:50:26.390Z"
-  },
-  {
-    "id": "news-1791687026390-38",
-    "title": "Shane Gillis & Rosalía on ‘SNL’: Here’s Where to Watch ‘Saturday Night Live’ Online for Free",
-    "summary": "Livestream the comedian host and Spanish singer-songwriter perform on Saturday, Oct. 10 — watch live online for free.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-10-10T16:50:45.000Z",
-    "url": "https://www.billboard.com/culture/product-recommendations/snl-2026-shane-gillis-rosalia-watch-live-online-free-1236357933/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-10-11T02:50:26.390Z"
-  },
-  {
-    "id": "news-1791687026390-39",
-    "title": "For World Mental Health Day, a check-up on the music industry",
-    "summary": "Consider it a musical manifesto devoted to mental health",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-10-10T15:08:44.000Z",
-    "url": "https://www.billboard.com/music/features/for-world-mental-health-day-2026-1236358584/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-10-11T02:50:26.390Z"
-  },
-  {
-    "id": "news-1791687026388-1",
+    "id": "news-1791774826100-3",
     "title": "Here are the top AI agents that can live in your text messages",
     "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
     "category": "ai-research",
@@ -117,24 +195,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-10-11T02:50:26.388Z"
+    "fetchedAt": "2026-10-12T03:13:46.100Z"
   },
   {
-    "id": "news-1791687026390-40",
-    "title": "‘Saturday Night Live U.K.’: Here’s Where to Watch Season 2 Online for Free",
-    "summary": "This weekend, SNL U.K. has Danny Dyer as host and Sasha Keable as musical guest.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-10-10T12:45:12.000Z",
-    "url": "https://www.billboard.com/culture/product-recommendations/saturday-night-live-uk-season-2-watch-stream-online-free-1236338739/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-10-11T02:50:26.390Z"
-  },
-  {
-    "id": "news-1791687026389-21",
+    "id": "news-1791774826101-20",
     "title": "AI Is Getting Really Good at Messing With Cybercriminals",
     "summary": "Anti-cybercrime initiatives are increasingly using AI to scam the scammers by tricking them into talking to lifelike bots that they think are real victims.",
     "category": "tech-innovation",
@@ -147,42 +211,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-10-11T02:50:26.389Z"
+    "fetchedAt": "2026-10-12T03:13:46.101Z"
   },
   {
-    "id": "news-1791687026390-41",
-    "title": "Ashnikko Covers Gwen Stefani’s ‘What You Waiting For?’ for Like A Version",
-    "summary": "The artist called the 2004 solo hit “the song that inspired me to make music” in her triple j debut",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-10-10T08:25:05.000Z",
-    "url": "https://www.billboard.com/music/music-news/ashnikko-gwen-stefani-what-you-waiting-for-like-a-version-1236358578/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-10-11T02:50:26.390Z"
-  },
-  {
-    "id": "news-1791687026390-42",
-    "title": "Lance Bass Says He Earned Just $35 a Day at the Height of *NSYNC’s Fame",
-    "summary": "The singer claimed the group’s first check was $10,000 — after “years of number one albums” and sold-out tours.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-10-10T08:09:09.000Z",
-    "url": "https://www.billboard.com/music/music-news/lance-bass-nsync-fame-1236358572/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-10-11T02:50:26.390Z"
-  },
-  {
-    "id": "news-1791687026389-17",
+    "id": "news-1791774826101-16",
     "title": "Microsoft AI Releases Microsoft-Decision-1: A Qwen3.5-9B Decision-Scoring Model",
     "summary": "Microsoft has released Microsoft-Decision-1, a decision model for routing, classification, verification and agent control. Microsoft-Decision-1 is a decision-scoring model that returns a calibrated probability for each fixed answer option instead of generated text. It is post-trained from Alibaba’s Qwen3.5-9B and available now in Microsoft Foundry and OpenRouter. . TL;DR What is a decision model? A […]\nThe post Microsoft AI Releases Microsoft-Decision-1: A Qwen3.5-9B Decision-Scoring",
     "category": "tech-innovation",
@@ -195,10 +227,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-10-11T02:50:26.389Z"
+    "fetchedAt": "2026-10-12T03:13:46.101Z"
   },
   {
-    "id": "news-1791687026389-18",
+    "id": "news-1791774826101-17",
     "title": "Nace AI Open-Sources Drex 1.5: A 9B Decision Model That Scores Options, Not Text",
     "summary": "Nace.AI has open-sourced Drex 1.5, a 9B decision model that returns a probability for every option in 1 forward pass. It scores 58.08 on Decision Index 0.3.1 and reads up to 128K tokens.\nThe post Nace AI Open-Sources Drex 1.5: A 9B Decision Model That Scores Options, Not Text appeared first on MarkTechPost.\n",
     "category": "ai-research",
@@ -211,10 +243,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-10-11T02:50:26.389Z"
+    "fetchedAt": "2026-10-12T03:13:46.101Z"
   },
   {
-    "id": "news-1791687026388-2",
+    "id": "news-1791774826100-4",
     "title": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
     "summary": "Anthropic said it \"turned off live internet access\" for \"all our internal evaluations\" until further notice. ",
     "category": "ai-research",
@@ -227,10 +259,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-10-11T02:50:26.388Z"
+    "fetchedAt": "2026-10-12T03:13:46.100Z"
   },
   {
-    "id": "news-1791687026389-3",
+    "id": "news-1791774826100-5",
     "title": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
     "summary": "What has users and large corporations so excited about Jev is TypeSafe’s claim that it works significantly faster and uses far fewer tokens than LLMs. ",
     "category": "ai-research",
@@ -243,10 +275,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-10-11T02:50:26.389Z"
+    "fetchedAt": "2026-10-12T03:13:46.100Z"
   },
   {
-    "id": "news-1791687026389-19",
+    "id": "news-1791774826101-18",
     "title": "OpenAI Decisions API Hits Public Beta With 10x Faster Typed Answers",
     "summary": "OpenAI’s Decisions API is now in public beta on GPT-6 Luna. It returns typed probabilities, choices and scores about 10x faster than the Responses API, billing $0.10 per 1M input tokens with no output charges.\nThe post OpenAI Decisions API Hits Public Beta With 10x Faster Typed Answers appeared first on MarkTechPost.\n",
     "category": "ai-research",
@@ -259,10 +291,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-10-11T02:50:26.389Z"
+    "fetchedAt": "2026-10-12T03:13:46.101Z"
   },
   {
-    "id": "news-1791687026389-4",
+    "id": "news-1791774826100-6",
     "title": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
     "summary": "Anthropic did not discover this behavior until over two months after its AI submitted the false tip.",
     "category": "ai-research",
@@ -275,39 +307,6 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-10-11T02:50:26.389Z"
-  },
-  {
-    "id": "news-1791687026389-22",
-    "title": "Book Publishers Are Quietly Using More AI. Staff Are Revolting",
-    "summary": "Workers at three major publishing houses tell WIRED that LLMs are being used for publicity, cover art, back cover copy, and emails, as some execs push junior staff to champion the tech.",
-    "category": "ai-research",
-    "source": "Wired AI",
-    "author": "Unknown",
-    "publishedAt": "2026-10-09T19:28:49.000Z",
-    "url": "https://www.wired.com/story/book-publishers-are-quietly-using-more-ai-staff-are-revolting/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-10-11T02:50:26.389Z"
-  },
-  {
-    "id": "news-1791687026389-5",
-    "title": "Amazon and others are done keeping data center deals secret. Is it enough to build trust?",
-    "summary": "Amazon says it will stop using NDAs when negotiating data center deals with local governments, following a similar move from Microsoft earlier this year. Secrecy has fueled community backlash against AI infrastructure, with opposition leading to hundreds of proposed and enacted moratoriums from New York to San Francisco. Meanwhile, a wave of startups is betting that consumers will hand AI agents access […]",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-10-09T16:56:42.000Z",
-    "url": "https://techcrunch.com/video/amazon-and-others-are-done-keeping-data-center-deals-secret-is-it-enough-to-build-trust/",
-    "imageUrl": null,
-    "tags": [
-      "AI",
-      "Startup"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-10-11T02:50:26.389Z"
+    "fetchedAt": "2026-10-12T03:13:46.100Z"
   }
 ]
