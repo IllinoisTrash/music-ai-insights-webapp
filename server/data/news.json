@@ -1,20 +1,244 @@
 [
   {
-    "id": "news-1791774826101-34",
-    "title": "Fans Choose Troye Sivan’s ‘She’s the Best’ as This Week’s Favorite New Music",
-    "summary": "His fourth full-length album brought in 56% of the vote.",
+    "id": "news-1791865756120-35",
+    "title": "Shakira Closes Historic Madrid Residency With Maluma, Bizarrap & More: ‘Someone Pinch Me’",
+    "summary": "The concert series, which began with 8 dates and grew to 13, drew around 700,000 people to Macondo Park, according to the artist.",
     "category": "industry-news",
     "source": "Billboard",
     "author": "Unknown",
-    "publishedAt": "2026-10-11T22:42:06.000Z",
-    "url": "https://www.billboard.com/music/music-news/troye-sivan-shes-the-best-new-music-poll-results-1236358805/",
+    "publishedAt": "2026-10-13T01:35:46.000Z",
+    "url": "https://www.billboard.com/music/latin/shakira-final-concert-madrid-residency-maluma-bizarrap-1236359605/",
     "imageUrl": null,
     "tags": [],
     "readTime": 1,
-    "fetchedAt": "2026-10-12T03:13:46.101Z"
+    "fetchedAt": "2026-10-13T04:29:16.120Z"
   },
   {
-    "id": "news-1791774826100-13",
+    "id": "news-1791865756120-27",
+    "title": "Catalog Is Surging On Spotify – Making Frontline Hits An Even Harder Game",
+    "summary": "The latest Tim's Take from MBW founder, Tim Ingham\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-10-12T22:16:33.000Z",
+    "url": "https://www.musicbusinessworldwide.com/catalog-surging-on-spotify-making-frontline-hits-an-even-harder-game/",
+    "imageUrl": null,
+    "tags": [
+      "Spotify"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-10-13T04:29:16.120Z"
+  },
+  {
+    "id": "news-1791865756120-36",
+    "title": "Head Trip 2026 Was (Accidentally) the Craziest One-Night Lineup in EDM History: Seven Takeaways From the Historic Festival",
+    "summary": "After a day one weather disruption, the festival’s Sunday lineup shifted to include back-to-back-to-back sets from peak-EDM-era icons Skrillex, Calvin Harris and Swedish House Mafia. ",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-10-12T22:16:08.000Z",
+    "url": "https://www.billboard.com/lists/head-trip-festival-recap-skrillex-calvin-harris-coachella/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-10-13T04:29:16.120Z"
+  },
+  {
+    "id": "news-1791865756120-28",
+    "title": "Songwriters drop ‘alright, alright, alright’ sample lawsuit against Travis Scott and Sony Music",
+    "summary": "The notice of voluntary dismissal does not say whether they reached a settlement with Travis Scott or Sony Music.\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-10-12T19:12:28.000Z",
+    "url": "https://www.musicbusinessworldwide.com/songwriters-drop-alright-alright-alright-sample-lawsuit-against-travis-scott-and-sony-music/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-10-13T04:29:16.120Z"
+  },
+  {
+    "id": "news-1791865756120-29",
+    "title": "Spotify launches Spotify Technology to sell its internal software tools to other companies, says the brand is ‘becoming the R&D operating system’",
+    "summary": "Spotify Technology, groups four products – Portal, Confidence, Xirp, and Spotify for Backstage – under one name, with its own website.\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-10-12T19:12:15.000Z",
+    "url": "https://www.musicbusinessworldwide.com/spotify-launches-spotify-technology-to-sell-its-internal-software-tools-to-other-companies-says-the-brand-is-becoming-the-rd-operating-system/",
+    "imageUrl": null,
+    "tags": [
+      "Spotify"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-10-13T04:29:16.120Z"
+  },
+  {
+    "id": "news-1791865756118-0",
+    "title": "WindBorne wins a hefty US Air Force contract for its balloon data",
+    "summary": "A Silicon Valley startup that uses weather balloons and AI to predict the weather won a U.S. military contract worth almost $50 million.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-10-12T17:19:14.000Z",
+    "url": "https://techcrunch.com/2026/10/12/windborne-wins-a-hefty-us-air-force-contract-for-its-balloon-data/",
+    "imageUrl": null,
+    "tags": [
+      "AI",
+      "Startup"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-10-13T04:29:16.118Z"
+  },
+  {
+    "id": "news-1791865756120-20",
+    "title": "Muse Wonder Puts Meta Back at the AI Frontier",
+    "summary": "Meta’s biggest model rivals the world’s best—and includes new features to keep agents from going off the rails.",
+    "category": "tech-innovation",
+    "source": "Wired AI",
+    "author": "Unknown",
+    "publishedAt": "2026-10-12T17:00:27.000Z",
+    "url": "https://www.wired.com/story/muse-wonder-puts-meta-back-at-the-ai-frontier/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-10-13T04:29:16.120Z"
+  },
+  {
+    "id": "news-1791865756118-1",
+    "title": "Honeyjar offers AI tools to improve PR and comms at every company",
+    "summary": "Journalists, entrepreneurs, and even some public relations professionals will tell you that the PR process is broken. But could AI actually make things better?",
+    "category": "tech-innovation",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-10-12T15:45:00.000Z",
+    "url": "https://techcrunch.com/2026/10/12/honeyjar-offers-ai-tools-to-improve-pr-and-comms-at-every-company/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-10-13T04:29:16.118Z"
+  },
+  {
+    "id": "news-1791865756119-2",
+    "title": "Microsoft president says UK is best placed to drive AI regulation",
+    "summary": "Microsoft president Brad Smith calls for urgent AI regulation, saying milk and washing machines have more oversight than AI companies. ",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-10-12T15:31:19.000Z",
+    "url": "https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-10-13T04:29:16.119Z"
+  },
+  {
+    "id": "news-1791865756119-3",
+    "title": "This AI startup says it can generate permit-ready blueprints in minutes",
+    "summary": "Blueprints AI, a bootstrapped startup based in Santa Monica, developed software that produces code-compliant construction blueprints from a photo, PDF, or sketch. ",
+    "category": "industry-news",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-10-12T15:27:59.000Z",
+    "url": "https://techcrunch.com/2026/10/12/this-ai-startup-says-it-can-generate-permit-ready-blueprints-in-minutes/",
+    "imageUrl": null,
+    "tags": [
+      "AI",
+      "Startup"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-10-13T04:29:16.120Z"
+  },
+  {
+    "id": "news-1791865756120-4",
+    "title": "Former Plaud exec raises $26M for AI app that listens to you in the background",
+    "summary": "One of the core promises of AI is that the more it knows about a person, the better it will be able to assist them with tasks and make appropriate suggestions, which, if you'll believe the tech companies, requires apps and devices to listen, watch, or record users' activity all the time and gather all possible context.",
+    "category": "tech-innovation",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-10-12T12:47:59.000Z",
+    "url": "https://techcrunch.com/2026/10/12/former-plaud-exec-raises-26m-for-ai-app-that-listens-to-you-in-the-background/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-10-13T04:29:16.120Z"
+  },
+  {
+    "id": "news-1791865756120-30",
+    "title": "DistroKid confirms it has removed tracks in response to UMG claims",
+    "summary": "The Verge reported that independent artists had been posting on social media about their music being taken down without notice.\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-10-12T11:16:46.000Z",
+    "url": "https://www.musicbusinessworldwide.com/distrokid-confirms-it-has-removed-tracks-in-response-to-umg-claims/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-10-13T04:29:16.120Z"
+  },
+  {
+    "id": "news-1791865756120-31",
+    "title": "Warner Music sues Ray-Ban and Oakley owner Luxottica over alleged use of 427+ works in social media posts",
+    "summary": "The complaint alleges that Luxottica's brands set their social media videos to Warner-controlled music without a license and without paying Warner.\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-10-12T11:15:41.000Z",
+    "url": "https://www.musicbusinessworldwide.com/warner-music-sues-ray-ban-and-oakley-owner-luxottica-over-alleged-use-of-427-works-in-social-media-posts/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-10-13T04:29:16.120Z"
+  },
+  {
+    "id": "news-1791865756120-32",
+    "title": "Gunna launches SB THE LABEL in partnership with Warner’s Atlantic Music Group",
+    "summary": "The new label's first three signings are Atlanta artists Casper Bluff, Nechie, and Dracc.\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-10-12T11:14:42.000Z",
+    "url": "https://www.musicbusinessworldwide.com/gunna-launches-sb-the-label-in-partnership-with-warners-atlantic-music-group/",
+    "imageUrl": null,
+    "tags": [
+      "Partnership"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-10-13T04:29:16.120Z"
+  },
+  {
+    "id": "news-1791865756120-14",
+    "title": "Top 12 AI Live Translation Tools in 2026: Latency, Languages, Pricing",
+    "summary": "We checked 12 AI live translation tools, including Palabra.ai, Google Live Translate, DeepL Voice, Teams Interpreter and Wordly, against official pages for languages, latency, platforms and pricing.\nThe post Top 12 AI Live Translation Tools in 2026: Latency, Languages, Pricing appeared first on MarkTechPost.\n",
+    "category": "ai-research",
+    "source": "MarkTechPost",
+    "author": "Unknown",
+    "publishedAt": "2026-10-12T08:20:49.000Z",
+    "url": "https://www.marktechpost.com/2026/10/12/top-12-ai-live-translation-tools-2026/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-10-13T04:29:16.120Z"
+  },
+  {
+    "id": "news-1791865756120-15",
     "title": "What is Decision 3.0? vLLM Semantic Router’s New Open Decision Models",
     "summary": "vLLM Semantic Router released Decision 3.0, 5 Apache-2.0 multimodal decision models from 0.8B to 27B. They answer choice, yes/no and score questions about text and images in one call, without generating text.\nThe post What is Decision 3.0? vLLM Semantic Router’s New Open Decision Models appeared first on MarkTechPost.\n",
     "category": "ai-research",
@@ -25,68 +249,10 @@
     "imageUrl": null,
     "tags": [],
     "readTime": 1,
-    "fetchedAt": "2026-10-12T03:13:46.100Z"
+    "fetchedAt": "2026-10-13T04:29:16.120Z"
   },
   {
-    "id": "news-1791774826101-35",
-    "title": "Ella Langley Addresses Bomb Threat That Led to Show Cancellation: ‘A Concert’s Not Worth a Human Life’",
-    "summary": "\"I know yesterday was scary,\" the country star said onstage after dealing with a security threat at her previous tour date. \"It was scary for all of us.\"",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-10-11T21:19:17.000Z",
-    "url": "https://www.billboard.com/music/country/ella-langley-concert-bomb-threat-stage-return-1236358808/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-10-12T03:13:46.101Z"
-  },
-  {
-    "id": "news-1791774826101-36",
-    "title": "The Beatles, Drake & Taylor Swift Are Together in Top 10 on Billboard 200 for First Time",
-    "summary": "The superstar acts have the three highest totals of career No. 1 albums.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-10-11T19:11:36.000Z",
-    "url": "https://www.billboard.com/music/chart-beat/beatles-drake-taylor-swift-top-ten-billboard-200-first-time-1236358742/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-10-12T03:13:46.102Z"
-  },
-  {
-    "id": "news-1791774826102-37",
-    "title": "Taylor Swift Joins The Beatles as Only Acts With 100 Weeks at No. 1 on Billboard 200 Albums Chart",
-    "summary": "Swift’s The Life of a Showgirl spends a 14th week atop the chart, bringing her career total weeks at No. 1 to 100.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-10-11T19:07:29.000Z",
-    "url": "https://www.billboard.com/music/chart-beat/taylor-swift-beatles-100-weeks-number-one-billboard-200-1236358736/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-10-12T03:13:46.102Z"
-  },
-  {
-    "id": "news-1791774826102-38",
-    "title": "Taylor Swift, The Beatles, Elvis & More Artists With the Most Weeks at No. 1 on the Billboard 200: Full List",
-    "summary": "Will Swift eventually equal or top the Fab Four's record?",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-10-11T19:03:28.000Z",
-    "url": "https://www.billboard.com/lists/most-weeks-at-no-1-billboard-200-taylor-swift-the-beatles/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-10-12T03:13:46.102Z"
-  },
-  {
-    "id": "news-1791774826099-0",
+    "id": "news-1791865756120-5",
     "title": "Can the AI industry persuade data center opponents by getting rid of NDAs?",
     "summary": "On Equity, we debate the impact of data center moratoriums and whether the AI industry has a communication problem.",
     "category": "ai-research",
@@ -99,12 +265,12 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-10-12T03:13:46.100Z"
+    "fetchedAt": "2026-10-13T04:29:16.120Z"
   },
   {
-    "id": "news-1791774826100-1",
+    "id": "news-1791865756120-6",
     "title": "These execs think voice AI hasn’t reached its ChatGPT moment yet",
-    "summary": "Voice AI's often misses important points for its context layer, and causes the whole pipeline to break",
+    "summary": "Voice AI often misses important points for its context layer, and causes the whole pipeline to break.",
     "category": "ai-research",
     "source": "TechCrunch AI",
     "author": "Unknown",
@@ -115,10 +281,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-10-12T03:13:46.100Z"
+    "fetchedAt": "2026-10-13T04:29:16.120Z"
   },
   {
-    "id": "news-1791774826101-19",
+    "id": "news-1791865756120-21",
     "title": "I Made Terrible Games With Google’s AI Playground",
     "summary": "A long day’s haul in the video game slop mines.",
     "category": "tech-innovation",
@@ -131,10 +297,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-10-12T03:13:46.101Z"
+    "fetchedAt": "2026-10-13T04:29:16.120Z"
   },
   {
-    "id": "news-1791774826100-14",
+    "id": "news-1791865756120-16",
     "title": "Sakana AI’s LLM Peer Review System Catches 73% of Core-Claim Errors",
     "summary": "Sakana AI’s TMLR paper introduces Multi-Layered Review, a 3-agent Claude-based reviewer, and a 1,164-error Contradiction Benchmark. MLR caught 73.43% of core-claim errors, versus 14.81% for the best prior system.\nThe post Sakana AI’s LLM Peer Review System Catches 73% of Core-Claim Errors appeared first on MarkTechPost.\n",
     "category": "ai-research",
@@ -147,166 +313,6 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-10-12T03:13:46.100Z"
-  },
-  {
-    "id": "news-1791774826100-2",
-    "title": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
-    "summary": "In a Saturday morning post, Microsoft's CEO wrote that it’s time “to step back and assess the trust architecture” of AI.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-10-10T21:47:51.000Z",
-    "url": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-10-12T03:13:46.100Z"
-  },
-  {
-    "id": "news-1791774826100-15",
-    "title": "When the Safety Test Became the Threat: The Machine That Found Its Own Way Out",
-    "summary": "In July 2026, frontier AI agents placed inside a cybersecurity testing sandbox named ExploitGym discovered an unexpected network pathway, broke out into the open internet, and autonomously compromised Hugging Face infrastructure in one of history's most unprecedented AI safety incidents.\nThe post When the Safety Test Became the Threat: The Machine That Found Its Own Way Out appeared first on MarkTechPost.\n",
-    "category": "ai-research",
-    "source": "MarkTechPost",
-    "author": "Unknown",
-    "publishedAt": "2026-10-10T21:30:36.000Z",
-    "url": "https://www.marktechpost.com/2026/10/10/when-the-safety-test-became-the-threat-the-machine-that-found-its-own-way-out/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-10-12T03:13:46.100Z"
-  },
-  {
-    "id": "news-1791774826100-3",
-    "title": "Here are the top AI agents that can live in your text messages",
-    "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-10-10T14:00:00.000Z",
-    "url": "https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-10-12T03:13:46.100Z"
-  },
-  {
-    "id": "news-1791774826101-20",
-    "title": "AI Is Getting Really Good at Messing With Cybercriminals",
-    "summary": "Anti-cybercrime initiatives are increasingly using AI to scam the scammers by tricking them into talking to lifelike bots that they think are real victims.",
-    "category": "tech-innovation",
-    "source": "Wired AI",
-    "author": "Unknown",
-    "publishedAt": "2026-10-10T12:00:00.000Z",
-    "url": "https://www.wired.com/story/ai-is-getting-really-good-at-messing-with-cybercriminals/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-10-12T03:13:46.101Z"
-  },
-  {
-    "id": "news-1791774826101-16",
-    "title": "Microsoft AI Releases Microsoft-Decision-1: A Qwen3.5-9B Decision-Scoring Model",
-    "summary": "Microsoft has released Microsoft-Decision-1, a decision model for routing, classification, verification and agent control. Microsoft-Decision-1 is a decision-scoring model that returns a calibrated probability for each fixed answer option instead of generated text. It is post-trained from Alibaba’s Qwen3.5-9B and available now in Microsoft Foundry and OpenRouter. . TL;DR What is a decision model? A […]\nThe post Microsoft AI Releases Microsoft-Decision-1: A Qwen3.5-9B Decision-Scoring",
-    "category": "tech-innovation",
-    "source": "MarkTechPost",
-    "author": "Unknown",
-    "publishedAt": "2026-10-10T06:03:09.000Z",
-    "url": "https://www.marktechpost.com/2026/10/09/microsoft-ai-releases-microsoft-decision-1-a-qwen3-5-9b-decision-scoring-model/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-10-12T03:13:46.101Z"
-  },
-  {
-    "id": "news-1791774826101-17",
-    "title": "Nace AI Open-Sources Drex 1.5: A 9B Decision Model That Scores Options, Not Text",
-    "summary": "Nace.AI has open-sourced Drex 1.5, a 9B decision model that returns a probability for every option in 1 forward pass. It scores 58.08 on Decision Index 0.3.1 and reads up to 128K tokens.\nThe post Nace AI Open-Sources Drex 1.5: A 9B Decision Model That Scores Options, Not Text appeared first on MarkTechPost.\n",
-    "category": "ai-research",
-    "source": "MarkTechPost",
-    "author": "Unknown",
-    "publishedAt": "2026-10-10T04:51:34.000Z",
-    "url": "https://www.marktechpost.com/2026/10/09/nace-ai-open-sources-drex-1-5-a-9b-decision-model-that-scores-options-not-text/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-10-12T03:13:46.101Z"
-  },
-  {
-    "id": "news-1791774826100-4",
-    "title": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
-    "summary": "Anthropic said it \"turned off live internet access\" for \"all our internal evaluations\" until further notice. ",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-10-10T00:18:32.000Z",
-    "url": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-10-12T03:13:46.100Z"
-  },
-  {
-    "id": "news-1791774826100-5",
-    "title": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
-    "summary": "What has users and large corporations so excited about Jev is TypeSafe’s claim that it works significantly faster and uses far fewer tokens than LLMs. ",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-10-09T21:41:29.000Z",
-    "url": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-10-12T03:13:46.100Z"
-  },
-  {
-    "id": "news-1791774826101-18",
-    "title": "OpenAI Decisions API Hits Public Beta With 10x Faster Typed Answers",
-    "summary": "OpenAI’s Decisions API is now in public beta on GPT-6 Luna. It returns typed probabilities, choices and scores about 10x faster than the Responses API, billing $0.10 per 1M input tokens with no output charges.\nThe post OpenAI Decisions API Hits Public Beta With 10x Faster Typed Answers appeared first on MarkTechPost.\n",
-    "category": "ai-research",
-    "source": "MarkTechPost",
-    "author": "Unknown",
-    "publishedAt": "2026-10-09T20:05:07.000Z",
-    "url": "https://www.marktechpost.com/2026/10/09/openai-decisions-api-hits-public-beta-with-10x-faster-typed-answers/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-10-12T03:13:46.101Z"
-  },
-  {
-    "id": "news-1791774826100-6",
-    "title": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
-    "summary": "Anthropic did not discover this behavior until over two months after its AI submitted the false tip.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-10-09T19:36:56.000Z",
-    "url": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-10-12T03:13:46.100Z"
+    "fetchedAt": "2026-10-13T04:29:16.120Z"
   }
 ]
