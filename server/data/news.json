@@ -1,6 +1,98 @@
 [
   {
-    "id": "news-1792202660480-33",
+    "id": "news-1792289046334-0",
+    "title": "Meta removes language that raised scraping and AI training concerns",
+    "summary": "A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-10-17T21:31:32.000Z",
+    "url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-10-18T02:04:06.334Z"
+  },
+  {
+    "id": "news-1792289046335-13",
+    "title": "Meet Kyutai REKI: The 2.4B VLA Model Bringing Efficient Memory to Robot Manipulation",
+    "summary": "Kyutai, with Inria and École des Ponts, has released REKI, a 2.4B vision-language-action model (VLA) for robot manipulation. The REKI vision-language-action model is pretrained only on public data. It also carries a cheap memory of its recent past. On three out-of-distribution benchmarks, only models about twice its size beat it. All weights are live on […]\nThe post Meet Kyutai REKI: The 2.4B VLA Model Bringing Efficient Memory to Robot Manipulation appeared first on MarkTechPost.\n",
+    "category": "ai-research",
+    "source": "MarkTechPost",
+    "author": "Unknown",
+    "publishedAt": "2026-10-17T20:22:11.000Z",
+    "url": "https://www.marktechpost.com/2026/10/17/meet-kyutai-reki-the-2-4b-vla-model-bringing-efficient-memory-to-robot-manipulation/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-10-18T02:04:06.335Z"
+  },
+  {
+    "id": "news-1792289046334-1",
+    "title": "Replit makes OpenAI its default over Anthropic, CEO says",
+    "summary": "Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider. Claude will still be available to customers on the platform. ",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-10-17T18:48:08.000Z",
+    "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-10-18T02:04:06.334Z"
+  },
+  {
+    "id": "news-1792289046336-32",
+    "title": "Becky G Brings World Mental Health Day Festival to a Powerful Close in NYC & More Uplifting Moments",
+    "summary": "Además, BMI impulsa a las compositoras de la música mexicana, y Lin-Manuel Miranda recibirá el Premio Corazón Latino de iHeartRadio.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-10-17T14:00:00.000Z",
+    "url": "https://www.billboard.com/music/latin/becky-g-world-mental-health-day-latin-grammys-leading-ladies-1236360559/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-10-18T02:04:06.336Z"
+  },
+  {
+    "id": "news-1792289046335-18",
+    "title": "Why AI Isn’t Ready to Tackle Our Convoluted Genomes",
+    "summary": "The DNA inside our cells isn’t just a series of instructions, but something far more dynamic. Like scientists, AI models don't yet have the data to properly decode it.",
+    "category": "ai-research",
+    "source": "Wired AI",
+    "author": "Unknown",
+    "publishedAt": "2026-10-17T09:00:00.000Z",
+    "url": "https://www.wired.com/story/why-ai-isnt-ready-to-tackle-our-convoluted-genomes/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-10-18T02:04:06.335Z"
+  },
+  {
+    "id": "news-1792289046336-33",
+    "title": "Harry Styles Pays Tribute to Liam Payne With Unreleased Song on Anniversary of His Death",
+    "summary": "Styles premiered the unreleased tribute “What Is Enough” on the second anniversary of his former One Direction bandmate’s death.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-10-17T05:07:06.000Z",
+    "url": "https://www.billboard.com/music/music-news/harry-styles-dedicates-song-to-liam-payne-1236362307/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-10-18T02:04:06.336Z"
+  },
+  {
+    "id": "news-1792289046336-34",
     "title": "Diddy Moved From New Jersey Prison to Similar Facility in Pennsylvania",
     "summary": "The transfer follows reports that the music mogul has gotten into prison fights and was living a “pampered” life behind bars. ",
     "category": "industry-news",
@@ -11,10 +103,10 @@
     "imageUrl": null,
     "tags": [],
     "readTime": 1,
-    "fetchedAt": "2026-10-17T02:04:20.480Z"
+    "fetchedAt": "2026-10-18T02:04:06.336Z"
   },
   {
-    "id": "news-1792202660480-13",
+    "id": "news-1792289046335-14",
     "title": "Perplexity Open-Sources SPACE, a Firecracker MicroVM Sandbox for AI Agents",
     "summary": "Perplexity has open-sourced SPACE, the sandbox platform behind every task in Perplexity Computer. The Perplexity SPACE sandbox gives each agent task its own Firecracker microVM. Credentials and outbound traffic are controlled from outside that VM. The code ships under Apache 2.0 on GitHub. For teams building coding or browsing agents, this is a production-tested isolation […]\nThe post Perplexity Open-Sources SPACE, a Firecracker MicroVM Sandbox for AI Agents appeared first on MarkTechPost.",
     "category": "ai-research",
@@ -27,10 +119,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-10-17T02:04:20.480Z"
+    "fetchedAt": "2026-10-18T02:04:06.335Z"
   },
   {
-    "id": "news-1792202660480-34",
+    "id": "news-1792289046336-35",
     "title": "Billboard’s Music Industry Events Calendar",
     "summary": "A complete rundown of the most important events across the music business.",
     "category": "industry-news",
@@ -41,101 +133,10 @@
     "imageUrl": null,
     "tags": [],
     "readTime": 1,
-    "fetchedAt": "2026-10-17T02:04:20.480Z"
+    "fetchedAt": "2026-10-18T02:04:06.336Z"
   },
   {
-    "id": "news-1792202660480-35",
-    "title": "Mark Pucci, Veteran Music Publicist & Recognized Blues Advocate, Dies at 79",
-    "summary": "Over a 50-year career, Pucci represented such music icons as Johnny Cash, Lynyrd Skynyrd and The Allman Brothers Band.",
-    "category": "ai-research",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-10-16T23:12:14.000Z",
-    "url": "https://www.billboard.com/pro/mark-pucci-death-publicist-lynyrd-skynyrd-johnny-cash-dead/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-10-17T02:04:20.480Z"
-  },
-  {
-    "id": "news-1792202660480-36",
-    "title": "Drake Sued Over ‘Janice STFU’: Songwriter Claims Chorus Is ‘Literally Identical’ to His Demo",
-    "summary": "Aviel Calev Hirschfield alleges the rapper's reps \"shamelessly refuse to acknowledge\" his contributions. Drake's team calls the lawsuit \"entirely fabricated.\"",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-10-16T22:05:19.000Z",
-    "url": "https://www.billboard.com/pro/drake-janice-stfu-lawsuit-songwriter-sues-copied-demo/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-10-17T02:04:20.480Z"
-  },
-  {
-    "id": "news-1792202660480-37",
-    "title": "In Canada: Cardi B Named First-Ever Global Woman of the Year at Billboard Canada Women in Music 2026",
-    "summary": "Also up north this week: Drake extends a chart record with \"Habibti\" and holders of obstructed Backstreet Boys tickets may get an upgrade.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-10-16T21:42:52.000Z",
-    "url": "https://www.billboard.com/pro/cardi-b-billboard-canada-women-in-music-2026-award-news/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-10-17T02:04:20.480Z"
-  },
-  {
-    "id": "news-1792202660480-38",
-    "title": "NuNew on Whether Acting or Singing Makes Him More Nervous: ‘If You Make a Mistake, That’s It’",
-    "summary": "Billboard spoke to the Thai singer-actor backstage at the 2026 TMElive International Music Awards.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-10-16T21:34:46.000Z",
-    "url": "https://www.billboard.com/music/pop/nunew-tima-interview-1236362238/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-10-17T02:04:20.480Z"
-  },
-  {
-    "id": "news-1792202660479-0",
-    "title": "Replit is no longer working with Anthropic, CEO says",
-    "summary": "Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there was never any indication that it was no longer with Anthropic.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-10-16T21:22:28.000Z",
-    "url": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
-    "imageUrl": null,
-    "tags": [
-      "AI",
-      "Partnership"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-10-17T02:04:20.479Z"
-  },
-  {
-    "id": "news-1792202660480-39",
-    "title": "NEXZ Share Their Favorite Songs From ‘SAUCIN”: ‘The Lyrics Fit Us Perfectly’",
-    "summary": "Billboard spoke with the seven-member boy band backstage at the 2026 TMElive International Music Awards.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-10-16T21:20:45.000Z",
-    "url": "https://www.billboard.com/music/pop/nexz-tima-interview-1236362212/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-10-17T02:04:20.480Z"
-  },
-  {
-    "id": "news-1792202660480-19",
+    "id": "news-1792289046335-19",
     "title": "Katie Zacharia Was Linked to an AI Rare-Earths Startup. It’s Even Weirder Than It Sounds",
     "summary": "The short-lived White House press secretary was listed as an adviser to a Kristi Noem–linked company that aims to use AI for mining. Both the company and she say she never worked there.",
     "category": "tech-innovation",
@@ -149,10 +150,10 @@
       "Startup"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-10-17T02:04:20.480Z"
+    "fetchedAt": "2026-10-18T02:04:06.335Z"
   },
   {
-    "id": "news-1792202660479-1",
+    "id": "news-1792289046334-2",
     "title": "India becomes the latest country to report rogue AI agent activity",
     "summary": "The agents got in through credentials and connection settings left exposed in app configurations, public code repositories, and overly permissive cloud roles.",
     "category": "ai-research",
@@ -165,10 +166,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-10-17T02:04:20.479Z"
+    "fetchedAt": "2026-10-18T02:04:06.334Z"
   },
   {
-    "id": "news-1792202660480-27",
+    "id": "news-1792289046336-26",
     "title": "From Universal Music’s fresh round of layoffs to Spotify’s catalog surge… it’s MBW’s Weekly Round-up",
     "summary": "The biggest headlines from the past few days...\nSource",
     "category": "industry-news",
@@ -181,10 +182,10 @@
       "Spotify"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-10-17T02:04:20.480Z"
+    "fetchedAt": "2026-10-18T02:04:06.336Z"
   },
   {
-    "id": "news-1792202660479-2",
+    "id": "news-1792289046334-3",
     "title": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
     "summary": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic hands, software, and safety standards still being rebuilt.  This view runs counter to those who believe that robotics, powered by a general foundation model, is about to have […]",
     "category": "ai-research",
@@ -195,10 +196,10 @@
     "imageUrl": null,
     "tags": [],
     "readTime": 1,
-    "fetchedAt": "2026-10-17T02:04:20.479Z"
+    "fetchedAt": "2026-10-18T02:04:06.334Z"
   },
   {
-    "id": "news-1792202660479-3",
+    "id": "news-1792289046334-4",
     "title": "Physical AI is more than robots, says the Nvidia veteran now investing in it",
     "summary": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic hands, software, and safety standards still being rebuilt.  This view runs counter to those who believe that robotics, powered by a general foundation model, is about to have […]",
     "category": "ai-research",
@@ -211,10 +212,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-10-17T02:04:20.479Z"
+    "fetchedAt": "2026-10-18T02:04:06.334Z"
   },
   {
-    "id": "news-1792202660479-4",
+    "id": "news-1792289046334-5",
     "title": "Elorian’s first AI model wants to reason with images, not just about them",
     "summary": "According to Elorian's evaluations, Glimpse outperforms even GPT-6 Astra on scientific chart reasoning and short-form video captioning, with competitive results on other visual reasoning tasks. ",
     "category": "ai-research",
@@ -227,10 +228,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-10-17T02:04:20.479Z"
+    "fetchedAt": "2026-10-18T02:04:06.334Z"
   },
   {
-    "id": "news-1792202660479-5",
+    "id": "news-1792289046334-6",
     "title": "Jev is Vercel’s fastest-adopted AI model ever",
     "summary": "The data comes from Vercel's AI gateway, a unified API service similar to OpenRouter.",
     "category": "ai-research",
@@ -243,10 +244,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-10-17T02:04:20.479Z"
+    "fetchedAt": "2026-10-18T02:04:06.334Z"
   },
   {
-    "id": "news-1792202660480-6",
+    "id": "news-1792289046334-7",
     "title": "Mark Wahlberg on using AI in film ‘the right way’ and being open to an AI clone carrying on his legacy",
     "summary": "Actor and angel investor Mark Wahlberg says he's OK with using AI in filmmaking, provided it's used \"to enhance what you're doing.\" ",
     "category": "ai-research",
@@ -259,10 +260,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-10-17T02:04:20.480Z"
+    "fetchedAt": "2026-10-18T02:04:06.334Z"
   },
   {
-    "id": "news-1792202660480-7",
+    "id": "news-1792289046334-8",
     "title": "Replit’s CEO says the future of work is the ‘self-driving company’",
     "summary": "Replit CEO Amjad Masad envisions a future of “self-driving companies,” where AI agents handle day-to-day tasks and people focus on higher-level decisions.",
     "category": "ai-research",
@@ -275,10 +276,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-10-17T02:04:20.480Z"
+    "fetchedAt": "2026-10-18T02:04:06.334Z"
   },
   {
-    "id": "news-1792202660480-14",
+    "id": "news-1792289046335-15",
     "title": "Liquid AI Releases d1-ultra: A Multimodal Decision Model That Scores 65 on the AA Decision Index",
     "summary": "Liquid AI released d1-ultra, a text and image decision model that returns calibrated probabilities in 1 forward pass. It scores 65 on the Artificial Analysis Decision Index and costs $0.042 per million input tokens.\nThe post Liquid AI Releases d1-ultra: A Multimodal Decision Model That Scores 65 on the AA Decision Index appeared first on MarkTechPost.\n",
     "category": "tech-innovation",
@@ -291,10 +292,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-10-17T02:04:20.480Z"
+    "fetchedAt": "2026-10-18T02:04:06.335Z"
   },
   {
-    "id": "news-1792202660480-20",
+    "id": "news-1792289046335-20",
     "title": "We Got Hot and Heavy With Meta’s Muse—and Baffled by Apple’s HomeView",
     "summary": "This week on “Uncanny Valley,” we dive into an unexpected Muse feature, shadowy spending from the largest pro-AI super PAC, and men’s tendency to lie about how much they know about AI.",
     "category": "tech-innovation",
@@ -307,6 +308,6 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-10-17T02:04:20.480Z"
+    "fetchedAt": "2026-10-18T02:04:06.336Z"
   }
 ]
