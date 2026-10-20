@@ -1,313 +1,314 @@
 [
   {
-    "id": "news-1792376434191-14",
-    "title": "Mistral AI Releases Timestral: A 209M Forecasting Model Family That Outperforms Google’s TimesFM-3",
-    "summary": "Mistral released Timestral, a time series foundation model family from 5M to 209M parameters. The 209M model leads GIFT-Eval, TIME and fev-bench among zero-shot models and runs on CPU.\nThe post Mistral AI Releases Timestral: A 209M Forecasting Model Family That Outperforms Google’s TimesFM-3 appeared first on MarkTechPost.\n",
-    "category": "tech-innovation",
-    "source": "MarkTechPost",
+    "id": "news-1792463649031-36",
+    "title": "George Prajin From Double P Records Accepts the Top Regional Mexican Albums Label of the Year Award | Latin Music Power Players 2026",
+    "summary": "George Prajin from Double P Records accepts the Top Regional Mexican Albums Label of the Year Award from Billboard’s Leila Cobo.",
+    "category": "industry-news",
+    "source": "Billboard",
     "author": "Unknown",
-    "publishedAt": "2026-10-19T01:18:17.000Z",
-    "url": "https://www.marktechpost.com/2026/10/18/mistral-timestral-time-series-foundation-model/",
+    "publishedAt": "2026-10-20T01:37:43.000Z",
+    "url": "https://www.billboard.com/video/george-prajin-regional-mexican-albums-label-of-the-year/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-10-20T02:34:09.031Z"
+  },
+  {
+    "id": "news-1792463649031-37",
+    "title": "Ozuna Presents Alex Gallardo from Sony Music US Latin With the Latin Airplay Label of the Year Award | Latin Music Power Players 2026",
+    "summary": "Alex Gallardo from Sony Music US Latin accepts the Latin Airplay Label of the Year Award from Ozuna.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-10-20T01:29:16.000Z",
+    "url": "https://www.billboard.com/video/ozuna-presents-alex-gallardo-with-latin-airplay-label-award/",
     "imageUrl": null,
     "tags": [
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-10-19T02:20:34.192Z"
+    "fetchedAt": "2026-10-20T02:34:09.031Z"
   },
   {
-    "id": "news-1792376434193-32",
-    "title": "Wolfmother, Ball Park Music and Yothu Yindi to Headline Sydney’s Aloha Festival",
-    "summary": "The all-ages surf, music and culture festival lands at Sydney’s Dee Why Beach in March 2027",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-10-19T00:21:53.000Z",
-    "url": "https://www.billboard.com/music/concerts/wolfmother-ball-park-music-yothu-yindi-aloha-festival-2027-1236362360/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-10-19T02:20:34.193Z"
-  },
-  {
-    "id": "news-1792376434193-33",
-    "title": "Fans Choose Tate McRae’s ‘Housewife’ as This Week’s Favorite New Music",
-    "summary": "Her new single brought in more than 51% of the vote.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-10-18T20:36:43.000Z",
-    "url": "https://www.billboard.com/music/pop/tate-mcrae-housewife-best-new-music-poll-results-1236362476/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-10-19T02:20:34.193Z"
-  },
-  {
-    "id": "news-1792376434193-34",
-    "title": "Morgan Wallen, Garth Brooks, Taylor Swift & More Artists With Most Weeks at No. 1 on Top Country Albums Chart: Full List",
-    "summary": "Male solo artists dominate, though three female solo artists and two groups have also achieved the feat.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-10-18T19:28:22.000Z",
-    "url": "https://www.billboard.com/lists/top-country-albums-number-ones-biggest/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-10-19T02:20:34.193Z"
-  },
-  {
-    "id": "news-1792376434193-35",
-    "title": "Taylor Swift, The Beatles, Elvis & More Artists With the Most Weeks at No. 1 on the Billboard 200: Full List",
-    "summary": "Will Swift eventually equal or top the Fab Four's record?",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-10-18T19:21:47.000Z",
-    "url": "https://www.billboard.com/lists/most-weeks-at-no-1-billboard-200-taylor-swift-the-beatles/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-10-19T02:20:34.193Z"
-  },
-  {
-    "id": "news-1792376434192-15",
-    "title": "TinyFish Makes Search Free: What It Really Costs an AI Agent to Read the Web",
-    "summary": "An AI agent that reads the web pays 2 kinds of cost. The first is the retrieval charge: what a search or fetch API bills per request. The second is model processing: content passed from retrieved pages into an AI model consumes tokens, while reasoning and generated responses add further costs. TinyFish, a web infrastructure […]\nThe post TinyFish Makes Search Free: What It Really Costs an AI Agent to Read the Web appeared first on MarkTechPost.\n",
-    "category": "ai-research",
-    "source": "MarkTechPost",
-    "author": "Unknown",
-    "publishedAt": "2026-10-18T18:20:28.000Z",
-    "url": "https://www.marktechpost.com/2026/10/18/tinyfish-free-search-ai-agent-token-cost/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-10-19T02:20:34.192Z"
-  },
-  {
-    "id": "news-1792376434190-0",
-    "title": "Disney agrees to hire the majority of Character.AI’s workforce",
-    "summary": "The filing also says that the “vast majority” of Character.AI employees who were offered jobs at Disney accepted them. However, this is a stalking horse bid, so another company could come forward with a higher offer.",
+    "id": "news-1792463649028-0",
+    "title": "Mamdani says feds have abdicated on AI, urges New Yorkers to push back",
+    "summary": "Mayor Zohran Mamdani said Monday night that New Yorkers must resist the narrative that an AI takeover is inevitable and demand regulations that protect the public and put power back in their hands.",
     "category": "ai-research",
     "source": "TechCrunch AI",
     "author": "Unknown",
-    "publishedAt": "2026-10-18T16:30:00.000Z",
-    "url": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
+    "publishedAt": "2026-10-20T01:27:03.000Z",
+    "url": "https://techcrunch.com/2026/10/19/mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back/",
     "imageUrl": null,
     "tags": [
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-10-19T02:20:34.190Z"
+    "fetchedAt": "2026-10-20T02:34:09.028Z"
   },
   {
-    "id": "news-1792376434192-19",
-    "title": "OnlyFans Creators Are Pissed That Meta Lets Muse Talk Dirty",
-    "summary": "Adult performers are questioning why Meta allows its AI agent to sext while restricting their social media accounts.",
-    "category": "tech-innovation",
-    "source": "Wired AI",
+    "id": "news-1792463649031-38",
+    "title": "Leila Cobo Presents Hot Latin Songs Label of the Year Award to Lucas Barbosa from Rimas | Latin Music Power Players 2026",
+    "summary": "Lucas Barbosa from Rimas accepts the Hot Latin Songs Label of the Year Award from Leila Cobo at Latin Power Players 2026.",
+    "category": "industry-news",
+    "source": "Billboard",
     "author": "Unknown",
-    "publishedAt": "2026-10-18T10:30:00.000Z",
-    "url": "https://www.wired.com/story/onlyfans-creators-are-pissed-that-meta-lets-muse-talk-dirty/",
+    "publishedAt": "2026-10-20T00:59:08.000Z",
+    "url": "https://www.billboard.com/video/hot-latin-songs-label-of-the-year-award-to-rimas/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-10-20T02:34:09.031Z"
+  },
+  {
+    "id": "news-1792463649031-39",
+    "title": "Leila Cobo Presents Regional Mexican Airplay Label of the Year to Universal Music Latin’s Angel Kaminsky | Latin Music Power Players 2026",
+    "summary": "UMLE’s Angel Kaminsky & Ana accept the Regional Mexican Airplay Label of the Year Award from Ela Taubert at Latin Power Players 2026.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-10-20T00:31:09.000Z",
+    "url": "https://www.billboard.com/video/angel-kaminsky-latin-music-power-players-2026/",
     "imageUrl": null,
     "tags": [
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-10-19T02:20:34.192Z"
+    "fetchedAt": "2026-10-20T02:34:09.031Z"
   },
   {
-    "id": "news-1792376434192-16",
-    "title": "Meet Voxel51 3.0: A Unified Multimodal Data Platform for Physical AI",
-    "summary": "Voxel51 3.0 merges search, curation, annotation and evaluation of multimodal sensor data into one platform for physical AI teams. It adds Voxel51 Agent with 45+ MCP tools, dataset versioning, and a free self-service tier.\nThe post Meet Voxel51 3.0: A Unified Multimodal Data Platform for Physical AI appeared first on MarkTechPost.\n",
+    "id": "news-1792463649031-40",
+    "title": "REPUBLIC Rules the Billboard 200 Top 10 With 8 Albums, Led by Taylor Swift",
+    "summary": "REPUBLIC is the only label to have held at least eight of the top 10 titles in the modern era.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-10-20T00:04:02.000Z",
+    "url": "https://www.billboard.com/music/chart-beat/republic-billboard-200-top-10-eight-albums-taylor-swift-1236363260/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-10-20T02:34:09.031Z"
+  },
+  {
+    "id": "news-1792463649030-17",
+    "title": "Meet Drex Max: Nace AI’s Multimodal Decision Model for Computer-Use Agents with a Score 67.59",
+    "summary": "Nace AI released Drex Max, a multimodal decision model that reads text and screenshots and returns calibrated probabilities. Nace reports 67.59 on Decision Index 0.3.2 at $0.06 per 1M input tokens.\nThe post Meet Drex Max: Nace AI’s Multimodal Decision Model for Computer-Use Agents with a Score 67.59 appeared first on MarkTechPost.\n",
     "category": "tech-innovation",
     "source": "MarkTechPost",
     "author": "Unknown",
-    "publishedAt": "2026-10-18T04:06:33.000Z",
-    "url": "https://www.marktechpost.com/2026/10/17/voxel51-3-0-physical-ai-data-platform/",
+    "publishedAt": "2026-10-20T00:03:38.000Z",
+    "url": "https://www.marktechpost.com/2026/10/19/nace-ai-drex-max-multimodal-decision-model/",
     "imageUrl": null,
     "tags": [
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-10-19T02:20:34.192Z"
+    "fetchedAt": "2026-10-20T02:34:09.030Z"
   },
   {
-    "id": "news-1792376434191-1",
-    "title": "Meta removes language that raised scraping and AI training concerns",
-    "summary": "A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web.",
+    "id": "news-1792463649031-41",
+    "title": "Romain Vivien Expands Duties as Believe’s Global Head of Music",
+    "summary": "Vivien will now directly lead the French company's EMEA, Americas and APAC regions.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-10-19T23:14:23.000Z",
+    "url": "https://www.billboard.com/pro/believe-romain-vivien-expands-global-head-music-role/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-10-20T02:34:09.031Z"
+  },
+  {
+    "id": "news-1792463649031-42",
+    "title": "Superstar Q&A With Kany García: The Stories Behind the Songs | Billboard Latin Music Week 2026",
+    "summary": "Kany García discusses her inspiration and process when writing new songs. The 2026 Billboard Latin Music Week takes place Oct. 19-22 at the Faena Forum Miami Beach, serving as a dynamic platform celebrating the heartbeat of Latin music and culture, with a packed week of programming that includes artist conversations, panels, live performances, hands-on workshops, […]",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-10-19T23:12:54.000Z",
+    "url": "https://www.billboard.com/video/superstar-qa-with-kany-garcia-the-stories-behind-the-songs/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-10-20T02:34:09.031Z"
+  },
+  {
+    "id": "news-1792463649028-1",
+    "title": "Embedded AI evaluators won’t be an easy solution, Hugging Face’s policy chief says",
+    "summary": "The idea of embedded evaluators — in which supposedly \"neutral\" third-party observers are placed inside AI organizations — has been popularized over the last several months, as AI labs grapple with a rash of safety incidents that have spurred concerns over the potential harms of their technology. ",
     "category": "ai-research",
     "source": "TechCrunch AI",
     "author": "Unknown",
-    "publishedAt": "2026-10-17T21:31:32.000Z",
-    "url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
+    "publishedAt": "2026-10-19T22:49:27.000Z",
+    "url": "https://techcrunch.com/2026/10/19/embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-policy-chief-says/",
     "imageUrl": null,
     "tags": [
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-10-19T02:20:34.191Z"
+    "fetchedAt": "2026-10-20T02:34:09.028Z"
   },
   {
-    "id": "news-1792376434192-17",
-    "title": "Meet Kyutai REKI: The 2.4B VLA Model Bringing Efficient Memory to Robot Manipulation",
-    "summary": "Kyutai, with Inria and École des Ponts, has released REKI, a 2.4B vision-language-action model (VLA) for robot manipulation. The REKI vision-language-action model is pretrained only on public data. It also carries a cheap memory of its recent past. On three out-of-distribution benchmarks, only models about twice its size beat it. All weights are live on […]\nThe post Meet Kyutai REKI: The 2.4B VLA Model Bringing Efficient Memory to Robot Manipulation appeared first on MarkTechPost.\n",
-    "category": "ai-research",
-    "source": "MarkTechPost",
-    "author": "Unknown",
-    "publishedAt": "2026-10-17T20:22:11.000Z",
-    "url": "https://www.marktechpost.com/2026/10/17/meet-kyutai-reki-the-2-4b-vla-model-bringing-efficient-memory-to-robot-manipulation/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-10-19T02:20:34.192Z"
-  },
-  {
-    "id": "news-1792376434191-2",
-    "title": "Replit makes OpenAI its default over Anthropic, CEO says",
-    "summary": "Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider. Claude will still be available to customers on the platform. ",
+    "id": "news-1792463649028-2",
+    "title": "Microsoft says AI agents are like insider threats as ‘frontier models can’t be trusted’",
+    "summary": "Microsoft wants enterprises to closely watch the agents that employees use with systems not controlled by AI labs like OpenAI and Anthropic.",
     "category": "ai-research",
     "source": "TechCrunch AI",
     "author": "Unknown",
-    "publishedAt": "2026-10-17T18:48:08.000Z",
-    "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
+    "publishedAt": "2026-10-19T22:04:28.000Z",
+    "url": "https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/",
     "imageUrl": null,
     "tags": [
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-10-19T02:20:34.191Z"
+    "fetchedAt": "2026-10-20T02:34:09.028Z"
   },
   {
-    "id": "news-1792376434192-20",
-    "title": "Why AI Isn’t Ready to Tackle Our Convoluted Genomes",
-    "summary": "The DNA inside our cells isn’t just a series of instructions, but something far more dynamic. Like scientists, AI models don't yet have the data to properly decode it.",
-    "category": "ai-research",
-    "source": "Wired AI",
+    "id": "news-1792463649028-3",
+    "title": "Amazon is taking its biggest shot at Nvidia yet with new TorchNeuron dev tool",
+    "summary": "Amazon wants to break Nvidia’s hold on PyTorch, the free toolkit used to build most AI apps, so that more developers run their apps on alternative chips like its own.",
+    "category": "tech-innovation",
+    "source": "TechCrunch AI",
     "author": "Unknown",
-    "publishedAt": "2026-10-17T09:00:00.000Z",
-    "url": "https://www.wired.com/story/why-ai-isnt-ready-to-tackle-our-convoluted-genomes/",
+    "publishedAt": "2026-10-19T20:09:24.000Z",
+    "url": "https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool/",
     "imageUrl": null,
     "tags": [
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-10-19T02:20:34.192Z"
+    "fetchedAt": "2026-10-20T02:34:09.028Z"
   },
   {
-    "id": "news-1792376434192-18",
-    "title": "Perplexity Open-Sources SPACE, a Firecracker MicroVM Sandbox for AI Agents",
-    "summary": "Perplexity has open-sourced SPACE, the sandbox platform behind every task in Perplexity Computer. The Perplexity SPACE sandbox gives each agent task its own Firecracker microVM. Credentials and outbound traffic are controlled from outside that VM. The code ships under Apache 2.0 on GitHub. For teams building coding or browsing agents, this is a production-tested isolation […]\nThe post Perplexity Open-Sources SPACE, a Firecracker MicroVM Sandbox for AI Agents appeared first on MarkTechPost.",
-    "category": "ai-research",
-    "source": "MarkTechPost",
-    "author": "Unknown",
-    "publishedAt": "2026-10-17T00:09:12.000Z",
-    "url": "https://www.marktechpost.com/2026/10/16/perplexity-open-sources-space-firecracker-microvm-sandbox-ai-agents/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-10-19T02:20:34.192Z"
-  },
-  {
-    "id": "news-1792376434192-21",
-    "title": "Katie Zacharia Was Linked to an AI Rare-Earths Startup. It’s Even Weirder Than It Sounds",
-    "summary": "The short-lived White House press secretary was listed as an adviser to a Kristi Noem–linked company that aims to use AI for mining. Both the company and she say she never worked there.",
+    "id": "news-1792463649031-23",
+    "title": "OpenAI Engineer Accused of Spying on Executives Ordered to Remain in Custody",
+    "summary": "A judge ordered Abdulrahman Alfozan to remain in custody, likening the Saudi government’s offer to secure the former OpenAI engineer’s release to a “blank check.”",
     "category": "tech-innovation",
     "source": "Wired AI",
     "author": "Unknown",
-    "publishedAt": "2026-10-16T20:05:08.000Z",
-    "url": "https://www.wired.com/story/katie-zacharia-was-linked-to-an-ai-rare-earths-startup-its-even-weirder-than-it-sounds/",
+    "publishedAt": "2026-10-19T19:49:17.000Z",
+    "url": "https://www.wired.com/story/openai-engineer-accused-of-spying-on-executives-ordered-to-remain-in-custody/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-10-20T02:34:09.031Z"
+  },
+  {
+    "id": "news-1792463649028-4",
+    "title": "Hackers hit AI coding tool OpenCode, running up charges on users’ AI accounts",
+    "summary": "OpenCode is an open source AI coding agent that's become a popular alternative to Claude Code and Cursor. But hackers got into part of its online platform and stole some users’ API keys, and the AI tools it turned to for help kept refusing to look at the malicious code.",
+    "category": "tech-innovation",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-10-19T19:28:34.000Z",
+    "url": "https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-10-20T02:34:09.028Z"
+  },
+  {
+    "id": "news-1792463649031-29",
+    "title": "‘I HAVE A NEW OUTLOOK  NOW: IT’S SUPPOSED  TO BE FUN; IT’S NOT  SUPPOSED TO BE SCARY’",
+    "summary": "Music school dropout Sasha Alex Sloan has already co-written hits with three of the biggest (and most influential) pop stars of the last few years – Camila Cabello, Charli XCX, and Olivia Rodrigo. And she’s only just getting started…\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-10-19T19:25:20.000Z",
+    "url": "https://www.musicbusinessworldwide.com/i-have-a-new-outlook-now-its-supposed-to-be-fun-its-not-supposed-to-be-scary/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-10-20T02:34:09.031Z"
+  },
+  {
+    "id": "news-1792463649028-5",
+    "title": "Tolan snags $30M for its AI companion that helps users navigate life",
+    "summary": "AI companion app Tolan has raised another $30 million after attracting more than 250,000 active users.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-10-19T19:00:12.000Z",
+    "url": "https://techcrunch.com/2026/10/19/tolan-snags-30m-for-its-ai-companion-that-helps-users-navigate-life/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-10-20T02:34:09.028Z"
+  },
+  {
+    "id": "news-1792463649028-6",
+    "title": "Replika’s founder built the AI assistant she pitched at Disrupt 12 years ago",
+    "summary": "Eugenia Kuyda's newest startup Wabi is positioned to take advantage of an idea she had more than a decade ago. Wabi offers a personal AI assistant with a twist, free and downloadable to anyone today.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-10-19T18:49:04.000Z",
+    "url": "https://techcrunch.com/2026/10/19/replikas-founder-built-the-ai-assistant-she-pitched-at-disrupt-12-years-ago/",
     "imageUrl": null,
     "tags": [
       "AI",
       "Startup"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-10-19T02:20:34.192Z"
+    "fetchedAt": "2026-10-20T02:34:09.028Z"
   },
   {
-    "id": "news-1792376434191-3",
-    "title": "India becomes the latest country to report rogue AI agent activity",
-    "summary": "The agents got in through credentials and connection settings left exposed in app configurations, public code repositories, and overly permissive cloud roles.",
+    "id": "news-1792463649028-7",
+    "title": "Tenstorrent hits $6.2B valuation to scale open-weight AI chips",
+    "summary": "After drawing acquisition interest earlier this year, the Nvidia challenger raised $1.5 billion to remain independent.",
     "category": "ai-research",
     "source": "TechCrunch AI",
     "author": "Unknown",
-    "publishedAt": "2026-10-16T17:52:24.000Z",
-    "url": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
+    "publishedAt": "2026-10-19T18:37:27.000Z",
+    "url": "https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/",
     "imageUrl": null,
     "tags": [
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-10-19T02:20:34.191Z"
+    "fetchedAt": "2026-10-20T02:34:09.028Z"
   },
   {
-    "id": "news-1792376434192-26",
-    "title": "From Universal Music’s fresh round of layoffs to Spotify’s catalog surge… it’s MBW’s Weekly Round-up",
-    "summary": "The biggest headlines from the past few days...\nSource",
+    "id": "news-1792463649031-30",
+    "title": "‘The only way to properly create value in music is to make lasting copyrights.’",
+    "summary": "Newly confirmed as sole Chairman and CEO of Warner Records Group, Aaron Bay-Schuck tells MBW why patience beats volume, why WMG needs two frontline label groups, and why the AI flood only makes a very human record company worth more...\nSource",
     "category": "industry-news",
     "source": "Music Business Worldwide",
     "author": "Unknown",
-    "publishedAt": "2026-10-16T17:29:30.000Z",
-    "url": "https://www.musicbusinessworldwide.com/from-universal-musics-fresh-round-of-layoffs-to-spotifys-catalog-surge-its-mbws-weekly-round-up/",
+    "publishedAt": "2026-10-19T16:35:28.000Z",
+    "url": "https://www.musicbusinessworldwide.com/aaron-bay-schuck-the-only-way-to-properly-create-value-in-music-is-to-make-lasting-copyrights/",
     "imageUrl": null,
     "tags": [
-      "Spotify"
+      "AI",
+      "Copyright"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-10-19T02:20:34.192Z"
+    "fetchedAt": "2026-10-20T02:34:09.031Z"
   },
   {
-    "id": "news-1792376434191-4",
-    "title": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
-    "summary": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic hands, software, and safety standards still being rebuilt.  This view runs counter to those who believe that robotics, powered by a general foundation model, is about to have […]",
+    "id": "news-1792463649028-8",
+    "title": "People are using AI to make their smart TVs dumb again",
+    "summary": "Fed up with ads, tracking, and sluggish interfaces, some smart TV owners are turning to AI agents to strip away bloatware and take back control of their TVs.",
     "category": "ai-research",
     "source": "TechCrunch AI",
     "author": "Unknown",
-    "publishedAt": "2026-10-16T16:30:00.000Z",
-    "url": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-10-19T02:20:34.191Z"
-  },
-  {
-    "id": "news-1792376434191-5",
-    "title": "Physical AI is more than robots, says the Nvidia veteran now investing in it",
-    "summary": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic hands, software, and safety standards still being rebuilt.  This view runs counter to those who believe that robotics, powered by a general foundation model, is about to have […]",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-10-16T16:30:00.000Z",
-    "url": "https://techcrunch.com/podcast/physical-ai-is-more-than-robots-says-the-nvidia-veteran-now-investing-in-it/",
+    "publishedAt": "2026-10-19T16:13:22.000Z",
+    "url": "https://techcrunch.com/2026/10/19/people-are-using-ai-to-make-their-smart-tvs-dumb-again/",
     "imageUrl": null,
     "tags": [
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-10-19T02:20:34.191Z"
-  },
-  {
-    "id": "news-1792376434191-6",
-    "title": "Elorian’s first AI model wants to reason with images, not just about them",
-    "summary": "According to Elorian's evaluations, Glimpse outperforms even GPT-6 Astra on scientific chart reasoning and short-form video captioning, with competitive results on other visual reasoning tasks. ",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-10-16T16:01:37.000Z",
-    "url": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-10-19T02:20:34.191Z"
+    "fetchedAt": "2026-10-20T02:34:09.028Z"
   }
 ]
