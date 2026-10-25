@@ -1,6 +1,147 @@
 [
   {
-    "id": "news-1792808873971-37",
+    "id": "news-1792894494784-37",
+    "title": "Drake Turns 40, Shares Personal Childhood Photos: ‘I Accept You for You’",
+    "summary": "A flip through home photo albums and a duet with the Backstreet Boys marked Drake's 40th birthday.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-10-24T23:00:22.000Z",
+    "url": "https://www.billboard.com/music/rb-hip-hop/drake-i-want-it-that-way-backstreet-boys-40th-birthday-1236367560/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-10-25T02:14:54.784Z"
+  },
+  {
+    "id": "news-1792894494783-0",
+    "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+    "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-10-24T19:00:00.000Z",
+    "url": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+    "imageUrl": null,
+    "tags": [
+      "AI",
+      "Startup"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-10-25T02:14:54.783Z"
+  },
+  {
+    "id": "news-1792894494784-38",
+    "title": "Doja Cat Talks About What She Loves About Collaborating With SZA & Performing With Latto",
+    "summary": "Doja Cat talks about what she loves about collaborating with SZA on her last album “Vie” with “Take Me Dancing,” what she loves about performing with Latto and how she incorporates the Meta glasses into her everyday fashion.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-10-24T17:02:22.000Z",
+    "url": "https://www.billboard.com/video/doja-cat-meta-interview/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-10-25T02:14:54.784Z"
+  },
+  {
+    "id": "news-1792894494783-1",
+    "title": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
+    "summary": "A new study found Grok's AI overwhelmingly recommends Republican candidates while OpenAI's GPT favors Democrats, with the two AI models disagreeing in more than 90% of nearly 500 election races.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-10-24T15:00:00.000Z",
+    "url": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
+    "imageUrl": null,
+    "tags": [
+      "AI",
+      "Research"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-10-25T02:14:54.783Z"
+  },
+  {
+    "id": "news-1792894494784-39",
+    "title": "Anthropic Sued For Stealing Elvis Presley Music to Train AI: ‘Deeply Protective of These Iconic Songs’",
+    "summary": "The owners of The King's IP are cracking down on the tech giant, adding one of music's most legendary figures to the massive legal battle over AI music.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-10-24T14:34:54.000Z",
+    "url": "https://www.billboard.com/pro/elvis-presley-estate-sues-suno-anthropic/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-10-25T02:14:54.784Z"
+  },
+  {
+    "id": "news-1792894494783-2",
+    "title": "Here are the top AI agents that can live in your text messages",
+    "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-10-24T14:00:00.000Z",
+    "url": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-10-25T02:14:54.783Z"
+  },
+  {
+    "id": "news-1792894494784-40",
+    "title": "Maluma Opens Up About Therapy and Finding Balance at Billboard Latin Music Week & More Uplifting Moments",
+    "summary": "Plus, Pablo Alborán and RIZA turn a LMW songwriting sesh into a finished song, and Nanpa Básico and Nella bring hope to the 2026 BBLMAs.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-10-24T14:00:00.000Z",
+    "url": "https://www.billboard.com/music/latin/maluma-betterhelp-latin-music-week-2026-uplifting-moments-1236367482/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-10-25T02:14:54.785Z"
+  },
+  {
+    "id": "news-1792894494784-22",
+    "title": "The PHP Meltdown Shows How AI Makes Bugs More Exploitable",
+    "summary": "Security researchers used AI tools to help uncover years-old vulnerabilities in the PHP web scripting language. Then the AI-assisted attacks began.",
+    "category": "tech-innovation",
+    "source": "Wired AI",
+    "author": "Unknown",
+    "publishedAt": "2026-10-24T12:00:00.000Z",
+    "url": "https://www.wired.com/story/kernel-panic-the-php-meltdown-shows-how-ai-makes-bugs-more-exploitable/",
+    "imageUrl": null,
+    "tags": [
+      "AI",
+      "Research"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-10-25T02:14:54.784Z"
+  },
+  {
+    "id": "news-1792894494784-16",
+    "title": "Meet Anthropic’s sandbox-runtime: OS-Level Sandboxing for AI Agents, No Containers",
+    "summary": "Anthropic sandbox-runtime (srt) is the open-source, OS-level sandbox behind Claude Code. It restricts file and network access for agents, MCP servers and CLI tools with Seatbelt on macOS and bubblewrap on Linux, no containers needed.\nThe post Meet Anthropic’s sandbox-runtime: OS-Level Sandboxing for AI Agents, No Containers appeared first on MarkTechPost.\n",
+    "category": "ai-research",
+    "source": "MarkTechPost",
+    "author": "Unknown",
+    "publishedAt": "2026-10-24T11:12:27.000Z",
+    "url": "https://www.marktechpost.com/2026/10/24/anthropic-sandbox-runtime-ai-agent-sandbox/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-10-25T02:14:54.784Z"
+  },
+  {
+    "id": "news-1792894494785-41",
     "title": "In Canada: Summer Walker, Bebe Rexha to Accept Awards at Billboard Canada Women in Music 2026",
     "summary": "Also this week: Drake finances a new album for a Canadian rapper and Tate McRae's Victoria's Secret performance draws criticism.",
     "category": "industry-news",
@@ -11,10 +152,10 @@
     "imageUrl": null,
     "tags": [],
     "readTime": 1,
-    "fetchedAt": "2026-10-24T02:27:53.971Z"
+    "fetchedAt": "2026-10-25T02:14:54.785Z"
   },
   {
-    "id": "news-1792808873970-16",
+    "id": "news-1792894494784-17",
     "title": "Kyutai CADRE: Video Autoencoders That Cut World Model Lag Below 230 ms",
     "summary": "Kyutai released CADRE, a family of 7 open causal diffusion video autoencoders for interactive world models. World models built on CADRE run at 20 fps on 1 H100 and react in under 230 ms.\nThe post Kyutai CADRE: Video Autoencoders That Cut World Model Lag Below 230 ms appeared first on MarkTechPost.\n",
     "category": "tech-innovation",
@@ -27,10 +168,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-10-24T02:27:53.970Z"
+    "fetchedAt": "2026-10-25T02:14:54.784Z"
   },
   {
-    "id": "news-1792808873969-0",
+    "id": "news-1792894494783-3",
     "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
     "summary": "OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn't work. ",
     "category": "ai-research",
@@ -43,10 +184,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-10-24T02:27:53.969Z"
+    "fetchedAt": "2026-10-25T02:14:54.783Z"
   },
   {
-    "id": "news-1792808873970-17",
+    "id": "news-1792894494784-18",
     "title": "Moonshot AI Releases Kimi K3.1 Pro: A 2.8T Total/104B Active Params (MoE) Model with 1M Context",
     "summary": "Moonshot AI released Kimi K3.1 Pro, a 2.8T-parameter, 104B-active MoE model with 1M-token context. It scores 65.7% on Terminal-Bench 4.0, costs $2/$10 per million tokens, and open weights arrive by Nov 4, 2026.\nThe post Moonshot AI Releases Kimi K3.1 Pro: A 2.8T Total/104B Active Params (MoE) Model with 1M Context appeared first on MarkTechPost.\n",
     "category": "tech-innovation",
@@ -59,52 +200,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-10-24T02:27:53.970Z"
+    "fetchedAt": "2026-10-25T02:14:54.784Z"
   },
   {
-    "id": "news-1792808873971-38",
-    "title": "Billboard Latin Music Week 2026 Photo Booth: Anuel AA, Becky G, Maluma & More",
-    "summary": "See some of the photo booth gems captured backstage throughout the week.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-10-23T21:34:31.000Z",
-    "url": "https://www.billboard.com/photos/billboard-latin-music-week-2026-photo-booth-anuel-aa-becky-g-maluma-more-1236365751/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-10-24T02:27:53.971Z"
-  },
-  {
-    "id": "news-1792808873971-39",
-    "title": "Vince Gill & Charlie Handsome Lead 2026 NMPA Gold & Platinum Gala Honorees",
-    "summary": "The 2026 National Music Publishers' Association Gold & Platinum Gala, held Thursday, honored over 150 Nashville songwriters.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-10-23T21:19:40.000Z",
-    "url": "https://www.billboard.com/pro/vince-gill-charlie-handsome-2026-nmpa-gold-platinum-gala/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-10-24T02:27:53.971Z"
-  },
-  {
-    "id": "news-1792808873971-40",
-    "title": "Matchbox Twenty 2027: Here’s Where to Shop Affordable Tour Tickets Online",
-    "summary": "The alt-rock band hits the road with tour dates across the United States next summer.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-10-23T21:08:12.000Z",
-    "url": "https://www.billboard.com/culture/product-recommendations/matchbox-twenty-2027-tour-tickets-buy-shop-online-1236367080/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-10-24T02:27:53.971Z"
-  },
-  {
-    "id": "news-1792808873969-1",
+    "id": "news-1792894494783-4",
     "title": "From Toast to Bessemer: Who founders will hear from at TechCrunch Founder Summit 2026",
     "summary": "Hosted by TechCrunch in partnership with Fidelity Private Shares, the full-day event goes beyond fundraising and AI to explore the realities of finding customers, building teams, sharpening a pitch, developing founder leadership, and scaling companies both inside and outside traditional startup hubs.",
     "category": "ai-research",
@@ -119,10 +218,10 @@
       "Partnership"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-10-24T02:27:53.969Z"
+    "fetchedAt": "2026-10-25T02:14:54.783Z"
   },
   {
-    "id": "news-1792808873971-29",
+    "id": "news-1792894494784-29",
     "title": "John Mayer launches Sob Rock Records in partnership with Universal’s Mercury",
     "summary": "The label shares its name with \"Sob Rock,\" Mayer's last album with Sony Music's Columbia Records, released in 2021.\nSource",
     "category": "industry-news",
@@ -135,10 +234,10 @@
       "Partnership"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-10-24T02:27:53.971Z"
+    "fetchedAt": "2026-10-25T02:14:54.784Z"
   },
   {
-    "id": "news-1792808873971-30",
+    "id": "news-1792894494784-30",
     "title": "From Spotify’s giant profits to yet another legal fight for Suno…it’s MBW’s Weekly Round-Up",
     "summary": "The biggest headlines from the past few days...\n\nSource",
     "category": "industry-news",
@@ -151,10 +250,10 @@
       "Spotify"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-10-24T02:27:53.971Z"
+    "fetchedAt": "2026-10-25T02:14:54.784Z"
   },
   {
-    "id": "news-1792808873971-31",
+    "id": "news-1792894494784-31",
     "title": "Position Music hires ex-Big Deal Music and RCA exec Pete Robinson as GM, Creative Nashville",
     "summary": "Robinson will report to Position Music Founder and CEO Tyler Bacon and President Mark Chipello.\nSource",
     "category": "industry-news",
@@ -165,10 +264,10 @@
     "imageUrl": null,
     "tags": [],
     "readTime": 1,
-    "fetchedAt": "2026-10-24T02:27:53.971Z"
+    "fetchedAt": "2026-10-25T02:14:54.784Z"
   },
   {
-    "id": "news-1792808873971-32",
+    "id": "news-1792894494784-32",
     "title": "Former Eminem employee pleads guilty to selling unreleased tracks that were later accessed 8M+ times on streaming platforms",
     "summary": "Joseph Strange sold 10 or more audio files of the music to buyers online for approximately $50,000, according to court documents cited by the DOJ.\nSource",
     "category": "industry-news",
@@ -181,10 +280,10 @@
       "Streaming"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-10-24T02:27:53.971Z"
+    "fetchedAt": "2026-10-25T02:14:54.784Z"
   },
   {
-    "id": "news-1792808873971-33",
+    "id": "news-1792894494784-33",
     "title": "Seeker Music acquires original and re-recorded versions of JoJo’s first two albums",
     "summary": "The deal covers her self-titled 2004 debut, its 2006 follow-up, The High Road, and the versions of both albums she re-recorded and released in 2018.\nSource",
     "category": "industry-news",
@@ -195,10 +294,10 @@
     "imageUrl": null,
     "tags": [],
     "readTime": 1,
-    "fetchedAt": "2026-10-24T02:27:53.971Z"
+    "fetchedAt": "2026-10-25T02:14:54.784Z"
   },
   {
-    "id": "news-1792808873971-34",
+    "id": "news-1792894494784-34",
     "title": "Chris Brown producer sues Sony Music for $1.25M, claiming it stalled the sale of his ‘Party’ royalties and paid him half the agreed rate",
     "summary": "Ishmael Sadiq Montague claims Sony made false statements to delay redirecting his royalties on the track to a company that had agreed to buy them.\nSource",
     "category": "industry-news",
@@ -211,104 +310,6 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-10-24T02:27:53.971Z"
-  },
-  {
-    "id": "news-1792808873970-18",
-    "title": "TinyFish Breaks Down Agentic Search Architecture for Production AI Agents",
-    "summary": "TinyFish published two engineering research articles on agentic search. One defines a 7-phase production architecture with evidence contracts and bounded retries. The other explains why its deep research system dropped a separate planner and per-query subagents.\nThe post TinyFish Breaks Down Agentic Search Architecture for Production AI Agents appeared first on MarkTechPost.\n",
-    "category": "ai-research",
-    "source": "MarkTechPost",
-    "author": "Unknown",
-    "publishedAt": "2026-10-23T08:58:47.000Z",
-    "url": "https://www.marktechpost.com/2026/10/23/tinyfish-agentic-search-architecture-deep-research/",
-    "imageUrl": null,
-    "tags": [
-      "AI",
-      "Research"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-10-24T02:27:53.970Z"
-  },
-  {
-    "id": "news-1792808873970-19",
-    "title": "Google Cloud Launches Agent Compute Engine: A MicroVM per AI Agent",
-    "summary": "Google Cloud announced Agent Compute Engine, a compute service that gives every AI agent its own hardware-isolated microVM with no credentials inside. It already runs Gemini agents and enters preview in the coming months.\nThe post Google Cloud Launches Agent Compute Engine: A MicroVM per AI Agent appeared first on MarkTechPost.\n",
-    "category": "ai-research",
-    "source": "MarkTechPost",
-    "author": "Unknown",
-    "publishedAt": "2026-10-23T06:05:10.000Z",
-    "url": "https://www.marktechpost.com/2026/10/22/google-cloud-agent-compute-engine-microvm-ai-agents/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-10-24T02:27:53.970Z"
-  },
-  {
-    "id": "news-1792808873969-2",
-    "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony AI and Nvidia",
-    "summary": "The company plans to begin testing Pony.ai's robotaxis in Kazakhstan's capital in the first half of 2027.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-10-23T04:00:00.000Z",
-    "url": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-10-24T02:27:53.969Z"
-  },
-  {
-    "id": "news-1792808873970-3",
-    "title": "Left alone with nothing to do, AI agents started playing",
-    "summary": "MIT researchers marooned 13 AIs on a virtual island, and they responded by inventing games, mourning a lost ring and, eventually, getting better at their jobs.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-10-23T00:45:37.000Z",
-    "url": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/",
-    "imageUrl": null,
-    "tags": [
-      "AI",
-      "Research"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-10-24T02:27:53.970Z"
-  },
-  {
-    "id": "news-1792808873970-4",
-    "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
-    "summary": "Should OpenAI command an over $1 trillion valuation with this round, it would break records as the most highly valued private company ever.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-10-22T22:08:24.000Z",
-    "url": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-10-24T02:27:53.970Z"
-  },
-  {
-    "id": "news-1792808873971-35",
-    "title": "Latin America is catching North America as Spotify’s second-biggest subscriber market – and over 1 in 10 people there now pay for it.",
-    "summary": "Spotify's Q3 2026 shareholder deck shows that Latin America accounted for 24% of the company's 306 million Premium subscribers at the end of September.\nSource",
-    "category": "industry-news",
-    "source": "Music Business Worldwide",
-    "author": "Unknown",
-    "publishedAt": "2026-10-22T20:09:25.000Z",
-    "url": "https://www.musicbusinessworldwide.com/latin-america-is-catching-north-america-as-spotifys-second-biggest-subscriber-market-and-over-1-in-10-people-there-now-pay-for-it/",
-    "imageUrl": null,
-    "tags": [
-      "Spotify"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-10-24T02:27:53.971Z"
+    "fetchedAt": "2026-10-25T02:14:54.784Z"
   }
 ]
