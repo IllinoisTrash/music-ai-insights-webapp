@@ -1,20 +1,155 @@
 [
   {
-    "id": "news-1792894494784-37",
-    "title": "Drake Turns 40, Shares Personal Childhood Photos: ‘I Accept You for You’",
-    "summary": "A flip through home photo albums and a duet with the Backstreet Boys marked Drake's 40th birthday.",
+    "id": "news-1792980920874-34",
+    "title": "Snubs & Surprises at 2026 Caribbean Music Awards: Is ‘Dansa’ Really a Dennery Segment Song?",
+    "summary": "From Lady Lava's domination to head-scratching decisions in newer genre categories, here are the biggest snubs and surprises from the 2026 Caribbean Music Awards.",
     "category": "industry-news",
     "source": "Billboard",
     "author": "Unknown",
-    "publishedAt": "2026-10-24T23:00:22.000Z",
-    "url": "https://www.billboard.com/music/rb-hip-hop/drake-i-want-it-that-way-backstreet-boys-40th-birthday-1236367560/",
+    "publishedAt": "2026-10-26T01:00:00.000Z",
+    "url": "https://www.billboard.com/lists/snubs-surprises-2026-caribbean-music-awards-jab-dennery/",
     "imageUrl": null,
     "tags": [],
     "readTime": 1,
-    "fetchedAt": "2026-10-25T02:14:54.784Z"
+    "fetchedAt": "2026-10-26T02:15:20.874Z"
   },
   {
-    "id": "news-1792894494783-0",
+    "id": "news-1792980920874-35",
+    "title": "Calypso Rose Receives Standing Ovation at 2026 Caribbean Music Awards: 6 Best Moments",
+    "summary": "The Sept. 18 ceremony also featured a full-circle moment for soca star Yung Bredda.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-10-26T01:00:00.000Z",
+    "url": "https://www.billboard.com/lists/2026-caribbean-music-awards-best-moments-soca-dancehall/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-10-26T02:15:20.874Z"
+  },
+  {
+    "id": "news-1792980920874-36",
+    "title": "Fans Choose LISA’s ‘Press Play’ as This Week’s Favorite New Music",
+    "summary": "The BLACKPINK singer's latest solo release brought in 87% of the vote.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-10-25T22:20:12.000Z",
+    "url": "https://www.billboard.com/music/music-news/lisa-press-play-best-new-music-poll-results-1236367660/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-10-26T02:15:20.874Z"
+  },
+  {
+    "id": "news-1792980920873-16",
+    "title": "Nanbeige Releases Nanbeige4.3-33B, a 33B Open Agentic Coding Model",
+    "summary": "Nanbeige LLM Lab released Nanbeige4.3-33B, a 33B dense Apache 2.0 model with 512K context. It reports 80.9 on Terminal-Bench 2.1 and will teach the upcoming Nanbeige4.3-3B.\nThe post Nanbeige Releases Nanbeige4.3-33B, a 33B Open Agentic Coding Model appeared first on MarkTechPost.\n",
+    "category": "ai-research",
+    "source": "MarkTechPost",
+    "author": "Unknown",
+    "publishedAt": "2026-10-25T21:15:21.000Z",
+    "url": "https://www.marktechpost.com/2026/10/25/nanbeige-releases-nanbeige4-3-33b-open-agentic-coding-model/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-10-26T02:15:20.873Z"
+  },
+  {
+    "id": "news-1792980920872-0",
+    "title": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
+    "summary": "\"Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate America outside of tech.\"",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-10-25T16:57:32.000Z",
+    "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
+    "imageUrl": null,
+    "tags": [
+      "AI",
+      "Investment"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-10-26T02:15:20.872Z"
+  },
+  {
+    "id": "news-1792980920874-37",
+    "title": "Harry Styles Quietly Reveals He’s Releasing a New Music Video for a Fan-Favorite Song",
+    "summary": "Even the fans who were actually at Madison Square Garden on Saturday (Oct. 24) might've missed Styles' nonchalant announcement.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-10-25T16:22:26.000Z",
+    "url": "https://www.billboard.com/music/pop/harry-styles-coming-up-roses-video-release-date-1236367595/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-10-26T02:15:20.874Z"
+  },
+  {
+    "id": "news-1792980920874-38",
+    "title": "From Tickets to Tech, Here Are 22 of the Best Christmas Gifts for Music Lovers to Shop Online",
+    "summary": "Priced between $10 and $400, these gifts have something for everyone, from the KPop Demon Hunters fan in your life to the tech enthusiast who’s always after the latest audio gear.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-10-25T15:30:00.000Z",
+    "url": "https://www.billboard.com/culture/product-recommendations/best-christmas-gifts-music-lovers-shop-online-2026-1236360927/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-10-26T02:15:20.874Z"
+  },
+  {
+    "id": "news-1792980920872-1",
+    "title": "The hottest AI wearables and gadgets you should know about",
+    "summary": "We compiled a list of all the hottest AI wearables, including Muse Charm, Bee, Friend, Plaud, and more. ",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-10-25T14:10:00.000Z",
+    "url": "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-10-26T02:15:20.872Z"
+  },
+  {
+    "id": "news-1792980920873-17",
+    "title": "Researchers from Stanford and UC Berkeley Introduce TokenGate: Token-Gated Attention Makes Long-Context Prefill Up to 11.3x Faster",
+    "summary": "Stanford and UC Berkeley researchers released TokenGate, a drop-in learned token pruning module for LLMs. It cuts long-context prefill time-to-first-token by 1.4x to 11.3x and peak memory by 1.5x to 3.4x without accuracy loss.\nThe post Researchers from Stanford and UC Berkeley Introduce TokenGate: Token-Gated Attention Makes Long-Context Prefill Up to 11.3x Faster appeared first on MarkTechPost.\n",
+    "category": "ai-research",
+    "source": "MarkTechPost",
+    "author": "Unknown",
+    "publishedAt": "2026-10-25T12:12:18.000Z",
+    "url": "https://www.marktechpost.com/2026/10/25/stanford-berkeley-tokengate-learned-token-pruning-llm-prefill/",
+    "imageUrl": null,
+    "tags": [
+      "Research"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-10-26T02:15:20.873Z"
+  },
+  {
+    "id": "news-1792980920873-18",
+    "title": "Anthropic Launches OSS Scanner, a Free AI Vulnerability Scanner",
+    "summary": "Anthropic has launched OSS Scanner, a free, opt-in vulnerability scanner for critical open-source projects. The Anthropic OSS Scanner runs the company’s strongest models, including Claude Mythos, against enrolled codebases. Reports go straight to maintainers without human review. That trade delivers faster findings, but shifts triage work onto project teams. 11 days after the October 8 […]\nThe post Anthropic Launches OSS Scanner, a Free AI Vulnerability Scanner appeared first on Mark",
+    "category": "ai-research",
+    "source": "MarkTechPost",
+    "author": "Unknown",
+    "publishedAt": "2026-10-25T11:32:29.000Z",
+    "url": "https://www.marktechpost.com/2026/10/25/anthropic-launches-oss-scanner-a-free-ai-vulnerability-scanner/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-10-26T02:15:20.873Z"
+  },
+  {
+    "id": "news-1792980920872-2",
     "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
     "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
     "category": "ai-research",
@@ -28,24 +163,10 @@
       "Startup"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-10-25T02:14:54.783Z"
+    "fetchedAt": "2026-10-26T02:15:20.872Z"
   },
   {
-    "id": "news-1792894494784-38",
-    "title": "Doja Cat Talks About What She Loves About Collaborating With SZA & Performing With Latto",
-    "summary": "Doja Cat talks about what she loves about collaborating with SZA on her last album “Vie” with “Take Me Dancing,” what she loves about performing with Latto and how she incorporates the Meta glasses into her everyday fashion.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-10-24T17:02:22.000Z",
-    "url": "https://www.billboard.com/video/doja-cat-meta-interview/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-10-25T02:14:54.784Z"
-  },
-  {
-    "id": "news-1792894494783-1",
+    "id": "news-1792980920872-3",
     "title": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
     "summary": "A new study found Grok's AI overwhelmingly recommends Republican candidates while OpenAI's GPT favors Democrats, with the two AI models disagreeing in more than 90% of nearly 500 election races.",
     "category": "ai-research",
@@ -59,26 +180,10 @@
       "Research"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-10-25T02:14:54.783Z"
+    "fetchedAt": "2026-10-26T02:15:20.872Z"
   },
   {
-    "id": "news-1792894494784-39",
-    "title": "Anthropic Sued For Stealing Elvis Presley Music to Train AI: ‘Deeply Protective of These Iconic Songs’",
-    "summary": "The owners of The King's IP are cracking down on the tech giant, adding one of music's most legendary figures to the massive legal battle over AI music.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-10-24T14:34:54.000Z",
-    "url": "https://www.billboard.com/pro/elvis-presley-estate-sues-suno-anthropic/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-10-25T02:14:54.784Z"
-  },
-  {
-    "id": "news-1792894494783-2",
+    "id": "news-1792980920872-4",
     "title": "Here are the top AI agents that can live in your text messages",
     "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
     "category": "ai-research",
@@ -91,24 +196,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-10-25T02:14:54.783Z"
+    "fetchedAt": "2026-10-26T02:15:20.872Z"
   },
   {
-    "id": "news-1792894494784-40",
-    "title": "Maluma Opens Up About Therapy and Finding Balance at Billboard Latin Music Week & More Uplifting Moments",
-    "summary": "Plus, Pablo Alborán and RIZA turn a LMW songwriting sesh into a finished song, and Nanpa Básico and Nella bring hope to the 2026 BBLMAs.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-10-24T14:00:00.000Z",
-    "url": "https://www.billboard.com/music/latin/maluma-betterhelp-latin-music-week-2026-uplifting-moments-1236367482/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-10-25T02:14:54.785Z"
-  },
-  {
-    "id": "news-1792894494784-22",
+    "id": "news-1792980920873-20",
     "title": "The PHP Meltdown Shows How AI Makes Bugs More Exploitable",
     "summary": "Security researchers used AI tools to help uncover years-old vulnerabilities in the PHP web scripting language. Then the AI-assisted attacks began.",
     "category": "tech-innovation",
@@ -122,10 +213,10 @@
       "Research"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-10-25T02:14:54.784Z"
+    "fetchedAt": "2026-10-26T02:15:20.873Z"
   },
   {
-    "id": "news-1792894494784-16",
+    "id": "news-1792980920873-19",
     "title": "Meet Anthropic’s sandbox-runtime: OS-Level Sandboxing for AI Agents, No Containers",
     "summary": "Anthropic sandbox-runtime (srt) is the open-source, OS-level sandbox behind Claude Code. It restricts file and network access for agents, MCP servers and CLI tools with Seatbelt on macOS and bubblewrap on Linux, no containers needed.\nThe post Meet Anthropic’s sandbox-runtime: OS-Level Sandboxing for AI Agents, No Containers appeared first on MarkTechPost.\n",
     "category": "ai-research",
@@ -138,40 +229,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-10-25T02:14:54.784Z"
+    "fetchedAt": "2026-10-26T02:15:20.873Z"
   },
   {
-    "id": "news-1792894494785-41",
-    "title": "In Canada: Summer Walker, Bebe Rexha to Accept Awards at Billboard Canada Women in Music 2026",
-    "summary": "Also this week: Drake finances a new album for a Canadian rapper and Tate McRae's Victoria's Secret performance draws criticism.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-10-24T00:40:41.000Z",
-    "url": "https://www.billboard.com/pro/summer-walker-bebe-rexha-billboard-canada-women-in-music/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-10-25T02:14:54.785Z"
-  },
-  {
-    "id": "news-1792894494784-17",
-    "title": "Kyutai CADRE: Video Autoencoders That Cut World Model Lag Below 230 ms",
-    "summary": "Kyutai released CADRE, a family of 7 open causal diffusion video autoencoders for interactive world models. World models built on CADRE run at 20 fps on 1 H100 and react in under 230 ms.\nThe post Kyutai CADRE: Video Autoencoders That Cut World Model Lag Below 230 ms appeared first on MarkTechPost.\n",
-    "category": "tech-innovation",
-    "source": "MarkTechPost",
-    "author": "Unknown",
-    "publishedAt": "2026-10-23T23:26:53.000Z",
-    "url": "https://www.marktechpost.com/2026/10/23/kyutai-cadre-video-autoencoders-interactive-world-models/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-10-25T02:14:54.784Z"
-  },
-  {
-    "id": "news-1792894494783-3",
+    "id": "news-1792980920872-5",
     "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
     "summary": "OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn't work. ",
     "category": "ai-research",
@@ -184,26 +245,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-10-25T02:14:54.783Z"
+    "fetchedAt": "2026-10-26T02:15:20.872Z"
   },
   {
-    "id": "news-1792894494784-18",
-    "title": "Moonshot AI Releases Kimi K3.1 Pro: A 2.8T Total/104B Active Params (MoE) Model with 1M Context",
-    "summary": "Moonshot AI released Kimi K3.1 Pro, a 2.8T-parameter, 104B-active MoE model with 1M-token context. It scores 65.7% on Terminal-Bench 4.0, costs $2/$10 per million tokens, and open weights arrive by Nov 4, 2026.\nThe post Moonshot AI Releases Kimi K3.1 Pro: A 2.8T Total/104B Active Params (MoE) Model with 1M Context appeared first on MarkTechPost.\n",
-    "category": "tech-innovation",
-    "source": "MarkTechPost",
-    "author": "Unknown",
-    "publishedAt": "2026-10-23T22:52:40.000Z",
-    "url": "https://www.marktechpost.com/2026/10/23/moonshot-ai-kimi-k3-1-pro-open-weight-model/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-10-25T02:14:54.784Z"
-  },
-  {
-    "id": "news-1792894494783-4",
+    "id": "news-1792980920872-6",
     "title": "From Toast to Bessemer: Who founders will hear from at TechCrunch Founder Summit 2026",
     "summary": "Hosted by TechCrunch in partnership with Fidelity Private Shares, the full-day event goes beyond fundraising and AI to explore the realities of finding customers, building teams, sharpening a pitch, developing founder leadership, and scaling companies both inside and outside traditional startup hubs.",
     "category": "ai-research",
@@ -218,10 +263,10 @@
       "Partnership"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-10-25T02:14:54.783Z"
+    "fetchedAt": "2026-10-26T02:15:20.872Z"
   },
   {
-    "id": "news-1792894494784-29",
+    "id": "news-1792980920873-26",
     "title": "John Mayer launches Sob Rock Records in partnership with Universal’s Mercury",
     "summary": "The label shares its name with \"Sob Rock,\" Mayer's last album with Sony Music's Columbia Records, released in 2021.\nSource",
     "category": "industry-news",
@@ -234,10 +279,10 @@
       "Partnership"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-10-25T02:14:54.784Z"
+    "fetchedAt": "2026-10-26T02:15:20.873Z"
   },
   {
-    "id": "news-1792894494784-30",
+    "id": "news-1792980920873-27",
     "title": "From Spotify’s giant profits to yet another legal fight for Suno…it’s MBW’s Weekly Round-Up",
     "summary": "The biggest headlines from the past few days...\n\nSource",
     "category": "industry-news",
@@ -250,10 +295,10 @@
       "Spotify"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-10-25T02:14:54.784Z"
+    "fetchedAt": "2026-10-26T02:15:20.873Z"
   },
   {
-    "id": "news-1792894494784-31",
+    "id": "news-1792980920874-28",
     "title": "Position Music hires ex-Big Deal Music and RCA exec Pete Robinson as GM, Creative Nashville",
     "summary": "Robinson will report to Position Music Founder and CEO Tyler Bacon and President Mark Chipello.\nSource",
     "category": "industry-news",
@@ -264,52 +309,6 @@
     "imageUrl": null,
     "tags": [],
     "readTime": 1,
-    "fetchedAt": "2026-10-25T02:14:54.784Z"
-  },
-  {
-    "id": "news-1792894494784-32",
-    "title": "Former Eminem employee pleads guilty to selling unreleased tracks that were later accessed 8M+ times on streaming platforms",
-    "summary": "Joseph Strange sold 10 or more audio files of the music to buyers online for approximately $50,000, according to court documents cited by the DOJ.\nSource",
-    "category": "industry-news",
-    "source": "Music Business Worldwide",
-    "author": "Unknown",
-    "publishedAt": "2026-10-23T14:03:59.000Z",
-    "url": "https://www.musicbusinessworldwide.com/former-eminem-employee-pleads-guilty-to-selling-unreleased-tracks-that-were-later-accessed-8m-times-on-streaming-platforms/",
-    "imageUrl": null,
-    "tags": [
-      "Streaming"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-10-25T02:14:54.784Z"
-  },
-  {
-    "id": "news-1792894494784-33",
-    "title": "Seeker Music acquires original and re-recorded versions of JoJo’s first two albums",
-    "summary": "The deal covers her self-titled 2004 debut, its 2006 follow-up, The High Road, and the versions of both albums she re-recorded and released in 2018.\nSource",
-    "category": "industry-news",
-    "source": "Music Business Worldwide",
-    "author": "Unknown",
-    "publishedAt": "2026-10-23T14:03:39.000Z",
-    "url": "https://www.musicbusinessworldwide.com/seeker-music-acquires-original-and-re-recorded-versions-of-jojos-first-two-albums/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-10-25T02:14:54.784Z"
-  },
-  {
-    "id": "news-1792894494784-34",
-    "title": "Chris Brown producer sues Sony Music for $1.25M, claiming it stalled the sale of his ‘Party’ royalties and paid him half the agreed rate",
-    "summary": "Ishmael Sadiq Montague claims Sony made false statements to delay redirecting his royalties on the track to a company that had agreed to buy them.\nSource",
-    "category": "industry-news",
-    "source": "Music Business Worldwide",
-    "author": "Unknown",
-    "publishedAt": "2026-10-23T14:02:43.000Z",
-    "url": "https://www.musicbusinessworldwide.com/chris-brown-producer-sues-sony-music-for-1-25m-claiming-it-stalled-the-sale-of-his-party-royalties-and-paid-him-half-the-agreed-rate/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-10-25T02:14:54.784Z"
+    "fetchedAt": "2026-10-26T02:15:20.874Z"
   }
 ]
