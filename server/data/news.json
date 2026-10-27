@@ -1,314 +1,317 @@
 [
   {
-    "id": "news-1792980920874-34",
-    "title": "Snubs & Surprises at 2026 Caribbean Music Awards: Is ‘Dansa’ Really a Dennery Segment Song?",
-    "summary": "From Lady Lava's domination to head-scratching decisions in newer genre categories, here are the biggest snubs and surprises from the 2026 Caribbean Music Awards.",
+    "id": "news-1793069482583-37",
+    "title": "Macklemore, Hozier and Kneecap Play Sold-Out Free Palestine Benefit Concert in Dublin",
+    "summary": "The show at Dublin’s 3Arena opened a three-city series raising money for Palestinian aid organizations, with Paris and London to follow this week.",
     "category": "industry-news",
     "source": "Billboard",
     "author": "Unknown",
-    "publishedAt": "2026-10-26T01:00:00.000Z",
-    "url": "https://www.billboard.com/lists/snubs-surprises-2026-caribbean-music-awards-jab-dennery/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-10-26T02:15:20.874Z"
-  },
-  {
-    "id": "news-1792980920874-35",
-    "title": "Calypso Rose Receives Standing Ovation at 2026 Caribbean Music Awards: 6 Best Moments",
-    "summary": "The Sept. 18 ceremony also featured a full-circle moment for soca star Yung Bredda.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-10-26T01:00:00.000Z",
-    "url": "https://www.billboard.com/lists/2026-caribbean-music-awards-best-moments-soca-dancehall/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-10-26T02:15:20.874Z"
-  },
-  {
-    "id": "news-1792980920874-36",
-    "title": "Fans Choose LISA’s ‘Press Play’ as This Week’s Favorite New Music",
-    "summary": "The BLACKPINK singer's latest solo release brought in 87% of the vote.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-10-25T22:20:12.000Z",
-    "url": "https://www.billboard.com/music/music-news/lisa-press-play-best-new-music-poll-results-1236367660/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-10-26T02:15:20.874Z"
-  },
-  {
-    "id": "news-1792980920873-16",
-    "title": "Nanbeige Releases Nanbeige4.3-33B, a 33B Open Agentic Coding Model",
-    "summary": "Nanbeige LLM Lab released Nanbeige4.3-33B, a 33B dense Apache 2.0 model with 512K context. It reports 80.9 on Terminal-Bench 2.1 and will teach the upcoming Nanbeige4.3-3B.\nThe post Nanbeige Releases Nanbeige4.3-33B, a 33B Open Agentic Coding Model appeared first on MarkTechPost.\n",
-    "category": "ai-research",
-    "source": "MarkTechPost",
-    "author": "Unknown",
-    "publishedAt": "2026-10-25T21:15:21.000Z",
-    "url": "https://www.marktechpost.com/2026/10/25/nanbeige-releases-nanbeige4-3-33b-open-agentic-coding-model/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-10-26T02:15:20.873Z"
-  },
-  {
-    "id": "news-1792980920872-0",
-    "title": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
-    "summary": "\"Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate America outside of tech.\"",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-10-25T16:57:32.000Z",
-    "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
-    "imageUrl": null,
-    "tags": [
-      "AI",
-      "Investment"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-10-26T02:15:20.872Z"
-  },
-  {
-    "id": "news-1792980920874-37",
-    "title": "Harry Styles Quietly Reveals He’s Releasing a New Music Video for a Fan-Favorite Song",
-    "summary": "Even the fans who were actually at Madison Square Garden on Saturday (Oct. 24) might've missed Styles' nonchalant announcement.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-10-25T16:22:26.000Z",
-    "url": "https://www.billboard.com/music/pop/harry-styles-coming-up-roses-video-release-date-1236367595/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-10-26T02:15:20.874Z"
-  },
-  {
-    "id": "news-1792980920874-38",
-    "title": "From Tickets to Tech, Here Are 22 of the Best Christmas Gifts for Music Lovers to Shop Online",
-    "summary": "Priced between $10 and $400, these gifts have something for everyone, from the KPop Demon Hunters fan in your life to the tech enthusiast who’s always after the latest audio gear.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-10-25T15:30:00.000Z",
-    "url": "https://www.billboard.com/culture/product-recommendations/best-christmas-gifts-music-lovers-shop-online-2026-1236360927/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-10-26T02:15:20.874Z"
-  },
-  {
-    "id": "news-1792980920872-1",
-    "title": "The hottest AI wearables and gadgets you should know about",
-    "summary": "We compiled a list of all the hottest AI wearables, including Muse Charm, Bee, Friend, Plaud, and more. ",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-10-25T14:10:00.000Z",
-    "url": "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/",
+    "publishedAt": "2026-10-27T02:50:34.000Z",
+    "url": "https://www.billboard.com/music/music-news/macklemore-hozier-kneecap-free-palestine-benefit-concert-dublin-1236368558/",
     "imageUrl": null,
     "tags": [
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-10-26T02:15:20.872Z"
+    "fetchedAt": "2026-10-27T02:51:22.583Z"
   },
   {
-    "id": "news-1792980920873-17",
-    "title": "Researchers from Stanford and UC Berkeley Introduce TokenGate: Token-Gated Attention Makes Long-Context Prefill Up to 11.3x Faster",
-    "summary": "Stanford and UC Berkeley researchers released TokenGate, a drop-in learned token pruning module for LLMs. It cuts long-context prefill time-to-first-token by 1.4x to 11.3x and peak memory by 1.5x to 3.4x without accuracy loss.\nThe post Researchers from Stanford and UC Berkeley Introduce TokenGate: Token-Gated Attention Makes Long-Context Prefill Up to 11.3x Faster appeared first on MarkTechPost.\n",
-    "category": "ai-research",
+    "id": "news-1793069482582-18",
+    "title": "OpenAI Launches GPT-6.1 Terra, Halving GPT-6.1 Sol’s API Price for Agent Work",
+    "summary": "OpenAI released GPT-6.1 Terra, a fast computer-use and vision model priced at $1/$5 per million tokens. It matches GPT-6 Astra’s medium-effort Agents’ Last Exam score at $0.29 per task versus $4.82.\nThe post OpenAI Launches GPT-6.1 Terra, Halving GPT-6.1 Sol’s API Price for Agent Work appeared first on MarkTechPost.\n",
+    "category": "tech-innovation",
     "source": "MarkTechPost",
     "author": "Unknown",
-    "publishedAt": "2026-10-25T12:12:18.000Z",
-    "url": "https://www.marktechpost.com/2026/10/25/stanford-berkeley-tokengate-learned-token-pruning-llm-prefill/",
-    "imageUrl": null,
-    "tags": [
-      "Research"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-10-26T02:15:20.873Z"
-  },
-  {
-    "id": "news-1792980920873-18",
-    "title": "Anthropic Launches OSS Scanner, a Free AI Vulnerability Scanner",
-    "summary": "Anthropic has launched OSS Scanner, a free, opt-in vulnerability scanner for critical open-source projects. The Anthropic OSS Scanner runs the company’s strongest models, including Claude Mythos, against enrolled codebases. Reports go straight to maintainers without human review. That trade delivers faster findings, but shifts triage work onto project teams. 11 days after the October 8 […]\nThe post Anthropic Launches OSS Scanner, a Free AI Vulnerability Scanner appeared first on Mark",
-    "category": "ai-research",
-    "source": "MarkTechPost",
-    "author": "Unknown",
-    "publishedAt": "2026-10-25T11:32:29.000Z",
-    "url": "https://www.marktechpost.com/2026/10/25/anthropic-launches-oss-scanner-a-free-ai-vulnerability-scanner/",
+    "publishedAt": "2026-10-27T02:45:27.000Z",
+    "url": "https://www.marktechpost.com/2026/10/26/openai-gpt-6-1-terra/",
     "imageUrl": null,
     "tags": [
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-10-26T02:15:20.873Z"
+    "fetchedAt": "2026-10-27T02:51:22.582Z"
   },
   {
-    "id": "news-1792980920872-2",
-    "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
-    "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
+    "id": "news-1793069482580-0",
+    "title": "How OpenAI turned its coding tools into dots, an always-on personal assistant",
+    "summary": "Alexander Embiricos, the OpenAI executive responsible for dots, never wants to have a meeting with someone else's AI agent. ",
     "category": "ai-research",
     "source": "TechCrunch AI",
     "author": "Unknown",
-    "publishedAt": "2026-10-24T19:00:00.000Z",
-    "url": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+    "publishedAt": "2026-10-27T02:00:00.000Z",
+    "url": "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/",
     "imageUrl": null,
     "tags": [
-      "AI",
-      "Startup"
+      "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-10-26T02:15:20.872Z"
+    "fetchedAt": "2026-10-27T02:51:22.581Z"
   },
   {
-    "id": "news-1792980920872-3",
-    "title": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
-    "summary": "A new study found Grok's AI overwhelmingly recommends Republican candidates while OpenAI's GPT favors Democrats, with the two AI models disagreeing in more than 90% of nearly 500 election races.",
+    "id": "news-1793069482581-1",
+    "title": "Cohere says Alibaba’s Qwen model tried to send a file to Beijing",
+    "summary": "An AI model said it wouldn’t use any tools, then tried to send something to a server in Beijing anyway, and while researchers say it’s probably a training quirk and not espionage, the whole thing has people asking how much to trust free Chinese AI.\n",
     "category": "ai-research",
     "source": "TechCrunch AI",
     "author": "Unknown",
-    "publishedAt": "2026-10-24T15:00:00.000Z",
-    "url": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
+    "publishedAt": "2026-10-27T01:12:21.000Z",
+    "url": "https://techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing/",
     "imageUrl": null,
     "tags": [
       "AI",
       "Research"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-10-26T02:15:20.872Z"
+    "fetchedAt": "2026-10-27T02:51:22.581Z"
   },
   {
-    "id": "news-1792980920872-4",
-    "title": "Here are the top AI agents that can live in your text messages",
-    "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
+    "id": "news-1793069482583-38",
+    "title": "At ADE 2026, a Top Music Lawyer Talks AI, Independence & What the Biz Can Learn From Radiohead",
+    "summary": "Lawyer and music industry analyst Cliff Fluet laid out where power in the music industry is moving and who’s positioned to hold it.",
+    "category": "industry-news",
+    "source": "Billboard",
     "author": "Unknown",
-    "publishedAt": "2026-10-24T14:00:00.000Z",
-    "url": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/",
+    "publishedAt": "2026-10-26T23:57:09.000Z",
+    "url": "https://www.billboard.com/lists/ade-2026-cliff-fluet-talk-ai-streaming-fan-engagement/",
     "imageUrl": null,
     "tags": [
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-10-26T02:15:20.872Z"
+    "fetchedAt": "2026-10-27T02:51:22.583Z"
   },
   {
-    "id": "news-1792980920873-20",
-    "title": "The PHP Meltdown Shows How AI Makes Bugs More Exploitable",
-    "summary": "Security researchers used AI tools to help uncover years-old vulnerabilities in the PHP web scripting language. Then the AI-assisted attacks began.",
+    "id": "news-1793069482583-39",
+    "title": "New Anthony Edwards Ad Takes Shots at Drake: ‘A Certain Bandwagon Fan Is Facing FOMO & Buried in Lawsuits’",
+    "summary": "This is the second time the NBA superstar has responded to a Kevin Durant & Drake Nike commercial from earlier this year.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-10-26T23:00:45.000Z",
+    "url": "https://www.billboard.com/music/rb-hip-hop/anthony-edwards-adidas-ad-drake-shots-hasan-minhaj-1236368315/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-10-27T02:51:22.584Z"
+  },
+  {
+    "id": "news-1793069482584-40",
+    "title": "Neil Young Hits Trump With $10M Lawsuit for Playing ‘Rockin’ in the Free World’ at Rally — Again",
+    "summary": "“The song is the opposite of everything that Donald J. Trump stands for,” write Young’s attorneys in the copyright infringement complaint.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-10-26T22:38:31.000Z",
+    "url": "https://www.billboard.com/pro/neil-young-trump-lawsuit-song-midterm-election-rally/",
+    "imageUrl": null,
+    "tags": [
+      "AI",
+      "Copyright"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-10-27T02:51:22.584Z"
+  },
+  {
+    "id": "news-1793069482584-41",
+    "title": "Santos Bravos Plays What Would you Queue | Billboard Latin",
+    "summary": "The members of Santos Bravos play What Would You Queue at 2026 Billboard Latin Music Week. KennethHow are you going to put that, Gabriel? AlejandroYou already exposed us. KauêWhat? No. Listen to it. KennethHello, hello. We are Santos Bravos. DrewThis is What Would You Queue with Billboard. GabrielWhat song can’t I get out of my […]",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-10-26T22:23:19.000Z",
+    "url": "https://www.billboard.com/video/santos-bravos-plays-what-would-you-queue/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-10-27T02:51:22.584Z"
+  },
+  {
+    "id": "news-1793069482584-42",
+    "title": "Jay-Z Slams AI, Says to ‘Question Everything’ After SoFi Concert Criticism: ‘We Got Real Intelligence, Not Artificial Intelligence’",
+    "summary": "The Brooklyn rapper and mogul shot back at trolls online as he closed out his two-show stint in L.A.",
+    "category": "ai-research",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-10-26T22:21:22.000Z",
+    "url": "https://www.billboard.com/music/rb-hip-hop/jay-z-slams-ai-sofi-stadium-concert-ticket-resales-audio-1236368314/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-10-27T02:51:22.584Z"
+  },
+  {
+    "id": "news-1793069482583-30",
+    "title": "HYBE AMERICAS launches Latin pop label TRU Records, with SANTOS BRAVOS as its first artist",
+    "summary": "Alejandro Mejía has been appointed General Manager of TRU Records, overseeing its artistic and business strategy.\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-10-26T18:16:53.000Z",
+    "url": "https://www.musicbusinessworldwide.com/hybe-americas-launches-latin-pop-label-tru-records-with-santos-bravos-as-its-first-artist/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-10-27T02:51:22.583Z"
+  },
+  {
+    "id": "news-1793069482583-31",
+    "title": "Rightsholders behind Elvis Presley’s hits sue Anthropic for more than $48.6M, alleging it scraped lyrics to 274 songs and stripped songwriter credits to train Claude",
+    "summary": "The owners of songs made famous by Elvis Presley are suing Anthropic, the company behind the AI chatbot Claude. Their complaint alleges that Anthropic copied the lyrics of 274 songs recorded by Presley to train its AI models, without a license or payment. It also alleges that Claude generates copies of those lyrics, and new … Continued\nSource",
+    "category": "ai-research",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-10-26T17:55:13.000Z",
+    "url": "https://www.musicbusinessworldwide.com/rightsholders-behind-elvis-presleys-hits-sue-anthropic-for-more-than-48-6m-alleging-it-scraped-lyrics-to-274-songs-and-stripped-songwriter-credits-to-train-claude/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-10-27T02:51:22.583Z"
+  },
+  {
+    "id": "news-1793069482583-32",
+    "title": "Mary J. Blige strikes deal with Primary Wave covering her song and recording catalogs",
+    "summary": "Most of Blige’s studio albums were originally released through MCA and Geffen, labels now part of Universal Music Group.\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-10-26T17:54:49.000Z",
+    "url": "https://www.musicbusinessworldwide.com/mary-j-blige-strikes-deal-with-primary-wave-covering-her-song-and-recording-catalogs/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-10-27T02:51:22.583Z"
+  },
+  {
+    "id": "news-1793069482581-2",
+    "title": "Anthropic’s IPO filing reveals its strategy for keeping enterprise customers hooked",
+    "summary": "Anthropic’s S-1 shows more than half of its $100,000-plus customers now use both the Claude Platform and a first-party app, a cross-selling playbook reminiscent of Amazon that’s making enterprise customers stickier.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-10-26T16:49:42.000Z",
+    "url": "https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-10-27T02:51:22.581Z"
+  },
+  {
+    "id": "news-1793069482581-3",
+    "title": "SpaceX locks in $40B GPU financing deal with Apollo",
+    "summary": "The financing gives SpaceX another way to fund its rapidly expanding AI ambitions without relying solely on traditional debt markets.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-10-26T16:46:36.000Z",
+    "url": "https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-10-27T02:51:22.581Z"
+  },
+  {
+    "id": "news-1793069482582-19",
+    "title": "Nace AI Releases Drex for Search for AI Agents: 92.05% on BrowseComp-Plus With 12.6 Search Calls",
+    "summary": "Nace AI has released Drex for Search, bringing its Drex decision models to document search for AI agents. Nace reports 92.05% on BrowseComp-Plus with 12.6 search calls, and fewer agent turns on OfficeQA Pro.\nThe post Nace AI Releases Drex for Search for AI Agents: 92.05% on BrowseComp-Plus With 12.6 Search Calls appeared first on MarkTechPost.\n",
+    "category": "tech-innovation",
+    "source": "MarkTechPost",
+    "author": "Unknown",
+    "publishedAt": "2026-10-26T16:46:09.000Z",
+    "url": "https://www.marktechpost.com/2026/10/26/nace-ai-releases-drex-for-search-for-ai-agents/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-10-27T02:51:22.582Z"
+  },
+  {
+    "id": "news-1793069482583-24",
+    "title": "The Anthropic S-1 Filing Is Also an AI Doomsday Primer",
+    "summary": "Anthropic thinks “closing the loop” is the best path to AI triumph—and a recipe for “existential” threats to humanity.",
     "category": "tech-innovation",
     "source": "Wired AI",
     "author": "Unknown",
-    "publishedAt": "2026-10-24T12:00:00.000Z",
-    "url": "https://www.wired.com/story/kernel-panic-the-php-meltdown-shows-how-ai-makes-bugs-more-exploitable/",
+    "publishedAt": "2026-10-26T16:01:55.000Z",
+    "url": "https://www.wired.com/story/the-anthropic-ipo-is-also-a-doomsday-primer/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-10-27T02:51:22.583Z"
+  },
+  {
+    "id": "news-1793069482581-4",
+    "title": "Anthropic officially files for its public debut",
+    "summary": "Anthropic has officially filed for an IPO, revealing soaring revenue, mounting losses, major enterprise adoption, and an unusual governance structure designed to preserve founder control and its AI safety mission.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-10-26T14:35:22.000Z",
+    "url": "https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-10-27T02:51:22.581Z"
+  },
+  {
+    "id": "news-1793069482583-25",
+    "title": "Meet the AI Agents Trying to Be Real-Life Journalists",
+    "summary": "Jayden, Sam, and Zack are eagerly pitching editors on reported stories and investigative features. The catch? They're all AI agents.",
+    "category": "tech-innovation",
+    "source": "Wired AI",
+    "author": "Unknown",
+    "publishedAt": "2026-10-26T09:30:00.000Z",
+    "url": "https://www.wired.com/story/ai-agents-are-trying-to-be-journalists-now/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-10-27T02:51:22.583Z"
+  },
+  {
+    "id": "news-1793069482583-26",
+    "title": "This AI Radio Host Speaks Spanish and Backs Immigrants. It’s Winning Over Listeners",
+    "summary": "Coyotec is bilingual, swears, and tells listeners how to defend themselves against ICE. Its popularity comes as more broadcasters are experimenting with artificial personalities.",
+    "category": "tech-innovation",
+    "source": "Wired AI",
+    "author": "Unknown",
+    "publishedAt": "2026-10-26T09:00:00.000Z",
+    "url": "https://www.wired.com/story/this-ai-radio-hosts-speaks-spanish-and-backs-immigrants-its-winning-over-listeners/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-10-27T02:51:22.583Z"
+  },
+  {
+    "id": "news-1793069482582-20",
+    "title": "Tsinghua AI Open-Sources AKV, a Cache Engineering Server for LLM Agents on SGLang",
+    "summary": "Tsinghua researchers released AKV, an SGLang-based serving system for cache engineering. LLM agents drop and reposition KV cache instead of summarizing history, cutting average cost 27.7% across 4 agent benchmarks.\nThe post Tsinghua AI Open-Sources AKV, a Cache Engineering Server for LLM Agents on SGLang appeared first on MarkTechPost.\n",
+    "category": "ai-research",
+    "source": "MarkTechPost",
+    "author": "Unknown",
+    "publishedAt": "2026-10-26T07:56:45.000Z",
+    "url": "https://www.marktechpost.com/2026/10/26/tsinghua-akv-kv-cache-engineering-llm-agents/",
     "imageUrl": null,
     "tags": [
       "AI",
       "Research"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-10-26T02:15:20.873Z"
-  },
-  {
-    "id": "news-1792980920873-19",
-    "title": "Meet Anthropic’s sandbox-runtime: OS-Level Sandboxing for AI Agents, No Containers",
-    "summary": "Anthropic sandbox-runtime (srt) is the open-source, OS-level sandbox behind Claude Code. It restricts file and network access for agents, MCP servers and CLI tools with Seatbelt on macOS and bubblewrap on Linux, no containers needed.\nThe post Meet Anthropic’s sandbox-runtime: OS-Level Sandboxing for AI Agents, No Containers appeared first on MarkTechPost.\n",
-    "category": "ai-research",
-    "source": "MarkTechPost",
-    "author": "Unknown",
-    "publishedAt": "2026-10-24T11:12:27.000Z",
-    "url": "https://www.marktechpost.com/2026/10/24/anthropic-sandbox-runtime-ai-agent-sandbox/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-10-26T02:15:20.873Z"
-  },
-  {
-    "id": "news-1792980920872-5",
-    "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
-    "summary": "OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn't work. ",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-10-23T23:05:49.000Z",
-    "url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-10-26T02:15:20.872Z"
-  },
-  {
-    "id": "news-1792980920872-6",
-    "title": "From Toast to Bessemer: Who founders will hear from at TechCrunch Founder Summit 2026",
-    "summary": "Hosted by TechCrunch in partnership with Fidelity Private Shares, the full-day event goes beyond fundraising and AI to explore the realities of finding customers, building teams, sharpening a pitch, developing founder leadership, and scaling companies both inside and outside traditional startup hubs.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-10-23T19:06:23.000Z",
-    "url": "https://techcrunch.com/2026/10/23/from-toast-to-bessemer-who-founders-will-hear-from-at-techcrunch-founder-summit-2026/",
-    "imageUrl": null,
-    "tags": [
-      "AI",
-      "Startup",
-      "Partnership"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-10-26T02:15:20.872Z"
-  },
-  {
-    "id": "news-1792980920873-26",
-    "title": "John Mayer launches Sob Rock Records in partnership with Universal’s Mercury",
-    "summary": "The label shares its name with \"Sob Rock,\" Mayer's last album with Sony Music's Columbia Records, released in 2021.\nSource",
-    "category": "industry-news",
-    "source": "Music Business Worldwide",
-    "author": "Unknown",
-    "publishedAt": "2026-10-23T15:04:40.000Z",
-    "url": "https://www.musicbusinessworldwide.com/john-mayer-launches-sob-rock-records-in-partnership-with-universals-mercury/",
-    "imageUrl": null,
-    "tags": [
-      "Partnership"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-10-26T02:15:20.873Z"
-  },
-  {
-    "id": "news-1792980920873-27",
-    "title": "From Spotify’s giant profits to yet another legal fight for Suno…it’s MBW’s Weekly Round-Up",
-    "summary": "The biggest headlines from the past few days...\n\nSource",
-    "category": "industry-news",
-    "source": "Music Business Worldwide",
-    "author": "Unknown",
-    "publishedAt": "2026-10-23T14:25:19.000Z",
-    "url": "https://www.musicbusinessworldwide.com/from-spotifys-giant-profits-to-yet-another-legal-fight-for-suno-its-mbws-weekly-round-up/",
-    "imageUrl": null,
-    "tags": [
-      "Spotify"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-10-26T02:15:20.873Z"
-  },
-  {
-    "id": "news-1792980920874-28",
-    "title": "Position Music hires ex-Big Deal Music and RCA exec Pete Robinson as GM, Creative Nashville",
-    "summary": "Robinson will report to Position Music Founder and CEO Tyler Bacon and President Mark Chipello.\nSource",
-    "category": "industry-news",
-    "source": "Music Business Worldwide",
-    "author": "Unknown",
-    "publishedAt": "2026-10-23T14:04:10.000Z",
-    "url": "https://www.musicbusinessworldwide.com/position-music-hires-ex-big-deal-music-and-rca-exec-pete-robinson-as-gm-creative-nashville/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-10-26T02:15:20.874Z"
+    "fetchedAt": "2026-10-27T02:51:22.582Z"
   }
 ]
