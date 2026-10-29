@@ -1,20 +1,314 @@
 [
   {
-    "id": "news-1793156347232-34",
-    "title": "Ella Langley & Sienna Spiro, But No ADÉLA: A Closer Look at the 2027 Best New Artist Grammy Race",
-    "summary": "With first-round voting over & nominations out next month, Katie & Keith are taking a closer look at the coveted category on the Pop Shop Podcast.",
-    "category": "industry-news",
-    "source": "Billboard",
+    "id": "news-1793244347674-0",
+    "title": "Google expands AI Search ads globally as core ad growth slows",
+    "summary": "The announcement came alongside parent company Alphabet's third-quarter earnings report, which saw revenue grow 25% year over year to $127.6 billion.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
     "author": "Unknown",
-    "publishedAt": "2026-10-28T01:36:12.000Z",
-    "url": "https://www.billboard.com/media/podcasts/2027-best-new-artist-grammy-race-discussion-pop-shop-podcast-1236369387/",
+    "publishedAt": "2026-10-28T21:48:37.000Z",
+    "url": "https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/",
     "imageUrl": null,
-    "tags": [],
+    "tags": [
+      "AI"
+    ],
     "readTime": 1,
-    "fetchedAt": "2026-10-28T02:59:07.232Z"
+    "fetchedAt": "2026-10-29T03:25:47.674Z"
   },
   {
-    "id": "news-1793156347229-0",
+    "id": "news-1793244347674-1",
+    "title": "Microsoft recorded $10 billion in revenue from OpenAI",
+    "summary": "Microsoft said it made $10 billion in revenue from commercial arrangements with OpenAI, including revenue-sharing payments, in the quarter ending September 30. It underscores the still-enormous financial dependency of the partnership.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-10-28T21:34:30.000Z",
+    "url": "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/",
+    "imageUrl": null,
+    "tags": [
+      "AI",
+      "Partnership"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-10-29T03:25:47.674Z"
+  },
+  {
+    "id": "news-1793244347674-2",
+    "title": "Microsoft hits 10 quarters of record-breaking revenue in a row",
+    "summary": "Whatever the future of AI might be, the current situation is still very good for Microsoft. The tech giant reported yet another record for quarterly revenue on Wednesday: $92.3 billion, a 19% increase over the year-ago quarter.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-10-28T21:25:30.000Z",
+    "url": "https://techcrunch.com/2026/10/28/microsoft-hits-10-quarters-of-record-breaking-revenue-in-a-row/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-10-29T03:25:47.674Z"
+  },
+  {
+    "id": "news-1793244347675-25",
+    "title": "Exclusive: Create Music Group now owns a minority stake in DistroKid",
+    "summary": "Create, supported by private capital backers Flexpoint Ford and Ares, made the investment earlier this year\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-10-28T20:15:37.000Z",
+    "url": "https://www.musicbusinessworldwide.com/create-music-group-now-owns-a-minority-stake-in-distrokid/",
+    "imageUrl": null,
+    "tags": [
+      "Investment"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-10-29T03:25:47.675Z"
+  },
+  {
+    "id": "news-1793244347674-3",
+    "title": "Anthropic just launched tools to show companies what their AI spending is buying",
+    "summary": "The frontier lab is lifting the curtain on how users spend money on its models ahead of a planned IPO.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-10-28T19:19:58.000Z",
+    "url": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-10-29T03:25:47.674Z"
+  },
+  {
+    "id": "news-1793244347674-4",
+    "title": "As AI agents reshape the web, Google opens Gemini and Search to more apps",
+    "summary": "A new developer platform will let businesses bring their services to Google's AI experiences, potentially changing how consumers discover and use apps.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-10-28T17:00:00.000Z",
+    "url": "https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-10-29T03:25:47.674Z"
+  },
+  {
+    "id": "news-1793244347675-26",
+    "title": "Peermusic acquires Australia’s 120 Publishing, names Karen Hamilton MD of Peermusic Australia",
+    "summary": "The deal gives Peermusic the publishing rights to 120 Publishing's approximately 5,000 works and 120,000 administered copyrights\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-10-28T16:28:31.000Z",
+    "url": "https://www.musicbusinessworldwide.com/peermusic-acquires-australias-120-publishing-names-karen-hamilton-md-of-peermusic-australia/",
+    "imageUrl": null,
+    "tags": [
+      "Copyright"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-10-29T03:25:47.675Z"
+  },
+  {
+    "id": "news-1793244347674-5",
+    "title": "AI execs may be too out of touch to build for the general public",
+    "summary": "Tech leaders are flaunting how out of touch they are when they brag about using AI to connect with their families.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-10-28T15:53:52.000Z",
+    "url": "https://techcrunch.com/2026/10/28/ai-execs-may-be-too-out-of-touch-to-build-for-the-general-public/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-10-29T03:25:47.674Z"
+  },
+  {
+    "id": "news-1793244347674-6",
+    "title": "Voice AI in vogue: Nvidia releases new open transcription model",
+    "summary": "Nvidia just released a free speech-to-text model that can transcribe up to 40 languages, but it only works on recordings, not live audio, so it’s a big step for meeting and medical transcription tools while still leaving real-time use to rivals like ElevenLabs.\n",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-10-28T15:00:00.000Z",
+    "url": "https://techcrunch.com/2026/10/28/voice-ai-in-vogue-nvidia-releases-new-open-transcription-model/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-10-29T03:25:47.674Z"
+  },
+  {
+    "id": "news-1793244347675-27",
+    "title": "Event tech startup Easol secures $30M in new funding, launches AI agents for festival promoters",
+    "summary": "The company says the funding allowed it to develop and launch Teammates, a set of AI agents for festival and experience businesses.\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-10-28T11:59:29.000Z",
+    "url": "https://www.musicbusinessworldwide.com/event-tech-startup-easol-secures-30m-in-new-funding-launches-ai-agents-for-festival-promoters/",
+    "imageUrl": null,
+    "tags": [
+      "AI",
+      "Startup",
+      "Investment"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-10-29T03:25:47.675Z"
+  },
+  {
+    "id": "news-1793244347675-28",
+    "title": "The stalled journey of Brazilian funk highlights a music industry failure",
+    "summary": "You may have heard of Tamborzão – but you don’t hear a lot of it in mainstream channels outside of Brazil. Bill Werde wonders why not...\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-10-28T11:58:00.000Z",
+    "url": "https://www.musicbusinessworldwide.com/the-stalled-journey-of-brazilian-funk-highlights-a-music-industry-failure/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-10-29T03:25:47.675Z"
+  },
+  {
+    "id": "news-1793244347675-29",
+    "title": "‘The industry is almost certainly leaving significant revenue on the table.’",
+    "summary": "Vevo’s EVP of Content, Programming and Marketing, JP Evangelista, discusses the power of nostalgia, the opportunities for the future of music video and why the commercial infrastructure around short-form video needs overhauling…\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-10-28T11:24:44.000Z",
+    "url": "https://www.musicbusinessworldwide.com/the-industry-is-almost-certainly-leaving-significant-revenue-on-the-table/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-10-29T03:25:47.675Z"
+  },
+  {
+    "id": "news-1793244347675-30",
+    "title": "PRS for Music partners with B2B streaming service Soundtrack to get data on music played in 7,000 UK shops, bars and public spaces – and pay royalties accordingly",
+    "summary": "PRS will begin incorporating that data into royalty payments to songwriters, composers, and music publishers from December 2026.\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-10-28T11:15:03.000Z",
+    "url": "https://www.musicbusinessworldwide.com/prs-for-music-partners-with-b2b-streaming-service-soundtrack-to-get-data-on-music-played-in-7000-uk-shops-bars-and-public-spaces-and-pay-royalties-accordingly/",
+    "imageUrl": null,
+    "tags": [
+      "Streaming"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-10-29T03:25:47.675Z"
+  },
+  {
+    "id": "news-1793244347675-31",
+    "title": "Believe’s Denis Ladegaillerie: How It Started…",
+    "summary": "How It Started… is MBW’s series delving into the origin stories behind the industry’s most notable founder-led companies. It’s over 20 years since Denis Ladegaillerie launched Believe, which has gone on to revolutionize the independent artist and label market worldwide…\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-10-28T10:28:45.000Z",
+    "url": "https://www.musicbusinessworldwide.com/believes-denis-ladegaillerie-how-it-started/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-10-29T03:25:47.675Z"
+  },
+  {
+    "id": "news-1793244347675-32",
+    "title": "Songwriter who claimed Drake’s ‘Janice STFU’ chorus was ‘literally identical’ to his demo drops lawsuit after 11 days",
+    "summary": "The notice gives no reason for the withdrawal and leaves Aviel Calev Hirschfield free to refile his claim.\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-10-28T10:27:30.000Z",
+    "url": "https://www.musicbusinessworldwide.com/songwriter-who-claimed-drakes-janice-stfu-chorus-was-literally-identical-to-his-demo-drops-lawsuit-after-11-days/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-10-29T03:25:47.675Z"
+  },
+  {
+    "id": "news-1793244347675-17",
+    "title": "Macmillan Staff Say the Publisher Threw a Party for a Workplace AI Assistant That Was Later Killed",
+    "summary": "Workers tell WIRED that NOA—or “No Ordinary Assistant”—was unhelpful. Bestselling authors also say AI is ruining their relationships with Big Five publishers.",
+    "category": "tech-innovation",
+    "source": "Wired AI",
+    "author": "Unknown",
+    "publishedAt": "2026-10-28T10:15:00.000Z",
+    "url": "https://www.wired.com/story/macmillan-staff-say-the-publisher-threw-a-party-for-a-workplace-ai-assistant-that-was-later-killed/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-10-29T03:25:47.675Z"
+  },
+  {
+    "id": "news-1793244347675-18",
+    "title": "AI Emergency Alerts Are Coming. Humans Might Not Be Ready",
+    "summary": "Human beings struggle with emergency communication. Chatbots can help—if people take them seriously.",
+    "category": "tech-innovation",
+    "source": "Wired AI",
+    "author": "Unknown",
+    "publishedAt": "2026-10-28T08:30:00.000Z",
+    "url": "https://www.wired.com/story/ai-emergency-alerts-coming-humans-not-ready/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-10-29T03:25:47.675Z"
+  },
+  {
+    "id": "news-1793244347675-12",
+    "title": "Polymathic AI and Princeton Researchers Release FlashMap, a Flow Map Drafter for 6.14x Faster LLM Decoding",
+    "summary": "FlashMap is a speculative decoding drafter from Polymathic AI, Princeton and USC ISI researchers. It drafts 16 tokens jointly in one pass and reaches up to 6.14x lossless speedup on Qwen3-8B.\nThe post Polymathic AI and Princeton Researchers Release FlashMap, a Flow Map Drafter for 6.14x Faster LLM Decoding appeared first on MarkTechPost.\n",
+    "category": "ai-research",
+    "source": "MarkTechPost",
+    "author": "Unknown",
+    "publishedAt": "2026-10-28T08:18:03.000Z",
+    "url": "https://www.marktechpost.com/2026/10/28/flashmap-flow-map-speculative-decoding/",
+    "imageUrl": null,
+    "tags": [
+      "AI",
+      "Research"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-10-29T03:25:47.675Z"
+  },
+  {
+    "id": "news-1793244347675-19",
+    "title": "Should AI Decide Your Court Case? This Judge Says Yes",
+    "summary": "One of England’s top judges, Geoffrey Vos, believes that AI could adjudicate plenty of civil cases. The question, he says, is where the line should be drawn.",
+    "category": "tech-innovation",
+    "source": "Wired AI",
+    "author": "Unknown",
+    "publishedAt": "2026-10-28T06:00:00.000Z",
+    "url": "https://www.wired.com/story/geoffrey-vos-uk-judge-ai-legal-profession-challenges/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-10-29T03:25:47.675Z"
+  },
+  {
+    "id": "news-1793244347674-7",
     "title": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
     "summary": "A family is suing OpenAI, saying ChatGPT coached their daughter to quietly taper off her seizure medication and keep it from her doctors before she died in February.\n",
     "category": "ai-research",
@@ -27,290 +321,6 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-10-28T02:59:07.230Z"
-  },
-  {
-    "id": "news-1793156347230-1",
-    "title": "The data center boom has an upside: innovation for the US grid",
-    "summary": "As the AI boom stresses the existing power grid, all sorts of new opportunities for grid modernization are also emerging as a result, industry insiders say. ",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-10-27T22:55:41.000Z",
-    "url": "https://techcrunch.com/2026/10/27/the-data-center-boom-has-an-upside-innovation-for-the-us-grid/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-10-28T02:59:07.230Z"
-  },
-  {
-    "id": "news-1793156347232-35",
-    "title": "Santos Bravos on Their Rise, Music & What’s Next | Billboard Latin Music Week 2026",
-    "summary": "Santos Bravos took the stage at Billboard Latin Music Week 2026 for a special conversation moderated by Billboard co-chief content officer Leila Cobo. Celebrating their one-year anniversary, the group reflects on their journey so far, their creative chemistry, and what’s ahead as they continue to make their mark on Latin music. Leila Cobo  Happy birthday, […]",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-10-27T22:45:05.000Z",
-    "url": "https://www.billboard.com/video/santos-bravos-on-rise-music-whats-next-latin-music-week/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-10-28T02:59:07.232Z"
-  },
-  {
-    "id": "news-1793156347232-36",
-    "title": "Tokischa Reveals the ‘Really Strong’ Character She’d Like to Play at Billboard Latin Music Week",
-    "summary": "The Dominican singer spoke about her acting debut on the \"Film and Music\" panel, alongside actor Carlos Sanson Jr. & producer Scott Budnick.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-10-27T22:33:20.000Z",
-    "url": "https://www.billboard.com/music/latin/tokischa-film-and-music-panel-latin-music-week-2026-1236369271/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-10-28T02:59:07.232Z"
-  },
-  {
-    "id": "news-1793156347232-37",
-    "title": "Top 5 Moments From the 2026 Billboard Latin Music Awards | Billboard News",
-    "summary": "This is sponsored content. These are the top five moments from the 2026 Billboard Latin Music Awards, featuring Rosalía, Ozuna, Fuerza Regida, Peso Pluma, Tito Double P and Cristian Castro, who all delivered unforgettable highlights. Watch our Billboard Noticias countdown of the night’s biggest surprises and standout performances. From Rosalía borrowing a viral Caso Cerrado […]",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-10-27T22:07:28.000Z",
-    "url": "https://www.billboard.com/video/top-5-moments-from-2026-billboard-latin-music-awards/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-10-28T02:59:07.232Z"
-  },
-  {
-    "id": "news-1793156347230-2",
-    "title": "Bank of America kindly asks that you don’t share your banking password with your AI assistant",
-    "summary": "The banking giant reminds customers that \"you're responsible for activity\" resulting from your AI agents' access.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-10-27T21:44:34.000Z",
-    "url": "https://techcrunch.com/2026/10/27/bank-of-america-kindly-asks-that-you-dont-share-your-banking-password-with-your-ai-assistant/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-10-28T02:59:07.230Z"
-  },
-  {
-    "id": "news-1793156347230-14",
-    "title": "Liquid AI Releases LFM3: 6 Open-Weight 2B-Class Multimodal Models",
-    "summary": "Liquid AI released LFM3, 6 open-weight 2B-class models for text, vision, audio, omni and decisions. LFM3-1.7B uses a tri-hybrid backbone, a 256K context window and fits in about 1 GB at 4-bit.\nThe post Liquid AI Releases LFM3: 6 Open-Weight 2B-Class Multimodal Models appeared first on MarkTechPost.\n",
-    "category": "tech-innovation",
-    "source": "MarkTechPost",
-    "author": "Unknown",
-    "publishedAt": "2026-10-27T21:08:02.000Z",
-    "url": "https://www.marktechpost.com/2026/10/27/liquid-ai-lfm3-open-weight-2b-multimodal-models/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-10-28T02:59:07.230Z"
-  },
-  {
-    "id": "news-1793156347231-21",
-    "title": "Anthropic Says It Will Revolutionize Biology—Some Day",
-    "summary": "In breathless press releases and posts, the company has touted its models’ ability to deliver scientific breakthroughs. But its IPO filing taps the brakes on just how fast its AI will lead to big discoveries.",
-    "category": "tech-innovation",
-    "source": "Wired AI",
-    "author": "Unknown",
-    "publishedAt": "2026-10-27T19:39:04.000Z",
-    "url": "https://www.wired.com/story/anthropic-says-it-will-revolutionize-biology-some-day/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-10-28T02:59:07.231Z"
-  },
-  {
-    "id": "news-1793156347230-3",
-    "title": "Disruptive raises $10B fund to make big bets on at least 10 companies",
-    "summary": "Disruptive has made headlines in recent years for pouring money into companies like chip startup Groq and the AI voice-generation startup ElevenLabs.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-10-27T18:55:35.000Z",
-    "url": "https://techcrunch.com/2026/10/27/disruptive-raises-10b-fund-to-make-big-bets-on-at-least-10-companies/",
-    "imageUrl": null,
-    "tags": [
-      "AI",
-      "Startup"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-10-28T02:59:07.230Z"
-  },
-  {
-    "id": "news-1793156347232-28",
-    "title": "Spotify’s potential bill if The MLC wins its ‘bundling’ lawsuit outright rises to $619M",
-    "summary": "Potential liability if The MLC wins its 'bundling' lawsuit outright has risen to approximately EUR €538M, according to Spotify’s Q3 2026 financial statements\nSource",
-    "category": "industry-news",
-    "source": "Music Business Worldwide",
-    "author": "Unknown",
-    "publishedAt": "2026-10-27T18:19:21.000Z",
-    "url": "https://www.musicbusinessworldwide.com/spotifys-potential-bill-if-the-mlc-wins-its-bundling-lawsuit-outright-rises-to-619m/",
-    "imageUrl": null,
-    "tags": [
-      "Spotify"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-10-28T02:59:07.232Z"
-  },
-  {
-    "id": "news-1793156347232-29",
-    "title": "Deezer raises 2026 outlook as Q3 revenues grow 1.8% YoY to $149.5M – but total subscribers fall to 8.7m",
-    "summary": "Paris-based streaming company has published its financial results for the three months to September 30.\nSource",
-    "category": "industry-news",
-    "source": "Music Business Worldwide",
-    "author": "Unknown",
-    "publishedAt": "2026-10-27T17:29:40.000Z",
-    "url": "https://www.musicbusinessworldwide.com/deezer-raises-2026-outlook-as-q3-revenues-grow-1-8-yoy-to-149-5m-but-total-subscribers-fall-to-8-7m/",
-    "imageUrl": null,
-    "tags": [
-      "AI",
-      "Streaming"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-10-28T02:59:07.232Z"
-  },
-  {
-    "id": "news-1793156347230-4",
-    "title": "Frontier AI labs say their models refuted the Exponential Time Hypothesis. What does that mean?",
-    "summary": "TechCrunch spoke to the MIT computer scientist charged with explaining OpenAI's latest mind-bending discovery.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-10-27T17:08:08.000Z",
-    "url": "https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-10-28T02:59:07.230Z"
-  },
-  {
-    "id": "news-1793156347231-22",
-    "title": "UK Home Office May Face Investigation Over Use of OpenAI Tech",
-    "summary": "A government watchdog is considering a probe into the Home Office’s use of ChatGPT technology to process asylum claims amid concerns over the tools’ accuracy and secrecy surrounding their use.",
-    "category": "ai-research",
-    "source": "Wired AI",
-    "author": "Unknown",
-    "publishedAt": "2026-10-27T15:10:26.000Z",
-    "url": "https://www.wired.com/story/uk-home-office-may-face-investigation-over-use-of-openai-tools/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-10-28T02:59:07.231Z"
-  },
-  {
-    "id": "news-1793156347230-5",
-    "title": "Meta AI director Rohit Patel leaves to take on Microsoft Office and Google Workspace",
-    "summary": "Rohit Patel is departing Meta after eight years working on AI evaluations and reinforcement learning, TechCrunch has exclusively learned. His startup, Ndoc, aims to take on Microsoft Office Suite.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-10-27T14:59:09.000Z",
-    "url": "https://techcrunch.com/2026/10/27/meta-ai-director-rohit-patel-leaves-to-take-on-microsoft-office-and-google-workspace/",
-    "imageUrl": null,
-    "tags": [
-      "AI",
-      "Startup"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-10-28T02:59:07.230Z"
-  },
-  {
-    "id": "news-1793156347230-6",
-    "title": "Opera introduces a new web standard to let users deploy AI locally in their browser",
-    "summary": "The new standard, WebAI, is designed to work with a variety of AI models.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-10-27T13:00:00.000Z",
-    "url": "https://techcrunch.com/2026/10/27/opera-introduces-a-new-web-standard-to-let-users-deploy-ai-locally-in-their-browser/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-10-28T02:59:07.230Z"
-  },
-  {
-    "id": "news-1793156347230-15",
-    "title": "Mirendil Launches Fern 0.1, Its First Model, With 10M-Token Context",
-    "summary": "Mirendil released Fern 0.1, its first model, pretrained from scratch with a 10M-token context window. It targets agentic AI R&D work, scores 100% on RULER single needle at 10M, but trails frontier models on agentic coding.\nThe post Mirendil Launches Fern 0.1, Its First Model, With 10M-Token Context appeared first on MarkTechPost.\n",
-    "category": "ai-research",
-    "source": "MarkTechPost",
-    "author": "Unknown",
-    "publishedAt": "2026-10-27T12:57:46.000Z",
-    "url": "https://www.marktechpost.com/2026/10/27/mirendil-fern-10m-token-context-model/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-10-28T02:59:07.231Z"
-  },
-  {
-    "id": "news-1793156347232-30",
-    "title": "The music industry is solving the wrong bottleneck",
-    "summary": "Diana Umana digs into the new artist discovery process – with some expert voices – and concludes that what truly moves an act forward is advocacy. And guess what? Every advocate starts as a fan of what they hear and see..\nSource",
-    "category": "industry-news",
-    "source": "Music Business Worldwide",
-    "author": "Unknown",
-    "publishedAt": "2026-10-27T12:29:54.000Z",
-    "url": "https://www.musicbusinessworldwide.com/the-music-industry-is-solving-the-wrong-bottleneck/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-10-28T02:59:07.232Z"
-  },
-  {
-    "id": "news-1793156347232-31",
-    "title": "Neil Young sues Trump fundraising committee for $10M over ‘Rockin’ in the Free World’ – six years after his first lawsuit over the song",
-    "summary": "The lawsuit alleges that the committee had the 1989 song played without a license just before Trump took the stage to speak at a rally in Ohio on October 12.\nSource",
-    "category": "industry-news",
-    "source": "Music Business Worldwide",
-    "author": "Unknown",
-    "publishedAt": "2026-10-27T12:08:34.000Z",
-    "url": "https://www.musicbusinessworldwide.com/neil-young-sues-trump-fundraising-committee-for-10m-over-rockin-in-the-free-world-six-years-after-his-first-lawsuit-over-the-song/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-10-28T02:59:07.232Z"
-  },
-  {
-    "id": "news-1793156347232-32",
-    "title": "Spotify wins permanent dismissal of lawsuit claiming it ignored ‘billions’ of fraudulent Drake streams",
-    "summary": "It is the second time Judge Josephine Staton has dismissed the case – and this time, she barred RBX from bringing the same claims again.\nSource",
-    "category": "industry-news",
-    "source": "Music Business Worldwide",
-    "author": "Unknown",
-    "publishedAt": "2026-10-27T11:56:12.000Z",
-    "url": "https://www.musicbusinessworldwide.com/spotify-wins-permanent-dismissal-of-lawsuit-claiming-it-ignored-billions-of-fraudulent-drake-streams/",
-    "imageUrl": null,
-    "tags": [
-      "Spotify",
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-10-28T02:59:07.232Z"
+    "fetchedAt": "2026-10-29T03:25:47.674Z"
   }
 ]
