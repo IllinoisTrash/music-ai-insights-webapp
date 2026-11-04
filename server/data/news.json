@@ -1,323 +1,311 @@
 [
   {
-    "id": "news-1793680286496-0",
-    "title": "Google takes Dreambeans to India in bid to bring AI-generated personal stories to the masses",
-    "summary": "Google's Dreambeans, its latest AI experiment, now supports 13 Indian languages.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-11-03T03:30:00.000Z",
-    "url": "https://techcrunch.com/2026/11/02/google-takes-dreambeans-to-india-in-bid-to-bring-ai-generated-personal-stories-to-the-masses/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-11-03T04:31:26.496Z"
-  },
-  {
-    "id": "news-1793680286498-34",
-    "title": "Here’s Why the My Chemical Romance Lawsuit Really Ended, According to the Band’s Manager",
-    "summary": "Court filings reveal a new explanation for why the high-profile legal dispute with the Dallas Cowboys Cheerleaders wrapped up so quickly.",
+    "id": "news-1793764315374-33",
+    "title": "KATSEYE Postpones Detroit Concert Due to Illness",
+    "summary": "“Unfortunately, Megan is unwell and unable to perform tonight, and we want to make sure she has time she needs to rest and recover,\" the group confirms.",
     "category": "industry-news",
     "source": "Billboard",
     "author": "Unknown",
-    "publishedAt": "2026-11-03T02:04:19.000Z",
-    "url": "https://www.billboard.com/pro/my-chemical-romance-cowboys-cheerleaders-lawsuit-why-ended/",
+    "publishedAt": "2026-11-04T03:50:08.000Z",
+    "url": "https://www.billboard.com/music/pop/katseye-postpones-detroit-concert-illness-1236373677/",
     "imageUrl": null,
     "tags": [],
     "readTime": 1,
-    "fetchedAt": "2026-11-03T04:31:26.498Z"
+    "fetchedAt": "2026-11-04T03:51:55.374Z"
   },
   {
-    "id": "news-1793680286496-1",
-    "title": "Apple may try to increase revenue by doing…something with third-party AI apps",
-    "summary": "Apple hinted at ways that it could spur revenue through third-party \"opportunities\" during its Monday night earnings call. ",
-    "category": "tech-innovation",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-11-03T01:49:52.000Z",
-    "url": "https://techcrunch.com/2026/11/02/apple-may-try-to-increase-revenue-by-doing-something-with-third-party-ai-apps/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-11-03T04:31:26.496Z"
-  },
-  {
-    "id": "news-1793680286497-15",
-    "title": "Zyphra AI Introduces Zyphra Hierarchical Attention (ZHA): A Path to True Subquadratic Attention",
-    "summary": "Zyphra Hierarchical Attention (ZHA) is a tree-indexed sparse attention method that retrofits frozen LLMs with 4B tokens of distillation, matching dense attention on reasoning and 256K retrieval benchmarks.\nThe post Zyphra AI Introduces Zyphra Hierarchical Attention (ZHA): A Path to True Subquadratic Attention appeared first on MarkTechPost.\n",
-    "category": "ai-research",
-    "source": "MarkTechPost",
-    "author": "Unknown",
-    "publishedAt": "2026-11-03T01:09:49.000Z",
-    "url": "https://www.marktechpost.com/2026/11/02/zyphra-hierarchical-attention-zha-sparse-attention/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-11-03T04:31:26.497Z"
-  },
-  {
-    "id": "news-1793680286496-2",
-    "title": "Y Combinator’s Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
-    "summary": "Y Combinator Garry Tan has jokingly admitted that he's suffered from \"cyber psychosis” and barely sleeps sometimes because he’s so excited to be working with his AI agents. On a new episode of Walter Isaacson’s podcast, The Builders, Tan put a price tag on his passion.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-11-03T00:35:52.000Z",
-    "url": "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-11-03T04:31:26.496Z"
-  },
-  {
-    "id": "news-1793680286496-3",
-    "title": "Trajectory raises $45M to make AI model training accessible to nontechnical experts",
-    "summary": "The one-year-old startup is now valued at $300 million.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-11-02T23:13:53.000Z",
-    "url": "https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/",
-    "imageUrl": null,
-    "tags": [
-      "AI",
-      "Startup"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-11-03T04:31:26.496Z"
-  },
-  {
-    "id": "news-1793680286496-4",
-    "title": "Anthropic warns that it’s very close to RSI capability, aka self-building AI",
-    "summary": "RSI is the point at which AI grows so good at training itself that it spawns a dramatic acceleration of AI capabilities. To the AI doomers, RSI represents the cataclysm from which there is no return.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-11-02T22:14:50.000Z",
-    "url": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-11-03T04:31:26.496Z"
-  },
-  {
-    "id": "news-1793680286498-35",
-    "title": "Taylor Swift’s Songs Written for Movies, Ranked (Critic’s Picks)",
-    "summary": "Swift’s soundtrack credits include Cats, The Hunger Games, Where the Crawdads Sing and more.",
+    "id": "news-1793764315374-34",
+    "title": "Barbie’s Diwali Doll Is Back in Stock for the Festival of Lights: Here’s Where to Find It Online",
+    "summary": "The official Diwali Barbie was first released in 2024 in collaboration with Indian fashion designer Anita Dongre.",
     "category": "industry-news",
     "source": "Billboard",
     "author": "Unknown",
-    "publishedAt": "2026-11-02T22:05:00.000Z",
-    "url": "https://www.billboard.com/lists/taylor-swift-movie-songs-ranked/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-11-03T04:31:26.498Z"
-  },
-  {
-    "id": "news-1793680286497-29",
-    "title": "Live Nation’s Ticketmaster brings festival ticketing subsidiary Front Gate Tickets into CashorTrade face-value resale partnership",
-    "summary": "Fans who bought festival passes through Front Gate can now resell them to other fans on CashorTrade for no more than they originally paid.\nSource",
-    "category": "industry-news",
-    "source": "Music Business Worldwide",
-    "author": "Unknown",
-    "publishedAt": "2026-11-02T18:32:34.000Z",
-    "url": "https://www.musicbusinessworldwide.com/live-nations-ticketmaster-brings-festival-ticketing-subsidiary-front-gate-tickets-into-cashortrade-face-value-resale-partnership/",
+    "publishedAt": "2026-11-04T03:23:00.000Z",
+    "url": "https://www.billboard.com/culture/product-recommendations/barbie-diwali-doll-where-to-buy-online-1235793605/",
     "imageUrl": null,
     "tags": [
-      "AI",
       "Partnership"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-11-03T04:31:26.497Z"
+    "fetchedAt": "2026-11-04T03:51:55.374Z"
   },
   {
-    "id": "news-1793680286496-5",
-    "title": "42AI comes out of stealth with $62.5M and a world model that can ‘predict human behavior’",
-    "summary": "Here's a question straight out of sci-fi: What if AI could predict what you were going to do before you decided to, even in a completely new situation?",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
+    "id": "news-1793764315374-35",
+    "title": "Diana Ross Sets One-Off Australia Concert",
+    "summary": "The Queen of Motown will headline the Sydney Summertime concert series next March for an exclusive, one-night-only concert.",
+    "category": "industry-news",
+    "source": "Billboard",
     "author": "Unknown",
-    "publishedAt": "2026-11-02T16:30:00.000Z",
-    "url": "https://techcrunch.com/2026/11/02/42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior/",
+    "publishedAt": "2026-11-04T02:50:26.000Z",
+    "url": "https://www.billboard.com/music/concerts/diana-ross-2027-australia-concert-1236373654/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-11-04T03:51:55.374Z"
+  },
+  {
+    "id": "news-1793764315374-36",
+    "title": "JISOO Announces ‘Sun Showers,’ New Song for ‘The Angry Birds Movie 3’",
+    "summary": "The BLACKPINK singer has co-writing credit on the new tune, which will be featured in the film and its upcoming trailer.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-11-04T01:01:24.000Z",
+    "url": "https://www.billboard.com/culture/tv-film/jisoo-sun-showers-angry-birds-movie-3-song-1236373617/",
     "imageUrl": null,
     "tags": [
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-11-03T04:31:26.496Z"
+    "fetchedAt": "2026-11-04T03:51:55.374Z"
   },
   {
-    "id": "news-1793680286496-6",
-    "title": "Omen AI adds liquid know-how in $16 million Aquatic Labs acquisition",
-    "summary": "Two startups tackling the data center water problem are joining forces in a $16 million deal. ",
+    "id": "news-1793764315374-37",
+    "title": "My Chemical Romance Leads ‘Parade’ of Reissues Marching Onto Billboard 200 Albums Chart",
+    "summary": "On the new Billboard Pop Shop Podcast, Katie & Keith are taking a closer look at re-released albums from Beyoncé, The Beatles, Mac Miller & more.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-11-04T00:55:05.000Z",
+    "url": "https://www.billboard.com/media/podcasts/my-chemical-romance-reissues-billboard-200-pop-shop-podcast-1236373369/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-11-04T03:51:55.374Z"
+  },
+  {
+    "id": "news-1793764315374-38",
+    "title": "The Lettermen’s Tony Butala Dies at 87",
+    "summary": "Butala, whose \"true joy was entertaining and sharing his music,\" co-founded the 1960s vocal act known for popular recordings of \"The Way You Look Tonight\" and \"When I Fall in Love.\"",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-11-03T23:13:35.000Z",
+    "url": "https://www.billboard.com/music/music-news/tony-butala-death-lettermen-1236373500/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-11-04T03:51:55.374Z"
+  },
+  {
+    "id": "news-1793764315372-0",
+    "title": "Anthropic is working on a system to prove AI models’ identity",
+    "summary": "Called FlashProve, the system would let anyone check that an AI response really came from the model it claims to be from.\n",
     "category": "ai-research",
     "source": "TechCrunch AI",
     "author": "Unknown",
-    "publishedAt": "2026-11-02T15:00:00.000Z",
-    "url": "https://techcrunch.com/2026/11/02/omen-ai-adds-liquid-know-how-in-16-million-aquatic-labs-acquisition/",
+    "publishedAt": "2026-11-03T22:41:03.000Z",
+    "url": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-11-04T03:51:55.372Z"
+  },
+  {
+    "id": "news-1793764315374-39",
+    "title": "George Benson Feted by Wyclef Jean & More at Jazz Foundation Fundraiser: ‘Just One Way to Give Back’",
+    "summary": "Patrice Rushen was also among the honorees, while guests included Herb Alpert and legendary songwriter Mike Stoller.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-11-03T22:34:34.000Z",
+    "url": "https://www.billboard.com/pro/george-benson-honored-wyclef-jean-jazz-foundation-event/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-11-04T03:51:55.374Z"
+  },
+  {
+    "id": "news-1793764315374-26",
+    "title": "‘Supercharged’ royalties, Downtown’s margins, and cost cuts: What I learned from UMG’s Q3 earnings call",
+    "summary": "The latest 'Tim's Take' from Music Business Worldwide founder, Tim Ingham\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-11-03T21:54:30.000Z",
+    "url": "https://www.musicbusinessworldwide.com/supercharged-downtowns-margins-and-more-cost-cuts-what-i-learned-from-umgs-q3-earnings/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-11-04T03:51:55.374Z"
+  },
+  {
+    "id": "news-1793764315374-27",
+    "title": "Former Kobalt exec Simon Dennett joins Spanish Point, developer of music rights platform Matching Engine, as Chief Product Officer",
+    "summary": "Matching Engine is used by Collective Management Organisations (CMOs) including IMRO, SOCAN, TONO, and KODA across 13 countries in Europe and North America.\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-11-03T21:09:29.000Z",
+    "url": "https://www.musicbusinessworldwide.com/former-kobalt-exec-simon-dennett-joins-music-rights-tech-firm-spanish-point-as-chief-product-officer/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-11-04T03:51:55.374Z"
+  },
+  {
+    "id": "news-1793764315372-1",
+    "title": "AI inference startup Fal doubles its valuation to $16B as demand surges",
+    "summary": "The five-year-old startup raised a $1.3  billion round led by Bessemer.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-11-03T19:34:43.000Z",
+    "url": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/",
     "imageUrl": null,
     "tags": [
       "AI",
       "Startup"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-11-03T04:31:26.496Z"
+    "fetchedAt": "2026-11-04T03:51:55.372Z"
   },
   {
-    "id": "news-1793680286497-30",
-    "title": "Irving Azoff’s Music Artists Coalition joins Cate Blanchett and CAA on AI licensing brief in New York Times’ case against OpenAI",
-    "summary": "RIAA, NMPA, ASCAP, BMI, and five other music organizations filed a proposed brief of their own, formally backing the plaintiffs.\nSource",
+    "id": "news-1793764315374-28",
+    "title": "‘Arabic music is not a niche waiting to be discovered.’",
+    "summary": "Anghami co-founder Eddy Maroun on new venture IPNation's $100M quest for MENA catalogs\nSource",
     "category": "industry-news",
     "source": "Music Business Worldwide",
     "author": "Unknown",
-    "publishedAt": "2026-11-02T14:26:35.000Z",
-    "url": "https://www.musicbusinessworldwide.com/irving-azoffs-music-artists-coalition-joins-cate-blanchett-and-caa-on-ai-licensing-brief-in-new-york-times-case-against-openai/",
-    "imageUrl": null,
-    "tags": [
-      "AI",
-      "Copyright"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-11-03T04:31:26.497Z"
-  },
-  {
-    "id": "news-1793680286497-31",
-    "title": "Pandora’s monthly user base fell by 2.75m YoY in Q3, while SiriusXM’s total revenue share and royalty costs rose to $726M",
-    "summary": "Pandora’s monthly active user base shrank by 2.75 million year-over-year in the third quarter of 2026. The streaming service had 38.81 million monthly active users (MAUs) at the end of September, down 6.6% from 41.56 million a year earlier. That’s according to third-quarter results published by parent company SiriusXM on Thursday (October 29). The number … Continued\nSource",
-    "category": "industry-news",
-    "source": "Music Business Worldwide",
-    "author": "Unknown",
-    "publishedAt": "2026-11-02T14:26:10.000Z",
-    "url": "https://www.musicbusinessworldwide.com/pandoras-monthly-user-base-fell-by-2-75m-yoy-in-q3-while-siriusxms-total-revenue-share-and-royalty-costs-rose-to-726m/",
-    "imageUrl": null,
-    "tags": [
-      "Streaming"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-11-03T04:31:26.497Z"
-  },
-  {
-    "id": "news-1793680286497-32",
-    "title": "UMG, Sony, and DistroKid tell court they are ‘working on a resolution’ in dispute over AI music data for Suno case",
-    "summary": "The two majors are seeking data from DistroKid on how many of the tracks it delivers to streaming services are flagged as AI-generated.\nSource",
-    "category": "industry-news",
-    "source": "Music Business Worldwide",
-    "author": "Unknown",
-    "publishedAt": "2026-11-02T14:25:49.000Z",
-    "url": "https://www.musicbusinessworldwide.com/umg-sony-and-distrokid-tell-court-they-are-working-on-a-resolution-in-dispute-over-ai-music-data-for-suno-case/",
-    "imageUrl": null,
-    "tags": [
-      "AI",
-      "Streaming"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-11-03T04:31:26.497Z"
-  },
-  {
-    "id": "news-1793680286496-7",
-    "title": "OpenAI is finally merging ChatGPT’s Chat and Work tabs",
-    "summary": "OpenAI said that ChatGPT and Codex will draw usage from the same allocation pool after this change.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-11-02T13:57:53.000Z",
-    "url": "https://techcrunch.com/2026/11/02/openai-is-finally-merging-chatgpts-chat-and-work-tabs/",
+    "publishedAt": "2026-11-03T19:11:42.000Z",
+    "url": "https://www.musicbusinessworldwide.com/arabic-music-is-not-a-niche-waiting-to-be-discovered/",
     "imageUrl": null,
     "tags": [
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-11-03T04:31:26.496Z"
+    "fetchedAt": "2026-11-04T03:51:55.374Z"
   },
   {
-    "id": "news-1793680286497-20",
-    "title": "When You Should—and Shouldn’t—Use AI to Search the Web",
-    "summary": "Chatbots are often quite good at retrieving the information you want from the web. But sometimes you’ll get better results by typing your query into a good old search engine.",
+    "id": "news-1793764315373-2",
+    "title": "Netflix’s new AI Discover tab helps you find something to watch based on your mood",
+    "summary": "The first experimental feature under the tab will allow users to get recommendations based on what they're currently in the mood for. ",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-11-03T18:42:16.000Z",
+    "url": "https://techcrunch.com/2026/11/03/netflixs-new-ai-discover-tab-helps-you-find-something-to-watch-based-on-your-mood/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-11-04T03:51:55.373Z"
+  },
+  {
+    "id": "news-1793764315373-3",
+    "title": "Google will let schools disable its AI tools, but not without sacrificing Search",
+    "summary": "Schools choosing to restrict AI altogether will no longer be able to access Google Search, as AI features are now integrated into the search engine.",
+    "category": "tech-innovation",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-11-03T16:30:34.000Z",
+    "url": "https://techcrunch.com/2026/11/03/google-will-let-schools-disable-its-ai-tools-but-not-without-sacrificing-search/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-11-04T03:51:55.373Z"
+  },
+  {
+    "id": "news-1793764315373-4",
+    "title": "Apple restricts dating apps and AI companions to users 18 and up",
+    "summary": "Apple's new App Store rules will require 18+ ratings for dating apps and AI companions that offer sexual or romantic content. ",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-11-03T15:38:27.000Z",
+    "url": "https://techcrunch.com/2026/11/03/apple-restricts-dating-apps-and-ai-companions-to-users-18-and-up/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-11-04T03:51:55.373Z"
+  },
+  {
+    "id": "news-1793764315374-29",
+    "title": "Adobe partners with Universal and Warner to bring licensed music to Premiere mobile, its free video editing app",
+    "summary": "The partnerships, announced on Tuesday (November 3), will let users add up to 60 seconds of a track to a video\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-11-03T14:58:28.000Z",
+    "url": "https://www.musicbusinessworldwide.com/adobe-partners-with-universal-and-warner-to-bring-licensed-music-to-premiere-mobile-its-free-video-editing-app/",
+    "imageUrl": null,
+    "tags": [
+      "Partnership"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-11-04T03:51:55.374Z"
+  },
+  {
+    "id": "news-1793764315373-16",
+    "title": "Here’s Why You Shouldn’t Use AI to Vote",
+    "summary": "From hallucinations to partisan bias, artificial intelligence chatbots like ChatGPT and Claude are not helpful when it comes to Election Day.",
+    "category": "ai-research",
+    "source": "Wired AI",
+    "author": "Unknown",
+    "publishedAt": "2026-11-03T14:45:08.000Z",
+    "url": "https://www.wired.com/story/heres-why-you-shouldnt-use-ai-to-vote/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-11-04T03:51:55.373Z"
+  },
+  {
+    "id": "news-1793764315374-30",
+    "title": "WMG acquires indie distributor Zebralution Music",
+    "summary": "Zebralution Music Co-CEOs Konrad von Löhneysen and Sascha Lazimbat will remain with the company and continue to run its distribution business.\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-11-03T14:26:30.000Z",
+    "url": "https://www.musicbusinessworldwide.com/wmg-acquires-indie-distributor-zebralution-music/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-11-04T03:51:55.374Z"
+  },
+  {
+    "id": "news-1793764315374-31",
+    "title": "HYBE banks $1B+ in Q3, its biggest ever quarter – with over $500M from live",
+    "summary": "Concert revenue hit a quarterly record of KRW 726.8 billion ($512m), led by the European and US legs of BTS’s ARIRANG world tour\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-11-03T13:54:24.000Z",
+    "url": "https://www.musicbusinessworldwide.com/bts-world-tour-powers-hybe-to-record-quarterly-revenues-of-1-08b-in-q3-up-109-8-yoy-as-concerts-generate-512m/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-11-04T03:51:55.374Z"
+  },
+  {
+    "id": "news-1793764315373-17",
+    "title": "‘Our Risk, Their Reward’: Zohran Mamdani on AI and Data Centers",
+    "summary": "Ahead of the midterms, WIRED talked to New York City’s mayor about data centers, AI in schools, and the future of the Democratic party.",
     "category": "tech-innovation",
     "source": "Wired AI",
     "author": "Unknown",
-    "publishedAt": "2026-11-02T12:00:00.000Z",
-    "url": "https://www.wired.com/story/when-you-should-and-shouldnt-use-ai-to-search-the-web/",
+    "publishedAt": "2026-11-03T11:00:00.000Z",
+    "url": "https://www.wired.com/story/the-big-interview-podcast-nyc-mayor-zohran-mamdani/",
     "imageUrl": null,
     "tags": [
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-11-03T04:31:26.497Z"
-  },
-  {
-    "id": "news-1793680286497-21",
-    "title": "Hundreds of Mundane AI Apps Are Hiding Sexually Abusive Deepfake Features",
-    "summary": "WIRED uncovered some 400 apps and websites linked to Chinese-language developers that look like regular AI tools but had secret features that let users create violent AI-generated images and video.",
-    "category": "tech-innovation",
-    "source": "Wired AI",
-    "author": "Unknown",
-    "publishedAt": "2026-11-02T10:00:00.000Z",
-    "url": "https://www.wired.com/story/hundreds-of-mundane-ai-apps-are-hiding-abusive-deepfake-features/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-11-03T04:31:26.497Z"
-  },
-  {
-    "id": "news-1793680286497-16",
-    "title": "NVIDIA Releases Auto Ontology: An Open Semantic Layer That Grounds AI Agent SQL",
-    "summary": "NVIDIA released Auto Ontology, an Apache 2.0 library that generates a semantic layer from enterprise metadata. It grounds agent SQL in certified definitions and serves context through MCP, CLI and API.\nThe post NVIDIA Releases Auto Ontology: An Open Semantic Layer That Grounds AI Agent SQL appeared first on MarkTechPost.\n",
-    "category": "ai-research",
-    "source": "MarkTechPost",
-    "author": "Unknown",
-    "publishedAt": "2026-11-02T07:47:12.000Z",
-    "url": "https://www.marktechpost.com/2026/11/01/nvidia-auto-ontology-open-source-semantic-layer-ai-agents/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-11-03T04:31:26.497Z"
-  },
-  {
-    "id": "news-1793680286496-8",
-    "title": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
-    "summary": "Data centers are deeply unpopular. But what if we called them something else?",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-11-01T21:55:23.000Z",
-    "url": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-11-03T04:31:26.496Z"
-  },
-  {
-    "id": "news-1793680286496-9",
-    "title": "AI can make tech CEOs’ lives easier. What about everyone else?",
-    "summary": "On Equity, we discuss why tech CEO statements can seem so tone deaf.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-11-01T20:57:58.000Z",
-    "url": "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-11-03T04:31:26.496Z"
+    "fetchedAt": "2026-11-04T03:51:55.373Z"
   }
 ]
