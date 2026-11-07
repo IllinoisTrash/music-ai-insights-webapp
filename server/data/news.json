@@ -1,36 +1,289 @@
 [
   {
-    "id": "news-1793938090464-33",
-    "title": "Yailin La Más Viral Teases Her New Album & What’s Coming in 2027 | Premios Heat 2026",
-    "summary": "Yailin La Más Viral chatted with Billboard’s Ingrid Fajardo & Jessica Roiz on the red carpet of Premios Heat 2026.",
-    "category": "industry-news",
-    "source": "Billboard",
+    "id": "news-1794022904674-0",
+    "title": "Crusoe sells troubled Wyoming data center project to Google",
+    "summary": "The deal highlights the challenges of developing massive AI data centers.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
     "author": "Unknown",
-    "publishedAt": "2026-11-06T02:43:28.000Z",
-    "url": "https://www.billboard.com/video/yailin-la-mas-viral-teases-her-new-album-whats-coming-2027/",
+    "publishedAt": "2026-11-07T01:40:28.000Z",
+    "url": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
     "imageUrl": null,
     "tags": [
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-11-06T04:08:10.464Z"
+    "fetchedAt": "2026-11-07T03:41:44.674Z"
   },
   {
-    "id": "news-1793938090464-34",
-    "title": "The Strokes Better Look Out: Druski Is Coming for Their Musical Guest Gig in New ‘SNL’ Promos",
-    "summary": "\"Can they do this?\" the first-time host asks the rock band while ripping an electric guitar solo. (Yes, they can.)",
+    "id": "news-1794022904675-33",
+    "title": "Lasso Breaks Down 5 Essential Tracks From His New Album ‘Objetos Frágiles en Ambientes Hostiles’",
+    "summary": "\"It’s a dedication to anyone who’s trying to achieve their dreams,\" the Venezuelan singer/songwriter tells Billboard Español.",
     "category": "industry-news",
     "source": "Billboard",
     "author": "Unknown",
-    "publishedAt": "2026-11-06T01:26:12.000Z",
-    "url": "https://www.billboard.com/culture/tv-film/the-strokes-druski-saturday-night-live-promos-1236375535/",
+    "publishedAt": "2026-11-06T23:49:01.000Z",
+    "url": "https://www.billboard.com/lists/lasso-album-objetos-fragiles-ambientes-hostiles-essential-tracks/",
     "imageUrl": null,
     "tags": [],
     "readTime": 1,
-    "fetchedAt": "2026-11-06T04:08:10.464Z"
+    "fetchedAt": "2026-11-07T03:41:44.675Z"
   },
   {
-    "id": "news-1793938090463-17",
+    "id": "news-1794022904675-34",
+    "title": "Lincoln Celebrated the Art of Rejuvenation at Billboard Latin Music Week",
+    "summary": "From wellness retreats to sensory experiences, Lincoln invited attendees to recharge amid the excitement of Miami",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-11-06T23:39:51.000Z",
+    "url": "https://www.billboard.com/music/features/lincoln-at-latin-music-week-2026-1236376803/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-11-07T03:41:44.675Z"
+  },
+  {
+    "id": "news-1794022904675-35",
+    "title": "In Canada: Faouzia to Accept the Breakthrough Award at Billboard Canada Women in Music 2026",
+    "summary": "Also up north this week: Angine de Poitrine reveals a third member at a Toronto concert and SOCAN joins GEMA's live music royalty network.  ",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-11-06T23:00:51.000Z",
+    "url": "https://www.billboard.com/pro/faouzia-award-billboard-canada-women-in-music-news/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-11-07T03:41:44.675Z"
+  },
+  {
+    "id": "news-1794022904674-1",
+    "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
+    "summary": "OpenAI has reportedly raised an additional $11 billion as part of a funding round that hasn't closed yet but is expected to in the coming weeks. ",
+    "category": "trends-analysis",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-11-06T22:53:46.000Z",
+    "url": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
+    "imageUrl": null,
+    "tags": [
+      "AI",
+      "Investment"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-11-07T03:41:44.674Z"
+  },
+  {
+    "id": "news-1794022904675-36",
+    "title": "Teddy Swims’ ‘Mr. Know It All’ Hits No. 1 on Billboard Pop Airplay Chart",
+    "summary": "The singer-songwriter scores his second leader at the format, after “Lose Control” in 2024.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-11-06T22:15:06.000Z",
+    "url": "https://www.billboard.com/music/chart-beat/teddy-swims-mr-know-it-all-pop-airplay-number-one-1236376758/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-11-07T03:41:44.675Z"
+  },
+  {
+    "id": "news-1794022904675-37",
+    "title": "The Best Ugly Christmas Sweaters for Music Fans to Shop Online in 2026",
+    "summary": "With prices starting at $12, Shop Billboard picked the ugliest Christmas sweaters for all sorts of music fans.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-11-06T22:07:10.000Z",
+    "url": "https://www.billboard.com/culture/product-recommendations/best-ugly-christmas-sweaters-2026-buy-shop-online-1236375937/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-11-07T03:41:44.675Z"
+  },
+  {
+    "id": "news-1794022904675-38",
+    "title": "Billboard Italy Women in Music 2026: All the Honorees Revealed",
+    "summary": "The third edition of the event will take place on Tuesday with an exclusive gala at Vesta Fiori Chiari in Milan.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-11-06T21:54:09.000Z",
+    "url": "https://www.billboard.com/music/awards/billboard-italia-women-in-music-2026-honorees-1236376749/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-11-07T03:41:44.675Z"
+  },
+  {
+    "id": "news-1794022904674-2",
+    "title": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
+    "summary": "Security researchers found hundreds of servers hosting the penetration testing tool Artex exposed to the internet, allowing anyone access to the hacking tool.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-11-06T18:44:38.000Z",
+    "url": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/",
+    "imageUrl": null,
+    "tags": [
+      "AI",
+      "Research"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-11-07T03:41:44.674Z"
+  },
+  {
+    "id": "news-1794022904674-3",
+    "title": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
+    "summary": "Meta's Muse agents continue to get new features and integrations. Spaces promises to be a new way to interact with the AI helpers.  ",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-11-06T18:44:20.000Z",
+    "url": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-11-07T03:41:44.674Z"
+  },
+  {
+    "id": "news-1794022904675-22",
+    "title": "Free Chinese AI Models Are Getting Scary Good at Hacking",
+    "summary": "An experiment in which AI models were asked to break into simulated networks showed the hacking skills of DeepSeek and GLM to be not far behind OpenAI’s most advanced cyber model, which isn’t public.",
+    "category": "ai-research",
+    "source": "Wired AI",
+    "author": "Unknown",
+    "publishedAt": "2026-11-06T18:43:43.000Z",
+    "url": "https://www.wired.com/story/free-chinese-ai-models-are-getting-scary-good-at-hacking/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-11-07T03:41:44.675Z"
+  },
+  {
+    "id": "news-1794022904674-4",
+    "title": "How a Blue Wave midterm might reshape the AI industry",
+    "summary": "Democrats’ historic victories in this week’s U.S. midterm elections could also transform the tech industry. The public voted on 41 data center-related ballot measures on Tuesday — in all but one, the majority voted to impose more restrictions on data center development. And even when data centers weren’t on the ballot directly, they were a […]",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-11-06T18:00:00.000Z",
+    "url": "https://techcrunch.com/podcast/how-a-blue-wave-midterm-might-reshape-the-ai-industry/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-11-07T03:41:44.674Z"
+  },
+  {
+    "id": "news-1794022904674-5",
+    "title": "After the midterms, is the AI industry in for a rough two years?",
+    "summary": "Democrats’ historic victories in this week’s U.S. midterm elections could also transform the tech industry. The public voted on 41 data center-related ballot measures on Tuesday — in all but one, the majority voted to impose more restrictions on data center development. And even when data centers weren’t on the ballot directly, they were a […]",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-11-06T17:23:52.000Z",
+    "url": "https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-11-07T03:41:44.674Z"
+  },
+  {
+    "id": "news-1794022904675-23",
+    "title": "AI Companies Really, Really Want to Buy Your Work Files and Emails",
+    "summary": "Data brokers are collecting all sorts of internal corporate files to help train AI models. Not everyone is thrilled.",
+    "category": "ai-research",
+    "source": "Wired AI",
+    "author": "Unknown",
+    "publishedAt": "2026-11-06T16:00:00.000Z",
+    "url": "https://www.wired.com/story/ai-companies-really-really-want-to-buy-your-work-files-and-emails/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-11-07T03:41:44.675Z"
+  },
+  {
+    "id": "news-1794022904674-6",
+    "title": "Ramp data shows AI spending stalling just as Anthropic nears its IPO",
+    "summary": "AI usage keeps climbing, but spending has stalled. Price cuts and smarter cost controls among the biggest spenders could challenge investor assumptions about AI hypergrowth.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-11-06T15:54:47.000Z",
+    "url": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-11-07T03:41:44.674Z"
+  },
+  {
+    "id": "news-1794022904675-30",
+    "title": "Warner Chappell boss Guy Moot, the first music publisher to receive the UK’s MITS Award, on A&R, catalog, My Chemical Romance, and the PROs",
+    "summary": "This coming Monday (November 9), at London’s Grosvenor House Hotel, Guy Moot, Chair and CEO of Warner Chappell Music (WCM), will become the first music publisher to receive the award in its 34-year history.\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-11-06T15:54:40.000Z",
+    "url": "https://www.musicbusinessworldwide.com/warner-chappell-boss-guy-moot-the-first-music-publisher-to-receive-the-uks-mits-award-on-ar-catalog-my-chemical-romance-and-the-pros/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-11-07T03:41:44.675Z"
+  },
+  {
+    "id": "news-1794022904675-31",
+    "title": "Rotor Videos opens Artist Unlimited to any artist from $9.99 a month, with unlimited release visuals and a library of 17M+, non-AI-generated clips",
+    "summary": "The plans give artists unlimited access to Rotor's tools for making visual assets for release campaigns, including music videos, lyric videos, Spotify Canvas, and Apple Music Album Motion.\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-11-06T14:56:21.000Z",
+    "url": "https://www.musicbusinessworldwide.com/rotor-videos-opens-artist-unlimited-to-any-artist-from-9-99-a-month-with-unlimited-release-visuals-and-a-library-of-17m-non-ai-generated-clips/",
+    "imageUrl": null,
+    "tags": [
+      "Spotify",
+      "Apple Music",
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-11-07T03:41:44.675Z"
+  },
+  {
+    "id": "news-1794022904674-7",
+    "title": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
+    "summary": "Clutch, backed by Lightspeed and SignalFire, was last valued at $85 million, according to a source.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-11-06T06:28:32.000Z",
+    "url": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/",
+    "imageUrl": null,
+    "tags": [
+      "AI",
+      "Startup"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-11-07T03:41:44.674Z"
+  },
+  {
+    "id": "news-1794022904675-17",
     "title": "Google Releases Gemini Omni 1.2 Flash: 15-Second AI Video at $0.07 per Second",
     "summary": "Google released Gemini Omni 1.2 Flash, a video generation and editing model with native 15-second clips, multi-turn conversational editing and a 30% price cut to $0.07 per second of 720p video.\nThe post Google Releases Gemini Omni 1.2 Flash: 15-Second AI Video at $0.07 per Second appeared first on MarkTechPost.\n",
     "category": "ai-research",
@@ -43,10 +296,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-11-06T04:08:10.463Z"
+    "fetchedAt": "2026-11-07T03:41:44.675Z"
   },
   {
-    "id": "news-1793938090461-0",
+    "id": "news-1794022904674-8",
     "title": "Airbnb says it’s launching an AI travel agent in the first half of 2027",
     "summary": "Airbnb says its upcoming AI agent will help travelers plan trips, compare options, manage bookings, and get assistance throughout their stay.",
     "category": "ai-research",
@@ -59,264 +312,6 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-11-06T04:08:10.462Z"
-  },
-  {
-    "id": "news-1793938090464-29",
-    "title": "Kroger asks court to dismiss Sony Music’s social media ads lawsuit, citing Supreme Court’s Cox ruling",
-    "summary": "The Kroger Co. and 17 affiliated companies filed the motion on Monday (November 2) in the US District Court for the Central District of California.\nSource",
-    "category": "industry-news",
-    "source": "Music Business Worldwide",
-    "author": "Unknown",
-    "publishedAt": "2026-11-05T20:06:02.000Z",
-    "url": "https://www.musicbusinessworldwide.com/kroger-asks-court-to-dismiss-sony-musics-social-media-ads-lawsuit-citing-supreme-courts-cox-ruling/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-11-06T04:08:10.464Z"
-  },
-  {
-    "id": "news-1793938090462-1",
-    "title": "Meta says US users can now video chat with their Muse AI avatar",
-    "summary": "Meta's AI agent can now take calls as a customizable animated avatar, ahead of the launch of a Tamagotchi-like wearable designed to bring Muse to life.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-11-05T19:48:28.000Z",
-    "url": "https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-11-06T04:08:10.462Z"
-  },
-  {
-    "id": "news-1793938090462-2",
-    "title": "Meta warns that election backlash against data centers could make AI expansion harder",
-    "summary": "Meta warns that growing political opposition to data centers could threaten future AI investments, as communities push back against massive infrastructure projects.",
-    "category": "industry-news",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-11-05T19:12:39.000Z",
-    "url": "https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder/",
-    "imageUrl": null,
-    "tags": [
-      "AI",
-      "Investment"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-11-06T04:08:10.462Z"
-  },
-  {
-    "id": "news-1793938090462-3",
-    "title": "OpenAI released a new cybersecurity model. Is that enough?",
-    "summary": "OpenAI's newest cybersecurity model comes out as AI labs face scrutiny of their work to protect digital infrastructure.",
-    "category": "tech-innovation",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-11-05T19:06:12.000Z",
-    "url": "https://techcrunch.com/2026/11/05/openai-released-a-new-cybersecurity-model-is-that-enough/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-11-06T04:08:10.462Z"
-  },
-  {
-    "id": "news-1793938090462-4",
-    "title": "OpenAI president Greg Brockman says company could be IPO ready in 2027",
-    "summary": "Speaking at a Wall Street Journal tech conference on Wednesday, the executive touted how the company had been gaining ground in the enterprise market, where rival Anthropic had already successfully made inroads.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-11-05T18:02:27.000Z",
-    "url": "https://techcrunch.com/2026/11/05/openai-president-greg-brockman-says-company-could-be-ipo-ready-in-2027/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-11-06T04:08:10.462Z"
-  },
-  {
-    "id": "news-1793938090462-5",
-    "title": "Claude can now analyze your spending with its new Personal Finance tool",
-    "summary": "With Personal Finance in Claude, users can connect their bank and card accounts through Plaid and ask questions about their finances. ",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-11-05T18:00:00.000Z",
-    "url": "https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-11-06T04:08:10.462Z"
-  },
-  {
-    "id": "news-1793938090462-6",
-    "title": "Axiom Math wants to keep AI slop out of mathematics",
-    "summary": "As AI floods math with unchecked proofs, Axiom Math is betting on verification. The startup’s AI agents just formally verified the Stacks Project, one of the field’s biggest libraries.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-11-05T16:16:45.000Z",
-    "url": "https://techcrunch.com/2026/11/05/axiom-math-wants-to-keep-ai-slop-out-of-mathematics/",
-    "imageUrl": null,
-    "tags": [
-      "AI",
-      "Startup"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-11-06T04:08:10.462Z"
-  },
-  {
-    "id": "news-1793938090462-7",
-    "title": "Dropbox acquires Tigris Data for $350M to bolster its AI infrastructure",
-    "summary": "The deal is expected to support the development of DBX Agent Cloud, a new storage platform aimed at developers building AI models and agents.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-11-05T15:19:05.000Z",
-    "url": "https://techcrunch.com/2026/11/05/dropbox-acquires-tigris-data-for-350m-to-bolster-its-ai-iinfrastructure/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-11-06T04:08:10.462Z"
-  },
-  {
-    "id": "news-1793938090463-8",
-    "title": "Aina’s smart ring has a screen, a joystick, and a mic so you can talk to AI agents",
-    "summary": "Aina's ring can also take calls and help you dictate notes on your Mac.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-11-05T14:42:00.000Z",
-    "url": "https://techcrunch.com/2026/11/05/ainas-smart-ring-has-a-screen-a-joystick-and-a-mic-so-you-can-talk-to-ai-agents/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-11-06T04:08:10.463Z"
-  },
-  {
-    "id": "news-1793938090464-22",
-    "title": "Exclusive: Aina’s Smart Ring Wants to Be a Remote Control for Your AI Agent",
-    "summary": "The startup Aina bets you won’t need to rely on your phone to control virtual assistants. It’s making a smart ring that lets you control the actions of your autonomous agents with one tap.",
-    "category": "tech-innovation",
-    "source": "Wired AI",
-    "author": "Unknown",
-    "publishedAt": "2026-11-05T14:00:00.000Z",
-    "url": "https://www.wired.com/story/aina-smart-ring/",
-    "imageUrl": null,
-    "tags": [
-      "AI",
-      "Startup"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-11-06T04:08:10.464Z"
-  },
-  {
-    "id": "news-1793938090463-9",
-    "title": "A YC startup is putting $1M behind 5 unsolved materials science problems for AI",
-    "summary": "While frontier AI models have solved a remarkable series of outstanding mathematics problems and made progress in the life sciences, they have yet to truly plumb the complex physics in advanced materials.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-11-05T13:00:00.000Z",
-    "url": "https://techcrunch.com/2026/11/05/a-yc-startup-is-putting-1m-behind-five-unsolved-materials-science-problems-for-ai/",
-    "imageUrl": null,
-    "tags": [
-      "AI",
-      "Startup"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-11-06T04:08:10.463Z"
-  },
-  {
-    "id": "news-1793938090464-23",
-    "title": "Finding New Drugs Is Laborious. This AI Startup Is Skipping The Lab Work",
-    "summary": "Potential Sciences, a startup backed by the UK government, is betting that training AI models on computer-generated biochemical data can speed up the plodding process of developing new drugs.",
-    "category": "ai-research",
-    "source": "Wired AI",
-    "author": "Unknown",
-    "publishedAt": "2026-11-05T13:00:00.000Z",
-    "url": "https://www.wired.com/story/finding-new-drugs-is-laborious-this-ai-startup-is-skipping-the-lab-work/",
-    "imageUrl": null,
-    "tags": [
-      "AI",
-      "Startup"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-11-06T04:08:10.464Z"
-  },
-  {
-    "id": "news-1793938090464-24",
-    "title": "AI’s Next Trick? Speaking Dolphin",
-    "summary": "Denise Herzing, the founder and director of the Wild Dolphin Project, is using AI to help understand audio and video footage of the marine mammals.",
-    "category": "tech-innovation",
-    "source": "Wired AI",
-    "author": "Unknown",
-    "publishedAt": "2026-11-05T12:00:00.000Z",
-    "url": "https://www.wired.com/story/wired-world-fair-2026-denise-herzing-wild-dolphin/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-11-06T04:08:10.464Z"
-  },
-  {
-    "id": "news-1793938090464-25",
-    "title": "He Trolls AI Labs for a Living. Now They All Want to Work With Him",
-    "summary": "OpenAI, Anthropic, and SpaceXSI have all reached out to Husk, an influencer who regularly goes viral by exposing the shortcomings of chatbots.",
-    "category": "tech-innovation",
-    "source": "Wired AI",
-    "author": "Unknown",
-    "publishedAt": "2026-11-05T11:45:00.000Z",
-    "url": "https://www.wired.com/story/wired-world-fair-2026-evan-ratliff-and-husk/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-11-06T04:08:10.464Z"
-  },
-  {
-    "id": "news-1793938090464-30",
-    "title": "BTS ‘SWIM’ copyright lawsuit against HYBE dropped by songwriters less than four months after filing",
-    "summary": "Dismissal comes less than four months after the songwriters filed their complaint on July 8\nSource",
-    "category": "industry-news",
-    "source": "Music Business Worldwide",
-    "author": "Unknown",
-    "publishedAt": "2026-11-05T10:54:08.000Z",
-    "url": "https://www.musicbusinessworldwide.com/bts-swim-copyright-lawsuit-against-hybe-dropped-by-songwriters-less-than-four-months-after-filing/",
-    "imageUrl": null,
-    "tags": [
-      "AI",
-      "Copyright"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-11-06T04:08:10.464Z"
-  },
-  {
-    "id": "news-1793938090464-31",
-    "title": "B2B music streamer Soundtrack inks SESAC deal, estimates unlicensed music in US businesses costs the industry $1.4B a year",
-    "summary": "Soundtrack now licensed by all four major US PROs\nSource",
-    "category": "industry-news",
-    "source": "Music Business Worldwide",
-    "author": "Unknown",
-    "publishedAt": "2026-11-05T10:49:34.000Z",
-    "url": "https://www.musicbusinessworldwide.com/b2b-music-streamer-soundtrack-inks-sesac-deal-estimates-unlicensed-music-in-us-businesses-costs-the-industry-1-4b-a-year/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-11-06T04:08:10.464Z"
+    "fetchedAt": "2026-11-07T03:41:44.674Z"
   }
 ]
