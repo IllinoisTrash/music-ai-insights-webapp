@@ -1,48 +1,80 @@
 [
   {
-    "id": "news-1794107855236-30",
-    "title": "Druski & The Strokes on ‘SNL’: Here’s Where to Watch ‘Saturday Night Live’ Online for Free",
-    "summary": "Livestream the comedian host and the indie rock band perform on Nov. 7 — watch live online for free.",
+    "id": "news-1794195468657-26",
+    "title": "Morgan Wallen, Garth Brooks, Taylor Swift & More Artists With Most Weeks at No. 1 on Top Country Albums Chart: Full List",
+    "summary": "Male solo artists dominate, though three female solo artists and two groups have also achieved the feat.",
     "category": "industry-news",
     "source": "Billboard",
     "author": "Unknown",
-    "publishedAt": "2026-11-08T01:30:00.000Z",
-    "url": "https://www.billboard.com/culture/product-recommendations/snl-2026-druski-the-strokes-watch-live-online-free-1236375885/",
+    "publishedAt": "2026-11-08T23:40:04.000Z",
+    "url": "https://www.billboard.com/lists/top-country-albums-number-ones-biggest/",
     "imageUrl": null,
     "tags": [],
     "readTime": 1,
-    "fetchedAt": "2026-11-08T03:17:35.236Z"
+    "fetchedAt": "2026-11-09T03:37:48.657Z"
   },
   {
-    "id": "news-1794107855236-31",
-    "title": "Alanis Morissette Shares She Identifies as Pansexual",
-    "summary": "The singer-songwriter chatted about it briefly in a podcast appearance the week of releasing her new holiday album.",
+    "id": "news-1794195468657-27",
+    "title": "Michael Jackson’s ‘Thriller’ Scares Up Highest Rank on Billboard 200 Albums Chart in More Than 40 Years",
+    "summary": "The classic, which spent 37 weeks at No. 1 in 1983-84, surged sparked by Halloween.",
     "category": "industry-news",
     "source": "Billboard",
     "author": "Unknown",
-    "publishedAt": "2026-11-08T00:39:09.000Z",
-    "url": "https://www.billboard.com/culture/pride/alanis-morissette-pansexual-1236376991/",
+    "publishedAt": "2026-11-08T20:02:24.000Z",
+    "url": "https://www.billboard.com/music/chart-beat/michael-jackson-thriller-surges-billboard-200-halloween-1236377051/",
     "imageUrl": null,
     "tags": [],
     "readTime": 1,
-    "fetchedAt": "2026-11-08T03:17:35.236Z"
+    "fetchedAt": "2026-11-09T03:37:48.657Z"
   },
   {
-    "id": "news-1794107855236-32",
-    "title": "Richard Lloyd, Television Guitarist, Dies at 75",
-    "summary": "The musician was diagnosed with bile duct cancer in March 2026.",
+    "id": "news-1794195468657-28",
+    "title": "The Strokes Get a Surprise Visit From Walton Goggins During ‘SNL’ Performance: Watch",
+    "summary": "The NYC band performed “Lonely in the Future” and “Going Shopping” during its Nov. 7 appearance on the show.",
     "category": "industry-news",
     "source": "Billboard",
     "author": "Unknown",
-    "publishedAt": "2026-11-07T19:09:13.000Z",
-    "url": "https://www.billboard.com/music/music-news/richard-lloyd-death-television-guitarist-dies-obituary-1236376953/",
+    "publishedAt": "2026-11-08T17:20:03.000Z",
+    "url": "https://www.billboard.com/music/rock/the-strokes-snl-walton-goggins-cameo-performance-video-1236377034/",
     "imageUrl": null,
     "tags": [],
     "readTime": 1,
-    "fetchedAt": "2026-11-08T03:17:35.236Z"
+    "fetchedAt": "2026-11-09T03:37:48.657Z"
   },
   {
-    "id": "news-1794107855235-15",
+    "id": "news-1794195468657-14",
+    "title": "Google AI Releases Elephant-Goldfish Model Plugin for Spec-First Coding",
+    "summary": "Google's Elephant-Goldfish Model plugin makes coding agents draft specs, then runs 5 zero-context review stages before any code.\nThe post Google AI Releases Elephant-Goldfish Model Plugin for Spec-First Coding appeared first on MarkTechPost.\n",
+    "category": "tech-innovation",
+    "source": "MarkTechPost",
+    "author": "Unknown",
+    "publishedAt": "2026-11-08T10:46:18.000Z",
+    "url": "https://www.marktechpost.com/2026/11/08/google-elephant-goldfish-model-plugin-spec-review-coding-agents/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-11-09T03:37:48.657Z"
+  },
+  {
+    "id": "news-1794195468657-17",
+    "title": "World Models Will Soon Be Inescapable. Here’s What You Need to Know",
+    "summary": "Moving AI from text to 3D space, world models simulate real-world physics to teach robots and autonomous cars how to navigate reality.",
+    "category": "tech-innovation",
+    "source": "Wired AI",
+    "author": "Unknown",
+    "publishedAt": "2026-11-08T10:00:00.000Z",
+    "url": "https://www.wired.com/story/world-models-will-soon-be-inescapable-what-you-need-to-know/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-11-09T03:37:48.657Z"
+  },
+  {
+    "id": "news-1794195468657-15",
     "title": "Buoyant Releases Kinference: An Open Source Inference Control Plane for Kubernetes and vLLM",
     "summary": "Buoyant has released Kinference, an Apache 2.0 inference control plane for vLLM on Kubernetes. It adds declarative routing policies, KV-cache-aware load balancing and per-tenant metrics, and cut median TTFT 95% in Buoyant’s own benchmark.\nThe post Buoyant Releases Kinference: An Open Source Inference Control Plane for Kubernetes and vLLM appeared first on MarkTechPost.\n",
     "category": "ai-research",
@@ -53,24 +85,10 @@
     "imageUrl": null,
     "tags": [],
     "readTime": 1,
-    "fetchedAt": "2026-11-08T03:17:35.235Z"
+    "fetchedAt": "2026-11-09T03:37:48.657Z"
   },
   {
-    "id": "news-1794107855236-33",
-    "title": "Benson Boone Brings Young Fan Battling Cancer Onstage at Brisbane Concert",
-    "summary": "“I’ve had the opportunity of meeting a 13-year-old girl who is battling her second round of cancer,” Boone told the crowd.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-11-07T06:13:57.000Z",
-    "url": "https://www.billboard.com/music/music-news/benson-boone-kenzie-riddle-beautiful-things-brisbane-1236376893/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-11-08T03:17:35.236Z"
-  },
-  {
-    "id": "news-1794107855234-0",
+    "id": "news-1794195468655-0",
     "title": "Crusoe sells troubled Wyoming data center project to Google",
     "summary": "The deal highlights the challenges of developing massive AI data centers.",
     "category": "ai-research",
@@ -83,10 +101,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-11-08T03:17:35.234Z"
+    "fetchedAt": "2026-11-09T03:37:48.655Z"
   },
   {
-    "id": "news-1794107855235-1",
+    "id": "news-1794195468656-1",
     "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
     "summary": "OpenAI has reportedly raised an additional $11 billion as part of a funding round that hasn't closed yet but is expected to in the coming weeks. ",
     "category": "trends-analysis",
@@ -100,10 +118,10 @@
       "Investment"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-11-08T03:17:35.235Z"
+    "fetchedAt": "2026-11-09T03:37:48.656Z"
   },
   {
-    "id": "news-1794107855235-2",
+    "id": "news-1794195468656-2",
     "title": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
     "summary": "Security researchers found hundreds of servers hosting the penetration testing tool Artex exposed to the internet, allowing anyone access to the hacking tool.",
     "category": "ai-research",
@@ -117,10 +135,10 @@
       "Research"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-11-08T03:17:35.235Z"
+    "fetchedAt": "2026-11-09T03:37:48.656Z"
   },
   {
-    "id": "news-1794107855235-3",
+    "id": "news-1794195468656-3",
     "title": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
     "summary": "Meta's Muse agents continue to get new features and integrations. Spaces promises to be a new way to interact with the AI helpers.  ",
     "category": "ai-research",
@@ -133,10 +151,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-11-08T03:17:35.235Z"
+    "fetchedAt": "2026-11-09T03:37:48.656Z"
   },
   {
-    "id": "news-1794107855236-20",
+    "id": "news-1794195468657-18",
     "title": "Free Chinese AI Models Are Getting Scary Good at Hacking",
     "summary": "An experiment in which AI models were asked to break into simulated networks showed the hacking skills of DeepSeek and GLM to be not far behind OpenAI’s most advanced cyber model, which isn’t public.",
     "category": "ai-research",
@@ -149,10 +167,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-11-08T03:17:35.236Z"
+    "fetchedAt": "2026-11-09T03:37:48.657Z"
   },
   {
-    "id": "news-1794107855235-4",
+    "id": "news-1794195468656-4",
     "title": "How a Blue Wave midterm might reshape the AI industry",
     "summary": "Democrats’ historic victories in this week’s U.S. midterm elections could also transform the tech industry. The public voted on 41 data center-related ballot measures on Tuesday — in all but one, the majority voted to impose more restrictions on data center development. And even when data centers weren’t on the ballot directly, they were a […]",
     "category": "ai-research",
@@ -165,10 +183,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-11-08T03:17:35.235Z"
+    "fetchedAt": "2026-11-09T03:37:48.656Z"
   },
   {
-    "id": "news-1794107855235-5",
+    "id": "news-1794195468656-5",
     "title": "After the midterms, is the AI industry in for a rough two years?",
     "summary": "Democrats’ historic victories in this week’s U.S. midterm elections could also transform the tech industry. The public voted on 41 data center-related ballot measures on Tuesday — in all but one, the majority voted to impose more restrictions on data center development. And even when data centers weren’t on the ballot directly, they were a […]",
     "category": "ai-research",
@@ -181,10 +199,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-11-08T03:17:35.235Z"
+    "fetchedAt": "2026-11-09T03:37:48.656Z"
   },
   {
-    "id": "news-1794107855236-21",
+    "id": "news-1794195468657-19",
     "title": "AI Companies Really, Really Want to Buy Your Work Files and Emails",
     "summary": "Data brokers are collecting all sorts of internal corporate files to help train AI models. Not everyone is thrilled.",
     "category": "ai-research",
@@ -197,10 +215,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-11-08T03:17:35.236Z"
+    "fetchedAt": "2026-11-09T03:37:48.657Z"
   },
   {
-    "id": "news-1794107855235-6",
+    "id": "news-1794195468656-6",
     "title": "Ramp data shows AI spending stalling just as Anthropic nears its IPO",
     "summary": "AI usage keeps climbing, but spending has stalled. Price cuts and smarter cost controls among the biggest spenders could challenge investor assumptions about AI hypergrowth.",
     "category": "ai-research",
@@ -213,10 +231,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-11-08T03:17:35.235Z"
+    "fetchedAt": "2026-11-09T03:37:48.656Z"
   },
   {
-    "id": "news-1794107855236-27",
+    "id": "news-1794195468657-23",
     "title": "Warner Chappell boss Guy Moot, the first music publisher to receive the UK’s MITS Award, on A&R, catalog, My Chemical Romance, and the PROs",
     "summary": "This coming Monday (November 9), at London’s Grosvenor House Hotel, Guy Moot, Chair and CEO of Warner Chappell Music (WCM), will become the first music publisher to receive the award in its 34-year history.\nSource",
     "category": "industry-news",
@@ -229,10 +247,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-11-08T03:17:35.236Z"
+    "fetchedAt": "2026-11-09T03:37:48.657Z"
   },
   {
-    "id": "news-1794107855236-28",
+    "id": "news-1794195468657-24",
     "title": "Rotor Videos opens Artist Unlimited to any artist from $9.99 a month, with unlimited release visuals and a library of 17M+, non-AI-generated clips",
     "summary": "The plans give artists unlimited access to Rotor's tools for making visual assets for release campaigns, including music videos, lyric videos, Spotify Canvas, and Apple Music Album Motion.\nSource",
     "category": "industry-news",
@@ -247,10 +265,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-11-08T03:17:35.236Z"
+    "fetchedAt": "2026-11-09T03:37:48.657Z"
   },
   {
-    "id": "news-1794107855235-7",
+    "id": "news-1794195468656-7",
     "title": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
     "summary": "Clutch, backed by Lightspeed and SignalFire, was last valued at $85 million, according to a source.",
     "category": "ai-research",
@@ -264,10 +282,10 @@
       "Startup"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-11-08T03:17:35.235Z"
+    "fetchedAt": "2026-11-09T03:37:48.656Z"
   },
   {
-    "id": "news-1794107855235-16",
+    "id": "news-1794195468657-16",
     "title": "Google Releases Gemini Omni 1.2 Flash: 15-Second AI Video at $0.07 per Second",
     "summary": "Google released Gemini Omni 1.2 Flash, a video generation and editing model with native 15-second clips, multi-turn conversational editing and a 30% price cut to $0.07 per second of 720p video.\nThe post Google Releases Gemini Omni 1.2 Flash: 15-Second AI Video at $0.07 per Second appeared first on MarkTechPost.\n",
     "category": "ai-research",
@@ -280,10 +298,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-11-08T03:17:35.235Z"
+    "fetchedAt": "2026-11-09T03:37:48.657Z"
   },
   {
-    "id": "news-1794107855235-8",
+    "id": "news-1794195468656-8",
     "title": "Airbnb says it’s launching an AI travel agent in the first half of 2027",
     "summary": "Airbnb says its upcoming AI agent will help travelers plan trips, compare options, manage bookings, and get assistance throughout their stay.",
     "category": "ai-research",
@@ -296,20 +314,6 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-11-08T03:17:35.235Z"
-  },
-  {
-    "id": "news-1794107855236-29",
-    "title": "Kroger asks court to dismiss Sony Music’s social media ads lawsuit, citing Supreme Court’s Cox ruling",
-    "summary": "The Kroger Co. and 17 affiliated companies filed the motion on Monday (November 2) in the US District Court for the Central District of California.\nSource",
-    "category": "industry-news",
-    "source": "Music Business Worldwide",
-    "author": "Unknown",
-    "publishedAt": "2026-11-05T20:06:02.000Z",
-    "url": "https://www.musicbusinessworldwide.com/kroger-asks-court-to-dismiss-sony-musics-social-media-ads-lawsuit-citing-supreme-courts-cox-ruling/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-11-08T03:17:35.236Z"
+    "fetchedAt": "2026-11-09T03:37:48.656Z"
   }
 ]
