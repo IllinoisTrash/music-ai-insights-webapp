@@ -1,48 +1,259 @@
 [
   {
-    "id": "news-1794195468657-26",
-    "title": "Morgan Wallen, Garth Brooks, Taylor Swift & More Artists With Most Weeks at No. 1 on Top Country Albums Chart: Full List",
-    "summary": "Male solo artists dominate, though three female solo artists and two groups have also achieved the feat.",
+    "id": "news-1794287387711-11",
+    "title": "A New AI Tool From Google DeepMind Proved the Signal Protocol Is Secure",
+    "summary": "DeepMind researchers were able to formally verify that the widely used encryption protocol works as intended. Their stretch goal? Do the same for “all the software of the world.”",
+    "category": "tech-innovation",
+    "source": "Wired AI",
+    "author": "Unknown",
+    "publishedAt": "2026-11-10T05:01:00.000Z",
+    "url": "https://www.wired.com/story/a-new-ai-tool-from-google-deepmind-formally-verified-the-signal-protocol/",
+    "imageUrl": null,
+    "tags": [
+      "AI",
+      "Research"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-11-10T05:09:47.711Z"
+  },
+  {
+    "id": "news-1794287387710-0",
+    "title": "Anthropic reportedly plans to move forward with IPO plans",
+    "summary": "The AI company is expected to set its valuation range this week, the Wall Street Journal reported.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-11-10T01:27:12.000Z",
+    "url": "https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-11-10T05:09:47.710Z"
+  },
+  {
+    "id": "news-1794287387711-12",
+    "title": "Jensen Huang’s Troubles Leave the AI Industry Reeling",
+    "summary": "With a big checkbook and sought-after chips, Nvidia’s CEO had his thumb on the world of AI. An extramarital affair with a suspected Chinese spy may put all of that at risk.",
+    "category": "tech-innovation",
+    "source": "Wired AI",
+    "author": "Unknown",
+    "publishedAt": "2026-11-10T00:18:19.000Z",
+    "url": "https://www.wired.com/story/jensen-huangs-troubles-leaves-the-ai-industry-reeling/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-11-10T05:09:47.711Z"
+  },
+  {
+    "id": "news-1794287387712-23",
+    "title": "U2 Celebrate Brian Eno With Secret Show at London’s Tate Museum: Best Moments",
+    "summary": "The band release their 16th studio album Carnaval de Luze next Friday (Nov. 13).",
     "category": "industry-news",
     "source": "Billboard",
     "author": "Unknown",
-    "publishedAt": "2026-11-08T23:40:04.000Z",
-    "url": "https://www.billboard.com/lists/top-country-albums-number-ones-biggest/",
+    "publishedAt": "2026-11-10T00:00:00.000Z",
+    "url": "https://www.billboard.com/lists/u2-london-best-moments-brian-eno/",
     "imageUrl": null,
     "tags": [],
     "readTime": 1,
-    "fetchedAt": "2026-11-09T03:37:48.657Z"
+    "fetchedAt": "2026-11-10T05:09:47.712Z"
   },
   {
-    "id": "news-1794195468657-27",
-    "title": "Michael Jackson’s ‘Thriller’ Scares Up Highest Rank on Billboard 200 Albums Chart in More Than 40 Years",
-    "summary": "The classic, which spent 37 weeks at No. 1 in 1983-84, surged sparked by Halloween.",
+    "id": "news-1794287387712-24",
+    "title": "Canadian Government Introduces Canada Creative Credit to Support ‘Artistic Production’",
+    "summary": "The Mark Carney government's new federal budget also confirms a $600 million investment to provide relief to the audiovisual sector for 2026-27.",
     "category": "industry-news",
     "source": "Billboard",
     "author": "Unknown",
-    "publishedAt": "2026-11-08T20:02:24.000Z",
-    "url": "https://www.billboard.com/music/chart-beat/michael-jackson-thriller-surges-billboard-200-halloween-1236377051/",
+    "publishedAt": "2026-11-09T23:44:44.000Z",
+    "url": "https://www.billboard.com/pro/canada-government-tax-relief-canadian-artists-budget/",
     "imageUrl": null,
-    "tags": [],
+    "tags": [
+      "Investment"
+    ],
     "readTime": 1,
-    "fetchedAt": "2026-11-09T03:37:48.657Z"
+    "fetchedAt": "2026-11-10T05:09:47.712Z"
   },
   {
-    "id": "news-1794195468657-28",
-    "title": "The Strokes Get a Surprise Visit From Walton Goggins During ‘SNL’ Performance: Watch",
-    "summary": "The NYC band performed “Lonely in the Future” and “Going Shopping” during its Nov. 7 appearance on the show.",
+    "id": "news-1794287387712-25",
+    "title": "Juan Atkins’ Catalog Surges 1,285% on Streaming After Producer’s Death",
+    "summary": "The techno founder died on Oct. 31 at age 64. ",
     "category": "industry-news",
     "source": "Billboard",
     "author": "Unknown",
-    "publishedAt": "2026-11-08T17:20:03.000Z",
-    "url": "https://www.billboard.com/music/rock/the-strokes-snl-walton-goggins-cameo-performance-video-1236377034/",
+    "publishedAt": "2026-11-09T22:50:03.000Z",
+    "url": "https://www.billboard.com/music/music-news/juan-atkins-music-catalog-streams-surge-producer-death-1236378199/",
+    "imageUrl": null,
+    "tags": [
+      "Streaming"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-11-10T05:09:47.712Z"
+  },
+  {
+    "id": "news-1794287387712-26",
+    "title": "15 Great Songs That Use the Wah-Wah Guitar Pedal & Its Funky, Fluid Feel",
+    "summary": "Del Casher, the inventor of the wah-wah pedal, died last month at 88. His creation has had a massive impact on musical history.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-11-09T22:25:22.000Z",
+    "url": "https://www.billboard.com/lists/best-wah-wah-pedal-guitar-songs-del-casher/",
     "imageUrl": null,
     "tags": [],
     "readTime": 1,
-    "fetchedAt": "2026-11-09T03:37:48.657Z"
+    "fetchedAt": "2026-11-10T05:09:47.712Z"
   },
   {
-    "id": "news-1794195468657-14",
+    "id": "news-1794287387712-17",
+    "title": "Billboard changes ‘free’ vs. paid streaming formula on charts – and YouTube is bringing its data back.",
+    "summary": "Billboard announced the change on Monday (November 9), and YouTube confirmed its return later the same day.\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-11-09T18:13:53.000Z",
+    "url": "https://www.musicbusinessworldwide.com/billboard-changes-free-vs-paid-streaming-formula-on-charts-and-youtube-is-bringing-its-data-back/",
+    "imageUrl": null,
+    "tags": [
+      "AI",
+      "Streaming"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-11-10T05:09:47.712Z"
+  },
+  {
+    "id": "news-1794287387711-1",
+    "title": "Jensen Huang’s affair with alleged Chinese spy puts Nvidia’s China ambitions under scrutiny",
+    "summary": "Jensen Huang’s alleged affair with a suspected Chinese spy threatens to complicate Nvidia’s lobbying efforts to loosen U.S. chip export restrictions and maintain access to China’s lucrative AI market.",
+    "category": "trends-analysis",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-11-09T18:09:52.000Z",
+    "url": "https://techcrunch.com/2026/11/09/jensen-huangs-affair-with-alleged-chinese-spy-puts-nvidias-china-ambitions-under-scrutiny/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-11-10T05:09:47.711Z"
+  },
+  {
+    "id": "news-1794287387711-2",
+    "title": "Medium’s new TK app brings AI assistance directly into the writing process",
+    "summary": "Medium's new writing app embraces AI-assisted writing, despite growing controversy over the technology's role in publishing.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-11-09T16:12:28.000Z",
+    "url": "https://techcrunch.com/2026/11/09/mediums-new-tk-app-brings-ai-assistance-directly-into-the-writing-process/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-11-10T05:09:47.711Z"
+  },
+  {
+    "id": "news-1794287387712-18",
+    "title": "Warner Music France fully acquires Délicieuse Musique, the Bordeaux-based label group with a roster of 1,200+ artists",
+    "summary": "Délicieuse's portfolio includes the labels Délicieuse Records, Nice Guys, Noire & Blanche, Egoplanet, Crosswalk, and Hip Dozer.\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-11-09T12:56:20.000Z",
+    "url": "https://www.musicbusinessworldwide.com/warner-music-france-invests-in-delicieuse-musique-the-bordeaux-based-label-group-with-a-roster-of-1200-artists/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-11-10T05:09:47.712Z"
+  },
+  {
+    "id": "news-1794287387712-19",
+    "title": "SoundExchange’s unpaid royalties lawsuit against Music Choice heads back to court, more than seven years after it was filed",
+    "summary": "The case was filed in April 2019 and has been largely on hold since December 2021.\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-11-09T12:55:48.000Z",
+    "url": "https://www.musicbusinessworldwide.com/soundexchanges-unpaid-royalties-lawsuit-against-music-choice-heads-back-to-court-more-than-seven-years-after-it-was-filed/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-11-10T05:09:47.712Z"
+  },
+  {
+    "id": "news-1794287387712-20",
+    "title": "JYP Entertainment sues distributor OneSync and its CEO, alleging they copied Stray Kids member HAN’s track and uploaded it to streaming services as ‘yungzzz’",
+    "summary": "The defendants allegedly copied a track by HAN from YouTube and uploaded it to streaming services under the artist name 'yungzzz' without permission.\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-11-09T12:55:03.000Z",
+    "url": "https://www.musicbusinessworldwide.com/jyp-entertainment-sues-distributor-onesync-and-its-ceo-alleging-they-copied-stray-kids-member-hans-track-and-uploaded-it-to-streaming-services-as-yungzzz/",
+    "imageUrl": null,
+    "tags": [
+      "AI",
+      "Streaming"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-11-10T05:09:47.712Z"
+  },
+  {
+    "id": "news-1794287387711-13",
+    "title": "Authors Can Defend Against AI Allegations With ‘Paper Trail’ Tools. Is It Enough?",
+    "summary": "As the publishing industry wrestles with paranoia over the provenance of manuscripts, writers are caught in an impossible bind.",
+    "category": "tech-innovation",
+    "source": "Wired AI",
+    "author": "Unknown",
+    "publishedAt": "2026-11-09T11:00:00.000Z",
+    "url": "https://www.wired.com/story/authors-can-defend-against-ai-allegations-with-paper-trail-tools/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-11-10T05:09:47.711Z"
+  },
+  {
+    "id": "news-1794287387711-7",
+    "title": "Reason Machines Open-Sources Aspen, a Git Server Built for AI Agents",
+    "summary": "Reason Machines has open-sourced Aspen, a self-hosted Git server for AI agents. It follows OpenAI’s Pando design and sustained 567 pushes per second on one 8-core server in the company’s own test.\nThe post Reason Machines Open-Sources Aspen, a Git Server Built for AI Agents appeared first on MarkTechPost.\n",
+    "category": "ai-research",
+    "source": "MarkTechPost",
+    "author": "Unknown",
+    "publishedAt": "2026-11-09T08:20:20.000Z",
+    "url": "https://www.marktechpost.com/2026/11/09/reason-machines-aspen-open-source-git-server-ai-agents/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-11-10T05:09:47.711Z"
+  },
+  {
+    "id": "news-1794287387711-8",
+    "title": "0sec Labs Open-Sources 0, an AI Security Harness With Web UI, CLI and MCP",
+    "summary": "0sec Labs has open-sourced 0, an AI security harness for code review, pentesting, reverse engineering and fixes. It runs locally through a browser console, a headless CLI and an MCP server, with your own model provider.\nThe post 0sec Labs Open-Sources 0, an AI Security Harness With Web UI, CLI and MCP appeared first on MarkTechPost.\n",
+    "category": "ai-research",
+    "source": "MarkTechPost",
+    "author": "Unknown",
+    "publishedAt": "2026-11-09T07:55:18.000Z",
+    "url": "https://www.marktechpost.com/2026/11/08/0sec-labs-open-sources-0-ai-security-harness/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-11-10T05:09:47.711Z"
+  },
+  {
+    "id": "news-1794287387711-9",
     "title": "Google AI Releases Elephant-Goldfish Model Plugin for Spec-First Coding",
     "summary": "Google's Elephant-Goldfish Model plugin makes coding agents draft specs, then runs 5 zero-context review stages before any code.\nThe post Google AI Releases Elephant-Goldfish Model Plugin for Spec-First Coding appeared first on MarkTechPost.\n",
     "category": "tech-innovation",
@@ -55,10 +266,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-11-09T03:37:48.657Z"
+    "fetchedAt": "2026-11-10T05:09:47.711Z"
   },
   {
-    "id": "news-1794195468657-17",
+    "id": "news-1794287387711-14",
     "title": "World Models Will Soon Be Inescapable. Here’s What You Need to Know",
     "summary": "Moving AI from text to 3D space, world models simulate real-world physics to teach robots and autonomous cars how to navigate reality.",
     "category": "tech-innovation",
@@ -71,10 +282,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-11-09T03:37:48.657Z"
+    "fetchedAt": "2026-11-10T05:09:47.711Z"
   },
   {
-    "id": "news-1794195468657-15",
+    "id": "news-1794287387711-10",
     "title": "Buoyant Releases Kinference: An Open Source Inference Control Plane for Kubernetes and vLLM",
     "summary": "Buoyant has released Kinference, an Apache 2.0 inference control plane for vLLM on Kubernetes. It adds declarative routing policies, KV-cache-aware load balancing and per-tenant metrics, and cut median TTFT 95% in Buoyant’s own benchmark.\nThe post Buoyant Releases Kinference: An Open Source Inference Control Plane for Kubernetes and vLLM appeared first on MarkTechPost.\n",
     "category": "ai-research",
@@ -85,10 +296,10 @@
     "imageUrl": null,
     "tags": [],
     "readTime": 1,
-    "fetchedAt": "2026-11-09T03:37:48.657Z"
+    "fetchedAt": "2026-11-10T05:09:47.711Z"
   },
   {
-    "id": "news-1794195468655-0",
+    "id": "news-1794287387711-3",
     "title": "Crusoe sells troubled Wyoming data center project to Google",
     "summary": "The deal highlights the challenges of developing massive AI data centers.",
     "category": "ai-research",
@@ -101,219 +312,6 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-11-09T03:37:48.655Z"
-  },
-  {
-    "id": "news-1794195468656-1",
-    "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
-    "summary": "OpenAI has reportedly raised an additional $11 billion as part of a funding round that hasn't closed yet but is expected to in the coming weeks. ",
-    "category": "trends-analysis",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-11-06T22:53:46.000Z",
-    "url": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
-    "imageUrl": null,
-    "tags": [
-      "AI",
-      "Investment"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-11-09T03:37:48.656Z"
-  },
-  {
-    "id": "news-1794195468656-2",
-    "title": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
-    "summary": "Security researchers found hundreds of servers hosting the penetration testing tool Artex exposed to the internet, allowing anyone access to the hacking tool.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-11-06T18:44:38.000Z",
-    "url": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/",
-    "imageUrl": null,
-    "tags": [
-      "AI",
-      "Research"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-11-09T03:37:48.656Z"
-  },
-  {
-    "id": "news-1794195468656-3",
-    "title": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
-    "summary": "Meta's Muse agents continue to get new features and integrations. Spaces promises to be a new way to interact with the AI helpers.  ",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-11-06T18:44:20.000Z",
-    "url": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-11-09T03:37:48.656Z"
-  },
-  {
-    "id": "news-1794195468657-18",
-    "title": "Free Chinese AI Models Are Getting Scary Good at Hacking",
-    "summary": "An experiment in which AI models were asked to break into simulated networks showed the hacking skills of DeepSeek and GLM to be not far behind OpenAI’s most advanced cyber model, which isn’t public.",
-    "category": "ai-research",
-    "source": "Wired AI",
-    "author": "Unknown",
-    "publishedAt": "2026-11-06T18:43:43.000Z",
-    "url": "https://www.wired.com/story/free-chinese-ai-models-are-getting-scary-good-at-hacking/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-11-09T03:37:48.657Z"
-  },
-  {
-    "id": "news-1794195468656-4",
-    "title": "How a Blue Wave midterm might reshape the AI industry",
-    "summary": "Democrats’ historic victories in this week’s U.S. midterm elections could also transform the tech industry. The public voted on 41 data center-related ballot measures on Tuesday — in all but one, the majority voted to impose more restrictions on data center development. And even when data centers weren’t on the ballot directly, they were a […]",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-11-06T18:00:00.000Z",
-    "url": "https://techcrunch.com/podcast/how-a-blue-wave-midterm-might-reshape-the-ai-industry/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-11-09T03:37:48.656Z"
-  },
-  {
-    "id": "news-1794195468656-5",
-    "title": "After the midterms, is the AI industry in for a rough two years?",
-    "summary": "Democrats’ historic victories in this week’s U.S. midterm elections could also transform the tech industry. The public voted on 41 data center-related ballot measures on Tuesday — in all but one, the majority voted to impose more restrictions on data center development. And even when data centers weren’t on the ballot directly, they were a […]",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-11-06T17:23:52.000Z",
-    "url": "https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-11-09T03:37:48.656Z"
-  },
-  {
-    "id": "news-1794195468657-19",
-    "title": "AI Companies Really, Really Want to Buy Your Work Files and Emails",
-    "summary": "Data brokers are collecting all sorts of internal corporate files to help train AI models. Not everyone is thrilled.",
-    "category": "ai-research",
-    "source": "Wired AI",
-    "author": "Unknown",
-    "publishedAt": "2026-11-06T16:00:00.000Z",
-    "url": "https://www.wired.com/story/ai-companies-really-really-want-to-buy-your-work-files-and-emails/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-11-09T03:37:48.657Z"
-  },
-  {
-    "id": "news-1794195468656-6",
-    "title": "Ramp data shows AI spending stalling just as Anthropic nears its IPO",
-    "summary": "AI usage keeps climbing, but spending has stalled. Price cuts and smarter cost controls among the biggest spenders could challenge investor assumptions about AI hypergrowth.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-11-06T15:54:47.000Z",
-    "url": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-11-09T03:37:48.656Z"
-  },
-  {
-    "id": "news-1794195468657-23",
-    "title": "Warner Chappell boss Guy Moot, the first music publisher to receive the UK’s MITS Award, on A&R, catalog, My Chemical Romance, and the PROs",
-    "summary": "This coming Monday (November 9), at London’s Grosvenor House Hotel, Guy Moot, Chair and CEO of Warner Chappell Music (WCM), will become the first music publisher to receive the award in its 34-year history.\nSource",
-    "category": "industry-news",
-    "source": "Music Business Worldwide",
-    "author": "Unknown",
-    "publishedAt": "2026-11-06T15:54:40.000Z",
-    "url": "https://www.musicbusinessworldwide.com/warner-chappell-boss-guy-moot-the-first-music-publisher-to-receive-the-uks-mits-award-on-ar-catalog-my-chemical-romance-and-the-pros/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-11-09T03:37:48.657Z"
-  },
-  {
-    "id": "news-1794195468657-24",
-    "title": "Rotor Videos opens Artist Unlimited to any artist from $9.99 a month, with unlimited release visuals and a library of 17M+, non-AI-generated clips",
-    "summary": "The plans give artists unlimited access to Rotor's tools for making visual assets for release campaigns, including music videos, lyric videos, Spotify Canvas, and Apple Music Album Motion.\nSource",
-    "category": "industry-news",
-    "source": "Music Business Worldwide",
-    "author": "Unknown",
-    "publishedAt": "2026-11-06T14:56:21.000Z",
-    "url": "https://www.musicbusinessworldwide.com/rotor-videos-opens-artist-unlimited-to-any-artist-from-9-99-a-month-with-unlimited-release-visuals-and-a-library-of-17m-non-ai-generated-clips/",
-    "imageUrl": null,
-    "tags": [
-      "Spotify",
-      "Apple Music",
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-11-09T03:37:48.657Z"
-  },
-  {
-    "id": "news-1794195468656-7",
-    "title": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
-    "summary": "Clutch, backed by Lightspeed and SignalFire, was last valued at $85 million, according to a source.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-11-06T06:28:32.000Z",
-    "url": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/",
-    "imageUrl": null,
-    "tags": [
-      "AI",
-      "Startup"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-11-09T03:37:48.656Z"
-  },
-  {
-    "id": "news-1794195468657-16",
-    "title": "Google Releases Gemini Omni 1.2 Flash: 15-Second AI Video at $0.07 per Second",
-    "summary": "Google released Gemini Omni 1.2 Flash, a video generation and editing model with native 15-second clips, multi-turn conversational editing and a 30% price cut to $0.07 per second of 720p video.\nThe post Google Releases Gemini Omni 1.2 Flash: 15-Second AI Video at $0.07 per Second appeared first on MarkTechPost.\n",
-    "category": "ai-research",
-    "source": "MarkTechPost",
-    "author": "Unknown",
-    "publishedAt": "2026-11-05T22:58:21.000Z",
-    "url": "https://www.marktechpost.com/2026/11/05/google-gemini-omni-1-2-flash-15-second-video/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-11-09T03:37:48.657Z"
-  },
-  {
-    "id": "news-1794195468656-8",
-    "title": "Airbnb says it’s launching an AI travel agent in the first half of 2027",
-    "summary": "Airbnb says its upcoming AI agent will help travelers plan trips, compare options, manage bookings, and get assistance throughout their stay.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-11-05T22:40:55.000Z",
-    "url": "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-11-09T03:37:48.656Z"
+    "fetchedAt": "2026-11-10T05:09:47.711Z"
   }
 ]
