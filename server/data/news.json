@@ -1,317 +1,309 @@
 [
   {
-    "id": "news-1794287387711-11",
-    "title": "A New AI Tool From Google DeepMind Proved the Signal Protocol Is Secure",
-    "summary": "DeepMind researchers were able to formally verify that the widely used encryption protocol works as intended. Their stretch goal? Do the same for “all the software of the world.”",
-    "category": "tech-innovation",
-    "source": "Wired AI",
+    "id": "news-1794368563910-31",
+    "title": "Ninajirachi Wins 2026 NSW Music Prize",
+    "summary": "The Aussie DJ and producer collected the top award for her debut studio album, \"I Love My Computer.\"",
+    "category": "industry-news",
+    "source": "Billboard",
     "author": "Unknown",
-    "publishedAt": "2026-11-10T05:01:00.000Z",
-    "url": "https://www.wired.com/story/a-new-ai-tool-from-google-deepmind-formally-verified-the-signal-protocol/",
+    "publishedAt": "2026-11-11T03:15:00.000Z",
+    "url": "https://www.billboard.com/music/awards/ninajirachi-2026-nsw-music-prize-1236379122/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-11-11T03:42:43.910Z"
+  },
+  {
+    "id": "news-1794368563910-32",
+    "title": "Weezer Honored as Billboard Legends of Live as Rivers Cuomo Reflects on the Road Life: ‘A Mission I Want to Take On’",
+    "summary": "Rivers Cuomo, Patrick Wilson and Scott Shriner chatted about their booming touring business at the 2026 Billboard Live Music Summit.  ",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-11-11T03:05:20.000Z",
+    "url": "https://www.billboard.com/business/touring/weezer-billboard-legends-of-live-award-1236379084/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-11-11T03:42:43.910Z"
+  },
+  {
+    "id": "news-1794368563910-33",
+    "title": "International Touring Panel: The Opportunities & Challenges of Global Touring | Billboard Live Music Summit 2026",
+    "summary": "The touring sector is stronger than ever in key territories including the United States and Europe. But as music becomes increasingly global, promoters and developers are looking beyond the space’s traditional strongholds to expand touring to new markets. For this panel, Billboard assembled key players in the concert industry’s accelerating worldwide expansion to break down […]",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-11-11T02:27:34.000Z",
+    "url": "https://www.billboard.com/video/international-touring-opportunities-challenges/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-11-11T03:42:43.910Z"
+  },
+  {
+    "id": "news-1794368563910-34",
+    "title": "Festivals Panel: The Evolution of Festivals | Billboard Live Music Summit 2026",
+    "summary": "From the new Daisy Chain Fields music festival to established heavyweights like Coachella, the festival space remains strong, but it is also changing, as genre and artist-focused events continue to grow in popularity. Billboard has gathered several key festival promoters, as well as voices from the management and agency words, to analyze the current factors […]",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-11-11T01:56:48.000Z",
+    "url": "https://www.billboard.com/video/festivals-panel-evolution-of-festivals-live-music-summit/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-11-11T03:42:43.910Z"
+  },
+  {
+    "id": "news-1794368563910-35",
+    "title": "Agents Panel: How Booking Has Evolved | Billboard Live Music Summit 2026",
+    "summary": "For this year’s installment of the agents panel, Billboard has convened leading executives from several key agencies, representing artists from Bad Bunny to Gracie Abrams, to discuss how booking is evolving, the challenges agents face today across genres, and where this sector of the live business is headed going forward. The 2026 Billboard Live Music […]",
+    "category": "ai-research",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-11-11T01:02:43.000Z",
+    "url": "https://www.billboard.com/video/agents-panel-live-music-summit-2026/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-11-11T03:42:43.910Z"
+  },
+  {
+    "id": "news-1794368563910-36",
+    "title": "20 Questions With Chichí Peralta: The Master of Fusion on His Latin Grammys Honor, AI & New Music",
+    "summary": "The Dominican artist received a Lifetime Achievement Award from the Latin Recording Academy on Monday.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-11-11T01:00:20.000Z",
+    "url": "https://www.billboard.com/music/latin/chichi-peralta-20-questions-latin-grammys-ai-new-music-1236379160/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-11-11T03:42:43.910Z"
+  },
+  {
+    "id": "news-1794368563908-0",
+    "title": "OpenAI acquires Odessia, travel startup created by Sonder founder",
+    "summary": "OpenAI has not yet said what its plans are for the future of travel. But Sonder founder Francis Davidson is a well-known figure in the travel industry.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-11-10T21:08:52.000Z",
+    "url": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/",
     "imageUrl": null,
     "tags": [
       "AI",
-      "Research"
+      "Startup"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-11-10T05:09:47.711Z"
+    "fetchedAt": "2026-11-11T03:42:43.909Z"
   },
   {
-    "id": "news-1794287387710-0",
-    "title": "Anthropic reportedly plans to move forward with IPO plans",
-    "summary": "The AI company is expected to set its valuation range this week, the Wall Street Journal reported.",
+    "id": "news-1794368563909-1",
+    "title": "OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect",
+    "summary": "New York is preparing to enforce its sweeping AI safety law, requiring major developers like OpenAI and Anthropic to register, disclose safety practices, and report critical incidents or face fines.",
     "category": "ai-research",
     "source": "TechCrunch AI",
     "author": "Unknown",
-    "publishedAt": "2026-11-10T01:27:12.000Z",
-    "url": "https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/",
+    "publishedAt": "2026-11-10T20:52:13.000Z",
+    "url": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/",
     "imageUrl": null,
     "tags": [
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-11-10T05:09:47.710Z"
+    "fetchedAt": "2026-11-11T03:42:43.909Z"
   },
   {
-    "id": "news-1794287387711-12",
-    "title": "Jensen Huang’s Troubles Leave the AI Industry Reeling",
-    "summary": "With a big checkbook and sought-after chips, Nvidia’s CEO had his thumb on the world of AI. An extramarital affair with a suspected Chinese spy may put all of that at risk.",
-    "category": "tech-innovation",
-    "source": "Wired AI",
+    "id": "news-1794368563909-2",
+    "title": "OpenAI rolls out new business profiles, making ChatGPT just a little bit more like Google",
+    "summary": "OpenAI is looking to make ChatGPT a more robust consumer discovery engine, and a host of new features seek to empower businesses to help it do that. ",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
     "author": "Unknown",
-    "publishedAt": "2026-11-10T00:18:19.000Z",
-    "url": "https://www.wired.com/story/jensen-huangs-troubles-leaves-the-ai-industry-reeling/",
+    "publishedAt": "2026-11-10T18:49:52.000Z",
+    "url": "https://techcrunch.com/2026/11/10/openai-rolls-out-new-business-profiles-making-chatgpt-just-a-little-bit-more-like-google/",
     "imageUrl": null,
     "tags": [
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-11-10T05:09:47.711Z"
+    "fetchedAt": "2026-11-11T03:42:43.909Z"
   },
   {
-    "id": "news-1794287387712-23",
-    "title": "U2 Celebrate Brian Eno With Secret Show at London’s Tate Museum: Best Moments",
-    "summary": "The band release their 16th studio album Carnaval de Luze next Friday (Nov. 13).",
-    "category": "industry-news",
-    "source": "Billboard",
+    "id": "news-1794368563909-3",
+    "title": "Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks",
+    "summary": "As participants talk, Claude can draft the plan being discussed, map out a timeline on a whiteboard, answer questions in the meeting chat, and access connected work apps to retrieve information, such as last year's figures.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
     "author": "Unknown",
-    "publishedAt": "2026-11-10T00:00:00.000Z",
-    "url": "https://www.billboard.com/lists/u2-london-best-moments-brian-eno/",
+    "publishedAt": "2026-11-10T17:30:00.000Z",
+    "url": "https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/",
     "imageUrl": null,
     "tags": [],
     "readTime": 1,
-    "fetchedAt": "2026-11-10T05:09:47.712Z"
+    "fetchedAt": "2026-11-11T03:42:43.909Z"
   },
   {
-    "id": "news-1794287387712-24",
-    "title": "Canadian Government Introduces Canada Creative Credit to Support ‘Artistic Production’",
-    "summary": "The Mark Carney government's new federal budget also confirms a $600 million investment to provide relief to the audiovisual sector for 2026-27.",
-    "category": "industry-news",
-    "source": "Billboard",
+    "id": "news-1794368563909-4",
+    "title": "Nvidia CEO Jensen Huang’s affair with alleged Chinese spy: a timeline",
+    "summary": "The affair could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
     "author": "Unknown",
-    "publishedAt": "2026-11-09T23:44:44.000Z",
-    "url": "https://www.billboard.com/pro/canada-government-tax-relief-canadian-artists-budget/",
+    "publishedAt": "2026-11-10T17:04:19.000Z",
+    "url": "https://techcrunch.com/2026/11/10/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
     "imageUrl": null,
     "tags": [
-      "Investment"
+      "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-11-10T05:09:47.712Z"
+    "fetchedAt": "2026-11-11T03:42:43.909Z"
   },
   {
-    "id": "news-1794287387712-25",
-    "title": "Juan Atkins’ Catalog Surges 1,285% on Streaming After Producer’s Death",
-    "summary": "The techno founder died on Oct. 31 at age 64. ",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-11-09T22:50:03.000Z",
-    "url": "https://www.billboard.com/music/music-news/juan-atkins-music-catalog-streams-surge-producer-death-1236378199/",
-    "imageUrl": null,
-    "tags": [
-      "Streaming"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-11-10T05:09:47.712Z"
-  },
-  {
-    "id": "news-1794287387712-26",
-    "title": "15 Great Songs That Use the Wah-Wah Guitar Pedal & Its Funky, Fluid Feel",
-    "summary": "Del Casher, the inventor of the wah-wah pedal, died last month at 88. His creation has had a massive impact on musical history.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-11-09T22:25:22.000Z",
-    "url": "https://www.billboard.com/lists/best-wah-wah-pedal-guitar-songs-del-casher/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-11-10T05:09:47.712Z"
-  },
-  {
-    "id": "news-1794287387712-17",
-    "title": "Billboard changes ‘free’ vs. paid streaming formula on charts – and YouTube is bringing its data back.",
-    "summary": "Billboard announced the change on Monday (November 9), and YouTube confirmed its return later the same day.\nSource",
+    "id": "news-1794368563909-24",
+    "title": "Vevo unveils 2027 DSCVR Artists to Watch list, names Sienna Spiro DSCVR Artist of the Year",
+    "summary": "Vevo kicks off tipping season with prestigious Artists To Watch list\nSource",
     "category": "industry-news",
     "source": "Music Business Worldwide",
     "author": "Unknown",
-    "publishedAt": "2026-11-09T18:13:53.000Z",
-    "url": "https://www.musicbusinessworldwide.com/billboard-changes-free-vs-paid-streaming-formula-on-charts-and-youtube-is-bringing-its-data-back/",
+    "publishedAt": "2026-11-10T17:00:24.000Z",
+    "url": "https://www.musicbusinessworldwide.com/vevo-unveils-2027-dscvr-artists-to-watch-list-names-sienna-spiro-dscvr-artist-of-the-year/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-11-11T03:42:43.909Z"
+  },
+  {
+    "id": "news-1794368563909-5",
+    "title": "Google broadens its AI hardware portfolio with two new specialized chips",
+    "summary": "Google's new tensor processing units (TPUs) broaden its chip portfolio to more use cases: confidential model training and more memory capacity.  ",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-11-10T15:54:08.000Z",
+    "url": "https://techcrunch.com/2026/11/10/google-broadens-its-ai-hardware-portfolio-with-two-new-specialized-chips/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-11-11T03:42:43.909Z"
+  },
+  {
+    "id": "news-1794368563909-25",
+    "title": "Barry Weiss’ Bossy Songs extends partnership with Sony Music Publishing",
+    "summary": "'Barry and team have a proven track record of identifying and championing exceptional talent at Bossy Songs,' said SMP's Katie Welle\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-11-10T15:43:43.000Z",
+    "url": "https://www.musicbusinessworldwide.com/barry-weiss-bossy-songs-extends-partnership-with-sony-music-publishing/",
     "imageUrl": null,
     "tags": [
       "AI",
-      "Streaming"
+      "Partnership"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-11-10T05:09:47.712Z"
+    "fetchedAt": "2026-11-11T03:42:43.909Z"
   },
   {
-    "id": "news-1794287387711-1",
-    "title": "Jensen Huang’s affair with alleged Chinese spy puts Nvidia’s China ambitions under scrutiny",
-    "summary": "Jensen Huang’s alleged affair with a suspected Chinese spy threatens to complicate Nvidia’s lobbying efforts to loosen U.S. chip export restrictions and maintain access to China’s lucrative AI market.",
-    "category": "trends-analysis",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-11-09T18:09:52.000Z",
-    "url": "https://techcrunch.com/2026/11/09/jensen-huangs-affair-with-alleged-chinese-spy-puts-nvidias-china-ambitions-under-scrutiny/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-11-10T05:09:47.711Z"
-  },
-  {
-    "id": "news-1794287387711-2",
-    "title": "Medium’s new TK app brings AI assistance directly into the writing process",
-    "summary": "Medium's new writing app embraces AI-assisted writing, despite growing controversy over the technology's role in publishing.",
+    "id": "news-1794368563909-6",
+    "title": "Meta’s AI agent Muse lands on Apple Watch and Android Wear OS",
+    "summary": "Users can now interact with Meta’s AI assistant through voice calls, text messages, or dictation on their Apple Watch.",
     "category": "ai-research",
     "source": "TechCrunch AI",
     "author": "Unknown",
-    "publishedAt": "2026-11-09T16:12:28.000Z",
-    "url": "https://techcrunch.com/2026/11/09/mediums-new-tk-app-brings-ai-assistance-directly-into-the-writing-process/",
+    "publishedAt": "2026-11-10T15:29:30.000Z",
+    "url": "https://techcrunch.com/2026/11/10/metas-ai-agent-muse-lands-on-apple-watch-and-wear-os/",
     "imageUrl": null,
     "tags": [
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-11-10T05:09:47.711Z"
+    "fetchedAt": "2026-11-11T03:42:43.909Z"
   },
   {
-    "id": "news-1794287387712-18",
-    "title": "Warner Music France fully acquires Délicieuse Musique, the Bordeaux-based label group with a roster of 1,200+ artists",
-    "summary": "Délicieuse's portfolio includes the labels Délicieuse Records, Nice Guys, Noire & Blanche, Egoplanet, Crosswalk, and Hip Dozer.\nSource",
-    "category": "industry-news",
-    "source": "Music Business Worldwide",
+    "id": "news-1794368563909-13",
+    "title": "Anthropic Launches Claude Fable 5.2 and Mythos 5.2: Same Model, Different Safeguards",
+    "summary": "Anthropic released Claude Fable 5.2 and Claude Mythos 5.2, one model with two safeguard levels. Fable 5.2 scores 49.1% on FrontierCode 2.0, costs $8/$40 per million tokens, and ships with a 1M-token context window.\nThe post Anthropic Launches Claude Fable 5.2 and Mythos 5.2: Same Model, Different Safeguards appeared first on MarkTechPost.\n",
+    "category": "ai-research",
+    "source": "MarkTechPost",
     "author": "Unknown",
-    "publishedAt": "2026-11-09T12:56:20.000Z",
-    "url": "https://www.musicbusinessworldwide.com/warner-music-france-invests-in-delicieuse-musique-the-bordeaux-based-label-group-with-a-roster-of-1200-artists/",
+    "publishedAt": "2026-11-10T14:59:09.000Z",
+    "url": "https://www.marktechpost.com/2026/11/10/anthropic-claude-fable-5-2-mythos-5-2-release/",
     "imageUrl": null,
     "tags": [],
     "readTime": 1,
-    "fetchedAt": "2026-11-10T05:09:47.712Z"
+    "fetchedAt": "2026-11-11T03:42:43.909Z"
   },
   {
-    "id": "news-1794287387712-19",
-    "title": "SoundExchange’s unpaid royalties lawsuit against Music Choice heads back to court, more than seven years after it was filed",
-    "summary": "The case was filed in April 2019 and has been largely on hold since December 2021.\nSource",
+    "id": "news-1794368563909-26",
+    "title": "Universal Music’s Jesús López awarded Honorary Academician title by the Spanish Music Academy",
+    "summary": "López received the distinction at a ceremony at Madrid's Teatro Real on Friday (November 6).\nSource",
     "category": "industry-news",
     "source": "Music Business Worldwide",
     "author": "Unknown",
-    "publishedAt": "2026-11-09T12:55:48.000Z",
-    "url": "https://www.musicbusinessworldwide.com/soundexchanges-unpaid-royalties-lawsuit-against-music-choice-heads-back-to-court-more-than-seven-years-after-it-was-filed/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-11-10T05:09:47.712Z"
-  },
-  {
-    "id": "news-1794287387712-20",
-    "title": "JYP Entertainment sues distributor OneSync and its CEO, alleging they copied Stray Kids member HAN’s track and uploaded it to streaming services as ‘yungzzz’",
-    "summary": "The defendants allegedly copied a track by HAN from YouTube and uploaded it to streaming services under the artist name 'yungzzz' without permission.\nSource",
-    "category": "industry-news",
-    "source": "Music Business Worldwide",
-    "author": "Unknown",
-    "publishedAt": "2026-11-09T12:55:03.000Z",
-    "url": "https://www.musicbusinessworldwide.com/jyp-entertainment-sues-distributor-onesync-and-its-ceo-alleging-they-copied-stray-kids-member-hans-track-and-uploaded-it-to-streaming-services-as-yungzzz/",
-    "imageUrl": null,
-    "tags": [
-      "AI",
-      "Streaming"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-11-10T05:09:47.712Z"
-  },
-  {
-    "id": "news-1794287387711-13",
-    "title": "Authors Can Defend Against AI Allegations With ‘Paper Trail’ Tools. Is It Enough?",
-    "summary": "As the publishing industry wrestles with paranoia over the provenance of manuscripts, writers are caught in an impossible bind.",
-    "category": "tech-innovation",
-    "source": "Wired AI",
-    "author": "Unknown",
-    "publishedAt": "2026-11-09T11:00:00.000Z",
-    "url": "https://www.wired.com/story/authors-can-defend-against-ai-allegations-with-paper-trail-tools/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-11-10T05:09:47.711Z"
-  },
-  {
-    "id": "news-1794287387711-7",
-    "title": "Reason Machines Open-Sources Aspen, a Git Server Built for AI Agents",
-    "summary": "Reason Machines has open-sourced Aspen, a self-hosted Git server for AI agents. It follows OpenAI’s Pando design and sustained 567 pushes per second on one 8-core server in the company’s own test.\nThe post Reason Machines Open-Sources Aspen, a Git Server Built for AI Agents appeared first on MarkTechPost.\n",
-    "category": "ai-research",
-    "source": "MarkTechPost",
-    "author": "Unknown",
-    "publishedAt": "2026-11-09T08:20:20.000Z",
-    "url": "https://www.marktechpost.com/2026/11/09/reason-machines-aspen-open-source-git-server-ai-agents/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-11-10T05:09:47.711Z"
-  },
-  {
-    "id": "news-1794287387711-8",
-    "title": "0sec Labs Open-Sources 0, an AI Security Harness With Web UI, CLI and MCP",
-    "summary": "0sec Labs has open-sourced 0, an AI security harness for code review, pentesting, reverse engineering and fixes. It runs locally through a browser console, a headless CLI and an MCP server, with your own model provider.\nThe post 0sec Labs Open-Sources 0, an AI Security Harness With Web UI, CLI and MCP appeared first on MarkTechPost.\n",
-    "category": "ai-research",
-    "source": "MarkTechPost",
-    "author": "Unknown",
-    "publishedAt": "2026-11-09T07:55:18.000Z",
-    "url": "https://www.marktechpost.com/2026/11/08/0sec-labs-open-sources-0-ai-security-harness/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-11-10T05:09:47.711Z"
-  },
-  {
-    "id": "news-1794287387711-9",
-    "title": "Google AI Releases Elephant-Goldfish Model Plugin for Spec-First Coding",
-    "summary": "Google's Elephant-Goldfish Model plugin makes coding agents draft specs, then runs 5 zero-context review stages before any code.\nThe post Google AI Releases Elephant-Goldfish Model Plugin for Spec-First Coding appeared first on MarkTechPost.\n",
-    "category": "tech-innovation",
-    "source": "MarkTechPost",
-    "author": "Unknown",
-    "publishedAt": "2026-11-08T10:46:18.000Z",
-    "url": "https://www.marktechpost.com/2026/11/08/google-elephant-goldfish-model-plugin-spec-review-coding-agents/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-11-10T05:09:47.711Z"
-  },
-  {
-    "id": "news-1794287387711-14",
-    "title": "World Models Will Soon Be Inescapable. Here’s What You Need to Know",
-    "summary": "Moving AI from text to 3D space, world models simulate real-world physics to teach robots and autonomous cars how to navigate reality.",
-    "category": "tech-innovation",
-    "source": "Wired AI",
-    "author": "Unknown",
-    "publishedAt": "2026-11-08T10:00:00.000Z",
-    "url": "https://www.wired.com/story/world-models-will-soon-be-inescapable-what-you-need-to-know/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-11-10T05:09:47.711Z"
-  },
-  {
-    "id": "news-1794287387711-10",
-    "title": "Buoyant Releases Kinference: An Open Source Inference Control Plane for Kubernetes and vLLM",
-    "summary": "Buoyant has released Kinference, an Apache 2.0 inference control plane for vLLM on Kubernetes. It adds declarative routing policies, KV-cache-aware load balancing and per-tenant metrics, and cut median TTFT 95% in Buoyant’s own benchmark.\nThe post Buoyant Releases Kinference: An Open Source Inference Control Plane for Kubernetes and vLLM appeared first on MarkTechPost.\n",
-    "category": "ai-research",
-    "source": "MarkTechPost",
-    "author": "Unknown",
-    "publishedAt": "2026-11-07T08:16:33.000Z",
-    "url": "https://www.marktechpost.com/2026/11/07/buoyant-kinference-open-source-inference-control-plane-kubernetes-vllm/",
+    "publishedAt": "2026-11-10T14:32:33.000Z",
+    "url": "https://www.musicbusinessworldwide.com/universal-musics-jesus-lopez-awarded-honorary-academic-title-by-the-spanish-music-academy/",
     "imageUrl": null,
     "tags": [],
     "readTime": 1,
-    "fetchedAt": "2026-11-10T05:09:47.711Z"
+    "fetchedAt": "2026-11-11T03:42:43.909Z"
   },
   {
-    "id": "news-1794287387711-3",
-    "title": "Crusoe sells troubled Wyoming data center project to Google",
-    "summary": "The deal highlights the challenges of developing massive AI data centers.",
+    "id": "news-1794368563909-7",
+    "title": "Adobe brings AI agents and new creative tools to Photoshop, Premiere, and Firefly",
+    "summary": "Adobe is taking on Figma with a new prototype builder tool in Firefly.",
     "category": "ai-research",
     "source": "TechCrunch AI",
     "author": "Unknown",
-    "publishedAt": "2026-11-07T01:40:28.000Z",
-    "url": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
+    "publishedAt": "2026-11-10T14:05:10.000Z",
+    "url": "https://techcrunch.com/2026/11/10/adobe-adds-more-ai-to-its-products-and-launches-an-mcp/",
     "imageUrl": null,
     "tags": [
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-11-10T05:09:47.711Z"
+    "fetchedAt": "2026-11-11T03:42:43.909Z"
+  },
+  {
+    "id": "news-1794368563909-8",
+    "title": "After challenging Google’s Android with Cyanogen, its co-founder takes aim at Windows for AI era",
+    "summary": "Kora is set to launch as a free-to-use alternative to Windows, targeting users who rely heavily on AI models and agents.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-11-10T14:00:00.000Z",
+    "url": "https://techcrunch.com/2026/11/10/after-challenging-googles-android-with-cyanogen-its-co-founder-takes-aim-at-windows-for-ai-era/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-11-11T03:42:43.909Z"
+  },
+  {
+    "id": "news-1794368563909-9",
+    "title": "Spotify’s AI DJ gets new voices, personalities, and an option for less chatter",
+    "summary": "Spotify Premium users can now customize their AI DJ with new voices with different personalities, or turn off the commentary between songs.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-11-10T14:00:00.000Z",
+    "url": "https://techcrunch.com/2026/11/10/spotifys-ai-dj-gets-new-voices-personalities-and-an-option-for-less-chatter/",
+    "imageUrl": null,
+    "tags": [
+      "Spotify",
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-11-11T03:42:43.909Z"
   }
 ]

@@ -1,16 +1,13 @@
 {
-  "lastUpdated": "2026-11-10T05:09:47.713Z",
+  "lastUpdated": "2026-11-11T03:42:43.910Z",
   "totalArticles": 20,
   "categories": {
-    "tech-innovation": 5,
-    "ai-research": 6,
     "industry-news": 8,
-    "trends-analysis": 1
+    "ai-research": 12
   },
   "sources": [
-    "Wired AI",
-    "TechCrunch AI",
     "Billboard",
+    "TechCrunch AI",
     "Music Business Worldwide",
     "MarkTechPost"
   ],
