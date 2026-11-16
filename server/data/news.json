@@ -1,112 +1,151 @@
 [
   {
-    "id": "news-1794714321491-28",
-    "title": "Filipino Singer Carmelle Storms to Victory in Eurovision Asia Debut in Bangkok",
-    "summary": "The 19-year-old said her winning song celebrated female empowerment and was intended as \"a tribute to all Filipino women.\"",
+    "id": "news-1794800777496-28",
+    "title": "Karol G Postpones Show in Mexico City ‘Due to Health Reasons’: Here’s the New Date",
+    "summary": "The Colombian superstar’s concert, part of her Viajando Por El Mundo Tropitour, was originally scheduled for Sunday (Nov. 15).",
     "category": "industry-news",
     "source": "Billboard",
     "author": "Unknown",
-    "publishedAt": "2026-11-15T02:26:10.000Z",
-    "url": "https://www.billboard.com/music/music-news/carmelle-eurovision-asia-winner-2026-1236382296/",
+    "publishedAt": "2026-11-16T03:04:18.000Z",
+    "url": "https://www.billboard.com/music/latin/karol-g-postpones-show-mexico-city-new-date-1236382627/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-11-16T03:46:17.496Z"
+  },
+  {
+    "id": "news-1794800777494-0",
+    "title": "Apple launches new app to study how people use AI for health",
+    "summary": "Apple's new app for a study will answer everyday medical questions",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-11-16T01:30:00.000Z",
+    "url": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/",
+    "imageUrl": null,
+    "tags": [
+      "AI",
+      "Research"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-11-16T03:46:17.495Z"
+  },
+  {
+    "id": "news-1794800777496-29",
+    "title": "Fans Choose U2 & Dolly Parton’s ‘Torn’ as This Week’s Favorite New Music",
+    "summary": "Parton's posthumous collaboration with U2 brought in 40% of the vote.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-11-16T00:26:34.000Z",
+    "url": "https://www.billboard.com/music/music-news/u2-dolly-parton-torn-best-new-music-poll-results-1236382556/",
+    "imageUrl": null,
+    "tags": [
+      "Partnership"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-11-16T03:46:17.496Z"
+  },
+  {
+    "id": "news-1794800777495-1",
+    "title": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
+    "summary": "Bharat Semi says it has secured design wins for its AI-enabled sensor technology with companies including General Atomics.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-11-15T23:30:00.000Z",
+    "url": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/",
+    "imageUrl": null,
+    "tags": [
+      "AI",
+      "Startup"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-11-16T03:46:17.495Z"
+  },
+  {
+    "id": "news-1794800777496-30",
+    "title": "Here’s How to Watch ‘Darius Rucker: They Called Me Hootie’ Online for Free",
+    "summary": "The new documentary about the singer-songwriter is available to stream starting on Monday (Nov. 16).",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-11-15T23:05:55.000Z",
+    "url": "https://www.billboard.com/culture/product-recommendations/darius-rucker-they-called-me-hootie-hulu-stream-online-free-1236382546/",
     "imageUrl": null,
     "tags": [
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-11-15T03:45:21.491Z"
+    "fetchedAt": "2026-11-16T03:46:17.496Z"
   },
   {
-    "id": "news-1794714321491-29",
-    "title": "Richard Sterban, Oak Ridge Boys Bass Singer Who Helped Make ‘Elvira’ a Hit, Dies at 83",
-    "summary": "Known for his signature \"oom poppa, mow mow\" bass line on \"Elvira,\" Sterban had 17 No. 1s on the Hot Country Songs chart with The Oak Ridge Boys, plus two top 40 hits on the all-genre Hot 100.",
-    "category": "industry-news",
-    "source": "Billboard",
+    "id": "news-1794800777495-2",
+    "title": "Is bad news for Jensen Huang also bad news for the AI industry?",
+    "summary": "\"Jensen is Nvidia, right? And so much of this economy is riding on Nvidia.\"",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
     "author": "Unknown",
-    "publishedAt": "2026-11-15T01:57:44.000Z",
-    "url": "https://www.billboard.com/music/country/richard-sterban-death-oak-ridge-boys-1236382272/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-11-15T03:45:21.491Z"
-  },
-  {
-    "id": "news-1794714321491-30",
-    "title": "John Mulaney and Phoebe Bridgers on ‘SNL’: Here’s Where to Watch ‘Saturday Night Live’ Online for Free",
-    "summary": "Livestream the comedian host and the singer-songwriter perform on Nov. 14 — watch live online for free.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-11-15T01:30:00.000Z",
-    "url": "https://www.billboard.com/culture/product-recommendations/watch-snl-2026-john-mulaney-phoebe-bridgers-live-online-1236380661/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-11-15T03:45:21.491Z"
-  },
-  {
-    "id": "news-1794714321491-31",
-    "title": "The Latin Recording Academy Celebrates Leading Ladies of Entertainment & More Uplifting Moments",
-    "summary": "Billboard rounds up inspiring news in Latin music from the past week.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-11-14T21:25:03.000Z",
-    "url": "https://www.billboard.com/music/latin/latin-grammy-leading-ladies-entertainment-uplifting-moments-1236382250/",
+    "publishedAt": "2026-11-15T21:56:35.000Z",
+    "url": "https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry/",
     "imageUrl": null,
     "tags": [
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-11-15T03:45:21.491Z"
+    "fetchedAt": "2026-11-16T03:46:17.495Z"
   },
   {
-    "id": "news-1794714321491-32",
-    "title": "‘Grand Theft Auto VI’ Soundtrack: See the Full 34-Song Tracklist",
-    "summary": "The album arrives Nov. 19 alongside the long-awaited video game.",
+    "id": "news-1794800777496-31",
+    "title": "Chart Rewind: In 1986, Alabama Had ‘The Touch’ at No. 1",
+    "summary": "The band’s 1986 LP marked its seventh straight multi-week Top Country Albums leader.",
     "category": "industry-news",
     "source": "Billboard",
     "author": "Unknown",
-    "publishedAt": "2026-11-14T20:45:56.000Z",
-    "url": "https://www.billboard.com/music/music-news/gta-6-album-tracklist-grand-theft-auto-vi-soundtrack-1236382244/",
+    "publishedAt": "2026-11-15T20:05:36.000Z",
+    "url": "https://www.billboard.com/music/chart-beat/alabama-the-touch-chart-rewind-1986-1236382521/",
     "imageUrl": null,
     "tags": [
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-11-15T03:45:21.491Z"
+    "fetchedAt": "2026-11-16T03:46:17.496Z"
   },
   {
-    "id": "news-1794714321491-33",
-    "title": "Simple Plan, Hoobastank & More Take Warped Tour Mid-Flight Amid FAA Ground Stop",
-    "summary": "The Used and LØLØ also joined Southwest’s Live at 35 concert series aboard a flight to Orlando, Fla.",
-    "category": "industry-news",
-    "source": "Billboard",
+    "id": "news-1794800777495-18",
+    "title": "AI DJs Completely Kill My Groove",
+    "summary": "YouTube Music and Spotify want synthetic hosts to curate your playlists. Their awkward banter and bogus song trivia are ruining the vibe.",
+    "category": "tech-innovation",
+    "source": "Wired AI",
     "author": "Unknown",
-    "publishedAt": "2026-11-14T18:28:41.000Z",
-    "url": "https://www.billboard.com/music/rock/simple-plan-hoobastank-warped-tour-flight-faa-ground-stop-1236382214/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-11-15T03:45:21.491Z"
-  },
-  {
-    "id": "news-1794714321491-34",
-    "title": "Where to Watch the 2026 Nickelodeon Kids’ Choice Awards for Free Online",
-    "summary": "The annual awards show will take place in Los Angeles on Saturday, Nov. 14, from 5:00 p.m. to 6:30 p.m. PT, with several streaming platforms offering free trials for viewers at home.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-11-14T18:00:00.000Z",
-    "url": "https://www.billboard.com/culture/product-recommendations/where-to-watch-2026-kids-choice-awards-free-online-1236382151/",
+    "publishedAt": "2026-11-15T12:00:00.000Z",
+    "url": "https://www.wired.com/story/ai-djs-completely-kill-my-groove/",
     "imageUrl": null,
     "tags": [
-      "Streaming"
+      "Spotify",
+      "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-11-15T03:45:21.491Z"
+    "fetchedAt": "2026-11-16T03:46:17.496Z"
   },
   {
-    "id": "news-1794714321489-0",
+    "id": "news-1794800777496-19",
+    "title": "This AI Tamagotchi Turns Everyday Objects Into Needy Virtual Pets",
+    "summary": "A Carnegie Mellon student’s tiny E Ink gadgets, called OATs, give houseplants, skateboards, and dumbbells expressive personalities to nudge you toward better habits.",
+    "category": "tech-innovation",
+    "source": "Wired AI",
+    "author": "Unknown",
+    "publishedAt": "2026-11-15T11:00:00.000Z",
+    "url": "https://www.wired.com/story/this-ai-tamagotchi-oats-turns-everyday-objects-into-needy-virtual-pets/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-11-16T03:46:17.496Z"
+  },
+  {
+    "id": "news-1794800777495-3",
     "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
     "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
     "category": "ai-research",
@@ -120,10 +159,10 @@
       "Startup"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-11-15T03:45:21.490Z"
+    "fetchedAt": "2026-11-16T03:46:17.495Z"
   },
   {
-    "id": "news-1794714321490-12",
+    "id": "news-1794800777495-12",
     "title": "Cmpnd Releases dspy-wsp: Weight-Space Programming Comes to DSPy",
     "summary": "Cmpnd released dspy-wsp, a prototype DSPy optimizer for weight-space programming. A frontier LLM reads a small model’s weights, edits them in a sandbox, and tests each change, with no gradients and about $5 to $10 per run.\nThe post Cmpnd Releases dspy-wsp: Weight-Space Programming Comes to DSPy appeared first on MarkTechPost.\n",
     "category": "ai-research",
@@ -134,10 +173,10 @@
     "imageUrl": null,
     "tags": [],
     "readTime": 1,
-    "fetchedAt": "2026-11-15T03:45:21.490Z"
+    "fetchedAt": "2026-11-16T03:46:17.495Z"
   },
   {
-    "id": "news-1794714321490-19",
+    "id": "news-1794800777496-20",
     "title": "Beware the New AI-Fueled Ransomware Boom",
     "summary": "Fully automated ransomware hasn’t arrived—yet. But seemingly unsophisticated attackers are using AI tools to wreak havoc.",
     "category": "tech-innovation",
@@ -150,10 +189,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-11-15T03:45:21.490Z"
+    "fetchedAt": "2026-11-16T03:46:17.496Z"
   },
   {
-    "id": "news-1794714321490-20",
+    "id": "news-1794800777496-21",
     "title": "No Pilots. Few Air Traffic Controllers. What Could Go Wrong?",
     "summary": "Normally, aviation is slow to embrace new technology—but AI has come for the skies.",
     "category": "tech-innovation",
@@ -166,10 +205,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-11-15T03:45:21.490Z"
+    "fetchedAt": "2026-11-16T03:46:17.496Z"
   },
   {
-    "id": "news-1794714321490-13",
+    "id": "news-1794800777495-13",
     "title": "Stanford Research Open-Sources Memorilla, a Latent Memory Module for Frozen LLMs",
     "summary": "Stanford researchers released Memorilla, an open-source memory system that compresses a document collection into 16 memory tokens for a frozen Qwen3-8B. It reaches 84.33% on FactKG using 108x fewer document tokens than full context.\nThe post Stanford Research Open-Sources Memorilla, a Latent Memory Module for Frozen LLMs appeared first on MarkTechPost.\n",
     "category": "ai-research",
@@ -182,10 +221,10 @@
       "Research"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-11-15T03:45:21.490Z"
+    "fetchedAt": "2026-11-16T03:46:17.495Z"
   },
   {
-    "id": "news-1794714321490-24",
+    "id": "news-1794800777496-24",
     "title": "Sony Music renews multi-year licensing deal with China’s NetEase Cloud Music",
     "summary": "The multi-year deal, announced on Friday (November 13), means NetEase Cloud Music has now re-signed with all three major music companies in 2026\nSource",
     "category": "industry-news",
@@ -198,10 +237,10 @@
       "Copyright"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-11-15T03:45:21.491Z"
+    "fetchedAt": "2026-11-16T03:46:17.496Z"
   },
   {
-    "id": "news-1794714321491-25",
+    "id": "news-1794800777496-25",
     "title": "Az Cohen’s AZTEC, a joint venture label with Believe, has signed its first artist",
     "summary": "Believe unveiled AZTEC in May, describing it as its first JV in the United States.\nSource",
     "category": "industry-news",
@@ -212,10 +251,10 @@
     "imageUrl": null,
     "tags": [],
     "readTime": 1,
-    "fetchedAt": "2026-11-15T03:45:21.491Z"
+    "fetchedAt": "2026-11-16T03:46:17.496Z"
   },
   {
-    "id": "news-1794714321491-26",
+    "id": "news-1794800777496-26",
     "title": "Symphonic inks deal to bring ‘hundreds of thousands’ of songs to Roblox",
     "summary": "According to Symphonic, artists will receive royalties for all plays of their music on Roblox\nSource",
     "category": "industry-news",
@@ -226,10 +265,10 @@
     "imageUrl": null,
     "tags": [],
     "readTime": 1,
-    "fetchedAt": "2026-11-15T03:45:21.491Z"
+    "fetchedAt": "2026-11-16T03:46:17.496Z"
   },
   {
-    "id": "news-1794714321490-14",
+    "id": "news-1794800777495-14",
     "title": "Vercel Releases UI SDK: 50+ UI Behaviors for AI Coding Agents",
     "summary": "Vercel Labs released Vercel UI SDK, an Apache-2.0 beta library of 50+ UI behaviors. Coding agents compose them into accessible components for React, Vue, Svelte, Solid and Web Components, with a bridge for direct UI control.\nThe post Vercel Releases UI SDK: 50+ UI Behaviors for AI Coding Agents appeared first on MarkTechPost.\n",
     "category": "ai-research",
@@ -242,10 +281,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-11-15T03:45:21.490Z"
+    "fetchedAt": "2026-11-16T03:46:17.495Z"
   },
   {
-    "id": "news-1794714321491-27",
+    "id": "news-1794800777496-27",
     "title": "Reservoir expands copyright lawsuits against Suno and Anthropic to more than 2,500 songs combined",
     "summary": "Reservoir first sued the two AI companies in October\nSource",
     "category": "industry-news",
@@ -259,10 +298,10 @@
       "Copyright"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-11-15T03:45:21.491Z"
+    "fetchedAt": "2026-11-16T03:46:17.496Z"
   },
   {
-    "id": "news-1794714321490-1",
+    "id": "news-1794800777495-4",
     "title": "AI agent startup LangChain hits $3B valuation",
     "summary": "LangChain now claims 7,000 customers of its model and platform agnostic agent management tool LangSmith. ",
     "category": "ai-research",
@@ -276,39 +315,6 @@
       "Startup"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-11-15T03:45:21.490Z"
-  },
-  {
-    "id": "news-1794714321490-2",
-    "title": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!",
-    "summary": "New research shows the most advanced AI models from China were trained on banned Nvidia chips.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-11-13T18:40:30.000Z",
-    "url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
-    "imageUrl": null,
-    "tags": [
-      "AI",
-      "Research"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-11-15T03:45:21.490Z"
-  },
-  {
-    "id": "news-1794714321490-15",
-    "title": "Best AI Video Generation Models in 2026: Elo, Price per Second, Open Weights",
-    "summary": "The AI video leaderboard looks very different from 12 months ago. Native audio is now table stakes. Clips run 15–30 seconds. And an open-weights model sits in the top 3. This ranking (as of Nov 13, 2026) uses one quality signal: blind human-preference Elo from the Artificial Analysis Video Arena. We pair it with API […]\nThe post Best AI Video Generation Models in 2026: Elo, Price per Second, Open Weights appeared first on MarkTechPost.\n",
-    "category": "ai-research",
-    "source": "MarkTechPost",
-    "author": "Unknown",
-    "publishedAt": "2026-11-13T17:23:51.000Z",
-    "url": "https://www.marktechpost.com/2026/11/13/best-ai-video-generation-models-2026/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-11-15T03:45:21.490Z"
+    "fetchedAt": "2026-11-16T03:46:17.495Z"
   }
 ]
