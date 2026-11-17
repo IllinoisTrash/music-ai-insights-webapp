@@ -1,320 +1,318 @@
 [
   {
-    "id": "news-1794800777496-28",
-    "title": "Karol G Postpones Show in Mexico City ‘Due to Health Reasons’: Here’s the New Date",
-    "summary": "The Colombian superstar’s concert, part of her Viajando Por El Mundo Tropitour, was originally scheduled for Sunday (Nov. 15).",
+    "id": "news-1794894040127-30",
+    "title": "HYBE, Home to BTS and KATSEYE, Forms Strategic Partnership With CAA",
+    "summary": "The new partnership leverages HYBE’s artist roster alongside CAA's expertise in live experiences, brand partnerships, content and more.",
     "category": "industry-news",
     "source": "Billboard",
     "author": "Unknown",
-    "publishedAt": "2026-11-16T03:04:18.000Z",
-    "url": "https://www.billboard.com/music/latin/karol-g-postpones-show-mexico-city-new-date-1236382627/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-11-16T03:46:17.496Z"
-  },
-  {
-    "id": "news-1794800777494-0",
-    "title": "Apple launches new app to study how people use AI for health",
-    "summary": "Apple's new app for a study will answer everyday medical questions",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-11-16T01:30:00.000Z",
-    "url": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/",
-    "imageUrl": null,
-    "tags": [
-      "AI",
-      "Research"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-11-16T03:46:17.495Z"
-  },
-  {
-    "id": "news-1794800777496-29",
-    "title": "Fans Choose U2 & Dolly Parton’s ‘Torn’ as This Week’s Favorite New Music",
-    "summary": "Parton's posthumous collaboration with U2 brought in 40% of the vote.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-11-16T00:26:34.000Z",
-    "url": "https://www.billboard.com/music/music-news/u2-dolly-parton-torn-best-new-music-poll-results-1236382556/",
+    "publishedAt": "2026-11-17T01:00:00.000Z",
+    "url": "https://www.billboard.com/pro/hybe-bts-katseye-partnership-caa/",
     "imageUrl": null,
     "tags": [
       "Partnership"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-11-16T03:46:17.496Z"
+    "fetchedAt": "2026-11-17T05:40:40.127Z"
   },
   {
-    "id": "news-1794800777495-1",
-    "title": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
-    "summary": "Bharat Semi says it has secured design wins for its AI-enabled sensor technology with companies including General Atomics.",
-    "category": "ai-research",
+    "id": "news-1794894040125-0",
+    "title": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
+    "summary": "Three months since introducing its product, AI cybersecurity startup Corba has raised a $125 million Series A at a $1 billion valuation led by NEA.",
+    "category": "industry-news",
     "source": "TechCrunch AI",
     "author": "Unknown",
-    "publishedAt": "2026-11-15T23:30:00.000Z",
-    "url": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/",
+    "publishedAt": "2026-11-16T23:32:32.000Z",
+    "url": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/",
     "imageUrl": null,
     "tags": [
       "AI",
       "Startup"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-11-16T03:46:17.495Z"
+    "fetchedAt": "2026-11-17T05:40:40.125Z"
   },
   {
-    "id": "news-1794800777496-30",
-    "title": "Here’s How to Watch ‘Darius Rucker: They Called Me Hootie’ Online for Free",
-    "summary": "The new documentary about the singer-songwriter is available to stream starting on Monday (Nov. 16).",
+    "id": "news-1794894040127-31",
+    "title": "Miley Cyrus Reacts to Shared Grammy Nod With Dolly Parton: ‘A Beautiful Way to Honor Her Enormous Heart’",
+    "summary": "\"My Aunt Dolly is one of the greatest songwriters the world has ever known,\" the pop star wrote.",
     "category": "industry-news",
     "source": "Billboard",
     "author": "Unknown",
-    "publishedAt": "2026-11-15T23:05:55.000Z",
-    "url": "https://www.billboard.com/culture/product-recommendations/darius-rucker-they-called-me-hootie-hulu-stream-online-free-1236382546/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-11-16T03:46:17.496Z"
-  },
-  {
-    "id": "news-1794800777495-2",
-    "title": "Is bad news for Jensen Huang also bad news for the AI industry?",
-    "summary": "\"Jensen is Nvidia, right? And so much of this economy is riding on Nvidia.\"",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-11-15T21:56:35.000Z",
-    "url": "https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-11-16T03:46:17.495Z"
-  },
-  {
-    "id": "news-1794800777496-31",
-    "title": "Chart Rewind: In 1986, Alabama Had ‘The Touch’ at No. 1",
-    "summary": "The band’s 1986 LP marked its seventh straight multi-week Top Country Albums leader.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-11-15T20:05:36.000Z",
-    "url": "https://www.billboard.com/music/chart-beat/alabama-the-touch-chart-rewind-1986-1236382521/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-11-16T03:46:17.496Z"
-  },
-  {
-    "id": "news-1794800777495-18",
-    "title": "AI DJs Completely Kill My Groove",
-    "summary": "YouTube Music and Spotify want synthetic hosts to curate your playlists. Their awkward banter and bogus song trivia are ruining the vibe.",
-    "category": "tech-innovation",
-    "source": "Wired AI",
-    "author": "Unknown",
-    "publishedAt": "2026-11-15T12:00:00.000Z",
-    "url": "https://www.wired.com/story/ai-djs-completely-kill-my-groove/",
-    "imageUrl": null,
-    "tags": [
-      "Spotify",
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-11-16T03:46:17.496Z"
-  },
-  {
-    "id": "news-1794800777496-19",
-    "title": "This AI Tamagotchi Turns Everyday Objects Into Needy Virtual Pets",
-    "summary": "A Carnegie Mellon student’s tiny E Ink gadgets, called OATs, give houseplants, skateboards, and dumbbells expressive personalities to nudge you toward better habits.",
-    "category": "tech-innovation",
-    "source": "Wired AI",
-    "author": "Unknown",
-    "publishedAt": "2026-11-15T11:00:00.000Z",
-    "url": "https://www.wired.com/story/this-ai-tamagotchi-oats-turns-everyday-objects-into-needy-virtual-pets/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-11-16T03:46:17.496Z"
-  },
-  {
-    "id": "news-1794800777495-3",
-    "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
-    "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-11-14T17:30:00.000Z",
-    "url": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
-    "imageUrl": null,
-    "tags": [
-      "AI",
-      "Startup"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-11-16T03:46:17.495Z"
-  },
-  {
-    "id": "news-1794800777495-12",
-    "title": "Cmpnd Releases dspy-wsp: Weight-Space Programming Comes to DSPy",
-    "summary": "Cmpnd released dspy-wsp, a prototype DSPy optimizer for weight-space programming. A frontier LLM reads a small model’s weights, edits them in a sandbox, and tests each change, with no gradients and about $5 to $10 per run.\nThe post Cmpnd Releases dspy-wsp: Weight-Space Programming Comes to DSPy appeared first on MarkTechPost.\n",
-    "category": "ai-research",
-    "source": "MarkTechPost",
-    "author": "Unknown",
-    "publishedAt": "2026-11-14T16:45:48.000Z",
-    "url": "https://www.marktechpost.com/2026/11/14/cmpnd-dspy-wsp-weight-space-programming/",
+    "publishedAt": "2026-11-16T22:52:05.000Z",
+    "url": "https://www.billboard.com/music/awards/miley-cyrus-reacts-dolly-parton-collab-2027-grammy-nod-1236383506/",
     "imageUrl": null,
     "tags": [],
     "readTime": 1,
-    "fetchedAt": "2026-11-16T03:46:17.495Z"
+    "fetchedAt": "2026-11-17T05:40:40.127Z"
   },
   {
-    "id": "news-1794800777496-20",
-    "title": "Beware the New AI-Fueled Ransomware Boom",
-    "summary": "Fully automated ransomware hasn’t arrived—yet. But seemingly unsophisticated attackers are using AI tools to wreak havoc.",
-    "category": "tech-innovation",
-    "source": "Wired AI",
+    "id": "news-1794894040127-32",
+    "title": "Rosalía Reacts to Her 9 Grammy Nominations: See How She Celebrated",
+    "summary": "The news comes on the heels of the Spanish artist winning big at the Latin Grammys.",
+    "category": "industry-news",
+    "source": "Billboard",
     "author": "Unknown",
-    "publishedAt": "2026-11-14T13:00:00.000Z",
-    "url": "https://www.wired.com/story/beware-the-new-ai-fueled-ransomware-boom/",
+    "publishedAt": "2026-11-16T22:51:05.000Z",
+    "url": "https://www.billboard.com/music/latin/rosalia-lux-grammys-nominations-reaction-1236383548/",
     "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
+    "tags": [],
     "readTime": 1,
-    "fetchedAt": "2026-11-16T03:46:17.496Z"
+    "fetchedAt": "2026-11-17T05:40:40.127Z"
   },
   {
-    "id": "news-1794800777496-21",
-    "title": "No Pilots. Few Air Traffic Controllers. What Could Go Wrong?",
-    "summary": "Normally, aviation is slow to embrace new technology—but AI has come for the skies.",
-    "category": "tech-innovation",
-    "source": "Wired AI",
-    "author": "Unknown",
-    "publishedAt": "2026-11-14T11:00:00.000Z",
-    "url": "https://www.wired.com/story/no-pilots-few-air-traffic-controllers-what-could-go-wrong/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-11-16T03:46:17.496Z"
-  },
-  {
-    "id": "news-1794800777495-13",
-    "title": "Stanford Research Open-Sources Memorilla, a Latent Memory Module for Frozen LLMs",
-    "summary": "Stanford researchers released Memorilla, an open-source memory system that compresses a document collection into 16 memory tokens for a frozen Qwen3-8B. It reaches 84.33% on FactKG using 108x fewer document tokens than full context.\nThe post Stanford Research Open-Sources Memorilla, a Latent Memory Module for Frozen LLMs appeared first on MarkTechPost.\n",
+    "id": "news-1794894040126-1",
+    "title": "California state AG sues OpenAI over rogue agent incidents",
+    "summary": "The California lawsuit represents one of the first attempts to hold an AI lab legally accountable for a rogue agent incident.",
     "category": "ai-research",
-    "source": "MarkTechPost",
+    "source": "TechCrunch AI",
     "author": "Unknown",
-    "publishedAt": "2026-11-14T10:21:21.000Z",
-    "url": "https://www.marktechpost.com/2026/11/14/stanford-memorilla-memory-system-16-memory-tokens/",
+    "publishedAt": "2026-11-16T20:07:13.000Z",
+    "url": "https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/",
     "imageUrl": null,
     "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-11-17T05:40:40.126Z"
+  },
+  {
+    "id": "news-1794894040126-2",
+    "title": "Sam Altman on Nvidia without Jensen Huang: The industry will be ‘fine’",
+    "summary": "OpenAI CEO Sam Altman acknowledged the special role Nvidia CEO Jensen Huang has played in the AI boom, but ultimately thinks the industry will be “fine” without him at the helm. ",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-11-16T18:11:10.000Z",
+    "url": "https://techcrunch.com/2026/11/16/sam-altman-on-nvidia-without-jensen-huang-the-industry-will-be-fine/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-11-17T05:40:40.126Z"
+  },
+  {
+    "id": "news-1794894040126-3",
+    "title": "FBI says Artex AI open source hacking tool used to breach networks in ‘under three hours’",
+    "summary": "The FBI says that the open source hacking tool was used in cyberattacks targeting a U.S. IT giant and the South Korean financial industry.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-11-16T17:36:43.000Z",
+    "url": "https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-11-17T05:40:40.126Z"
+  },
+  {
+    "id": "news-1794894040126-4",
+    "title": "Jordan Belfort’s new AI voice startup, Tone, wants to sell like the ‘Wolf of Wall Street’",
+    "summary": "Belfort claims his AI sales voice can already close deals almost as well as the best human salespeople, and he thinks it will catch up in a year.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-11-16T17:10:00.000Z",
+    "url": "https://techcrunch.com/2026/11/16/jordan-belforts-new-ai-voice-startup-tone-wants-to-sell-like-the-wolf-of-wall-street/",
+    "imageUrl": null,
+    "tags": [
+      "AI",
+      "Startup"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-11-17T05:40:40.126Z"
+  },
+  {
+    "id": "news-1794894040126-5",
+    "title": "OpenAI will embed safety researchers to investigate AI subversion",
+    "summary": "OpenAI will embed six Apollo Research evaluators to investigate whether its AI models engage in subversive behavior, but restrictions on access and disclosure raise questions about their independence.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-11-16T17:02:43.000Z",
+    "url": "https://techcrunch.com/2026/11/16/openai-will-embed-apollo-researchers-to-investigate-ai-subversion/",
+    "imageUrl": null,
+    "tags": [
+      "AI",
       "Research"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-11-16T03:46:17.495Z"
+    "fetchedAt": "2026-11-17T05:40:40.126Z"
   },
   {
-    "id": "news-1794800777496-24",
-    "title": "Sony Music renews multi-year licensing deal with China’s NetEase Cloud Music",
-    "summary": "The multi-year deal, announced on Friday (November 13), means NetEase Cloud Music has now re-signed with all three major music companies in 2026\nSource",
-    "category": "industry-news",
-    "source": "Music Business Worldwide",
-    "author": "Unknown",
-    "publishedAt": "2026-11-14T09:12:04.000Z",
-    "url": "https://www.musicbusinessworldwide.com/sony-music-renews-multi-year-licensing-deal-with-chinas-netease-cloud-music/",
-    "imageUrl": null,
-    "tags": [
-      "Copyright"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-11-16T03:46:17.496Z"
-  },
-  {
-    "id": "news-1794800777496-25",
-    "title": "Az Cohen’s AZTEC, a joint venture label with Believe, has signed its first artist",
-    "summary": "Believe unveiled AZTEC in May, describing it as its first JV in the United States.\nSource",
-    "category": "industry-news",
-    "source": "Music Business Worldwide",
-    "author": "Unknown",
-    "publishedAt": "2026-11-14T09:08:21.000Z",
-    "url": "https://www.musicbusinessworldwide.com/az-cohens-aztec-a-joint-venture-label-with-believe-has-signed-its-first-artist/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-11-16T03:46:17.496Z"
-  },
-  {
-    "id": "news-1794800777496-26",
-    "title": "Symphonic inks deal to bring ‘hundreds of thousands’ of songs to Roblox",
-    "summary": "According to Symphonic, artists will receive royalties for all plays of their music on Roblox\nSource",
-    "category": "industry-news",
-    "source": "Music Business Worldwide",
-    "author": "Unknown",
-    "publishedAt": "2026-11-14T09:02:03.000Z",
-    "url": "https://www.musicbusinessworldwide.com/symphonic-inks-deal-to-bring-hundreds-of-thousands-of-songs-to-roblox/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-11-16T03:46:17.496Z"
-  },
-  {
-    "id": "news-1794800777495-14",
-    "title": "Vercel Releases UI SDK: 50+ UI Behaviors for AI Coding Agents",
-    "summary": "Vercel Labs released Vercel UI SDK, an Apache-2.0 beta library of 50+ UI behaviors. Coding agents compose them into accessible components for React, Vue, Svelte, Solid and Web Components, with a bridge for direct UI control.\nThe post Vercel Releases UI SDK: 50+ UI Behaviors for AI Coding Agents appeared first on MarkTechPost.\n",
+    "id": "news-1794894040126-6",
+    "title": "OpenAI releases a new image classifier and ChatGPT warnings to combat CSAM",
+    "summary": "ChatGPT will ban an account trying to access CSAM content for 24 hours as a warning.",
     "category": "ai-research",
-    "source": "MarkTechPost",
+    "source": "TechCrunch AI",
     "author": "Unknown",
-    "publishedAt": "2026-11-14T06:38:14.000Z",
-    "url": "https://www.marktechpost.com/2026/11/13/vercel-ui-sdk-agent-ui-behaviors/",
+    "publishedAt": "2026-11-16T17:00:00.000Z",
+    "url": "https://techcrunch.com/2026/11/16/openai-releases-a-new-image-classifier-and-chatgpt-warnings-to-combat-csam/",
     "imageUrl": null,
     "tags": [
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-11-16T03:46:17.495Z"
+    "fetchedAt": "2026-11-17T05:40:40.126Z"
   },
   {
-    "id": "news-1794800777496-27",
-    "title": "Reservoir expands copyright lawsuits against Suno and Anthropic to more than 2,500 songs combined",
-    "summary": "Reservoir first sued the two AI companies in October\nSource",
+    "id": "news-1794894040127-18",
+    "title": "Jensen Huang Is Gone. Now What?",
+    "summary": "After a shocking downfall, Nvidia’s CEO is out of a job. WIRED’s Lauren Goode explains what that means for the world’s most critical chip company, the AI industry, and Jensen Huang himself.",
+    "category": "tech-innovation",
+    "source": "Wired AI",
+    "author": "Unknown",
+    "publishedAt": "2026-11-16T16:12:51.000Z",
+    "url": "https://www.wired.com/story/the-big-interview-podcast-lauren-goode-jensen-huang/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-11-17T05:40:40.127Z"
+  },
+  {
+    "id": "news-1794894040126-7",
+    "title": "Audible turns to AI to help users discover audiobooks",
+    "summary": "Audible's new AI-generated audio previews summarize a book's themes and what readers liked about it, in addition to playing the narrated sample. ",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-11-16T15:52:19.000Z",
+    "url": "https://techcrunch.com/2026/11/16/audible-turns-to-ai-to-help-users-discover-audiobooks/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-11-17T05:40:40.126Z"
+  },
+  {
+    "id": "news-1794894040127-25",
+    "title": "From ‘undiscovered artists’ to Daddy Yankee: 5 things to know about TikTok’s evolution into a superstar distributor",
+    "summary": "TikTok’s distribution platform was built for emerging talent. Its latest release comes from one of Latin music’s biggest stars.\nSource",
     "category": "industry-news",
     "source": "Music Business Worldwide",
     "author": "Unknown",
-    "publishedAt": "2026-11-13T20:10:22.000Z",
-    "url": "https://www.musicbusinessworldwide.com/reservoir-expands-copyright-lawsuits-against-suno-and-anthropic-to-more-than-2500-songs-combined/",
+    "publishedAt": "2026-11-16T15:42:01.000Z",
+    "url": "https://www.musicbusinessworldwide.com/from-undiscovered-artists-to-daddy-yankee-5-things-to-know-about-tiktoks-evolution-into-a-superstar-distributor/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-11-17T05:40:40.127Z"
+  },
+  {
+    "id": "news-1794894040127-26",
+    "title": "TikTok says more than 46,000 UK music creators have gone LIVE in 2026, with daily views up 74% YoY",
+    "summary": "UK music creators averaged 4.9 million global views a day on TikTok LIVE in September, according to the company.\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-11-16T15:41:42.000Z",
+    "url": "https://www.musicbusinessworldwide.com/tiktok-says-more-than-46000-uk-music-creators-have-gone-live-in-2026-with-daily-views-up-74-yoy/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-11-17T05:40:40.127Z"
+  },
+  {
+    "id": "news-1794894040127-27",
+    "title": "Peanuts music catalog owner settles copyright lawsuit against GameMill over Snoopy video game soundtrack",
+    "summary": "GameMill licensed the Peanuts characters but not Vince Guaraldi’s music, then copied Linus and Lucy and Skating, the complaint alleged.\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-11-16T15:40:48.000Z",
+    "url": "https://www.musicbusinessworldwide.com/peanuts-music-catalog-owner-settles-copyright-lawsuit-against-gamemill-over-snoopy-video-game-soundtrack/",
     "imageUrl": null,
     "tags": [
       "AI",
       "Copyright"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-11-16T03:46:17.496Z"
+    "fetchedAt": "2026-11-17T05:40:40.127Z"
   },
   {
-    "id": "news-1794800777495-4",
-    "title": "AI agent startup LangChain hits $3B valuation",
-    "summary": "LangChain now claims 7,000 customers of its model and platform agnostic agent management tool LangSmith. ",
+    "id": "news-1794894040127-28",
+    "title": "Yamaha strikes $285M deal to acquire Disguise, whose visual tech has powered tours by Bad Bunny, Beyoncé, and Taylor Swift",
+    "summary": "Yamaha is looking to “move beyond the traditional boundaries of musical instruments and audio equipment.”\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-11-16T15:40:10.000Z",
+    "url": "https://www.musicbusinessworldwide.com/yamaha-strikes-285m-deal-to-acquire-disguise-whose-visual-tech-has-powered-tours-by-bad-bunny-beyonce-and-taylor-swift/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-11-17T05:40:40.127Z"
+  },
+  {
+    "id": "news-1794894040127-29",
+    "title": "Jesús López to step down as Chairman and CEO of Universal Music Latin America & Iberian Peninsula, becoming Chairman Emeritus of GTS",
+    "summary": "López has been working with UMG Chairman and CEO Sir Lucian Grainge on a succession plan, with details \"to be announced in due course,\" according to the company.\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-11-16T15:23:49.000Z",
+    "url": "https://www.musicbusinessworldwide.com/jesus-lopez-to-step-down-as-chairman-and-ceo-of-universal-music-latin-america-iberian-peninsula-becoming-chairman-emeritus-of-gts/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-11-17T05:40:40.127Z"
+  },
+  {
+    "id": "news-1794894040126-8",
+    "title": "US tightens AI chip export controls to deter Chinese companies from accessing compute remotely",
+    "summary": "Under the interim rule, the U.S. will require firms to get licenses to export AI chips if they may provide compute to China or other restricted countries.",
     "category": "ai-research",
     "source": "TechCrunch AI",
     "author": "Unknown",
-    "publishedAt": "2026-11-13T19:37:57.000Z",
-    "url": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
+    "publishedAt": "2026-11-16T15:02:34.000Z",
+    "url": "https://techcrunch.com/2026/11/16/us-tightens-ai-chip-export-controls-to-deter-chinese-companies-from-accessing-compute-remotely/",
     "imageUrl": null,
     "tags": [
-      "AI",
-      "Startup"
+      "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-11-16T03:46:17.495Z"
+    "fetchedAt": "2026-11-17T05:40:40.126Z"
+  },
+  {
+    "id": "news-1794894040127-19",
+    "title": "Nvidia Was Already in Trouble Before the Jensen Huang Mess",
+    "summary": "AI competitors are catching up to Nvidia—and poised to take advantage of the chaos.",
+    "category": "tech-innovation",
+    "source": "Wired AI",
+    "author": "Unknown",
+    "publishedAt": "2026-11-16T11:00:00.000Z",
+    "url": "https://www.wired.com/story/nvidia-was-already-in-trouble-before-the-jensen-huang-mess/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-11-17T05:40:40.127Z"
+  },
+  {
+    "id": "news-1794894040127-13",
+    "title": "Meet Meta’s JiTTests: LLM-Generated Tests Designed to Fail Before Risky Code Lands",
+    "summary": "Meta has moved Catching JiTTests into production. The LLM system writes tests designed to fail on risky diffs, and caught 74 privacy SEVs before landing in H1 2026, with a 60% engineer-reported true-positive rate.\nThe post Meet Meta’s JiTTests: LLM-Generated Tests Designed to Fail Before Risky Code Lands appeared first on MarkTechPost.\n",
+    "category": "ai-research",
+    "source": "MarkTechPost",
+    "author": "Unknown",
+    "publishedAt": "2026-11-16T10:39:41.000Z",
+    "url": "https://www.marktechpost.com/2026/11/16/meta-jittests-llm-catching-tests-privacy-bugs/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-11-17T05:40:40.127Z"
   }
 ]
