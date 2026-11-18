@@ -1,318 +1,314 @@
 [
   {
-    "id": "news-1794894040127-30",
-    "title": "HYBE, Home to BTS and KATSEYE, Forms Strategic Partnership With CAA",
-    "summary": "The new partnership leverages HYBE’s artist roster alongside CAA's expertise in live experiences, brand partnerships, content and more.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-11-17T01:00:00.000Z",
-    "url": "https://www.billboard.com/pro/hybe-bts-katseye-partnership-caa/",
-    "imageUrl": null,
-    "tags": [
-      "Partnership"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-11-17T05:40:40.127Z"
-  },
-  {
-    "id": "news-1794894040125-0",
-    "title": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
-    "summary": "Three months since introducing its product, AI cybersecurity startup Corba has raised a $125 million Series A at a $1 billion valuation led by NEA.",
-    "category": "industry-news",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-11-16T23:32:32.000Z",
-    "url": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/",
-    "imageUrl": null,
-    "tags": [
-      "AI",
-      "Startup"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-11-17T05:40:40.125Z"
-  },
-  {
-    "id": "news-1794894040127-31",
-    "title": "Miley Cyrus Reacts to Shared Grammy Nod With Dolly Parton: ‘A Beautiful Way to Honor Her Enormous Heart’",
-    "summary": "\"My Aunt Dolly is one of the greatest songwriters the world has ever known,\" the pop star wrote.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-11-16T22:52:05.000Z",
-    "url": "https://www.billboard.com/music/awards/miley-cyrus-reacts-dolly-parton-collab-2027-grammy-nod-1236383506/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-11-17T05:40:40.127Z"
-  },
-  {
-    "id": "news-1794894040127-32",
-    "title": "Rosalía Reacts to Her 9 Grammy Nominations: See How She Celebrated",
-    "summary": "The news comes on the heels of the Spanish artist winning big at the Latin Grammys.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-11-16T22:51:05.000Z",
-    "url": "https://www.billboard.com/music/latin/rosalia-lux-grammys-nominations-reaction-1236383548/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-11-17T05:40:40.127Z"
-  },
-  {
-    "id": "news-1794894040126-1",
-    "title": "California state AG sues OpenAI over rogue agent incidents",
-    "summary": "The California lawsuit represents one of the first attempts to hold an AI lab legally accountable for a rogue agent incident.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-11-16T20:07:13.000Z",
-    "url": "https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-11-17T05:40:40.126Z"
-  },
-  {
-    "id": "news-1794894040126-2",
-    "title": "Sam Altman on Nvidia without Jensen Huang: The industry will be ‘fine’",
-    "summary": "OpenAI CEO Sam Altman acknowledged the special role Nvidia CEO Jensen Huang has played in the AI boom, but ultimately thinks the industry will be “fine” without him at the helm. ",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-11-16T18:11:10.000Z",
-    "url": "https://techcrunch.com/2026/11/16/sam-altman-on-nvidia-without-jensen-huang-the-industry-will-be-fine/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-11-17T05:40:40.126Z"
-  },
-  {
-    "id": "news-1794894040126-3",
-    "title": "FBI says Artex AI open source hacking tool used to breach networks in ‘under three hours’",
-    "summary": "The FBI says that the open source hacking tool was used in cyberattacks targeting a U.S. IT giant and the South Korean financial industry.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-11-16T17:36:43.000Z",
-    "url": "https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-11-17T05:40:40.126Z"
-  },
-  {
-    "id": "news-1794894040126-4",
-    "title": "Jordan Belfort’s new AI voice startup, Tone, wants to sell like the ‘Wolf of Wall Street’",
-    "summary": "Belfort claims his AI sales voice can already close deals almost as well as the best human salespeople, and he thinks it will catch up in a year.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-11-16T17:10:00.000Z",
-    "url": "https://techcrunch.com/2026/11/16/jordan-belforts-new-ai-voice-startup-tone-wants-to-sell-like-the-wolf-of-wall-street/",
-    "imageUrl": null,
-    "tags": [
-      "AI",
-      "Startup"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-11-17T05:40:40.126Z"
-  },
-  {
-    "id": "news-1794894040126-5",
-    "title": "OpenAI will embed safety researchers to investigate AI subversion",
-    "summary": "OpenAI will embed six Apollo Research evaluators to investigate whether its AI models engage in subversive behavior, but restrictions on access and disclosure raise questions about their independence.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-11-16T17:02:43.000Z",
-    "url": "https://techcrunch.com/2026/11/16/openai-will-embed-apollo-researchers-to-investigate-ai-subversion/",
-    "imageUrl": null,
-    "tags": [
-      "AI",
-      "Research"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-11-17T05:40:40.126Z"
-  },
-  {
-    "id": "news-1794894040126-6",
-    "title": "OpenAI releases a new image classifier and ChatGPT warnings to combat CSAM",
-    "summary": "ChatGPT will ban an account trying to access CSAM content for 24 hours as a warning.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-11-16T17:00:00.000Z",
-    "url": "https://techcrunch.com/2026/11/16/openai-releases-a-new-image-classifier-and-chatgpt-warnings-to-combat-csam/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-11-17T05:40:40.126Z"
-  },
-  {
-    "id": "news-1794894040127-18",
-    "title": "Jensen Huang Is Gone. Now What?",
-    "summary": "After a shocking downfall, Nvidia’s CEO is out of a job. WIRED’s Lauren Goode explains what that means for the world’s most critical chip company, the AI industry, and Jensen Huang himself.",
+    "id": "news-1794978276383-13",
+    "title": "Over a Third of Gen Z-ers Rely on AI for Friendship",
+    "summary": "Young people who have online-only friends or use AI as a social companion face higher odds of loneliness than those who do not, a new Gallup report reveals.",
     "category": "tech-innovation",
     "source": "Wired AI",
     "author": "Unknown",
-    "publishedAt": "2026-11-16T16:12:51.000Z",
-    "url": "https://www.wired.com/story/the-big-interview-podcast-lauren-goode-jensen-huang/",
+    "publishedAt": "2026-11-18T05:01:00.000Z",
+    "url": "https://www.wired.com/story/over-a-third-of-gen-z-rely-on-ai-for-friendship/",
     "imageUrl": null,
     "tags": [
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-11-17T05:40:40.127Z"
+    "fetchedAt": "2026-11-18T05:04:36.383Z"
   },
   {
-    "id": "news-1794894040126-7",
-    "title": "Audible turns to AI to help users discover audiobooks",
-    "summary": "Audible's new AI-generated audio previews summarize a book's themes and what readers liked about it, in addition to playing the narrated sample. ",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-11-16T15:52:19.000Z",
-    "url": "https://techcrunch.com/2026/11/16/audible-turns-to-ai-to-help-users-discover-audiobooks/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-11-17T05:40:40.126Z"
-  },
-  {
-    "id": "news-1794894040127-25",
-    "title": "From ‘undiscovered artists’ to Daddy Yankee: 5 things to know about TikTok’s evolution into a superstar distributor",
-    "summary": "TikTok’s distribution platform was built for emerging talent. Its latest release comes from one of Latin music’s biggest stars.\nSource",
+    "id": "news-1794978276384-30",
+    "title": "Wade Forster Dominates 2027 Golden Guitar Nominations",
+    "summary": "Australia's flagship country music awards ceremony will be presented on Saturday, Jan. 23 during the Toyota 55th Tamworth Country Music Festival.",
     "category": "industry-news",
-    "source": "Music Business Worldwide",
+    "source": "Billboard",
     "author": "Unknown",
-    "publishedAt": "2026-11-16T15:42:01.000Z",
-    "url": "https://www.musicbusinessworldwide.com/from-undiscovered-artists-to-daddy-yankee-5-things-to-know-about-tiktoks-evolution-into-a-superstar-distributor/",
+    "publishedAt": "2026-11-18T04:45:00.000Z",
+    "url": "https://www.billboard.com/music/awards/wade-forster-dominates-golden-guitar-2027-nominations-1236384610/",
     "imageUrl": null,
     "tags": [],
     "readTime": 1,
-    "fetchedAt": "2026-11-17T05:40:40.127Z"
+    "fetchedAt": "2026-11-18T05:04:36.384Z"
   },
   {
-    "id": "news-1794894040127-26",
-    "title": "TikTok says more than 46,000 UK music creators have gone LIVE in 2026, with daily views up 74% YoY",
-    "summary": "UK music creators averaged 4.9 million global views a day on TikTok LIVE in September, according to the company.\nSource",
+    "id": "news-1794978276384-31",
+    "title": "Live Nation’s 17,000 Gather Brisbane Project Is Approved",
+    "summary": "Live Nation, OVG and Plenary will build the arena, which will have an 18,700 capacity in concert mode and which, the team behind it say, should bring more major live events to the city.",
     "category": "industry-news",
-    "source": "Music Business Worldwide",
+    "source": "Billboard",
     "author": "Unknown",
-    "publishedAt": "2026-11-16T15:41:42.000Z",
-    "url": "https://www.musicbusinessworldwide.com/tiktok-says-more-than-46000-uk-music-creators-have-gone-live-in-2026-with-daily-views-up-74-yoy/",
+    "publishedAt": "2026-11-18T03:15:00.000Z",
+    "url": "https://www.billboard.com/pro/live-nation-17000-gather-brisbane-project-approved/",
     "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
+    "tags": [],
     "readTime": 1,
-    "fetchedAt": "2026-11-17T05:40:40.127Z"
+    "fetchedAt": "2026-11-18T05:04:36.384Z"
   },
   {
-    "id": "news-1794894040127-27",
-    "title": "Peanuts music catalog owner settles copyright lawsuit against GameMill over Snoopy video game soundtrack",
-    "summary": "GameMill licensed the Peanuts characters but not Vince Guaraldi’s music, then copied Linus and Lucy and Skating, the complaint alleged.\nSource",
+    "id": "news-1794978276384-32",
+    "title": "Noah Kahan Reacts to 2027 Grammy Nominations Snub: ‘I Was In My Feelings for a Sec’",
+    "summary": "While Kahan did receive one folk nomination, the singer/songwriter was expected to show up across the Big Four categories.",
     "category": "industry-news",
-    "source": "Music Business Worldwide",
+    "source": "Billboard",
     "author": "Unknown",
-    "publishedAt": "2026-11-16T15:40:48.000Z",
-    "url": "https://www.musicbusinessworldwide.com/peanuts-music-catalog-owner-settles-copyright-lawsuit-against-gamemill-over-snoopy-video-game-soundtrack/",
+    "publishedAt": "2026-11-18T02:50:32.000Z",
+    "url": "https://www.billboard.com/music/rock/noah-kahan-reacts-grammy-nominations-snub-1236384554/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-11-18T05:04:36.384Z"
+  },
+  {
+    "id": "news-1794978276384-33",
+    "title": "DIRECTV’s Holiday Deal Gets You Christmas Movies & Musicals Across Multiple Streaming Platforms at a Low Price",
+    "summary": "With several streaming options and more than 60 live TV channels, DIRECTV’s deals on the MyEntertainment Genre Pack make it a worthy choice for watching festive movies and musicals this year.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-11-18T00:22:35.000Z",
+    "url": "https://www.billboard.com/culture/product-recommendations/directv-entertainment-streaming-holiday-deal-prices-plans-1236384477/",
     "imageUrl": null,
     "tags": [
       "AI",
-      "Copyright"
+      "Streaming"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-11-17T05:40:40.127Z"
+    "fetchedAt": "2026-11-18T05:04:36.384Z"
   },
   {
-    "id": "news-1794894040127-28",
-    "title": "Yamaha strikes $285M deal to acquire Disguise, whose visual tech has powered tours by Bad Bunny, Beyoncé, and Taylor Swift",
-    "summary": "Yamaha is looking to “move beyond the traditional boundaries of musical instruments and audio equipment.”\nSource",
-    "category": "industry-news",
-    "source": "Music Business Worldwide",
-    "author": "Unknown",
-    "publishedAt": "2026-11-16T15:40:10.000Z",
-    "url": "https://www.musicbusinessworldwide.com/yamaha-strikes-285m-deal-to-acquire-disguise-whose-visual-tech-has-powered-tours-by-bad-bunny-beyonce-and-taylor-swift/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-11-17T05:40:40.127Z"
-  },
-  {
-    "id": "news-1794894040127-29",
-    "title": "Jesús López to step down as Chairman and CEO of Universal Music Latin America & Iberian Peninsula, becoming Chairman Emeritus of GTS",
-    "summary": "López has been working with UMG Chairman and CEO Sir Lucian Grainge on a succession plan, with details \"to be announced in due course,\" according to the company.\nSource",
-    "category": "industry-news",
-    "source": "Music Business Worldwide",
-    "author": "Unknown",
-    "publishedAt": "2026-11-16T15:23:49.000Z",
-    "url": "https://www.musicbusinessworldwide.com/jesus-lopez-to-step-down-as-chairman-and-ceo-of-universal-music-latin-america-iberian-peninsula-becoming-chairman-emeritus-of-gts/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-11-17T05:40:40.127Z"
-  },
-  {
-    "id": "news-1794894040126-8",
-    "title": "US tightens AI chip export controls to deter Chinese companies from accessing compute remotely",
-    "summary": "Under the interim rule, the U.S. will require firms to get licenses to export AI chips if they may provide compute to China or other restricted countries.",
+    "id": "news-1794978276382-0",
+    "title": "Nvidia says its open source AI strategy remains intact after Jensen Huang’s exit",
+    "summary": "Nvidia's interim CEO reaffirmed its open source AI strategy and plans to acquire Hugging Face, despite Jensen Huang's sudden departure.",
     "category": "ai-research",
     "source": "TechCrunch AI",
     "author": "Unknown",
-    "publishedAt": "2026-11-16T15:02:34.000Z",
-    "url": "https://techcrunch.com/2026/11/16/us-tightens-ai-chip-export-controls-to-deter-chinese-companies-from-accessing-compute-remotely/",
+    "publishedAt": "2026-11-17T23:04:35.000Z",
+    "url": "https://techcrunch.com/2026/11/17/nvidia-says-its-open-source-ai-strategy-remains-intact-after-jensen-huangs-exit/",
     "imageUrl": null,
     "tags": [
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-11-17T05:40:40.126Z"
+    "fetchedAt": "2026-11-18T05:04:36.382Z"
   },
   {
-    "id": "news-1794894040127-19",
-    "title": "Nvidia Was Already in Trouble Before the Jensen Huang Mess",
-    "summary": "AI competitors are catching up to Nvidia—and poised to take advantage of the chaos.",
-    "category": "tech-innovation",
-    "source": "Wired AI",
-    "author": "Unknown",
-    "publishedAt": "2026-11-16T11:00:00.000Z",
-    "url": "https://www.wired.com/story/nvidia-was-already-in-trouble-before-the-jensen-huang-mess/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-11-17T05:40:40.127Z"
-  },
-  {
-    "id": "news-1794894040127-13",
-    "title": "Meet Meta’s JiTTests: LLM-Generated Tests Designed to Fail Before Risky Code Lands",
-    "summary": "Meta has moved Catching JiTTests into production. The LLM system writes tests designed to fail on risky diffs, and caught 74 privacy SEVs before landing in H1 2026, with a 60% engineer-reported true-positive rate.\nThe post Meet Meta’s JiTTests: LLM-Generated Tests Designed to Fail Before Risky Code Lands appeared first on MarkTechPost.\n",
+    "id": "news-1794978276383-7",
+    "title": "Perplexity Computer Adds Multiagent: Up to 16 AI Agents That Cross-Check Work",
+    "summary": "Perplexity added Multiagent to Computer, an effort level above Ultra where a lead agent runs up to 16 agents on Claude, GPT and Gemini models that share findings and check each other’s work.\nThe post Perplexity Computer Adds Multiagent: Up to 16 AI Agents That Cross-Check Work appeared first on MarkTechPost.\n",
     "category": "ai-research",
     "source": "MarkTechPost",
     "author": "Unknown",
-    "publishedAt": "2026-11-16T10:39:41.000Z",
-    "url": "https://www.marktechpost.com/2026/11/16/meta-jittests-llm-catching-tests-privacy-bugs/",
+    "publishedAt": "2026-11-17T22:52:04.000Z",
+    "url": "https://www.marktechpost.com/2026/11/17/perplexity-computer-multiagent-effort-level/",
     "imageUrl": null,
     "tags": [
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-11-17T05:40:40.127Z"
+    "fetchedAt": "2026-11-18T05:04:36.383Z"
+  },
+  {
+    "id": "news-1794978276383-8",
+    "title": "OpenAI Releases GPT-6.2 Astra and Sol With a 20% Cheaper Astra API",
+    "summary": "OpenAI released GPT-6.2 Astra and GPT-6.2 Sol on November 17, 2026. Astra's API price drops 20% to $8/$40 per million tokens, and it ranks second on the Artificial Analysis Intelligence Index.\nThe post OpenAI Releases GPT-6.2 Astra and Sol With a 20% Cheaper Astra API appeared first on MarkTechPost.\n",
+    "category": "ai-research",
+    "source": "MarkTechPost",
+    "author": "Unknown",
+    "publishedAt": "2026-11-17T22:07:30.000Z",
+    "url": "https://www.marktechpost.com/2026/11/17/openai-gpt-6-2-astra-sol-release/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-11-18T05:04:36.383Z"
+  },
+  {
+    "id": "news-1794978276383-9",
+    "title": "Clearing Up the Confusion on AI Data Retention: Two Standard Designs Explained",
+    "summary": "Zero data retention applies to specific AI endpoints, not whole vendors. This guide explains the 2 standard API designs for data retention, who manages deletion in each, and 6 checks for developers.\nThe post Clearing Up the Confusion on AI Data Retention: Two Standard Designs Explained appeared first on MarkTechPost.\n",
+    "category": "ai-research",
+    "source": "MarkTechPost",
+    "author": "Unknown",
+    "publishedAt": "2026-11-17T20:49:45.000Z",
+    "url": "https://www.marktechpost.com/2026/11/17/zero-data-retention-ai-apis-explained/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-11-18T05:04:36.383Z"
+  },
+  {
+    "id": "news-1794978276383-21",
+    "title": "Suno launches AI music video tool built on model from MiniMax – the Chinese AI firm being sued by Disney and other Hollywood studios",
+    "summary": "'Visuals' generates videos and images to accompany songs made on Suno's platform\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-11-17T20:45:43.000Z",
+    "url": "https://www.musicbusinessworldwide.com/suno-launches-ai-music-video-tool-built-on-model-from-minimax-the-chinese-ai-firm-being-sued-by-disney-and-other-hollywood-studios/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-11-18T05:04:36.383Z"
+  },
+  {
+    "id": "news-1794978276383-22",
+    "title": "Tencent Music says AI content streams are ‘negligible’ – as it takes legal action over AI infringement",
+    "summary": "TME says streams of AI-generated content are declining as a share of listening\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-11-17T20:05:40.000Z",
+    "url": "https://www.musicbusinessworldwide.com/tencent-music-says-ai-content-streams-are-negligible-as-it-takes-legal-action-over-ai-infringement/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-11-18T05:04:36.383Z"
+  },
+  {
+    "id": "news-1794978276383-23",
+    "title": "Believe Music Publishing forms joint venture with GL Music Entertainment",
+    "summary": "Under the deal, Believe Music Publishing will administer the GL Music Entertainment catalog and help grow its roster in international markets.\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-11-17T20:05:19.000Z",
+    "url": "https://www.musicbusinessworldwide.com/believe-music-publishing-forms-joint-venture-with-gl-music-entertainment/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-11-18T05:04:36.383Z"
+  },
+  {
+    "id": "news-1794978276383-24",
+    "title": "Tencent Music doubles down on K-pop content with an early-release window for music from BLACKPINK’s JISOO – and a renewed HYBE deal",
+    "summary": "Tencent Music Entertainment is building out its K-pop business on several fronts at once.\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-11-17T20:04:29.000Z",
+    "url": "https://www.musicbusinessworldwide.com/tencent-music-doubles-down-on-k-pop-content-with-an-early-release-window-for-music-from-blackpinks-jisoo-and-a-renewed-hybe-deal/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-11-18T05:04:36.383Z"
+  },
+  {
+    "id": "news-1794978276383-25",
+    "title": "Notes.fm partners with Musixmatch to bring time-synced lyrics to its distribution platform for independent artists",
+    "summary": "Notes.fm is a music royalty collection and distribution platform from Stem co-founder Tim Luckow\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-11-17T18:55:35.000Z",
+    "url": "https://www.musicbusinessworldwide.com/notes-fm-partners-with-musixmatch-to-bring-time-synced-lyrics-to-its-distribution-platform-for-independent-artists/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-11-18T05:04:36.383Z"
+  },
+  {
+    "id": "news-1794978276384-26",
+    "title": "AI Threatens the Value We Put on Creativity",
+    "summary": "The following MBW op/ed comes from Joel Goodman, an Emmy-winning composer\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-11-17T18:23:41.000Z",
+    "url": "https://www.musicbusinessworldwide.com/ai-threatens-the-value-we-put-on-creativity/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-11-18T05:04:36.384Z"
+  },
+  {
+    "id": "news-1794978276382-1",
+    "title": "Pedestal AI raises $4.7 million to agentify the supply chain",
+    "summary": "The company uses agentic AI to make supply chains faster and more reliable.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-11-17T18:04:16.000Z",
+    "url": "https://techcrunch.com/2026/11/17/pedestal-ai-raises-4-7-million-to-agentify-the-supply-chain/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-11-18T05:04:36.382Z"
+  },
+  {
+    "id": "news-1794978276384-27",
+    "title": "Tencent Music generated $1.33B in Q3, up 5.6% YoY – driven by Ximalaya acquisition, concerts, merch and Super VIP growth",
+    "summary": "TME has published its quarterly results for the three months ending September 30.\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-11-17T17:50:39.000Z",
+    "url": "https://www.musicbusinessworldwide.com/tencent-music-generated-1-33b-in-q3-up-5-6-yoy-driven-by-ximalaya-acquisition-concerts-merch-and-super-vip-growth/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-11-18T05:04:36.384Z"
+  },
+  {
+    "id": "news-1794978276382-2",
+    "title": "Proton’s Lumo, a privacy-focused alternative to ChatGPT and Claude, arrives on desktop",
+    "summary": "Proton's new Lumo Desktop app for Windows, Mac, and Linux lets users automate tasks across files and connected apps, with granular controls over what its AI can access.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-11-17T17:32:25.000Z",
+    "url": "https://techcrunch.com/2026/11/17/protons-lumo-a-privacy-focused-alternative-to-chatgpt-and-claude-arrives-on-desktop/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-11-18T05:04:36.382Z"
+  },
+  {
+    "id": "news-1794978276383-3",
+    "title": "AI models can be tricked into identifying civilians as military targets by telling them it’s a game",
+    "summary": "Vals, a San Francisco-based AI evaluation startup, tested whether leading AI models could be manipulated into participating in autonomous warfare. They usually compiled. ",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-11-17T17:20:41.000Z",
+    "url": "https://techcrunch.com/2026/11/17/ai-models-can-be-tricked-into-identifying-civilians-as-military-targets-by-telling-them-its-a-game/",
+    "imageUrl": null,
+    "tags": [
+      "AI",
+      "Startup"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-11-18T05:04:36.383Z"
+  },
+  {
+    "id": "news-1794978276383-4",
+    "title": "Daydream’s new AI agent acts as your personal stylist — and can shop for you, too",
+    "summary": "Daydream's new AI shopping agent can remember your style, virtually try on clothes, plan outfits around your wardrobe, track sales, and complete purchases.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-11-17T16:32:55.000Z",
+    "url": "https://techcrunch.com/2026/11/17/daydreams-new-ai-agent-acts-as-your-personal-stylist-and-can-shop-for-you-too/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-11-18T05:04:36.383Z"
   }
 ]
