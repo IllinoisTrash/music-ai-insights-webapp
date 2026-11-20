@@ -1,317 +1,316 @@
 [
   {
-    "id": "news-1795064330365-29",
-    "title": "Taylor Swift Presents Brooks & Dunn With Willie Nelson Lifetime Achievement Award at 2026 CMAs",
-    "summary": "The boot-scootin' duo helped mentor a young Swift when she got her start in country music. ",
+    "id": "news-1795150191076-30",
+    "title": "P1Harmony Earns First No. 1 on Top Album Sales Chart With ‘BLOW UP’",
+    "summary": "Plus, Kings of Leon, Steven Wilson, A Charlie Brown Christmas and Ariana Grande make waves in the top 10. ",
     "category": "industry-news",
     "source": "Billboard",
     "author": "Unknown",
-    "publishedAt": "2026-11-19T03:49:28.000Z",
-    "url": "https://www.billboard.com/music/awards/taylor-swift-brooks-dunn-cma-awards-1236385362/",
+    "publishedAt": "2026-11-20T03:42:01.000Z",
+    "url": "https://www.billboard.com/music/chart-beat/p1harmony-first-no1-top-album-sales-blow-up-1236386121/",
     "imageUrl": null,
     "tags": [],
     "readTime": 1,
-    "fetchedAt": "2026-11-19T04:58:50.365Z"
+    "fetchedAt": "2026-11-20T04:49:51.077Z"
   },
   {
-    "id": "news-1795064330365-30",
-    "title": "Lainey Wilson Takes Brief Break From Hosting CMA Awards To Live Debut New Song ‘Just a Woman’",
-    "summary": "The country star pulled double duty as performer and host of the 60th annual award show.",
+    "id": "news-1795150191077-31",
+    "title": "A Full List of Current 2026 K-Pop Concerts (Updating)",
+    "summary": "From KATSEYE to BOYNEXTDOOR, here's what you can expect from the K-pop concert scene this year.",
     "category": "industry-news",
     "source": "Billboard",
     "author": "Unknown",
-    "publishedAt": "2026-11-19T02:53:49.000Z",
-    "url": "https://www.billboard.com/music/awards/lainey-wilson-just-a-woman-cma-awards-2026-performance-1236385293/",
+    "publishedAt": "2026-11-20T03:11:17.000Z",
+    "url": "https://www.billboard.com/culture/product-recommendations/current-k-pop-concerts-1236234463/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-11-20T04:49:51.077Z"
+  },
+  {
+    "id": "news-1795150191077-32",
+    "title": "The Deals: Yamaha Acquires Visual Technology Company Disguise for $280 Million & More",
+    "summary": "Also: Ovation Rights buys the copyrights to Jeff Wayne's Musical Version of The War of the Worlds, among other recent deals.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-11-20T03:10:25.000Z",
+    "url": "https://www.billboard.com/lists/yamaha-acquires-visual-technology-company-disguise-deals/",
     "imageUrl": null,
     "tags": [
-      "AI"
+      "Copyright"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-11-19T04:58:50.365Z"
+    "fetchedAt": "2026-11-20T04:49:51.077Z"
   },
   {
-    "id": "news-1795064330365-31",
-    "title": "Luke Combs Reveals He Originally Had 40 Songs on ‘The Way I Am’ | CMA Awards 2026",
-    "summary": "Luke Combs caught up with Ellie Thumann & Billboard’s Tetris Kelly at the CMA Awards 2026.",
+    "id": "news-1795150191077-33",
+    "title": "Amazon Prime Video Black Friday Cyber Monday Deals: Save Big on Streaming Add-Ons, Movie Purchases & More",
+    "summary": "Running Nov. 19-30, Prime Video's Black Friday Cyber Monday deals bring big savings on streaming add-ons for watching live sports, holiday movies and more.",
     "category": "industry-news",
     "source": "Billboard",
     "author": "Unknown",
-    "publishedAt": "2026-11-19T02:22:20.000Z",
-    "url": "https://www.billboard.com/video/luke-combs-reveals-originally-had-40-songs-on-the-way-i-am/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-11-19T04:58:50.365Z"
-  },
-  {
-    "id": "news-1795064330365-32",
-    "title": "GNJB’s ‘Love Reason’ Hits No. 1 on Japan Hot 100 as Akira Senju’s ‘Beppan Gireikyoku’ From ‘VIVANT’ Debuts",
-    "summary": "EBiDAN’s “Yes! Tokyo” climbs 3-2, leading video views and coming in at No. 3 on streaming. 4U.’s “BLOOM WORLD” debuts at No. 3.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-11-19T02:18:53.000Z",
-    "url": "https://www.billboard.com/music/chart-beat/gnjb-love-reason-japan-hot-100-akira-senju-beppan-gireikyoku-1236385301/",
+    "publishedAt": "2026-11-20T02:11:58.000Z",
+    "url": "https://www.billboard.com/culture/product-recommendations/prime-video-black-friday-cyber-monday-streaming-deals-2026-1236385908/",
     "imageUrl": null,
     "tags": [
       "Streaming"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-11-19T04:58:50.365Z"
+    "fetchedAt": "2026-11-20T04:49:51.077Z"
   },
   {
-    "id": "news-1795064330363-0",
-    "title": "Amidst fears of AI cyberattacks, Satya Nadella says lots of critical infrastructure is ‘unpatchable’",
-    "summary": "The Microsoft CEO downplayed the recent Outlook outage while noting that AI was causing both opportunities and new challenges for securing much of the connected world. ",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-11-18T23:45:00.000Z",
-    "url": "https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-11-19T04:58:50.363Z"
-  },
-  {
-    "id": "news-1795064330363-1",
-    "title": "Satya Nadella predicts AI agents will reshuffle the economics of the web",
-    "summary": "Microsoft's CEO says AI agents could disrupt advertising-driven business models, forcing companies like Amazon to rethink how they compete for customers.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-11-18T22:58:11.000Z",
-    "url": "https://techcrunch.com/2026/11/18/satya-nadella-predicts-ai-agents-will-reshuffle-the-economics-of-the-web/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-11-19T04:58:50.363Z"
-  },
-  {
-    "id": "news-1795064330364-16",
-    "title": "Even His Own Officials Don’t Think Trump’s China Trip Will Lead to Progress on AI",
-    "summary": "Fallout from the Nvidia scandal has made any negotiations around AI difficult, officials say.",
-    "category": "tech-innovation",
-    "source": "Wired AI",
-    "author": "Unknown",
-    "publishedAt": "2026-11-18T22:00:00.000Z",
-    "url": "https://www.wired.com/story/administration-officials-dont-think-much-ai-progress-will-come-of-trumps-china-visit/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-11-19T04:58:50.364Z"
-  },
-  {
-    "id": "news-1795064330364-17",
-    "title": "America’s AI Chip War Is Heating Up in the Dumbest Possible Ways",
-    "summary": "The Trump administration announced plans to clamp down on China’s access to AI chips. Apparently, the cheating scandal of the century was the motivation they were missing.",
-    "category": "tech-innovation",
-    "source": "Wired AI",
-    "author": "Unknown",
-    "publishedAt": "2026-11-18T21:15:00.000Z",
-    "url": "https://www.wired.com/story/the-ai-chip-war-meets-the-jensen-huang-affair/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-11-19T04:58:50.364Z"
-  },
-  {
-    "id": "news-1795064330363-2",
-    "title": "Snapchat now lets developers build AR Lenses with AI assistants like Claude Code and Cursor",
-    "summary": "Lens creators can describe the Lens they want in plain language, and their AI assistant handles the process from start to finish, Snapchat says.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-11-18T19:56:39.000Z",
-    "url": "https://techcrunch.com/2026/11/18/snapchat-now-lets-developers-build-ar-lenses-with-ai-coding-assistants-like-claude-code-and-cursor/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-11-19T04:58:50.363Z"
-  },
-  {
-    "id": "news-1795064330364-22",
-    "title": "WMG CEO Robert Kyncl to deliver CES 2027 keynote, billed as the first by a music-industry leader",
-    "summary": "CTA says Kyncl \"will preview music's next chapter of creation and interactivity\" during the session.\nSource",
+    "id": "news-1795150191077-34",
+    "title": "Bruno Mars Mourns Death of Father Peter Hernandez: ‘The Man That Taught Me Everything I Know’",
+    "summary": "\"In my eyes, he was the greatest dad in the world,\" the Grammy-winning artist wrote.",
     "category": "industry-news",
-    "source": "Music Business Worldwide",
+    "source": "Billboard",
     "author": "Unknown",
-    "publishedAt": "2026-11-18T19:27:03.000Z",
-    "url": "https://www.musicbusinessworldwide.com/wmg-ceo-robert-kyncl-to-deliver-ces-2027-keynote-billed-as-the-first-by-a-music-industry-leader/",
+    "publishedAt": "2026-11-20T01:18:29.000Z",
+    "url": "https://www.billboard.com/music/pop/bruno-mars-father-death-peter-hernandez-1236386082/",
     "imageUrl": null,
     "tags": [],
     "readTime": 1,
-    "fetchedAt": "2026-11-19T04:58:50.364Z"
+    "fetchedAt": "2026-11-20T04:49:51.077Z"
   },
   {
-    "id": "news-1795064330363-3",
-    "title": "Google’s AI feature in Search gets its own incognito mode",
-    "summary": "Google's new temporary threads let users have conversations in AI Mode without adding them to their search history or influencing future recommendations.",
-    "category": "tech-innovation",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-11-18T18:04:05.000Z",
-    "url": "https://techcrunch.com/2026/11/18/googles-ai-feature-in-search-gets-its-own-incognito-mode/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-11-19T04:58:50.363Z"
-  },
-  {
-    "id": "news-1795064330363-4",
-    "title": "More banks say customers using AI agents are on their own — even if they get hacked",
-    "summary": "Citi is the latest major financial institution to put the breaks on personal finance AI agents. ",
+    "id": "news-1795150191075-0",
+    "title": "Apple may be developing its own AI agent that runs your Mac",
+    "summary": "The iPhone maker appears to be building agents that can compete with the likes of Meta Muse, Instinct, Claude, and OpenAI Dots. ",
     "category": "ai-research",
     "source": "TechCrunch AI",
     "author": "Unknown",
-    "publishedAt": "2026-11-18T17:32:10.000Z",
-    "url": "https://techcrunch.com/2026/11/18/more-banks-says-customers-using-ai-agents-are-on-their-own-even-if-they-get-hacked/",
+    "publishedAt": "2026-11-20T00:56:01.000Z",
+    "url": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
     "imageUrl": null,
     "tags": [
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-11-19T04:58:50.363Z"
+    "fetchedAt": "2026-11-20T04:49:51.075Z"
   },
   {
-    "id": "news-1795064330363-5",
-    "title": "Sam Altman warns against a future where AI, not humans, calls the shots",
-    "summary": "Sam Altman and Greg Brockman pushed back against Silicon Valley's growing debate over an AI takeover, while acknowledging the challenges of keeping advanced models under human control.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-11-18T16:59:00.000Z",
-    "url": "https://techcrunch.com/2026/11/18/sam-altman-warns-against-a-future-where-ai-not-humans-calls-the-shots/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-11-19T04:58:50.363Z"
-  },
-  {
-    "id": "news-1795064330364-18",
-    "title": "Artex Is Criminals’ New Favorite ‘Point-and-Shoot’ AI Hacking Tool",
-    "summary": "Artex and similar penetration testing tools allow newbie hackers to scan targeted systems for vulnerabilities and successfully wage attacks using prompts fed to chatbots.",
-    "category": "tech-innovation",
-    "source": "Wired AI",
-    "author": "Unknown",
-    "publishedAt": "2026-11-18T16:35:24.000Z",
-    "url": "https://www.wired.com/story/artex-ai-hacking-tools/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-11-19T04:58:50.364Z"
-  },
-  {
-    "id": "news-1795064330363-6",
-    "title": "OpenAI CEO Sam Altman says it’s ‘hard to imagine the AI industry without Jensen’",
-    "summary": "Nvidia founder and former CEO Jensen Huang stepped down last week amid several scandals, including an affair with an alleged Chinese spy.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-11-18T16:14:09.000Z",
-    "url": "https://techcrunch.com/2026/11/18/openai-ceo-sam-altman-says-its-hard-to-imagine-the-ai-industry-without-jensen/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-11-19T04:58:50.363Z"
-  },
-  {
-    "id": "news-1795064330364-23",
-    "title": "Live experiences platform Speakeasy, backed by Yamaha’s music fund, raises $18.8M Series A",
-    "summary": "The round brings the company's total funding to approximately USD $27M.\nSource",
+    "id": "news-1795150191077-35",
+    "title": "Robert Glasper Breaks Down What Makes Kendrick Lamar’s ‘To Pimp a Butterfly’ Special & Speaks Up Against AI | Billboard News Interview",
+    "summary": "Robert Glasper breaks down why AI can’t copy the human “mistakes” that make music feel real. In this Billboard News interview, Glasper talks bridging jazz, hip-hop, R&B and soul — and what separates great musicians from artists who change culture. Glasper also reflects on working with Kendrick Lamar on To Pimp a Butterfly, why H.E.R. […]",
     "category": "industry-news",
-    "source": "Music Business Worldwide",
+    "source": "Billboard",
     "author": "Unknown",
-    "publishedAt": "2026-11-18T15:53:59.000Z",
-    "url": "https://www.musicbusinessworldwide.com/live-experiences-platform-speakeasy-backed-by-yamahas-music-fund-raises-18-8m-series-a/",
+    "publishedAt": "2026-11-19T23:15:15.000Z",
+    "url": "https://www.billboard.com/video/robert-glasper-billboard-news-interview/",
     "imageUrl": null,
     "tags": [
-      "AI",
-      "Investment"
+      "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-11-19T04:58:50.364Z"
+    "fetchedAt": "2026-11-20T04:49:51.077Z"
   },
   {
-    "id": "news-1795064330364-19",
-    "title": "‘Just Ridiculous’: A Famed Philosopher Takes on AI Consciousness",
-    "summary": "Thomas Nagel has done landmark work on consciousness in nonhumans; this week, he won the million-dollar Berggruen Prize for his contributions to the field. And he has a lot of thoughts on AI.",
+    "id": "news-1795150191075-1",
+    "title": "Meta’s new Muse Charm device may cost $300",
+    "summary": "Meta hasn't denied the reporting from The Information, saying only that it will \"have more to share soon\" about its upcoming AI wearable.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-11-19T21:58:06.000Z",
+    "url": "https://techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-11-20T04:49:51.075Z"
+  },
+  {
+    "id": "news-1795150191076-16",
+    "title": "What’s With All These Outages?",
+    "summary": "This week on “Uncanny Valley,” we discuss the outages that have swept digital life over the past week, where new money from Anthropic’s IPO is going, and the AI chip world post-Jensen Huang.",
     "category": "tech-innovation",
     "source": "Wired AI",
     "author": "Unknown",
-    "publishedAt": "2026-11-18T15:02:40.000Z",
-    "url": "https://www.wired.com/story/just-ridiculous-a-famed-philosopher-takes-on-ai-consciousness/",
+    "publishedAt": "2026-11-19T21:57:01.000Z",
+    "url": "https://www.wired.com/story/uncanny-valley-podcast-whats-with-all-these-outages/",
     "imageUrl": null,
     "tags": [
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-11-19T04:58:50.364Z"
+    "fetchedAt": "2026-11-20T04:49:51.076Z"
   },
   {
-    "id": "news-1795064330365-24",
-    "title": "Universal Music Canada strikes A&R and label distribution partnership with First Class Music Group",
-    "summary": "The two companies will jointly sign and develop Canadian artists, with the shared goal of “breaking artists on a global scale.”\nSource",
-    "category": "industry-news",
-    "source": "Music Business Worldwide",
+    "id": "news-1795150191075-2",
+    "title": "These tech outages are giving Y2K, AI agent style",
+    "summary": "Are the recent outages in the airline booking systems, banking platforms, and productivity platforms really a coincidence? There's actually likely something deeper going on, cybersecurity experts say.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
     "author": "Unknown",
-    "publishedAt": "2026-11-18T15:00:40.000Z",
-    "url": "https://www.musicbusinessworldwide.com/universal-music-canada-strikes-ar-and-distribution-partnership-with-first-class-music-group/",
+    "publishedAt": "2026-11-19T21:42:31.000Z",
+    "url": "https://techcrunch.com/2026/11/19/these-tech-outages-are-giving-y2k-ai-agent-style/",
     "imageUrl": null,
     "tags": [
-      "Partnership"
+      "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-11-19T04:58:50.365Z"
+    "fetchedAt": "2026-11-20T04:49:51.075Z"
   },
   {
-    "id": "news-1795064330365-25",
-    "title": "$11M-backed AI startup Sonilo, founded by TikTok veterans, inks licensing deal with Symphonic to train its model on opted-in indie recordings",
-    "summary": "The agreement allows Sonilo to train its AI music model on recordings from Symphonic’s independent artists and labels – but only those that choose to opt in.\nSource",
+    "id": "news-1795150191076-23",
+    "title": "Margin Call: On Spotify, ‘Marketplace’, and the price labels pay for promotion.",
+    "summary": "The latest 'Tim's Take' from Music Business Worldwide founder, Tim Ingham.\nSource",
     "category": "industry-news",
     "source": "Music Business Worldwide",
     "author": "Unknown",
-    "publishedAt": "2026-11-18T15:00:25.000Z",
-    "url": "https://www.musicbusinessworldwide.com/11m-backed-ai-startup-sonilo-founded-by-tiktok-veterans-inks-licensing-deal-with-symphonic-to-train-its-model-on-opted-in-indie-recordings/",
+    "publishedAt": "2026-11-19T21:32:52.000Z",
+    "url": "https://www.musicbusinessworldwide.com/margin-call-on-spotify-marketplace-and-the-price-labels-pay-for-promotion/",
     "imageUrl": null,
     "tags": [
-      "AI",
-      "Copyright",
-      "Startup"
+      "Spotify"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-11-19T04:58:50.365Z"
+    "fetchedAt": "2026-11-20T04:49:51.076Z"
   },
   {
-    "id": "news-1795064330365-26",
-    "title": "Ignacio Meyer appointed President of Universal Music Latin America & Iberian Peninsula",
-    "summary": "Meyer will report to Felipe Holguin, who was named CEO of the division on Tuesday (November 17).\nSource",
+    "id": "news-1795150191075-3",
+    "title": "The unfolding Jensen Huang scandal: a timeline",
+    "summary": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-11-19T20:18:49.000Z",
+    "url": "https://techcrunch.com/2026/11/19/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-11-20T04:49:51.075Z"
+  },
+  {
+    "id": "news-1795150191076-24",
+    "title": "Producer sues Travis Scott, Don Toliver, and Sony Music, claiming he owns half the master of JackBoys track ‘What To Do?’",
+    "summary": "Early Yellow claims Sony and Epic filed false counter-notices to get the 2019 track back on Spotify, Apple Music, and YouTube after his takedowns.\nSource",
     "category": "industry-news",
     "source": "Music Business Worldwide",
     "author": "Unknown",
-    "publishedAt": "2026-11-18T14:51:23.000Z",
-    "url": "https://www.musicbusinessworldwide.com/ignacio-meyer-appointed-president-of-universal-music-latin-america-iberian-peninsula/",
+    "publishedAt": "2026-11-19T19:09:58.000Z",
+    "url": "https://www.musicbusinessworldwide.com/producer-sues-travis-scott-don-toliver-and-sony-music-claiming-he-owns-half-the-master-of-jackboys-track-what-to-do/",
+    "imageUrl": null,
+    "tags": [
+      "Spotify",
+      "Apple Music",
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-11-20T04:49:51.076Z"
+  },
+  {
+    "id": "news-1795150191076-10",
+    "title": "13 Best Agent Gateways in 2026 for MCP, A2A and LLM Traffic: Kong, Bifrost, AgentCore, Arcade",
+    "summary": "We ranked the 13 best agent gateways of 2026 by how they govern model, MCP tool and agent-to-agent traffic, with verified pricing, deployment options and the trade-offs each vendor's marketing leaves out.\nThe post 13 Best Agent Gateways in 2026 for MCP, A2A and LLM Traffic: Kong, Bifrost, AgentCore, Arcade appeared first on MarkTechPost.\n",
+    "category": "ai-research",
+    "source": "MarkTechPost",
+    "author": "Unknown",
+    "publishedAt": "2026-11-19T18:13:21.000Z",
+    "url": "https://www.marktechpost.com/2026/11/19/best-agent-gateways-2026/",
     "imageUrl": null,
     "tags": [],
     "readTime": 1,
-    "fetchedAt": "2026-11-19T04:58:50.365Z"
+    "fetchedAt": "2026-11-20T04:49:51.076Z"
+  },
+  {
+    "id": "news-1795150191075-4",
+    "title": "Google gives Gemini the ability to use your Mac for you",
+    "summary": "Google's latest update to Gemini brings an AI agent to the Mac that can organize files, fill out forms, and tackle multistep workflows.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-11-19T18:09:11.000Z",
+    "url": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-11-20T04:49:51.075Z"
+  },
+  {
+    "id": "news-1795150191076-11",
+    "title": "Perplexity Launches Orchestrator API for Failover and Model Routing",
+    "summary": "Perplexity’s Orchestrator API serves OpenAI, Anthropic, Google, xAI and open-weight models through 1 endpoint, with same-model provider failover, unified billing and a preview perplexity/auto router that sends each request to a described route.\nThe post Perplexity Launches Orchestrator API for Failover and Model Routing appeared first on MarkTechPost.\n",
+    "category": "ai-research",
+    "source": "MarkTechPost",
+    "author": "Unknown",
+    "publishedAt": "2026-11-19T17:47:00.000Z",
+    "url": "https://www.marktechpost.com/2026/11/19/perplexity-orchestrator-api-failover-model-routing/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-11-20T04:49:51.076Z"
+  },
+  {
+    "id": "news-1795150191075-5",
+    "title": "Meta’s AI agent Muse is mixing up conversations and could be exposing private data, report says",
+    "summary": "In some of these instances, employees said Muse surfaced messages about childcare requests they never made, career advice they never asked for, product orders they never placed, and bank account balances that didn't belong to them. ",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-11-19T17:38:40.000Z",
+    "url": "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-11-20T04:49:51.075Z"
+  },
+  {
+    "id": "news-1795150191076-17",
+    "title": "Google Built a Giant ‘Mirror Dimension’ Internet to Test Its Chrome AI Agents",
+    "summary": "The company’s alternate-universe internet serves as a massive sandbox that allows the Chrome team to properly train AI browsing agents—without the risk of them going rogue.",
+    "category": "tech-innovation",
+    "source": "Wired AI",
+    "author": "Unknown",
+    "publishedAt": "2026-11-19T17:00:00.000Z",
+    "url": "https://www.wired.com/story/google-built-a-giant-mirror-dimension-internet-to-test-its-chrome-ai-agents/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-11-20T04:49:51.076Z"
+  },
+  {
+    "id": "news-1795150191075-6",
+    "title": "At Nasdaq opening bell, Anthropic CEO recommits to pacing AI development",
+    "summary": "In his Nasdaq opening bell speech, Dario Amodei reiterated Anthropic's commitment to pacing AI development, regardless of business or political pressure.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-11-19T16:19:41.000Z",
+    "url": "https://techcrunch.com/2026/11/19/at-nasdaq-opening-bell-anthropic-ceo-recommits-to-pacing-ai-development/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-11-20T04:49:51.075Z"
+  },
+  {
+    "id": "news-1795150191076-25",
+    "title": "Warner Music Group tops $2B in a quarter for the first time; subscription streaming revenues rose 14.7% YoY in calendar Q3",
+    "summary": "According to the company's results, published on Thursday (November 19), WMG generated total revenues of USD $2.001 billion in the quarter\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-11-19T15:01:15.000Z",
+    "url": "https://www.musicbusinessworldwide.com/warner-music-group-tops-2b-in-a-quarter-for-the-first-time-subscription-streaming-revenues-rose-14-7-yoy-in-calendar-q3/",
+    "imageUrl": null,
+    "tags": [
+      "Streaming"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-11-20T04:49:51.076Z"
   }
 ]
