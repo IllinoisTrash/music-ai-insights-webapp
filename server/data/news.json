@@ -1,80 +1,237 @@
 [
   {
-    "id": "news-1795150191076-30",
-    "title": "P1Harmony Earns First No. 1 on Top Album Sales Chart With ‘BLOW UP’",
-    "summary": "Plus, Kings of Leon, Steven Wilson, A Charlie Brown Christmas and Ariana Grande make waves in the top 10. ",
+    "id": "news-1795236274441-29",
+    "title": "A Guide to the Best Black Friday Streaming Deals: See Platforms, Prices & Plans for Less",
+    "summary": "Enjoy major bargains across several streaming platforms for Black Friday, with monthly plans as little as $1 and discounts when you purchase a holiday movie.",
     "category": "industry-news",
     "source": "Billboard",
     "author": "Unknown",
-    "publishedAt": "2026-11-20T03:42:01.000Z",
-    "url": "https://www.billboard.com/music/chart-beat/p1harmony-first-no1-top-album-sales-blow-up-1236386121/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-11-20T04:49:51.077Z"
-  },
-  {
-    "id": "news-1795150191077-31",
-    "title": "A Full List of Current 2026 K-Pop Concerts (Updating)",
-    "summary": "From KATSEYE to BOYNEXTDOOR, here's what you can expect from the K-pop concert scene this year.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-11-20T03:11:17.000Z",
-    "url": "https://www.billboard.com/culture/product-recommendations/current-k-pop-concerts-1236234463/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-11-20T04:49:51.077Z"
-  },
-  {
-    "id": "news-1795150191077-32",
-    "title": "The Deals: Yamaha Acquires Visual Technology Company Disguise for $280 Million & More",
-    "summary": "Also: Ovation Rights buys the copyrights to Jeff Wayne's Musical Version of The War of the Worlds, among other recent deals.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-11-20T03:10:25.000Z",
-    "url": "https://www.billboard.com/lists/yamaha-acquires-visual-technology-company-disguise-deals/",
+    "publishedAt": "2026-11-21T01:14:59.000Z",
+    "url": "https://www.billboard.com/culture/product-recommendations/best-black-friday-streaming-deals-2026-prices-plans-1236386882/",
     "imageUrl": null,
     "tags": [
-      "Copyright"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-11-20T04:49:51.077Z"
-  },
-  {
-    "id": "news-1795150191077-33",
-    "title": "Amazon Prime Video Black Friday Cyber Monday Deals: Save Big on Streaming Add-Ons, Movie Purchases & More",
-    "summary": "Running Nov. 19-30, Prime Video's Black Friday Cyber Monday deals bring big savings on streaming add-ons for watching live sports, holiday movies and more.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-11-20T02:11:58.000Z",
-    "url": "https://www.billboard.com/culture/product-recommendations/prime-video-black-friday-cyber-monday-streaming-deals-2026-1236385908/",
-    "imageUrl": null,
-    "tags": [
+      "AI",
       "Streaming"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-11-20T04:49:51.077Z"
+    "fetchedAt": "2026-11-21T04:44:34.441Z"
   },
   {
-    "id": "news-1795150191077-34",
-    "title": "Bruno Mars Mourns Death of Father Peter Hernandez: ‘The Man That Taught Me Everything I Know’",
-    "summary": "\"In my eyes, he was the greatest dad in the world,\" the Grammy-winning artist wrote.",
+    "id": "news-1795236274441-30",
+    "title": "From Bad Bunny to Sexyy Red, Here’s Every Music Cameo in ‘Grand Theft Auto VI’",
+    "summary": "GTA VI sales are nearing $4 billion after just one day.",
     "category": "industry-news",
     "source": "Billboard",
     "author": "Unknown",
-    "publishedAt": "2026-11-20T01:18:29.000Z",
-    "url": "https://www.billboard.com/music/pop/bruno-mars-father-death-peter-hernandez-1236386082/",
+    "publishedAt": "2026-11-21T01:11:58.000Z",
+    "url": "https://www.billboard.com/lists/gta-vi-music-celebrity-cameos-bad-bunny-anitta/",
     "imageUrl": null,
     "tags": [],
     "readTime": 1,
-    "fetchedAt": "2026-11-20T04:49:51.077Z"
+    "fetchedAt": "2026-11-21T04:44:34.441Z"
   },
   {
-    "id": "news-1795150191075-0",
+    "id": "news-1795236274441-31",
+    "title": "Kylie Cantrall Talks ‘Bold, Grown & Messy’ New Music, How Her Disney Fans ‘Coexist’ With Growing Audience",
+    "summary": "The Disney alum gets candid about her new music era at intimate Moxy Hotels Check-In Sessions.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-11-21T00:20:22.000Z",
+    "url": "https://www.billboard.com/music/pop/kyliecantrall-opens-up-about-new-music-its-bold-grown-messy-1236385194/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-11-21T04:44:34.441Z"
+  },
+  {
+    "id": "news-1795236274441-32",
+    "title": "Mort Weiner, Veteran Label Executive, Dies at 92: ‘His Commitment to Artists and Our Industry Was Superb’",
+    "summary": "Over a career spanning nearly four decades, Weiner held senior positions in sales, promotion, marketing and distribution at several major record labels.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-11-21T00:15:54.000Z",
+    "url": "https://www.billboard.com/pro/mort-weiner-death-veteran-record-label-executive-dead-92/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-11-21T04:44:34.441Z"
+  },
+  {
+    "id": "news-1795236274441-33",
+    "title": "Rising Argentine Star Milo J Signs With CAA",
+    "summary": "The rapper, singer, producer and songwriter recently took home four Latin Grammys and is up for two Grammys in 2027.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-11-21T00:03:32.000Z",
+    "url": "https://www.billboard.com/pro/milo-j-signs-caa/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-11-21T04:44:34.442Z"
+  },
+  {
+    "id": "news-1795236274442-34",
+    "title": "In Canada: Billboard Canada’s 2026 Women in Music and 40 Under 40 Lists Are Out",
+    "summary": "Also up north this week: Gracie Abrams discusses Daughter From Hell, her second No. 1 on Billboard Canada's Canadian Albums chart.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-11-20T23:10:59.000Z",
+    "url": "https://www.billboard.com/pro/billboard-canada-women-in-music-40-under-40-2026-lists/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-11-21T04:44:34.442Z"
+  },
+  {
+    "id": "news-1795236274439-0",
+    "title": "Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.",
+    "summary": "Spotify founder Daniel Ek is backing Europa Fusion, a fusion power startup founded by an AI researcher. Here's what the startup is building.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-11-20T19:53:41.000Z",
+    "url": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/",
+    "imageUrl": null,
+    "tags": [
+      "Spotify",
+      "AI",
+      "Startup",
+      "Research"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-11-21T04:44:34.439Z"
+  },
+  {
+    "id": "news-1795236274439-1",
+    "title": "AI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too",
+    "summary": "Mathematicians are having their minds blown by the latest AI-driven result — and there's a competing human solution, too. ",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-11-20T19:32:08.000Z",
+    "url": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-11-21T04:44:34.439Z"
+  },
+  {
+    "id": "news-1795236274441-21",
+    "title": "Vevo dscvr artists to watch 2027: Dalvin La Melodía, Conep, Devon Again, Mari Froes, Die Spitz",
+    "summary": "Introducing the first batch of Vevo's Artists To Watch for 2027...\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-11-20T16:57:17.000Z",
+    "url": "https://www.musicbusinessworldwide.com/vevo-dscvr-artists-to-watch-2027-dalvin-la-melodia-conep-devon-again-mari-froes-die-spitz/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-11-21T04:44:34.441Z"
+  },
+  {
+    "id": "news-1795236274441-22",
+    "title": "Duetti raises $665M, Warner posts a record $2B quarter… It’s MBW’s Weekly Round-Up",
+    "summary": "This week, Duetti confirmed it had raised USD $665 million, with the round led by a Carlyle-anchored ABS. That wasn’t the only time Carlyle – perhaps best known in music to date for backing Scooter Braun’s Ithaca Holdings – appeared in MBW’s stories in recent days. The firm, which founded Litmus Music in 2022 and … Continued\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-11-20T15:19:41.000Z",
+    "url": "https://www.musicbusinessworldwide.com/duetti-raises-665m-warner-posts-a-record-2b-quarter-its-mbws-weekly-round-up/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-11-21T04:44:34.441Z"
+  },
+  {
+    "id": "news-1795236274441-23",
+    "title": "NetEase Cloud Music’s Q3 revenues fell 0.9% YoY to $290m – after subscription revenues grew 5.3% in H1",
+    "summary": "NetEase Cloud Music has re-signed with all three majors this year, but its subscription revenue growth has slowed to roughly a third of its pace a year earlier.\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-11-20T15:03:12.000Z",
+    "url": "https://www.musicbusinessworldwide.com/netease-cloud-musics-q3-revenues-fell-0-9-yoy-to-290m-after-subscription-revenues-grew-5-3-in-h1/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-11-21T04:44:34.441Z"
+  },
+  {
+    "id": "news-1795236274440-11",
+    "title": "NVIDIA AI Releases Nemotron-Labs-Sigma, a Continuous Diffusion Language Model with 14 checkpoints at 3B/8B",
+    "summary": "NVIDIA released Nemotron-Labs-Sigma, 14 open 3B and 8B continuous diffusion language model checkpoints. Sigma denoises text in a learned 16-D embedding space, distills to few-step samplers, and decodes up to 4.20x faster than autoregressive decoding.\nThe post NVIDIA AI Releases Nemotron-Labs-Sigma, a Continuous Diffusion Language Model with 14 checkpoints at 3B/8B appeared first on MarkTechPost.\n",
+    "category": "tech-innovation",
+    "source": "MarkTechPost",
+    "author": "Unknown",
+    "publishedAt": "2026-11-20T14:44:52.000Z",
+    "url": "https://www.marktechpost.com/2026/11/20/nvidia-nemotron-labs-sigma-continuous-diffusion-language-model/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-11-21T04:44:34.440Z"
+  },
+  {
+    "id": "news-1795236274441-24",
+    "title": "Ex-Hipgnosis exec Alexander Bonavia launches Rendezvous Sound via JVs with Create-backed broke and Enhanced",
+    "summary": "Create Music Group owns broke and acquired a 50% stake in Enhanced in December 2024.\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-11-20T13:03:26.000Z",
+    "url": "https://www.musicbusinessworldwide.com/ex-hipgnosis-exec-alexander-bonavia-launches-rendezvous-sound-via-jvs-with-create-backed-broke-and-enhanced/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-11-21T04:44:34.441Z"
+  },
+  {
+    "id": "news-1795236274440-16",
+    "title": "Muse Is Unleashing a World of Pettiness on Instagram",
+    "summary": "Meta’s AI assistant can track and unfollow Instagram users who don’t follow you back—and some people are taking full advantage.",
+    "category": "tech-innovation",
+    "source": "Wired AI",
+    "author": "Unknown",
+    "publishedAt": "2026-11-20T12:00:00.000Z",
+    "url": "https://www.wired.com/story/muse-is-unleashing-a-world-of-pettiness-on-instagram/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-11-21T04:44:34.440Z"
+  },
+  {
+    "id": "news-1795236274440-17",
+    "title": "This 16-Year-Old Founded an AI Missile Startup. He’s Targeting ‘Cost per Kill’",
+    "summary": "Henrijs Dandzbergs dropped out of high school to join startup accelerator Y Combinator. With a new breed of missile, he wants to make killing as efficient as possible for the US and its military allies.",
+    "category": "tech-innovation",
+    "source": "Wired AI",
+    "author": "Unknown",
+    "publishedAt": "2026-11-20T07:00:00.000Z",
+    "url": "https://www.wired.com/story/henrijs-dandzbergs-polemos-missiles-ai-warfare/",
+    "imageUrl": null,
+    "tags": [
+      "AI",
+      "Startup"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-11-21T04:44:34.441Z"
+  },
+  {
+    "id": "news-1795236274439-2",
     "title": "Apple may be developing its own AI agent that runs your Mac",
     "summary": "The iPhone maker appears to be building agents that can compete with the likes of Meta Muse, Instinct, Claude, and OpenAI Dots. ",
     "category": "ai-research",
@@ -87,26 +244,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-11-20T04:49:51.075Z"
+    "fetchedAt": "2026-11-21T04:44:34.439Z"
   },
   {
-    "id": "news-1795150191077-35",
-    "title": "Robert Glasper Breaks Down What Makes Kendrick Lamar’s ‘To Pimp a Butterfly’ Special & Speaks Up Against AI | Billboard News Interview",
-    "summary": "Robert Glasper breaks down why AI can’t copy the human “mistakes” that make music feel real. In this Billboard News interview, Glasper talks bridging jazz, hip-hop, R&B and soul — and what separates great musicians from artists who change culture. Glasper also reflects on working with Kendrick Lamar on To Pimp a Butterfly, why H.E.R. […]",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-11-19T23:15:15.000Z",
-    "url": "https://www.billboard.com/video/robert-glasper-billboard-news-interview/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-11-20T04:49:51.077Z"
-  },
-  {
-    "id": "news-1795150191075-1",
+    "id": "news-1795236274439-3",
     "title": "Meta’s new Muse Charm device may cost $300",
     "summary": "Meta hasn't denied the reporting from The Information, saying only that it will \"have more to share soon\" about its upcoming AI wearable.",
     "category": "ai-research",
@@ -119,10 +260,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-11-20T04:49:51.075Z"
+    "fetchedAt": "2026-11-21T04:44:34.439Z"
   },
   {
-    "id": "news-1795150191076-16",
+    "id": "news-1795236274441-18",
     "title": "What’s With All These Outages?",
     "summary": "This week on “Uncanny Valley,” we discuss the outages that have swept digital life over the past week, where new money from Anthropic’s IPO is going, and the AI chip world post-Jensen Huang.",
     "category": "tech-innovation",
@@ -135,10 +276,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-11-20T04:49:51.076Z"
+    "fetchedAt": "2026-11-21T04:44:34.441Z"
   },
   {
-    "id": "news-1795150191075-2",
+    "id": "news-1795236274440-4",
     "title": "These tech outages are giving Y2K, AI agent style",
     "summary": "Are the recent outages in the airline booking systems, banking platforms, and productivity platforms really a coincidence? There's actually likely something deeper going on, cybersecurity experts say.",
     "category": "ai-research",
@@ -151,10 +292,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-11-20T04:49:51.075Z"
+    "fetchedAt": "2026-11-21T04:44:34.440Z"
   },
   {
-    "id": "news-1795150191076-23",
+    "id": "news-1795236274441-25",
     "title": "Margin Call: On Spotify, ‘Marketplace’, and the price labels pay for promotion.",
     "summary": "The latest 'Tim's Take' from Music Business Worldwide founder, Tim Ingham.\nSource",
     "category": "industry-news",
@@ -167,150 +308,6 @@
       "Spotify"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-11-20T04:49:51.076Z"
-  },
-  {
-    "id": "news-1795150191075-3",
-    "title": "The unfolding Jensen Huang scandal: a timeline",
-    "summary": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-11-19T20:18:49.000Z",
-    "url": "https://techcrunch.com/2026/11/19/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-11-20T04:49:51.075Z"
-  },
-  {
-    "id": "news-1795150191076-24",
-    "title": "Producer sues Travis Scott, Don Toliver, and Sony Music, claiming he owns half the master of JackBoys track ‘What To Do?’",
-    "summary": "Early Yellow claims Sony and Epic filed false counter-notices to get the 2019 track back on Spotify, Apple Music, and YouTube after his takedowns.\nSource",
-    "category": "industry-news",
-    "source": "Music Business Worldwide",
-    "author": "Unknown",
-    "publishedAt": "2026-11-19T19:09:58.000Z",
-    "url": "https://www.musicbusinessworldwide.com/producer-sues-travis-scott-don-toliver-and-sony-music-claiming-he-owns-half-the-master-of-jackboys-track-what-to-do/",
-    "imageUrl": null,
-    "tags": [
-      "Spotify",
-      "Apple Music",
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-11-20T04:49:51.076Z"
-  },
-  {
-    "id": "news-1795150191076-10",
-    "title": "13 Best Agent Gateways in 2026 for MCP, A2A and LLM Traffic: Kong, Bifrost, AgentCore, Arcade",
-    "summary": "We ranked the 13 best agent gateways of 2026 by how they govern model, MCP tool and agent-to-agent traffic, with verified pricing, deployment options and the trade-offs each vendor's marketing leaves out.\nThe post 13 Best Agent Gateways in 2026 for MCP, A2A and LLM Traffic: Kong, Bifrost, AgentCore, Arcade appeared first on MarkTechPost.\n",
-    "category": "ai-research",
-    "source": "MarkTechPost",
-    "author": "Unknown",
-    "publishedAt": "2026-11-19T18:13:21.000Z",
-    "url": "https://www.marktechpost.com/2026/11/19/best-agent-gateways-2026/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-11-20T04:49:51.076Z"
-  },
-  {
-    "id": "news-1795150191075-4",
-    "title": "Google gives Gemini the ability to use your Mac for you",
-    "summary": "Google's latest update to Gemini brings an AI agent to the Mac that can organize files, fill out forms, and tackle multistep workflows.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-11-19T18:09:11.000Z",
-    "url": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-11-20T04:49:51.075Z"
-  },
-  {
-    "id": "news-1795150191076-11",
-    "title": "Perplexity Launches Orchestrator API for Failover and Model Routing",
-    "summary": "Perplexity’s Orchestrator API serves OpenAI, Anthropic, Google, xAI and open-weight models through 1 endpoint, with same-model provider failover, unified billing and a preview perplexity/auto router that sends each request to a described route.\nThe post Perplexity Launches Orchestrator API for Failover and Model Routing appeared first on MarkTechPost.\n",
-    "category": "ai-research",
-    "source": "MarkTechPost",
-    "author": "Unknown",
-    "publishedAt": "2026-11-19T17:47:00.000Z",
-    "url": "https://www.marktechpost.com/2026/11/19/perplexity-orchestrator-api-failover-model-routing/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-11-20T04:49:51.076Z"
-  },
-  {
-    "id": "news-1795150191075-5",
-    "title": "Meta’s AI agent Muse is mixing up conversations and could be exposing private data, report says",
-    "summary": "In some of these instances, employees said Muse surfaced messages about childcare requests they never made, career advice they never asked for, product orders they never placed, and bank account balances that didn't belong to them. ",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-11-19T17:38:40.000Z",
-    "url": "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-11-20T04:49:51.075Z"
-  },
-  {
-    "id": "news-1795150191076-17",
-    "title": "Google Built a Giant ‘Mirror Dimension’ Internet to Test Its Chrome AI Agents",
-    "summary": "The company’s alternate-universe internet serves as a massive sandbox that allows the Chrome team to properly train AI browsing agents—without the risk of them going rogue.",
-    "category": "tech-innovation",
-    "source": "Wired AI",
-    "author": "Unknown",
-    "publishedAt": "2026-11-19T17:00:00.000Z",
-    "url": "https://www.wired.com/story/google-built-a-giant-mirror-dimension-internet-to-test-its-chrome-ai-agents/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-11-20T04:49:51.076Z"
-  },
-  {
-    "id": "news-1795150191075-6",
-    "title": "At Nasdaq opening bell, Anthropic CEO recommits to pacing AI development",
-    "summary": "In his Nasdaq opening bell speech, Dario Amodei reiterated Anthropic's commitment to pacing AI development, regardless of business or political pressure.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-11-19T16:19:41.000Z",
-    "url": "https://techcrunch.com/2026/11/19/at-nasdaq-opening-bell-anthropic-ceo-recommits-to-pacing-ai-development/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-11-20T04:49:51.075Z"
-  },
-  {
-    "id": "news-1795150191076-25",
-    "title": "Warner Music Group tops $2B in a quarter for the first time; subscription streaming revenues rose 14.7% YoY in calendar Q3",
-    "summary": "According to the company's results, published on Thursday (November 19), WMG generated total revenues of USD $2.001 billion in the quarter\nSource",
-    "category": "industry-news",
-    "source": "Music Business Worldwide",
-    "author": "Unknown",
-    "publishedAt": "2026-11-19T15:01:15.000Z",
-    "url": "https://www.musicbusinessworldwide.com/warner-music-group-tops-2b-in-a-quarter-for-the-first-time-subscription-streaming-revenues-rose-14-7-yoy-in-calendar-q3/",
-    "imageUrl": null,
-    "tags": [
-      "Streaming"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-11-20T04:49:51.076Z"
+    "fetchedAt": "2026-11-21T04:44:34.441Z"
   }
 ]
