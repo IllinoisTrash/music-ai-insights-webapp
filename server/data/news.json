@@ -1,93 +1,129 @@
 [
   {
-    "id": "news-1795236274441-29",
-    "title": "A Guide to the Best Black Friday Streaming Deals: See Platforms, Prices & Plans for Less",
-    "summary": "Enjoy major bargains across several streaming platforms for Black Friday, with monthly plans as little as $1 and discounts when you purchase a holiday movie.",
+    "id": "news-1795319948266-31",
+    "title": "Gorillaz, CHVRCHES, Yung Lean & More: 5 Best Moments in Mexico City’s Corona Capital (Day 1)",
+    "summary": "The festival is celebrating its 16th edition in Mexico City this weekend. Here are some of Friday’s standout performances.",
     "category": "industry-news",
     "source": "Billboard",
     "author": "Unknown",
-    "publishedAt": "2026-11-21T01:14:59.000Z",
-    "url": "https://www.billboard.com/culture/product-recommendations/best-black-friday-streaming-deals-2026-prices-plans-1236386882/",
+    "publishedAt": "2026-11-21T22:00:03.000Z",
+    "url": "https://www.billboard.com/lists/corona-capital-mexico-day-1-gorillaz-chvrches-yung-lean/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-11-22T03:59:08.266Z"
+  },
+  {
+    "id": "news-1795319948264-0",
+    "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
+    "summary": "Signal is limiting users' ability to take screenshots in both its Android and iOS apps.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-11-21T21:37:10.000Z",
+    "url": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-11-22T03:59:08.264Z"
+  },
+  {
+    "id": "news-1795319948266-32",
+    "title": "Gorillaz Celebrate Mexico’s ‘Revolutionary Spirit’ at Corona Capital, Bring Out Johnny Marr and Trueno",
+    "summary": "The British band returned to Mexico City for the first time in eight years to headline the first day of the popular festival.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-11-21T18:46:58.000Z",
+    "url": "https://www.billboard.com/music/latin/gorillaz-corona-capital-festival-2026-mexico-city-recap-1236387340/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-11-22T03:59:08.266Z"
+  },
+  {
+    "id": "news-1795319948266-33",
+    "title": "Ariana Grande Recalls ‘Wildest Place’ She’s Heard Her Music Playing: ‘Getting a Bikini Wax’",
+    "summary": "The star told the story of the slightly awkward encounter while promoting new movie Focker-in-Law.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-11-21T17:31:31.000Z",
+    "url": "https://www.billboard.com/music/pop/ariana-grande-bikini-wax-song-story-focker-in-law-interview-1236387309/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-11-22T03:59:08.266Z"
+  },
+  {
+    "id": "news-1795319948264-1",
+    "title": "Here are the top AI agents that can live in your text messages",
+    "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-11-21T17:00:00.000Z",
+    "url": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-11-22T03:59:08.264Z"
+  },
+  {
+    "id": "news-1795319948264-2",
+    "title": "Is selling an AI version of your face to this microdrama startup the future of Hollywood?",
+    "summary": "An actor has licensed his face to a microdrama startup — in a trend that's already popular in China. Experts question the long-term consequences if this becomes a trend in Hollywood, too. ",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-11-21T16:00:00.000Z",
+    "url": "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/",
     "imageUrl": null,
     "tags": [
       "AI",
-      "Streaming"
+      "Startup"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-11-21T04:44:34.441Z"
+    "fetchedAt": "2026-11-22T03:59:08.264Z"
   },
   {
-    "id": "news-1795236274441-30",
-    "title": "From Bad Bunny to Sexyy Red, Here’s Every Music Cameo in ‘Grand Theft Auto VI’",
-    "summary": "GTA VI sales are nearing $4 billion after just one day.",
-    "category": "industry-news",
-    "source": "Billboard",
+    "id": "news-1795319948265-17",
+    "title": "The Outages Are Just Getting Started",
+    "summary": "AI is forcing companies to patch their systems faster as attackers race to exploit newly discovered vulnerabilities. Welcome to internet outage hell.",
+    "category": "tech-innovation",
+    "source": "Wired AI",
     "author": "Unknown",
-    "publishedAt": "2026-11-21T01:11:58.000Z",
-    "url": "https://www.billboard.com/lists/gta-vi-music-celebrity-cameos-bad-bunny-anitta/",
+    "publishedAt": "2026-11-21T13:00:00.000Z",
+    "url": "https://www.wired.com/story/brace-yourself-for-years-of-outage-chaos/",
     "imageUrl": null,
-    "tags": [],
+    "tags": [
+      "AI"
+    ],
     "readTime": 1,
-    "fetchedAt": "2026-11-21T04:44:34.441Z"
+    "fetchedAt": "2026-11-22T03:59:08.265Z"
   },
   {
-    "id": "news-1795236274441-31",
-    "title": "Kylie Cantrall Talks ‘Bold, Grown & Messy’ New Music, How Her Disney Fans ‘Coexist’ With Growing Audience",
-    "summary": "The Disney alum gets candid about her new music era at intimate Moxy Hotels Check-In Sessions.",
-    "category": "industry-news",
-    "source": "Billboard",
+    "id": "news-1795319948265-12",
+    "title": "OpenAI Ships GPT-Live-1.1 for Voice Agents, Cuts Idle Cost to $0.02/Min",
+    "summary": "OpenAI has released GPT-Live-1.1 in the API. The full-duplex voice model improves multilingual accents and transcription, and a new standby mode bills idle WebRTC time at $0.02 per minute instead of $0.05.\nThe post OpenAI Ships GPT-Live-1.1 for Voice Agents, Cuts Idle Cost to $0.02/Min appeared first on MarkTechPost.\n",
+    "category": "ai-research",
+    "source": "MarkTechPost",
     "author": "Unknown",
-    "publishedAt": "2026-11-21T00:20:22.000Z",
-    "url": "https://www.billboard.com/music/pop/kyliecantrall-opens-up-about-new-music-its-bold-grown-messy-1236385194/",
+    "publishedAt": "2026-11-21T11:46:17.000Z",
+    "url": "https://www.marktechpost.com/2026/11/21/openai-gpt-live-1-1-api-standby-mode/",
     "imageUrl": null,
-    "tags": [],
+    "tags": [
+      "AI"
+    ],
     "readTime": 1,
-    "fetchedAt": "2026-11-21T04:44:34.441Z"
+    "fetchedAt": "2026-11-22T03:59:08.265Z"
   },
   {
-    "id": "news-1795236274441-32",
-    "title": "Mort Weiner, Veteran Label Executive, Dies at 92: ‘His Commitment to Artists and Our Industry Was Superb’",
-    "summary": "Over a career spanning nearly four decades, Weiner held senior positions in sales, promotion, marketing and distribution at several major record labels.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-11-21T00:15:54.000Z",
-    "url": "https://www.billboard.com/pro/mort-weiner-death-veteran-record-label-executive-dead-92/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-11-21T04:44:34.441Z"
-  },
-  {
-    "id": "news-1795236274441-33",
-    "title": "Rising Argentine Star Milo J Signs With CAA",
-    "summary": "The rapper, singer, producer and songwriter recently took home four Latin Grammys and is up for two Grammys in 2027.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-11-21T00:03:32.000Z",
-    "url": "https://www.billboard.com/pro/milo-j-signs-caa/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-11-21T04:44:34.442Z"
-  },
-  {
-    "id": "news-1795236274442-34",
-    "title": "In Canada: Billboard Canada’s 2026 Women in Music and 40 Under 40 Lists Are Out",
-    "summary": "Also up north this week: Gracie Abrams discusses Daughter From Hell, her second No. 1 on Billboard Canada's Canadian Albums chart.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-11-20T23:10:59.000Z",
-    "url": "https://www.billboard.com/pro/billboard-canada-women-in-music-40-under-40-2026-lists/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-11-21T04:44:34.442Z"
-  },
-  {
-    "id": "news-1795236274439-0",
+    "id": "news-1795319948265-3",
     "title": "Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.",
     "summary": "Spotify founder Daniel Ek is backing Europa Fusion, a fusion power startup founded by an AI researcher. Here's what the startup is building.",
     "category": "ai-research",
@@ -103,10 +139,10 @@
       "Research"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-11-21T04:44:34.439Z"
+    "fetchedAt": "2026-11-22T03:59:08.265Z"
   },
   {
-    "id": "news-1795236274439-1",
+    "id": "news-1795319948265-4",
     "title": "AI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too",
     "summary": "Mathematicians are having their minds blown by the latest AI-driven result — and there's a competing human solution, too. ",
     "category": "ai-research",
@@ -119,10 +155,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-11-21T04:44:34.439Z"
+    "fetchedAt": "2026-11-22T03:59:08.265Z"
   },
   {
-    "id": "news-1795236274441-21",
+    "id": "news-1795319948265-23",
     "title": "Vevo dscvr artists to watch 2027: Dalvin La Melodía, Conep, Devon Again, Mari Froes, Die Spitz",
     "summary": "Introducing the first batch of Vevo's Artists To Watch for 2027...\nSource",
     "category": "industry-news",
@@ -135,10 +171,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-11-21T04:44:34.441Z"
+    "fetchedAt": "2026-11-22T03:59:08.265Z"
   },
   {
-    "id": "news-1795236274441-22",
+    "id": "news-1795319948265-24",
     "title": "Duetti raises $665M, Warner posts a record $2B quarter… It’s MBW’s Weekly Round-Up",
     "summary": "This week, Duetti confirmed it had raised USD $665 million, with the round led by a Carlyle-anchored ABS. That wasn’t the only time Carlyle – perhaps best known in music to date for backing Scooter Braun’s Ithaca Holdings – appeared in MBW’s stories in recent days. The firm, which founded Litmus Music in 2022 and … Continued\nSource",
     "category": "industry-news",
@@ -151,10 +187,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-11-21T04:44:34.441Z"
+    "fetchedAt": "2026-11-22T03:59:08.265Z"
   },
   {
-    "id": "news-1795236274441-23",
+    "id": "news-1795319948265-25",
     "title": "NetEase Cloud Music’s Q3 revenues fell 0.9% YoY to $290m – after subscription revenues grew 5.3% in H1",
     "summary": "NetEase Cloud Music has re-signed with all three majors this year, but its subscription revenue growth has slowed to roughly a third of its pace a year earlier.\nSource",
     "category": "industry-news",
@@ -165,10 +201,10 @@
     "imageUrl": null,
     "tags": [],
     "readTime": 1,
-    "fetchedAt": "2026-11-21T04:44:34.441Z"
+    "fetchedAt": "2026-11-22T03:59:08.265Z"
   },
   {
-    "id": "news-1795236274440-11",
+    "id": "news-1795319948265-13",
     "title": "NVIDIA AI Releases Nemotron-Labs-Sigma, a Continuous Diffusion Language Model with 14 checkpoints at 3B/8B",
     "summary": "NVIDIA released Nemotron-Labs-Sigma, 14 open 3B and 8B continuous diffusion language model checkpoints. Sigma denoises text in a learned 16-D embedding space, distills to few-step samplers, and decodes up to 4.20x faster than autoregressive decoding.\nThe post NVIDIA AI Releases Nemotron-Labs-Sigma, a Continuous Diffusion Language Model with 14 checkpoints at 3B/8B appeared first on MarkTechPost.\n",
     "category": "tech-innovation",
@@ -181,10 +217,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-11-21T04:44:34.440Z"
+    "fetchedAt": "2026-11-22T03:59:08.265Z"
   },
   {
-    "id": "news-1795236274441-24",
+    "id": "news-1795319948266-26",
     "title": "Ex-Hipgnosis exec Alexander Bonavia launches Rendezvous Sound via JVs with Create-backed broke and Enhanced",
     "summary": "Create Music Group owns broke and acquired a 50% stake in Enhanced in December 2024.\nSource",
     "category": "industry-news",
@@ -195,10 +231,10 @@
     "imageUrl": null,
     "tags": [],
     "readTime": 1,
-    "fetchedAt": "2026-11-21T04:44:34.441Z"
+    "fetchedAt": "2026-11-22T03:59:08.266Z"
   },
   {
-    "id": "news-1795236274440-16",
+    "id": "news-1795319948265-18",
     "title": "Muse Is Unleashing a World of Pettiness on Instagram",
     "summary": "Meta’s AI assistant can track and unfollow Instagram users who don’t follow you back—and some people are taking full advantage.",
     "category": "tech-innovation",
@@ -211,10 +247,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-11-21T04:44:34.440Z"
+    "fetchedAt": "2026-11-22T03:59:08.265Z"
   },
   {
-    "id": "news-1795236274440-17",
+    "id": "news-1795319948265-19",
     "title": "This 16-Year-Old Founded an AI Missile Startup. He’s Targeting ‘Cost per Kill’",
     "summary": "Henrijs Dandzbergs dropped out of high school to join startup accelerator Y Combinator. With a new breed of missile, he wants to make killing as efficient as possible for the US and its military allies.",
     "category": "tech-innovation",
@@ -228,10 +264,10 @@
       "Startup"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-11-21T04:44:34.441Z"
+    "fetchedAt": "2026-11-22T03:59:08.265Z"
   },
   {
-    "id": "news-1795236274439-2",
+    "id": "news-1795319948265-5",
     "title": "Apple may be developing its own AI agent that runs your Mac",
     "summary": "The iPhone maker appears to be building agents that can compete with the likes of Meta Muse, Instinct, Claude, and OpenAI Dots. ",
     "category": "ai-research",
@@ -244,10 +280,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-11-21T04:44:34.439Z"
+    "fetchedAt": "2026-11-22T03:59:08.265Z"
   },
   {
-    "id": "news-1795236274439-3",
+    "id": "news-1795319948265-6",
     "title": "Meta’s new Muse Charm device may cost $300",
     "summary": "Meta hasn't denied the reporting from The Information, saying only that it will \"have more to share soon\" about its upcoming AI wearable.",
     "category": "ai-research",
@@ -260,10 +296,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-11-21T04:44:34.439Z"
+    "fetchedAt": "2026-11-22T03:59:08.265Z"
   },
   {
-    "id": "news-1795236274441-18",
+    "id": "news-1795319948265-20",
     "title": "What’s With All These Outages?",
     "summary": "This week on “Uncanny Valley,” we discuss the outages that have swept digital life over the past week, where new money from Anthropic’s IPO is going, and the AI chip world post-Jensen Huang.",
     "category": "tech-innovation",
@@ -276,38 +312,6 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-11-21T04:44:34.441Z"
-  },
-  {
-    "id": "news-1795236274440-4",
-    "title": "These tech outages are giving Y2K, AI agent style",
-    "summary": "Are the recent outages in the airline booking systems, banking platforms, and productivity platforms really a coincidence? There's actually likely something deeper going on, cybersecurity experts say.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-11-19T21:42:31.000Z",
-    "url": "https://techcrunch.com/2026/11/19/these-tech-outages-are-giving-y2k-ai-agent-style/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-11-21T04:44:34.440Z"
-  },
-  {
-    "id": "news-1795236274441-25",
-    "title": "Margin Call: On Spotify, ‘Marketplace’, and the price labels pay for promotion.",
-    "summary": "The latest 'Tim's Take' from Music Business Worldwide founder, Tim Ingham.\nSource",
-    "category": "industry-news",
-    "source": "Music Business Worldwide",
-    "author": "Unknown",
-    "publishedAt": "2026-11-19T21:32:52.000Z",
-    "url": "https://www.musicbusinessworldwide.com/margin-call-on-spotify-marketplace-and-the-price-labels-pay-for-promotion/",
-    "imageUrl": null,
-    "tags": [
-      "Spotify"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-11-21T04:44:34.441Z"
+    "fetchedAt": "2026-11-22T03:59:08.265Z"
   }
 ]
