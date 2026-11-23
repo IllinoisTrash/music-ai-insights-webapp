@@ -1,20 +1,128 @@
 [
   {
-    "id": "news-1795319948266-31",
-    "title": "Gorillaz, CHVRCHES, Yung Lean & More: 5 Best Moments in Mexico City’s Corona Capital (Day 1)",
-    "summary": "The festival is celebrating its 16th edition in Mexico City this weekend. Here are some of Friday’s standout performances.",
+    "id": "news-1795408897417-30",
+    "title": "Molly Meldrum, Australian Music Broadcaster and ‘Countdown’ Host, Dies at 83",
+    "summary": "\"Affectionately dubbed 'The Guru,' Molly was the heartbeat, the champion and the spirit of Australian music,\" his family said in a statement.",
     "category": "industry-news",
     "source": "Billboard",
     "author": "Unknown",
-    "publishedAt": "2026-11-21T22:00:03.000Z",
-    "url": "https://www.billboard.com/lists/corona-capital-mexico-day-1-gorillaz-chvrches-yung-lean/",
+    "publishedAt": "2026-11-23T00:30:36.000Z",
+    "url": "https://www.billboard.com/music/music-news/molly-meldrum-countdown-host-dies-83-1236387631/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-11-23T04:41:37.417Z"
+  },
+  {
+    "id": "news-1795408897417-31",
+    "title": "Fans Choose LISA’s ‘Leave With Me’ as This Week’s Favorite New Music",
+    "summary": "Her latest solo release brought in more than 84% of the vote.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-11-22T23:18:25.000Z",
+    "url": "https://www.billboard.com/music/music-news/lisa-leave-with-me-best-new-music-poll-results-1236387524/",
     "imageUrl": null,
     "tags": [],
     "readTime": 1,
-    "fetchedAt": "2026-11-22T03:59:08.266Z"
+    "fetchedAt": "2026-11-23T04:41:37.417Z"
   },
   {
-    "id": "news-1795319948264-0",
+    "id": "news-1795408897417-32",
+    "title": "Morgan Wallen, Garth Brooks, Taylor Swift & More Artists With Most Weeks at No. 1 on Top Country Albums Chart: Full List",
+    "summary": "Male solo artists dominate, though three female solo artists and two groups have also achieved the feat.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-11-22T22:01:27.000Z",
+    "url": "https://www.billboard.com/lists/top-country-albums-number-ones-biggest/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-11-23T04:41:37.417Z"
+  },
+  {
+    "id": "news-1795408897418-33",
+    "title": "Twenty One Pilots, The Offspring, Peaches & More: 5 Best Moments in Mexico City’s Corona Capital (Day 2)",
+    "summary": "Duo Tyler Joseph and Josh Dun bid an indefinite farewell to the stage on the second day of the festival.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-11-22T21:58:31.000Z",
+    "url": "https://www.billboard.com/lists/corona-capital-2026-day-2-twenty-one-pilots-offspring/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-11-23T04:41:37.418Z"
+  },
+  {
+    "id": "news-1795408897416-0",
+    "title": "OpenAI’s chief scientist has thoughts on how to limit AI development",
+    "summary": "To establish a speed limit on AI development, you need to agree on how to measure speed.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-11-22T21:14:07.000Z",
+    "url": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-11-23T04:41:37.416Z"
+  },
+  {
+    "id": "news-1795408897417-16",
+    "title": "Banks Have Had It Up to Here With Your AI Agent",
+    "summary": "Major US financial institutions are banning third-party bots from logging into your accounts—and warning that any costly bot mistakes are strictly your problem.",
+    "category": "tech-innovation",
+    "source": "Wired AI",
+    "author": "Unknown",
+    "publishedAt": "2026-11-22T11:00:00.000Z",
+    "url": "https://www.wired.com/story/banks-are-cracking-down-on-ai-agents/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-11-23T04:41:37.417Z"
+  },
+  {
+    "id": "news-1795408897417-12",
+    "title": "Best Personal AI Agents in 2026: OpenClaw, Hermes Agent, Gemini Spark and More, Compared on Memory, Security and Cost",
+    "summary": "Hermes Agent, OpenClaw, Gemini Spark, OpenAI dots, Meta Muse and Perplexity Personal Computer ranked on memory, security defaults and real cost.\nThe post Best Personal AI Agents in 2026: OpenClaw, Hermes Agent, Gemini Spark and More, Compared on Memory, Security and Cost appeared first on MarkTechPost.\n",
+    "category": "ai-research",
+    "source": "MarkTechPost",
+    "author": "Unknown",
+    "publishedAt": "2026-11-22T10:36:17.000Z",
+    "url": "https://www.marktechpost.com/2026/11/22/best-personal-ai-agents-2026/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-11-23T04:41:37.417Z"
+  },
+  {
+    "id": "news-1795408897417-13",
+    "title": "Google AI Previews Tool Retrieval in the Gemini API for Large Tool Libraries",
+    "summary": "Google launched Gemini API Tool Retrieval in preview. Agents keep a large tool library on standby and load each parameter schema only when needed, inside one Interactions API request.\nThe post Google AI Previews Tool Retrieval in the Gemini API for Large Tool Libraries appeared first on MarkTechPost.\n",
+    "category": "ai-research",
+    "source": "MarkTechPost",
+    "author": "Unknown",
+    "publishedAt": "2026-11-22T10:03:54.000Z",
+    "url": "https://www.marktechpost.com/2026/11/22/google-gemini-api-tool-retrieval/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-11-23T04:41:37.417Z"
+  },
+  {
+    "id": "news-1795408897416-1",
     "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
     "summary": "Signal is limiting users' ability to take screenshots in both its Android and iOS apps.",
     "category": "ai-research",
@@ -27,38 +135,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-11-22T03:59:08.264Z"
+    "fetchedAt": "2026-11-23T04:41:37.416Z"
   },
   {
-    "id": "news-1795319948266-32",
-    "title": "Gorillaz Celebrate Mexico’s ‘Revolutionary Spirit’ at Corona Capital, Bring Out Johnny Marr and Trueno",
-    "summary": "The British band returned to Mexico City for the first time in eight years to headline the first day of the popular festival.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-11-21T18:46:58.000Z",
-    "url": "https://www.billboard.com/music/latin/gorillaz-corona-capital-festival-2026-mexico-city-recap-1236387340/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-11-22T03:59:08.266Z"
-  },
-  {
-    "id": "news-1795319948266-33",
-    "title": "Ariana Grande Recalls ‘Wildest Place’ She’s Heard Her Music Playing: ‘Getting a Bikini Wax’",
-    "summary": "The star told the story of the slightly awkward encounter while promoting new movie Focker-in-Law.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-11-21T17:31:31.000Z",
-    "url": "https://www.billboard.com/music/pop/ariana-grande-bikini-wax-song-story-focker-in-law-interview-1236387309/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-11-22T03:59:08.266Z"
-  },
-  {
-    "id": "news-1795319948264-1",
+    "id": "news-1795408897416-2",
     "title": "Here are the top AI agents that can live in your text messages",
     "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
     "category": "ai-research",
@@ -71,10 +151,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-11-22T03:59:08.264Z"
+    "fetchedAt": "2026-11-23T04:41:37.416Z"
   },
   {
-    "id": "news-1795319948264-2",
+    "id": "news-1795408897417-3",
     "title": "Is selling an AI version of your face to this microdrama startup the future of Hollywood?",
     "summary": "An actor has licensed his face to a microdrama startup — in a trend that's already popular in China. Experts question the long-term consequences if this becomes a trend in Hollywood, too. ",
     "category": "ai-research",
@@ -88,10 +168,10 @@
       "Startup"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-11-22T03:59:08.264Z"
+    "fetchedAt": "2026-11-23T04:41:37.417Z"
   },
   {
-    "id": "news-1795319948265-17",
+    "id": "news-1795408897417-17",
     "title": "The Outages Are Just Getting Started",
     "summary": "AI is forcing companies to patch their systems faster as attackers race to exploit newly discovered vulnerabilities. Welcome to internet outage hell.",
     "category": "tech-innovation",
@@ -104,10 +184,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-11-22T03:59:08.265Z"
+    "fetchedAt": "2026-11-23T04:41:37.417Z"
   },
   {
-    "id": "news-1795319948265-12",
+    "id": "news-1795408897417-14",
     "title": "OpenAI Ships GPT-Live-1.1 for Voice Agents, Cuts Idle Cost to $0.02/Min",
     "summary": "OpenAI has released GPT-Live-1.1 in the API. The full-duplex voice model improves multilingual accents and transcription, and a new standby mode bills idle WebRTC time at $0.02 per minute instead of $0.05.\nThe post OpenAI Ships GPT-Live-1.1 for Voice Agents, Cuts Idle Cost to $0.02/Min appeared first on MarkTechPost.\n",
     "category": "ai-research",
@@ -120,10 +200,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-11-22T03:59:08.265Z"
+    "fetchedAt": "2026-11-23T04:41:37.417Z"
   },
   {
-    "id": "news-1795319948265-3",
+    "id": "news-1795408897417-4",
     "title": "Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.",
     "summary": "Spotify founder Daniel Ek is backing Europa Fusion, a fusion power startup founded by an AI researcher. Here's what the startup is building.",
     "category": "ai-research",
@@ -139,10 +219,10 @@
       "Research"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-11-22T03:59:08.265Z"
+    "fetchedAt": "2026-11-23T04:41:37.417Z"
   },
   {
-    "id": "news-1795319948265-4",
+    "id": "news-1795408897417-5",
     "title": "AI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too",
     "summary": "Mathematicians are having their minds blown by the latest AI-driven result — and there's a competing human solution, too. ",
     "category": "ai-research",
@@ -155,10 +235,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-11-22T03:59:08.265Z"
+    "fetchedAt": "2026-11-23T04:41:37.417Z"
   },
   {
-    "id": "news-1795319948265-23",
+    "id": "news-1795408897417-22",
     "title": "Vevo dscvr artists to watch 2027: Dalvin La Melodía, Conep, Devon Again, Mari Froes, Die Spitz",
     "summary": "Introducing the first batch of Vevo's Artists To Watch for 2027...\nSource",
     "category": "industry-news",
@@ -171,10 +251,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-11-22T03:59:08.265Z"
+    "fetchedAt": "2026-11-23T04:41:37.417Z"
   },
   {
-    "id": "news-1795319948265-24",
+    "id": "news-1795408897417-23",
     "title": "Duetti raises $665M, Warner posts a record $2B quarter… It’s MBW’s Weekly Round-Up",
     "summary": "This week, Duetti confirmed it had raised USD $665 million, with the round led by a Carlyle-anchored ABS. That wasn’t the only time Carlyle – perhaps best known in music to date for backing Scooter Braun’s Ithaca Holdings – appeared in MBW’s stories in recent days. The firm, which founded Litmus Music in 2022 and … Continued\nSource",
     "category": "industry-news",
@@ -187,10 +267,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-11-22T03:59:08.265Z"
+    "fetchedAt": "2026-11-23T04:41:37.417Z"
   },
   {
-    "id": "news-1795319948265-25",
+    "id": "news-1795408897417-24",
     "title": "NetEase Cloud Music’s Q3 revenues fell 0.9% YoY to $290m – after subscription revenues grew 5.3% in H1",
     "summary": "NetEase Cloud Music has re-signed with all three majors this year, but its subscription revenue growth has slowed to roughly a third of its pace a year earlier.\nSource",
     "category": "industry-news",
@@ -201,10 +281,10 @@
     "imageUrl": null,
     "tags": [],
     "readTime": 1,
-    "fetchedAt": "2026-11-22T03:59:08.265Z"
+    "fetchedAt": "2026-11-23T04:41:37.417Z"
   },
   {
-    "id": "news-1795319948265-13",
+    "id": "news-1795408897417-15",
     "title": "NVIDIA AI Releases Nemotron-Labs-Sigma, a Continuous Diffusion Language Model with 14 checkpoints at 3B/8B",
     "summary": "NVIDIA released Nemotron-Labs-Sigma, 14 open 3B and 8B continuous diffusion language model checkpoints. Sigma denoises text in a learned 16-D embedding space, distills to few-step samplers, and decodes up to 4.20x faster than autoregressive decoding.\nThe post NVIDIA AI Releases Nemotron-Labs-Sigma, a Continuous Diffusion Language Model with 14 checkpoints at 3B/8B appeared first on MarkTechPost.\n",
     "category": "tech-innovation",
@@ -217,10 +297,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-11-22T03:59:08.265Z"
+    "fetchedAt": "2026-11-23T04:41:37.417Z"
   },
   {
-    "id": "news-1795319948266-26",
+    "id": "news-1795408897417-25",
     "title": "Ex-Hipgnosis exec Alexander Bonavia launches Rendezvous Sound via JVs with Create-backed broke and Enhanced",
     "summary": "Create Music Group owns broke and acquired a 50% stake in Enhanced in December 2024.\nSource",
     "category": "industry-news",
@@ -231,87 +311,6 @@
     "imageUrl": null,
     "tags": [],
     "readTime": 1,
-    "fetchedAt": "2026-11-22T03:59:08.266Z"
-  },
-  {
-    "id": "news-1795319948265-18",
-    "title": "Muse Is Unleashing a World of Pettiness on Instagram",
-    "summary": "Meta’s AI assistant can track and unfollow Instagram users who don’t follow you back—and some people are taking full advantage.",
-    "category": "tech-innovation",
-    "source": "Wired AI",
-    "author": "Unknown",
-    "publishedAt": "2026-11-20T12:00:00.000Z",
-    "url": "https://www.wired.com/story/muse-is-unleashing-a-world-of-pettiness-on-instagram/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-11-22T03:59:08.265Z"
-  },
-  {
-    "id": "news-1795319948265-19",
-    "title": "This 16-Year-Old Founded an AI Missile Startup. He’s Targeting ‘Cost per Kill’",
-    "summary": "Henrijs Dandzbergs dropped out of high school to join startup accelerator Y Combinator. With a new breed of missile, he wants to make killing as efficient as possible for the US and its military allies.",
-    "category": "tech-innovation",
-    "source": "Wired AI",
-    "author": "Unknown",
-    "publishedAt": "2026-11-20T07:00:00.000Z",
-    "url": "https://www.wired.com/story/henrijs-dandzbergs-polemos-missiles-ai-warfare/",
-    "imageUrl": null,
-    "tags": [
-      "AI",
-      "Startup"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-11-22T03:59:08.265Z"
-  },
-  {
-    "id": "news-1795319948265-5",
-    "title": "Apple may be developing its own AI agent that runs your Mac",
-    "summary": "The iPhone maker appears to be building agents that can compete with the likes of Meta Muse, Instinct, Claude, and OpenAI Dots. ",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-11-20T00:56:01.000Z",
-    "url": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-11-22T03:59:08.265Z"
-  },
-  {
-    "id": "news-1795319948265-6",
-    "title": "Meta’s new Muse Charm device may cost $300",
-    "summary": "Meta hasn't denied the reporting from The Information, saying only that it will \"have more to share soon\" about its upcoming AI wearable.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-11-19T21:58:06.000Z",
-    "url": "https://techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-11-22T03:59:08.265Z"
-  },
-  {
-    "id": "news-1795319948265-20",
-    "title": "What’s With All These Outages?",
-    "summary": "This week on “Uncanny Valley,” we discuss the outages that have swept digital life over the past week, where new money from Anthropic’s IPO is going, and the AI chip world post-Jensen Huang.",
-    "category": "tech-innovation",
-    "source": "Wired AI",
-    "author": "Unknown",
-    "publishedAt": "2026-11-19T21:57:01.000Z",
-    "url": "https://www.wired.com/story/uncanny-valley-podcast-whats-with-all-these-outages/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-11-22T03:59:08.265Z"
+    "fetchedAt": "2026-11-23T04:41:37.417Z"
   }
 ]
