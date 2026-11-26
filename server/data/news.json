@@ -1,76 +1,283 @@
 [
   {
-    "id": "news-1795586470530-30",
-    "title": "‘A True Giant of the Music Industry’: King Charles Remembers Ian ‘Molly’ Meldrum And Their Infamous Interview",
-    "summary": "King Charles, Elton John, Duran Duran and many others pay tribute to the late Australian music icon.",
+    "id": "news-1795672476185-32",
+    "title": "Duran Duran’s Biggest Billboard Hits: ‘Rio,’ ‘Hungry Like the Wolf’ & More",
+    "summary": "The band sent 15 classics to the Hot 100’s top 40 in the 1980s and ‘90s.",
     "category": "industry-news",
     "source": "Billboard",
     "author": "Unknown",
-    "publishedAt": "2026-11-25T04:55:12.000Z",
-    "url": "https://www.billboard.com/music/music-news/king-charles-remembers-ian-molly-meldrum-1236389344/",
+    "publishedAt": "2026-11-25T23:53:32.000Z",
+    "url": "https://www.billboard.com/lists/duran-duran-biggest-billboard-hits/",
     "imageUrl": null,
     "tags": [],
     "readTime": 1,
-    "fetchedAt": "2026-11-25T06:01:10.530Z"
+    "fetchedAt": "2026-11-26T05:54:36.185Z"
   },
   {
-    "id": "news-1795586470530-31",
-    "title": "6 New Holiday Pop Songs From Hilary Duff, Olivia Rodrigo, Elton John & More for Your Christmas Party Playlist",
-    "summary": "On the new Pop Shop Podcast, Katie & Keith listen to a half-dozen new holiday songs to see if we should add them into the reindeer rotation.",
+    "id": "news-1795672476186-33",
+    "title": "‘Hunger Games’ Series Returns to No. 1 on Soundtracks Chart After More Than a Decade",
+    "summary": "The Hunger Games: Sunrise on the Reaping — with music by Noah Kahan, Ella Langley & more — bows atop the Soundtracks chart.",
     "category": "industry-news",
     "source": "Billboard",
     "author": "Unknown",
-    "publishedAt": "2026-11-25T04:18:54.000Z",
-    "url": "https://www.billboard.com/media/podcasts/holiday-pop-songs-hilary-duff-olivia-rodrigo-pop-shop-podcast-1236389093/",
+    "publishedAt": "2026-11-25T23:42:43.000Z",
+    "url": "https://www.billboard.com/music/chart-beat/hunger-games-sunrise-reaping-album-tops-soundtracks-chart-1236390012/",
     "imageUrl": null,
     "tags": [],
     "readTime": 1,
-    "fetchedAt": "2026-11-25T06:01:10.530Z"
+    "fetchedAt": "2026-11-26T05:54:36.186Z"
   },
   {
-    "id": "news-1795586470530-32",
-    "title": "Matthew Capper, Late Music Publishing Exec, Honored With New Award",
-    "summary": "The Matthew Capper Award recognizes \"individuals whose dedication and actions strengthen the music publishing community for future generations.\"",
+    "id": "news-1795672476186-34",
+    "title": "U2’s ‘Carnaval de Luz’ Debuts at No. 1 on 3 Billboard Album Charts",
+    "summary": "It arrives in the top 10 on seven charts in total, including the Billboard 200.",
     "category": "industry-news",
     "source": "Billboard",
     "author": "Unknown",
-    "publishedAt": "2026-11-25T03:42:50.000Z",
-    "url": "https://www.billboard.com/pro/matthew-capper-honored-annual-award/",
+    "publishedAt": "2026-11-25T22:57:07.000Z",
+    "url": "https://www.billboard.com/music/chart-beat/u2-carnaval-de-luz-number-1-billboard-charts-debut-1236389982/",
     "imageUrl": null,
     "tags": [],
     "readTime": 1,
-    "fetchedAt": "2026-11-25T06:01:10.530Z"
+    "fetchedAt": "2026-11-26T05:54:36.186Z"
   },
   {
-    "id": "news-1795586470530-33",
+    "id": "news-1795672476186-35",
     "title": "Billboard’s Music Industry Events Calendar",
     "summary": "A complete rundown of the most important events across the music business.",
     "category": "industry-news",
     "source": "Billboard",
     "author": "Unknown",
-    "publishedAt": "2026-11-25T00:46:00.000Z",
+    "publishedAt": "2026-11-25T21:55:00.000Z",
     "url": "https://www.billboard.com/pro/music-industry-events-calendar-festivals-awards-conferences/",
     "imageUrl": null,
     "tags": [],
     "readTime": 1,
-    "fetchedAt": "2026-11-25T06:01:10.530Z"
+    "fetchedAt": "2026-11-26T05:54:36.186Z"
   },
   {
-    "id": "news-1795586470531-34",
-    "title": "Dolly Parton Estate Reveals Creative Team That Will ‘Preserve and Carry Forward’ Her Legacy",
-    "summary": "The team will be led by Steve Summers, who worked with the music icon for more than 30 years. ",
+    "id": "news-1795672476186-36",
+    "title": "From Exception to the Norm: The Latin Boom That Redefined LOS40 in Spain, ‘Integrating Naturally’",
+    "summary": "How Latin American artists and genres went from occupying niche spaces to gaining significant traction in the European country.",
     "category": "industry-news",
     "source": "Billboard",
     "author": "Unknown",
-    "publishedAt": "2026-11-25T00:30:06.000Z",
-    "url": "https://www.billboard.com/pro/dolly-parton-estate-creative-team-star-legacy/",
+    "publishedAt": "2026-11-25T21:49:12.000Z",
+    "url": "https://www.billboard.com/music/latin/latin-boom-redefines-los40-spain-music-market-1236389915/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-11-26T05:54:36.186Z"
+  },
+  {
+    "id": "news-1795672476184-0",
+    "title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
+    "summary": "OpenAI will introduce a single usage meter across ChatGPT as it combines the Chat and Work experiences.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-11-25T20:03:27.000Z",
+    "url": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-11-26T05:54:36.184Z"
+  },
+  {
+    "id": "news-1795672476184-1",
+    "title": "Anthropic’s Dario Amodei calls accusations of surrendering human control to AI ‘absurd’",
+    "summary": "Anthropic CEO Dario Amodei pushes back against rivals’ accusations that he favors surrendering human agency to AI, even as leading AI companies increasingly automate their own research and model development.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-11-25T19:44:24.000Z",
+    "url": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/",
+    "imageUrl": null,
+    "tags": [
+      "AI",
+      "Research"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-11-26T05:54:36.184Z"
+  },
+  {
+    "id": "news-1795672476184-2",
+    "title": "Want to buy your kid an AI toy this Christmas? Not in New York",
+    "summary": "New York has banned AI chatbot toys for five years as new research from Common Sense Media reveals troubling safety failures, including exposure to inappropriate content and risks to emotional development.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-11-25T18:11:46.000Z",
+    "url": "https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/",
+    "imageUrl": null,
+    "tags": [
+      "AI",
+      "Research"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-11-26T05:54:36.184Z"
+  },
+  {
+    "id": "news-1795672476184-3",
+    "title": "Character.AI’s plan to auction off users’ private chats challenged by state AGs",
+    "summary": "The proposed Character.ai bankruptcy sale includes sensitive personal data from more than 21 million U.S. accounts, including 2.1 million registered to minors, the state AGs said.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-11-25T17:35:58.000Z",
+    "url": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-11-26T05:54:36.184Z"
+  },
+  {
+    "id": "news-1795672476185-26",
+    "title": "Musixmatch launches enhanced Pro for Artists platform, adding fan engagement analytics and lyric merch sales with ‘optional AI licensing coming soon’",
+    "summary": "Musixmatch has launched a new version of its Musixmatch Pro for Artists platform.\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-11-25T16:22:45.000Z",
+    "url": "https://www.musicbusinessworldwide.com/musixmatch-launches-enhanced-pro-for-artists-platform-adding-fan-engagement-analytics-and-lyric-merch-sales-with-optional-ai-licensing-coming-soon/",
+    "imageUrl": null,
+    "tags": [
+      "AI",
+      "Copyright"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-11-26T05:54:36.185Z"
+  },
+  {
+    "id": "news-1795672476185-27",
+    "title": "‘Our obsession with velocity and algorithms made the industry mistake ubiquity for legacy.’",
+    "summary": "MBW's Inspiring Women series meets Yusim Aladro, General Manager of Warner Music Mexico\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-11-25T15:51:39.000Z",
+    "url": "https://www.musicbusinessworldwide.com/our-obsession-with-velocity-and-algorithms-made-the-industry-mistake-ubiquity-for-legacy/",
     "imageUrl": null,
     "tags": [],
     "readTime": 1,
-    "fetchedAt": "2026-11-25T06:01:10.531Z"
+    "fetchedAt": "2026-11-26T05:54:36.185Z"
   },
   {
-    "id": "news-1795586470529-12",
+    "id": "news-1795672476184-4",
+    "title": "AI data centers are becoming harder to build, and neoclouds are feeling it",
+    "summary": "⁠Nvidia has made clear⁠ it won’t backstop an AI data center until it’s nearly ready to run, and that’s landing just as neoclouds report construction delays and more expensive debt. The message to developers is that land, power, and a finished building matter more than a pitch deck.  ⁠Anita Verma-Lallian⁠ has been selling exactly that. […]",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-11-25T15:41:43.000Z",
+    "url": "https://techcrunch.com/podcast/ai-data-centers-are-becoming-harder-to-build-and-neoclouds-are-feeling-it/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-11-26T05:54:36.184Z"
+  },
+  {
+    "id": "news-1795672476184-5",
+    "title": "Amazon and Meta reportedly in talks to lift blockade on AI agent Muse",
+    "summary": "Amazon and Meta are discussing a potential deal that would end a two-month-long blockade of Muse.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-11-25T14:10:18.000Z",
+    "url": "https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-11-26T05:54:36.184Z"
+  },
+  {
+    "id": "news-1795672476185-28",
+    "title": "Beatles attraction at former Apple Corps HQ where the band played final public concert approved by London’s Westminster City Council",
+    "summary": "Draft conditions in Westminster's planning papers reportedly included a ban on live music on the rooftop terrace.\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-11-25T13:01:20.000Z",
+    "url": "https://www.musicbusinessworldwide.com/beatles-attraction-at-former-apple-corps-hq-where-the-band-played-final-public-concert-approved-by-londons-westminster-city-council/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-11-26T05:54:36.185Z"
+  },
+  {
+    "id": "news-1795672476185-29",
+    "title": "Coachella sues Walmart for trademark infringement over unlicensed festival merch",
+    "summary": "The companies behind Coachella have sued Walmart for trademark infringement.\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-11-25T12:08:51.000Z",
+    "url": "https://www.musicbusinessworldwide.com/coachella-sues-walmart-for-trademark-infringement-over-unlicensed-festival-merch/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-11-26T05:54:36.185Z"
+  },
+  {
+    "id": "news-1795672476185-30",
+    "title": "Mary Bono asks appeals court to overturn Cher’s win in Sonny Bono song royalties fight, arguing Cher ‘already received nearly fifty years of royalties’",
+    "summary": "Sonny's widow says he couldn't sign away rights that didn't exist in his lifetime, and cites Cher's own testimony: \"I should get what I've always gotten.\"\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-11-25T11:34:50.000Z",
+    "url": "https://www.musicbusinessworldwide.com/mary-bono-asks-appeals-court-to-overturn-chers-win-in-sonny-bono-song-royalties-fight-arguing-cher-already-received-nearly-fifty-years-of-royalties/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-11-26T05:54:36.185Z"
+  },
+  {
+    "id": "news-1795672476185-22",
+    "title": "Airplane Turbulence Is Extremely Hard to Predict, but Maybe Not for Long",
+    "summary": "The “hardest remaining problem in classical physics” gets a boost from terabytes of crowdsourced data and new ways of using machine learning and AI.",
+    "category": "ai-research",
+    "source": "Wired AI",
+    "author": "Unknown",
+    "publishedAt": "2026-11-25T11:30:00.000Z",
+    "url": "https://www.wired.com/story/airplane-turbulence-is-extremely-hard-to-predict-and-avoid/",
+    "imageUrl": null,
+    "tags": [
+      "AI",
+      "Machine Learning"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-11-26T05:54:36.185Z"
+  },
+  {
+    "id": "news-1795672476185-31",
+    "title": "PRS for Music signs Roblox licensing deal – including royalty payments for songwriters",
+    "summary": "The deal follows PRS's legal action against Steam operator Valve in March over alleged unlicensed use of its members' music in games.\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-11-25T11:27:11.000Z",
+    "url": "https://www.musicbusinessworldwide.com/prs-for-music-signs-roblox-licensing-deal/",
+    "imageUrl": null,
+    "tags": [
+      "AI",
+      "Copyright"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-11-26T05:54:36.185Z"
+  },
+  {
+    "id": "news-1795672476185-14",
     "title": "Meet Facebook’s Your Algorithm: How Meta Turns Plain-Language Preferences Into Ranking",
     "summary": "Meta's engineering team explains how Facebook's Your Algorithm turns plain-language interests into ranking signals for Feed and Reels, using LLM validation, 4 retrieval sources, layered filtering and a fine-tuned LLM reranker.\nThe post Meet Facebook’s Your Algorithm: How Meta Turns Plain-Language Preferences Into Ranking appeared first on MarkTechPost.\n",
     "category": "ai-research",
@@ -83,10 +290,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-11-25T06:01:10.529Z"
+    "fetchedAt": "2026-11-26T05:54:36.185Z"
   },
   {
-    "id": "news-1795586470528-0",
+    "id": "news-1795672476185-6",
     "title": "Even the best AI agents struggle with everyday life",
     "summary": "As millions embrace personal AI assistants, a new benchmark reveals that even the most advanced AI models struggle to complete everyday tasks reliably and safely without introducing potential new problems.",
     "category": "ai-research",
@@ -99,218 +306,6 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-11-25T06:01:10.529Z"
-  },
-  {
-    "id": "news-1795586470529-1",
-    "title": "Walmart teams up with Meta to bring Black Friday deals to AI agent Muse",
-    "summary": "Walmart now lets customers shop Black Friday deals through Muse, Meta’s AI agent.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-11-24T21:32:38.000Z",
-    "url": "https://techcrunch.com/2026/11/24/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-muse/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-11-25T06:01:10.529Z"
-  },
-  {
-    "id": "news-1795586470529-2",
-    "title": "Maple raises $5.3M to build AI products that protect your data, even from itself",
-    "summary": "The startup's encrypted AI architecture is designed to prevent even the company itself from accessing users' private data.",
-    "category": "tech-innovation",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-11-24T21:19:52.000Z",
-    "url": "https://techcrunch.com/2026/11/24/maple-raises-5-3m-to-build-ai-products-that-protect-your-data-even-from-itself/",
-    "imageUrl": null,
-    "tags": [
-      "AI",
-      "Startup"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-11-25T06:01:10.529Z"
-  },
-  {
-    "id": "news-1795586470529-3",
-    "title": "Anthropic shares fall below IPO price, a worrying sign for AI startups",
-    "summary": "Anthropic’s post-IPO slump could put pressure on AI startup valuations.",
-    "category": "industry-news",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-11-24T18:30:42.000Z",
-    "url": "https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/",
-    "imageUrl": null,
-    "tags": [
-      "AI",
-      "Startup"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-11-25T06:01:10.529Z"
-  },
-  {
-    "id": "news-1795586470529-4",
-    "title": "UK warns AI-driven cyberattacks are exposing years of weak security",
-    "summary": "The British cyber agency says that \"building strong foundations has never mattered more\" as AI hacking tools rely on exploiting simple security flaws.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-11-24T18:02:59.000Z",
-    "url": "https://techcrunch.com/2026/11/24/uk-warns-ai-driven-cyberattacks-are-exposing-years-of-weak-security/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-11-25T06:01:10.529Z"
-  },
-  {
-    "id": "news-1795586470529-5",
-    "title": "Meta brings its Muse AI assistant directly into Instagram DMs",
-    "summary": "The new integration gets rid of the need for users to toggle between Instagram and the Muse app when they want to interact with the AI agent. ",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-11-24T17:00:00.000Z",
-    "url": "https://techcrunch.com/2026/11/24/meta-brings-its-muse-ai-assistant-directly-into-instagram-dms/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-11-25T06:01:10.529Z"
-  },
-  {
-    "id": "news-1795586470529-6",
-    "title": "Tidal to ban and remove millions of AI-generated tracks as AI slop inundates music streaming",
-    "summary": "The company said it will still accept songs that were made with AI assistance, but not fully generated.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-11-24T16:46:00.000Z",
-    "url": "https://techcrunch.com/2026/11/24/tidal-to-ban-and-remove-millions-of-ai-generated-tracks-as-ai-slop-inundates-music-streaming/",
-    "imageUrl": null,
-    "tags": [
-      "AI",
-      "Streaming"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-11-25T06:01:10.529Z"
-  },
-  {
-    "id": "news-1795586470529-7",
-    "title": "Why a Crusoe investor is betting on solar and batteries to power future AI data centers",
-    "summary": "Next-generation data centers will need tens of gigawatts of power every year. One of Crusoe's investors thinks solar and energy storage are the obvious choice.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-11-24T16:10:00.000Z",
-    "url": "https://techcrunch.com/2026/11/24/why-a-crusoe-investor-is-betting-on-solar-and-batteries-to-power-future-ai-data-centers/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-11-25T06:01:10.529Z"
-  },
-  {
-    "id": "news-1795586470530-23",
-    "title": "Tidal bans fully AI-generated music from its platform",
-    "summary": "Streaming service says it will reject and remove \"any wholly AI-generated track that's submitted to Tidal,\" starting on December 9.\nSource",
-    "category": "industry-news",
-    "source": "Music Business Worldwide",
-    "author": "Unknown",
-    "publishedAt": "2026-11-24T16:09:43.000Z",
-    "url": "https://www.musicbusinessworldwide.com/tidal-bans-fully-ai-generated-music-from-its-platform/",
-    "imageUrl": null,
-    "tags": [
-      "AI",
-      "Streaming"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-11-25T06:01:10.530Z"
-  },
-  {
-    "id": "news-1795586470529-8",
-    "title": "Pinterest will now let parents limit the AI-generated content their teens see",
-    "summary": "While other social platforms have focused on restricting teens' access to AI chatbots, Pinterest is addressing the AI content filling their feeds.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-11-24T16:02:37.000Z",
-    "url": "https://techcrunch.com/2026/11/24/pinterest-will-now-let-parents-limit-the-ai-generated-content-their-teens-see/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-11-25T06:01:10.529Z"
-  },
-  {
-    "id": "news-1795586470530-20",
-    "title": "Anthropic Created a Honeypot to Lure AI Agents Into Misbehaving",
-    "summary": "A new test assumes AI agents can go rogue—and asks whether they can resist temptation.",
-    "category": "tech-innovation",
-    "source": "Wired AI",
-    "author": "Unknown",
-    "publishedAt": "2026-11-24T16:00:00.000Z",
-    "url": "https://www.wired.com/story/ai-agents-can-get-honeypotted-too-aw/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-11-25T06:01:10.530Z"
-  },
-  {
-    "id": "news-1795586470530-24",
-    "title": "Dutch collecting society BumaStemra threatens legal action against AI background music supplier YourNeuroTune, alleging it uses Suno",
-    "summary": "YourNeuroTune is based in the Netherlands, and markets its catalog to gyms, hospitality venues, and retailers\nSource",
-    "category": "industry-news",
-    "source": "Music Business Worldwide",
-    "author": "Unknown",
-    "publishedAt": "2026-11-24T15:33:04.000Z",
-    "url": "https://www.musicbusinessworldwide.com/dutch-collecting-society-bumastemra-threatens-legal-action-against-ai-background-music-supplier-yourneurotune-alleging-it-uses-suno/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-11-25T06:01:10.530Z"
-  },
-  {
-    "id": "news-1795586470529-13",
-    "title": "OpenAI and Cisco Releases Shirudo: An Open-Source Linux Runtime Allowing Agents to Defend Systems Without Downtime",
-    "summary": "OpenAI and Cisco released Shirudo, a pre-release, BSD-licensed eBPF runtime for Linux. AI agents write signed \"shields\" that block exploit paths on running systems while teams test and roll out real patches.\nThe post OpenAI and Cisco Releases Shirudo: An Open-Source Linux Runtime Allowing Agents to Defend Systems Without Downtime appeared first on MarkTechPost.\n",
-    "category": "ai-research",
-    "source": "MarkTechPost",
-    "author": "Unknown",
-    "publishedAt": "2026-11-24T14:16:53.000Z",
-    "url": "https://www.marktechpost.com/2026/11/24/openai-cisco-shirudo-ebpf-linux-runtime/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-11-25T06:01:10.529Z"
-  },
-  {
-    "id": "news-1795586470530-25",
-    "title": "Judge denies Designer Shoe Warehouse bid to dismiss Warner Music’s social media copyright lawsuit",
-    "summary": "Warner's labels and publishers sued DSW on May 1, 2025\nSource",
-    "category": "industry-news",
-    "source": "Music Business Worldwide",
-    "author": "Unknown",
-    "publishedAt": "2026-11-24T13:37:11.000Z",
-    "url": "https://www.musicbusinessworldwide.com/judge-denies-designer-shoe-warehouse-bid-to-dismiss-warner-musics-social-media-copyright-lawsuit/",
-    "imageUrl": null,
-    "tags": [
-      "Copyright"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-11-25T06:01:10.530Z"
+    "fetchedAt": "2026-11-26T05:54:36.185Z"
   }
 ]
