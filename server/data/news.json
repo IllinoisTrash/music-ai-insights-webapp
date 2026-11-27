@@ -1,78 +1,248 @@
 [
   {
-    "id": "news-1795672476185-32",
-    "title": "Duran Duran’s Biggest Billboard Hits: ‘Rio,’ ‘Hungry Like the Wolf’ & More",
-    "summary": "The band sent 15 classics to the Hot 100’s top 40 in the 1980s and ‘90s.",
+    "id": "news-1795758515074-34",
+    "title": "Miranda Lambert Heats Up Halftime at Dallas Cowboys’ NFL Thanksgiving Game: Watch",
+    "summary": "The three-time Grammy Award-winning star delivered a nearly seven-minute medley -- with support from the Dallas Cowboys Cheerleaders, a full band and a strings section.",
     "category": "industry-news",
     "source": "Billboard",
     "author": "Unknown",
-    "publishedAt": "2026-11-25T23:53:32.000Z",
-    "url": "https://www.billboard.com/lists/duran-duran-biggest-billboard-hits/",
+    "publishedAt": "2026-11-27T04:58:09.000Z",
+    "url": "https://www.billboard.com/music/country/miranda-lambert-thanksgiving-nfl-halftime-show-dallas-1236390212/",
     "imageUrl": null,
     "tags": [],
     "readTime": 1,
-    "fetchedAt": "2026-11-26T05:54:36.185Z"
+    "fetchedAt": "2026-11-27T05:48:35.074Z"
   },
   {
-    "id": "news-1795672476186-33",
-    "title": "‘Hunger Games’ Series Returns to No. 1 on Soundtracks Chart After More Than a Decade",
-    "summary": "The Hunger Games: Sunrise on the Reaping — with music by Noah Kahan, Ella Langley & more — bows atop the Soundtracks chart.",
-    "category": "industry-news",
-    "source": "Billboard",
+    "id": "news-1795758515073-13",
+    "title": "nexos.ai AI Adoption Platform puts 200+ models behind one AI Gateway, with budget limits and governance built in",
+    "summary": "nexos.ai AI Adoption Platform puts 200+ models behind one AI Gateway, with budget limits and governance built in\nThe post nexos.ai AI Adoption Platform puts 200+ models behind one AI Gateway, with budget limits and governance built in appeared first on MarkTechPost.\n",
+    "category": "ai-research",
+    "source": "MarkTechPost",
     "author": "Unknown",
-    "publishedAt": "2026-11-25T23:42:43.000Z",
-    "url": "https://www.billboard.com/music/chart-beat/hunger-games-sunrise-reaping-album-tops-soundtracks-chart-1236390012/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-11-26T05:54:36.186Z"
-  },
-  {
-    "id": "news-1795672476186-34",
-    "title": "U2’s ‘Carnaval de Luz’ Debuts at No. 1 on 3 Billboard Album Charts",
-    "summary": "It arrives in the top 10 on seven charts in total, including the Billboard 200.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-11-25T22:57:07.000Z",
-    "url": "https://www.billboard.com/music/chart-beat/u2-carnaval-de-luz-number-1-billboard-charts-debut-1236389982/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-11-26T05:54:36.186Z"
-  },
-  {
-    "id": "news-1795672476186-35",
-    "title": "Billboard’s Music Industry Events Calendar",
-    "summary": "A complete rundown of the most important events across the music business.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-11-25T21:55:00.000Z",
-    "url": "https://www.billboard.com/pro/music-industry-events-calendar-festivals-awards-conferences/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-11-26T05:54:36.186Z"
-  },
-  {
-    "id": "news-1795672476186-36",
-    "title": "From Exception to the Norm: The Latin Boom That Redefined LOS40 in Spain, ‘Integrating Naturally’",
-    "summary": "How Latin American artists and genres went from occupying niche spaces to gaining significant traction in the European country.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-11-25T21:49:12.000Z",
-    "url": "https://www.billboard.com/music/latin/latin-boom-redefines-los40-spain-music-market-1236389915/",
+    "publishedAt": "2026-11-27T03:43:35.000Z",
+    "url": "https://www.marktechpost.com/2026/11/26/nexos-ai-ai-gateway-200-models-governance/",
     "imageUrl": null,
     "tags": [
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-11-26T05:54:36.186Z"
+    "fetchedAt": "2026-11-27T05:48:35.073Z"
   },
   {
-    "id": "news-1795672476184-0",
+    "id": "news-1795758515073-14",
+    "title": "Tencent Open-Sources DFly2: Speculative Decoding That Reuses the Target’s Sparse KV Cache",
+    "summary": "Tencent open-sourced DFly2, a speculative decoding drafter for sparse-attention LLMs. Each draft layer reuses the target's KV cache and top-k indexer picks, adding no draft KV memory and lifting 64K serving throughput by up to 81%.\nThe post Tencent Open-Sources DFly2: Speculative Decoding That Reuses the Target’s Sparse KV Cache appeared first on MarkTechPost.\n",
+    "category": "ai-research",
+    "source": "MarkTechPost",
+    "author": "Unknown",
+    "publishedAt": "2026-11-27T03:31:30.000Z",
+    "url": "https://www.marktechpost.com/2026/11/26/tencent-dfly2-speculative-decoding-sparse-models/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-11-27T05:48:35.073Z"
+  },
+  {
+    "id": "news-1795758515074-35",
+    "title": "Anuel AA’s ‘RHLM2’ Album Is Finally Here: ‘I Made It With My Heart and Soul’",
+    "summary": "The long-awaited album is a sequel to his 2018 debut, Real Hasta La Muerte, and his first in four years.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-11-27T00:00:00.000Z",
+    "url": "https://www.billboard.com/music/latin/anuel-aa-rhlm2-album-1236389833/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-11-27T05:48:35.074Z"
+  },
+  {
+    "id": "news-1795758515074-36",
+    "title": "Lana Del Rey Says New Albums Are ‘Getting Close’ to Completion: ‘I’m Happy With Them’",
+    "summary": "The singer-songwriter updated fans on Stove and its companion album, Spyda, while seemingly teasing cryptic lyrics.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-11-26T22:14:35.000Z",
+    "url": "https://www.billboard.com/music/music-news/lana-del-rey-new-albums-stove-spyda-update-1236390186/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-11-27T05:48:35.074Z"
+  },
+  {
+    "id": "news-1795758515073-15",
+    "title": "Sakana AI Releases Namazu Small, a 30B Model Built on Nemotron 3 Nano",
+    "summary": "Sakana AI released Sakana Namazu Small, a 30B-A3B reasoning model built on NVIDIA Nemotron 3 Nano. It averages 60.1 across 25 benchmarks, ahead of the 120B Nemotron 3 Super at 56.2.\nThe post Sakana AI Releases Namazu Small, a 30B Model Built on Nemotron 3 Nano appeared first on MarkTechPost.\n",
+    "category": "tech-innovation",
+    "source": "MarkTechPost",
+    "author": "Unknown",
+    "publishedAt": "2026-11-26T22:06:40.000Z",
+    "url": "https://www.marktechpost.com/2026/11/26/sakana-ai-namazu-small-30b-nemotron-3-nano/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-11-27T05:48:35.073Z"
+  },
+  {
+    "id": "news-1795758515074-37",
+    "title": "Goo Goo Dolls’ Halftime Show at the Chiefs vs. Bills Thanksgiving Game: Watch Online for Free",
+    "summary": "The game will take place on Thanksgiving Night (Nov. 26), with the rock band taking the stage at halftime. Fans can also tune in for a potential Taylor Swift and Hailee Steinfeld spotting.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-11-26T21:00:00.000Z",
+    "url": "https://www.billboard.com/culture/product-recommendations/goo-goo-dolls-halftime-chiefs-bills-thanksgiving-watch-free-1236389230/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-11-27T05:48:35.074Z"
+  },
+  {
+    "id": "news-1795758515074-38",
+    "title": "Where to Watch Jennifer Lopez’s Vegas Concert Film ‘The JLO Show’ Free Online",
+    "summary": "The two-hour concert film documents Jennifer Lopez's Las Vegas residency finale in March of this year and premieres on Thanksgiving at 8:00 p.m. ET/PT.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-11-26T21:00:00.000Z",
+    "url": "https://www.billboard.com/culture/product-recommendations/how-to-watch-jennifer-lopez-vegas-concert-film-free-online-1236390059/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-11-27T05:48:35.074Z"
+  },
+  {
+    "id": "news-1795758515074-39",
+    "title": "Feid and Snoop Dogg Drop Thanksgiving Collaboration ‘Gracias x Todo’",
+    "summary": "The two stars previewed the song at the 2026 Latin Grammy Awards.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-11-26T20:25:54.000Z",
+    "url": "https://www.billboard.com/music/music-news/feid-snoop-dogg-gracias-x-todo-thanksgiving-song-1236390180/",
+    "imageUrl": null,
+    "tags": [
+      "Partnership"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-11-27T05:48:35.074Z"
+  },
+  {
+    "id": "news-1795758515072-0",
+    "title": "Nvidia hits pause on chip shipments to Southeast Asia",
+    "summary": "Nvidia has told manufacturing partners to pause server shipments to Malaysia, Singapore, Thailand and Indonesia as the U.S. tightens its push to keep AI chips out of China.",
+    "category": "ai-research",
+    "source": "TechCrunch AI",
+    "author": "Unknown",
+    "publishedAt": "2026-11-26T20:03:54.000Z",
+    "url": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-11-27T05:48:35.072Z"
+  },
+  {
+    "id": "news-1795758515074-40",
+    "title": "Michael Giles, King Crimson Co-Founder and Original Drummer, Dies at 84",
+    "summary": "\"His unique contribution to the evolution of progressive music will never be forgotten,” the band's label wrote.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-11-26T18:52:35.000Z",
+    "url": "https://www.billboard.com/music/music-news/king-crimson-michael-giles-death-obituary-1236390176/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-11-27T05:48:35.074Z"
+  },
+  {
+    "id": "news-1795758515073-26",
+    "title": "Vevo dscvr artists to watch 2027: AZ Chike, 54 Ultra, Barry B, FreshMula",
+    "summary": "Introducing four more artists from Vevo's Artists To Watch 2027 roster...\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-11-26T11:56:22.000Z",
+    "url": "https://www.musicbusinessworldwide.com/vevo-dscvr-artists-to-watch-2027-az-chike-54-ultra-barry-b-freshmula/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-11-27T05:48:35.073Z"
+  },
+  {
+    "id": "news-1795758515073-27",
+    "title": "Matador secures worldwide rights to Belle and Sebastian’s complete catalog, licensing titles from the band and Bella Figura",
+    "summary": "The Beggars Group label first released the Glasgow band's music in the US in 1998.\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-11-26T11:56:09.000Z",
+    "url": "https://www.musicbusinessworldwide.com/matador-secures-worldwide-rights-to-belle-and-sebastians-complete-catalog-licensing-titles-from-the-band-and-bella-figura/",
+    "imageUrl": null,
+    "tags": [
+      "Copyright"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-11-27T05:48:35.073Z"
+  },
+  {
+    "id": "news-1795758515073-28",
+    "title": "Universal, Warner, and the BPI back charter to tackle barriers keeping people with dementia from accessing music",
+    "summary": "Only 3 in 10 older family caregivers can stream music with the person they care for, according to Music for Dementia.\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-11-26T11:55:27.000Z",
+    "url": "https://www.musicbusinessworldwide.com/universal-warner-and-the-bpi-back-charter-to-tackle-barriers-keeping-people-with-dementia-from-accessing-music/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-11-27T05:48:35.073Z"
+  },
+  {
+    "id": "news-1795758515073-29",
+    "title": "LiveOne is paying its Global Music Rights licensing fees in stock. If they aren’t covered within 90 days, GMR can terminate the license.",
+    "summary": "The filing landed eight days after CEO Robert Ellin told investors LiveOne was preparing for \"the biggest launch\" in its history.\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-11-26T11:55:06.000Z",
+    "url": "https://www.musicbusinessworldwide.com/liveone-is-paying-its-global-music-rights-licensing-fees-in-stock-if-they-arent-covered-within-90-days-gmr-can-terminate-the-license/",
+    "imageUrl": null,
+    "tags": [
+      "Copyright"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-11-27T05:48:35.073Z"
+  },
+  {
+    "id": "news-1795758515073-30",
+    "title": "ElevenLabs in early talks to raise at $33B valuation – more than six times that of AI music rival Suno (report)",
+    "summary": "ElevenLabs’ annual recurring revenue has reportedly hit USD $700 million, up from $600 million in September.\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-11-26T11:54:45.000Z",
+    "url": "https://www.musicbusinessworldwide.com/elevenlabs-in-early-talks-to-raise-at-33b-valuation-more-than-six-times-that-of-ai-music-rival-suno-report/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-11-27T05:48:35.073Z"
+  },
+  {
+    "id": "news-1795758515072-1",
     "title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
     "summary": "OpenAI will introduce a single usage meter across ChatGPT as it combines the Chat and Work experiences.",
     "category": "ai-research",
@@ -85,10 +255,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-11-26T05:54:36.184Z"
+    "fetchedAt": "2026-11-27T05:48:35.072Z"
   },
   {
-    "id": "news-1795672476184-1",
+    "id": "news-1795758515072-2",
     "title": "Anthropic’s Dario Amodei calls accusations of surrendering human control to AI ‘absurd’",
     "summary": "Anthropic CEO Dario Amodei pushes back against rivals’ accusations that he favors surrendering human agency to AI, even as leading AI companies increasingly automate their own research and model development.",
     "category": "ai-research",
@@ -102,10 +272,10 @@
       "Research"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-11-26T05:54:36.184Z"
+    "fetchedAt": "2026-11-27T05:48:35.072Z"
   },
   {
-    "id": "news-1795672476184-2",
+    "id": "news-1795758515072-3",
     "title": "Want to buy your kid an AI toy this Christmas? Not in New York",
     "summary": "New York has banned AI chatbot toys for five years as new research from Common Sense Media reveals troubling safety failures, including exposure to inappropriate content and risks to emotional development.",
     "category": "ai-research",
@@ -119,10 +289,10 @@
       "Research"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-11-26T05:54:36.184Z"
+    "fetchedAt": "2026-11-27T05:48:35.072Z"
   },
   {
-    "id": "news-1795672476184-3",
+    "id": "news-1795758515072-4",
     "title": "Character.AI’s plan to auction off users’ private chats challenged by state AGs",
     "summary": "The proposed Character.ai bankruptcy sale includes sensitive personal data from more than 21 million U.S. accounts, including 2.1 million registered to minors, the state AGs said.",
     "category": "ai-research",
@@ -135,177 +305,6 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-11-26T05:54:36.184Z"
-  },
-  {
-    "id": "news-1795672476185-26",
-    "title": "Musixmatch launches enhanced Pro for Artists platform, adding fan engagement analytics and lyric merch sales with ‘optional AI licensing coming soon’",
-    "summary": "Musixmatch has launched a new version of its Musixmatch Pro for Artists platform.\nSource",
-    "category": "industry-news",
-    "source": "Music Business Worldwide",
-    "author": "Unknown",
-    "publishedAt": "2026-11-25T16:22:45.000Z",
-    "url": "https://www.musicbusinessworldwide.com/musixmatch-launches-enhanced-pro-for-artists-platform-adding-fan-engagement-analytics-and-lyric-merch-sales-with-optional-ai-licensing-coming-soon/",
-    "imageUrl": null,
-    "tags": [
-      "AI",
-      "Copyright"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-11-26T05:54:36.185Z"
-  },
-  {
-    "id": "news-1795672476185-27",
-    "title": "‘Our obsession with velocity and algorithms made the industry mistake ubiquity for legacy.’",
-    "summary": "MBW's Inspiring Women series meets Yusim Aladro, General Manager of Warner Music Mexico\nSource",
-    "category": "industry-news",
-    "source": "Music Business Worldwide",
-    "author": "Unknown",
-    "publishedAt": "2026-11-25T15:51:39.000Z",
-    "url": "https://www.musicbusinessworldwide.com/our-obsession-with-velocity-and-algorithms-made-the-industry-mistake-ubiquity-for-legacy/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-11-26T05:54:36.185Z"
-  },
-  {
-    "id": "news-1795672476184-4",
-    "title": "AI data centers are becoming harder to build, and neoclouds are feeling it",
-    "summary": "⁠Nvidia has made clear⁠ it won’t backstop an AI data center until it’s nearly ready to run, and that’s landing just as neoclouds report construction delays and more expensive debt. The message to developers is that land, power, and a finished building matter more than a pitch deck.  ⁠Anita Verma-Lallian⁠ has been selling exactly that. […]",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-11-25T15:41:43.000Z",
-    "url": "https://techcrunch.com/podcast/ai-data-centers-are-becoming-harder-to-build-and-neoclouds-are-feeling-it/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-11-26T05:54:36.184Z"
-  },
-  {
-    "id": "news-1795672476184-5",
-    "title": "Amazon and Meta reportedly in talks to lift blockade on AI agent Muse",
-    "summary": "Amazon and Meta are discussing a potential deal that would end a two-month-long blockade of Muse.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-11-25T14:10:18.000Z",
-    "url": "https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-11-26T05:54:36.184Z"
-  },
-  {
-    "id": "news-1795672476185-28",
-    "title": "Beatles attraction at former Apple Corps HQ where the band played final public concert approved by London’s Westminster City Council",
-    "summary": "Draft conditions in Westminster's planning papers reportedly included a ban on live music on the rooftop terrace.\nSource",
-    "category": "industry-news",
-    "source": "Music Business Worldwide",
-    "author": "Unknown",
-    "publishedAt": "2026-11-25T13:01:20.000Z",
-    "url": "https://www.musicbusinessworldwide.com/beatles-attraction-at-former-apple-corps-hq-where-the-band-played-final-public-concert-approved-by-londons-westminster-city-council/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-11-26T05:54:36.185Z"
-  },
-  {
-    "id": "news-1795672476185-29",
-    "title": "Coachella sues Walmart for trademark infringement over unlicensed festival merch",
-    "summary": "The companies behind Coachella have sued Walmart for trademark infringement.\nSource",
-    "category": "industry-news",
-    "source": "Music Business Worldwide",
-    "author": "Unknown",
-    "publishedAt": "2026-11-25T12:08:51.000Z",
-    "url": "https://www.musicbusinessworldwide.com/coachella-sues-walmart-for-trademark-infringement-over-unlicensed-festival-merch/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-11-26T05:54:36.185Z"
-  },
-  {
-    "id": "news-1795672476185-30",
-    "title": "Mary Bono asks appeals court to overturn Cher’s win in Sonny Bono song royalties fight, arguing Cher ‘already received nearly fifty years of royalties’",
-    "summary": "Sonny's widow says he couldn't sign away rights that didn't exist in his lifetime, and cites Cher's own testimony: \"I should get what I've always gotten.\"\nSource",
-    "category": "industry-news",
-    "source": "Music Business Worldwide",
-    "author": "Unknown",
-    "publishedAt": "2026-11-25T11:34:50.000Z",
-    "url": "https://www.musicbusinessworldwide.com/mary-bono-asks-appeals-court-to-overturn-chers-win-in-sonny-bono-song-royalties-fight-arguing-cher-already-received-nearly-fifty-years-of-royalties/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-11-26T05:54:36.185Z"
-  },
-  {
-    "id": "news-1795672476185-22",
-    "title": "Airplane Turbulence Is Extremely Hard to Predict, but Maybe Not for Long",
-    "summary": "The “hardest remaining problem in classical physics” gets a boost from terabytes of crowdsourced data and new ways of using machine learning and AI.",
-    "category": "ai-research",
-    "source": "Wired AI",
-    "author": "Unknown",
-    "publishedAt": "2026-11-25T11:30:00.000Z",
-    "url": "https://www.wired.com/story/airplane-turbulence-is-extremely-hard-to-predict-and-avoid/",
-    "imageUrl": null,
-    "tags": [
-      "AI",
-      "Machine Learning"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-11-26T05:54:36.185Z"
-  },
-  {
-    "id": "news-1795672476185-31",
-    "title": "PRS for Music signs Roblox licensing deal – including royalty payments for songwriters",
-    "summary": "The deal follows PRS's legal action against Steam operator Valve in March over alleged unlicensed use of its members' music in games.\nSource",
-    "category": "industry-news",
-    "source": "Music Business Worldwide",
-    "author": "Unknown",
-    "publishedAt": "2026-11-25T11:27:11.000Z",
-    "url": "https://www.musicbusinessworldwide.com/prs-for-music-signs-roblox-licensing-deal/",
-    "imageUrl": null,
-    "tags": [
-      "AI",
-      "Copyright"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-11-26T05:54:36.185Z"
-  },
-  {
-    "id": "news-1795672476185-14",
-    "title": "Meet Facebook’s Your Algorithm: How Meta Turns Plain-Language Preferences Into Ranking",
-    "summary": "Meta's engineering team explains how Facebook's Your Algorithm turns plain-language interests into ranking signals for Feed and Reels, using LLM validation, 4 retrieval sources, layered filtering and a fine-tuned LLM reranker.\nThe post Meet Facebook’s Your Algorithm: How Meta Turns Plain-Language Preferences Into Ranking appeared first on MarkTechPost.\n",
-    "category": "ai-research",
-    "source": "MarkTechPost",
-    "author": "Unknown",
-    "publishedAt": "2026-11-24T23:06:17.000Z",
-    "url": "https://www.marktechpost.com/2026/11/24/meta-facebook-your-algorithm-llm-recommendations/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-11-26T05:54:36.185Z"
-  },
-  {
-    "id": "news-1795672476185-6",
-    "title": "Even the best AI agents struggle with everyday life",
-    "summary": "As millions embrace personal AI assistants, a new benchmark reveals that even the most advanced AI models struggle to complete everyday tasks reliably and safely without introducing potential new problems.",
-    "category": "ai-research",
-    "source": "TechCrunch AI",
-    "author": "Unknown",
-    "publishedAt": "2026-11-24T21:33:29.000Z",
-    "url": "https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-11-26T05:54:36.185Z"
+    "fetchedAt": "2026-11-27T05:48:35.072Z"
   }
 ]
