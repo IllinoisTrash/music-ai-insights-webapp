@@ -1,20 +1,96 @@
 [
   {
-    "id": "news-1795758515074-34",
-    "title": "Miranda Lambert Heats Up Halftime at Dallas Cowboys’ NFL Thanksgiving Game: Watch",
-    "summary": "The three-time Grammy Award-winning star delivered a nearly seven-minute medley -- with support from the Dallas Cowboys Cheerleaders, a full band and a strings section.",
+    "id": "news-1795843711551-35",
+    "title": "Olivia Rodrigo Shares Second Holiday Song ‘Miss This Christmas’ on Amazon Music",
+    "summary": "The new track follows the pop star’s debut holiday song, “Take Me Home (4 Christmas).”",
     "category": "industry-news",
     "source": "Billboard",
     "author": "Unknown",
-    "publishedAt": "2026-11-27T04:58:09.000Z",
-    "url": "https://www.billboard.com/music/country/miranda-lambert-thanksgiving-nfl-halftime-show-dallas-1236390212/",
+    "publishedAt": "2026-11-28T00:41:10.000Z",
+    "url": "https://www.billboard.com/music/pop/olivia-rodrigo-miss-this-christmas-amazon-music-1236390458/",
     "imageUrl": null,
     "tags": [],
     "readTime": 1,
-    "fetchedAt": "2026-11-27T05:48:35.074Z"
+    "fetchedAt": "2026-11-28T05:28:31.551Z"
   },
   {
-    "id": "news-1795758515073-13",
+    "id": "news-1795843711551-36",
+    "title": "Black Friday Deal: Amazon Marks Down AMC+ Subscription to Just $1.99/Month, A 75% Savings",
+    "summary": "For Black Friday, get AMC+ for cheap to stream The Walking Dead, Interview With the Vampire, Dark Winds, Gangs of London and original music programming.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-11-27T22:38:16.000Z",
+    "url": "https://www.billboard.com/culture/product-recommendations/amc-plus-2026-streaming-deals-black-friday-online-1236390413/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-11-28T05:28:31.551Z"
+  },
+  {
+    "id": "news-1795843711551-37",
+    "title": "FOX One Black Friday Deal: Here’s How to Save 75% Off a Streaming Subscription",
+    "summary": "Watch FOX, FOX News, FOX Sports, TMZ and original music programming for just $4.99 per month (was $19.99 per month).",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-11-27T21:01:26.000Z",
+    "url": "https://www.billboard.com/culture/product-recommendations/fox-one-2026-streaming-deals-black-friday-online-1236390396/",
+    "imageUrl": null,
+    "tags": [
+      "Streaming"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-11-28T05:28:31.551Z"
+  },
+  {
+    "id": "news-1795843711551-38",
+    "title": "Best Black Friday Audio Deals 2026: Save Up to 60% Off Bose, Apple & Beats, Sonos, Sony & More Online",
+    "summary": "Shop the best Black Friday headphones, earbuds, soundbars, turntables and other audio deals — save up to 60% off the top brands.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-11-27T20:09:20.000Z",
+    "url": "https://www.billboard.com/culture/product-recommendations/best-black-friday-2026-nov-audio-headphones-deals-online-1236390314/",
+    "imageUrl": null,
+    "tags": [],
+    "readTime": 1,
+    "fetchedAt": "2026-11-28T05:28:31.551Z"
+  },
+  {
+    "id": "news-1795843711551-39",
+    "title": "Goo Goo Dolls Fans Slam NBC Over Thanksgiving Halftime Show Snub: ‘Badly Handled’",
+    "summary": "The network aired just 90 seconds of the band's performance in favor of Aaron Rodgers coverage.",
+    "category": "industry-news",
+    "source": "Billboard",
+    "author": "Unknown",
+    "publishedAt": "2026-11-27T19:59:09.000Z",
+    "url": "https://www.billboard.com/music/music-news/goo-goo-dolls-fans-slam-thanksgiving-halftime-show-snub-1236390401/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-11-28T05:28:31.551Z"
+  },
+  {
+    "id": "news-1795843711551-22",
+    "title": "A New Breed of Chip Runs AI Models Using Waves of Light",
+    "summary": "German company Q.ANT is trying to cut the amount of energy required to run AI models by using light to perform the toughest calculations.",
+    "category": "ai-research",
+    "source": "Wired AI",
+    "author": "Unknown",
+    "publishedAt": "2026-11-27T07:00:00.000Z",
+    "url": "https://www.wired.com/story/a-new-breed-of-chip-runs-ai-models-using-waves-of-light/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-11-28T05:28:31.551Z"
+  },
+  {
+    "id": "news-1795843711550-13",
     "title": "nexos.ai AI Adoption Platform puts 200+ models behind one AI Gateway, with budget limits and governance built in",
     "summary": "nexos.ai AI Adoption Platform puts 200+ models behind one AI Gateway, with budget limits and governance built in\nThe post nexos.ai AI Adoption Platform puts 200+ models behind one AI Gateway, with budget limits and governance built in appeared first on MarkTechPost.\n",
     "category": "ai-research",
@@ -27,10 +103,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-11-27T05:48:35.073Z"
+    "fetchedAt": "2026-11-28T05:28:31.550Z"
   },
   {
-    "id": "news-1795758515073-14",
+    "id": "news-1795843711551-14",
     "title": "Tencent Open-Sources DFly2: Speculative Decoding That Reuses the Target’s Sparse KV Cache",
     "summary": "Tencent open-sourced DFly2, a speculative decoding drafter for sparse-attention LLMs. Each draft layer reuses the target's KV cache and top-k indexer picks, adding no draft KV memory and lifting 64K serving throughput by up to 81%.\nThe post Tencent Open-Sources DFly2: Speculative Decoding That Reuses the Target’s Sparse KV Cache appeared first on MarkTechPost.\n",
     "category": "ai-research",
@@ -41,40 +117,10 @@
     "imageUrl": null,
     "tags": [],
     "readTime": 1,
-    "fetchedAt": "2026-11-27T05:48:35.073Z"
+    "fetchedAt": "2026-11-28T05:28:31.551Z"
   },
   {
-    "id": "news-1795758515074-35",
-    "title": "Anuel AA’s ‘RHLM2’ Album Is Finally Here: ‘I Made It With My Heart and Soul’",
-    "summary": "The long-awaited album is a sequel to his 2018 debut, Real Hasta La Muerte, and his first in four years.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-11-27T00:00:00.000Z",
-    "url": "https://www.billboard.com/music/latin/anuel-aa-rhlm2-album-1236389833/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-11-27T05:48:35.074Z"
-  },
-  {
-    "id": "news-1795758515074-36",
-    "title": "Lana Del Rey Says New Albums Are ‘Getting Close’ to Completion: ‘I’m Happy With Them’",
-    "summary": "The singer-songwriter updated fans on Stove and its companion album, Spyda, while seemingly teasing cryptic lyrics.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-11-26T22:14:35.000Z",
-    "url": "https://www.billboard.com/music/music-news/lana-del-rey-new-albums-stove-spyda-update-1236390186/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-11-27T05:48:35.074Z"
-  },
-  {
-    "id": "news-1795758515073-15",
+    "id": "news-1795843711551-15",
     "title": "Sakana AI Releases Namazu Small, a 30B Model Built on Nemotron 3 Nano",
     "summary": "Sakana AI released Sakana Namazu Small, a 30B-A3B reasoning model built on NVIDIA Nemotron 3 Nano. It averages 60.1 across 25 benchmarks, ahead of the 120B Nemotron 3 Super at 56.2.\nThe post Sakana AI Releases Namazu Small, a 30B Model Built on Nemotron 3 Nano appeared first on MarkTechPost.\n",
     "category": "tech-innovation",
@@ -87,56 +133,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-11-27T05:48:35.073Z"
+    "fetchedAt": "2026-11-28T05:28:31.551Z"
   },
   {
-    "id": "news-1795758515074-37",
-    "title": "Goo Goo Dolls’ Halftime Show at the Chiefs vs. Bills Thanksgiving Game: Watch Online for Free",
-    "summary": "The game will take place on Thanksgiving Night (Nov. 26), with the rock band taking the stage at halftime. Fans can also tune in for a potential Taylor Swift and Hailee Steinfeld spotting.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-11-26T21:00:00.000Z",
-    "url": "https://www.billboard.com/culture/product-recommendations/goo-goo-dolls-halftime-chiefs-bills-thanksgiving-watch-free-1236389230/",
-    "imageUrl": null,
-    "tags": [
-      "AI"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-11-27T05:48:35.074Z"
-  },
-  {
-    "id": "news-1795758515074-38",
-    "title": "Where to Watch Jennifer Lopez’s Vegas Concert Film ‘The JLO Show’ Free Online",
-    "summary": "The two-hour concert film documents Jennifer Lopez's Las Vegas residency finale in March of this year and premieres on Thanksgiving at 8:00 p.m. ET/PT.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-11-26T21:00:00.000Z",
-    "url": "https://www.billboard.com/culture/product-recommendations/how-to-watch-jennifer-lopez-vegas-concert-film-free-online-1236390059/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-11-27T05:48:35.074Z"
-  },
-  {
-    "id": "news-1795758515074-39",
-    "title": "Feid and Snoop Dogg Drop Thanksgiving Collaboration ‘Gracias x Todo’",
-    "summary": "The two stars previewed the song at the 2026 Latin Grammy Awards.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-11-26T20:25:54.000Z",
-    "url": "https://www.billboard.com/music/music-news/feid-snoop-dogg-gracias-x-todo-thanksgiving-song-1236390180/",
-    "imageUrl": null,
-    "tags": [
-      "Partnership"
-    ],
-    "readTime": 1,
-    "fetchedAt": "2026-11-27T05:48:35.074Z"
-  },
-  {
-    "id": "news-1795758515072-0",
+    "id": "news-1795843711549-0",
     "title": "Nvidia hits pause on chip shipments to Southeast Asia",
     "summary": "Nvidia has told manufacturing partners to pause server shipments to Malaysia, Singapore, Thailand and Indonesia as the U.S. tightens its push to keep AI chips out of China.",
     "category": "ai-research",
@@ -149,24 +149,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-11-27T05:48:35.072Z"
+    "fetchedAt": "2026-11-28T05:28:31.550Z"
   },
   {
-    "id": "news-1795758515074-40",
-    "title": "Michael Giles, King Crimson Co-Founder and Original Drummer, Dies at 84",
-    "summary": "\"His unique contribution to the evolution of progressive music will never be forgotten,” the band's label wrote.",
-    "category": "industry-news",
-    "source": "Billboard",
-    "author": "Unknown",
-    "publishedAt": "2026-11-26T18:52:35.000Z",
-    "url": "https://www.billboard.com/music/music-news/king-crimson-michael-giles-death-obituary-1236390176/",
-    "imageUrl": null,
-    "tags": [],
-    "readTime": 1,
-    "fetchedAt": "2026-11-27T05:48:35.074Z"
-  },
-  {
-    "id": "news-1795758515073-26",
+    "id": "news-1795843711551-27",
     "title": "Vevo dscvr artists to watch 2027: AZ Chike, 54 Ultra, Barry B, FreshMula",
     "summary": "Introducing four more artists from Vevo's Artists To Watch 2027 roster...\nSource",
     "category": "industry-news",
@@ -177,10 +163,10 @@
     "imageUrl": null,
     "tags": [],
     "readTime": 1,
-    "fetchedAt": "2026-11-27T05:48:35.073Z"
+    "fetchedAt": "2026-11-28T05:28:31.551Z"
   },
   {
-    "id": "news-1795758515073-27",
+    "id": "news-1795843711551-28",
     "title": "Matador secures worldwide rights to Belle and Sebastian’s complete catalog, licensing titles from the band and Bella Figura",
     "summary": "The Beggars Group label first released the Glasgow band's music in the US in 1998.\nSource",
     "category": "industry-news",
@@ -193,10 +179,10 @@
       "Copyright"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-11-27T05:48:35.073Z"
+    "fetchedAt": "2026-11-28T05:28:31.551Z"
   },
   {
-    "id": "news-1795758515073-28",
+    "id": "news-1795843711551-29",
     "title": "Universal, Warner, and the BPI back charter to tackle barriers keeping people with dementia from accessing music",
     "summary": "Only 3 in 10 older family caregivers can stream music with the person they care for, according to Music for Dementia.\nSource",
     "category": "industry-news",
@@ -207,10 +193,10 @@
     "imageUrl": null,
     "tags": [],
     "readTime": 1,
-    "fetchedAt": "2026-11-27T05:48:35.073Z"
+    "fetchedAt": "2026-11-28T05:28:31.551Z"
   },
   {
-    "id": "news-1795758515073-29",
+    "id": "news-1795843711551-30",
     "title": "LiveOne is paying its Global Music Rights licensing fees in stock. If they aren’t covered within 90 days, GMR can terminate the license.",
     "summary": "The filing landed eight days after CEO Robert Ellin told investors LiveOne was preparing for \"the biggest launch\" in its history.\nSource",
     "category": "industry-news",
@@ -223,10 +209,10 @@
       "Copyright"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-11-27T05:48:35.073Z"
+    "fetchedAt": "2026-11-28T05:28:31.551Z"
   },
   {
-    "id": "news-1795758515073-30",
+    "id": "news-1795843711551-31",
     "title": "ElevenLabs in early talks to raise at $33B valuation – more than six times that of AI music rival Suno (report)",
     "summary": "ElevenLabs’ annual recurring revenue has reportedly hit USD $700 million, up from $600 million in September.\nSource",
     "category": "industry-news",
@@ -239,10 +225,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-11-27T05:48:35.073Z"
+    "fetchedAt": "2026-11-28T05:28:31.551Z"
   },
   {
-    "id": "news-1795758515072-1",
+    "id": "news-1795843711550-1",
     "title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
     "summary": "OpenAI will introduce a single usage meter across ChatGPT as it combines the Chat and Work experiences.",
     "category": "ai-research",
@@ -255,10 +241,10 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-11-27T05:48:35.072Z"
+    "fetchedAt": "2026-11-28T05:28:31.550Z"
   },
   {
-    "id": "news-1795758515072-2",
+    "id": "news-1795843711550-2",
     "title": "Anthropic’s Dario Amodei calls accusations of surrendering human control to AI ‘absurd’",
     "summary": "Anthropic CEO Dario Amodei pushes back against rivals’ accusations that he favors surrendering human agency to AI, even as leading AI companies increasingly automate their own research and model development.",
     "category": "ai-research",
@@ -272,10 +258,10 @@
       "Research"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-11-27T05:48:35.072Z"
+    "fetchedAt": "2026-11-28T05:28:31.550Z"
   },
   {
-    "id": "news-1795758515072-3",
+    "id": "news-1795843711550-3",
     "title": "Want to buy your kid an AI toy this Christmas? Not in New York",
     "summary": "New York has banned AI chatbot toys for five years as new research from Common Sense Media reveals troubling safety failures, including exposure to inappropriate content and risks to emotional development.",
     "category": "ai-research",
@@ -289,10 +275,10 @@
       "Research"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-11-27T05:48:35.072Z"
+    "fetchedAt": "2026-11-28T05:28:31.550Z"
   },
   {
-    "id": "news-1795758515072-4",
+    "id": "news-1795843711550-4",
     "title": "Character.AI’s plan to auction off users’ private chats challenged by state AGs",
     "summary": "The proposed Character.ai bankruptcy sale includes sensitive personal data from more than 21 million U.S. accounts, including 2.1 million registered to minors, the state AGs said.",
     "category": "ai-research",
@@ -305,6 +291,22 @@
       "AI"
     ],
     "readTime": 1,
-    "fetchedAt": "2026-11-27T05:48:35.072Z"
+    "fetchedAt": "2026-11-28T05:28:31.550Z"
+  },
+  {
+    "id": "news-1795843711551-32",
+    "title": "‘If the industry is going to be disrupted, I want to be at the forefront of whatever shapes its future.’",
+    "summary": "MBW's Trailblazers series meets Jaddan Comerford, Founder and CEO of Melbourne-headquartered independent music company UNIFIED Music Group\nSource",
+    "category": "industry-news",
+    "source": "Music Business Worldwide",
+    "author": "Unknown",
+    "publishedAt": "2026-11-25T17:00:24.000Z",
+    "url": "https://www.musicbusinessworldwide.com/if-the-industry-is-going-to-be-disrupted-i-want-to-be-at-the-forefront-of-whatever-shapes-its-future/",
+    "imageUrl": null,
+    "tags": [
+      "AI"
+    ],
+    "readTime": 1,
+    "fetchedAt": "2026-11-28T05:28:31.551Z"
   }
 ]
